@@ -5,6 +5,7 @@ Research ledger. Records are added as research is actually performed.
 | Research ID | Topic | Entities | Sources | Status | Target page | Last reviewed |
 |---|---|---|---|---|---|---|
 | R-001 | Agarwood 沉香 — terminology, grading (奇楠), botanical vs trade, adulteration | Agarwood · Aquilaria · 奇楠 | zh: vocus/nsteaset/sohu/baidu baike; en: Wikipedia/Me&Qi/China Daily/SilkwayOud | researched (notes) | /ingredients/agarwood/ | 2026-09-08 |
+| R-002 | Sandalwood 檀香 — botanical identity, evidence review vs SERP overclaiming | Sandalwood · Santalum · 檀香 | en DTC blogs (overclaim pattern) + enthusiast reviews | researched (notes) | /ingredients/sandalwood/ | 2026-09-08 |
 
 ## R-001 findings summary
 
@@ -21,6 +22,6 @@ Research ledger. Records are added as research is actually performed.
 | Priority | Topic | Why | Status |
 |---|---|---|---|
 | P0 | Verify 奇楠 etymology + color-grade hierarchy (S1/S2 source) | unresolved conflicts in R-001 | not started |
-| P1 | Sandalwood 檀香 — botanical vs trade identity, evidence review | high demand, overclaiming in SERP to correct | not started |
+| P1 | Sandalwood 檀香 — botanical vs trade identity, evidence review | high demand, overclaiming in SERP to correct | R-002 drafted; verify species substitution + run evidence sweep |
 | P1 | Chinese incense material classification framework | original taxonomy opportunity | not started |
 | P2 | 香道 terminology + cultural context (vs Japanese koh-do) | terminology gap | not started |
