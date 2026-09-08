@@ -44,6 +44,17 @@ Frankincense resin contains **boswellic acids** (notably AKBA), which are the su
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke. Do not consume resin based on traditional-medicine claims without professional guidance.
 
+## Frankincense vs myrrh
+
+Both are resins from the same plant family (Burseraceae), but from different genera:
+
+| | Frankincense (乳香) | Myrrh (没药) |
+|---|---|---|
+| Genus | *Boswellia* | *Commiphora* |
+| Aroma | Fresh, citrus, creamy | Bitter, balsamic, earthy |
+| Character | Bright, clean | Dark, heavy |
+| Traditional pairing | Often paired with myrrh | Often paired with frankincense |
+
 ## FAQ
 
 **What is the difference between frankincense and myrrh?** Both are resins from the same plant family (Burseraceae), but from different genera: frankincense comes from *Boswellia* (fresh, citrus, creamy), myrrh from *Commiphora* (bitter, balsamic, earthy). They are classically paired in Chinese tradition.

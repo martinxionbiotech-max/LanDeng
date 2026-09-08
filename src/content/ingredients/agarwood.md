@@ -75,6 +75,17 @@ In Chinese materia medica (本草), agarwood is traditionally described as "movi
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke; keep away from children and pets. See our safety guide.
 
+## Agarwood vs sandalwood
+
+Both are premium aromatic woods, but they form differently and smell different:
+
+| | Agarwood (沉香) | Sandalwood (檀香) |
+|---|---|---|
+| What it is | Resin-impregnated heartwood (forms after injury) | Fragrant heartwood (scent present in the living wood) |
+| Botanical source | *Aquilaria* spp. | *Santalum album* |
+| Aroma | Woody, resinous, sweet, complex | Creamy, sweet, soft, woody |
+| Key buying risk | Heavy adulteration (dyed / injected wood) | Species substitution (non-*album* "sandalwood") |
+
 ## FAQ
 
 **What is the difference between agarwood and 奇楠?** 奇楠 is the top grade of agarwood, distinguished by "oil wraps wood" (油包木) structure — soft, pliable, aromatic at room temperature — versus ordinary agarwood's "wood wraps oil" (木包油).
