@@ -15,4 +15,14 @@ const ingredients = defineCollection({
   }),
 });
 
-export const collections = { ingredients };
+const concepts = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/concepts' }),
+  schema: z.object({
+    title: z.string(),
+    entity: z.string(),
+    type: z.string(),
+    status: z.string(),
+  }),
+});
+
+export const collections = { ingredients, concepts };
