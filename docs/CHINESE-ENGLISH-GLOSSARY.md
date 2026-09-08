@@ -35,8 +35,12 @@ Canonical terminology ledger. One row per term. Chinese terms are the source of 
 | 塔香 | tǎxiāng | tower incense | incense cone | conical form |
 | 香丸 | xiāngwán | incense pellet | incense ball / pellet | kneaded ball |
 | 合香 | héxiāng | combined incense | blended incense (compound) | multi-ingredient formula |
-| 本草 | běncǎo | "root herb" | materia medica / pharmacopoeia | classical botanical-pharmaceutical tradition |
-| 芳香药材 | fāngxiāng yàocái | aromatic medicinal material | aromatic botanical material | medicinal-herb connotation — handle carefully (medical governance) |
+| 四般闲事 | sì bān xián shì | four kinds of leisure pursuits | the Four Leisure Arts | 烧香·点茶·挂画·插花 (incense·tea·scrolls·flowers) — Song literati canon | from 吴自牧《梦粱录》 |
+| 隔火焚香 | gé huǒ fén xiāng | incense over fire at a remove | indirect-fire incense | refined "scent-not-smoke" method; precursor of Japanese kodo | charcoal + silver/mica plate |
+| 篆香 | zhuàn xiāng | seal incense | seal incense (stamped powder) | powder pressed into pattern, burns on a timed path | also 打香印 |
+| 香谱 | xiāng pǔ | incense manual/register | incense manual | canonical texts (陈氏香谱/洪芻香谱/香乘) | mostly untranslated |
+| 博山炉 | bóshān lú | Mount Bo censer | Boshan censer | Han dynasty mountain-lid censer; incense goes ritual→aesthetic | |
+| 本草 | běncǎo | "root herb" | materia medica / pharmacopoeia | classical botanical-pharmaceutical tradition || 芳香药材 | fāngxiāng yàocái | aromatic medicinal material | aromatic botanical material | medicinal-herb connotation — handle carefully (medical governance) |
 
 | 沉香 | chénxiāng | sinking fragrance | agarwood / aloeswood | **agarwood** | resin-dense heartwood; best pieces sink in water | |
 | 奇楠 | qínán | (Sanskrit-derived; "black" vs "temple" — disputed) | kyara / top-grade agarwood | **qínán (kyara-grade agarwood)** | top grade; "oil wraps wood" 油包木; soft, aromatic at room temp | also 伽楠/伽罗/棋楠/琪楠/奇蓝 |

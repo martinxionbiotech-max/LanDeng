@@ -6,6 +6,7 @@ Research ledger. Records are added as research is actually performed.
 |---|---|---|---|---|---|---|
 | R-001 | Agarwood 沉香 — terminology, grading (奇楠), botanical vs trade, adulteration | Agarwood · Aquilaria · 奇楠 | zh: vocus/nsteaset/sohu/baidu baike; en: Wikipedia/Me&Qi/China Daily/SilkwayOud | researched (notes) | /ingredients/agarwood/ | 2026-09-08 |
 | R-002 | Sandalwood 檀香 — botanical identity, evidence review vs SERP overclaiming | Sandalwood · Santalum · 檀香 | en DTC blogs (overclaim pattern) + enthusiast reviews | researched (notes) | /ingredients/sandalwood/ | 2026-09-08 |
+| R-003 | Chinese incense 香/香道 — history, 四般闲事, 隔火焚香, 合香, 香谱, China-vs-Japan | Chinese incense · 香道 · 合香 | zh: 光明日报/merit-times/南山居/Scenter; en: Bifang/Cenisy/China Daily | researched (notes) | /chinese-incense/ | 2026-09-08 |
 
 ## R-001 findings summary
 
@@ -24,4 +25,4 @@ Research ledger. Records are added as research is actually performed.
 | P0 | Verify 奇楠 etymology + color-grade hierarchy (S1/S2 source) | unresolved conflicts in R-001 | not started |
 | P1 | Sandalwood 檀香 — botanical vs trade identity, evidence review | high demand, overclaiming in SERP to correct | R-002 drafted; verify species substitution + run evidence sweep |
 | P1 | Chinese incense material classification framework | original taxonomy opportunity | not started |
-| P2 | 香道 terminology + cultural context (vs Japanese koh-do) | terminology gap | not started |
+| P2 | 香道 terminology + cultural context (vs Japanese koh-do) | terminology gap | partially addressed by R-003; verify 香道 origin vs S1/S2 |
