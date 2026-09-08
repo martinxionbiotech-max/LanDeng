@@ -1,0 +1,344 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const ingredients = await getCollection('ingredients');
+
+  return ingredients.map((ingredient) => ({
+    params: { slug: ingredient.id },
+    props: { ingredient },
+  }));
+}
+
+const { ingredient } = Astro.props;
+const { Content } = await render(ingredient);
+
+const { title, chinese, pinyin, scientificName, type, aroma } = ingredient.data;
+const pageUrl = `${Astro.site?.toString() ?? 'https://example.com'}ingredients/${ingredient.id}/`;
+const aromaText = aroma.join(', ');
+const directAnswer = `${chinese} (${pinyin}) is an ${type} from ${scientificName}, with an aroma profile of ${aromaText}.`;
+
+const structuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    '@id': `${pageUrl}#webpage`,
+    name: title,
+    url: pageUrl,
+    description: directAnswer,
+    isPartOf: { '@id': `${Astro.site?.toString() ?? 'https://example.com'}#website` },
+    breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
+    mainEntity: { '@id': `${pageUrl}#definedterm` },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    '@id': `${pageUrl}#breadcrumb`,
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: `${Astro.site?.toString() ?? 'https://example.com'}`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Ingredients',
+        item: `${Astro.site?.toString() ?? 'https://example.com'}ingredients/`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: title,
+        item: pageUrl,
+      },
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTerm',
+    '@id': `${pageUrl}#definedterm`,
+    name: title,
+    alternateName: [chinese, pinyin, scientificName],
+    termCode: scientificName,
+    description: directAnswer,
+    inDefinedTermSet: {
+      '@type': 'DefinedTermSet',
+      name: 'LanDeng Chinese Botanical Incense Ingredient Encyclopedia',
+      url: `${Astro.site?.toString() ?? 'https://example.com'}ingredients/`,
+    },
+  },
+];
+---
+
+<BaseLayout
+  title={`${title} — LanDeng Ingredients`}
+  description={directAnswer}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+
+  <article class="entity-page">
+    <header class="entity-header">
+      <div class="shell prose">
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <a href="/">Home</a><span aria-hidden="true">/</span>
+          <a href="/ingredients/">Ingredients</a><span aria-hidden="true">/</span>
+          <span aria-current="page">{title}</span>
+        </nav>
+
+        <p class="entity-type">{type}</p>
+        <h1>{title}</h1>
+        <p class="entity-term">
+          <span lang="zh-Hans">{chinese}</span>
+          <span lang="zh-Latn-pinyin">{pinyin}</span>
+        </p>
+        <p class="entity-scientific" lang="la">{scientificName}</p>
+      </div>
+    </header>
+
+    <section class="direct-answer" aria-labelledby="direct-answer-title">
+      <div class="shell prose">
+        <p class="section-label" id="direct-answer-title">Direct answer</p>
+        <p class="direct-answer-text">{directAnswer}</p>
+      </div>
+    </section>
+
+    <section class="entity-facts" aria-labelledby="facts-title">
+      <div class="shell">
+        <h2 id="facts-title" class="section-title">Key facts</h2>
+        <dl class="fact-grid">
+          <div class="fact">
+            <dt>Chinese</dt>
+            <dd lang="zh-Hans">{chinese}</dd>
+          </div>
+          <div class="fact">
+            <dt>Pinyin</dt>
+            <dd lang="zh-Latn-pinyin">{pinyin}</dd>
+          </div>
+          <div class="fact">
+            <dt>Scientific name</dt>
+            <dd lang="la"><i>{scientificName}</i></dd>
+          </div>
+          <div class="fact">
+            <dt>Entity type</dt>
+            <dd>{type}</dd>
+          </div>
+          <div class="fact fact-wide">
+            <dt>Aroma profile</dt>
+            <dd>
+              <ul class="aroma-tags" aria-label="Aroma notes">
+                {aroma.map((note) => <li>{note}</li>)}
+              </ul>
+            </dd>
+          </div>
+        </dl>
+      </div>
+    </section>
+
+    <div class="shell article-layout">
+      <div class="prose article-body">
+        <Content />
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .entity-page {
+    width: 100%;
+  }
+
+  .entity-header {
+    padding-block: var(--space-6) var(--space-4);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: var(--space-4);
+    color: var(--ink-soft);
+    font-size: 0.88rem;
+  }
+
+  .breadcrumb a {
+    color: var(--ink-soft);
+  }
+
+  .entity-type {
+    margin: 0 0 var(--space-2);
+    color: var(--amber);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .entity-term {
+    margin: 0 0 var(--space-1);
+    font-family: var(--serif);
+    font-size: clamp(1.6rem, 4vw, 2.4rem);
+    line-height: 1.2;
+  }
+
+  .entity-term span {
+    display: block;
+  }
+
+  .entity-term span:last-child {
+    margin-top: var(--space-1);
+    color: var(--ink-soft);
+    font-size: 1rem;
+  }
+
+  .entity-scientific {
+    margin: 0;
+    color: var(--jade);
+    font-size: 1.05rem;
+  }
+
+  .direct-answer {
+    padding-block: var(--space-5);
+    background: var(--amber-soft);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .section-label {
+    margin: 0 0 var(--space-2);
+    color: var(--amber);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .direct-answer-text {
+    margin: 0;
+    font-family: var(--serif);
+    font-size: clamp(1.2rem, 2.6vw, 1.5rem);
+    line-height: 1.5;
+  }
+
+  .entity-facts {
+    padding-block: var(--space-5);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .section-title {
+    margin: 0 0 var(--space-3);
+    font-size: 1.65rem;
+  }
+
+  .fact-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--space-2);
+    margin: 0;
+  }
+
+  .fact {
+    padding: var(--space-3);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--paper-raise);
+  }
+
+  .fact-wide {
+    grid-column: 1 / -1;
+  }
+
+  .fact dt {
+    margin-bottom: var(--space-1);
+    color: var(--ink-soft);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .fact dd {
+    margin: 0;
+  }
+
+  .aroma-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .aroma-tags li {
+    padding: 0.3rem 0.65rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    color: var(--jade);
+    font-size: 0.9rem;
+  }
+
+  .article-layout {
+    padding-block: var(--space-6);
+  }
+
+  .article-body :global(h2) {
+    margin-top: var(--space-6);
+  }
+
+  .article-body :global(table) {
+    width: 100%;
+    margin: var(--space-3) 0;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+  }
+
+  .article-body :global(th),
+  .article-body :global(td) {
+    padding: 0.65rem 0.75rem;
+    border-bottom: 1px solid var(--line);
+    text-align: left;
+    vertical-align: top;
+  }
+
+  .article-body :global(th) {
+    color: var(--ink-soft);
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .article-body :global(blockquote) {
+    margin: var(--space-4) 0;
+    padding: var(--space-3) var(--space-4);
+    border-left: 3px solid var(--amber);
+    background: var(--paper-raise);
+    color: var(--ink-soft);
+  }
+
+  .article-body :global(blockquote p:last-child) {
+    margin-bottom: 0;
+  }
+
+  .article-body :global(a) {
+    color: var(--amber);
+  }
+
+  .article-body :global(hr) {
+    margin: var(--space-5) 0;
+    border: 0;
+    border-top: 1px solid var(--line);
+  }
+
+  @media (max-width: 46rem) {
+    .fact-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .fact-wide {
+      grid-column: auto;
+    }
+  }
+</style>

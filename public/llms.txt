@@ -1,0 +1,15 @@
+# LanDeng (澜灯)
+
+> A quiet, research-led English-language knowledge platform for Chinese botanical incense: its materials, botanicals, history, terminology, craft and culture.
+
+## Core pages
+
+- [Home](/): editorial homepage for LanDeng.
+- [Ingredients](/ingredients/): index of the ingredient encyclopedia.
+- [Agarwood (沉香 / Chen Xiang)](/ingredients/agarwood/): what agarwood is, its grades, and how to tell real from fake.
+
+## AI content notes
+
+- Entity pages expose machine-readable definitions (Chinese term, pinyin, scientific name, type, aroma profile).
+- Traditional knowledge and modern evidence are labeled separately.
+- No fabricated reviews, ratings, prices or authors appear on this site.

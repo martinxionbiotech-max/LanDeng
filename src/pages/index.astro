@@ -1,0 +1,257 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const ingredients = await getCollection('ingredients');
+const orderedIngredients = ingredients.sort((a, b) => a.data.title.localeCompare(b.data.title));
+const siteUrl = Astro.site?.toString() ?? 'https://example.com';
+
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  '@id': `${siteUrl}#organization`,
+  name: 'LanDeng',
+  alternateName: '澜灯',
+  url: siteUrl,
+  description:
+    'A research-led knowledge platform for Chinese botanical incense.',
+};
+
+const webSiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  '@id': `${siteUrl}#website`,
+  name: 'LanDeng',
+  alternateName: '澜灯',
+  url: siteUrl,
+  publisher: { '@id': `${siteUrl}#organization` },
+};
+---
+
+<BaseLayout
+  title="LanDeng 澜灯 — Chinese Botanical Incense Knowledge"
+  description="A research-led English-language knowledge platform documenting the botanicals, materials, history, terminology and craft of Chinese incense."
+>
+  <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(webSiteSchema)} />
+
+  <section class="hero">
+    <div class="shell hero-inner">
+      <p class="eyebrow">Chinese botanical incense · 香 · 熏香 · 合香</p>
+      <h1>澜灯 <span>LanDeng</span></h1>
+      <p class="lede">
+        A quiet, research-led knowledge platform for Chinese botanical incense:
+        its materials, botanicals, history, terminology, craft and culture.
+      </p>
+      <p class="hero-note">
+        LanDeng means “lantern on the waves” — a soft glow over still water.
+      </p>
+      <a class="text-link" href="/ingredients/">Explore ingredients <span aria-hidden="true">→</span></a>
+    </div>
+  </section>
+
+  <section class="section what-is">
+    <div class="shell prose">
+      <p class="section-label">What is Chinese botanical incense?</p>
+      <h2>A direct answer before a catalog</h2>
+      <p>
+        Chinese botanical incense is the craft of shaping and heating fragrant
+        plant materials — woods, resins, flowers, herbs and spices — into
+        sticks, cones, powders, sachets and other traditional forms. The focus
+        here is <em>knowledge first</em>: each ingredient begins with what it
+        is, how it is made, how it is graded, and how to tell quality from
+        adulteration.
+      </p>
+      <a class="text-link" href="/ingredients/">Browse the ingredient encyclopedia <span aria-hidden="true">→</span></a>
+    </div>
+  </section>
+
+  <section class="section explore">
+    <div class="shell">
+      <div class="section-heading">
+        <div>
+          <p class="section-label">Explore by entity</p>
+          <h2>Ingredients</h2>
+        </div>
+        <a class="text-link" href="/ingredients/">View all ingredients</a>
+      </div>
+
+      {
+        orderedIngredients.length > 0 ? (
+          <div class="card-grid">
+            {orderedIngredients.map((entry) => (
+              <a class="entity-card" href={`/ingredients/${entry.id}/`}>
+                <span class="card-kicker">{entry.data.type}</span>
+                <h3>{entry.data.chinese} <span>{entry.data.pinyin}</span></h3>
+                <p class="card-name">{entry.data.title}</p>
+                <p class="card-scientific">{entry.data.scientificName}</p>
+                <p class="aroma" aria-label="Aroma notes">
+                  {entry.data.aroma.join(' · ')}
+                </p>
+              </a>
+            ))}
+          </div>
+        ) : (
+          <p class="empty-note">Ingredient entries will appear here as they are published.</p>
+        )
+      }
+    </div>
+  </section>
+
+  <section class="section trust">
+    <div class="shell prose">
+      <p class="section-label">Editorial trust</p>
+      <h2>Source-transparent, never fabricated</h2>
+      <p>
+        LanDeng labels traditional knowledge and modern evidence separately, names
+        sources, and shows open questions rather than hiding them.
+      </p>
+      <ul class="trust-list">
+        <li>No fake reviews, ratings, prices or authors.</li>
+        <li>Traditional claims are not upgraded into scientific fact.</li>
+        <li>Entity pages expose machine-readable definitions for search and AI discovery.</li>
+      </ul>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    padding-block: clamp(4rem, 10vw, 8rem) clamp(3rem, 8vw, 6rem);
+  }
+
+  .hero-inner {
+    max-width: var(--max-prose);
+  }
+
+  .eyebrow,
+  .section-label,
+  .card-kicker {
+    margin: 0 0 var(--space-2);
+    color: var(--amber);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .hero h1 {
+    margin-bottom: var(--space-3);
+  }
+
+  .hero h1 span {
+    color: var(--ink-soft);
+    font-weight: 400;
+  }
+
+  .lede {
+    font-family: var(--serif);
+    font-size: clamp(1.25rem, 2.6vw, 1.65rem);
+    line-height: 1.45;
+  }
+
+  .hero-note {
+    color: var(--ink-soft);
+    font-size: 0.95rem;
+  }
+
+  .text-link {
+    display: inline-block;
+    margin-top: var(--space-2);
+    font-weight: 500;
+  }
+
+  .section {
+    padding-block: var(--space-6);
+    border-top: 1px solid var(--line);
+  }
+
+  .what-is {
+    background: var(--paper-raise);
+  }
+
+  .section-heading {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    gap: var(--space-3);
+    margin-bottom: var(--space-4);
+  }
+
+  .section-heading h2 {
+    margin: 0;
+  }
+
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    gap: var(--space-3);
+  }
+
+  .entity-card {
+    display: flex;
+    flex-direction: column;
+    min-height: 13rem;
+    padding: var(--space-4);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--paper-raise);
+    color: var(--ink);
+    text-decoration: none;
+    transition: border-color 180ms ease, transform 180ms ease;
+  }
+
+  .entity-card:hover {
+    border-color: var(--amber);
+    transform: translateY(-2px);
+  }
+
+  .entity-card h3 {
+    margin: 0 0 var(--space-1);
+    font-size: 1.9rem;
+  }
+
+  .entity-card h3 span {
+    color: var(--ink-soft);
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  .card-name {
+    margin: 0 0 var(--space-1);
+    color: var(--ink-soft);
+  }
+
+  .card-scientific {
+    margin: 0 0 var(--space-3);
+    color: var(--jade);
+    font-style: italic;
+    font-size: 0.95rem;
+  }
+
+  .aroma {
+    margin: auto 0 0;
+    color: var(--ink-soft);
+    font-size: 0.9rem;
+    letter-spacing: 0.02em;
+  }
+
+  .trust-list {
+    padding-left: 1.2rem;
+  }
+
+  .trust-list li {
+    margin-bottom: var(--space-1);
+  }
+
+  .empty-note {
+    color: var(--ink-soft);
+  }
+
+  @media (max-width: 44rem) {
+    .section-heading {
+      align-items: start;
+      flex-direction: column;
+    }
+  }
+</style>
