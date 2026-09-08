@@ -7,6 +7,9 @@
 - [Home](/): editorial homepage for LanDeng.
 - [Chinese Incense (香 / Xiang)](/chinese-incense/): what Chinese incense is — history, the Four Leisure Arts, and the way of incense (香道).
 - [Ingredients](/ingredients/): index of the ingredient encyclopedia.
+- [Wholesale](/wholesale/): wholesale inquiries for Chinese botanical incense.
+- [OEM & Private Label](/oem/): OEM and private-label development.
+- [Contact](/contact/): samples, quotes, wholesale and OEM inquiries.
 
 ## Ingredient encyclopedia
 
@@ -29,6 +32,7 @@
 
 ## Machine-readable data
 
+- [Ingredient dataset](/data/ingredients.json): 16 ingredient entities (Schema.org Dataset / DefinedTerm).
 - [Terminology dataset](/data/terminology.json): 28 Chinese–English incense terms (Schema.org Dataset / DefinedTerm).
 
 ## AI content notes
