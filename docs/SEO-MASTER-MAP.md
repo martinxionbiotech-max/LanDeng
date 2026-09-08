@@ -39,4 +39,10 @@ Single ledger mapping **demand → intent → entity → page**. One row per val
 | incense wholesale | commercial | Wholesale | Commercial | /wholesale/ | proposed |
 | private label incense manufacturer | commercial | OEM | Commercial | /oem/ | proposed |
 
+## Research-informed refinements (2026-09-08)
+
+- **Agarwood** is the highest-value P0 entity: strong demand + the clearest Chinese/English gap (奇楠 vs 沉香, 沉水 grading, 油包木 vs 木包油, adulteration). Original angle: an English resource that explains Chinese grading/terminology authoritatively + honest buyer-authentication guidance.
+- **Sandalwood** opportunity is **evidence governance**, not "more benefits content": the SERP is flooded with unproven health claims — we differentiate by honest traditional-use-vs-evidence framing.
+- **"chinese incense" pillar**: the SERP is thin retail blogs; a genuinely authoritative encyclopedia with entity depth + first-party data is the gap.
+
 > **Do not mass-expand this list.** Each row is validated individually (demand + information gap + originality + commercial relevance) before any page is created.

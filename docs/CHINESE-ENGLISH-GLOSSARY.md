@@ -38,4 +38,16 @@ Canonical terminology ledger. One row per term. Chinese terms are the source of 
 | 本草 | běncǎo | "root herb" | materia medica / pharmacopoeia | classical botanical-pharmaceutical tradition |
 | 芳香药材 | fāngxiāng yàocái | aromatic medicinal material | aromatic botanical material | medicinal-herb connotation — handle carefully (medical governance) |
 
+| 沉香 | chénxiāng | sinking fragrance | agarwood / aloeswood | **agarwood** | resin-dense heartwood; best pieces sink in water | |
+| 奇楠 | qínán | (Sanskrit-derived; "black" vs "temple" — disputed) | kyara / top-grade agarwood | **qínán (kyara-grade agarwood)** | top grade; "oil wraps wood" 油包木; soft, aromatic at room temp | also 伽楠/伽罗/棋楠/琪楠/奇蓝 |
+| 沉水 | chénshuǐ | sink in water | (grade) sinking | **sinking grade** | highest resin density; sinks in water | |
+| 半沉半浮 | bànchénbànfú | half-sink half-float | (grade) semi-sinking | semi-sinking grade | medium resin | |
+| 白木香 | báimùxiāng | white-wood fragrance | Chinese agarwood | **Aquilaria sinensis** | botanical name for Chinese agarwood tree | |
+| 熟结 | shújié | ripe formation | (formation type) | mature-formed | resin formed, tree died + buried/aged | |
+| 生结 | shēngjié | raw formation | (formation type) | live-formed | resin formed on living tree | |
+| 虫漏 | chónglòu | insect leak | (formation type) | insect-bored | resin via insect boring | |
+| 脱落 | tuōluò | fall-off | (formation type) | detached/wounded | resin via external wound | |
+
+**奇楠 five color grades** (白/绿/紫/黄/黑 — white/green/purple/yellow/black). Hierarchy disputed (aging stages vs distinct grades) — do not publish as settled fact until verified against an S1/S2 source.
+
 > Terminology is expanded continuously from research. **Never invent a Chinese term or translation** — every row needs a source.
