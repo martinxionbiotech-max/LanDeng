@@ -43,7 +43,7 @@ Chinese incense sits between **Indian agarbatti** (bold, expressive) and **Japan
 
 ## Conflicts / uncertainty
 - "3,000 vs 5,000 years" history claims vary; earliest material evidence is oracle-bone 香 (Shang), with ritual incense clear from Han. Use a conservative, sourced framing (not "5,000 years" as fact).
-- "香道 originated in China vs Japan" — factually China is the source, but Japan preserved/systemized the form; phrase precisely to avoid overclaiming.
+- "香道 originated in China vs Japan" — **RESOLVED (high confidence)**: multiple S2 sources (光明日报, Feuerle Collection, merit-times) confirm Chinese incense culture predates Japanese kodo, and Japan's kodo evolved from the Song technique 隔火焚香. Precise phrasing: "Chinese incense culture is the historical source; Japan systematized and preserved the form as kodo."
 
 ## Sources
 | Source | Type | Lang | Note |

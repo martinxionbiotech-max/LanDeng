@@ -40,7 +40,7 @@ Common fakes: oil-boiling (煮油), high-pressure oil injection (高压灌油), 
 Chinese sources (本草纲目) attribute "行气止痛，温中降逆，补五脏" (move qi, relieve pain, warm the middle, tonify). **This is traditional materia-medica language, NOT modern clinical evidence.** Any published content must classify these as TRADITIONAL_BELIEF / HISTORICAL_RECORD, never as therapeutic fact. We do **not** repeat "boosts immunity / improves heart" as if proven.
 
 ## Conflicts / uncertainty
-- 奇楠 name etymology: "black" (梵语) vs "temple/伽蓝" — disputed across sources.
+- 奇楠 name etymology: **still DISPUTED after verification** — three theories: (1) Sanskrit **Kāla** (काल) "black/time" (taobao/vocus); (2) Sanskrit **tagara** "a fragrant plant" shortened to 伽罗/伽楠 (sohu); (3) "temple / 伽蓝" (baidu baike). A more rigorous 考证 (zhihu) argues 伽罗/多伽罗 (tagara) is a **mis-translation** — the Sanskrit word for agarwood is **agaru / aguru**, not tagara. → **Publish as "etymology uncertain; multiple theories" — do not assert one.**
 - 奇楠 color-grade hierarchy: whether 紫棋/黄棋 are distinct grades or aging stages of 绿棋 — sources disagree.
 - "奇楠 sinks or floats": some sources say top 奇楠 is 半沉半浮 (not 沉水) because its resin is soft/evenly distributed — contradicts the "sinking = best" rule for ordinary agarwood. **This is a genuine distinction English content misses.**
 
