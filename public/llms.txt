@@ -5,8 +5,31 @@
 ## Core pages
 
 - [Home](/): editorial homepage for LanDeng.
+- [Chinese Incense (香 / Xiang)](/chinese-incense/): what Chinese incense is — history, the Four Leisure Arts, and the way of incense (香道).
 - [Ingredients](/ingredients/): index of the ingredient encyclopedia.
-- [Agarwood (沉香 / Chen Xiang)](/ingredients/agarwood/): what agarwood is, its grades, and how to tell real from fake.
+
+## Ingredient encyclopedia
+
+- [Agarwood (沉香 / Chen Xiang)](/ingredients/agarwood/)
+- [Sandalwood (檀香 / Tan Xiang)](/ingredients/sandalwood/)
+- [Mugwort (艾草 / Ai Cao)](/ingredients/mugwort/)
+- [Osmanthus (桂花 / Gui Hua)](/ingredients/osmanthus/)
+- [Frankincense (乳香 / Ru Xiang)](/ingredients/frankincense/)
+- [Myrrh (没药 / Mo Yao)](/ingredients/myrrh/)
+- [Jasmine (茉莉 / Mo Li)](/ingredients/jasmine/)
+- [Rose (玫瑰 / Mei Gui)](/ingredients/rose/)
+- [Cedar (雪松 / Xue Song)](/ingredients/cedar/)
+- [Clove (丁香 / Ding Xiang)](/ingredients/clove/)
+- [Cinnamon (桂皮 / Gui Pi)](/ingredients/cinnamon/)
+- [Orange Peel / Chenpi (陈皮)](/ingredients/orange-peel/)
+- [Vetiver (岩兰草 / Yan Lan Cao)](/ingredients/vetiver/)
+- [Patchouli (广藿香 / Guang Huo Xiang)](/ingredients/patchouli/)
+- [Chrysanthemum (菊花 / Ju Hua)](/ingredients/chrysanthemum/)
+- [Benzoin (安息香 / An Xi Xiang)](/ingredients/benzoin/)
+
+## Machine-readable data
+
+- [Terminology dataset](/data/terminology.json): 28 Chinese–English incense terms (Schema.org Dataset / DefinedTerm).
 
 ## AI content notes
 
