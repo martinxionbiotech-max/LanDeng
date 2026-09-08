@@ -1,0 +1,134 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://landeng.example/data/terminology.json",
+  "name": "LanDeng Chinese Incense Terminology (Chinese–English)",
+  "description": "Canonical Chinese–English terminology for Chinese botanical incense, compiled by LanDeng (澜灯). Chinese terms are the source of truth; English is the agreed translation. One Chinese word does not always map to one English word.",
+  "url": "https://landeng.example/data/terminology.json",
+  "publisher": { "@id": "https://landeng.example/#organization" },
+  "dateModified": "2026-09-08",
+  "inLanguage": ["en", "zh"],
+  "isAccessibleForFree": true,
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://landeng.example/data/terminology.json"
+  },
+  "mainEntity": [
+    { "@type": "DefinedTerm", "termCode": "xiang", "name": "香", "description": "Ambiguous: means both 'fragrant' and 'incense'. Preferred English: incense (context-dependent).", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "xiāng" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "fragrance / incense" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "incense" } ] },
+    { "@type": "DefinedTerm", "termCode": "xiangdao", "name": "香道", "description": "The ceremonial appreciation of incense. Preferred English: the way of incense / incense ceremony.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "xiāngdào" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "way of incense" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "the way of incense" },
+      { "@type": "PropertyValue", "name": "Misinterpretation risk", "value": "Often assumed to be Japanese; it originated in China" } ] },
+    { "@type": "DefinedTerm", "termCode": "xiangnang", "name": "香囊", "description": "A small scented pouch, worn or carried. Preferred English: incense sachet / sachet.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "xiāngnáng" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "fragrance pouch" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "incense sachet" } ] },
+    { "@type": "DefinedTerm", "termCode": "xianglu", "name": "香炉", "description": "The vessel used for burning incense. Preferred English: incense burner / censer.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "xiānglú" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "incense stove" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "incense burner / censer" } ] },
+    { "@type": "DefinedTerm", "termCode": "xiangcai", "name": "香材", "description": "Raw incense material (wood, resin, herb). Preferred English: incense material.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "xiāngcái" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "incense material" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "incense material" } ] },
+    { "@type": "DefinedTerm", "termCode": "xiangliao", "name": "香料", "description": "Aromatic / fragrance ingredient. Preferred English: aromatic ingredient.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "xiāngliào" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "fragrance ingredient" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "aromatic ingredient" } ] },
+    { "@type": "DefinedTerm", "termCode": "xunxiang", "name": "熏香", "description": "Incense that is burned/fumigated. Preferred English: burning incense.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "xūnxiāng" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "smoke-fragrance" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "burning incense" } ] },
+    { "@type": "DefinedTerm", "termCode": "xianxiang", "name": "线香", "description": "The common stick form. Preferred English: incense stick.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "xiànxiāng" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "thread incense" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "incense stick" } ] },
+    { "@type": "DefinedTerm", "termCode": "panxiang", "name": "盘香", "description": "Coiled/spiral incense. Preferred English: incense coil.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "pánxiāng" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "coil incense" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "incense coil" } ] },
+    { "@type": "DefinedTerm", "termCode": "taxiang", "name": "塔香", "description": "Conical incense. Preferred English: incense cone.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "tǎxiāng" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "tower incense" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "incense cone" } ] },
+    { "@type": "DefinedTerm", "termCode": "xiangwan", "name": "香丸", "description": "Kneaded incense pellet. Preferred English: incense ball / pellet.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "xiāngwán" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "incense pellet" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "incense pellet" } ] },
+    { "@type": "DefinedTerm", "termCode": "hexiang", "name": "合香", "description": "Multi-ingredient compound incense, built on a chief/minister/assistant/guide formula principle. Preferred English: blended incense (compound).", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "héxiāng" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "combined incense" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "blended incense" } ] },
+    { "@type": "DefinedTerm", "termCode": "sibanxianshi", "name": "四般闲事", "description": "The Four Leisure Arts of the Song literati: incense (烧香), tea (点茶), hanging scrolls (挂画), flower arranging (插花). Source: 吴自牧《梦粱录》.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "sì bān xián shì" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "four kinds of leisure pursuits" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "the Four Leisure Arts" } ] },
+    { "@type": "DefinedTerm", "termCode": "gehuofenxiang", "name": "隔火焚香", "description": "Indirect-fire incense: hot charcoal buried in ash with a silver/mica plate above, material rested on top — no flame, minimal smoke. Precursor of Japanese kodo.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "gé huǒ fén xiāng" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "incense over fire at a remove" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "indirect-fire incense" } ] },
+    { "@type": "DefinedTerm", "termCode": "zhuanxiang", "name": "篆香", "description": "Seal incense: powder pressed into a pattern and burned along a timed path. Preferred English: seal incense (stamped powder).", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "zhuàn xiāng" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "seal incense" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "seal incense" } ] },
+    { "@type": "DefinedTerm", "termCode": "xiangpu", "name": "香谱", "description": "Canonical incense manuals (陈氏香谱, 洪芻香谱, 新纂香谱, 周嘉胄《香乘》). Preferred English: incense manual.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "xiāng pǔ" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "incense manual/register" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "incense manual" } ] },
+    { "@type": "DefinedTerm", "termCode": "boshanlu", "name": "博山炉", "description": "Han dynasty mountain-lid censer; marks incense moving from ritual to aesthetic. Preferred English: Boshan censer.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "bóshān lú" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "Mount Bo censer" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "Boshan censer" } ] },
+    { "@type": "DefinedTerm", "termCode": "bencao", "name": "本草", "description": "Classical botanical-pharmaceutical tradition (materia medica). Preferred English: materia medica / pharmacopoeia.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "běncǎo" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "root herb" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "materia medica" } ] },
+    { "@type": "DefinedTerm", "termCode": "fangxiangyaocai", "name": "芳香药材", "description": "Aromatic botanical material with a medicinal-herb connotation (handle with care under medical governance). Preferred English: aromatic botanical material.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "fāngxiāng yàocái" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "aromatic medicinal material" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "aromatic botanical material" } ] },
+    { "@type": "DefinedTerm", "termCode": "chenxiang", "name": "沉香", "description": "Resin-dense agarwood heartwood; the best pieces sink in water. Preferred English: agarwood.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "chénxiāng" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "sinking fragrance" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "agarwood" } ] },
+    { "@type": "DefinedTerm", "termCode": "qinan", "name": "奇楠", "description": "Top grade of agarwood ('oil wraps wood'), soft and aromatic at room temperature. Preferred English: qínán (kyara-grade agarwood).", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "qínán" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "Sanskrit-derived (disputed etymology)" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "qínán (kyara-grade agarwood)" },
+      { "@type": "PropertyValue", "name": "Alternate forms", "value": "伽楠 / 伽罗 / 棋楠 / 琪楠 / 奇蓝" } ] },
+    { "@type": "DefinedTerm", "termCode": "chenshui", "name": "沉水", "description": "Sinking grade — highest resin density (sinks in water).", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "chénshuǐ" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "sink in water" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "sinking grade" } ] },
+    { "@type": "DefinedTerm", "termCode": "banchenbanfu", "name": "半沉半浮", "description": "Semi-sinking grade — medium resin content.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "bànchénbànfú" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "half-sink half-float" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "semi-sinking grade" } ] },
+    { "@type": "DefinedTerm", "termCode": "baimuxiang", "name": "白木香", "description": "Botanical name for the Chinese agarwood tree (Aquilaria sinensis).", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "báimùxiāng" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "white-wood fragrance" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "Aquilaria sinensis" } ] },
+    { "@type": "DefinedTerm", "termCode": "shujie", "name": "熟结", "description": "Mature-formed agarwood: resin formed, tree died and buried/aged.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "shújié" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "ripe formation" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "mature-formed" } ] },
+    { "@type": "DefinedTerm", "termCode": "shengjie", "name": "生结", "description": "Live-formed agarwood: resin formed on a living tree.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "shēngjié" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "raw formation" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "live-formed" } ] },
+    { "@type": "DefinedTerm", "termCode": "chonglou", "name": "虫漏", "description": "Insect-bored agarwood: resin formed via insect boring.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "chónglòu" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "insect leak" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "insect-bored" } ] },
+    { "@type": "DefinedTerm", "termCode": "tuoluo", "name": "脱落", "description": "Detached/wounded agarwood: resin formed via external wound or break.", "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Pinyin", "value": "tuōluò" },
+      { "@type": "PropertyValue", "name": "Literal meaning", "value": "fall-off" },
+      { "@type": "PropertyValue", "name": "Preferred English", "value": "detached/wounded" } ] }
+  ]
+}
