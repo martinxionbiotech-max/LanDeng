@@ -7,6 +7,7 @@ scientificName: "Citrus reticulata (aged mandarin/tangerine peel)"
 type: ingredient
 aroma: ["citrus", "bittersweet", "woody"]
 status: draft
+related: ["cinnamon"]
 ---
 
 # Orange Peel / Chenpi (陈皮)

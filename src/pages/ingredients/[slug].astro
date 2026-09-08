@@ -14,6 +14,11 @@ export async function getStaticPaths() {
 const { ingredient } = Astro.props;
 const { Content } = await render(ingredient);
 
+const allIngredients = await getCollection('ingredients');
+const related = (ingredient.data.related || [])
+  .map((slug) => allIngredients.find((i) => i.id === slug))
+  .filter(Boolean);
+
 const { title, chinese, pinyin, scientificName, type, aroma } = ingredient.data;
 const pageUrl = `${Astro.site?.toString() ?? 'https://example.com'}ingredients/${ingredient.id}/`;
 const aromaText = aroma.join(', ');
@@ -142,6 +147,23 @@ const structuredData = [
         <Content />
       </div>
     </div>
+
+    {related.length > 0 && (
+      <section class="related" aria-labelledby="related-title">
+        <div class="shell prose">
+          <h2 id="related-title">Related ingredients</h2>
+          <ul class="related-list">
+            {related.map((r) => (
+              <li>
+                <a href={`/ingredients/${r.id}/`}>
+                  {r.data.chinese} · {r.data.title.split(' — ')[0]}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+    )}
   </article>
 </BaseLayout>
 

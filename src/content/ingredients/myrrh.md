@@ -7,6 +7,7 @@ scientificName: "Commiphora myrrha (and other Commiphora spp.)"
 type: ingredient
 aroma: ["balsamic", "earthy", "bitter", "medicinal"]
 status: draft
+related: ["frankincense"]
 ---
 
 # Myrrh (没药 / Mo Yao)

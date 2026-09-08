@@ -7,6 +7,7 @@ scientificName: "Styrax tonkinensis (Siam); Styrax benzoin / S. paralleloneurus 
 type: ingredient
 aroma: ["sweet", "vanilla", "balsamic", "woody"]
 status: draft
+related: ["frankincense", "myrrh"]
 ---
 
 # Benzoin (安息香 / An Xi Xiang)

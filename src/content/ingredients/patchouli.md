@@ -7,6 +7,7 @@ scientificName: "Pogostemon cablin"
 type: ingredient
 aroma: ["earthy", "woody", "balsamic", "spicy"]
 status: draft
+related: ["vetiver", "cedar"]
 ---
 
 # Patchouli (广藿香 / Guang Huo Xiang)

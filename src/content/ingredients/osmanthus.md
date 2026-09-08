@@ -7,6 +7,7 @@ scientificName: "Osmanthus fragrans"
 type: ingredient
 aroma: ["sweet", "floral", "apricot", "honey"]
 status: draft
+related: ["jasmine", "rose"]
 ---
 
 # Osmanthus (桂花 / Gui Hua)

@@ -7,6 +7,7 @@ scientificName: "Syzygium aromaticum"
 type: ingredient
 aroma: ["spicy", "warm", "aromatic"]
 status: draft
+related: ["cinnamon"]
 ---
 
 # Clove (丁香 / Ding Xiang)

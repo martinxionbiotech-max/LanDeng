@@ -7,6 +7,7 @@ scientificName: "Chrysanthemum morifolium (and C. indicum)"
 type: ingredient
 aroma: ["floral", "herbal", "bittersweet"]
 status: draft
+related: ["mugwort", "jasmine"]
 ---
 
 # Chrysanthemum (菊花 / Ju Hua)

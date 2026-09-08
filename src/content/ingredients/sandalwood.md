@@ -7,6 +7,7 @@ scientificName: "Santalum album (and other Santalum spp.)"
 type: ingredient
 aroma: ["creamy", "sweet", "soft", "woody"]
 status: draft
+related: ["agarwood", "vetiver"]
 ---
 
 # Sandalwood (檀香 / Tan Xiang)

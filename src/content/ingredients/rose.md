@@ -7,6 +7,7 @@ scientificName: "Rosa rugosa (Chinese rose); also Rosa damascena"
 type: ingredient
 aroma: ["sweet", "floral", "romantic"]
 status: draft
+related: ["jasmine"]
 ---
 
 # Rose (玫瑰 / Mei Gui)

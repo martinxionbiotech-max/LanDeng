@@ -7,6 +7,7 @@ scientificName: "Artemisia spp. (A. argyi, A. vulgaris)"
 type: ingredient
 aroma: ["herbal", "bitter-green", "camphoraceous"]
 status: draft
+related: ["chrysanthemum"]
 ---
 
 # Mugwort (艾草 / Ai Cao)

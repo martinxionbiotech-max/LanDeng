@@ -12,6 +12,7 @@ const ingredients = defineCollection({
     type: z.string(),
     aroma: z.array(z.string()),
     status: z.string(),
+    related: z.array(z.string()).optional(),
   }),
 });
 

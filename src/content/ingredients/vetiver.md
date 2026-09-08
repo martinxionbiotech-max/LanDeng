@@ -7,6 +7,7 @@ scientificName: "Chrysopogon zizanioides (syn. Vetiveria zizanioides)"
 type: ingredient
 aroma: ["earthy", "woody", "smoky", "warm"]
 status: draft
+related: ["cedar", "patchouli", "sandalwood"]
 ---
 
 # Vetiver (岩兰草 / Yan Lan Cao)

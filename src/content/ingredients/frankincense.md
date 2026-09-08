@@ -7,6 +7,7 @@ scientificName: "Boswellia spp. (B. sacra, B. serrata, B. carterii)"
 type: ingredient
 aroma: ["resinous", "citrus", "earthy", "creamy"]
 status: draft
+related: ["myrrh", "agarwood"]
 ---
 
 # Frankincense (乳香 / Ru Xiang)

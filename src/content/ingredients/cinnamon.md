@@ -7,6 +7,7 @@ scientificName: "Cinnamomum cassia (Chinese cinnamon/cassia); cf. C. verum (Ceyl
 type: ingredient
 aroma: ["warm", "spicy", "sweet"]
 status: draft
+related: ["clove", "orange-peel"]
 ---
 
 # Cinnamon (桂皮 / Gui Pi)

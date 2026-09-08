@@ -7,6 +7,7 @@ scientificName: "Cedrus spp. (true cedar); note 'cedarwood' often = Juniperus vi
 type: ingredient
 aroma: ["woody", "clean", "slightly sweet"]
 status: draft
+related: ["vetiver", "patchouli"]
 ---
 
 # Cedar (雪松 / Xue Song)

@@ -7,6 +7,7 @@ scientificName: "Jasminum sambac (and other Jasminum spp.)"
 type: ingredient
 aroma: ["sweet", "floral", "heady"]
 status: draft
+related: ["rose", "osmanthus"]
 ---
 
 # Jasmine (茉莉 / Mo Li)

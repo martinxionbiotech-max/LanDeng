@@ -7,6 +7,7 @@ scientificName: "Aquilaria spp."
 type: ingredient
 aroma: ["woody", "resinous", "sweet", "complex"]
 status: draft
+related: ["sandalwood", "frankincense"]
 ---
 
 # Agarwood (沉香 / Chen Xiang)
