@@ -71,6 +71,22 @@ Agarbatti is inseparable from **Hindu and Buddhist ritual** — burned in *puja*
 
 ---
 
+## How Masala Agarbatti Is Made
+
+A true masala stick starts with dry botanical powders — sandalwood or a wood base, resins, flowers, and spices — mixed with water and a natural binder (often a gum or the wood powder itself) into a paste. The paste is hand-rolled onto a bamboo splint, then dried. The scent comes from the **actual materials**, which is why masala sticks smell earthier, more complex, and change as they burn.
+
+Dipped agarbatti, by contrast, starts with a bare or charcoal-coated core that is dipped into a liquid fragrance (usually synthetic or a perfume-oil blend). It is faster and cheaper to make, and the scent is stronger and more uniform — but it is a *fragrance*, not a material.
+
+## Reading an Agarbatti Label Honestly
+
+- **"Masala" vs "perfume-dipped"** — the single most useful distinction; the label or seller should tell you which.
+- **Price signal** — a very cheap, uniformly strong-smelling stick is almost always dipped.
+- **"Natural" claims** — "natural" is unregulated; a masala stick is *more* natural, not automatically chemical-free.
+
+## Why Honesty Matters (vs. Affiliate "Best Incense" Lists)
+
+Indian incense is a favorite of affiliate "best incense" roundups, which rank sticks by commission rather than by the masala-vs-dipped distinction. [BRAND] takes a different approach: explain **what you are actually buying** — real botanicals hand-rolled, or a perfume-dipped core — and let the material tell you what it is worth. That is more useful than a ranked list of sponsored sticks.
+
 ## Common Mistakes
 
 1. **Assuming all Indian incense is the same.** Masala (materials) and dipped (fragrance) are different products.
@@ -102,6 +118,9 @@ Bold, floral-spicy, and often smoky — sandalwood, jasmine, rose, and champa ar
 
 ### Q: Is Indian incense the same as Chinese or Japanese incense?
 No. Indian incense is bold and expressive; Chinese 香 is warmer and layered; Japanese kōh is minimalist. See [what Chinese incense is](/what-is-chinese-incense/).
+
+### Q: What is dhoop?
+A thicker, often coreless form of Indian incense, molded or extruded and burned in temples and homes. Dhoop is related to agarbatti but a distinct format.
 
 ---
 

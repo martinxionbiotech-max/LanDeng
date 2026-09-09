@@ -68,6 +68,20 @@ This social, welcoming function is as central to the tradition as the scent itse
 
 ---
 
+## What Goes Into Bakhoor
+
+Bakhoor recipes vary by maker, but a typical blend combines agarwood chips or powder with fragrant oils (often rose, jasmine, or sandalwood), resins (frankincense, benzoin), and sometimes sugar, honey, or floral essences. The chips are soaked or mixed, then dried before burning. The result is a **layered** scent — the wood and resin body, plus the added oils on top.
+
+## Reading a Bakhoor / Oud Label Honestly
+
+- **Oud vs bakhoor** — confirm which you are buying: raw agarwood chips, or prepared (infused) bakhoor.
+- **Synthetic "oud"** — much "oud" in cheap products is a synthetic fragrance, not agarwood. See the [agarwood guide](/agarwood-incense/) for how to spot fakes.
+- **Burn method** — bakhoor is burned on charcoal or an electric burner, not lit as a stick.
+
+## Why Honesty Matters (vs. "Oud Miracle" Claims)
+
+Oud and bakhoor attract inflated claims — luxury, rarity, and even health benefits — much of it marketing. [BRAND] treats the tradition for what it is: a **home-and-hospitality ritual** built on wood chips, resin, and fragrance. Knowing the difference between raw oud, prepared bakhoor, and synthetic "oud" is more valuable than any miracle claim.
+
 ## Common Mistakes
 
 1. **Treating "oud" and "bakhoor" as the same thing.** Oud is the agarwood material; bakhoor is prepared wood chips infused with fragrance.
@@ -99,6 +113,9 @@ Agarwood (oud) is the prestige material at its center, but the tradition also in
 
 ### Q: What does bakhoor smell like?
 Rich, resinous, and warm — smoky and sweet, often built on oud with added floral or resin notes.
+
+### Q: Is bakhoor the same as a stick?
+No. Bakhoor is prepared wood chips burned on charcoal or an electric burner; a stick is a fixed-duration form with a milder, continuous burn.
 
 ---
 

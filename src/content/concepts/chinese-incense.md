@@ -31,6 +31,17 @@ status: draft
 
 The Song literati canonized four refined pursuits, recorded in 吴自牧's *梦粱录*: "烧香点茶，挂画插花，四般闲事，不宜累家" — *burning incense, preparing tea, hanging scrolls, arranging flowers*. Incense sat alongside tea ceremony and painting as a cultivated daily practice — not merely a religious act.
 
+## 合香: The Art of Blending
+
+The refined heart of Chinese incense is **合香 (héxiāng)** — "combined fragrance" — the art of blending multiple materials into a single compound. Blends are built on a formula principle of **君臣佐使** (chief, minister, assistant, guide), analogous to the hierarchy used in classical Chinese medicine compounding:
+
+- **Chief (君)** — the dominant material, defining the blend's character.
+- **Minister (臣)** — supports and enhances the chief.
+- **Assistant (佐)** — adds nuance or tempers the others.
+- **Guide (使)** — harmonizes and directs the blend.
+
+This is why a Chinese incense is so often a *recipe* rather than a single scent — the value is in the balance, not in any one ingredient.
+
 ## Core forms and methods
 
 - **Incense sticks (线香)** — the common modern form.
@@ -40,9 +51,26 @@ The Song literati canonized four refined pursuits, recorded in 吴自牧's *梦�
 - **Seal incense (篆香 / 打香印)** — powder pressed into a pattern and burned along a timed path.
 - **Blended incense (合香)** — multi-ingredient compounds built on a "chief/minister/assistant/guide" (君臣佐使) formula principle, analogous to classical Chinese compounding.
 
+## Key Terminology (a Short Glossary)
+
+| Term | Chinese | Meaning |
+|---|---|---|
+| Incense | 香 (xiāng) | Fragrance; incense; the character appears on Shang oracle bones |
+| Stick incense | 线香 (xiànxiāng) | The common modern stick |
+| Coil | 盘香 (pánxiāng) | A coiled spiral |
+| Indirect-fire | 隔火焚香 | Charcoal + ash + plate; "scent, not smoke" |
+| Seal incense | 篆香 (zhuànxiāng) | Powder pressed into a timed pattern |
+| Blended incense | 合香 (héxiāng) | Multi-ingredient compounds |
+| Incense manual | 香谱 (xiāngpǔ) | Classical incense literature |
+| Four Leisure Arts | 四般闲事 | Incense, tea, painting, flowers |
+
 ## Positioning
 
 Chinese incense is often described as a "middle path": warmer and more complex than the minimalist Japanese style, yet more restrained than the bold expressiveness of Indian agarbatti.
+
+## Why the Chinese Framing Matters (vs. Overclaiming)
+
+English-language incense content tends to flatten Chinese incense into either "ancient healing wisdom" or a product category. Both miss the point. Chinese incense is a **cultural and material tradition** — a history of blending, grading, and refined burning technique — not a health system and not just a product. [BRAND] describes it as such: traditional knowledge is labeled traditional, modern evidence is labeled evidence, and no therapeutic claims are made. That honesty is the differentiator.
 
 ## Traditional knowledge vs modern evidence
 
@@ -59,6 +87,10 @@ Chinese incense carries a rich layer of **traditional and cultural knowledge** (
 **Is Chinese incense natural?** Not automatically. Natural incense uses plant material and a plant binder (like makko); much commercial incense is a charcoal or sawdust base soaked in synthetic fragrance. "Natural" is unregulated, so check the ingredients rather than the label. See [what makes incense natural](/what-makes-incense-natural/).
 
 **What is the difference between Chinese incense and a candle?** A candle is wax with a wick, burned for light and scent; incense is aromatic plant material burned or heated for its scent alone. Incense is a material-and-ritual tradition, not a lighting technology.
+
+**What is 合香 (blended incense)?** The art of combining multiple materials into one compound, built on the 君臣佐使 (chief/minister/assistant/guide) formula principle. Most refined Chinese incense is a blend, not a single scent.
+
+**Is Chinese incense the same as Japanese incense?** They share an origin — Japanese kōdō developed from Song-dynasty 隔火焚香 — but Chinese incense is warmer and more complex, while Japanese incense is minimalist and very low-smoke. See [Japanese incense & kōdō](/japanese-incense-kodo/).
 
 ---
 

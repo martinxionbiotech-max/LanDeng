@@ -76,6 +76,22 @@ Citrus and frankincense occupy the "bright, focusing" end together; the differen
 
 ---
 
+## Reading a Citrus Label Honestly
+
+"Citrus" on an incense label can mean several different things, and they are not equal:
+
+- **Real citrus peel** (or 陈皮) — a material note, warm and slightly earthy.
+- **Citrus essential oil** (e.g., sweet orange, bergamot, yuzu) — a concentrated plant extract, bright but volatile.
+- **Citrus fragrance oil** — a manufactured scent, often synthetic, built to *smell* like citrus.
+
+The volatile nature of citrus means a "pure citrus" stick that actually lasts is almost always a fragrance-oil construction; a real citrus-oil stick will be bright but brief. Neither is automatically "wrong" — but the label should tell you which you are buying. See [essential oils in incense](/essential-oils-in-incense/) for the oil-vs-fragrance distinction.
+
+## Why Honesty Matters Here (vs. the "Detox" Claims)
+
+Search for "citrus incense" and you will quickly hit claims that it "boosts immunity," "detoxes the body," or "lifts depression." Those are **health claims, not incense facts** — and they are not supported by evidence.
+
+[BRAND] takes a different position: citrus is a **bright, fresh, energizing aroma** that many people enjoy in a focusing or unwinding routine. That is a *fragrance* claim, which is true and verifiable; the health claims are not. This honesty is itself the differentiator — a page that tells you "citrus is a top note that fades fast, so it's usually a blend" is rarer and more useful than one promising detox.
+
 ## Common Mistakes
 
 1. **Expecting pure citrus incense to last.** The note is volatile; a good citrus scent is a blend, not a solo note.

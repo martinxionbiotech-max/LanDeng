@@ -41,6 +41,22 @@ The same material can be described two ways: **aroma** (what it objectively smel
 
 ---
 
+## Scents by Intention (a Quick Map)
+
+If you know the *feeling* you want but not the *scent*, this maps intention to a starting point:
+
+| You want… | Start here |
+|---|---|
+| Bright, focused, clear-headed | Citrus, frankincense |
+| Warm, calm, grounded | Sandalwood |
+| Deep, quiet, enveloping | Agarwood |
+| Soft, floral, uplifting | Lotus, lavender |
+| Sweet, romantic, lush | Jasmine, rose |
+
+This is a starting point, not a rule — the same scent can serve different moods for different people, and "calming" vs "focusing" describes aroma character, not a measured effect.
+
+---
+
 ## The Scents, One by One
 
 - **[Sandalwood (檀香)](/sandalwood-incense/)** — creamy, sweet, soft-woody. The classic "calm, warm" base; also the most substituted material (know your species).
@@ -66,6 +82,10 @@ The same material can be described two ways: **aroma** (what it objectively smel
 The classical Chinese incense tradition (香谱) is built on **woods and resins** — agarwood, sandalwood, frankincense, myrrh. Florals (lotus, lavender) and citrus are largely **modern or symbolic** additions. Knowing this helps you read a product honestly: a "lotus" or "citrus" incense is usually a modern scent, while "agarwood" or "sandalwood" points at a material tradition.
 
 ---
+
+## Why This Guide Reads Different (vs. "Best Scent for X" Lists)
+
+Most "incense scent guides" are really affiliate roundups — "best calming incense," "best focus incense" — that rank products and attach health claims. This guide does neither: it maps **aroma to atmosphere**, tells you to **check the material, not the name**, and makes **no health claims**. That is the honest version, and it is the one worth trusting.
 
 ## Common Mistakes
 
@@ -96,6 +116,12 @@ Mostly not. The classical canon is woods and resins; lotus and lavender are larg
 
 ### Q: How do I know what I'm actually buying?
 Confirm the material or accord behind the label — "sandalwood," "lotus," and "lavender" can each be a real material or a fragrance accord.
+
+### Q: What is the difference between a scent's aroma and its atmosphere?
+Aroma is what the material objectively smells like; atmosphere is the feeling people associate with it. "Calming" and "focusing" describe atmosphere — aroma character, not a measured effect.
+
+### Q: How do I pick a scent if I'm new to incense?
+Start with the atmosphere you want (bright/focusing vs warm/grounding), then confirm the material behind the label. Sandalwood is the classic gentle entry point; citrus and frankincense are the bright alternatives.
 
 ---
 
