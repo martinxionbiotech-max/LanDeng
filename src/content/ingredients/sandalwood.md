@@ -72,4 +72,16 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does sandalwood smell like?** Warm, creamy, sweet, and soft-woody — the best material has a distinctly "buttery" smoothness that distinguishes it from sharper or synthetic "sandalwood" fragrances.
+
+**How long does a sandalwood incense stick burn?** Roughly 20–60 minutes depending on length and thickness — short Japanese coreless sticks ~25–30 min, thicker bamboo-core sticks ~45–60 min. The scent lingers after the stick goes out.
+
+**Is sandalwood oil the same as sandalwood powder?** No. Oil is the concentrated steam-distilled extract; powder is the ground heartwood. Oil gives bright, immediate notes; wood gives the slower, deeper "cooked" aroma.
+
+**Why is real sandalwood so expensive?** *Santalum album* is slow-growing and hemiparasitic, its heartwood takes decades to develop aroma, and wild stands are depleted. Scarcity plus demand drives the price — cheap "sandalwood" is usually synthetic.
+
+**Is sandalwood incense safe for pets?** All incense produces smoke and particulate matter, and animals can be more sensitive to airborne irritants. Burn in a ventilated space, keep it away from pets, and watch for any reaction. This is general safety guidance, not a claim about any condition.
+
 *Sources: botanical references on *Santalum* spp. and commercial/enthusiast accounts of the sandalwood trade. Health-benefit claims circulating online are treated as traditional/unverified, not established evidence. This is editorial knowledge content, not medical advice.*

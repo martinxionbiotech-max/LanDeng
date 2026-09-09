@@ -48,4 +48,14 @@ Incense/essential-oil combustion produces smoke and particulate matter. Burn in 
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does vetiver smell like?** Deep, earthy, "rooty," and woody with slightly smoky warmth — a heavy base note, sometimes called "oil of tranquillity" (an aromatherapy description, not a medical claim).
+
+**Where does vetiver come from?** Major producing regions include India, Haiti, and Indonesia (Java). It is a tropical grass whose roots are steam-distilled.
+
+**What does vetiver pair with?** It anchors heavier blends — classically with sandalwood, cedar, and citrus. It works as a base note rather than a solo star.
+
+**Is vetiver a wood?** No — it is a grass (Poaceae); the fragrant part is the steam-distilled root.
+
 *Sources: botanical and perfumery references on *Chrysopogon zizanioides*. This is editorial knowledge content, not medical advice.*

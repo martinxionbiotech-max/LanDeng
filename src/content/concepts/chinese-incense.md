@@ -46,6 +46,18 @@ Chinese incense is often described as a "middle path": warmer and more complex t
 
 Chinese incense carries a rich layer of **traditional and cultural knowledge** (香道, 合香, materia medica). This is distinct from modern clinical evidence: traditional uses are **traditional**, and we do not present aromatic practices as medical treatment. See our safety guide for combustion disclosure.
 
+## People Also Ask / 长尾问答
+
+**What does Chinese incense smell like?** It depends on the material: sandalwood (檀香) is creamy and sweet-woody, agarwood (沉香) is deep and resinous, frankincense (乳香) is bright and balsamic, and blended 合香 spans floral to medicinal. The shared signature is warmth and layering rather than a single sharp note.
+
+**How long does a stick of Chinese incense burn?** Roughly 20–60 minutes depending on length and thickness — short Japanese-style coreless sticks ~25–30 min, thicker bamboo-core sticks ~45–60 min. Cones burn ~10–15 min; coils burn for hours; seal-incense trails (篆香) burn along a timed path.
+
+**What is 隔火焚香 (indirect-fire incense)?** The refined Song-dynasty technique of burying hot charcoal in ash and resting the fragrant wood on a plate above it, so aroma releases with almost no smoke. It is the ancestor of Japanese kōdō — the "scent, not smoke" method.
+
+**Is Chinese incense natural?** Not automatically. Natural incense uses plant material and a plant binder (like makko); much commercial incense is a charcoal or sawdust base soaked in synthetic fragrance. "Natural" is unregulated, so check the ingredients rather than the label. See [what makes incense natural](/what-makes-incense-natural/).
+
+**What is the difference between Chinese incense and a candle?** A candle is wax with a wick, burned for light and scent; incense is aromatic plant material burned or heated for its scent alone. Incense is a material-and-ritual tradition, not a lighting technology.
+
 ---
 
 *Sources: this pillar synthesizes Chinese-language cultural/historical sources (光明日报, museum/historical accounts) and English-language treatments. The "香道 origin" claim is well-supported across multiple sources. This is editorial knowledge content.*

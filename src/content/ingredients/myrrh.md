@@ -54,4 +54,14 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does myrrh smell like?** Warm, balsamic, and earthy with a bitter, slightly medicinal edge — darker and heavier than frankincense.
+
+**How do you burn myrrh?** Like frankincense, myrrh resin is traditionally warmed on a charcoal disc or gently on an electric incense heater. It is often blended with frankincense, which brightens it.
+
+**Where does myrrh come from?** From *Commiphora* trees, mainly across the Horn of Africa and the Arabian Peninsula. The resin is tapped from the bark and hardens into tears.
+
+**Is myrrh a wood?** No — it is a dried gum-resin collected from the tree's bark, not the wood itself.
+
 *Sources: botanical and pharmacological references on *Commiphora*. Medicinal claims are treated as traditional/preliminary, not established clinical fact. This is editorial knowledge content, not medical advice.*

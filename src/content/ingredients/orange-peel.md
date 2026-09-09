@@ -48,4 +48,14 @@ Chenpi is food-grade and widely used in cooking/tea; however, incense combustion
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does chenpi smell like?** Fresh orange peel is bright and citrus; aged chenpi becomes darker, softer, and more mellow-woody over years, with a deep bittersweet-citrus character.
+
+**How long is chenpi aged?** Commonly 1 to 30+ years, and older peel commands higher prices — in traditional framing, older is considered better.
+
+**Where does the best chenpi come from?** The Xinhui (新会) district of Guangdong is the prized origin, with geographical-indication status for its mandarin peel.
+
+**Is chenpi used in incense?** It can appear as a citrus-woody note in blends, though it is far better known for cooking and tea. Its aged, mellow character suits warm spice-and-wood blends.
+
 *Sources: references on *Chenpi* (Citrus reticulata peel) and its traditional use. Medicinal claims are treated as traditional/preclinical. This is editorial knowledge content, not medical advice.*

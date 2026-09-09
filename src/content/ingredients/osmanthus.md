@@ -51,4 +51,14 @@ Osmanthus is a gentle floral note and is commonly used in tea and food; however,
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does osmanthus smell like?** Distinctly sweet and fruity-floral — often described as ripe apricot or peach with a honeyed, nectar-like quality. It is a bright, uplifting note.
+
+**What is osmanthus tea?** Osmanthus flowers brewed as a floral tisane or blended with tea leaves (桂花茶). It carries the same sweet apricot-honey aroma.
+
+**When does osmanthus flower?** In autumn — *Osmanthus fragrans* is famous for its strong autumn bloom, and the flower's timing is part of its cultural association with mid-autumn.
+
+**Is osmanthus a wood or a flower?** A flower — the bloom of *Osmanthus fragrans* (olive family, Oleaceae). It is used dried in tea, food, and incense.
+
 *Sources: botanical references on *Osmanthus fragrans* and commercial/cultural accounts of its use in tea and incense. This is editorial knowledge content.*

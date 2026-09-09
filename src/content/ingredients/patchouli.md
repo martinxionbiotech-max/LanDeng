@@ -48,4 +48,14 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does patchouli smell like?** Heavy, earthy, woody-balsamic with a musty-sweet, spicy edge — a strong base note that lingers.
+
+**Where does patchouli come from?** Southeast Asia — patchouli (*Pogostemon cablin*) is native to the region and has long been an ingredient in East Asian incense and perfumery, well before its 1960s–70s Western popularity.
+
+**What does patchouli pair with?** It anchors heavier blends — often paired with woods (sandalwood, cedar) and resins, or brightened with citrus. Like vetiver, it works as a base rather than a solo star.
+
+**Is patchouli a wood?** No — it is the dried leaf of a mint-family herb (*Pogostemon cablin*), steam-distilled for its oil.
+
 *Sources: botanical references on *Pogostemon cablin* and accounts of its use in East Asian incense. This is editorial knowledge content, not medical advice.*

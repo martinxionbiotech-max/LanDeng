@@ -48,4 +48,14 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does jasmine incense smell like?** Intensely sweet, floral, and slightly heady — one of the most recognizable floral notes in Chinese fragrance.
+
+**Is jasmine used in Chinese incense?** Yes, as a sweet romantic floral lift, often blended rather than burned alone. It is more common in modern and floral-forward blends than in the classical wood-and-resin canon.
+
+**What is the difference between jasmine and osmanthus?** Both are sweet florals, but jasmine is heady and white-floral, while osmanthus is apricot- and honey-like. They read differently in blends.
+
+**Is jasmine a wood or a flower?** A flower — *Jasminum sambac* (and other *Jasminum* species), used dried in tea, perfume, and incense.
+
 *Sources: botanical references on *Jasminum* and cultural accounts of jasmine tea. This is editorial knowledge content.*

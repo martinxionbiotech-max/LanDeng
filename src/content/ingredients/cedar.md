@@ -52,4 +52,14 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does cedar incense smell like?** Clean, woody, and slightly sweet-resinous — a "dry wood" note, distinct from the creamy sweetness of sandalwood or the resinous depth of agarwood.
+
+**What is the difference between cedar and sandalwood?** Cedar is a dry, clean, slightly sweet wood note; sandalwood is creamy, sweet, and soft. Cedar tends to be lighter and sharper; sandalwood is rounder and more prized as a base.
+
+**Which cedar is used in incense?** It varies. True cedars (*Cedrus*, e.g. Himalayan/Atlas cedar) are one source, but much commercial "cedarwood" oil comes from red cedar (*Juniperus virginiana*), a juniper. The species matters for aroma and price.
+
+**Is cedar incense safe for pets?** All incense produces smoke and particulate matter. Burn in a ventilated space and keep it away from pets. General safety guidance, not a claim about any condition.
+
 *Sources: botanical references on *Cedrus* and *Juniperus virginiana*, plus the observation that commercial "cedarwood" claims are widely overstated. This is editorial knowledge content, not medical advice.*

@@ -98,4 +98,16 @@ Both are premium aromatic woods, but they form differently and smell different:
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does agarwood smell like?** Deep, sweet, and resinous over a woody base, and it develops in stages as it warms — an opening, a body, and a dry-down. Top-grade 奇楠 is aromatic even unheated.
+
+**Is agarwood the same as oud?** Largely yes. "Oud" (oudh) is the Arabic name for the same resin-impregnated *Aquilaria* wood called 沉香 in Chinese and jinkō/kyara in Japanese — one material family under different names.
+
+**What does "sinking-grade" (沉水) agarwood mean?** It refers to the classic Chinese density test: the most resin-saturated pieces are dense enough to sink in water, hence 沉香 ("sinking fragrance"). Sinking-grade indicates the highest resin content and value.
+
+**Can agarwood be farmed?** Yes. Because wild agarwood is depleted, much modern supply is cultivated *Aquilaria* that is deliberately wounded to trigger resin formation. This is legitimate but generally lower-grade than old wild material.
+
+**How should I store agarwood?** Cool, dry, airtight, and away from direct light. Agarwood keeps well, but heat, humidity, and strong ambient odors can degrade or contaminate the scent over time.
+
 *Sources: this page synthesizes Chinese-language trade/specialist sources (奇楠 grading, adulteration) and botanical references (Aquilaria sinensis). Etymology of "qínán" and the 奇楠 color-grade hierarchy remain disputed and are noted as such. This is editorial knowledge content, not medical or investment advice.*

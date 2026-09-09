@@ -52,4 +52,14 @@ Like all burning plant material, mugwort smoke contains particulate matter. Burn
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does mugwort smell like?** Herbaceous and slightly bitter-green, with a camphoraceous edge — quite different from the sweet woods. It is valued for its cleansing association, not its sweetness.
+
+**What is mugwort used for at Dragon Boat Festival (端午节)?** Hanging mugwort around the home is a well-known seasonal practice around the fifth lunar month, associated with warding off insects and — in folk tradition — negative influence.
+
+**What is the difference between mugwort and wormwood?** They are close relatives in the *Artemisia* genus. Mugwort most often means *A. argyi* or *A. vulgaris*; wormwood usually means *A. absinthium*. They share a bitter-herbal family character but are distinct species.
+
+**Is mugwort safe to burn?** Like all burning plant material, mugwort produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets.
+
 *Sources: botanical references on *Artemisia* and cultural accounts of mugwort's traditional role. Moxibustion's medical claims are treated as not established by modern evidence. This is editorial knowledge content, not medical advice.*

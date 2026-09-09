@@ -63,4 +63,16 @@ Both are resins from the same plant family (Burseraceae), but from different gen
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does frankincense smell like?** Fresh, resinous, and slightly citrus (lemony) over a warm, creamy, earthy base. Gently heated, it releases a clean, bright scent — distinct from the deep sweetness of woods like agarwood.
+
+**How do you burn frankincense resin?** Traditionally on a charcoal disc (placed on a heatproof surface, in sand or ash), or gently on an electric incense heater, which avoids the charcoal smoke and lets the resin warm slowly. Small tears/granules work best.
+
+**Where does frankincense come from?** From *Boswellia* trees, mainly across the Arabian Peninsula, the Horn of Africa, and parts of India. The resin is tapped from incisions in the bark and left to harden into tears.
+
+**Is frankincense the same as oud or agarwood?** No. Frankincense is a gum-resin from *Boswellia* trees (Burseraceae); agarwood/oud is resin-impregnated *Aquilaria* wood. They are different materials, plants, and aromas.
+
+**Is frankincense a wood?** No — it is a dried gum-resin collected from the tree's bark, not the wood itself.
+
 *Sources: botanical and pharmacological references on *Boswellia*. Medicinal claims are treated as traditional/preliminary, not established clinical fact. This is editorial knowledge content, not medical advice.*

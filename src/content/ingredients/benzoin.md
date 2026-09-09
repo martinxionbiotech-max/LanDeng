@@ -53,4 +53,14 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does benzoin smell like?** Sweet, warm, and vanilla-like with a balsamic depth — a soft, comforting note that also helps other aromas last (a fixative).
+
+**What is benzoin used for in incense?** Mainly as a sweet base and a fixative: it rounds out blends and helps lighter notes persist. It appears in church incense, Chinese incense (安息香), and the Arabic bakhoor tradition.
+
+**Is Siam benzoin different from Sumatra benzoin?** Yes. Siam benzoin (*Styrax tonkinensis*) is sweet, vanilla, and balsamic; Sumatra benzoin (*S. benzoin*) is sweeter-spicier and contains cinnamic acid in addition to benzoic acid. They are related but distinct resins.
+
+**Is benzoin a wood?** No — it is a balsamic resin collected from *Styrax* tree bark, not the wood itself.
+
 *Sources: botanical references on *Styrax* and benzoin resin. This is editorial knowledge content, not medical advice.*

@@ -48,4 +48,14 @@ Chrysanthemum is food-grade and widely drunk as tea; however, incense combustion
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does chrysanthemum smell like?** Delicate, floral-herbal, and slightly bittersweet — less sweet than jasmine or rose, with a "green" quality. It is most familiar as the aroma of chrysanthemum tea.
+
+**Is chrysanthemum used in incense?** It appears as a herbal floral incense material, usually blended rather than burned alone. Its scent is light and cooling rather than sweet.
+
+**What are the "Four Gentlemen" (四君子)?** The four plants canonized in Chinese art and culture — plum, orchid, bamboo, and chrysanthemum. Chrysanthemum's inclusion reflects its cultural standing beyond tea.
+
+**Is chrysanthemum the same as chamomile?** No. Chrysanthemum is *Chrysanthemum morifolium* (Asteraceae); chamomile is a different genus (*Matricaria*/*Chamaemelum*). They share a floral-herbal family resemblance but are different plants.
+
 *Sources: botanical references on *Chrysanthemum morifolium* and TCM accounts of 菊花. Medicinal claims are treated as traditional. This is editorial knowledge content, not medical advice.*

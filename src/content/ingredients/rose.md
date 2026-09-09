@@ -48,4 +48,14 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does rose incense smell like?** Sweet, floral, and "romantic" — a classic floral note, either the Chinese rose (*Rosa rugosa*) or the Western damask rose (*R. damascena*).
+
+**Is rose used in Chinese incense?** Yes, as a sweet floral note, usually blended rather than burned alone. It also appears in rose tea (玫瑰花茶) and traditional materia medica.
+
+**What is rose tea?** Dried rose buds (玫瑰花) brewed as a floral tisane, common in Chinese tea culture.
+
+**Is rose a wood or a flower?** A flower — the dried bud of *Rosa* species, used in tea, perfume, and incense.
+
 *Sources: botanical references on *Rosa* and TCM descriptions of 玫瑰花. Medicinal claims are treated as traditional, not clinical. This is editorial knowledge content, not medical advice.*

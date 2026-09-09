@@ -51,4 +51,14 @@ Incense combustion produces smoke and particulate matter — burn in a well-vent
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does cinnamon/cassia incense smell like?** Warm, sweet, and spicy — driven by cinnamaldehyde. Chinese cassia (桂皮) is stronger and less delicate than Ceylon cinnamon.
+
+**Is cinnamon used in Chinese incense?** Yes — cassia bark (桂皮) is a classic warm spice note in 合香 (blended incense), usually as a supporting note rather than the star.
+
+**What is cinnamaldehyde?** The principal aroma compound in cinnamon/cassia bark — the molecule responsible for its characteristic warm, spicy-sweet scent.
+
+**Is cassia the same as Ceylon cinnamon?** No — cassia (*C. cassia*) is stronger and thicker; Ceylon cinnamon (*C. verum*) is milder and finer. Both are legitimate *Cinnamomum* barks.
+
 *Sources: botanical references on *Cinnamomum cassia* and *C. verum*. This is editorial knowledge content, not medical advice.*

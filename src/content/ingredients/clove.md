@@ -53,4 +53,14 @@ Clove oil/eugenol is potent and can be irritating; it should not be applied undi
 
 ---
 
+## People Also Ask (Long-Tail)
+
+**What does clove smell like?** Sharp, warm, spicy, and slightly sweet — one of the most penetrating spice notes. A little goes a long way; it is usually a supporting note, not a base.
+
+**Is clove used in Chinese incense?** Yes — clove (丁香) is a classic warm spice ingredient in 合香 blends, adding a pungent, aromatic lift.
+
+**What is eugenol?** The principal compound in clove oil, responsible for its warm, spicy aroma. It is potent and can be irritating, which is why clove oil is not used undiluted.
+
+**Is 丁香 clove or lilac?** Both — the Chinese word 丁香 names the spice clove (*Syzygium aromaticum*) and the ornamental lilac (*Syringa*). In a spice/incense context it means clove.
+
 *Sources: botanical references on *Syzygium aromaticum* and the clove/lilac naming note. Medicinal claims are treated as traditional/preliminary. This is editorial knowledge content, not medical advice.*
