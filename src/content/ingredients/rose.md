@@ -30,11 +30,27 @@ related: ["jasmine"]
 
 Rose has a sweet, floral, "romantic" aroma. In Chinese fragrance the Chinese rose (*R. rugosa*) is the traditional material; the damask rose (*R. damascena*) dominates Western rose perfume. The two have related but distinguishable scents.
 
+The damask rose reads as the "classic rose" of Western perfume — rich, dewy, slightly spicy; the Chinese rose (*R. rugosa*) is a touch fresher and fruitier, closer to a garden rose than a heavy perfume rose. In incense, "rose" is almost always a **floral accord** (a reconstructed rose note) layered over a wood or resin base, because true rose absolute is costly and delicate.
+
+## A Chinese naming point (玫瑰 vs 月季 vs 蔷薇)
+
+Chinese distinguishes several "rose" plants that English loosely calls "rose":
+
+- **玫瑰 (*Rosa rugosa*)** — the "Chinese rose" of tea and materia medica.
+- **月季 (*Rosa chinensis*)** — the repeat-blooming China rose, the garden/ornamental rose.
+- **蔷薇 (*Rosa multiflora* and climbing roses)** — the wild/climbing roses.
+
+They are all *Rosa* species, but in Chinese they are distinct words. When a Chinese ingredient list says 玫瑰, it means *R. rugosa* — the tea and fragrance rose — not the garden 月季.
+
 ## In Chinese tradition
 
 - **Tea:** rose buds (玫瑰花) are brewed as a floral tea.
 - **Fragrance / perfume:** rose is a classic floral note.
 - **Traditional materia medica:** in traditional Chinese medicine, rose is described for "regulating qi" (理气) — smoothing emotional "stuckness." **This is traditional language, not modern clinical evidence.**
+
+## In incense
+
+Rose appears in incense as a **floral note**, almost always as an accord over a wood or resin base, because true rose absolute is costly. It is also used to make rose water (玫瑰花水), a classic fragrance and culinary ingredient in Chinese and Middle Eastern traditions.
 
 ## Traditional use vs modern evidence
 
@@ -48,6 +64,8 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **What is the difference between Chinese rose and damask rose?** Chinese rose (*Rosa rugosa*) is the traditional Chinese material; damask rose (*Rosa damascena*) is the classic Western perfume rose. They are different species with related but distinct scents.
 
+**Is rose a wood or a flower?** A flower — the dried bud of *Rosa* species, used in tea, perfume, and incense.
+
 ---
 
 ## People Also Ask (Long-Tail)
@@ -60,4 +78,12 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Is rose a wood or a flower?** A flower — the dried bud of *Rosa* species, used in tea, perfume, and incense.
 
-*Sources: botanical references on *Rosa* and TCM descriptions of 玫瑰花. Medicinal claims are treated as traditional, not clinical. This is editorial knowledge content, not medical advice.*
+**What is the difference between 玫瑰, 月季, and 蔷薇?** Three *Rosa* species in Chinese: 玫瑰 is *R. rugosa* (tea/fragrance rose), 月季 is *R. chinensis* (garden rose), and 蔷薇 covers climbing roses. They are distinct words and plants.
+
+**What is rose water?** A by-product of rose distillation, used as a fragrance and culinary ingredient in Chinese, Middle Eastern, and South Asian traditions. Rose water carries a light, fresh version of the rose note.
+
+**What part of the rose is used?** The flower bud — dried rose buds (玫瑰花) are used for tea and materia medica, while the petals are distilled for rose water and rose oil.
+
+See also: [jasmine](/ingredients/jasmine/) and [osmanthus](/ingredients/osmanthus/), its fellow florals, plus the full [scent guide](/scent-guide/).
+
+*Sources: botanical references on *Rosa* (R. rugosa vs R. damascena) and TCM descriptions of 玫瑰花. Medicinal claims are treated as traditional, not clinical. This is editorial knowledge content, not medical advice.*

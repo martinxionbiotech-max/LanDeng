@@ -77,6 +77,6 @@ Both are resins from the same plant family (Burseraceae), but from different gen
 
 **Is frankincense a wood?** No — it is a dried gum-resin collected from the tree's bark, not the wood itself.
 
-**See also:** the [frankincense incense guide](/frankincense-incense/) and the full [scent guide](/scent-guide/).
+See also: the [frankincense incense guide](/frankincense-incense/) and the full [scent guide](/scent-guide/).
 
 *Sources: botanical and pharmacological references on *Boswellia*. Medicinal claims are treated as traditional/preliminary, not established clinical fact. This is editorial knowledge content, not medical advice.*

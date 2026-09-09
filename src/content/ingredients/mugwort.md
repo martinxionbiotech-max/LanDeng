@@ -64,6 +64,6 @@ Like all burning plant material, mugwort smoke contains particulate matter. Burn
 
 **Is mugwort safe to burn?** Like all burning plant material, mugwort produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets.
 
-**See also:** [what Chinese incense is](/what-is-chinese-incense/) and the full [scent guide](/scent-guide/).
+See also: [what Chinese incense is](/what-is-chinese-incense/) and the full [scent guide](/scent-guide/).
 
 *Sources: botanical references on *Artemisia* and cultural accounts of mugwort's traditional role. Moxibustion's medical claims are treated as not established by modern evidence. This is editorial knowledge content, not medical advice.*

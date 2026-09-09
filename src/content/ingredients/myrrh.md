@@ -66,6 +66,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Is myrrh a wood?** No — it is a dried gum-resin collected from the tree's bark, not the wood itself.
 
-**See also:** [frankincense, myrrh's classical partner](/ingredients/frankincense/), the [frankincense incense guide](/frankincense-incense/), and the full [scent guide](/scent-guide/).
+See also: [frankincense, myrrh's classical partner](/ingredients/frankincense/), the [frankincense incense guide](/frankincense-incense/), and the full [scent guide](/scent-guide/).
 
 *Sources: botanical and pharmacological references on *Commiphora*. Medicinal claims are treated as traditional/preliminary, not established clinical fact. This is editorial knowledge content, not medical advice.*

@@ -30,23 +30,39 @@ related: ["mugwort", "jasmine"]
 
 Chrysanthemum has a delicate floral-herbal scent, less sweet than jasmine or rose, with a slightly bitter, "green" quality. It is most familiar as a tea aroma (菊花茶).
 
+The scent is closer to a dried meadow herb than to a lush perfume flower. Where jasmine is heady and rose is sweet, chrysanthemum is **cool and dry** — a light, airy note with a faint bitter-herbal finish. In incense it reads as a subtle, "cooling" herbal floral, quite different from the warm woods and resins of the classical canon.
+
+## Varieties (a buyer's note)
+
+"菊花" covers many cultivated forms of *C. morifolium*, and the named varieties differ:
+
+- **杭白菊 (Hangzhou white)** — the classic pale "chrysanthemum tea" flower.
+- **贡菊 (tribute chrysanthemum)** — a tight, small flower from Huangshan, also drunk as tea.
+- **亳菊 / 滁菊** — medicinal-grade varieties named for their producing regions (Bozhou, Chuzhou).
+
+The aroma differences are subtle; the regional names mainly signal grade and intended use (tea vs materia medica) rather than a dramatic change in scent.
+
 ## In Chinese tradition
 
 - **Tea (菊花茶):** dried chrysanthemum is a classic herbal tisane, enjoyed for its light, cooling character.
 - **Materia medica:** in traditional Chinese medicine, chrysanthemum is described for the eyes and liver and for "dispersing wind-heat" — **traditional language, not modern clinical fact.**
-- **Culture:** chrysanthemum is one of the "Four Gentlemen" (四君子) of Chinese art, alongside plum, orchid, and bamboo.
+- **Culture:** chrysanthemum is one of the "Four Gentlemen" (四君子) of Chinese art, alongside plum, orchid, and bamboo — and is central to the Double Ninth Festival (重阳节), where it symbolizes longevity and the autumn season.
+
+The Double Ninth association is worth knowing: chrysanthemum's cultural weight in China is tied to **autumn and longevity**, which is why it appears in poetry, painting, and festival ritual far beyond its role as a tea.
 
 ## Traditional use vs modern evidence
 
-Chrysanthemum has a long record of use as a tea and food; modern research on its phytochemicals exists but is largely **preclinical**. We describe its tea and cultural use; we do **not** make medical claims (e.g. "cures colds," "lowers blood pressure").
+Chrysanthemum has a long record of use as a tea and food; modern research on its phytochemicals (flavonoids like luteolin, chlorogenic acid) exists but is largely **preclinical** (cell and animal studies). We describe its tea and cultural use; we do **not** make medical claims (e.g. "cures colds," "lowers blood pressure," "protects eyesight").
 
 ## Safety
 
-Chrysanthemum is food-grade and widely drunk as tea; however, incense combustion produces smoke and particulate matter — burn in a well-ventilated space.
+Chrysanthemum is food-grade and widely drunk as tea; however, incense combustion produces smoke and particulate matter — burn in a well-ventilated space. People with ragweed-family (Asteraceae) allergies may wish to be cautious with chrysanthemum, though this is more relevant to tea than to incense.
 
 ## FAQ
 
 **Is chrysanthemum tea a medicine?** It is a traditional tea and food; traditional medicinal descriptions are not modern clinical evidence.
+
+**Is chrysanthemum the same as chamomile?** No — chrysanthemum is *Chrysanthemum morifolium* (Asteraceae); chamomile is a different genus (*Matricaria*/*Chamaemelum*). They share a floral-herbal family resemblance but are different plants.
 
 ---
 
@@ -60,4 +76,10 @@ Chrysanthemum is food-grade and widely drunk as tea; however, incense combustion
 
 **Is chrysanthemum the same as chamomile?** No. Chrysanthemum is *Chrysanthemum morifolium* (Asteraceae); chamomile is a different genus (*Matricaria*/*Chamaemelum*). They share a floral-herbal family resemblance but are different plants.
 
-*Sources: botanical references on *Chrysanthemum morifolium* and TCM accounts of 菊花. Medicinal claims are treated as traditional. This is editorial knowledge content, not medical advice.*
+**What is chrysanthemum associated with in Chinese culture?** Autumn and longevity — it is central to the Double Ninth Festival (重阳节) and is one of the "Four Gentlemen" of Chinese painting and poetry.
+
+**Is chrysanthemum incense safe?** Like all burning plant material, chrysanthemum produces smoke and particulate matter. Burn in a well-ventilated space and avoid inhaling concentrated smoke. This is general safety guidance, not a claim about any condition.
+
+See also: [mugwort](/ingredients/mugwort/), another herbal (non-sweet) Chinese incense material, and the full [scent guide](/scent-guide/).
+
+*Sources: botanical references on *Chrysanthemum morifolium* and TCM accounts of 菊花 (varieties, festival association). Medicinal claims are treated as traditional. This is editorial knowledge content, not medical advice.*

@@ -64,6 +64,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Is cedar incense safe for pets?** All incense produces smoke and particulate matter. Burn in a ventilated space and keep it away from pets. General safety guidance, not a claim about any condition.
 
-**See also:** [sandalwood](/ingredients/sandalwood/), the [sandalwood incense guide](/sandalwood-incense/), and the full [scent guide](/scent-guide/).
+See also: [sandalwood](/ingredients/sandalwood/), the [sandalwood incense guide](/sandalwood-incense/), and the full [scent guide](/scent-guide/).
 
 *Sources: botanical references on *Cedrus* and *Juniperus virginiana*, plus the observation that commercial "cedarwood" claims are widely overstated. This is editorial knowledge content, not medical advice.*
