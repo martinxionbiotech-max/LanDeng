@@ -100,36 +100,36 @@ This "middle path" — richer than Japanese minimalism, cleaner than Indian bold
 
 ## FAQ
 
-**Q: What is the difference between Chinese and Japanese incense?**
-A: The culture is Chinese in origin; Japan's kōdō formalized it, especially the low-smoke 隔火焚香 technique. Chinese incense today tends to be warmer and more layered, Japanese kōh more minimalist.
+### Q: What is the difference between Chinese and Japanese incense?
+The culture is Chinese in origin; Japan's kōdō formalized it, especially the low-smoke 隔火焚香 technique. Chinese incense today tends to be warmer and more layered, Japanese kōh more minimalist.
 
-**Q: Is Chinese incense the same as essential-oil aromatherapy?**
-A: No. They share "pleasant smell" but differ in materials, method (heating/burning vs diffusion), and tradition. Classical Chinese incense is a material-and-ritual practice.
+### Q: Is Chinese incense the same as essential-oil aromatherapy?
+No. They share "pleasant smell" but differ in materials, method (heating/burning vs diffusion), and tradition. Classical Chinese incense is a material-and-ritual practice.
 
-**Q: What are the main forms?**
-A: Loose material (wood chips, resin, powder), formed sticks 线香, coils 盘香, and cones. Stick incense is a Ming-dynasty-era everyday form.
+### Q: What are the main forms?
+Loose material (wood chips, resin, powder), formed sticks 线香, coils 盘香, and cones. Stick incense is a Ming-dynasty-era everyday form.
 
-**Q: Does incense help you sleep or reduce anxiety?**
-A: [BRAND] does not make medical claims. Many people use a calming fragrance as part of an unwinding routine, but incense is a wellness and ambiance practice, not a treatment.
+### Q: Does incense help you sleep or reduce anxiety?
+[BRAND] does not make medical claims. Many people use a calming fragrance as part of an unwinding routine, but incense is a wellness and ambiance practice, not a treatment.
 
 ---
 
 ## People Also Ask / 长尾问答
 
-**Q: What does Chinese incense smell like?**
-A: There is no single answer — it depends on the material. Sandalwood 檀香 is creamy and sweet-woody; agarwood 沉香 is deep, resinous, and sweet; blended 合香 compounds range from floral to medicinal. The shared signature is warmth and layering rather than one sharp note.
+### Q: What does Chinese incense smell like?
+There is no single answer — it depends on the material. Sandalwood 檀香 is creamy and sweet-woody; agarwood 沉香 is deep, resinous, and sweet; blended 合香 compounds range from floral to medicinal. The shared signature is warmth and layering rather than one sharp note.
 
-**Q: How long does a Chinese incense stick burn?**
-A: Roughly 20–60 minutes depending on length and thickness. A short Japanese-style coreless stick burns ~25–30 minutes; a thicker bamboo-core stick ~45–60 minutes. Cones burn only 10–15 minutes; coils burn for hours.
+### Q: How long does a Chinese incense stick burn?
+Roughly 20–60 minutes depending on length and thickness. A short Japanese-style coreless stick burns ~25–30 minutes; a thicker bamboo-core stick ~45–60 minutes. Cones burn only 10–15 minutes; coils burn for hours.
 
-**Q: What is 合香 (hé xiāng) blended incense?**
-A: Compound incense — a blend of multiple ingredients built on a 君臣佐使 (chief–minister–assistant–guide) formula principle, analogous to how Chinese herbal formulas are structured. It is the opposite of a single-material incense like a lone piece of agarwood.
+### Q: What is 合香 (hé xiāng) blended incense?
+Compound incense — a blend of multiple ingredients built on a 君臣佐使 (chief–minister–assistant–guide) formula principle, analogous to how Chinese herbal formulas are structured. It is the opposite of a single-material incense like a lone piece of agarwood.
 
-**Q: Is Chinese incense the same as temple incense?**
-A: Not exactly. Temple incense is usually a specific, inexpensive stick or coil burned as an offering; classical Chinese incense culture is broader and includes the refined appreciation of single woods and blended 合香. They overlap in materials but differ in intent.
+### Q: Is Chinese incense the same as temple incense?
+Not exactly. Temple incense is usually a specific, inexpensive stick or coil burned as an offering; classical Chinese incense culture is broader and includes the refined appreciation of single woods and blended 合香. They overlap in materials but differ in intent.
 
-**Q: What is the difference between incense and a candle?**
-A: A candle is wax with a wick, scented (or not) and burned for light/heat plus fragrance. Incense is aromatic plant material burned or heated for its scent alone — no wax, no wick, and its tradition is a material-and-ritual practice rather than a lighting technology.
+### Q: What is the difference between incense and a candle?
+A candle is wax with a wick, scented (or not) and burned for light/heat plus fragrance. Incense is aromatic plant material burned or heated for its scent alone — no wax, no wick, and its tradition is a material-and-ritual practice rather than a lighting technology.
 
 ## Sources
 

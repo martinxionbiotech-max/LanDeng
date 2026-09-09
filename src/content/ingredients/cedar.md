@@ -5,6 +5,8 @@ chinese: 雪松
 pinyin: xuěsōng
 scientificName: "Cedrus spp. (true cedar); note 'cedarwood' often = Juniperus virginiana"
 type: ingredient
+primary_keyword: "what is cedar incense"
+search_intent: informational
 aroma: ["woody", "clean", "slightly sweet"]
 status: draft
 related: ["vetiver", "patchouli"]
@@ -61,5 +63,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 **Which cedar is used in incense?** It varies. True cedars (*Cedrus*, e.g. Himalayan/Atlas cedar) are one source, but much commercial "cedarwood" oil comes from red cedar (*Juniperus virginiana*), a juniper. The species matters for aroma and price.
 
 **Is cedar incense safe for pets?** All incense produces smoke and particulate matter. Burn in a ventilated space and keep it away from pets. General safety guidance, not a claim about any condition.
+
+**See also:** [sandalwood](/ingredients/sandalwood/), the [sandalwood incense guide](/sandalwood-incense/), and the full [scent guide](/scent-guide/).
 
 *Sources: botanical references on *Cedrus* and *Juniperus virginiana*, plus the observation that commercial "cedarwood" claims are widely overstated. This is editorial knowledge content, not medical advice.*

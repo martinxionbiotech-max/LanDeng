@@ -5,6 +5,8 @@ chinese: 没药
 pinyin: mòyào
 scientificName: "Commiphora myrrha (and other Commiphora spp.)"
 type: ingredient
+primary_keyword: "what is myrrh"
+search_intent: informational
 aroma: ["balsamic", "earthy", "bitter", "medicinal"]
 status: draft
 related: ["frankincense"]
@@ -63,5 +65,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 **Where does myrrh come from?** From *Commiphora* trees, mainly across the Horn of Africa and the Arabian Peninsula. The resin is tapped from the bark and hardens into tears.
 
 **Is myrrh a wood?** No — it is a dried gum-resin collected from the tree's bark, not the wood itself.
+
+**See also:** [frankincense, myrrh's classical partner](/ingredients/frankincense/), the [frankincense incense guide](/frankincense-incense/), and the full [scent guide](/scent-guide/).
 
 *Sources: botanical and pharmacological references on *Commiphora*. Medicinal claims are treated as traditional/preliminary, not established clinical fact. This is editorial knowledge content, not medical advice.*

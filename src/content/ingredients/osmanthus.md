@@ -5,6 +5,8 @@ chinese: 桂花
 pinyin: guìhuā
 scientificName: "Osmanthus fragrans"
 type: ingredient
+primary_keyword: "what is osmanthus"
+search_intent: informational
 aroma: ["sweet", "floral", "apricot", "honey"]
 status: draft
 related: ["jasmine", "rose"]

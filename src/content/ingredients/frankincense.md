@@ -5,6 +5,8 @@ chinese: 乳香
 pinyin: rǔxiāng
 scientificName: "Boswellia spp. (B. sacra, B. serrata, B. carterii)"
 type: ingredient
+primary_keyword: "what is frankincense"
+search_intent: informational
 aroma: ["resinous", "citrus", "earthy", "creamy"]
 status: draft
 related: ["myrrh", "agarwood"]
@@ -74,5 +76,7 @@ Both are resins from the same plant family (Burseraceae), but from different gen
 **Is frankincense the same as oud or agarwood?** No. Frankincense is a gum-resin from *Boswellia* trees (Burseraceae); agarwood/oud is resin-impregnated *Aquilaria* wood. They are different materials, plants, and aromas.
 
 **Is frankincense a wood?** No — it is a dried gum-resin collected from the tree's bark, not the wood itself.
+
+**See also:** the [frankincense incense guide](/frankincense-incense/) and the full [scent guide](/scent-guide/).
 
 *Sources: botanical and pharmacological references on *Boswellia*. Medicinal claims are treated as traditional/preliminary, not established clinical fact. This is editorial knowledge content, not medical advice.*

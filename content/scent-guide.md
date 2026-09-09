@@ -18,6 +18,16 @@ author: "[AUTHOR]"
 
 ---
 
+## Key Takeaways
+
+- Choosing an incense scent is choosing an **atmosphere** — bright and focusing on one end, deep and grounding on the other.
+- The classical Chinese canon is **woods and resins** (agarwood, sandalwood, frankincense); florals and citrus are mostly modern or symbolic additions.
+- **Check the material, not the name** — "sandalwood," "lotus," and "lavender" on a label can each be a real material or a fragrance accord.
+- **Atmosphere ≠ intensity** — a "calm" wood can be subtle and profound, not weak; a "bright" citrus can be light, not loud.
+- No incense scent is a **medical treatment**; "calming" and "focusing" describe aroma character, not a physiological effect.
+
+---
+
 ## The Scent Spectrum at a Glance
 
 | Atmosphere | Reference scents | Character |
@@ -75,17 +85,17 @@ The classical Chinese incense tradition (香谱) is built on **woods and resins*
 
 ## FAQ
 
-**Q: What is the best incense scent for focus?**
-A: Citrus and frankincense are the classic "bright, focusing" scents. See the [citrus](/citrus-incense/) and [frankincense](/frankincense-incense/) guides.
+### Q: What is the best incense scent for focus?
+Citrus and frankincense are the classic "bright, focusing" scents. See the [citrus](/citrus-incense/) and [frankincense](/frankincense-incense/) guides.
 
-**Q: What is the most calming incense scent?**
-A: Sandalwood is the classic calming, warming wood; agarwood is deeper and more enveloping. "Calming" describes aroma, not a medical effect.
+### Q: What is the most calming incense scent?
+Sandalwood is the classic calming, warming wood; agarwood is deeper and more enveloping. "Calming" describes aroma, not a medical effect.
 
-**Q: Are floral incense scents traditional Chinese?**
-A: Mostly not. The classical canon is woods and resins; lotus and lavender are largely modern or symbolic additions. See [what Chinese incense is](/what-is-chinese-incense/).
+### Q: Are floral incense scents traditional Chinese?
+Mostly not. The classical canon is woods and resins; lotus and lavender are largely modern or symbolic additions. See [what Chinese incense is](/what-is-chinese-incense/).
 
-**Q: How do I know what I'm actually buying?**
-A: Confirm the material or accord behind the label — "sandalwood," "lotus," and "lavender" can each be a real material or a fragrance accord.
+### Q: How do I know what I'm actually buying?
+Confirm the material or accord behind the label — "sandalwood," "lotus," and "lavender" can each be a real material or a fragrance accord.
 
 ---
 

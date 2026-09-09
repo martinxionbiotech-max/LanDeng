@@ -119,20 +119,20 @@ The honest way to say it: frankincense is a scent people associate with **clarit
 
 ## FAQ
 
-**Q: What does frankincense smell like?**
-A: Fresh and warm at once — resinous and balsamic with a citrus (lemony) opening, plus peppery and woody notes. It reads "bright" and "clearing" rather than heavy.
+### Q: What does frankincense smell like?
+Fresh and warm at once — resinous and balsamic with a citrus (lemony) opening, plus peppery and woody notes. It reads "bright" and "clearing" rather than heavy.
 
-**Q: Is frankincense the same as oud or agarwood?**
-A: No. Frankincense is a gum-resin from *Boswellia* trees (Burseraceae); agarwood/oud is resin-impregnated *Aquilaria* wood. Different plants, different materials, different aromas.
+### Q: Is frankincense the same as oud or agarwood?
+No. Frankincense is a gum-resin from *Boswellia* trees (Burseraceae); agarwood/oud is resin-impregnated *Aquilaria* wood. Different plants, different materials, different aromas.
 
-**Q: How do you burn frankincense resin?**
-A: Traditionally on a lit charcoal disc (in sand or ash on a heatproof surface), or more gently on an electric incense heater, which shows the bright citrus first with less smoke.
+### Q: How do you burn frankincense resin?
+Traditionally on a lit charcoal disc (in sand or ash on a heatproof surface), or more gently on an electric incense heater, which shows the bright citrus first with less smoke.
 
-**Q: Why does frankincense smell "churchy"?**
-A: Because frankincense has been used in religious ritual for millennia — in churches, temples, and fumigation. The "old church" association comes from that history, not from the resin being inherently religious.
+### Q: Why does frankincense smell "churchy"?
+Because frankincense has been used in religious ritual for millennia — in churches, temples, and fumigation. The "old church" association comes from that history, not from the resin being inherently religious.
 
-**Q: Is stick frankincense the same as the resin?**
-A: Not necessarily. Many frankincense sticks and cones use a fragrance oil rather than real resin. Confirm whether the product contains *Boswellia* resin or a synthetic "frankincense" note.
+### Q: Is stick frankincense the same as the resin?
+Not necessarily. Many frankincense sticks and cones use a fragrance oil rather than real resin. Confirm whether the product contains *Boswellia* resin or a synthetic "frankincense" note.
 
 ---
 

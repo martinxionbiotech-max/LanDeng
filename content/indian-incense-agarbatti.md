@@ -91,17 +91,17 @@ Agarbatti is inseparable from **Hindu and Buddhist ritual** — burned in *puja*
 
 ## FAQ
 
-**Q: What does "agarbatti" mean?**
-A: It comes from Sanskrit *agarvarti* — "agar (agarwood) smoke" — and refers to the classic Indian bamboo-core incense stick.
+### Q: What does "agarbatti" mean?
+It comes from Sanskrit *agarvarti* — "agar (agarwood) smoke" — and refers to the classic Indian bamboo-core incense stick.
 
-**Q: What is the difference between masala and dipped agarbatti?**
-A: Masala is hand-rolled from real botanical powders; dipped is a core dipped in a liquid fragrance. Masala is usually earthier and pricier; dipped is stronger, cheaper, and uniform.
+### Q: What is the difference between masala and dipped agarbatti?
+Masala is hand-rolled from real botanical powders; dipped is a core dipped in a liquid fragrance. Masala is usually earthier and pricier; dipped is stronger, cheaper, and uniform.
 
-**Q: What does Indian incense smell like?**
-A: Bold, floral-spicy, and often smoky — sandalwood, jasmine, rose, and champa are the classic notes.
+### Q: What does Indian incense smell like?
+Bold, floral-spicy, and often smoky — sandalwood, jasmine, rose, and champa are the classic notes.
 
-**Q: Is Indian incense the same as Chinese or Japanese incense?**
-A: No. Indian incense is bold and expressive; Chinese 香 is warmer and layered; Japanese kōh is minimalist. See [what Chinese incense is](/what-is-chinese-incense/).
+### Q: Is Indian incense the same as Chinese or Japanese incense?
+No. Indian incense is bold and expressive; Chinese 香 is warmer and layered; Japanese kōh is minimalist. See [what Chinese incense is](/what-is-chinese-incense/).
 
 ---
 

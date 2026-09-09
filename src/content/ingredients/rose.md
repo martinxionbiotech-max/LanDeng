@@ -5,6 +5,8 @@ chinese: 玫瑰
 pinyin: méiguī
 scientificName: "Rosa rugosa (Chinese rose); also Rosa damascena"
 type: ingredient
+primary_keyword: "what is chinese rose"
+search_intent: informational
 aroma: ["sweet", "floral", "romantic"]
 status: draft
 related: ["jasmine"]

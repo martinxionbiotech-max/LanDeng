@@ -5,6 +5,8 @@ chinese: 菊花
 pinyin: júhuā
 scientificName: "Chrysanthemum morifolium (and C. indicum)"
 type: ingredient
+primary_keyword: "what is chrysanthemum"
+search_intent: informational
 aroma: ["floral", "herbal", "bittersweet"]
 status: draft
 related: ["mugwort", "jasmine"]

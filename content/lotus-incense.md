@@ -97,20 +97,20 @@ The consequence for buyers: **most "lotus" sticks, cones, and blends use a synth
 
 ## FAQ
 
-**Q: What does lotus smell like?**
-A: Delicate, mildly sweet, and fresh-floral — light and airy rather than heavy or heady. It reads as an "uplifting" note.
+### Q: What does lotus smell like?
+Delicate, mildly sweet, and fresh-floral — light and airy rather than heavy or heady. It reads as an "uplifting" note.
 
-**Q: Is blue lotus the same as lotus?**
-A: No. Blue lotus (*Nymphaea caerulea*) is a water lily, not a true lotus (*Nelumbo nucifera*). They are different plant families.
+### Q: Is blue lotus the same as lotus?
+No. Blue lotus (*Nymphaea caerulea*) is a water lily, not a true lotus (*Nelumbo nucifera*). They are different plant families.
 
-**Q: Does lotus incense contain real lotus?**
-A: Usually not — most commercial "lotus" uses a floral fragrance accord, because true lotus absolute is rare and expensive. Confirm with the seller what the scent is derived from.
+### Q: Does lotus incense contain real lotus?
+Usually not — most commercial "lotus" uses a floral fragrance accord, because true lotus absolute is rare and expensive. Confirm with the seller what the scent is derived from.
 
-**Q: What is the lotus a symbol of?**
-A: Purity — captured in the phrase 出淤泥而不染 ("emerges from the mud unstained"), and central to Buddhist iconography as the lotus throne.
+### Q: What is the lotus a symbol of?
+Purity — captured in the phrase 出淤泥而不染 ("emerges from the mud unstained"), and central to Buddhist iconography as the lotus throne.
 
-**Q: Is lotus a traditional Chinese incense ingredient?**
-A: Not in the classical wood/resin canon. Lotus is more a **symbol and modern floral note** than a classical incense material like agarwood or sandalwood.
+### Q: Is lotus a traditional Chinese incense ingredient?
+Not in the classical wood/resin canon. Lotus is more a **symbol and modern floral note** than a classical incense material like agarwood or sandalwood.
 
 ---
 

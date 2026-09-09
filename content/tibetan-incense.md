@@ -94,17 +94,17 @@ Tibetan incense sits near Indian incense in its smokiness but differs in being *
 
 ## FAQ
 
-**Q: What does Tibetan incense smell like?**
-A: Earthy, herbal, and slightly smoky — juniper and other aromatic plants over a sweet-woody base, rather than a single dominant note.
+### Q: What does Tibetan incense smell like?
+Earthy, herbal, and slightly smoky — juniper and other aromatic plants over a sweet-woody base, rather than a single dominant note.
 
-**Q: Does Tibetan incense have a bamboo core?**
-A: Typically no. Tibetan sticks are hand-rolled and coreless, and often thicker than Indian or Japanese sticks.
+### Q: Does Tibetan incense have a bamboo core?
+Typically no. Tibetan sticks are hand-rolled and coreless, and often thicker than Indian or Japanese sticks.
 
-**Q: Is Tibetan incense medicinal?**
-A: Its recipes come from the Tibetan medical system (Sowa Rigpa), but that is a cultural and historical context — burning it is not a clinical treatment.
+### Q: Is Tibetan incense medicinal?
+Its recipes come from the Tibetan medical system (Sowa Rigpa), but that is a cultural and historical context — burning it is not a clinical treatment.
 
-**Q: How is Tibetan incense different from Indian incense?**
-A: Indian agarbatti is bold and floral-spicy on a bamboo core; Tibetan incense is earthy, herbal, and smoky, in a thicker coreless stick. See [Indian incense](/indian-incense-agarbatti/).
+### Q: How is Tibetan incense different from Indian incense?
+Indian agarbatti is bold and floral-spicy on a bamboo core; Tibetan incense is earthy, herbal, and smoky, in a thicker coreless stick. See [Indian incense](/indian-incense-agarbatti/).
 
 ---
 

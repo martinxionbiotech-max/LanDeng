@@ -5,6 +5,8 @@ chinese: 檀香
 pinyin: tánxiāng
 scientificName: "Santalum album (and other Santalum spp.)"
 type: ingredient
+primary_keyword: "what is sandalwood"
+search_intent: informational
 aroma: ["creamy", "sweet", "soft", "woody"]
 status: draft
 related: ["agarwood", "vetiver"]
@@ -83,5 +85,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 **Why is real sandalwood so expensive?** *Santalum album* is slow-growing and hemiparasitic, its heartwood takes decades to develop aroma, and wild stands are depleted. Scarcity plus demand drives the price — cheap "sandalwood" is usually synthetic.
 
 **Is sandalwood incense safe for pets?** All incense produces smoke and particulate matter, and animals can be more sensitive to airborne irritants. Burn in a ventilated space, keep it away from pets, and watch for any reaction. This is general safety guidance, not a claim about any condition.
+
+**See also:** the [sandalwood incense guide](/sandalwood-incense/) and the full [scent guide](/scent-guide/).
 
 *Sources: botanical references on *Santalum* spp. and commercial/enthusiast accounts of the sandalwood trade. Health-benefit claims circulating online are treated as traditional/unverified, not established evidence. This is editorial knowledge content, not medical advice.*

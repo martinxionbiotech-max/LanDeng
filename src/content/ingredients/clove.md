@@ -5,6 +5,8 @@ chinese: 丁香
 pinyin: dīngxiāng
 scientificName: "Syzygium aromaticum"
 type: ingredient
+primary_keyword: "what is clove"
+search_intent: informational
 aroma: ["spicy", "warm", "aromatic"]
 status: draft
 related: ["cinnamon"]

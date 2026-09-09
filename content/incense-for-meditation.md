@@ -114,20 +114,20 @@ This is not a weaker framing — it is the defensible one, and it is what keeps 
 
 ## FAQ
 
-**Q: What is the best incense for meditation?**
-A: There is no single "best," but the traditional choices are the calm woods and resins — sandalwood, agarwood, and frankincense — for their soft, long-lasting, non-distracting character. Match the burn time to your session length.
+### Q: What is the best incense for meditation?
+There is no single "best," but the traditional choices are the calm woods and resins — sandalwood, agarwood, and frankincense — for their soft, long-lasting, non-distracting character. Match the burn time to your session length.
 
-**Q: How long should I burn incense for meditation?**
-A: Match the format to your sit: a Japanese coreless stick (~25–30 min) for a short session, a bamboo-core stick (~45–60 min) or a coil for longer ones. The incense ending when the sit ends is the cleanest setup.
+### Q: How long should I burn incense for meditation?
+Match the format to your sit: a Japanese coreless stick (~25–30 min) for a short session, a bamboo-core stick (~45–60 min) or a coil for longer ones. The incense ending when the sit ends is the cleanest setup.
 
-**Q: Does meditation incense reduce stress or anxiety?**
-A: [BRAND] makes no such claim. Incense can be part of a calming, focused routine, but it is not a treatment for stress, anxiety, or any medical condition.
+### Q: Does meditation incense reduce stress or anxiety?
+[BRAND] makes no such claim. Incense can be part of a calming, focused routine, but it is not a treatment for stress, anxiety, or any medical condition.
 
-**Q: What does "one stick of incense" mean as a unit of time?**
-A: In Chinese tradition, "一炷香" (one stick of incense) was used as a rough unit of time — the span a stick takes to burn — and incense trails (篆香) were even used as timed, patterned timekeepers.
+### Q: What does "one stick of incense" mean as a unit of time?
+In Chinese tradition, "一炷香" (one stick of incense) was used as a rough unit of time — the span a stick takes to burn — and incense trails (篆香) were even used as timed, patterned timekeepers.
 
-**Q: Is a cone or a stick better for meditation?**
-A: For most sessions a stick is better because its burn time (20–60 min) matches a typical sit; a cone (~10–15 min) is shorter. Pick by session length, not by shape.
+### Q: Is a cone or a stick better for meditation?
+For most sessions a stick is better because its burn time (20–60 min) matches a typical sit; a cone (~10–15 min) is shorter. Pick by session length, not by shape.
 
 ---
 

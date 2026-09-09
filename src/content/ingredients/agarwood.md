@@ -5,6 +5,8 @@ chinese: 沉香
 pinyin: chénxiāng
 scientificName: "Aquilaria spp."
 type: ingredient
+primary_keyword: "what is agarwood"
+search_intent: informational
 aroma: ["woody", "resinous", "sweet", "complex"]
 status: draft
 related: ["sandalwood", "frankincense"]
@@ -109,5 +111,7 @@ Both are premium aromatic woods, but they form differently and smell different:
 **Can agarwood be farmed?** Yes. Because wild agarwood is depleted, much modern supply is cultivated *Aquilaria* that is deliberately wounded to trigger resin formation. This is legitimate but generally lower-grade than old wild material.
 
 **How should I store agarwood?** Cool, dry, airtight, and away from direct light. Agarwood keeps well, but heat, humidity, and strong ambient odors can degrade or contaminate the scent over time.
+
+**See also:** the [agarwood incense guide](/agarwood-incense/) and the full [scent guide](/scent-guide/).
 
 *Sources: this page synthesizes Chinese-language trade/specialist sources (奇楠 grading, adulteration) and botanical references (Aquilaria sinensis). Etymology of "qínán" and the 奇楠 color-grade hierarchy remain disputed and are noted as such. This is editorial knowledge content, not medical or investment advice.*

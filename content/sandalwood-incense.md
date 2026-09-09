@@ -99,36 +99,36 @@ Because true *Santalum album* is scarce and comparatively expensive, substitutio
 
 ## FAQ
 
-**Q: What is the difference between sandalwood and agarwood?**
-A: Both are precious aromatic woods, but different materials: sandalwood is *Santalum* heartwood with a creamy, sweet-woody scent; agarwood is resin-impregnated *Aquilaria* wood with a deeper, resinous character. See the [agarwood guide](/agarwood-incense/).
+### Q: What is the difference between sandalwood and agarwood?
+Both are precious aromatic woods, but different materials: sandalwood is *Santalum* heartwood with a creamy, sweet-woody scent; agarwood is resin-impregnated *Aquilaria* wood with a deeper, resinous character. See the [agarwood guide](/agarwood-incense/).
 
-**Q: Is all "sandalwood" the same?**
-A: No. The classic is *Santalum album*; Australian, New Caledonian, and Hawaiian species are common substitutes, and some "sandalwood" products are synthetic fragrance.
+### Q: Is all "sandalwood" the same?
+No. The classic is *Santalum album*; Australian, New Caledonian, and Hawaiian species are common substitutes, and some "sandalwood" products are synthetic fragrance.
 
-**Q: Does sandalwood incense help you sleep or reduce anxiety?**
-A: [BRAND] makes no medical claims. It is traditionally associated with calming, and many people use it in a wind-down routine, but it is not a treatment.
+### Q: Does sandalwood incense help you sleep or reduce anxiety?
+[BRAND] makes no medical claims. It is traditionally associated with calming, and many people use it in a wind-down routine, but it is not a treatment.
 
-**Q: How can I tell real sandalwood from synthetic?**
-A: Confirm the species with the seller, check whether the product is wood/wood-powder versus fragrance oil, and treat a very low price as a signal of fragrance rather than wood.
+### Q: How can I tell real sandalwood from synthetic?
+Confirm the species with the seller, check whether the product is wood/wood-powder versus fragrance oil, and treat a very low price as a signal of fragrance rather than wood.
 
 ---
 
 ## People Also Ask / 长尾问答
 
-**Q: What does sandalwood incense smell like?**
-A: Creamy, sweet, and soft-woody — the best material has a distinctly "buttery" smoothness. It is warmer and rounder than a sharp wood note, which is why it works both alone and as a base in blends.
+### Q: What does sandalwood incense smell like?
+Creamy, sweet, and soft-woody — the best material has a distinctly "buttery" smoothness. It is warmer and rounder than a sharp wood note, which is why it works both alone and as a base in blends.
 
-**Q: How long does a sandalwood incense stick burn?**
-A: The same range as other sticks — roughly 20–60 minutes depending on length and thickness, with short Japanese coreless sticks ~25–30 minutes and thicker bamboo-core sticks ~45–60 minutes. The scent lingers after the stick goes out.
+### Q: How long does a sandalwood incense stick burn?
+The same range as other sticks — roughly 20–60 minutes depending on length and thickness, with short Japanese coreless sticks ~25–30 minutes and thicker bamboo-core sticks ~45–60 minutes. The scent lingers after the stick goes out.
 
-**Q: What is the difference between sandalwood oil and sandalwood powder?**
-A: Oil is the concentrated steam-distilled volatile extract; powder is the ground heartwood itself. Oil gives the bright, immediate notes; wood gives the slower, deeper "cooked" aroma. A stick scented with oil is not the same product as one made from the wood. See [essential oils in incense](/essential-oils-in-incense/).
+### Q: What is the difference between sandalwood oil and sandalwood powder?
+Oil is the concentrated steam-distilled volatile extract; powder is the ground heartwood itself. Oil gives the bright, immediate notes; wood gives the slower, deeper "cooked" aroma. A stick scented with oil is not the same product as one made from the wood. See [essential oils in incense](/essential-oils-in-incense/).
 
-**Q: Why is real sandalwood so expensive?**
-A: *Santalum album* is a slow-growing hemiparasitic tree whose heartwood takes decades to develop aroma, and wild stands have been heavily depleted. Scarcity plus demand drives the price — which is why cheap "sandalwood" sticks are almost always synthetic fragrance.
+### Q: Why is real sandalwood so expensive?
+*Santalum album* is a slow-growing hemiparasitic tree whose heartwood takes decades to develop aroma, and wild stands have been heavily depleted. Scarcity plus demand drives the price — which is why cheap "sandalwood" sticks are almost always synthetic fragrance.
 
-**Q: Is sandalwood incense safe for pets?**
-A: All incense produces smoke and particulate matter, and animals can be more sensitive to airborne irritants than people. Burn in a ventilated space, keep it away from pets, and watch for any sign of discomfort. This is general safety guidance, not a claim about any specific condition.
+### Q: Is sandalwood incense safe for pets?
+All incense produces smoke and particulate matter, and animals can be more sensitive to airborne irritants than people. Burn in a ventilated space, keep it away from pets, and watch for any sign of discomfort. This is general safety guidance, not a claim about any specific condition.
 
 ## Sources
 

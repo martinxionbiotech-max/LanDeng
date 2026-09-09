@@ -96,20 +96,20 @@ Citrus and frankincense occupy the "bright, focusing" end together; the differen
 
 ## FAQ
 
-**Q: What does citrus incense smell like?**
-A: Bright, zesty, and fresh — orange/mandarin, bergamot, yuzu, or lemon. It reads as an energizing, focusing note.
+### Q: What does citrus incense smell like?
+Bright, zesty, and fresh — orange/mandarin, bergamot, yuzu, or lemon. It reads as an energizing, focusing note.
 
-**Q: What is 陈皮 (chénpí)?**
-A: Dried, aged mandarin (*Citrus reticulata*) peel — a classic Chinese material with a warm, sweet, slightly earthy citrus note. See the [orange peel reference](/ingredients/orange-peel/).
+### Q: What is 陈皮 (chénpí)?
+Dried, aged mandarin (*Citrus reticulata*) peel — a classic Chinese material with a warm, sweet, slightly earthy citrus note. See the [orange peel reference](/ingredients/orange-peel/).
 
-**Q: Why does citrus incense fade so fast?**
-A: Citrus oils are highly volatile, so the note evaporates quickly. That is why citrus is used as a top note in a blend, over a wood or resin base.
+### Q: Why does citrus incense fade so fast?
+Citrus oils are highly volatile, so the note evaporates quickly. That is why citrus is used as a top note in a blend, over a wood or resin base.
 
-**Q: Is citrus incense energizing?**
-A: It is a bright, fresh scent that many people associate with focus and energy — an aromatic character, not a physiological effect.
+### Q: Is citrus incense energizing?
+It is a bright, fresh scent that many people associate with focus and energy — an aromatic character, not a physiological effect.
 
-**Q: Is citrus a traditional Chinese incense ingredient?**
-A: Via 陈皮 (aged mandarin peel), yes. But in modern incense, "citrus" more often means a bright blend note.
+### Q: Is citrus a traditional Chinese incense ingredient?
+Via 陈皮 (aged mandarin peel), yes. But in modern incense, "citrus" more often means a bright blend note.
 
 ---
 

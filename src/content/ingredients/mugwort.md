@@ -5,6 +5,8 @@ chinese: 艾草
 pinyin: àicǎo
 scientificName: "Artemisia spp. (A. argyi, A. vulgaris)"
 type: ingredient
+primary_keyword: "what is mugwort"
+search_intent: informational
 aroma: ["herbal", "bitter-green", "camphoraceous"]
 status: draft
 related: ["chrysanthemum"]
@@ -61,5 +63,7 @@ Like all burning plant material, mugwort smoke contains particulate matter. Burn
 **What is the difference between mugwort and wormwood?** They are close relatives in the *Artemisia* genus. Mugwort most often means *A. argyi* or *A. vulgaris*; wormwood usually means *A. absinthium*. They share a bitter-herbal family character but are distinct species.
 
 **Is mugwort safe to burn?** Like all burning plant material, mugwort produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets.
+
+**See also:** [what Chinese incense is](/what-is-chinese-incense/) and the full [scent guide](/scent-guide/).
 
 *Sources: botanical references on *Artemisia* and cultural accounts of mugwort's traditional role. Moxibustion's medical claims are treated as not established by modern evidence. This is editorial knowledge content, not medical advice.*

@@ -5,6 +5,8 @@ chinese: 岩兰草
 pinyin: yánláncǎo
 scientificName: "Chrysopogon zizanioides (syn. Vetiveria zizanioides)"
 type: ingredient
+primary_keyword: "what is vetiver"
+search_intent: informational
 aroma: ["earthy", "woody", "smoky", "warm"]
 status: draft
 related: ["cedar", "patchouli", "sandalwood"]

@@ -88,17 +88,17 @@ This social, welcoming function is as central to the tradition as the scent itse
 
 ## FAQ
 
-**Q: What is the difference between oud and bakhoor?**
-A: Oud is agarwood — the material. Bakhoor is prepared wood chips (often agarwood) soaked in fragrance oils and resins, burned as chips. Bakhoor often *contains* oud but is not the same as raw oud.
+### Q: What is the difference between oud and bakhoor?
+Oud is agarwood — the material. Bakhoor is prepared wood chips (often agarwood) soaked in fragrance oils and resins, burned as chips. Bakhoor often *contains* oud but is not the same as raw oud.
 
-**Q: How do you burn bakhoor?**
-A: On a lit charcoal disc in a heatproof burner, or more gently on an electric incense burner. The chips are placed on the heat and release fragrant smoke.
+### Q: How do you burn bakhoor?
+On a lit charcoal disc in a heatproof burner, or more gently on an electric incense burner. The chips are placed on the heat and release fragrant smoke.
 
-**Q: Is Middle Eastern incense the same as agarwood incense?**
-A: Agarwood (oud) is the prestige material at its center, but the tradition also includes frankincense and prepared bakhoor blends. See the [agarwood](/agarwood-incense/) and [frankincense](/frankincense-incense/) guides.
+### Q: Is Middle Eastern incense the same as agarwood incense?
+Agarwood (oud) is the prestige material at its center, but the tradition also includes frankincense and prepared bakhoor blends. See the [agarwood](/agarwood-incense/) and [frankincense](/frankincense-incense/) guides.
 
-**Q: What does bakhoor smell like?**
-A: Rich, resinous, and warm — smoky and sweet, often built on oud with added floral or resin notes.
+### Q: What does bakhoor smell like?
+Rich, resinous, and warm — smoky and sweet, often built on oud with added floral or resin notes.
 
 ---
 

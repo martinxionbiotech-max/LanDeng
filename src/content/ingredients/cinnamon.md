@@ -5,6 +5,8 @@ chinese: 桂皮
 pinyin: guìpí
 scientificName: "Cinnamomum cassia (Chinese cinnamon/cassia); cf. C. verum (Ceylon cinnamon)"
 type: ingredient
+primary_keyword: "cinnamon vs cassia"
+search_intent: informational
 aroma: ["warm", "spicy", "sweet"]
 status: draft
 related: ["clove", "orange-peel"]

@@ -115,20 +115,20 @@ So the honest answer is: **"natural" depends on the specific product, not the ca
 
 ## FAQ
 
-**Q: Does a diffuser produce smoke?**
-A: No. An ultrasonic diffuser creates a water-and-oil mist; there is no combustion, so no smoke or combustion particulate. (Nebulizers atomize pure oil — also without burning.)
+### Q: Does a diffuser produce smoke?
+No. An ultrasonic diffuser creates a water-and-oil mist; there is no combustion, so no smoke or combustion particulate. (Nebulizers atomize pure oil — also without burning.)
 
-**Q: Is incense worse for indoor air than a diffuser?**
-A: Incense adds combustion particulate (PM2.5) to the air; a diffuser does not. That is a factual difference. If you burn incense, ventilate the room. This is safety guidance, not a claim about disease.
+### Q: Is incense worse for indoor air than a diffuser?
+Incense adds combustion particulate (PM2.5) to the air; a diffuser does not. That is a factual difference. If you burn incense, ventilate the room. This is safety guidance, not a claim about disease.
 
-**Q: Which is cheaper to use?**
-A: Incense is typically cheaper per use (pennies per stick) but fixed-duration. A diffuser costs more upfront and uses electricity plus oil refills, but runs continuously and is adjustable.
+### Q: Which is cheaper to use?
+Incense is typically cheaper per use (pennies per stick) but fixed-duration. A diffuser costs more upfront and uses electricity plus oil refills, but runs continuously and is adjustable.
 
-**Q: Which smells stronger?**
-A: It depends. Incense carries its aroma on smoke and can fill a room quickly but is fixed-duration; a diffuser's throw is adjustable with the water/oil ratio and runs continuously. The *character* differs more than the *strength*.
+### Q: Which smells stronger?
+It depends. Incense carries its aroma on smoke and can fill a room quickly but is fixed-duration; a diffuser's throw is adjustable with the water/oil ratio and runs continuously. The *character* differs more than the *strength*.
 
-**Q: Can I use essential oil in an incense burner?**
-A: No. Incense is solid material; it is not a vessel for liquid oil. Essential oils go in a diffuser. They are different formats with different tools.
+### Q: Can I use essential oil in an incense burner?
+No. Incense is solid material; it is not a vessel for liquid oil. Essential oils go in a diffuser. They are different formats with different tools.
 
 ---
 

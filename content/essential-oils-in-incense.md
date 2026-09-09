@@ -105,20 +105,20 @@ Neither method is automatically "better"; they are different products at differe
 
 ## FAQ
 
-**Q: What is the difference between essential oil and fragrance oil?**
-A: An essential oil is extracted from a plant (steam-distilled or cold-pressed). A fragrance oil is manufactured — often synthetic, sometimes built from natural isolates — to *smell like* something. "Sandalwood fragrance oil" is not sandalwood essential oil.
+### Q: What is the difference between essential oil and fragrance oil?
+An essential oil is extracted from a plant (steam-distilled or cold-pressed). A fragrance oil is manufactured — often synthetic, sometimes built from natural isolates — to *smell like* something. "Sandalwood fragrance oil" is not sandalwood essential oil.
 
-**Q: Is an essential oil the same as the plant it came from?**
-A: No. It is a concentrated extract of the plant's volatile aromatics. A sandalwood essential oil and sandalwood heartwood smell related but are different materials with different behavior.
+### Q: Is an essential oil the same as the plant it came from?
+No. It is a concentrated extract of the plant's volatile aromatics. A sandalwood essential oil and sandalwood heartwood smell related but are different materials with different behavior.
 
-**Q: Why do some incense sticks say "essential oil" and others say "powder"?**
-A: "Essential oil" means the stick's base is scented with oil; "powder" (e.g., sandalwood powder) means the fragrant material is the whole wood itself. Oil gives bright notes; wood gives a slower, deeper aroma. See the [sandalwood guide](/sandalwood-incense/).
+### Q: Why do some incense sticks say "essential oil" and others say "powder"?
+"Essential oil" means the stick's base is scented with oil; "powder" (e.g., sandalwood powder) means the fragrant material is the whole wood itself. Oil gives bright notes; wood gives a slower, deeper aroma. See the [sandalwood guide](/sandalwood-incense/).
 
-**Q: Does the word "essential" mean it's good for you?**
-A: No. It means "containing the essence/fragrance of the plant." It is not a statement about nutrition or health.
+### Q: Does the word "essential" mean it's good for you?
+No. It means "containing the essence/fragrance of the plant." It is not a statement about nutrition or health.
 
-**Q: Can I use essential oils to make my own incense?**
-A: Yes — but the traditional method uses plant material plus a natural binder like makko, with essential oil as an optional addition. See [what makes incense natural](/what-makes-incense-natural/) for the binder and base.
+### Q: Can I use essential oils to make my own incense?
+Yes — but the traditional method uses plant material plus a natural binder like makko, with essential oil as an optional addition. See [what makes incense natural](/what-makes-incense-natural/) for the binder and base.
 
 ---
 

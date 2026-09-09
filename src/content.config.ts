@@ -13,6 +13,8 @@ const ingredients = defineCollection({
     aroma: z.array(z.string()),
     status: z.string(),
     related: z.array(z.string()).optional(),
+    primary_keyword: z.string().optional(),
+    search_intent: z.string().optional(),
   }),
 });
 
@@ -23,6 +25,8 @@ const concepts = defineCollection({
     entity: z.string(),
     type: z.string(),
     status: z.string(),
+    primary_keyword: z.string().optional(),
+    search_intent: z.string().optional(),
   }),
 });
 

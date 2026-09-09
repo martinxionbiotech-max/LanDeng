@@ -5,6 +5,8 @@ chinese: 广藿香
 pinyin: guǎnghuòxiāng
 scientificName: "Pogostemon cablin"
 type: ingredient
+primary_keyword: "what is patchouli"
+search_intent: informational
 aroma: ["earthy", "woody", "balsamic", "spicy"]
 status: draft
 related: ["vetiver", "cedar"]

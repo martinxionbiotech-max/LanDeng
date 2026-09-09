@@ -5,6 +5,8 @@ chinese: 安息香
 pinyin: ānxīxiāng
 scientificName: "Styrax tonkinensis (Siam); Styrax benzoin / S. paralleloneurus (Sumatra)"
 type: ingredient
+primary_keyword: "what is benzoin"
+search_intent: informational
 aroma: ["sweet", "vanilla", "balsamic", "woody"]
 status: draft
 related: ["frankincense", "myrrh"]

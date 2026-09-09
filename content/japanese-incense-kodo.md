@@ -120,20 +120,20 @@ The "listen, don't smell" mindset and the rikkoku gomi vocabulary turn fragrance
 
 ## FAQ
 
-**Q: Is kōdō the same as Chinese 香道?**
-A: They share the name 香道 and a common origin, but they developed differently. Chinese incense culture is the historical source; Japanese kōdō is a later, formalized art built on the Song 隔火焚香 technique. See [what Chinese incense is](/what-is-chinese-incense/).
+### Q: Is kōdō the same as Chinese 香道?
+They share the name 香道 and a common origin, but they developed differently. Chinese incense culture is the historical source; Japanese kōdō is a later, formalized art built on the Song 隔火焚香 technique. See [what Chinese incense is](/what-is-chinese-incense/).
 
-**Q: What does "listening to incense" mean?**
-A: Kōdō uses the verb 聞 (kiku, "listen") rather than 嗅 (smell). Monkō means attending to a fragrance with focused attention — appreciating it as you would a piece of music.
+### Q: What does "listening to incense" mean?
+Kōdō uses the verb 聞 (kiku, "listen") rather than 嗅 (smell). Monkō means attending to a fragrance with focused attention — appreciating it as you would a piece of music.
 
-**Q: What is rikkoku gomi?**
-A: "Six countries, five tastes" — the traditional kōdō classification of agarwood into six named types (kyara, rakoku, manaka, manaban, sasora, sumotara) and five taste qualities (sweet, spicy, sour, salty, bitter).
+### Q: What is rikkoku gomi?
+"Six countries, five tastes" — the traditional kōdō classification of agarwood into six named types (kyara, rakoku, manaka, manaban, sasora, sumotara) and five taste qualities (sweet, spicy, sour, salty, bitter).
 
-**Q: Why is kōdō less common than tea ceremony?**
-A: Primarily cost and scarcity. Premium agarwood is expensive and limited, and the practice requires specialized tools and training.
+### Q: Why is kōdō less common than tea ceremony?
+Primarily cost and scarcity. Premium agarwood is expensive and limited, and the practice requires specialized tools and training.
 
-**Q: What's the difference between kyara and ordinary agarwood?**
-A: Kyara (伽羅) is the top grade, cognate with Chinese 奇楠 — the "oil-wraps-wood" agarwood that is soft, pliable, and aromatic at room temperature. See the [agarwood guide](/agarwood-incense/).
+### Q: What's the difference between kyara and ordinary agarwood?
+Kyara (伽羅) is the top grade, cognate with Chinese 奇楠 — the "oil-wraps-wood" agarwood that is soft, pliable, and aromatic at room temperature. See the [agarwood guide](/agarwood-incense/).
 
 ---
 

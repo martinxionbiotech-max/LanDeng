@@ -5,6 +5,8 @@ chinese: 茉莉
 pinyin: mòlì
 scientificName: "Jasminum sambac (and other Jasminum spp.)"
 type: ingredient
+primary_keyword: "what is jasmine"
+search_intent: informational
 aroma: ["sweet", "floral", "heady"]
 status: draft
 related: ["rose", "osmanthus"]

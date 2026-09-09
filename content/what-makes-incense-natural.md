@@ -111,20 +111,20 @@ So the honest guidance is: choose natural materials if you care about what you a
 
 ## FAQ
 
-**Q: What is makko powder?**
-A: Makko (抹香) is the ground bark of the tabu tree (*Machilus thunbergii*), used in natural incense as both a binder (holds the stick together) and a combustion agent (helps it burn evenly). It is the traditional backbone of Japanese incense.
+### Q: What is makko powder?
+Makko (抹香) is the ground bark of the tabu tree (*Machilus thunbergii*), used in natural incense as both a binder (holds the stick together) and a combustion agent (helps it burn evenly). It is the traditional backbone of Japanese incense.
 
-**Q: How can I tell if incense is natural?**
-A: Look for a named plant aromatic (e.g., sandalwood powder), a plant binder (makko or plant gum), and no charcoal/fragrance-oil base. Very cheap sticks that smell of "perfume" and won't disclose their binder are usually synthetic. See the full [natural vs synthetic guide](/natural-vs-synthetic-incense/).
+### Q: How can I tell if incense is natural?
+Look for a named plant aromatic (e.g., sandalwood powder), a plant binder (makko or plant gum), and no charcoal/fragrance-oil base. Very cheap sticks that smell of "perfume" and won't disclose their binder are usually synthetic. See the full [natural vs synthetic guide](/natural-vs-synthetic-incense/).
 
-**Q: Does "natural" mean smoke-free?**
-A: No. All burning plant material produces smoke and particulate matter. "Natural" describes the materials, not the combustion byproducts. Ventilate regardless.
+### Q: Does "natural" mean smoke-free?
+No. All burning plant material produces smoke and particulate matter. "Natural" describes the materials, not the combustion byproducts. Ventilate regardless.
 
-**Q: Is "hand-rolled" the same as "natural"?**
-A: No. Hand-rolling is a method of forming the stick; it does not tell you whether the inside is plant material or a charcoal/fragrance base.
+### Q: Is "hand-rolled" the same as "natural"?
+No. Hand-rolling is a method of forming the stick; it does not tell you whether the inside is plant material or a charcoal/fragrance base.
 
-**Q: Why is natural incense more expensive?**
-A: Real aromatic woods and resins (agarwood, sandalwood) and plant binders cost more than charcoal filler and synthetic fragrance. Very low prices are a strong signal of a filler-based product.
+### Q: Why is natural incense more expensive?
+Real aromatic woods and resins (agarwood, sandalwood) and plant binders cost more than charcoal filler and synthetic fragrance. Very low prices are a strong signal of a filler-based product.
 
 ---
 

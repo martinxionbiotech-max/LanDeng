@@ -112,36 +112,36 @@ Chinese sources (notably the 本草纲目) attribute to agarwood phrases like "�
 
 ## FAQ
 
-**Q: What's the difference between agarwood and sandalwood?**
-A: Agarwood is resin-impregnated *Aquilaria* wood (deep, resinous, sweet); sandalwood is *Santalum* heartwood (creamy, sweet-woody). Agarwood is generally the more precious and more heavily faked. See the [sandalwood guide](/sandalwood-incense/).
+### Q: What's the difference between agarwood and sandalwood?
+Agarwood is resin-impregnated *Aquilaria* wood (deep, resinous, sweet); sandalwood is *Santalum* heartwood (creamy, sweet-woody). Agarwood is generally the more precious and more heavily faked. See the [sandalwood guide](/sandalwood-incense/).
 
-**Q: What is 奇楠 (kyara)?**
-A: The top grade of agarwood, distinguished by "oil wraps wood" — the fiber is so resin-transformed that it is soft, pliable, and aromatic at room temperature, unlike ordinary 沉香's hard "wood wraps oil" structure.
+### Q: What is 奇楠 (kyara)?
+The top grade of agarwood, distinguished by "oil wraps wood" — the fiber is so resin-transformed that it is soft, pliable, and aromatic at room temperature, unlike ordinary 沉香's hard "wood wraps oil" structure.
 
-**Q: Why does some agarwood sink and some float?**
-A: Resin density. The most resin-saturated pieces sink (沉香 = "sinking fragrance"); less-resinous wood floats.
+### Q: Why does some agarwood sink and some float?
+Resin density. The most resin-saturated pieces sink (沉香 = "sinking fragrance"); less-resinous wood floats.
 
-**Q: How do I know agarwood is real?**
-A: Confirm with a reputable seller; traditional signals include white smoke and oil seepage on burning, a complex sweet aroma on gentle heat, and absence of a "perfume" note. Laboratory verification is the reliable route.
+### Q: How do I know agarwood is real?
+Confirm with a reputable seller; traditional signals include white smoke and oil seepage on burning, a complex sweet aroma on gentle heat, and absence of a "perfume" note. Laboratory verification is the reliable route.
 
 ---
 
 ## People Also Ask / 长尾问答
 
-**Q: What does agarwood (沉香) smell like?**
-A: Deep, sweet, and resinous, with a woody base — and it develops in stages as it warms: an opening (头香), a body (本香), and a dry-down (尾香). High-grade 奇楠 is aromatic even unheated; ordinary agarwood needs gentle heat to open up.
+### Q: What does agarwood (沉香) smell like?
+Deep, sweet, and resinous, with a woody base — and it develops in stages as it warms: an opening (头香), a body (本香), and a dry-down (尾香). High-grade 奇楠 is aromatic even unheated; ordinary agarwood needs gentle heat to open up.
 
-**Q: Why is agarwood so expensive?**
-A: It forms slowly and unpredictably — over years to decades, only after a tree is wounded or infected — and wild resources are heavily depleted. Scarcity, slow formation, and heavy demand make it the most precious (and most faked) material in the incense world.
+### Q: Why is agarwood so expensive?
+It forms slowly and unpredictably — over years to decades, only after a tree is wounded or infected — and wild resources are heavily depleted. Scarcity, slow formation, and heavy demand make it the most precious (and most faked) material in the incense world.
 
-**Q: Is agarwood the same as oud?**
-A: Largely yes. "Oud" (also "oudh") is the Arabic/Middle-Eastern name for the same resin-impregnated *Aquilaria* wood called 沉香 in Chinese and jinkō/kyara in Japanese. They are the same material family under different names and traditions.
+### Q: Is agarwood the same as oud?
+Largely yes. "Oud" (also "oudh") is the Arabic/Middle-Eastern name for the same resin-impregnated *Aquilaria* wood called 沉香 in Chinese and jinkō/kyara in Japanese. They are the same material family under different names and traditions.
 
-**Q: How do I burn agarwood chips?**
-A: The refined method is indirect heat (隔火焚香): bury hot charcoal in ash, place a thin mica or metal plate on top, and rest the chip on the plate so it releases aroma without burning. A purpose-built electric incense heater works too. Direct burning is possible but wastes the subtle high notes.
+### Q: How do I burn agarwood chips?
+The refined method is indirect heat (隔火焚香): bury hot charcoal in ash, place a thin mica or metal plate on top, and rest the chip on the plate so it releases aroma without burning. A purpose-built electric incense heater works too. Direct burning is possible but wastes the subtle high notes.
 
-**Q: How can I tell if agarwood is fake?**
-A: Traditional signals: genuine agarwood tends to give white smoke with oil seepage when burned (fakes give black smoke), a complex sweet aroma on gentle heat (not a "burnt wood" or one-note "perfume" smell), and resin-dense pieces sink in water. Laboratory or reputable-seller verification is the reliable route.
+### Q: How can I tell if agarwood is fake?
+Traditional signals: genuine agarwood tends to give white smoke with oil seepage when burned (fakes give black smoke), a complex sweet aroma on gentle heat (not a "burnt wood" or one-note "perfume" smell), and resin-dense pieces sink in water. Laboratory or reputable-seller verification is the reliable route.
 
 ## Sources
 
