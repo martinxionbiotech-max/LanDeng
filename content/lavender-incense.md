@@ -75,6 +75,12 @@ It is often the "unwind" note in a modern brand's scent range, complementary to 
 
 ---
 
+## The Author's Take
+
+Lavender is the most over-marketed and least honest scent in the space — a fine, soft floral buried under a wall of 'sleep aid' claims. My view is simple: burn lavender because you like the smell, not because a blog promised you eight hours of sleep. The honesty matters more here than anywhere else, precisely because the claims are the loudest.
+
+---
+
 ## Verification Notes
 
 - Botanical identity (*Lavandula angustifolia*, Lamiaceae) and the key compounds (linalool, linalyl acetate) are standard botanical/chemistry facts.

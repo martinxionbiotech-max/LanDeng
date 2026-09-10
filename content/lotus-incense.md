@@ -86,6 +86,12 @@ The consequence for buyers: **most "lotus" sticks, cones, and blends use a synth
 
 ---
 
+## The Author's Take
+
+'Lotus' in incense is almost always a story, not a material. The real flower barely survives burning and true lotus absolute is rare, so what you are buying is usually a well-meaning floral accord wrapped in symbolism. There is nothing wrong with that — but I think buyers deserve to know it. The symbol is real; the 'lotus' in the stick usually is not.
+
+---
+
 ## Verification Notes
 
 - *Nelumbo nucifera* (Nelumbonaceae) vs *Nymphaea* (Nymphaeaceae) is a standard botanical distinction; "blue lotus" = *Nymphaea caerulea* (a water lily).

@@ -88,6 +88,12 @@ Because true *Santalum album* is scarce and comparatively expensive, substitutio
 
 ---
 
+## The Author's Take
+
+'Sandalwood' is, in my view, the most abused word in incense. Ask for sandalwood and you might get Indian, Australian, New Caledonian — or a synthetic that never saw a *Santalum* tree. I would rather buy an honest Australian sandalwood than a fake 'Indian sandalwood.' The label should name the species, and if it does not, assume the cheapest one and price accordingly.
+
+---
+
 ## Verification Notes
 
 - Botanical identities (*Santalum album* and the main substitute species) are standard botanical facts.

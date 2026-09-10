@@ -100,6 +100,12 @@ Chinese sources (notably the 本草纲目) attribute to agarwood phrases like "�
 
 ---
 
+## The Author's Take
+
+Agarwood is where the incense world's honesty problem is most concentrated, because the price gap between real and fake is enormous. My advice to a beginner is not to learn grading — it is to buy from someone who can name the species and origin without hesitating. Grading is for after you have found an honest seller; before that, you are grading the seller's confidence, not the wood.
+
+---
+
 ## Verification Notes
 
 - Botanical identity (*Aquilaria sinensis*, *A. malaccensis*) and resin-formation mechanism are standard botanical facts.

@@ -108,6 +108,12 @@ The honest way to say it: frankincense is a scent people associate with **clarit
 
 ---
 
+## The Author's Take
+
+Frankincense is the incense I would hand to a skeptic. It is bright and clean, it does not smell 'perfumey,' and it has none of the heavy sweetness that turns some people off incense entirely. In my experience, the person who says they do not like incense often just has not met a frankincense resin warmed on an electric heater.
+
+---
+
 ## Verification Notes
 
 - Botanical identities and the main *Boswellia* species are standard botanical facts (Wikipedia / botanical references).
