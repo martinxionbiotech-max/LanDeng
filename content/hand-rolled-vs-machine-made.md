@@ -67,6 +67,10 @@ They usually correlate (hand-rolled usually means real materials), but they are 
 
 ---
 
+## The Author's Take
+
+In my view, the most important sentence on this page is that "hand-rolled" is about method and "natural" is about ingredients — they usually correlate but are separate questions. I have seen hand-rolled sticks that still use a fragrance oil, and machine sticks made from real powder. The practical habit I would teach is to ask both questions separately, and to treat a very low price as a signal of a dipped stick, not a bargain.
+
 ## Verification Notes
 
 - The masala vs dipped distinction and the hand-rolling process are standard industry descriptions.

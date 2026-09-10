@@ -57,6 +57,10 @@ No technique, no claim of benefit beyond the practice itself. See [incense for m
 
 ---
 
+## The Author's Take
+
+My view is that breathwork is where incense earns its keep without any mysticism: the scent and the rising smoke are simply two steady things for a wandering mind to return to. In my experience, the mistake is adding too much — a heavy, smoky stick in a closed room fights the whole point. Keep it low-smoke, keep it ventilated, and treat the incense as an attention anchor, not an inhalant.
+
 ## Verification Notes
 
 - "A focus object anchors attention during a breathing exercise" is a plain, non-controversial statement.
@@ -79,6 +83,17 @@ A: No. It is a mindfulness practice; no therapeutic claims are made here.
 A: It is closely related — breathwork uses the breath as the object, meditation may use the breath or the scent. See [incense for meditation](/incense-for-meditation/).
 
 ---
+
+## People Also Ask / 长尾问答
+
+### Q: What scent is best for breathwork?
+A soft, low-key scent that does not compete for attention — sandalwood or cedar are good choices. Avoid sharp spices and heavy florals, and prefer a low-smoke format (thin coreless stick or electric heater). See [yoga & breathwork](/yoga-breathwork/).
+
+### Q: Is there a breathing technique that pairs with incense?
+The simplest is to use the incense as a pace: inhale slowly while noticing the scent, exhale slowly while watching the smoke rise. No specific technique is required — the value is the steady cue, not a claimed physiological effect.
+
+### Q: Can I use a cone for breathwork?
+A cone burns quickly (~10–15 min) and can be smokier than a thin stick, so a low-smoke stick or electric-heated resin is usually more comfortable for deliberate breathing. See [which incense format](/which-incense-format/).
 
 ## Related Resources
 

@@ -103,6 +103,10 @@ This is not a weaker framing — it is the defensible one, and it is what keeps 
 
 ---
 
+## The Author's Take
+
+My view is that the "timer, anchor, cue" framing is the honest heart of meditation incense, and it is more useful than any scent-ranking article. I have sat with sandalwood for years and can say the stick's burn does most of the work: it starts the sit and ends it, and the smell is just a steady point to return to. The moment a seller promises the scent will "deepen" or "cause" a meditative state, I stop trusting them. The practice is yours; the incense is a quiet assistant.
+
 ## Verification Notes
 
 - Burn-time ranges are drawn from manufacturer and retailer guidance (Japanese coreless ~25–30 min; bamboo-core ~45–60 min; cones ~10–15 min; coils hours) and are presented as ranges, not exact figures.

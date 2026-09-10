@@ -59,6 +59,10 @@ Much backflow-cone marketing leans on "zen" and "relaxing" imagery as if the wat
 
 ---
 
+## The Author's Take
+
+I think backflow cones are the one incense format you should buy for the look, not the smell. The scent is a standard cone scent; what you are paying for is the physics trick and the burner. My experience is that people either love the waterfall for a week and then tire of the extra smoke, or they genuinely enjoy it as a desk centerpiece. Either is fine — just don't let "relaxing waterfall" marketing convince you the smoke is doing anything wellness-related. It is decoration, and a charming one.
+
 ## Verification Notes
 
 - The downward-smoke mechanism (cooled, denser smoke sinking through the hollow base) is a physical description, not a claim of benefit.

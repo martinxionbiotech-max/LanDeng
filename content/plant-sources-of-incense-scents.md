@@ -69,6 +69,10 @@ Read the label with this map in mind, and a lot of the mystery in incense buying
 
 ---
 
+## The Author's Take
+
+In my view, the plant source is the most reliable predictor of what you are buying, and this map is the mental shortcut I would teach first. My experience is that the wood/resin versus flower distinction explains most label confusion: a "sandalwood" points at a material tradition, while a "lotus" or "rose" usually points at a fragrance accord. Read every label with this map in mind, and the mystery mostly disappears.
+
 ## Verification Notes
 
 - Botanical names and plant parts are standard identifications.
@@ -92,6 +96,17 @@ A: A gum-resin tapped from the bark of *Boswellia* trees — not a wood or flowe
 A: The part (wood vs resin vs flower vs peel) determines the scent character and how it burns — deep and slow for wood/resin, bright and delicate for flowers.
 
 ---
+
+## People Also Ask / 长尾问答
+
+### Q: Which plant parts burn best in incense?
+Woods and resins burn (or heat) slowly and carry deep, persistent scent, so they are the classical backbone. Raw flowers burn poorly, which is why florals are usually fragrance accords. Peels, buds, and barks are bright or spicy top notes, usually blend components.
+
+### Q: Is the lotus in lotus incense a real flower?
+Usually not — lotus has a subtle, aquatic scent that does not survive burning, so most "lotus" incense is a fragrance accord. See the [lotus guide](/lotus-incense/).
+
+### Q: Why is makko listed as a plant source?
+Makko (*Machilus thunbergii* bark) is a functional ingredient — the combustible binder — not a scent. It is listed because it is the one plant material in incense whose job is structure, not fragrance. See [makko & natural binders](/makko-natural-binders/).
 
 ## Related Resources
 

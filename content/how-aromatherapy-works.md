@@ -56,6 +56,10 @@ The honest position: a scent can be a **powerful cue in a routine** (the same sc
 
 ---
 
+## The Author's Take
+
+My view is that "aromatherapy works" is best answered in two halves: the neuroscience (smell routes to emotion and memory) is real, and the marketing (a specific oil produces a specific effect) mostly is not. In my experience, this split is exactly what makes a scent useful — as a ritual cue, not a dose. I would tell anyone to stop chasing a therapeutic effect and start using one consistent scent as the anchor of a routine.
+
 ## Verification Notes
 
 - The olfactory-to-limbic wiring is well-established neuroscience.
@@ -79,6 +83,17 @@ A: No. It is a wellness and ambiance practice. This site makes no medical claims
 A: Because smell is wired directly to emotion and memory, a familiar scent triggers strong associations.
 
 ---
+
+## People Also Ask / 长尾问答
+
+### Q: Is aromatherapy scientifically proven?
+The mechanism — smell routing to emotion and memory — is well established. The specific claims ("lavender lowers cortisol," "this oil treats anxiety") are mostly not established clinical fact. The honest position: association is real, pharmacology is largely unproven.
+
+### Q: Why does a smell trigger a memory so strongly?
+Because the olfactory signal connects more directly to the limbic system (emotion and memory) than the other senses do. A familiar scent can recall a place or moment with unusual vividness.
+
+### Q: How do I use aromatherapy honestly?
+Use a consistent fragrance as a ritual cue for a specific activity — the same scent for the same moment each time. Choose scents you personally respond to, and treat fragrance as ambiance and ritual, not medicine.
 
 ## Related Resources
 

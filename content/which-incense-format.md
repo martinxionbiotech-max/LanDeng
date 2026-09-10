@@ -67,6 +67,10 @@ Most "sticks vs cones" content is an affiliate listicle ranking products. This h
 
 ---
 
+## The Author's Take
+
+I think the format question is best answered with burn time first, then smoke, then whether you want a visual — and almost everything else follows. In my experience, most people default to sticks for good reason, then discover coils for long sessions and backflow cones for the look. My one conviction is that format and material are separate choices: you can have a beautiful backflow cone with a forgettable scent, or a plain stick with real sandalwood, and they are solving different wants.
+
 ## Verification Notes
 
 - Burn times are ranges and vary by manufacturer; specific products should be checked.

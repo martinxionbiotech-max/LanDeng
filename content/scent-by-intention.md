@@ -65,6 +65,10 @@ Affiliate and wellness content turns "intention" into a benefit claim. This hub 
 
 ---
 
+## The Author's Take
+
+I think "intention" is the right frame and the most abused one, because the industry keeps attaching health claims to what is really an atmosphere choice. In my experience, the honest version works better: a bright scent suits focus, a warm one suits unwinding, and the ritual of lighting gives the session a beginning and an end. Once you accept that the fragrance is a preference, not a medicine, choosing becomes much simpler — and much more honest.
+
 ## Verification Notes
 
 - "Calming," "focusing," "grounding" describe aroma character and ritual association, not physiological effects.

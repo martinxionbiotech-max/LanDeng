@@ -59,6 +59,10 @@ That single question resolves most of the choice. The rest is detail, covered in
 
 ---
 
+## The Author's Take
+
+In my view, the one-question decision ("do I want smoke?") is the whole subject in a sentence, and it is why this hub works as an overview. My experience is that people usually already know the answer — they just want permission to pick the candle or the diffuser without being told incense is "better." The honest move is to admit they are three tools, not one winner, and let the smoke question do the sorting.
+
 ## Verification Notes
 
 - Combustion (incense/candle) vs evaporation (diffuser) is a basic physical distinction.
@@ -81,6 +85,17 @@ A: Incense — it is the only one tied to a material, often cultural or ritual t
 A: It depends on what you want: smoke and ritual (incense), light and warmth (candle), or clean and constant (diffuser).
 
 ---
+
+## People Also Ask / 长尾问答
+
+### Q: Which of the three is best for a bedroom?
+It depends on what you want at bedtime. A diffuser gives a clean, flameless, constant scent with no smoke; a candle gives light plus scent; incense gives smoke and ritual but should be extinguished before sleep. See [incense safety](/safety/).
+
+### Q: Do incense and candles both produce particles?
+Yes. Both are combustion sources — incense produces smoke, a candle produces soot and fine particles. Only a diffuser avoids combustion entirely. See [incense sticks vs candles](/incense-sticks-vs-candles/).
+
+### Q: Which is cheapest to run?
+Incense is typically cheapest per use (a stick costs pennies) but is fixed-duration. A candle runs for hours; a diffuser costs upfront plus electricity and oil refills.
 
 ## Related Resources
 

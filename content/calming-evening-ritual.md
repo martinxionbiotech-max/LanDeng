@@ -58,6 +58,10 @@ The magic is the **repetition**, not the smoke.
 
 ---
 
+## The Author's Take
+
+In my experience, the thing that actually makes an evening ritual work is boredom-proof consistency: the same scent, the same hour, the same small sequence, night after night. My view is that the scent is a cue, not a sedative, and that is precisely why the honest framing is stronger than the "sleep incense" claims it corrects. Pick one soft scent and keep it — the repetition is the whole trick.
+
 ## Verification Notes
 
 - "Routine helps signal rest" is consistent with general sleep-hygiene understanding, stated without medical claims.
@@ -81,6 +85,17 @@ A: Yes, with basic care — a proper holder, ventilation, and always extinguish 
 A: Repeat the same sequence (same scent, same time, same quiet activity) nightly; the association builds over time.
 
 ---
+
+## People Also Ask / 长尾问答
+
+### Q: What time should I burn evening incense?
+Match it to your wind-down window — typically the last 20–60 minutes before you begin settling for the night. The point is consistency of timing, not a specific clock hour. Extinguish before sleep.
+
+### Q: Can I use a backflow cone for a wind-down?
+You can, but a backflow cone produces more visible smoke and is chosen for its visual, not a calm scent. A thin, low-smoke stick or a gentle electric heater is usually a better fit for an evening ritual.
+
+### Q: What if I find sandalwood or lavender too strong?
+Try a very light wood blend or a soft floral, or use an electric heater with a tiny amount of resin for a gentler, lower-smoke presence. The key is a scent you find quietly pleasant, whatever it is.
 
 ## Related Resources
 

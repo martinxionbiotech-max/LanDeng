@@ -70,6 +70,10 @@ Most holder content is an affiliate listicle of decorative burners. This page pu
 
 ---
 
+## The Author's Take
+
+I think the holder is the most neglected purchase in incense, because it feels like an accessory when it is actually safety equipment. My experience is that a single good heatproof holder per format prevents more problems than any amount of careful technique. The one rule — heatproof and stable — is boring, but it is the whole subject. Decoration is a fine second consideration; the first job is catching ash and keeping the ember off the furniture.
+
 ## Verification Notes
 
 - Holder requirements (heatproof, stable, format-matched) are standard safety guidance.

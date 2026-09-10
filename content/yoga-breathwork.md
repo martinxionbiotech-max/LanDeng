@@ -71,6 +71,10 @@ Much "yoga incense" content promises chakra-balancing and energy work. This page
 
 ---
 
+## The Author's Take
+
+In my view, yoga and breathwork are the scenarios where "grounding but not loud" is the whole brief, and where overclaiming does the most harm. My experience is that a steady, low-smoke sandalwood or cedar is ideal precisely because it stays in the background while you breathe. I would avoid anything sharp or smoky in a practice room, and never accept a "chakra" or "deepened breath" claim — the scent is an anchor, and that is enough.
+
 ## Verification Notes
 
 - "Grounding" and "steady" describe aroma character and ritual association, not physiological effects.
@@ -94,6 +98,17 @@ It can provide a consistent sensory anchor and mark the start of a session, but 
 Match it to your session — a thin coreless stick is ~25–30 min, a bamboo-core stick ~45–60 min. See [which incense format](/which-incense-format/).
 
 ---
+
+## People Also Ask / 长尾问答
+
+### Q: Is frankincense or sandalwood better for yoga?
+Both work — sandalwood is warmer and softer, frankincense is fresher and more "clear." The choice is preference; what matters more is a low-smoke format and matching the burn to your session length.
+
+### Q: Should I light incense before or during practice?
+Light it a few minutes before you begin, so the scent is already in the room when you start. The act of lighting is also a useful "practice begins" cue.
+
+### Q: Can incense interfere with breathwork?
+A heavy or smoky stick in a closed room can make deliberate breathing less comfortable. Use a low-smoke format and ventilate, so the air stays clear while you breathe. See [incense and breathwork](/incense-and-breathwork/).
 
 ## Sources
 

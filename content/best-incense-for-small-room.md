@@ -70,6 +70,10 @@ In a small, sealed room, any combustion source — incense included — will bui
 
 ---
 
+## The Author's Take
+
+My experience is that small rooms are where most people get incense wrong, because they use the same thick stick they would in a living room and then wonder why it is overwhelming. In my view, the fix is simple and underappreciated: a small room is a smaller volume of air, so use less, burn shorter, and ventilate more. An electric heater with a little resin is the quiet winner in a small space.
+
 ## Verification Notes
 
 - "Small room concentrates smoke and scent" is a basic volume/air-exchange fact.
@@ -93,6 +97,17 @@ A: Yes — a reed diffuser produces no smoke, which some people prefer in a smal
 A: Use a low-smoke format (electric heater, thin stick), burn for a shorter time, and ventilate.
 
 ---
+
+## People Also Ask / 长尾问答
+
+### Q: How long should I burn incense in a small room?
+Shorter is better — a half stick, a short cone, or 15–20 minutes of electric-heated resin. The point is to avoid continuous smoke accumulating in a small air volume, and to air the room after.
+
+### Q: Is an electric heater worth it for a small room?
+For many people, yes — it is the lowest-smoke way to get a true material scent, which is exactly what a small room calls for. It costs more upfront but avoids the smoke build-up that a stick causes in a small space.
+
+### Q: Can I still use a thick masala stick in a small room?
+You can, but it will fill the space fast. If you do, burn it for a shorter time and ventilate. A thin coreless stick is usually the better default for a small room.
 
 ## Related Resources
 

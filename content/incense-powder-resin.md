@@ -65,6 +65,10 @@ Much resin content wraps the practice in mystical language. This page describes 
 
 ---
 
+## The Author's Take
+
+In my view, powder and resin are where incense becomes a craft rather than a convenience, and where the material-vs-fragrance distinction finally disappears — there is no binder and no oil, just the material on heat. My experience is that this is also where beginners make the most mistakes (too much material, no ash bed, direct flame). I would tell anyone curious to start tiny — a few tears, gentle heat — and to prefer an electric heater over charcoal until they know what they like.
+
 ## Verification Notes
 
 - The charcoal-disc and electric-heater methods are standard descriptions.

@@ -68,6 +68,10 @@ author: "[AUTHOR]"
 
 ---
 
+## The Author's Take
+
+In my view, the family framework — woods, resins, flowers, spices, binders — is the fastest way to become literate about ingredients, because the family predicts the behavior. My experience is that the two distinctions worth memorizing are wood versus resin (slow-deep versus fresh-balsamic) and flower-as-material versus flower-as-accord. Once you have those, the rest of the glossary falls into place.
+
 ## Verification Notes
 
 - Botanical sources and Chinese names are standard identifications.
@@ -91,6 +95,17 @@ A: Woods (sandalwood, agarwood) are heartwood; resins (frankincense, myrrh) are 
 A: A functional ingredient — usually a combustible wood powder like makko — that holds the form together and burns, without adding its own scent.
 
 ---
+
+## People Also Ask / 长尾问答
+
+### Q: What is the difference between benzoin and frankincense?
+Both are resins but different plants: benzoin (*Styrax*) is sweet and vanilla-balsamic; frankincense (*Boswellia*) is fresh, citrus, and earthy. Benzoin is more of a sweet base/fixative, frankincense a bright ritual resin.
+
+### Q: What is makko and why does it matter?
+Makko (抹香) is the powdered bark of *Machilus thunbergii*, the traditional combustible binder. It holds incense together and burns cleanly with little odor — a sign of a material-based stick. See [makko & natural binders](/makko-natural-binders/).
+
+### Q: Are clove and cassia interchangeable in incense?
+They are both warm spices but distinct: clove is the dried flower bud (*Syzygium aromaticum*), cassia is bark (*Cinnamomum cassia*). Clove is sharper and more pungent; cassia is warmer and sweeter. They are used differently in blends.
 
 ## Related Resources
 

@@ -95,6 +95,10 @@ Most "incense scent guides" are really affiliate roundups — "best calming ince
 
 ---
 
+## The Author's Take
+
+In my view, the most valuable thing this guide does is separate aroma from atmosphere — what a scent objectively smells like versus the feeling people attach to it. My experience is that most buyers actually choose by atmosphere, and there is nothing wrong with that, as long as no one pretends the feeling is a measured effect. I would also hammer one point: check the material behind the name, because "sandalwood," "lotus," and "lavender" can each be a real material or a fragrance accord.
+
 ## Verification Notes
 
 - All scent descriptors are qualitative; "calming," "energizing," "uplifting" describe aroma association, not physiological effects.

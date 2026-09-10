@@ -65,6 +65,10 @@ Smell is the sense most directly tied to memory and emotion (see [how aromathera
 
 ---
 
+## The Author's Take
+
+I think the daily-ritual framing is the most defensible value incense has: a repeated scent at a repeated moment becomes a learned signal, and that is honest, non-mystical, and genuinely useful. My experience is that the failure mode is novelty — people change scents every time and wonder why the ritual never "sticks." Pick one scent per activity and keep it; the consistency is doing the work, not the smoke.
+
 ## Verification Notes
 
 - The "scent as learned cue via repetition" framing is consistent with the established olfactory-memory wiring.
@@ -87,6 +91,17 @@ A: Pick one scent you respond to and use it consistently for that one activity. 
 A: Match it to your activity — a stick's burn time can roughly time a short sit. See [incense for meditation](/incense-for-meditation/).
 
 ---
+
+## People Also Ask / 长尾问答
+
+### Q: How long does it take to build a scent association?
+There is no fixed number — association builds with consistent repetition over days to weeks. The rule is to use the same scent for the same activity each time, not to rush the timing.
+
+### Q: Can one incense serve multiple rituals?
+It can, but a single scent for multiple activities muddies the cue. Cleaner is one scent per activity (one for focus, one for unwinding), so each smell reliably signals its own state.
+
+### Q: Do I need a special incense for a ritual?
+No. Any scent you respond to consistently works. Sandalwood and agarwood are traditional for quiet sits; citrus and frankincense for focus. The consistency matters more than the specific material.
 
 ## Related Resources
 

@@ -75,6 +75,10 @@ Much English-language "world incense" content exoticizes these traditions, flatt
 
 ---
 
+## The Author's Take
+
+My view is that the world's incense traditions are best understood as regional schools — form, scent, and purpose — not as one blurry "spiritual incense" category. In my experience, the single most useful correction is the Chinese root of kōdō, and the most useful distinction is form: a Japanese coreless stick and a Middle Eastern bakhoor chip are not the same product. I would rather present each tradition as a specific craft than flatten them into a wellness aesthetic.
+
 ## Verification Notes
 
 - The form/character distinctions (stick vs coil vs chip; bold vs minimalist vs herbal) are standard observations.

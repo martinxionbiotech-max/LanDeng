@@ -53,6 +53,10 @@ Choose the form to match the session, not just the scent. See [which incense for
 
 ---
 
+## The Author's Take
+
+In my view, the form vocabulary is the entry fee to incense literacy, and it is best learned in one place like this. My experience is that once you can name the five forms — stick, coil, cone, resin, powder — and the two practice terms that matter (隔火焚香 and 篆香), a lot of product pages stop being confusing. I would add one habit: always check the form against your session length, because the form is what sets the burn time.
+
 ## Verification Notes
 
 - Chinese terms and their standard English glosses are drawn from established usage.
@@ -76,6 +80,17 @@ A: A stick burns for roughly 20–60 minutes; a coil burns for hours. The choice
 A: A hollow cone that channels smoke downward, creating a "waterfall" effect — a visual, decorative style of cone.
 
 ---
+
+## People Also Ask / 长尾问答
+
+### Q: What is 香道 (xiāngdào)?
+"The Way of Incense" — the broader Chinese and Japanese practice of preparing and appreciating incense. In Japan it was formalized into kōdō; the refined technique behind both is Song-dynasty 隔火焚香. See [Japanese kōdō](/japanese-incense-kodo/).
+
+### Q: What is the difference between 合香 and a single-material incense?
+合香 (hé xiāng) is a blended incense composed on a formula principle (君臣佐使), whereas a single-material incense is one wood or resin. Traditional Chinese incense is usually 合香. See [the blending system](/hexiang-blending-system/).
+
+### Q: What is a coreless stick?
+A stick pressed from the fragrant material itself with no bamboo core — thinner, shorter-burning, and generally lower-smoke than a bamboo-core stick. Common in Japanese and Tibetan traditions. See [incense sticks](/incense-sticks/).
 
 ## Related Resources
 

@@ -109,6 +109,10 @@ The "listen, don't smell" mindset and the rikkoku gomi vocabulary turn fragrance
 
 ---
 
+## The Author's Take
+
+In my view, the correction on this page — kōdō is Japanese in form but Chinese in origin — is one I would state firmly but not defensively, because it is well supported and rarely said in English. My experience is that the deeper value here is the mindset: kōdō teaches you to "listen" to fragrance rather than smell it, and that shift is what separates a connoisseurship practice from air freshening. I also think the honest caveat about rikkoku gomi — traditional labels, not verified geography — is exactly the kind of precision that earns trust.
+
 ## Verification Notes
 
 - Historical dates (6th-century arrival with Buddhism; Muromachi codification; the two schools and their founders) follow standard English- and Japanese-language accounts of kōdō and are consistent across sources.

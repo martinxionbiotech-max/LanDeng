@@ -103,6 +103,10 @@ Tibetan incense attracts a lot of overclaiming: that it "balances chakras," "cle
 
 ---
 
+## The Author's Take
+
+My strong view is that Tibetan incense is the tradition most flattened by Western marketing — people go looking for a single "Tibetan scent" when the whole point is a recipe. In my experience, the honest frame is the useful one: it is a thick, coreless, herbal blend rooted in Sowa Rigpa and monastery ritual, and its "medicinal" origin is cultural, not clinical. I would always ask for the ingredient list rather than accept a "healing" or "energy-cleansing" label.
+
 ## Verification Notes
 
 - The coreless, hand-rolled, thicker form and the earthy/herbal character are standard observations.

@@ -71,6 +71,10 @@ Most coil content is either a product listing or mosquito-coil content. This pag
 
 ---
 
+## The Author's Take
+
+I think the coil is underrated as a background format and overrated as a beginner format. The spiral-as-packaging idea is elegant — a meter of incense in a flat disc — but a multi-hour burn demands more attention to placement and airflow, not less. My experience is that coils shine when you want a room scented all afternoon, and are the wrong tool for a ten-minute pause. Match the burn to the need, and the coil earns its place.
+
 ## Verification Notes
 
 - Burn times are ranges and vary widely by coil size; specific products should be checked.

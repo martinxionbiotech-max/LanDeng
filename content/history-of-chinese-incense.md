@@ -85,6 +85,10 @@ From roughly the 2000s, classical Chinese incense has revived: specialist studio
 
 ---
 
+## The Author's Take
+
+My strong view is that the English web gets the origin of refined incense wrong — it credits Japan, when the technique of 隔火焚香 is Song-dynasty Chinese. This is not nationalist nitpicking; it matters because the manuals (香谱) that codified these practices remain largely untranslated, which is an information gap worth closing. I also think the honest "~3,000 years, not 5,000" is a credibility signal: a source that resists inflation is one you can trust on the rest.
+
 ## Verification Notes
 
 - Historical dates follow standard dynastic periodization and are cross-referenced across the sources below.

@@ -68,6 +68,10 @@ So "natural" is a claim about **what is in the stick**, not about **whether the 
 
 ---
 
+## The Author's Take
+
+My position is that the two real risks — fire and smoke — are both manageable, and neither is a reason to avoid incense. The thing I wish were printed on every box is that "natural" says nothing about the smoke: plant material still burns to fine particles. I find that once people internalize that, they stop asking "is it safe?" and start doing the two things that actually matter: ventilate, and never leave it unattended.
+
 ## Verification Notes
 
 - The statement that incense combustion produces PM2.5 and VOCs is well established in air-quality research.

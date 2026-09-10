@@ -63,6 +63,10 @@ This is the honest framing: the choice is about **what kind of scent experience 
 
 ---
 
+## The Author's Take
+
+In my view, the cleanest way to decide among these three is the smoke-and-flame question, and the rest follows. A reed diffuser is the only true set-and-forget option; wax melts give you the ritual of warming without a flame; incense is the only one with smoke and material character. My experience is that people who want "no smoke, no flame" already know it — they just need the word for what they are choosing, and that word is usually reed diffuser or electric wax warmer.
+
 ## Verification Notes
 
 - Combustion (incense) vs evaporation (reed) vs warming (wax) are basic physical distinctions.

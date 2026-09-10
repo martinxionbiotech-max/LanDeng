@@ -91,6 +91,10 @@ Oud and bakhoor attract inflated claims — luxury, rarity, and even health bene
 
 ---
 
+## The Author's Take
+
+My experience is that the most useful thing to grasp about Middle Eastern incense is the hospitality context — it is a gesture of welcome, not a personal wind-down, and that changes how you read the products. I think the oud-versus-bakhoor distinction matters most in practice: raw agarwood chips and prepared, oil-infused bakhoor are different things, and a lot of "oud" at low prices is synthetic fragrance. Buy the material you think you are buying, and the tradition rewards you.
+
 ## Verification Notes
 
 - The bakhoor preparation (wood chips + fragrance oils/resins) and the charcoal/burner method are standard descriptions.

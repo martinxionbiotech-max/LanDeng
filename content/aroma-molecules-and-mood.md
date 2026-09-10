@@ -62,6 +62,10 @@ The honest statement: **a molecule gives a scent its character; the mood connect
 
 ---
 
+## The Author's Take
+
+In my view, the molecule-versus-mood line is the most important honesty boundary in aromatherapy content: the chemistry of what a scent is is solid, the claim that a molecule reliably causes a mood is not. My experience is that this distinction actually empowers people — once you know the "focus" link is association, you can build your own cue deliberately instead of buying a promise. Buy the scent you like, then condition it with repetition.
+
 ## Verification Notes
 
 - Molecule-to-aroma mapping (linalool → floral, limonene → citrus) is well-established chemistry.
@@ -85,6 +89,17 @@ A: There is no established clinical evidence for that. Limonene gives citrus its
 A: The chemistry of *what a scent is* is solid; the psychology of *what mood it reliably causes* is much less so.
 
 ---
+
+## People Also Ask / 长尾问答
+
+### Q: What is linalool?
+A naturally occurring terpene alcohol found in lavender, many florals, and some herbs. It is the main molecule behind lavender's fresh-floral character. Its presence explains the smell, not a guaranteed mood effect.
+
+### Q: Are there molecules that reliably relax you?
+[BRAND] makes no such claim. Some molecules appear in preliminary research on calming, but there is no established, dose-specific "relaxation molecule." The honest mechanism is association: a scent you pair with unwinding becomes an unwinding cue.
+
+### Q: Why do sandalwood and lavender smell different?
+Different volatile compounds — sandalwood is dominated by santalols, lavender by linalool and linalyl acetate. A molecule's structure determines its smell, which is why the two scents are unrelated despite both being called "calming."
 
 ## Related Resources
 

@@ -94,6 +94,10 @@ Neither method is automatically "better"; they are different products at differe
 
 ---
 
+## The Author's Take
+
+In my view, the oil-versus-wood distinction is the single most useful idea in incense buying, and it is almost never explained clearly. When a label says "sandalwood essential oil," you are buying a base carrying oil; when it says "sandalwood powder," you are buying the wood itself. They smell related but not the same. I also wish more people knew that "essential" means "essence of the plant," not "nutritionally necessary" — that one word causes more confusion than it should.
+
 ## Verification Notes
 
 - The definition of essential oils and the extraction methods (steam distillation >90% of volume, cold pressing, dry distillation, solvent → absolutes) are standard facts, consistent with ISO and standard references.
