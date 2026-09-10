@@ -44,6 +44,22 @@ Cedar has a clean, woody, slightly sweet-and-resinous aroma — a "dry wood" not
 
 Much "cedarwood incense" content repeats claims about relieving anxiety, insomnia, and depression. These are **traditional or unverified claims**, not established clinical fact. We describe cedar's aromatic use; we do not make medical claims.
 
+## In incense & tradition
+
+Cedar's clean, dry wood note makes it a common background or base in incense blends, and a familiar scent in meditation and woodworking contexts. It reads "quiet and clean" rather than "sweet or deep," which is why it is usually paired with a resin or a warmer wood rather than burned as a solo statement.
+
+In Chinese incense the naming deserves care: 雪松 (xuěsōng) is true cedar (*Cedrus*), while several "cedarwood" products in commerce come from *Juniperus virginiana* (red cedar) or other conifers. The species — not the word "cedar" — sets the actual aroma, and the two are not interchangeable.
+
+## Where cedar sits among the woods
+
+| Wood | Character |
+|---|---|
+| Cedar | Dry, clean, slightly sweet-resinous — a light, "space-clearing" note |
+| Sandalwood | Creamy, sweet, soft — a warm, prized base |
+| Agarwood | Deep, resinous, sweet-complex — the most precious material |
+
+Cedar is the *lightest* of the three: it fills a room without dominating it, which is why it works as a base or a background scent rather than a starring note.
+
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke.
@@ -63,6 +79,10 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 **Which cedar is used in incense?** It varies. True cedars (*Cedrus*, e.g. Himalayan/Atlas cedar) are one source, but much commercial "cedarwood" oil comes from red cedar (*Juniperus virginiana*), a juniper. The species matters for aroma and price.
 
 **Is cedar incense safe for pets?** All incense produces smoke and particulate matter. Burn in a ventilated space and keep it away from pets. General safety guidance, not a claim about any condition.
+
+**Is cedar incense the same as cedarwood oil?** Not necessarily — commercial "cedarwood oil" often comes from red cedar (*Juniperus virginiana*), a juniper, while true cedar (*Cedrus*) is a different genus. The oil and the wood may come from different plants entirely; check the species.
+
+**What is the difference between cedar, sandalwood, and agarwood?** Cedar is dry, clean, and light; sandalwood is creamy, sweet, and warm; agarwood is deep, resinous, and sweet-complex. They are three different woods at three different weights — cedar the lightest, agarwood the most precious.
 
 See also: [sandalwood](/ingredients/sandalwood/), the [sandalwood incense guide](/sandalwood-incense/), and the full [scent guide](/scent-guide/).
 

@@ -42,6 +42,10 @@ Mugwort is also the material for **moxibustion (灸, jiǔ)** — a traditional C
 
 **Important:** moxibustion is a medical practice whose claimed benefits are **not well-supported by modern evidence** (and it carries risk). This is a different domain from burning mugwort as household incense. We describe mugwort's cultural and incense use; we do **not** make medical claims about moxibustion or mugwort.
 
+## Mugwort in incense blends
+
+Mugwort is usually a supporting note in Chinese 合香 rather than a solo scent — its bitter-green, slightly camphoraceous character adds an earthy, cleansing edge to wood-and-resin blends. It is also burned as a single herb for purification and seasonal use (端午节). Because its aroma is herbal rather than sweet, it is more often blended than burned alone for fragrance.
+
 ## Safety
 
 Like all burning plant material, mugwort smoke contains particulate matter. Burn in a well-ventilated space and avoid inhaling concentrated smoke. Keep away from children and pets.
@@ -63,6 +67,10 @@ Like all burning plant material, mugwort smoke contains particulate matter. Burn
 **What is the difference between mugwort and wormwood?** They are close relatives in the *Artemisia* genus. Mugwort most often means *A. argyi* or *A. vulgaris*; wormwood usually means *A. absinthium*. They share a bitter-herbal family character but are distinct species.
 
 **Is mugwort safe to burn?** Like all burning plant material, mugwort produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets.
+
+**Does mugwort incense smell sweet?** No — mugwort is herbal and slightly bitter-green with a camphor-like edge, not sweet. It is valued for its cleansing association and earthy character, not for sweetness.
+
+**Can mugwort be blended with sandalwood?** Yes — mugwort's herbal-green note is sometimes paired with a sweet wood like sandalwood in 合香, where the wood softens the herb and the herb adds an earthy edge to the blend.
 
 See also: [what Chinese incense is](/what-is-chinese-incense/) and the full [scent guide](/scent-guide/).
 

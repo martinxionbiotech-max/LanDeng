@@ -42,6 +42,20 @@ Frankincense resin contains **boswellic acids** (notably AKBA), which are the su
 
 **Important:** we treat medicinal claims about frankincense (treating arthritis, asthma, cancer, or other conditions) as **traditional use and/or preliminary research, not established clinical fact.** Burning frankincense as incense is an aromatic/ritual practice; it is not a medical treatment.
 
+## Harvest & processing
+
+Frankincense is harvested by scoring the bark of *Boswellia* trees; the tree exudes a milky resin that hardens into droplets ("tears") over days to weeks. The tears are collected by hand and graded by size, color, and clarity — larger, paler, cleaner tears are generally considered higher grade, while dust and mixed fragments are lower grade. The resin is burned whole, ground, or steam-distilled for essential oil.
+
+## Species & origins
+
+Not all frankincense is the same — different *Boswellia* species and regions produce different aroma profiles:
+
+- *B. sacra* (Oman / Yemen) — the classic, often considered the reference grade.
+- *B. carterii* (Somalia) — common in commerce, clean and citrus.
+- *B. serrata* (India) — earthier and more balsamic.
+
+The species and origin affect the aroma, so a label that names them is more informative than one that just says "frankincense."
+
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke. Do not consume resin based on traditional-medicine claims without professional guidance.
@@ -76,6 +90,10 @@ Both are resins from the same plant family (Burseraceae), but from different gen
 **Is frankincense the same as oud or agarwood?** No. Frankincense is a gum-resin from *Boswellia* trees (Burseraceae); agarwood/oud is resin-impregnated *Aquilaria* wood. They are different materials, plants, and aromas.
 
 **Is frankincense a wood?** No — it is a dried gum-resin collected from the tree's bark, not the wood itself.
+
+**What is the difference between frankincense tears and powder?** Tears are the whole dried resin droplets; powder is ground resin. Tears are preferred for gentle heating (they release slowly), while powder is used for blending into incense pastes. Both are the same material in different forms.
+
+**Is all frankincense the same?** No — *B. sacra* (Oman/Yemen) is the classic, *B. carterii* (Somalia) is common in commerce, and *B. serrata* (India) is earthier. The species and origin affect the aroma, so check the label when it matters to you.
 
 See also: the [frankincense incense guide](/frankincense-incense/) and the full [scent guide](/scent-guide/).
 
