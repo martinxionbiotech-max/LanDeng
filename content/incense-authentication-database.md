@@ -68,6 +68,14 @@ These are **traditional buyer heuristics**, accumulated in the Chinese agarwood 
 
 ---
 
+## The Author's Take
+
+Here is my contrarian experience after a lot of time in this market: the strongest authenticity signal is not a burn test — it is the **seller**. A vendor who cannot name the species, the origin, and the grade is giving you all the information you need, and it is not good news.
+
+I have watched too many buyers chase white smoke and sink tests when the honest shortcut was one question: "What exactly is this, and where is it from?" The burn and aroma signals in this database are a useful *backup* — but the seller is the test. Buy from someone who knows their material, and half of authentication stops being a problem.
+
+---
+
 ## Verification Notes
 
 - The 煮油 / 高压灌油 / 泡药水 methods and the white-vs-black smoke, oil-seepage, and sink-test signals are drawn from Chinese specialist sources.

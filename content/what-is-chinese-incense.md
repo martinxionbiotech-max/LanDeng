@@ -90,6 +90,14 @@ This "middle path" — richer than Japanese minimalism, cleaner than Indian bold
 
 ---
 
+## The Author's Take
+
+Here is the framing I keep coming back to: Chinese incense is the **middle path** between India's bold agarbatti and Japan's minimalist kōh — and I think that middle is precisely why it is underrated.
+
+India is easy to dismiss as loud, Japan is easy to respect as refined, and China falls in between: warm but not heavy, complex but not austere. I would argue that middle is the *hardest* position to hold — it demands balance rather than a single extreme. If you want incense that rewards attention without demanding austerity, the Chinese tradition is, in my experience, the richest place to look.
+
+---
+
 ## Verification Notes
 
 - History dates use conservative framing. The earliest material evidence is the oracle-bone 香 (Shang dynasty); ritual incense is clear from the Han dynasty. Claims of "5,000 years" are not used here as established fact.

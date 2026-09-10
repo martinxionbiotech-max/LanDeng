@@ -66,6 +66,14 @@ This page is an **orientation** to the 香谱 tradition, not a translation of th
 
 ---
 
+## The Author's Take
+
+I will make a claim that may sound uncomfortable, but I mean it: the single biggest untapped resource in English-language incense writing is not a new scent or a new brand — it is a thousand-year-old bookshelf of **untranslated manuals**.
+
+The 香谱 are not obscure trivia; they are the operating system of the entire tradition, and almost no English speaker has read them. Whoever systematically translates and organizes them first will not merely rank for keywords — they will *become* the reference that everyone else cites. That is a rare kind of opportunity: the material is public, centuries old, and almost entirely unclaimed in English.
+
+---
+
 ## Verification Notes
 
 - The major manuals (陈氏香谱, 洪芻香谱, 新纂香谱, 香乘 by 周嘉胄) are standard identifications from the research notes (R-003).

@@ -68,6 +68,14 @@ This page describes the **cultural and technical framework** of 合香. It makes
 
 ---
 
+## The Author's Take
+
+I will say it plainly, because I believe it: the West largely imported incense as a **single note** — a scent, not a composition. The 合香 principle, chief–minister–assistant–guide, is a reminder that Chinese incense is closer to **cooking** than to perfume.
+
+You do not ask of a 合香 blend "what does it smell like" the way you ask of a vanilla candle. You ask "how is this formula balanced, and what is each ingredient doing?" I think this is why Chinese incense reads as "complex" to outsiders — it is *structured* complexity, a composition with a job for every part, not random mixing. Once you see it as a formula art, a lot of the mystique dissolves into craft.
+
+---
+
 ## Verification Notes
 
 - 合香 as "compound/blended incense" and the 君臣佐使 (chief–minister–assistant–guide) principle are standard in Chinese incense literature, drawn from the research notes (R-003).
