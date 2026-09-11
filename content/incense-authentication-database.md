@@ -70,10 +70,13 @@ These are **traditional buyer heuristics**, accumulated in the Chinese agarwood 
 
 ## The Author's Take
 
-Here is my contrarian experience after a lot of time in this market: the strongest authenticity signal is not a burn test — it is the **seller**. A vendor who cannot name the species, the origin, and the grade is giving you all the information you need, and it is not good news.
+**Position:** My contrarian experience: the strongest authenticity signal is not a burn test — it is the **seller**.
 
-I have watched too many buyers chase white smoke and sink tests when the honest shortcut was one question: "What exactly is this, and where is it from?" The burn and aroma signals in this database are a useful *backup* — but the seller is the test. Buy from someone who knows their material, and half of authentication stops being a problem.
+**Reasoning:**
+- A vendor who cannot name the species, the origin, and the grade is already giving you all the information you need.
+- The burn and aroma signals are a useful *backup* — but “what exactly is this, and where is it from?” is the honest shortcut.
 
+*This is the author's editorial view and experience — not a verified fact.*
 ---
 
 ## Verification Notes

@@ -68,10 +68,13 @@ This page is an **orientation** to the 香谱 tradition, not a translation of th
 
 ## The Author's Take
 
-I will make a claim that may sound uncomfortable, but I mean it: the single biggest untapped resource in English-language incense writing is not a new scent or a new brand — it is a thousand-year-old bookshelf of **untranslated manuals**.
+**Position:** The single biggest untapped resource in English incense writing is not a new scent — it is a thousand-year-old bookshelf of untranslated manuals.
 
-The 香谱 are not obscure trivia; they are the operating system of the entire tradition, and almost no English speaker has read them. Whoever systematically translates and organizes them first will not merely rank for keywords — they will *become* the reference that everyone else cites. That is a rare kind of opportunity: the material is public, centuries old, and almost entirely unclaimed in English.
+**Reasoning:**
+- The 香谱 are the operating system of the whole tradition, and almost no English speaker has read them.
+- Whoever systematically translates and organizes them first will become the reference everyone else cites.
 
+*This is the author's editorial view and experience — not a verified fact.*
 ---
 
 ## Verification Notes

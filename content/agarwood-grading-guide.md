@@ -98,10 +98,14 @@ More rigorous 考证 argues that **tagara is a mistranslation** — the Sanskrit
 
 ## The Author's Take
 
-I'll give you my honest view, not just the reference facts: the 沉水 sink test is simultaneously the most useful and the most overrated grading signal in agarwood. It is useful because it is objective — either the piece sinks or it does not, no argument. It is overrated because oil-injection fakes are *engineered specifically to sink*. If you grade by the sink test alone, you are not grading the wood; you are grading the counterfeiter's technique.
+**Position:** The 沉水 sink test is at once the most useful and the most overrated grading signal in agarwood — because oil-injection fakes are engineered specifically to sink.
 
-In my experience, the better first question is not "does it sink?" but "how does it smell when gently heated, and who is selling it to me?" A half-sinking piece whose warm aroma I have actually enjoyed is worth more to me than a "sinking" piece I cannot verify. The sink test is a useful tiebreaker — never the whole story.
+**Reasoning:**
+- Useful: it is objective — the piece either sinks or it does not, no argument.
+- Overrated: fakes are built to pass it, so the test grades the counterfeiter's technique, not the wood.
+- A better first question is “how does it smell when gently heated, and who is selling it to me?”
 
+*This is the author's editorial view and experience — not a verified fact.*
 ---
 
 ## Verification Notes

@@ -55,8 +55,14 @@ Choose the form to match the session, not just the scent. See [which incense for
 
 ## The Author's Take
 
-In my view, the form vocabulary is the entry fee to incense literacy, and it is best learned in one place like this. My experience is that once you can name the five forms — stick, coil, cone, resin, powder — and the two practice terms that matter (隔火焚香 and 篆香), a lot of product pages stop being confusing. I would add one habit: always check the form against your session length, because the form is what sets the burn time.
+**Position:** Form vocabulary is the entry fee to incense literacy — name the five forms and the two practice terms, and most product pages stop being confusing.
 
+**Reasoning:**
+- Five forms: stick, coil, cone, resin, powder.
+- Two practice terms that matter: 隔火焚香 and 篆香.
+- One habit to add: match the form to your session length, because form sets the burn time.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - Chinese terms and their standard English glosses are drawn from established usage.

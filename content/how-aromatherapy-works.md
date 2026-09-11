@@ -58,8 +58,14 @@ The honest position: a scent can be a **powerful cue in a routine** (the same sc
 
 ## The Author's Take
 
-My view is that "aromatherapy works" is best answered in two halves: the neuroscience (smell routes to emotion and memory) is real, and the marketing (a specific oil produces a specific effect) mostly is not. In my experience, this split is exactly what makes a scent useful — as a ritual cue, not a dose. I would tell anyone to stop chasing a therapeutic effect and start using one consistent scent as the anchor of a routine.
+**Position:** In my view, “aromatherapy works” splits in two halves — the neuroscience is real, and the marketing mostly is not.
 
+**Reasoning:**
+- Smell routing to emotion and memory is well-established; a specific oil producing a specific effect is not.
+- That split is what makes a scent useful: as a ritual cue, not a dose.
+- Stop chasing a therapeutic effect — use one consistent scent as the anchor of a routine.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - The olfactory-to-limbic wiring is well-established neuroscience.
