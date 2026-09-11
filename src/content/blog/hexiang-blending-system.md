@@ -175,6 +175,7 @@ A: It shares the same 君臣佐使 compositional logic as Chinese herbal compoun
 
 ## Related Resources
 
+- [Chinese Incense Recipes (香方)](/blog/chinese-incense-recipes/)
 - [How Incense Is Made](/blog/how-incense-is-made/)
 - [The Incense Manuals (香谱)](/blog/xiangpu-incense-manuals/)
 - [Incense Ingredients Glossary](/blog/incense-ingredients-glossary/)

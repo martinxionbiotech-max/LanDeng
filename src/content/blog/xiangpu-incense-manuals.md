@@ -109,6 +109,7 @@ A: They are the primary record of the 合香 blending tradition and the source o
 
 ## Related Resources
 
+- [Chinese Incense Recipes (香方)](/blog/chinese-incense-recipes/)
 - [The Blending System (合香)](/blog/hexiang-blending-system/)
 - [What Is Chinese Incense?](/blog/what-is-chinese-incense/)
 - [History of Chinese Incense Culture](/blog/history-of-chinese-incense/)
