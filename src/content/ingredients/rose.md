@@ -84,6 +84,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **What part of the rose is used?** The flower bud — dried rose buds (玫瑰花) are used for tea and materia medica, while the petals are distilled for rose water and rose oil.
 
-See also: [jasmine](/ingredients/jasmine/) and [osmanthus](/ingredients/osmanthus/), its fellow florals, plus the full [scent guide](/scent-guide/).
+See also: [jasmine](/ingredients/jasmine/) and [osmanthus](/ingredients/osmanthus/), its fellow florals, plus the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical references on *Rosa* (R. rugosa vs R. damascena) and TCM descriptions of 玫瑰花. Medicinal claims are treated as traditional, not clinical. This is editorial knowledge content, not medical advice.*

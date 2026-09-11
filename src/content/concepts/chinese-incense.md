@@ -84,13 +84,13 @@ Chinese incense carries a rich layer of **traditional and cultural knowledge** (
 
 **What is 隔火焚香 (indirect-fire incense)?** The refined Song-dynasty technique of burying hot charcoal in ash and resting the fragrant wood on a plate above it, so aroma releases with almost no smoke. It is the ancestor of Japanese kōdō — the "scent, not smoke" method.
 
-**Is Chinese incense natural?** Not automatically. Natural incense uses plant material and a plant binder (like makko); much commercial incense is a charcoal or sawdust base soaked in synthetic fragrance. "Natural" is unregulated, so check the ingredients rather than the label. See [what makes incense natural](/what-makes-incense-natural/).
+**Is Chinese incense natural?** Not automatically. Natural incense uses plant material and a plant binder (like makko); much commercial incense is a charcoal or sawdust base soaked in synthetic fragrance. "Natural" is unregulated, so check the ingredients rather than the label. See [what makes incense natural](/blog/what-makes-incense-natural/).
 
 **What is the difference between Chinese incense and a candle?** A candle is wax with a wick, burned for light and scent; incense is aromatic plant material burned or heated for its scent alone. Incense is a material-and-ritual tradition, not a lighting technology.
 
 **What is 合香 (blended incense)?** The art of combining multiple materials into one compound, built on the 君臣佐使 (chief/minister/assistant/guide) formula principle. Most refined Chinese incense is a blend, not a single scent.
 
-**Is Chinese incense the same as Japanese incense?** They share an origin — Japanese kōdō developed from Song-dynasty 隔火焚香 — but Chinese incense is warmer and more complex, while Japanese incense is minimalist and very low-smoke. See [Japanese incense & kōdō](/japanese-incense-kodo/).
+**Is Chinese incense the same as Japanese incense?** They share an origin — Japanese kōdō developed from Song-dynasty 隔火焚香 — but Chinese incense is warmer and more complex, while Japanese incense is minimalist and very low-smoke. See [Japanese incense & kōdō](/blog/japanese-incense-kodo/).
 
 ---
 

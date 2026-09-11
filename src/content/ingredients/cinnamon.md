@@ -86,6 +86,6 @@ Incense combustion produces smoke and particulate matter — burn in a well-vent
 
 **Is cassia the "cinnamon" in Chinese five-spice?** Yes — cassia (桂皮) is one of the traditional five-spice (五香粉) components, alongside star anise, cloves, Sichuan pepper, and fennel. That overlap is why its aroma reads as familiar and food-adjacent.
 
-See also: [clove](/ingredients/clove/), its frequent spice partner, and the full [scent guide](/scent-guide/).
+See also: [clove](/ingredients/clove/), its frequent spice partner, and the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical references on *Cinnamomum cassia* and *C. verum* (cinnamaldehyde, coumarin, 桂皮/肉桂 usage). This is editorial knowledge content, not medical advice.*

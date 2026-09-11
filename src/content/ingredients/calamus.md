@@ -70,6 +70,6 @@ Like all burning plant material, calamus smoke contains particulate matter — b
 
 **Why is calamus restricted in food?** Because its essential oil can contain β-asarone, which is carcinogenic in rodent studies. This is a food/ingestion restriction, distinct from the general smoke caution for incense.
 
-See also: [angelica](/ingredients/angelica/), [mugwort](/ingredients/mugwort/), and the full [scent guide](/scent-guide/).
+See also: [angelica](/ingredients/angelica/), [mugwort](/ingredients/mugwort/), and the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical and toxicological references on *Acorus calamus* and β-asarone (FDA 1968 ban; European Commission limits; diploid-vs-tetraploid variety distinction). Medicinal uses are treated as traditional, not established clinical fact. This is editorial knowledge content, not medical advice.*

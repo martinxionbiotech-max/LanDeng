@@ -85,6 +85,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Is patchouli oil aged?** Patchouli oil is often described as improving with age, mellowing from a sharp, green note into a deeper, smoother earthiness. This is a perfumery observation, not a standardized grading rule.
 
-See also: [vetiver](/ingredients/vetiver/) and [cedar](/ingredients/cedar/), its fellow earthy/woody notes, plus the full [scent guide](/scent-guide/).
+See also: [vetiver](/ingredients/vetiver/) and [cedar](/ingredients/cedar/), its fellow earthy/woody notes, plus the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical references on *Pogostemon cablin* (Lamiaceae, steam distillation) and accounts of its use in East Asian incense. The 广藿香/藿香 distinction is a standard Chinese-herb naming point. This is editorial knowledge content, not medical advice.*

@@ -80,6 +80,6 @@ Chrysanthemum is food-grade and widely drunk as tea; however, incense combustion
 
 **Is chrysanthemum incense safe?** Like all burning plant material, chrysanthemum produces smoke and particulate matter. Burn in a well-ventilated space and avoid inhaling concentrated smoke. This is general safety guidance, not a claim about any condition.
 
-See also: [mugwort](/ingredients/mugwort/), another herbal (non-sweet) Chinese incense material, and the full [scent guide](/scent-guide/).
+See also: [mugwort](/ingredients/mugwort/), another herbal (non-sweet) Chinese incense material, and the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical references on *Chrysanthemum morifolium* and TCM accounts of 菊花 (varieties, festival association). Medicinal claims are treated as traditional. This is editorial knowledge content, not medical advice.*

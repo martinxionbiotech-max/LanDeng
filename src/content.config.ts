@@ -30,4 +30,19 @@ const concepts = defineCollection({
   }),
 });
 
-export const collections = { ingredients, concepts };
+const blog = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/blog' }),
+  schema: z.object({
+    slug: z.string(),
+    title: z.string(),
+    primary_keyword: z.string(),
+    search_intent: z.string(),
+    pillar: z.string(),
+    content_type: z.string(),
+    last_reviewed: z.string(),
+    brand: z.string().optional(),
+    author: z.string().optional(),
+  }),
+});
+
+export const collections = { ingredients, concepts, blog };

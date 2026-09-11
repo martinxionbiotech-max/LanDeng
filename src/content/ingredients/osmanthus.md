@@ -85,6 +85,6 @@ Osmanthus is a gentle floral note and is commonly used in tea and food; however,
 
 **What is osmanthus used for in food?** It flavors desserts, sugar syrups, and confections — 桂花糕 (osmanthus cake) and 桂花酒 (osmanthus wine) are the classic examples — adding a sweet, apricot-honey note.
 
-See also: [jasmine](/ingredients/jasmine/) and [rose](/ingredients/rose/), its fellow florals, plus the full [scent guide](/scent-guide/).
+See also: [jasmine](/ingredients/jasmine/) and [rose](/ingredients/rose/), its fellow florals, plus the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical references on *Osmanthus fragrans* (Oleaceae, color variants) and commercial/cultural accounts of its use in tea and incense. This is editorial knowledge content.*

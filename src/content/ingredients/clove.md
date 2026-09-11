@@ -85,6 +85,6 @@ Clove oil/eugenol is potent and can be irritating; it should not be applied undi
 
 **Where does clove come from?** The dried flower buds of *Syzygium aromaticum*, harvested before opening. Major producers include Indonesia (the historic Moluccas), Madagascar, Zanzibar, and Sri Lanka.
 
-See also: [cinnamon](/ingredients/cinnamon/), its frequent spice partner, and the full [scent guide](/scent-guide/).
+See also: [cinnamon](/ingredients/cinnamon/), its frequent spice partner, and the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical references on *Syzygium aromaticum* (eugenol, harvest regions) and the clove/lilac naming note. Medicinal claims are treated as traditional/preliminary. This is editorial knowledge content, not medical advice.*

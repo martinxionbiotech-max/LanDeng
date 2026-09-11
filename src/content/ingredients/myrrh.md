@@ -84,6 +84,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **What is the difference between myrrh and opopanax?** Both are *Commiphora* resins, but opopanax (sometimes called "sweet myrrh") has a sweeter, more balsamic-sweet profile, while myrrh proper is more bitter and medicinal. They are related but distinct materials.
 
-See also: [frankincense, myrrh's classical partner](/ingredients/frankincense/), the [frankincense incense guide](/frankincense-incense/), and the full [scent guide](/scent-guide/).
+See also: [frankincense, myrrh's classical partner](/ingredients/frankincense/), the [frankincense incense guide](/blog/frankincense-incense/), and the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical and pharmacological references on *Commiphora*. Medicinal claims are treated as traditional/preliminary, not established clinical fact. This is editorial knowledge content, not medical advice.*

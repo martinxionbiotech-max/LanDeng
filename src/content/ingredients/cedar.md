@@ -84,6 +84,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **What is the difference between cedar, sandalwood, and agarwood?** Cedar is dry, clean, and light; sandalwood is creamy, sweet, and warm; agarwood is deep, resinous, and sweet-complex. They are three different woods at three different weights — cedar the lightest, agarwood the most precious.
 
-See also: [sandalwood](/ingredients/sandalwood/), the [sandalwood incense guide](/sandalwood-incense/), and the full [scent guide](/scent-guide/).
+See also: [sandalwood](/ingredients/sandalwood/), the [sandalwood incense guide](/blog/sandalwood-incense/), and the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical references on *Cedrus* and *Juniperus virginiana*, plus the observation that commercial "cedarwood" claims are widely overstated. This is editorial knowledge content, not medical advice.*

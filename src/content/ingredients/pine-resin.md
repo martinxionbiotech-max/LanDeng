@@ -69,6 +69,6 @@ Incense combustion produces smoke and particulate matter; burn in a well-ventila
 
 **How do you burn pine resin?** Like other resins — on a lit charcoal disc (in sand or ash on a heatproof surface) or more gently on an electric incense heater. Use small pieces; it melts and releases fragrant smoke.
 
-See also: [cedar](/ingredients/cedar/), [borneol](/ingredients/borneol/), and the full [scent guide](/scent-guide/).
+See also: [cedar](/ingredients/cedar/), [borneol](/ingredients/borneol/), and the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical references on *Pinus* oleoresin and the rosin/colophony refinement. This is editorial knowledge content, not medical advice.*

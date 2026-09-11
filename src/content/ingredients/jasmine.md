@@ -78,6 +78,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **When are jasmine flowers harvested?** For jasmine tea, the flowers are typically picked early in the day, when the buds are about to open and their scent is strongest, then layered with tea leaves for scenting.
 
-See also: [rose](/ingredients/rose/) and [osmanthus](/ingredients/osmanthus/), its fellow florals, plus the full [scent guide](/scent-guide/).
+See also: [rose](/ingredients/rose/) and [osmanthus](/ingredients/osmanthus/), its fellow florals, plus the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical references on *Jasminum* and cultural accounts of jasmine tea (窨制 method). This is editorial knowledge content, not medical advice.*

@@ -69,6 +69,6 @@ Incense combustion produces smoke and particulate matter; burn in a well-ventila
 
 **What is angelica root used for in incense?** It contributes a warm, herbal base note to Chinese blended incense and is one of the classical aromatic roots of the 合香 tradition.
 
-See also: [calamus](/ingredients/calamus/), [mugwort](/ingredients/mugwort/), and the full [scent guide](/scent-guide/).
+See also: [calamus](/ingredients/calamus/), [mugwort](/ingredients/mugwort/), and the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical references on *Angelica dahurica* and the 白芷/当归 disambiguation. Medicinal uses are treated as traditional, not established clinical fact. This is editorial knowledge content, not medical advice.*

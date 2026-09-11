@@ -69,6 +69,6 @@ Incense combustion produces smoke and particulate matter; burn in a well-ventila
 
 **How do you burn sweetgum resin?** Like other resins — on a lit charcoal disc (in sand or ash) or gently on an electric incense heater, using small pieces at a time.
 
-See also: [benzoin](/ingredients/benzoin/), [borneol](/ingredients/borneol/), and the full [scent guide](/scent-guide/).
+See also: [benzoin](/ingredients/benzoin/), [borneol](/ingredients/borneol/), and the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical references on *Liquidambar formosana* and the sweetgum/storax distinction (*L. orientalis*). This is editorial knowledge content, not medical advice.*

@@ -81,6 +81,6 @@ Chenpi is food-grade and widely used in cooking/tea; however, incense combustion
 
 **How do you use chenpi in tea?** A small piece of aged chenpi is commonly steeped with tea (often pu-erh) or brewed as an ingredient in a herbal tisane, lending a warm, mellow citrus note. It is used sparingly — its flavor deepens and can dominate.
 
-See also: the [citrus incense guide](/citrus-incense/) for how 陈皮 connects to citrus incense, and the full [scent guide](/scent-guide/).
+See also: the [citrus incense guide](/blog/citrus-incense/) for how 陈皮 connects to citrus incense, and the full [scent guide](/blog/scent-guide/).
 
 *Sources: references on *Chenpi* (Citrus reticulata peel, Xinhui GI, aging grades) and its traditional use. Medicinal claims are treated as traditional/preclinical. This is editorial knowledge content, not medical advice.*

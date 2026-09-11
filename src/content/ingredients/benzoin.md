@@ -86,6 +86,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **How do you burn benzoin resin?** Like other resins: on a lit charcoal disc (in sand or ash on a heatproof surface), or more gently on an electric incense heater. It is usually blended rather than burned alone.
 
-See also: [frankincense](/ingredients/frankincense/) and [myrrh](/ingredients/myrrh/), its resin relatives, plus the full [scent guide](/scent-guide/).
+See also: [frankincense](/ingredients/frankincense/) and [myrrh](/ingredients/myrrh/), its resin relatives, plus the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical references on *Styrax* and benzoin resin (Siam vs Sumatra distinction, benzoic/cinnamic acid). This is editorial knowledge content, not medical advice.*

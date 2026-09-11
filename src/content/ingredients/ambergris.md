@@ -71,6 +71,6 @@ Incense combustion produces smoke and particulate matter; burn in a well-ventila
 
 **Why is ambergris so expensive?** Natural ambergris is rare — produced by a small fraction of sperm whales and found washed ashore — and trade is restricted. Scarcity and the fixative's value drive the price.
 
-See also: [sandalwood](/ingredients/sandalwood/), [agarwood](/ingredients/agarwood/), and the full [scent guide](/scent-guide/).
+See also: [sandalwood](/ingredients/sandalwood/), [agarwood](/ingredients/agarwood/), and the full [scent guide](/blog/scent-guide/).
 
 *Sources: references on ambergris (sperm whale secretion, aging/oxidation, fixative role, CITES trade status, and synthetic substitutes ambroxide/ambreine). Medicinal uses are treated as traditional, not established clinical fact. This is editorial knowledge content, not medical advice.*

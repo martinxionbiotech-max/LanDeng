@@ -72,6 +72,6 @@ Like all burning plant material, mugwort smoke contains particulate matter. Burn
 
 **Can mugwort be blended with sandalwood?** Yes — mugwort's herbal-green note is sometimes paired with a sweet wood like sandalwood in 合香, where the wood softens the herb and the herb adds an earthy edge to the blend.
 
-See also: [what Chinese incense is](/what-is-chinese-incense/) and the full [scent guide](/scent-guide/).
+See also: [what Chinese incense is](/blog/what-is-chinese-incense/) and the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical references on *Artemisia* and cultural accounts of mugwort's traditional role. Moxibustion's medical claims are treated as not established by modern evidence. This is editorial knowledge content, not medical advice.*

@@ -95,6 +95,6 @@ Incense/essential-oil combustion produces smoke and particulate matter. Burn in 
 
 **What is khus?** The Indian name for vetiver. Khus is used in Indian perfumery and in cooling drinks and sherbets in South Asia — a separate, culinary use of the same grass.
 
-See also: [patchouli](/ingredients/patchouli/) and [cedar](/ingredients/cedar/), its fellow earthy/woody notes, plus the full [scent guide](/scent-guide/).
+See also: [patchouli](/ingredients/patchouli/) and [cedar](/ingredients/cedar/), its fellow earthy/woody notes, plus the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical and perfumery references on *Chrysopogon zizanioides* (Poaceae, origin grades). This is editorial knowledge content, not medical advice.*

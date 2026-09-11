@@ -95,6 +95,6 @@ Both are resins from the same plant family (Burseraceae), but from different gen
 
 **Is all frankincense the same?** No — *B. sacra* (Oman/Yemen) is the classic, *B. carterii* (Somalia) is common in commerce, and *B. serrata* (India) is earthier. The species and origin affect the aroma, so check the label when it matters to you.
 
-See also: the [frankincense incense guide](/frankincense-incense/) and the full [scent guide](/scent-guide/).
+See also: the [frankincense incense guide](/blog/frankincense-incense/) and the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical and pharmacological references on *Boswellia*. Medicinal claims are treated as traditional/preliminary, not established clinical fact. This is editorial knowledge content, not medical advice.*

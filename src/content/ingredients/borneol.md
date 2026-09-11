@@ -70,6 +70,6 @@ Incense combustion produces smoke and particulate matter; burn in a well-ventila
 
 **Why does borneol feel cooling?** Borneol activates the TRPM8 cold receptor — the same mechanism behind menthol's cooling sensation, though borneol's effect is weaker. This is a documented receptor effect, not a health claim.
 
-See also: [sweetgum](/ingredients/sweetgum/), [pine resin](/ingredients/pine-resin/), and the full [scent guide](/scent-guide/).
+See also: [sweetgum](/ingredients/sweetgum/), [pine resin](/ingredients/pine-resin/), and the full [scent guide](/blog/scent-guide/).
 
 *Sources: botanical and pharmacognosy references on borneol (*Dryobalanops aromatica*, *Blumea balsamifera*), the 龙脑/冰片 source distinction, and the TRPM8 cooling mechanism. Medicinal uses are treated as traditional, not established clinical fact. This is editorial knowledge content, not medical advice.*
