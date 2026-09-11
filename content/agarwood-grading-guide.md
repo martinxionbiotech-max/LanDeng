@@ -5,7 +5,7 @@ primary_keyword: agarwood grading qinan kyara
 search_intent: informational
 pillar: P2 — Scent & Ingredient (authority reference)
 content_type: authority_reference
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 brand: "[BRAND]"
 author: "[AUTHOR]"
 ---
@@ -79,6 +79,27 @@ How the resin formed also factors into grading and naming:
 - **脱落** — resin from an external wound or break.
 
 These describe *how* the agarwood came to be, and interact with the density and 奇楠 distinctions above.
+
+---
+
+---
+
+## Price Signals: How Much Should It Cost?
+
+Price is the grading system's shadow — the 沉水 and 奇楠 tiers exist partly because they command wildly different prices. The honest summary, in rough, market-dependent terms:
+
+| Material / grade | Rough price signal (RMB, varies by origin & market) |
+|---|---|
+| Ordinary agarwood (中药铺 medicinal-grade chips) | ~0.4–1.4 RMB per gram — a cheap herb, not a treasure |
+| Burnable / gradeable agarwood (可品沉香) | tens to thousands of RMB per gram, scaling with resin density |
+| 沉水 (sinking) agarwood | a steep premium over floating grades of the same piece |
+| 奇楠 (qínán / "kyara") | ~3,000–8,000 RMB per gram at wholesale; top white 奇楠 can exceed 16,000 RMB/g |
+| India "old mountain" sandalwood (老山檀) | ~10–150 RMB per gram, by age and density |
+| Plantation sandalwood (澳洲/印尼) | well under ~3 RMB per gram |
+
+**The single most useful price insight:** the saying "沉香贵过黄金" ("agarwood is more valuable than gold") is **misleading as usually repeated**. Ordinary medicinal agarwood is cheap — a few RMB per gram. It is only the **top grades** (dense 沉水, and above all 奇楠) that reach gold-scale prices. When a seller prices *every* piece as if it were 奇楠, that is the strongest signal to walk away.
+
+These figures are **directional market signals, not a price list** — prices are volatile, grade-dependent, and the market is famously full of fakes (see the [authentication database](/incense-authentication-database/)).
 
 ---
 

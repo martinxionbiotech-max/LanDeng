@@ -5,7 +5,7 @@ primary_keyword: hexiang chinese incense blending
 search_intent: informational
 pillar: P9 — Incense Craft & Materials (authority reference)
 content_type: authority_reference
-last_reviewed: 2026-09-10
+last_reviewed: 2026-09-11
 brand: "[BRAND]"
 author: "[AUTHOR]"
 ---
@@ -59,6 +59,70 @@ This distinction explains several things at once:
 - Why "Chinese incense" has no single signature smell — it is a *method*, not a *material*.
 - Why the classical canon (香谱) is full of *recipes*, not just ingredient lists.
 - Why the blending principle connects incense to the wider Chinese art of **composition** (herbs, tea, perfume).
+
+---
+
+---
+
+## Worked Examples: Three 合香 Recipes, Deconstructed
+
+The principle is easiest to learn through real recipes. Here are three, deconstructed by role.
+
+**Caveat:** classical recipes survive in **multiple versions** with differing proportions, and the weights use historical Chinese units (两 *liǎng*, 钱 *qián* = one-tenth of a 两); exact gram equivalents varied by dynasty and are not essential to reading the structure. Treat these as **illustrative structures, not precise manufacturing instructions** — and as cultural history, never as formulas for any physiological effect.
+
+### 1. 江南李主帐中香 — "The Lord of Jiangnan's Bedchamber Incense" (Five Dynasties–Song)
+
+The best-documented classical example, attributed to **李煜 (Li Yu)**, the last ruler of the Southern Tang — hence "江南李主" ("Lord of Jiangnan"). The Ming-era *香乘* records several versions; the most famous is the **鹅梨 (goose-pear) version**:
+
+> **沉香末一两，檀香末一钱，鹅梨十枚** — one *liǎng* agarwood powder, one *qián* sandalwood powder, ten goose pears. Hollow each pear like a jar, fill it with the powders, seal with the pear's top, steam three times (蒸三溜), strip the peel, grind and blend, then age (久窨) before burning.
+
+| Role | Ingredient | Job in the blend |
+|---|---|---|
+| 君 (chief) | 沉香 agarwood | The deep, resinous backbone — the whole formula exists to carry it |
+| 臣 (minister) | 檀香 sandalwood | A trace (1/10 by weight) that warms and rounds the agarwood, never competing with it |
+| 佐 (assistant) | 鹅梨 goose pear | The fruit's juice lends a clean, sweet top note — the "fresh" in an otherwise deep wood |
+| 使 (guide) | steaming + aging | The process (not an ingredient) is what fuses the fruit into the wood |
+
+Note the economy: ten pears, one *liǎng* of agarwood, against a single *qián* of sandalwood. The chief dominates; the minister is a trace. This is the disciplined logic of 合香 — a little support, not a chorus.
+
+### 2. 雪中春信 — "Snow in Spring" (Song, attributed to 苏轼)
+
+Named for the moment winter turns to spring, and traditionally **attributed to Su Shi (苏轼)** — though the attribution is a romantic legend, not a documented fact. The *香乘* records the formula (with variations) as:
+
+> **香附子、鬱金、檀香、麝香、樟腦、羊脛灰** — cyperus (香附子), turmeric (鬱金), sandalwood (檀香), musk (麝香), camphor (樟腦), and sheep-shin-bone ash (羊脛灰), ground fine, bound with refined honey, aged, and burned in the usual manner. Other recorded versions swap in 棧香 and 杉木炭.
+
+| Role | Ingredient | Job in the blend |
+|---|---|---|
+| 君 (chief) | 檀香 sandalwood | The woody body of the scent |
+| 臣 (minister) | 香附子 / 鬱金 cyperus, turmeric | Warm, faintly herbal middle tones |
+| 佐 (assistant) | 樟腦 camphor | The **cool, sharp "snow" note** — the cold snap that makes it "winter" |
+| 使 (guide) | 麝香 + 羊脛灰 + honey | Musk fixes and lifts; the ash and honey bind the powder into a burnable form |
+
+This recipe is a lesson in the 佐 (assistant) role: camphor is not the main scent, but it is the ingredient that *names* the blend. The "snow" is a single cooling note set against warm woods — the same trick as a cold top note in perfume.
+
+### 3. 二苏旧局 — "The Two Sus' Old Gathering" (contemporary)
+
+A **modern** formula, not an ancient text — it is from **陈云君 (Chen Yunjun)**'s *燕居香语*, a contemporary incense manual. It is named for the brothers **苏轼 and 苏辙** (the "two Su" literati) and meant to evoke a scholar's study. This distinction matters: it is a *revival* recipe written in the 合香 idiom, not a 香谱 original.
+
+> **沉香、檀香、乳香、琥珀、蜂蜜、茉莉花** — agarwood, sandalwood, frankincense, amber, honey, jasmine. Cube the agarwood and sandalwood; grind the frankincense and amber to powder; bind all four in honey (traditionally jujube-flower honey); roll into pills; coat the outside with dried jasmine flowers; air-dry.
+
+| Role | Ingredient | Job in the blend |
+|---|---|---|
+| 君 (chief) | 沉香 agarwood | The deep, quiet skeleton — the "old desk" of the study |
+| 臣 (minister) | 檀香 sandalwood | Warms and supports the agarwood so it is not cold |
+| 佐 (assistant) | 乳香 frankincense + 琥珀 amber | Frankincense adds a bright, resinous lift; amber adds stillness and depth |
+| 使 (guide) | 蜂蜜 honey + 茉莉花 jasmine | Honey binds the pills; the jasmine coat opens a bright floral window at the top |
+
+Here the 佐 role is **split in two** (frankincense + amber) doing opposite jobs — one opens, one settles — a clean illustration that "assistant" is a *function*, not a count.
+
+### What the Three Recipes Together Show
+
+- **The chief is almost always a wood** — agarwood or sandalwood — because woods carry the longest, most stable burn.
+- **The minister is a smaller wood or resin** that rounds the chief, usually at a fraction of its weight.
+- **The assistant is the signature** — camphor's "snow," the pear's fruit, frankincense's lift. This is where a blend gets its *name* and its character.
+- **The guide is often a process** (steaming, aging) or a binder (honey), not always a scented ingredient.
+
+To read 合香 like a formula, ask four questions of any recipe: *what carries it, what rounds it, what names it, and what binds it.*
 
 ---
 

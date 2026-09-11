@@ -5,7 +5,7 @@ primary_keyword: incense scent guide
 search_intent: informational
 pillar: P2 — Scent & Ingredient Guide (hub)
 content_type: hub
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-11
 brand: "[BRAND]"
 author: "[AUTHOR]"
 ---
@@ -57,6 +57,28 @@ This is a starting point, not a rule — the same scent can serve different mood
 
 ---
 
+## Decision Tree: From Feeling to Scent
+
+A fast path from intention to a starting scent:
+
+```text
+Do you want to feel more alert or more settled?
+├─ More alert / clear-headed
+│    └─ Bright & focusing → citrus, frankincense
+│         (light, fresh, clean — best on a gentle heater)
+└─ More settled / grounded
+     ├─ Warm & calm → sandalwood
+     │    (creamy, sweet, woody — the classic base)
+     ├─ Deep & quiet → agarwood
+     │    (resinous, sweet, complex — the most precious)
+     └─ Soft & gentle → lotus, lavender
+          (floral, airy — usually a fragrance accord, check the label)
+```
+
+The tree ends at a **scent family, not a product** — from there you still confirm the material behind the label. "Atmosphere" is a starting point, not a measured effect.
+
+---
+
 ## The Scents, One by One
 
 - **[Sandalwood (檀香)](/sandalwood-incense/)** — creamy, sweet, soft-woody. The classic "calm, warm" base; also the most substituted material (know your species).
@@ -65,6 +87,20 @@ This is a starting point, not a rule — the same scent can serve different mood
 - **[Lavender](/lavender-incense/)** — soft, floral, herbal. The modern Western "unwind" note; a wellness ritual, not a treatment.
 - **[Lotus (莲花)](/lotus-incense/)** — fresh, subtle, floral. The symbol of purity (出淤泥而不染); usually a floral accord in incense.
 - **[Citrus (柑橘)](/citrus-incense/)** — bright, zesty, energizing. The top note that fades fast, so usually blended; 陈皮 is its Chinese material link.
+
+---
+
+## The Three Classical Materials, Compared
+
+The Chinese canon rests on three materials worth telling apart at a glance:
+
+| Material | Character | Atmosphere | Relative price | Buyer caution |
+|---|---|---|---|---|
+| Agarwood 沉香 | Deep, resinous, sweet, complex | Deep / quiet / enveloping | Highest — 奇楠 is the top of the market | The most-faked material; price is the first check |
+| Sandalwood 檀香 | Creamy, sweet, soft-woody | Warm / calm / grounded | Mid — real *Santalum album* is scarce | Many substitute species share the name |
+| Frankincense 乳香 | Fresh, resinous, citrus-woody | Bright / focusing / clear | Low–mid | Usually real resin; watch for fragrance-oil "frankincense" sticks |
+
+"Relative price" is a directional signal, not a price list — and none of the three is a medical treatment.
 
 ---
 

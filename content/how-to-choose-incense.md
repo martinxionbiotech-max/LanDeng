@@ -5,7 +5,7 @@ primary_keyword: how to choose incense
 search_intent: commercial_investigation
 pillar: P5 — Buying & Selection
 content_type: article
-last_reviewed: 2026-09-09
+last_reviewed: 2026-09-11
 brand: "[BRAND]"
 author: "[AUTHOR]"
 ---
@@ -74,6 +74,32 @@ Every burned incense produces smoke and particulate matter. Decide how much you 
 - **More smoke** — bamboo-core sticks, backflow cones, bakhoor on charcoal.
 
 Ventilation is always the rule. See [incense safety](/safety/).
+
+---
+
+## The Decision Tree (Shortcut)
+
+If the four steps feel like a lot, this is the compressed version:
+
+```text
+What is the incense for?
+├─ Focus / work / study
+│    └─ citrus or frankincense, low smoke
+│         → a thin stick or electric-heated resin
+├─ Unwinding / evening
+│    └─ sandalwood or lavender, warm and soft
+│         → a standard stick (20–60 min) for the whole evening
+├─ Meditation / yoga / sitting
+│    └─ sandalwood or agarwood, grounding
+│         → match the burn to the sit: stick for 20–40 min, coil for longer
+├─ Home ambiance (background)
+│    └─ cedar or sandalwood, clean and room-filling
+│         → a coil for hours of continuous scent
+└─ A gift / unsure
+     └─ a real sandalwood stick — the classic gentle entry point
+```
+
+At every branch, the same three checks apply: **confirm the material (not the name), match the burn time to the session, and ventilate.** No branch requires a specific brand or a "medical-grade" claim.
 
 ---
 
