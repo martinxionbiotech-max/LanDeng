@@ -132,6 +132,13 @@ A: It is genuinely uncertain — competing theories include Sanskrit "Kāla," "t
 
 ---
 
+## Sources
+
+- 本草纲目 — historical materia-medica record; 沉香/奇楠 entries are traditional language, not clinical evidence.
+- Chinese specialist and consumer sources on 奇楠 grading and authentication (consumer/specialist tier; some conflict on the five-color hierarchy, flagged in the text).
+- Botanical references for *Aquilaria* (Thymelaeaceae) and resin formation.
+- Research synthesis: docs/research/agarwood-chenxiang-notes.md (R-001).
+
 ## Related Resources
 
 - [Agarwood Incense Guide](/agarwood-incense/)

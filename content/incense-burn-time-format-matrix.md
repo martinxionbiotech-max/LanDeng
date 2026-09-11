@@ -81,6 +81,11 @@ A: For a quick, self-contained session, a cone (15–30 min); for everyday use, 
 
 ---
 
+## Sources
+
+- Editorial synthesis of established burn-time-by-format practice (sticks, cones, coils, seal incense).
+- Format differences are general guidance, not manufacturer-specific data.
+
 ## Related Resources
 
 - [Which Incense Format Is Right for You?](/which-incense-format/)

@@ -105,6 +105,12 @@ A candle runs for hours and adds light; a stick burns ~30–60 minutes. For a lo
 ### Q: Do I need different safety setups for each?
 The principles are the same — a heatproof, stable surface, clear of flammables, never unattended. A candle needs a holder that contains the flame; incense needs a holder that catches ash and holds the ember.
 
+## Sources
+
+- EPA indoor air quality on combustion particulate matter (PM2.5) — basis of the smoke-comparison framing.
+- NFPA fire-safety guidance (open flame).
+- Editorial synthesis of usage differences; no therapeutic claims.
+
 ## Related Resources
 
 - [Incense vs Essential Oil Diffuser](/incense-vs-essential-oil-diffuser/)

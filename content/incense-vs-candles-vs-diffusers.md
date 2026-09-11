@@ -97,6 +97,11 @@ Yes. Both are combustion sources — incense produces smoke, a candle produces s
 ### Q: Which is cheapest to run?
 Incense is typically cheapest per use (a stick costs pennies) but is fixed-duration. A candle runs for hours; a diffuser costs upfront plus electricity and oil refills.
 
+## Sources
+
+- EPA indoor air quality on combustion particulate matter (PM2.5) — basis of the smoke-comparison framing.
+- Editorial synthesis of usage differences; no therapeutic claims.
+
 ## Related Resources
 
 - [Incense vs Essential Oil Diffuser](/incense-vs-essential-oil-diffuser/)

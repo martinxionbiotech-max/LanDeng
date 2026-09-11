@@ -101,6 +101,11 @@ A naturally occurring terpene alcohol found in lavender, many florals, and some 
 ### Q: Why do sandalwood and lavender smell different?
 Different volatile compounds — sandalwood is dominated by santalols, lavender by linalool and linalyl acetate. A molecule's structure determines its smell, which is why the two scents are unrelated despite both being called "calming."
 
+## Sources
+
+- Established olfactory-neuroscience literature on odor perception and the limbic pathway.
+- Aroma chemistry is described qualitatively; no therapeutic or physiological-effect claims.
+
 ## Related Resources
 
 - [How Aromatherapy Works](/how-aromatherapy-works/)

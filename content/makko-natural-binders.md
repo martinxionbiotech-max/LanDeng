@@ -95,6 +95,11 @@ A: Natural binder (wood powder) burns cleanly with little odor; synthetic binder
 
 ---
 
+## Sources
+
+- Botanical references for *Machilus thunbergii* (the makko tree) and its combustible-binder use.
+- Traditional craft sources on Chinese/Japanese incense binding.
+
 ## Related Resources
 
 - [How Incense Is Made](/how-incense-is-made/)

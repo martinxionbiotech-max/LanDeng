@@ -98,6 +98,11 @@ A: Years, when kept sealed, cool, and dry. There is no set expiry; degradation d
 
 ---
 
+## Sources
+
+- Editorial synthesis of established incense-storage practice (cool, dry, dark; resin vs stick longevity).
+- General materials guidance; no specific lab data asserted.
+
 ## Related Resources
 
 - [Incense Safety Guide](/incense-safety-guide/)

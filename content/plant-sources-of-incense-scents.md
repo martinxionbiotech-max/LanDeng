@@ -108,6 +108,11 @@ Usually not — lotus has a subtle, aquatic scent that does not survive burning,
 ### Q: Why is makko listed as a plant source?
 Makko (*Machilus thunbergii* bark) is a functional ingredient — the combustible binder — not a scent. It is listed because it is the one plant material in incense whose job is structure, not fragrance. See [makko & natural binders](/makko-natural-binders/).
 
+## Sources
+
+- Botanical references — Kew Plants of the World Online and Flora of China for species identity and range.
+- 本草纲目 — historical materia-medica record (traditional, not clinical).
+
 ## Related Resources
 
 - [Incense Ingredients Glossary](/incense-ingredients-glossary/)

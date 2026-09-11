@@ -93,6 +93,12 @@ A: People with respiratory conditions are generally more sensitive to fine parti
 
 ---
 
+## Sources
+
+- EPA indoor air quality — particulate matter (PM2.5) and VOCs from combustion sources.
+- OSHA particulate exposure limits (occupational context).
+- Peer-reviewed air-quality literature on incense smoke; specific concentration values vary by study/product, so none are asserted here.
+
 ## Related Resources
 
 - [Incense Safety Guide](/incense-safety-guide/)

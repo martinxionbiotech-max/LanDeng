@@ -95,6 +95,11 @@ A: Not always. Method (hand-rolled) and ingredients (natural) are separate quest
 
 ---
 
+## Sources
+
+- Editorial synthesis of established incense-making craft (binder, blend, extrusion vs hand-rolling).
+- Traditional craft sources on 合香 and stick-making.
+
 ## Related Resources
 
 - [How Incense Is Made](/how-incense-is-made/)

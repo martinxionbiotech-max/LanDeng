@@ -98,6 +98,12 @@ A: They are the primary record of the 合香 blending tradition and the source o
 
 ---
 
+## Sources
+
+- 香谱 manuals — 陈氏香谱, 洪芻香谱, 周嘉胄《香乘》 (the canonical incense literature; largely untranslated).
+- 吴自牧《梦粱录》 — source of the 四般闲事 cultural frame.
+- Research synthesis: docs/research/chinese-incense-pillar-notes.md (R-003).
+
 ## Related Resources
 
 - [The Blending System (合香)](/hexiang-blending-system/)

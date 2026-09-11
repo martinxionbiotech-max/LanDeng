@@ -107,6 +107,12 @@ Makko (抹香) is the powdered bark of *Machilus thunbergii*, the traditional co
 ### Q: Are clove and cassia interchangeable in incense?
 They are both warm spices but distinct: clove is the dried flower bud (*Syzygium aromaticum*), cassia is bark (*Cinnamomum cassia*). Clove is sharper and more pungent; cassia is warmer and sweeter. They are used differently in blends.
 
+## Sources
+
+- 本草纲目 — historical materia-medica record for aromatic materials (traditional, not clinical).
+- Botanical references (Kew Plants of the World Online; Flora of China) for plant identity.
+- Research synthesis: docs/research/ (R-001 / R-002 / R-003).
+
 ## Related Resources
 
 - [Complete Scent Guide](/scent-guide/)

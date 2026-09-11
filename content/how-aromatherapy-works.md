@@ -95,6 +95,11 @@ Because the olfactory signal connects more directly to the limbic system (emotio
 ### Q: How do I use aromatherapy honestly?
 Use a consistent fragrance as a ritual cue for a specific activity — the same scent for the same moment each time. Choose scents you personally respond to, and treat fragrance as ambiance and ritual, not medicine.
 
+## Sources
+
+- Established olfactory-neuroscience literature — odor signals route to the limbic system (amygdala, hippocampus), the basis of scent-memory association.
+- "Association vs pharmacology" is an evidence-governed framing; research is described as preliminary where it exists.
+
 ## Related Resources
 
 - [Aroma Molecules and Mood](/aroma-molecules-and-mood/)

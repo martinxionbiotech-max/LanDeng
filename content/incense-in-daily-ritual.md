@@ -103,6 +103,11 @@ It can, but a single scent for multiple activities muddies the cue. Cleaner is o
 ### Q: Do I need a special incense for a ritual?
 No. Any scent you respond to consistently works. Sandalwood and agarwood are traditional for quiet sits; citrus and frankincense for focus. The consistency matters more than the specific material.
 
+## Sources
+
+- Editorial synthesis of established incense-ritual practice.
+- Historical references (四般闲事, 香道) drawn from docs/research/chinese-incense-pillar-notes.md (R-003).
+
 ## Related Resources
 
 - [Creating a Calming Evening Ritual](/calming-evening-ritual/)

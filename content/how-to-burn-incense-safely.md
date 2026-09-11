@@ -93,6 +93,11 @@ A: No — never leave burning incense unattended, including while sleeping. Exti
 
 ---
 
+## Sources
+
+- NFPA fire-safety guidance (heatproof surface, clearances, never leave burning unattended).
+- This page covers fire and usage safety only; no health or medical claims.
+
 ## Related Resources
 
 - [Incense Safety Guide](/incense-safety-guide/)

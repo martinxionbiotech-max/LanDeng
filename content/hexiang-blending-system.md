@@ -100,6 +100,11 @@ A: It shares the same 君臣佐使 compositional logic as Chinese herbal compoun
 
 ---
 
+## Sources
+
+- 香谱 manuals (陈氏香谱, 洪芻香谱, 香乘) — 合香 and the 君臣佐使 compounding principle.
+- Research synthesis: docs/research/chinese-incense-pillar-notes.md (R-003).
+
 ## Related Resources
 
 - [How Incense Is Made](/how-incense-is-made/)

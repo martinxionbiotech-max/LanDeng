@@ -94,6 +94,11 @@ A: The Chinese tradition of blended incense, composed on a formula principle (�
 
 ---
 
+## Sources
+
+- Editorial synthesis of established incense-making craft (base, binder, scent material, extrusion/rolling).
+- Traditional craft sources on 合香 and stick-making.
+
 ## Related Resources
 
 - [Makko & Natural Binders](/makko-natural-binders/)

@@ -96,6 +96,12 @@ A: Yes, if ventilated and never left burning while you sleep. See the [ventilati
 
 ---
 
+## Sources
+
+- NFPA fire-safety guidance.
+- EPA indoor air quality on combustion particulate matter (see the ventilation guide for detail).
+- No health or medical claims are made.
+
 ## Related Resources
 
 - [How to Burn Incense Safely](/how-to-burn-incense-safely/)

@@ -85,6 +85,11 @@ A: It describes the aroma's character — bright and zesty — by association, n
 
 ---
 
+## Sources
+
+- Editorial framework (scent wheel) synthesizing established aroma-categorization practice.
+- Descriptors are qualitative; no therapeutic claims.
+
 ## Related Resources
 
 - [Complete Scent Guide](/scent-guide/)

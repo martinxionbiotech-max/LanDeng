@@ -92,6 +92,12 @@ A: A hollow cone that channels smoke downward, creating a "waterfall" effect —
 ### Q: What is a coreless stick?
 A stick pressed from the fragrant material itself with no bamboo core — thinner, shorter-burning, and generally lower-smoke than a bamboo-core stick. Common in Japanese and Tibetan traditions. See [incense sticks](/incense-sticks/).
 
+## Sources
+
+- 吴自牧《梦粱录》 — "烧香点茶，挂画插花，四般闲事" (the 四般闲事 source).
+- 光明日报 (Guanming Daily) — Song incense-culture context.
+- Research synthesis: docs/research/chinese-incense-pillar-notes.md (R-003).
+
 ## Related Resources
 
 - [Which Incense Format Is Right for You?](/which-incense-format/)

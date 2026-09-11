@@ -109,6 +109,11 @@ For many people, yes — it is the lowest-smoke way to get a true material scent
 ### Q: Can I still use a thick masala stick in a small room?
 You can, but it will fill the space fast. If you do, burn it for a shorter time and ventilate. A thin coreless stick is usually the better default for a small room.
 
+## Sources
+
+- Editorial synthesis of established incense-usage practice for small spaces.
+- No therapeutic or physiological-effect claims.
+
 ## Related Resources
 
 - [Incense, Ventilation & Indoor Air](/incense-ventilation-indoor-air/)

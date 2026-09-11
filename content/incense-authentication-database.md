@@ -100,6 +100,12 @@ A: True *Santalum album* is scarce and expensive, so substitutes (other species 
 
 ---
 
+## Sources
+
+- 本草纲目 — historical materia-medica record (traditional, not clinical).
+- Chinese specialist/consumer sources on 沉香 authenticity checks (white smoke/oil seepage vs dyed fakes).
+- Research synthesis: docs/research/agarwood-chenxiang-notes.md (R-001).
+
 ## Related Resources
 
 - [Agarwood Grading Guide](/agarwood-grading-guide/)

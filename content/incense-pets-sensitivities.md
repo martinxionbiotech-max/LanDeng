@@ -92,6 +92,12 @@ A: Keep it out of reach to prevent this. If a pet ingests a meaningful amount of
 
 ---
 
+## Sources
+
+- ASPCA Animal Poison Control Center (APCC) — essential-oil and smoke toxicity guidance for pets.
+- Veterinary toxicology references on essential oils and airborne irritants.
+- Precautionary guidance only; no veterinary or medical claims.
+
 ## Related Resources
 
 - [Incense Safety Guide](/incense-safety-guide/)

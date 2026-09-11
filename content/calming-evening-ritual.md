@@ -97,6 +97,11 @@ You can, but a backflow cone produces more visible smoke and is chosen for its v
 ### Q: What if I find sandalwood or lavender too strong?
 Try a very light wood blend or a soft floral, or use an electric heater with a tiny amount of resin for a gentler, lower-smoke presence. The key is a scent you find quietly pleasant, whatever it is.
 
+## Sources
+
+- Editorial synthesis of established incense usage practice; scent descriptors are qualitative, not physiological-effect claims.
+- Historical/cultural references drawn from docs/research/chinese-incense-pillar-notes.md (R-003).
+
 ## Related Resources
 
 - [Incense in Daily Ritual](/incense-in-daily-ritual/)

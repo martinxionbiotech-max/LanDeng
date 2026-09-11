@@ -91,6 +91,11 @@ A: A reed diffuser runs continuously for weeks; wax melts and incense are per-se
 
 ---
 
+## Sources
+
+- EPA indoor air quality on combustion particulate matter (PM2.5) — basis of the smoke-comparison framing.
+- Editorial synthesis of usage differences; no therapeutic claims.
+
 ## Related Resources
 
 - [Incense Sticks vs Candles](/incense-sticks-vs-candles/)

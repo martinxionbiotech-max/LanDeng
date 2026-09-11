@@ -95,6 +95,11 @@ The simplest is to use the incense as a pace: inhale slowly while noticing the s
 ### Q: Can I use a cone for breathwork?
 A cone burns quickly (~10–15 min) and can be smokier than a thin stick, so a low-smoke stick or electric-heated resin is usually more comfortable for deliberate breathing. See [which incense format](/which-incense-format/).
 
+## Sources
+
+- Editorial synthesis of established breathwork and incense-usage practice.
+- No physiological or therapeutic-effect claims are made.
+
 ## Related Resources
 
 - [Incense for Meditation](/incense-for-meditation/)

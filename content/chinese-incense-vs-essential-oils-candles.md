@@ -95,6 +95,12 @@ A: Incense produces smoke (or minimal with 隔火焚香); a diffuser produces no
 
 ---
 
+## Sources
+
+- Research synthesis: docs/research/chinese-incense-pillar-notes.md (R-003) — historical and cultural framing.
+- Botanical references for incense materials vs essential-oil sources.
+- Editorial synthesis; no therapeutic claims.
+
 ## Related Resources
 
 - [What Is Chinese Incense?](/what-is-chinese-incense/)

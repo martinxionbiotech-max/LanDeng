@@ -129,6 +129,11 @@ Start with the atmosphere you want (bright/focusing vs warm/grounding), then con
 
 ---
 
+## Sources
+
+- Editorial synthesis of established incense scent-pairing practice; descriptors are qualitative, not physiological-effect claims.
+- Botanical references for the woods/resins/florals named in the guide.
+
 ## Related Resources
 
 - [What Is Chinese Incense?](/what-is-chinese-incense/)
