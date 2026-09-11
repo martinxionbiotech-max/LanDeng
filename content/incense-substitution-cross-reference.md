@@ -91,8 +91,13 @@ See [borneol](/ingredients/borneol/), [ambergris](/ingredients/ambergris/), and 
 
 ## The Author's Take
 
-In my view, the single most useful habit in incense buying is to translate every label into a question about *species and material*, not to trust the noun. My experience is that substitution is not always dishonest — an Australian sandalwood is a legitimate product — but the *ambiguity* is where buyers get misled. I would rather buy an honestly labeled substitute than a fake "prestige" material, and I would treat a very low price on a scarce material as the strongest signal there is.
+**Position:** Translate every label into a question about species and material — do not trust the noun.
 
+**Reasoning:**
+- Substitution is not always dishonest — Australian sandalwood is a legitimate product — but the ambiguity is where buyers get misled.
+- Buy an honestly labeled substitute over a fake “prestige” material; treat a very low price on a scarce material as the strongest signal.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ---
 
 ## Verification Notes

@@ -66,8 +66,13 @@ A common misunderstanding is that natural, plant-based incense is somehow safe f
 
 ## The Author's Take
 
-My strong view is that the bird rule is the one genuinely non-negotiable line in this topic: do not burn incense in a room with a caged bird, full stop. For cats and dogs, the honest advice is the same as for people — ventilate and let the animal leave the room. I find "natural = pet-safe" to be the most persistent myth here, and I repeat it because it is both wrong and consequential: smoke is smoke, whatever plant it came from.
+**Position:** The bird rule is the one genuinely non-negotiable line: do not burn incense in a room with a caged bird, full stop.
 
+**Reasoning:**
+- For cats and dogs, the honest advice is the same as for people — ventilate and let the animal leave the room.
+- “Natural = pet-safe” is the most persistent and most consequential myth — smoke is smoke, whatever plant it came from.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - The high sensitivity of birds to airborne smoke and particulates is well established in veterinary guidance.

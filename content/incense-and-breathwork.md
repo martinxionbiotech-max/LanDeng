@@ -59,8 +59,13 @@ No technique, no claim of benefit beyond the practice itself. See [incense for m
 
 ## The Author's Take
 
-My view is that breathwork is where incense earns its keep without any mysticism: the scent and the rising smoke are simply two steady things for a wandering mind to return to. In my experience, the mistake is adding too much — a heavy, smoky stick in a closed room fights the whole point. Keep it low-smoke, keep it ventilated, and treat the incense as an attention anchor, not an inhalant.
+**Position:** Breathwork is where incense earns its keep without any mysticism — the scent and rising smoke are two steady things for a wandering mind.
 
+**Reasoning:**
+- The mistake is adding too much — a heavy, smoky stick in a closed room fights the whole point.
+- Keep it low-smoke and ventilated, and treat the incense as an attention anchor, not an inhalant.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - "A focus object anchors attention during a breathing exercise" is a plain, non-controversial statement.

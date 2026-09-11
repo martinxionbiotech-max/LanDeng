@@ -68,8 +68,13 @@ author: "[AUTHOR]"
 
 ## The Author's Take
 
-My experience is that almost every incense accident is a fire incident, and almost every fire incident is the same two mistakes: the wrong holder, or leaving it unattended. I would rather people over-buy one good heatproof holder per format than buy incense they cannot burn safely. The "never sleep with it burning" rule is the one I repeat most, because it is the one most often ignored — and it is the cheapest piece of safety on this entire site.
+**Position:** Almost every incense accident is the same two mistakes: the wrong holder, or leaving it unattended.
 
+**Reasoning:**
+- Over-buy one good heatproof holder per format rather than incense you cannot burn safely.
+- “Never sleep with it burning” is the rule I repeat most — and it is the cheapest piece of safety on this site.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - The fire-safety guidance (heatproof surface, clear of flammables, no unattended burning) is standard and non-controversial.

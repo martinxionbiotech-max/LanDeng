@@ -73,8 +73,13 @@ Much "yoga incense" content promises chakra-balancing and energy work. This page
 
 ## The Author's Take
 
-In my view, yoga and breathwork are the scenarios where "grounding but not loud" is the whole brief, and where overclaiming does the most harm. My experience is that a steady, low-smoke sandalwood or cedar is ideal precisely because it stays in the background while you breathe. I would avoid anything sharp or smoky in a practice room, and never accept a "chakra" or "deepened breath" claim — the scent is an anchor, and that is enough.
+**Position:** Yoga and breathwork are where “grounding but not loud” is the whole brief — and where overclaiming does the most harm.
 
+**Reasoning:**
+- A steady, low-smoke sandalwood or cedar stays in the background while you breathe.
+- Avoid anything sharp or smoky in a practice room, and never accept a “chakra” or “deepened breath” claim — the scent is an anchor, and that is enough.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - "Grounding" and "steady" describe aroma character and ritual association, not physiological effects.

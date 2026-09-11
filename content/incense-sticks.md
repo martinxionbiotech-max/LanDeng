@@ -75,8 +75,13 @@ Most "incense stick" content is an affiliate roundup. This page explains the **f
 
 ## The Author's Take
 
-In my experience, the bamboo-core versus coreless distinction is the practical thing most people never learn, and it explains most of the confusion about burn time and smoke. A coreless Japanese-style stick is thinner, shorter, and cleaner; a bamboo-core stick is longer and a little smokier. I think the single most useful habit is to check which construction you are holding before you light it, so the burn time matches your session instead of surprising you.
+**Position:** The bamboo-core versus coreless distinction is the practical thing most people never learn — and it explains most burn-time and smoke confusion.
 
+**Reasoning:**
+- A coreless Japanese-style stick is thinner, shorter, and cleaner; a bamboo-core stick is longer and a little smokier.
+- Check which construction you are holding before you light it, so the burn time matches your session.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - Burn times are ranges (roughly 25–30 min coreless, 45–60 min bamboo-core); specific products vary.

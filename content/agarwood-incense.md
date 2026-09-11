@@ -102,8 +102,13 @@ Chinese sources (notably the 本草纲目) attribute to agarwood phrases like "�
 
 ## The Author's Take
 
-Agarwood is where the incense world's honesty problem is most concentrated, because the price gap between real and fake is enormous. My advice to a beginner is not to learn grading — it is to buy from someone who can name the species and origin without hesitating. Grading is for after you have found an honest seller; before that, you are grading the seller's confidence, not the wood.
+**Position:** My advice to a beginner is not to learn grading — it is to buy from someone who can name the species and origin without hesitating.
 
+**Reasoning:**
+- The price gap between real and fake agarwood is enormous, so honesty is where the risk concentrates.
+- Grading is for after you have found an honest seller; before that, you are grading the seller's confidence, not the wood.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ---
 
 ## Verification Notes

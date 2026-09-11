@@ -61,8 +61,13 @@ That single question resolves most of the choice. The rest is detail, covered in
 
 ## The Author's Take
 
-In my view, the one-question decision ("do I want smoke?") is the whole subject in a sentence, and it is why this hub works as an overview. My experience is that people usually already know the answer — they just want permission to pick the candle or the diffuser without being told incense is "better." The honest move is to admit they are three tools, not one winner, and let the smoke question do the sorting.
+**Position:** The one-question decision — “do I want smoke?” — is the whole subject in a sentence.
 
+**Reasoning:**
+- People usually already know the answer; they want permission to pick the candle or the diffuser without being told incense is “better.”
+- They are three tools, not one winner — let the smoke question do the sorting.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - Combustion (incense/candle) vs evaporation (diffuser) is a basic physical distinction.

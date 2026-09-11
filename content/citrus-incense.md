@@ -103,8 +103,13 @@ Search for "citrus incense" and you will quickly hit claims that it "boosts immu
 
 ## The Author's Take
 
-Citrus is the scent people underrate because it fades. In my view, that is not a bug — it is the nature of a top note. Use citrus for the opening lift and let a wood or resin carry the rest. A citrus incense that 'lasts' usually lasts because of synthetic fixatives, not because citrus suddenly became persistent.
+**Position:** Citrus is underrated because it fades — but that is not a bug, it is the nature of a top note.
 
+**Reasoning:**
+- Use citrus for the opening lift and let a wood or resin carry the rest.
+- A citrus that “lasts” usually lasts because of synthetic fixatives, not persistence.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ---
 
 ## Verification Notes

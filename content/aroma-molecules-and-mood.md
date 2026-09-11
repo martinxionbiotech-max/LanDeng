@@ -64,8 +64,14 @@ The honest statement: **a molecule gives a scent its character; the mood connect
 
 ## The Author's Take
 
-In my view, the molecule-versus-mood line is the most important honesty boundary in aromatherapy content: the chemistry of what a scent is is solid, the claim that a molecule reliably causes a mood is not. My experience is that this distinction actually empowers people — once you know the "focus" link is association, you can build your own cue deliberately instead of buying a promise. Buy the scent you like, then condition it with repetition.
+**Position:** The molecule-versus-mood line is the most important honesty boundary in aromatherapy content — the chemistry is solid, the “molecule causes a mood” claim is not.
 
+**Reasoning:**
+- The chemistry of what a scent is, is solid; the claim that a molecule reliably causes a mood is not.
+- Once you know the “focus” link is association, you can build your own cue deliberately instead of buying a promise.
+- Buy the scent you like, then condition it with repetition.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - Molecule-to-aroma mapping (linalool → floral, limonene → citrus) is well-established chemistry.

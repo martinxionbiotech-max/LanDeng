@@ -31,10 +31,13 @@ author: "[AUTHOR]"
 
 ## The Author's Take
 
-Here is my view, stated plainly: the incense world overcomplicates scent selection. You do not need a chakra chart or a mood matrix — you need one question: **bright or deep?** That single axis answers nine out of ten "which scent should I use" questions. Citrus and frankincense sit at the bright end, agarwood at the deep end, and everything else falls somewhere in between.
+**Position:** The incense world overcomplicates scent selection — you need one question: bright or deep?
 
-In my experience, the people who struggle to pick a scent are not missing information; they are missing a *frame*. Decide bright versus deep first, then narrow within the family. The rest of the wheel is refinement.
+**Reasoning:**
+- That single axis answers nine out of ten “which scent” questions — citrus and frankincense at the bright end, agarwood at the deep end.
+- People who struggle are not missing information; they are missing a frame. Decide bright versus deep first, then narrow within the family.
 
+*This is the author's editorial view and experience — not a verified fact.*
 ---
 
 ## How to Use the Wheel

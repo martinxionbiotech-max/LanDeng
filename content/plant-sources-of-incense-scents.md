@@ -71,8 +71,13 @@ Read the label with this map in mind, and a lot of the mystery in incense buying
 
 ## The Author's Take
 
-In my view, the plant source is the most reliable predictor of what you are buying, and this map is the mental shortcut I would teach first. My experience is that the wood/resin versus flower distinction explains most label confusion: a "sandalwood" points at a material tradition, while a "lotus" or "rose" usually points at a fragrance accord. Read every label with this map in mind, and the mystery mostly disappears.
+**Position:** The plant source is the most reliable predictor of what you are buying — this map is the mental shortcut I would teach first.
 
+**Reasoning:**
+- The wood/resin versus flower distinction explains most label confusion.
+- A “sandalwood” points at a material tradition, while “lotus” or “rose” usually points at a fragrance accord.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - Botanical names and plant parts are standard identifications.

@@ -34,10 +34,13 @@ author: "[AUTHOR]"
 
 ## The Author's Take
 
-My honest experience: most people agonize over the *scent* and completely ignore the *burn time*, then wonder why a 25-minute stick dies halfway through a 45-minute sit. In my view, the order should be reversed — **match the burn to the session first, then choose the scent.** The format is the plan; the scent is the flavor.
+**Position:** Match the burn to the session first, then choose the scent — the format is the plan, the scent is the flavor.
 
-I would go further: the "best" incense is the one whose burn ends when your session ends. A stick that outlives your meditation by twenty minutes is not a better stick — it is a mismatch.
+**Reasoning:**
+- People agonize over scent and ignore burn time, then wonder why a 25-minute stick dies halfway through a 45-minute sit.
+- The best incense is the one whose burn ends when your session ends — a stick that outlives your meditation by twenty minutes is a mismatch.
 
+*This is the author's editorial view and experience — not a verified fact.*
 ---
 
 ## How to Read the Matrix

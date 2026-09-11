@@ -69,8 +69,14 @@ They are not competitors in the strict sense — they solve different wants. A k
 
 ## The Author's Take
 
-My experience is that this comparison is usually framed as "which is better," and that is the wrong question. These three are different tools: I reach for a stick when I want a ritual with a beginning and end, a diffuser when I want a continuous clean scent in a room I cannot smoke, and a candle when I want light as much as smell. A brand that insists one is best is selling something. I would rather be told what each one actually releases, and choose on that basis.
+**Position:** “Which is better?” is the wrong question — these are three different tools for three different jobs.
 
+**Reasoning:**
+- A stick for a ritual with a beginning and an end; a diffuser for continuous clean scent; a candle for light as much as smell.
+- A brand that insists one is best is selling something.
+- I would rather be told what each one actually releases, and choose on that basis.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - The combustion vs vaporization distinction is a basic physical fact.

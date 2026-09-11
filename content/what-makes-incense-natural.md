@@ -102,8 +102,13 @@ So the honest guidance is: choose natural materials if you care about what you a
 
 ## The Author's Take
 
-In my view, the three-part breakdown — aromatic material, binder, and base — is the clearest mental model for the "natural" question, and it is the one I would teach anyone. My experience is that the binder and the base are where the truth hides: ask a seller what the aromatic is, what holds it together, and what carries the burn, and vague "natural fragrance" answers collapse fast. I also insist on the safety boundary — natural still smokes, so ventilate regardless.
+**Position:** The three-part breakdown — aromatic material, binder, and base — is the clearest mental model for the “natural” question.
 
+**Reasoning:**
+- The binder and the base are where the truth hides: ask what the aromatic is, what holds it together, and what carries the burn.
+- Natural still smokes, so ventilate regardless.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - Botanical identity of makko (*Machilus thunbergii*, Lauraceae) and its role as a binder/combustion agent are standard, well-documented facts across Japanese incense manufacturers and DIY incense suppliers.

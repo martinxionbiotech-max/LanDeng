@@ -67,8 +67,14 @@ The honest framing is **relative, not alarmist**: a single stick in a room with 
 
 ## The Author's Take
 
-I think the ventilation point is the most important correction on this entire site, because it runs against the grain of how incense is marketed. The honest fact is that burning anything — incense, a candle, your dinner — releases fine particles, and "natural" changes none of that. In my experience, a cracked window before and after a burn is worth more than any product claim. This is not alarmism; it is the difference between using incense well and using it carelessly.
+**Position:** Ventilation is the most important correction on this site, because it runs against the grain of how incense is marketed.
 
+**Reasoning:**
+- Burning anything — incense, a candle, your dinner — releases fine particles, and “natural” changes none of that.
+- A cracked window before and after a burn is worth more than any product claim.
+- This is not alarmism; it is the difference between using incense well and carelessly.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - The claim that incense combustion produces PM2.5 and VOCs is well established in air-quality literature. Specific concentration numbers vary by study, product, and room, so none are asserted here.

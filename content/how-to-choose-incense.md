@@ -103,8 +103,13 @@ Most "how to choose incense" content is an affiliate listicle ranking products. 
 
 ## The Author's Take
 
-In my view, the honest buying guide is the highest-leverage page a content-first brand can write — and the one that most earns trust. I would rather teach the four questions (intention → format → material → smoke) than publish a ranked list, because the framework outlives any product. My one conviction here is that material is the question that matters most: a name is cheap, but the actual wood or resin behind it is where value and honesty live.
+**Position:** The honest buying guide is the highest-leverage page a content-first brand can write.
 
+**Reasoning:**
+- Teach the four questions (intention → format → material → smoke) rather than publish a ranked list — the framework outlives any product.
+- Material is the question that matters most: a name is cheap, the wood or resin behind it is where value and honesty live.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - Burn times are ranges; check specific products.

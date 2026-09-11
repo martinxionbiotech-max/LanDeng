@@ -70,8 +70,13 @@ author: "[AUTHOR]"
 
 ## The Author's Take
 
-In my view, the family framework — woods, resins, flowers, spices, binders — is the fastest way to become literate about ingredients, because the family predicts the behavior. My experience is that the two distinctions worth memorizing are wood versus resin (slow-deep versus fresh-balsamic) and flower-as-material versus flower-as-accord. Once you have those, the rest of the glossary falls into place.
+**Position:** The family framework — woods, resins, flowers, spices, binders — is the fastest way to become literate about ingredients.
 
+**Reasoning:**
+- The family predicts the behavior.
+- Memorize two distinctions: wood versus resin (slow-deep vs fresh-balsamic) and flower-as-material versus flower-as-accord.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - Botanical sources and Chinese names are standard identifications.

@@ -72,8 +72,13 @@ In a small, sealed room, any combustion source — incense included — will bui
 
 ## The Author's Take
 
-My experience is that small rooms are where most people get incense wrong, because they use the same thick stick they would in a living room and then wonder why it is overwhelming. In my view, the fix is simple and underappreciated: a small room is a smaller volume of air, so use less, burn shorter, and ventilate more. An electric heater with a little resin is the quiet winner in a small space.
+**Position:** In a small room, the fix is simple and underappreciated: use less, burn shorter, and ventilate more.
 
+**Reasoning:**
+- A small room is a smaller volume of air, so a living-room stick overwhelms it.
+- An electric heater with a little resin is the quiet winner in a small space.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - "Small room concentrates smoke and scent" is a basic volume/air-exchange fact.

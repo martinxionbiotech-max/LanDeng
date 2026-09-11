@@ -60,8 +60,13 @@ The magic is the **repetition**, not the smoke.
 
 ## The Author's Take
 
-In my experience, the thing that actually makes an evening ritual work is boredom-proof consistency: the same scent, the same hour, the same small sequence, night after night. My view is that the scent is a cue, not a sedative, and that is precisely why the honest framing is stronger than the "sleep incense" claims it corrects. Pick one soft scent and keep it — the repetition is the whole trick.
+**Position:** What makes an evening ritual work is boredom-proof consistency — the same scent, the same hour, the same small sequence, night after night.
 
+**Reasoning:**
+- The scent is a cue, not a sedative — which is why the honest framing is stronger than the “sleep incense” claims it corrects.
+- Pick one soft scent and keep it; the repetition is the whole trick.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - "Routine helps signal rest" is consistent with general sleep-hygiene understanding, stated without medical claims.

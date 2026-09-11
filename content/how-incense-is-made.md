@@ -68,8 +68,14 @@ Chinese incense is traditionally **not** a single material but a **blend** — �
 
 ## The Author's Take
 
-In my view, "how incense is made" is really two questions: the mechanics (grind, blend, bind, shape, dry) and the philosophy (合香, composing a blend like a formula). Most content stops at the mechanics. I think the 合香 side is the one worth knowing, because it explains why a Chinese incense is rarely a single note — and why "what is in it" matters more than "how it was rolled." The binder question is my favorite litmus test: ask whether it is makko or a chemical adhesive, and you learn a lot about the product.
+**Position:** “How incense is made” is really two questions — the mechanics and the philosophy (合香) — and the philosophy is the one worth knowing.
 
+**Reasoning:**
+- Most content stops at the mechanics.
+- 合香 explains why a Chinese incense is rarely a single note — and why “what is in it” matters more than “how it was rolled.”
+- The binder question is my favorite litmus test: makko or a chemical adhesive?
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - The grind → blend → bind → shape → dry process is standard incense-making description.

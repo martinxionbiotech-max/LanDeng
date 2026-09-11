@@ -72,8 +72,13 @@ There is no fixed "expiry date" for incense — degradation is gradual and depen
 
 ## The Author's Take
 
-My view is that incense "expiry" is mostly a storage problem in disguise: people ask when it goes bad, when they should be asking where it has been sitting. In my experience, the bathroom cabinet is the fastest way to ruin a good stick, and a sealed jar in a cool drawer keeps it good for years. I also think the safety angle is underrated — a sealed container is as much about keeping it from pets and children as from moisture.
+**Position:** Incense “expiry” is mostly a storage problem in disguise — people ask when it goes bad when they should ask where it has been sitting.
 
+**Reasoning:**
+- The bathroom cabinet is the fastest way to ruin a good stick; a sealed jar in a cool drawer keeps it good for years.
+- A sealed container is as much about keeping it from pets and children as from moisture.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - "Cool, dry, dark, sealed" is standard storage guidance for fragrance products and is non-controversial.

@@ -88,8 +88,13 @@ The consequence for buyers: **most "lotus" sticks, cones, and blends use a synth
 
 ## The Author's Take
 
-'Lotus' in incense is almost always a story, not a material. The real flower barely survives burning and true lotus absolute is rare, so what you are buying is usually a well-meaning floral accord wrapped in symbolism. There is nothing wrong with that — but I think buyers deserve to know it. The symbol is real; the 'lotus' in the stick usually is not.
+**Position:** “Lotus” in incense is almost always a story, not a material.
 
+**Reasoning:**
+- The real flower barely survives burning and true lotus absolute is rare, so you are usually buying a floral accord wrapped in symbolism.
+- The symbol is real; the “lotus” in the stick usually is not — buyers deserve to know it.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ---
 
 ## Verification Notes

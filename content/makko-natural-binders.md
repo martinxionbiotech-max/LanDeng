@@ -69,8 +69,13 @@ The presence of makko (or a named wood-powder binder) is often a **signal of a m
 
 ## The Author's Take
 
-I think makko is the unsung hero of the whole natural-incense question, and the fact that it is a combustible wood powder rather than a glue is the insight most buyers are missing. In my experience, the moment you learn that the binder should burn cleanly and quietly, you stop seeing "contains a binder" as a red flag and start seeing it as the normal, necessary ingredient it is. Ask what the binder is, and you will learn more about a stick than from any other single question.
+**Position:** Makko is the unsung hero of natural incense — the insight that it is a combustible wood powder, not glue, is what most buyers are missing.
 
+**Reasoning:**
+- Once you learn the binder should burn cleanly and quietly, “contains a binder” stops being a red flag and becomes the normal, necessary ingredient it is.
+- Ask what the binder is — you will learn more from that than from any other single question.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - Makko as *Machilus thunbergii* bark powder is a standard, well-documented identification.

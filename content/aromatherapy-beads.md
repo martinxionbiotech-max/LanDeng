@@ -73,8 +73,14 @@ Much "aromatherapy bead" content sells healing. This page describes the **carrie
 
 ## The Author's Take
 
-In my view, beads solve a real problem — wanting a scent in a space where smoke is unwelcome — but they are also the format most prone to being oversold. A "sandalwood" bead bracelet is usually a sandalwood-scented carrier, not the heartwood, and the scent will fade in days. I would rather someone buy a plain, honest bead and a small bottle of good essential oil than a "healing" bracelet at a markup. The value is the mechanism, not the mystique.
+**Position:** Beads solve a real problem — scent where smoke is unwelcome — but they are the format most prone to being oversold.
 
+**Reasoning:**
+- A “sandalwood” bead bracelet is usually a scented carrier, not heartwood — and the scent fades in days.
+- I would rather you buy a plain, honest bead and a good essential oil than a “healing” bracelet at a markup.
+- The value is the mechanism, not the mystique.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - The "carrier + essential oil, fades and is refreshed" mechanic is a standard description.

@@ -75,8 +75,14 @@ Most "sleep incense" content promises an effect it cannot deliver. This page pro
 
 ## The Author's Take
 
-I think the honest framing here — a routine cue, not a sleep aid — is exactly why a wind-down incense can actually work. In my experience, what settles me is not the smoke but the repetition: the same scent at the same hour tells my brain the day is over. That is conditioning, not pharmacology, and it is why I would never buy an "incense for sleep" that promises an effect it cannot deliver. Build the routine; let the scent be its marker.
+**Position:** A wind-down incense works because it is a routine cue, not a sleep aid.
 
+**Reasoning:**
+- What settles me is the repetition — the same scent at the same hour tells my brain the day is over.
+- That is conditioning, not pharmacology; never buy “incense for sleep” that promises an effect it cannot deliver.
+- Build the routine; let the scent be its marker.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - Burn times are ranges (roughly 20–60 min for sticks); specific products vary.

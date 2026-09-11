@@ -106,8 +106,14 @@ So the honest answer is: **"natural" depends on the specific product, not the ca
 
 ## The Author's Take
 
-My experience is that the "incense vs diffuser" question usually collapses into one thing: how you feel about smoke. That single variable — combustion particulate versus clean mist — is the real difference, and it is a factual one, not a wellness claim. I think the cooking-versus-spritzing metaphor is the most honest way to explain why they do not smell the same even at equal intensity. Neither is better; they are for different rooms and different moods.
+**Position:** “Incense vs diffuser” collapses into one thing: how you feel about smoke.
 
+**Reasoning:**
+- Combustion particulate versus clean mist is the real difference — a factual one, not a wellness claim.
+- The cooking-versus-spritzing metaphor is the most honest way to explain why they do not smell the same at equal intensity.
+- Neither is better; they are for different rooms and moods.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - The mechanism descriptions (combustion vs ultrasonic/heat diffusion) are standard, uncontroversial technical facts.

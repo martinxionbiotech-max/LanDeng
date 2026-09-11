@@ -98,8 +98,13 @@ Indian incense is a favorite of affiliate "best incense" roundups, which rank st
 
 ## The Author's Take
 
-My strong view is that the masala-versus-dipped distinction is the key to understanding Indian incense, and it is exactly what affiliate roundups never tell you. In my experience, a very cheap, uniformly strong stick is almost always dipped, and that is not a defect — it is a different product. I would rather someone buy an honest dipped stick knowing what it is, than an overpriced "masala" that is not. Read the label, or ask, and let the price tell you the rest.
+**Position:** The masala-versus-dipped distinction is the key to understanding Indian incense — and exactly what affiliate roundups never tell you.
 
+**Reasoning:**
+- A very cheap, uniformly strong stick is almost always dipped — not a defect, a different product.
+- Buy an honest dipped stick knowing what it is, rather than an overpriced “masala” that is not.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - The *agarvarti* etymology and the masala-vs-dipped distinction are standard industry facts.

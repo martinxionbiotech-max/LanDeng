@@ -67,8 +67,13 @@ Smell is the sense most directly tied to memory and emotion (see [how aromathera
 
 ## The Author's Take
 
-I think the daily-ritual framing is the most defensible value incense has: a repeated scent at a repeated moment becomes a learned signal, and that is honest, non-mystical, and genuinely useful. My experience is that the failure mode is novelty — people change scents every time and wonder why the ritual never "sticks." Pick one scent per activity and keep it; the consistency is doing the work, not the smoke.
+**Position:** The daily-ritual framing is incense's most defensible value: a repeated scent at a repeated moment becomes a learned signal.
 
+**Reasoning:**
+- The failure mode is novelty — changing scents every time and wondering why the ritual never “sticks.”
+- Pick one scent per activity and keep it; consistency is doing the work, not the smoke.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - The "scent as learned cue via repetition" framing is consistent with the established olfactory-memory wiring.

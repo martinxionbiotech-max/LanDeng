@@ -74,8 +74,13 @@ Much "focus incense" content sells a productivity shortcut. This page sells only
 
 ## The Author's Take
 
-I think the "incense as timer" idea is the genuinely useful part of focus incense, and it is what makes a bright citrus stick worth lighting at a desk. In my experience, the cue is the mechanism: light at the start of a block, stop when it goes out, and the scent becomes a structure, not a stimulant. The moment someone promises "boosts concentration," I would walk away — the honest version, a clean scent and a timed ritual, is all you need.
+**Position:** The “incense as timer” idea is the genuinely useful part of focus incense.
 
+**Reasoning:**
+- The cue is the mechanism: light at the start of a block, stop when it goes out — the scent becomes a structure, not a stimulant.
+- The moment someone promises “boosts concentration,” I would walk away.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - Burn times are ranges; specific products vary.

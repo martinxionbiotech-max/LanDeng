@@ -75,8 +75,14 @@ Search "incense gift set" and you will find affiliate listicles ranking gift box
 
 ## The Author's Take
 
-In my experience, the single most common gift mistake is forgetting the holder — a stick without one is an incomplete present, and the recipient ends up with a fire hazard on a saucer. My rule of thumb is to always pair the gift with whatever it needs to be used safely, and to default to real material over fragrance oil. A modest sandalwood starter with a proper holder reads as more thoughtful than a flashy synthetic "gift set."
+**Position:** The single most common gift mistake is forgetting the holder — a stick without one is an incomplete present and a fire hazard.
 
+**Reasoning:**
+- Always pair the gift with whatever it needs to be used safely.
+- Default to real material over fragrance oil.
+- A modest sandalwood starter with a proper holder reads more thoughtful than a flashy synthetic gift set.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - The guidance (match to recipient, include the holder, check material) is standard gift-selection advice.

@@ -67,8 +67,13 @@ They are different products for different moments, not two ways of doing the sam
 
 ## The Author's Take
 
-In my view, the candle-versus-stick question is really a flame-versus-ember question dressed up as a scent question. My experience is that the honest difference is fire risk and byproduct — an open flame versus an ember, soot versus smoke — and neither is "safer" in a simple sense. I would rather someone pick on the experience they want (light plus scent, or material ritual) and then apply the same two rules to either: a heatproof surface, and never leave it unattended.
+**Position:** Candle-versus-stick is really a flame-versus-ember question dressed up as a scent question.
 
+**Reasoning:**
+- The honest difference is fire risk and byproduct — an open flame versus an ember, soot versus smoke.
+- Pick on the experience you want, then apply the same two rules to either: a heatproof surface, and never leave it unattended.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - Incense = plant material, candle = wax fuel, is a basic material distinction.

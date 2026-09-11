@@ -82,8 +82,14 @@ Much "natural vs synthetic" content leans on scare language — "toxic chemicals
 
 ## The Author's Take
 
-In my view, the single most honest sentence in this topic is that "natural" is an unregulated word — and that the real question is "what is it actually made of?" My experience is that the three signals (ingredients, burn behavior, price) are more reliable than any certification, and that a suspiciously cheap "sandalwood" is almost always fragrance. I would rather teach someone to read a label than to trust a buzzword, because the buzzword is exactly what the overclaimers rely on.
+**Position:** The most honest sentence in this topic: “natural” is an unregulated word — the real question is “what is it actually made of?”
 
+**Reasoning:**
+- Three signals (ingredients, burn behavior, price) are more reliable than any certification.
+- A suspiciously cheap “sandalwood” is almost always fragrance.
+- Teach reading a label over trusting a buzzword — the buzzword is what the overclaimers rely on.
+
+*This is the author's editorial view and experience — not a verified fact.*
 ## Verification Notes
 
 - The "natural is unregulated" point reflects the general absence of a binding legal definition in most incense-labeling markets.
