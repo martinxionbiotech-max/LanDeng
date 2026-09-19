@@ -61,6 +61,11 @@
      "name": "Category",
      "value": "Woods"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506",
+    "https://www.gbif.org/species/5524063",
+    "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Aquilaria%20malaccensis"
    ]
   },
   {
@@ -104,6 +109,10 @@
      "name": "Category",
      "value": "Resins"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017762",
+    "https://www.gbif.org/species/5371676"
    ]
   },
   {
@@ -147,6 +156,10 @@
      "name": "Category",
      "value": "Woods"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005268",
+    "https://www.gbif.org/species/5284698"
    ]
   },
   {
@@ -190,6 +203,10 @@
      "name": "Category",
      "value": "Flowers"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=220002857",
+    "https://www.gbif.org/species/3150767"
    ]
   },
   {
@@ -233,6 +250,10 @@
      "name": "Category",
      "value": "Spices"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008698",
+    "https://www.gbif.org/species/3033982"
    ]
   },
   {
@@ -276,6 +297,10 @@
      "name": "Category",
      "value": "Spices"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=132166",
+    "https://www.gbif.org/species/3183002"
    ]
   },
   {
@@ -319,6 +344,10 @@
      "name": "Category",
      "value": "Resins"
     }
+   ],
+   "sameAs": [
+    "https://www.gbif.org/species/8330171",
+    "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Boswellia%20sacra"
    ]
   },
   {
@@ -362,6 +391,10 @@
      "name": "Category",
      "value": "Flowers"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017788",
+    "https://www.gbif.org/species/7587215"
    ]
   },
   {
@@ -405,6 +438,10 @@
      "name": "Category",
      "value": "Herbs"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023167",
+    "https://www.gbif.org/species/3120648"
    ]
   },
   {
@@ -448,6 +485,9 @@
      "name": "Category",
      "value": "Resins"
     }
+   ],
+   "sameAs": [
+    "https://www.gbif.org/species/3994082"
    ]
   },
   {
@@ -491,6 +531,10 @@
      "name": "Category",
      "value": "Peels"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012434",
+    "https://www.gbif.org/species/3190172"
    ]
   },
   {
@@ -534,6 +578,10 @@
      "name": "Category",
      "value": "Flowers"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001392",
+    "https://www.gbif.org/species/3172278"
    ]
   },
   {
@@ -577,6 +625,10 @@
      "name": "Category",
      "value": "Herbs"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200020033",
+    "https://www.gbif.org/species/2926672"
    ]
   },
   {
@@ -620,6 +672,10 @@
      "name": "Category",
      "value": "Flowers"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011310",
+    "https://www.gbif.org/species/3003979"
    ]
   },
   {
@@ -663,6 +719,10 @@
      "name": "Category",
      "value": "Woods"
     }
+   ],
+   "sameAs": [
+    "https://www.gbif.org/species/2889785",
+    "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Santalum%20album"
    ]
   },
   {
@@ -706,6 +766,10 @@
      "name": "Category",
      "value": "Roots"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242312768",
+    "https://www.gbif.org/species/5677150"
    ]
   },
   {
@@ -749,6 +813,10 @@
      "name": "Category",
      "value": "Resins"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023545",
+    "https://www.gbif.org/species/3189690"
    ]
   },
   {
@@ -792,6 +860,10 @@
      "name": "Category",
      "value": "Resins"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005343",
+    "https://www.gbif.org/species/5285215"
    ]
   },
   {
@@ -835,6 +907,10 @@
      "name": "Category",
      "value": "Roots"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015358",
+    "https://www.gbif.org/species/5537813"
    ]
   },
   {
@@ -878,6 +954,10 @@
      "name": "Category",
      "value": "Herbs"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200027130",
+    "https://www.gbif.org/species/2873769"
    ]
   },
   {
@@ -921,6 +1001,10 @@
      "name": "Category",
      "value": "Resins"
     }
+   ],
+   "sameAs": [
+    "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010557",
+    "https://www.gbif.org/species/3702542"
    ]
   },
   {
@@ -964,6 +1048,10 @@
      "name": "Category",
      "value": "Animal-derived"
     }
+   ],
+   "sameAs": [
+    "https://www.gbif.org/species/8123917",
+    "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Physeter%20macrocephalus"
    ]
   }
  ]
