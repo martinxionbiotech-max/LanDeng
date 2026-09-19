@@ -12,6 +12,8 @@ status: draft
 related: ["borneol", "pine-resin"]
 ---
 
+<img src="/images/borneol-oil-raw-material-800x533.webp" alt="Raw Borneol Oil (Dryobalanops aromatica (Borneo camphor tree); also Cinnamomum camphora) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Borneol oil — *lóngnǎo yóu* (龙脑油, "dragon-brain oil") in Chinese, classically 婆律膏 (*pólǜ gāo*) — is the liquid aromatic extract of the borneol camphor tree, *Dryobalanops aromatica*. It is the *oil* companion to crystalline borneol (龙脑 / 冰片): the same tree yields both, but the crystal and the oil are distinct materials with distinct histories.
 
 ## Key facts

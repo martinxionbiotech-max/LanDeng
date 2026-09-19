@@ -12,6 +12,8 @@ status: draft
 related: ["clove", "cinnamon"]
 ---
 
+<img src="/images/cardamom-raw-material-800x533.webp" alt="Raw Cardamom (Amomum kravanh (white/round cardamom)) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** White cardamom — *báidòukòu* (白豆蔻) in Chinese — is the dried fruit of *Amomum kravanh*, a ginger-family (Zingiberaceae) plant of Southeast Asia. It is a warm, camphoraceous spice used in Chinese cooking, traditional medicine, and — as the classical texts specify — as a *blending* ingredient in incense (和香), not a burning material in its own right.
 
 ## Key facts

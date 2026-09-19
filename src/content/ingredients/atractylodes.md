@@ -12,6 +12,8 @@ status: draft
 related: ["mugwort", "angelica"]
 ---
 
+<img src="/images/atractylodes-raw-material-800x533.webp" alt="Raw Atractylodes (Atractylodes lancea) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Atractylodes — *cāngzhú* (苍术) in Chinese — is the dried rhizome of *Atractylodes lancea*, an aromatic herb in the daisy family (Asteraceae). It is a major herb of Chinese materia medica and a traditional *fumigation* material — burned with mugwort to "clear" a space — but it is **not** one of the classical fragrance ingredients of *huxiang* (合香). This page records that distinction precisely.
 
 ## Key facts

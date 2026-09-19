@@ -12,6 +12,8 @@ status: draft
 related: ["vetiver", "sandalwood"]
 ---
 
+<img src="/images/orris-root-raw-material-800x533.webp" alt="Raw Orris Root (Iris germanica / I. pallida (orris); cf. Iris tectorum (Chinese iris)) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Orris root — *yuānwěi gēn* (鸢尾根) in Chinese — is the dried, aged rhizome of certain European irises, chiefly *Iris germanica* and *Iris pallida*. It is a foundational *fixative* in Western perfumery, valued for a soft, powdery, violet-like scent that emerges only after years of drying. It is **not** a classical Chinese *huxiang* (合香) material; its presence in Chinese incense is a modern crossover from Western perfumery. This page records that distinction.
 
 ## Key facts

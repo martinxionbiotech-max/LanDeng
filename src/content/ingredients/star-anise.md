@@ -12,6 +12,8 @@ status: draft
 related: ["cinnamon", "clove"]
 ---
 
+<img src="/images/star-anise-raw-material-800x533.webp" alt="Raw Star Anise (Illicium verum) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Star anise — *bājiǎo* (八角) in Chinese — is the star-shaped fruit of *Illicium verum*, an evergreen tree of southern China and Vietnam. It is one of the defining sweet-spice aromas of Chinese cooking, and a traditional-medicine item, but it is **not** a classical Chinese incense material: it does not appear in the Song- and Ming-dynasty fragrance manuals. Its presence in incense is a modern culinary crossover.
 
 ## Key facts

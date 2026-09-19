@@ -12,6 +12,8 @@ status: draft
 related: ["osmanthus", "chrysanthemum"]
 ---
 
+<img src="/images/plum-blossom-raw-material-800x533.webp" alt="Raw Plum Blossom (Prunus mume (syn. Armeniaca mume)) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Plum blossom — *méihuā* (梅花) in Chinese — is the flower of *Prunus mume*, the East Asian "plum" (actually a close relative of the apricot) that blooms in late winter. It is one of the great floral motifs of Chinese incense and poetry, and the flower is used dried in floral incense blends and in the classical "plum incense" (梅花香) recipes.
 
 ## Key facts

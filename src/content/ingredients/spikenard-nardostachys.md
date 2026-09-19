@@ -12,6 +12,8 @@ status: draft
 related: ["sandalwood", "vetiver"]
 ---
 
+<img src="/images/spikenard-nardostachys-raw-material-800x533.webp" alt="Raw Spikenard (Nardostachys jatamansi) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Spikenard — *gānsōng* (甘松) in Chinese — is the dried, fragrant root of *Nardostachys jatamansi*, a small perennial herb of the Himalayas and the mountains of western China. In Chinese incense it is a classical *huxiang* (合香) blending material, valued for a deep, earthy-sweet, slightly musky root note rather than for burning alone. It shares the same aromatic family as the "spikenard" (nard) of the ancient Mediterranean and Indian perfume traditions.
 
 ## Key facts
