@@ -1,6 +1,6 @@
 ---
 slug: "frankincense-incense"
-title: "Frankincense Incense (乳香): The Resin of Bright, Focusing Rituals"
+title: "Frankincense Incense (乳香): A Focusing Resin"
 primary_keyword: "frankincense incense"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

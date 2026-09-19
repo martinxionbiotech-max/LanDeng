@@ -159,3 +159,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Factory Vetting Guide: How to Audit an Incense Manufacturer` (59 chars) → rendered 69
   - after:  `Factory Vetting Guide: Auditing a Manufacturer` (46 chars) → rendered 56
 
+- `src/content/blog/four-leisure-arts.md`
+  - before: `四般闲事 (Four Leisure Arts): Incense, Tea, Painting, and Flowers` (61 chars) → rendered 71
+  - after:  `四般闲事 (The Four Leisure Arts)` (28 chars) → rendered 38
+
+- `src/content/blog/frankincense-incense.md`
+  - before: `Frankincense Incense (乳香): The Resin of Bright, Focusing Rituals` (64 chars) → rendered 74
+  - after:  `Frankincense Incense (乳香): A Focusing Resin` (43 chars) → rendered 53
+
+- `src/content/blog/gehuo-fenxiang-setup.md`
+  - before: `隔火焚香 (Indirect-Fire Incense): How to Scent a Room Without Smoke` (63 chars) → rendered 73
+  - after:  `隔火焚香 (Indirect-Fire Incense): Scent, No Smoke` (45 chars) → rendered 55
+
