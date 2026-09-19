@@ -31,10 +31,10 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | P10 — Incense Craft & Materials | 8 | how-incense-is-made | 11989 |
 | P11 — Aromatherapy & Botany | 4 | how-aromatherapy-works | 5569 |
 | P12 — Culture & Mindfulness | 5 | incense-in-daily-ritual | 6894 |
-| Ingredient Encyclopedia | 82 | — | 89199 |
+| Ingredient Encyclopedia | 94 | — | 101968 |
 | Chinese Incense (concept) | 1 | — | 1389 |
 
-**Totals:** 171 pages · 216,309 words.
+**Totals:** 183 pages · 229,078 words.
 
 ## Full ledger
 
@@ -129,10 +129,12 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `incense-for-meditation` | P12 — Culture & Mindfulness | `article` | live | 1826 |
 | `incense-in-daily-ritual` | P12 — Culture & Mindfulness | `hub` | live | 1391 |
 | `agarwood` | Ingredient Encyclopedia | `entity` | live | 1517 |
+| `amber` | Ingredient Encyclopedia | `entity` | live | 1084 |
 | `agastache-rugosa` | Ingredient Encyclopedia | `entity` | live | 1018 |
 | `ambergris` | Ingredient Encyclopedia | `entity` | live | 1052 |
 | `amomum-villosum` | Ingredient Encyclopedia | `entity` | live | 976 |
 | `angelica` | Ingredient Encyclopedia | `entity` | live | 877 |
+| `aromatic-turmeric` | Ingredient Encyclopedia | `entity` | live | 1144 |
 | `asafoetida` | Ingredient Encyclopedia | `entity` | live | 1076 |
 | `atractylodes` | Ingredient Encyclopedia | `entity` | live | 1070 |
 | `banksia-rose` | Ingredient Encyclopedia | `entity` | live | 1053 |
@@ -157,6 +159,7 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `cubeb` | Ingredient Encyclopedia | `entity` | live | 1035 |
 | `cyperus` | Ingredient Encyclopedia | `entity` | live | 1008 |
 | `cypress-seed` | Ingredient Encyclopedia | `entity` | live | 1067 |
+| `daphne` | Ingredient Encyclopedia | `entity` | live | 1007 |
 | `dragons-blood` | Ingredient Encyclopedia | `entity` | live | 1060 |
 | `eupatorium` | Ingredient Encyclopedia | `entity` | live | 1052 |
 | `fennel` | Ingredient Encyclopedia | `entity` | live | 1049 |
@@ -166,18 +169,23 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `galbanum` | Ingredient Encyclopedia | `entity` | live | 1053 |
 | `gardenia` | Ingredient Encyclopedia | `entity` | live | 1026 |
 | `ginger` | Ingredient Encyclopedia | `entity` | live | 1056 |
+| `honey` | Ingredient Encyclopedia | `entity` | live | 1083 |
 | `honeysuckle` | Ingredient Encyclopedia | `entity` | live | 1008 |
 | `jasmine` | Ingredient Encyclopedia | `entity` | live | 1242 |
 | `jasmine-grandiflorum` | Ingredient Encyclopedia | `entity` | live | 1022 |
 | `jiangzhenxiang` | Ingredient Encyclopedia | `entity` | live | 1141 |
+| `katsumadai` | Ingredient Encyclopedia | `entity` | live | 1061 |
 | `labdanum` | Ingredient Encyclopedia | `entity` | live | 1090 |
+| `licorice` | Ingredient Encyclopedia | `entity` | live | 1107 |
 | `ligusticum` | Ingredient Encyclopedia | `entity` | live | 988 |
 | `linglingxiang` | Ingredient Encyclopedia | `entity` | live | 1151 |
 | `litchi-husk` | Ingredient Encyclopedia | `entity` | live | 1058 |
+| `litsea-cubeba` | Ingredient Encyclopedia | `entity` | live | 1059 |
 | `long-pepper` | Ingredient Encyclopedia | `entity` | live | 1010 |
 | `lotus-flower` | Ingredient Encyclopedia | `entity` | live | 1146 |
 | `magnolia-flower` | Ingredient Encyclopedia | `entity` | live | 1126 |
 | `mastic` | Ingredient Encyclopedia | `entity` | live | 1107 |
+| `michelia-figo` | Ingredient Encyclopedia | `entity` | live | 1062 |
 | `mint` | Ingredient Encyclopedia | `entity` | live | 1080 |
 | `mugwort` | Ingredient Encyclopedia | `entity` | live | 1116 |
 | `musk` | Ingredient Encyclopedia | `entity` | live | 1242 |
@@ -185,8 +193,10 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `nutmeg` | Ingredient Encyclopedia | `entity` | live | 956 |
 | `onycha` | Ingredient Encyclopedia | `entity` | live | 1092 |
 | `orange-peel` | Ingredient Encyclopedia | `entity` | live | 1240 |
+| `orchid` | Ingredient Encyclopedia | `entity` | live | 1044 |
 | `orris-root` | Ingredient Encyclopedia | `entity` | live | 1272 |
 | `osmanthus` | Ingredient Encyclopedia | `entity` | live | 1032 |
+| `oxyphylla` | Ingredient Encyclopedia | `entity` | live | 973 |
 | `paicao` | Ingredient Encyclopedia | `entity` | live | 982 |
 | `patchouli` | Ingredient Encyclopedia | `entity` | live | 1097 |
 | `pepper` | Ingredient Encyclopedia | `entity` | live | 1146 |
@@ -194,6 +204,7 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `pine-resin` | Ingredient Encyclopedia | `entity` | live | 921 |
 | `plum-blossom` | Ingredient Encyclopedia | `entity` | live | 1132 |
 | `pomelo-peel` | Ingredient Encyclopedia | `entity` | live | 1057 |
+| `prickly-ash` | Ingredient Encyclopedia | `entity` | live | 1027 |
 | `red-sandalwood` | Ingredient Encyclopedia | `entity` | live | 1150 |
 | `rose` | Ingredient Encyclopedia | `entity` | live | 1085 |
 | `rosemary` | Ingredient Encyclopedia | `entity` | live | 1068 |
@@ -210,12 +221,13 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `vetiver` | Ingredient Encyclopedia | `entity` | live | 1098 |
 | `wintersweet` | Ingredient Encyclopedia | `entity` | live | 1028 |
 | `yulan-magnolia` | Ingredient Encyclopedia | `entity` | live | 1070 |
+| `zedoary` | Ingredient Encyclopedia | `entity` | live | 1118 |
 | `chinese-incense` | Chinese Incense (concept) | `pillar` | live | 1389 |
 
 ## Notes
 
 - **12 canonical clusters** = P1–P11 + Commercial (B2B Buying & Supply). Exactly one `hub` per cluster.
-- **Ingredient entity pages** (82) and the **Chinese-incense concept page** (1) live in separate
+- **Ingredient entity pages** (94) and the **Chinese-incense concept page** (1) live in separate
   collections and are not part of the P1–P11 blog taxonomy; they carry `entity` / `pillar` roles.
 - Ingredient/concept frontmatter still uses `status: draft`; they are nonetheless built and served
   (no draft filter in the collection routes), so this ledger records them as `live`.

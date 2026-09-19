@@ -53,10 +53,22 @@
 - [Rosemary (迷迭香 / Mi Die Xiang)](/ingredients/rosemary/)
 - [Finger Citron (佛手 / Fo Shou)](/ingredients/finger-citron/)
 - [Citron (香橼 / Xiang Yuan)](/ingredients/citron/)
+- [Licorice (甘草 / Gan Cao)](/ingredients/licorice/)
+- [Honey (蜂蜜 / Feng Mi)](/ingredients/honey/)
+- [Aromatic Turmeric (郁金 / Yu Jin)](/ingredients/aromatic-turmeric/)
+- [Zedoary (莪术 / E Zhu)](/ingredients/zedoary/)
+- [Orchid (兰花 / Lan Hua)](/ingredients/orchid/)
+- [Daphne (瑞香 / Rui Xiang)](/ingredients/daphne/)
+- [Banana Shrub (含笑花 / Han Xiao Hua)](/ingredients/michelia-figo/)
+- [Katsumadai (草豆蔻 / Cao Dou Kou)](/ingredients/katsumadai/)
+- [Sharp-Leaf Galangal (益智仁 / Yi Zhi Ren)](/ingredients/oxyphylla/)
+- [Sichuan Pepper (蜀椒 / Shu Jiao)](/ingredients/prickly-ash/)
+- [Mountain Pepper (山鸡椒 / Shan Ji Jiao)](/ingredients/litsea-cubeba/)
+- [Amber (琥珀 / Hu Po)](/ingredients/amber/)
 
 ## Machine-readable data
 
-- [Ingredient dataset](/data/ingredients.json): 82 ingredient entities (Schema.org Dataset / DefinedTerm).
+- [Ingredient dataset](/data/ingredients.json): 94 ingredient entities (Schema.org Dataset / DefinedTerm).
 - [Terminology dataset](/data/terminology.json): 104 Chinese–English incense terms (Schema.org Dataset / DefinedTerm).
 
 ## AI content notes
