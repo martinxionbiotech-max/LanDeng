@@ -13,7 +13,7 @@ const SITE = Astro.site?.toString() ?? 'https://example.com';
 const canonical = Astro.site
   ? new URL(Astro.url.pathname, Astro.site).toString()
   : `${SITE}${Astro.url.pathname}`;
-const ogImage = `${SITE}og-image.png`; // TODO: replace with real brand image (MATERIAL-REQUESTS)
+const ogImage = `${SITE}images/og-image-incense-still-life-1200x630.jpg`;
 
 const orgJsonLd = {
   '@context': 'https://schema.org',
