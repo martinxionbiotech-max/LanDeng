@@ -116,6 +116,69 @@ More rigorous 考证 argues that **tagara is a mistranslation** — the Sanskrit
 
 ---
 
+## Grading Beyond the Sink Test: What Else Matters
+
+The 沉水 sink test is the headline, but it is not the whole system. In practice, grading weighs several factors at once:
+
+- **Resin density** — the core axis, measured by the sink/float test and by visible oil content.
+- **Oil content and distribution** — how much resin, and whether it runs in veins (木包油) or saturates the fiber (油包木).
+- **Aroma** — the most consequential factor in practice: does it smell complex and sweet on gentle heat, and does it develop in stages (头香/本香/尾香)?
+- **Formation type** — 熟结 / 生结 / 虫漏 / 脱落 carry different reputations and prices.
+- **Origin** — a Hainan or Vietnamese piece and a plantation piece can carry very different prices for similar density.
+
+The honest summary: density is the most objective axis, but aroma is what buyers ultimately pay for. A dense but dull-smelling piece is not automatically worth more than a lighter but vivid one — which is why grading is partly measurement and partly tasting. In that sense agarwood grading resembles tea or wine grading: there is a measurable backbone, but the final judgment is sensory and, at the top end, unavoidably subjective.
+
+## A Genuine Wrinkle: 奇楠 and the Sink Test
+
+There is a documented tension in the traditional system worth knowing, because English content almost never mentions it. The "sinking = best" rule holds for ordinary 沉香, but some sources hold that top 奇楠 is often 半沉半浮 (half-sinking), not fully 沉水 — because its resin is soft and evenly distributed through the fiber rather than densely concentrated. A piece of 奇楠 can be superlative in aroma while not fully sinking.
+
+This is a real distinction, not a rounding error: the sink test grades resin *concentration*, while 奇楠 grades resin *transformation*. The two are related but not the same. Treat "it must sink" as a rule of thumb for ordinary agarwood, not as an absolute for 奇楠.
+
+## How Grading Interacts with Authentication
+
+Grading and authentication are entangled, because fakes are engineered to pass the grading signals:
+
+- **Oil-injection and oil-boiling** add weight so treated wood sinks — defeating the sink test.
+- **Dye-soaking** darkens the wood to mimic resin density.
+- **Synthetic fragrance** mimics the aroma, at least on first sniff.
+
+This is why a grading label alone ("沉水", "奇楠") is a claim, not a proof. The label tells you what the seller asserts; authentication tells you whether the material backs it up. See the [authentication database](/blog/incense-authentication-database/) and the [substitution cross-reference](/blog/incense-substitution-cross-reference/).
+
+## Grading Vocabulary Across Traditions
+
+Different traditions grade the same material with different vocabularies. Knowing they overlap helps you read across sources:
+
+| Tradition | System | What it grades |
+|---|---|---|
+| Chinese | 沉水 (sink/half-sink/float) + 奇楠 color grades | Resin density and the 奇楠 distinction |
+| Japanese | rikkoku gomi (六国五味) | Six "countries," five "tastes" — a classical descriptive framework |
+| Vietnamese | regional/origin grades (e.g., Nha Trang) | Origin and aroma reputation |
+
+The Japanese rikkoku gomi "countries" are traditional labels, not verified modern geography — much like the Chinese 奇楠 color hierarchy is traditional rather than settled taxonomy. Neither should be read as a modern provenance certificate. For the Japanese side, see [kōdō](/blog/japanese-incense-kodo/).
+
+## Reading a Seller's Grading Claims
+
+When a seller grades a piece, translate the label into questions:
+
+1. **"Sinking" — verified how?** Ask whether it was actually tested, and remember oil-injection fakes sink too.
+2. **"奇楠" — on what basis?** The soft, pliable, room-temperature-aromatic character, or just a price tag?
+3. **Origin — named?** A specific origin is more informative than "premium agarwood."
+4. **Price vs. grade — consistent?** A 奇楠 label at ordinary-agarwood prices is a contradiction to resolve.
+
+The label is a starting point for questions, not an ending point for trust.
+
+## A Grading Sequence: How to Walk Through a Piece
+
+When you encounter a piece of agarwood, the grading factors above can be applied in a rough order:
+
+1. **Sink test** — does it sink, half-sink, or float? This gives a first read on resin concentration, with the 奇楠 caveat noted above.
+2. **Look at the resin** — is the oil in veins through hard wood (ordinary 沉香) or saturating soft, pliable fiber (奇楠)?
+3. **Smell it warm** — on gentle heat, is the aroma complex and sweet, and does it open in stages? Aroma is the practical tiebreaker.
+4. **Note the formation type** — 熟结, 生结, 虫漏, or 脱落 — and the claimed origin.
+5. **Check the price against the grade** — does the label, the material, and the price all tell the same story?
+
+The sequence matters because it keeps the objective test (density) first and the subjective test (aroma) decisive, without letting either one alone carry the judgment. It also makes clear where the fakes attack: at the sink test, at the color, and at the price-to-grade consistency.
+
 ## The Author's Take
 
 **Position:** The 沉水 sink test is at once the most useful and the most overrated grading signal in agarwood — because oil-injection fakes are engineered specifically to sink.
@@ -142,27 +205,29 @@ More rigorous 考证 argues that **tagara is a mistranslation** — the Sanskrit
 ## FAQ
 
 ### Q: What is the difference between 沉香 and 奇楠?
-A: Ordinary 沉香 is "wood wraps oil" (hard wood with resin veins); 奇楠 is "oil wraps wood" (soft, pliable, aromatic at room temperature). 奇楠 is the top grade.
+Ordinary 沉香 is "wood wraps oil" (木包油): hard wood with resin veins running through it. 奇楠 is "oil wraps wood" (油包木): the wood fiber is so thoroughly resin-transformed that the material becomes soft and pliable — the traditional description is that it shaves into curls and kneads into pellets — and it is aromatic even at room temperature. 奇楠 is the top grade. A further, practical distinction is that the sink test is a reliable signal for ordinary 沉香, but top 奇楠 is sometimes described as half-sinking rather than fully sinking, because its resin is soft and evenly distributed rather than densely concentrated.
 
 ### Q: How is agarwood graded?
-A: Primarily by resin density via the 沉水 (sink-in-water) system, then by the 奇楠 distinction, then (traditionally) by the five-color hierarchy.
+Primarily by resin density via the 沉水 (sink-in-water) system — sinking is highest, half-sinking is medium, floating is lower — then by the 奇楠 distinction that separates "oil-wraps-wood" from ordinary "wood-wraps-oil" material, then (traditionally) by the five-color 奇楠 hierarchy. In practice grading also weighs oil content and distribution, aroma on gentle heat, formation type (熟结/生结/虫漏/脱落), and origin. Density is the most objective axis; aroma is what buyers ultimately pay for. No single test is authoritative, and the sink test in particular is weakened by oil-injection fakes built to sink.
 
 ### Q: What does "sinking fragrance" mean?
-A: 沉香 literally means "sinking fragrance" — the finest resin-dense pieces sink in water, which is the primary grading method.
+沉香 literally means "sinking fragrance" — the name encodes the primary grading method. Resin is denser than wood, so the most resin-saturated pieces are dense enough to sink in water, while less-resinous wood floats. The finest pieces sink, which is why "sinking" became the mark of quality. This physical test is the backbone of the classical Chinese grading system, but it grades resin concentration, not aroma or the 奇楠 transformation — so it is a useful rule of thumb rather than a complete judgment of quality.
 
 ### Q: Is the five-color 奇楠 hierarchy settled?
-A: No — sources disagree on whether purple and yellow are distinct grades or aging stages of green. Treat it as traditional.
+No — sources disagree on whether the purple (紫) and yellow (黄) grades are distinct grades or aging stages of the green (绿) grade. The hierarchy itself — white (白), green (绿), purple (紫), yellow (黄), black (黑) 奇楠 — is a traditional subdivision, not a laboratory taxonomy. This page treats it as traditional and possibly non-distinct rather than settled fact. When a seller leans hard on a specific color grade as a pricing justification, ask what the color is actually claimed to indicate, and whether it is anything more than a naming convention.
 
 ### Q: Where does the word 奇楠 come from?
-A: It is genuinely uncertain — competing theories include Sanskrit "Kāla," "tagara" (possibly a mistranslation), and a "temple" reading.
+It is genuinely uncertain — competing theories include Sanskrit "Kāla" (black/time), Sanskrit "tagara" (a fragrant plant, shortened to 伽罗/伽楠), and a "temple" (伽蓝) reading. More rigorous scholarship argues that "tagara" is a mistranslation and that the Sanskrit word for agarwood is "agaru/aguru," not tagara. The honest position is "etymology uncertain; multiple theories" — this page does not pick one. The Japanese term "kyara" (伽罗) is the cognate and carries the same ambiguity about ultimate origin.
 
 ---
 
 ## Sources
 
-- 本草纲目 — historical materia-medica record; 沉香/奇楠 entries are traditional language, not clinical evidence.
+- 周嘉胄《香乘》(Ming) — 沉香/奇楠 grades and the 沉水 system. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
+- 本草纲目 — historical materia-medica record; 沉香/奇楠 entries are traditional language, not clinical evidence. [Full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目).
+- Flora of China — [*Aquilaria* genus entry](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=102387) (botanical identity).
+- Naef, R. — *The volatile and semi-volatile constituents of agarwood* (review). [DOI](https://doi.org/10.1002/ffj.2034).
 - Chinese specialist and consumer sources on 奇楠 grading and authentication (consumer/specialist tier; some conflict on the five-color hierarchy, flagged in the text).
-- Botanical references for *Aquilaria* (Thymelaeaceae) and resin formation.
 - Research synthesis: docs/research/agarwood-chenxiang-notes.md (R-001).
 
 ## Related Resources
