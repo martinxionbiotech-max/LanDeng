@@ -231,3 +231,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Incense Holder & Burner Guide: What You Need for Each Format` (60 chars) → rendered 70
   - after:  `Incense Holder & Burner Guide: What You Need` (44 chars) → rendered 54
 
+- `src/content/blog/incense-in-daily-ritual.md`
+  - before: `Incense in Daily Ritual: Scent as a Marker of Time and Transition` (65 chars) → rendered 75
+  - after:  `Incense in Daily Ritual: Scent as a Time Marker` (47 chars) → rendered 57
+
+- `src/content/blog/incense-ingredients-glossary.md`
+  - before: `Incense Ingredients Glossary: Wood, Resin, Flower, and Spice` (60 chars) → rendered 70
+  - after:  `Incense Ingredients Glossary: Wood to Spice` (43 chars) → rendered 53
+
+- `src/content/blog/incense-material-comparison-matrix.md`
+  - before: `Incense Material Comparison Matrix: 7 Classical Materials at a Glance` (69 chars) → rendered 79
+  - after:  `Incense Material Comparison Matrix: 7 Classics` (46 chars) → rendered 56
+
