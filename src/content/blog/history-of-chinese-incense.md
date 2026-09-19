@@ -1,6 +1,6 @@
 ---
 slug: "history-of-chinese-incense"
-title: "History of Chinese Incense Culture: Shang Rituals to the Modern Revival"
+title: "History of Chinese Incense: Shang to Revival"
 primary_keyword: "history of chinese incense"
 search_intent: "informational"
 pillar: "P1 — Chinese Incense 101"

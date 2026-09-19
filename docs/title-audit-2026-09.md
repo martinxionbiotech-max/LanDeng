@@ -171,3 +171,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `隔火焚香 (Indirect-Fire Incense): How to Scent a Room Without Smoke` (63 chars) → rendered 73
   - after:  `隔火焚香 (Indirect-Fire Incense): Scent, No Smoke` (45 chars) → rendered 55
 
+- `src/content/blog/hand-rolled-vs-machine-made.md`
+  - before: `Hand-Rolled vs Machine-Made Incense: How to Tell the Difference` (63 chars) → rendered 73
+  - after:  `Hand-Rolled vs Machine-Made Incense` (35 chars) → rendered 45
+
+- `src/content/blog/hexiang-blending-system.md`
+  - before: `The 合香 Blending System: How Chinese Incense Is Composed Like a Formula` (70 chars) → rendered 80
+  - after:  `The 合香 Blending System: Composed Like a Formula` (47 chars) → rendered 57
+
+- `src/content/blog/history-of-chinese-incense.md`
+  - before: `History of Chinese Incense Culture: Shang Rituals to the Modern Revival` (71 chars) → rendered 81
+  - after:  `History of Chinese Incense: Shang to Revival` (44 chars) → rendered 54
+

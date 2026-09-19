@@ -1,6 +1,6 @@
 ---
 slug: "hexiang-blending-system"
-title: "The 合香 Blending System: How Chinese Incense Is Composed Like a Formula"
+title: "The 合香 Blending System: Composed Like a Formula"
 primary_keyword: "hexiang chinese incense blending"
 search_intent: "informational"
 pillar: "P10 — Incense Craft & Materials"
