@@ -327,3 +327,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Middle Eastern Incense (Bakhoor & Oud): Wood Chips, Resin, and Hospitality` (74 chars) → rendered 84
   - after:  `Middle Eastern Incense (Bakhoor & Oud)` (38 chars) → rendered 48
 
+- `src/content/blog/moq-pricing-guide.md`
+  - before: `MOQ & Pricing Guide: Why Incense Quotes Beat Price Lists` (56 chars) → rendered 66
+  - after:  `MOQ & Pricing Guide: Quotes Over Price Lists` (44 chars) → rendered 54
+
+- `src/content/blog/natural-vs-synthetic-incense.md`
+  - before: `Natural vs Synthetic Incense: How to Tell the Difference` (56 chars) → rendered 66
+  - after:  `Natural vs Synthetic Incense: Telling Them Apart` (48 chars) → rendered 58
+
+- `src/content/blog/oem-private-label-guide.md`
+  - before: `OEM & Private Label Incense: The Buyer's Guide to Custom Manufacturing` (70 chars) → rendered 80
+  - after:  `OEM & Private Label Incense: Custom Manufacturing` (49 chars) → rendered 59
+

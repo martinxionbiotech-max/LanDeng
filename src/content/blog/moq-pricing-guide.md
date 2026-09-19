@@ -1,6 +1,6 @@
 ---
 slug: "moq-pricing-guide"
-title: "MOQ & Pricing Guide: Why Incense Quotes Beat Price Lists"
+title: "MOQ & Pricing Guide: Quotes Over Price Lists"
 primary_keyword: "incense MOQ pricing"
 search_intent: "commercial_investigation"
 pillar: "Commercial — B2B Buying & Supply"

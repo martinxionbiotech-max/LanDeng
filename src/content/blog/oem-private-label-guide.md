@@ -1,6 +1,6 @@
 ---
 slug: "oem-private-label-guide"
-title: "OEM & Private Label Incense: The Buyer's Guide to Custom Manufacturing"
+title: "OEM & Private Label Incense: Custom Manufacturing"
 primary_keyword: "oem private label incense manufacturing"
 search_intent: "commercial_investigation"
 pillar: "Commercial — B2B Buying & Supply"

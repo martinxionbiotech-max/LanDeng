@@ -1,6 +1,6 @@
 ---
 slug: "natural-vs-synthetic-incense"
-title: "Natural vs Synthetic Incense: How to Tell the Difference"
+title: "Natural vs Synthetic Incense: Telling Them Apart"
 primary_keyword: "how to tell natural vs synthetic incense"
 search_intent: "informational"
 pillar: "P5 — Buying & Selection"
