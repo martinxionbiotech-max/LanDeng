@@ -1,5 +1,5 @@
 ---
-title: "Frankincense (Ru Xiang) — The Aromatic Resin of Ritual & Incense"
+title: "Frankincense (乳香) — Ritual Resin"
 entity: frankincense
 chinese: 乳香
 pinyin: rǔxiāng

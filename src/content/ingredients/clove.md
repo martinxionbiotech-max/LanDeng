@@ -1,5 +1,5 @@
 ---
-title: "Clove (Ding Xiang) — A Warm Spice Note (and a Naming Trap)"
+title: "Clove (丁香) — Warm Spice Note"
 entity: clove
 chinese: 丁香
 pinyin: dīngxiāng

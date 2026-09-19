@@ -1,5 +1,5 @@
 ---
-title: "Jasmine (Mo Li Hua) — The Sweet Flower of Chinese Tea & Fragrance"
+title: "Jasmine (茉莉花) — Sweet Floral"
 entity: jasmine
 chinese: 茉莉
 pinyin: mòlì

@@ -39,3 +39,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Cinnamon (Gui Pi) — Chinese Cassia, and the 'Cinnamon vs Cassia' Distinction` (76 chars) → rendered 98
   - after:  `Cinnamon (桂皮) — Cassia Distinction` (34 chars) → rendered 56
 
+- `src/content/ingredients/clove.md`
+  - before: `Clove (Ding Xiang) — A Warm Spice Note (and a Naming Trap)` (58 chars) → rendered 80
+  - after:  `Clove (丁香) — Warm Spice Note` (28 chars) → rendered 50
+
+- `src/content/ingredients/frankincense.md`
+  - before: `Frankincense (Ru Xiang) — The Aromatic Resin of Ritual & Incense` (64 chars) → rendered 86
+  - after:  `Frankincense (乳香) — Ritual Resin` (32 chars) → rendered 54
+
+- `src/content/ingredients/jasmine.md`
+  - before: `Jasmine (Mo Li Hua) — The Sweet Flower of Chinese Tea & Fragrance` (65 chars) → rendered 87
+  - after:  `Jasmine (茉莉花) — Sweet Floral` (28 chars) → rendered 50
+
