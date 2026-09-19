@@ -154,22 +154,24 @@ Most "how to choose incense" content is an affiliate listicle ranking products. 
 ## FAQ
 
 ### Q: How do I choose incense for the first time?
-Start with the intention, pick the format (a stick is easiest), and buy a small amount of a real material (like sandalwood) to learn the scent. See [scent by intention](/blog/scent-by-intention/).
+For a first purchase, keep the decision small and reversible. Decide what the incense is for — focus, unwinding, ambiance, or practice — because that single choice narrows the format and the scent family. Pick a stick format to start; it is easiest to light and time, and needs only a simple holder. Then buy a small quantity of one real material, such as a sandalwood stick, so you learn what genuine wood smells like rather than a synthetic fragrance. Burn it in a ventilated room and note the aroma, the smoke level, and the burn time. That one real-material reference point makes every later choice — citrus, frankincense, agarwood — much easier to judge. See [scent by intention](/blog/scent-by-intention/).
 
 ### Q: What should I look for on an incense label?
-An ingredient list that names the actual plant (not just "natural fragrance"), the format, and a burn time. See [natural vs synthetic](/blog/natural-vs-synthetic-incense/).
+Look for an ingredient list that names the actual plant or resin — "sandalwood powder" or "frankincense resin" — rather than a vague phrase like "natural fragrance." The format matters too: a stick, cone, coil, resin, or bead each has a different burn time and smoke level, so confirm the form matches your session. Check the burn time, and note whether the product is a real material or a fragrance oil on a neutral base; price is a rough signal, since genuine sandalwood or agarwood costs far more than a synthetic stick. If the label will not say what is inside, treat that silence as a warning. See [natural vs synthetic](/blog/natural-vs-synthetic-incense/).
 
 ### Q: Is expensive incense better?
-Not automatically — but real material (sandalwood, agarwood) genuinely costs more than fragrance oil. Price is a *signal*, not a guarantee.
+Not automatically. Price is a signal, not a guarantee. Real materials such as sandalwood and agarwood genuinely cost more than fragrance oil, because the raw wood or resin is scarce and expensive, so a very cheap "sandalwood" stick is almost certainly synthetic. But a high price alone does not prove quality: some expensive products are overpriced fragrance blends or inflated marketing. Judge the material and the burn rather than the number on the tag. Ask what the product actually contains, smell the aroma on gentle heat, and buy from a seller who names the species and origin. Higher price should track real material, not a brand story.
 
 ### Q: What is the best incense to start with?
-A real sandalwood stick is the classic gentle entry point; citrus and frankincense are the bright alternatives. See the [scent guide](/blog/scent-guide/).
+A real sandalwood stick is the classic gentle entry point: its creamy, sweet-woody scent is easy to like, it is widely available, and it teaches you what genuine wood smells like versus a synthetic copy. If you want something brighter, citrus and frankincense are the standard alternatives — fresh and clean for focus or morning use. Start with one material at a time so you build a clear reference for each scent, then branch out. Whichever you choose, confirm the label names the actual material, match the burn time to your session, and burn in a ventilated room. See the [scent guide](/blog/scent-guide/).
 
 ---
 
 ## Sources
 
 - The [scent guide](/blog/scent-guide/), [format guide](/blog/which-incense-format/), and [natural vs synthetic](/blog/natural-vs-synthetic-incense/) for the framework's components.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — any burned incense releases indoor particulate matter, which is why ventilation is the standing rule.
+- [American Lung Association indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — combustion sources are a recognized indoor-air factor.
 
 ---
 

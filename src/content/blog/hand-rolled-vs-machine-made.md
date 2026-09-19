@@ -87,16 +87,16 @@ They usually correlate (hand-rolled usually means real materials), but they are 
 ## FAQ
 
 ### Q: What is the difference between hand-rolled and machine-made incense?
-A: Hand-rolled uses real botanicals rolled by hand (less uniform, earthier, pricier); machine-made is mass-produced and often fragrance-dipped (uniform, cheaper).
+A: Hand-rolled incense, in the masala method, is made by blending real botanicals — woods, resins, flowers, and spices — into a paste and rolling it onto a core by hand (or extruding it coreless). The result is slightly irregular, with visible flecks, and an earthy, layered scent; it costs more because of the labor and materials. Machine-made incense is mass-produced for uniformity and speed, and is often dipped in a liquid fragrance rather than built from botanicals, giving a cheaper, stronger, more uniform scent. Neither is automatically better — they are different products.
 
 ### Q: How can I tell if incense is hand-rolled?
-A: Look at price (hand-rolled costs more), appearance (visible botanical flecks vs smooth), and scent (earthy vs uniform "perfumey"). A "hand-rolled" or "masala" label is the clearest signal.
+A: Check three things. Price first: a very cheap stick is almost certainly machine-dipped, since hand-rolled material costs more to produce. Appearance second: hand-rolled sticks show visible flecks of plant material and slight irregularity, while machine sticks are smooth and identical. Scent third: earthy and layered points to real botanicals, while a strong, uniform, perfume-like scent points to a dipped fragrance. The clearest signal of all is the label — reputable makers say "hand-rolled" or "masala"; if a product says nothing about method or materials, that silence is itself information.
 
 ### Q: Is machine-made incense bad?
-A: Not necessarily — it is a cheaper, uniform product for a different buyer. The point is to know which you are getting.
+A: Not necessarily. Machine-made incense is a legitimate product: it is cheaper, consistent, and widely available, and it serves a buyer who wants a strong, uniform scent without paying for hand-rolled materials. The problem is not the method itself but the mismatch between expectation and reality — a machine-dipped stick should not be sold or priced as if it were hand-rolled with real botanicals. The point is simply to know which you are getting, so you can decide whether the trade-off is worth it for your use.
 
 ### Q: Does hand-rolled always mean natural?
-A: Not always. Method (hand-rolled) and ingredients (natural) are separate questions, though they usually correlate.
+A: Not always. "Hand-rolled" describes the method, while "natural" describes the ingredients — they are separate questions that usually, but not always, correlate. A hand-rolled stick can still include a fragrance oil in the blend, and a machine-made stick can in principle be built from real botanical powders. So a "hand-rolled" label is a good signal but not a guarantee of purity. To be sure, ask both questions: how was it made, and what is actually in it? A maker who answers both clearly is the one to trust.
 
 ---
 
@@ -104,6 +104,8 @@ A: Not always. Method (hand-rolled) and ingredients (natural) are separate quest
 
 - Editorial synthesis of established incense-making craft (binder, blend, extrusion vs hand-rolling).
 - Traditional craft sources on 合香 and stick-making.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — background on smoke from burning incense.
+- [American Lung Association indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — on particulate matter and indoor burning.
 
 ## Related Resources
 

@@ -86,22 +86,24 @@ The presence of makko (or a named wood-powder binder) is often a **signal of a m
 ## FAQ
 
 ### Q: What is makko powder?
-A: The powdered bark of the *Machilus thunbergii* tree, used as the traditional natural binder in East Asian incense — it holds the blend together and burns cleanly.
+A: The powdered bark of the *Machilus thunbergii* tree (Japanese tabunoki, タブノキ), used as the traditional natural binder in East Asian incense. It works two ways: moistened and mixed with fragrant powders, it holds the blend together, and because it is combustible, it burns cleanly and evenly to carry the scent. Fine, light-colored, and nearly odorless, makko binds without imposing its own smell — which is exactly what a good binder should do.
 
 ### Q: Is makko a filler?
-A: No. It is the functional binder that lets loose powder become a burnable stick. It is low-odor and combustible, not a cheap way to stretch the fragrance.
+A: No. Makko is the functional binder that lets loose powder become a self-supporting, burnable stick, cone, or coil. It is low-odor and combustible — it helps the stick hold together and burn cleanly rather than cheapening it. Treating makko as a "filler" mistakes its structural role for a cost-cutting trick. The real filler in cheap incense is a charcoal or sawdust base soaked in synthetic fragrance, which is a different thing from a natural wood-powder binder.
 
 ### Q: Do all incense sticks have a binder?
-A: Yes — every formed stick, cone, or coil needs a binder to hold its shape. The meaningful question is whether it is a natural wood powder (like makko) or a synthetic adhesive.
+A: Yes — every formed stick, cone, or coil needs a binder to hold its shape, because loose aromatic powder will not stay together or burn as a single form on its own. So "contains a binder" is not a red flag; it is a necessity. The meaningful question is which kind: a natural wood powder such as makko (which burns cleanly and quietly), or a synthetic chemical adhesive (which can smell or burn unevenly).
 
 ### Q: What is the difference between natural and synthetic binder?
-A: Natural binder (wood powder) burns cleanly with little odor; synthetic binder is a chemical adhesive that can smell or burn unevenly.
+A: A natural binder is a plant-derived wood powder, most classically makko (*Machilus thunbergii* bark), that holds the material together and burns cleanly with little odor of its own. A synthetic binder is a chemical adhesive or gum used mainly in cheap machine-made sticks; it can impart a glue-like smell or cause uneven burning. The presence of a named wood-powder binder is one signal of a more traditional, material-based product, though it is a signal rather than a guarantee.
 
 ---
 
 ## Sources
 
 - Botanical references for *Machilus thunbergii* (the makko tree) and its combustible-binder use.
+- [*Machilus* in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=119262)
+- [*Machilus thunbergii* on GBIF](https://www.gbif.org/species/4177874)
 - Traditional craft sources on Chinese/Japanese incense binding.
 
 ## Related Resources

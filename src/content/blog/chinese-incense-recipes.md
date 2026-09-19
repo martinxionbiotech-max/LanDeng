@@ -98,16 +98,16 @@ For the full framework, see [the 合香 blending system](/blog/hexiang-blending-
 ## FAQ
 
 ### Q: What is a 香方?
-A classical Chinese incense recipe — a structured formula for compound incense, recorded in the canonical 香谱 manuals.
+A 香方 (xiāngfāng) is a classical Chinese incense recipe — a structured formula for a compound incense (合香) recorded in the canonical manuals (香谱). Unlike a modern scent description, a 香方 is a working recipe: it names the ingredients, gives their proportions, and specifies the processing — grinding, steaming, aging, and forming. The best examples also reveal the 君臣佐使 (chief–minister–assistant–guide) structure behind the blend, the same logic as a Chinese herbal formula. The classical canon — 陈氏香谱, 洪芻香谱, and 《香乘》 — is essentially a recipe book hundreds of entries long, and almost none of it has been translated into English.
 
 ### Q: Are these recipes real or invented?
-They are real, recorded in the manuals — but the famous attributions (苏轼, 寿阳公主, 花蕊夫人) are usually legend, and the exact proportions vary by version and dynasty.
+The recipes are real, recorded in the classical manuals, but the famous attributions attached to them are usually legend. Names like 苏轼 (Su Shi), 寿阳公主 (Shouyang Princess), and 花蕊夫人 (Huarui Furen) function as cultural markers and recipe titles rather than documented authorship — there is rarely a reliable record that the named person actually composed the formula. The proportions also vary: the same recipe survives in multiple versions, and the historical weights (两, 钱) had different gram values across dynasties. So the honest reading treats the name as a title and the ratios as the reliable content, while flagging the attribution as traditional.
 
 ### Q: Can I actually make these at home?
-The recipes are reproducible in principle, but the historical weights are not fixed gram values, and some materials (musk, 奇楠-grade agarwood) are scarce or restricted. Treat them as historical study, not a modern DIY spec.
+In principle, yes, the recipes are reproducible, but with important caveats. The historical weights are not fixed gram values — the 两 varied across dynasties, so you should read the ratios between ingredients rather than trying to convert to exact grams. Some materials are also scarce or restricted: genuine musk and 奇楠-grade agarwood are rare, expensive, and in some cases subject to trade controls. A few recipes are contemporary revivals rather than classical originals. For these reasons, the cluster treats the recipes primarily as historical and cultural study — a way to understand the blending structure — rather than as a precise modern do-it-yourself specification.
 
 ### Q: Why is there almost no English coverage of this?
-The manuals are extensive classical Chinese that has never been systematically translated — which is precisely the opportunity this cluster addresses.
+The manuals are extensive works of classical Chinese that have never been systematically translated into English, and the task is substantial: hundreds of entries across 陈氏香谱, 洪芻香谱, and 《香乘》, written in a dense classical idiom with specialized terminology (合香, 奇楠, 沉水) that has no canonical English rendering. Product-focused competitors have no incentive to do this work — they sell scents and attach wellness claims, not translate a technical canon. As a result, an English search for "Chinese incense recipe" mostly returns modern DIY blends, not the classical record. That gap is exactly the opportunity this cluster addresses.
 
 ---
 
@@ -117,6 +117,7 @@ The manuals are extensive classical Chinese that has never been systematically t
 - 洪芻香谱 (Hong Chu's Manual), Song — the canonical manual. [Full text on Wikisource](https://zh.wikisource.org/wiki/香譜).
 - 陈氏香谱 (Chen's Incense Manual) — the Song-dynasty canon.
 - 燕居香语 (陈云君) — the contemporary manual source for 二苏旧局.
+- [Compendium of Materia Medica (本草綱目) on ctext.org](https://ctext.org/wiki.pl?if=gb&res=8)
 
 ## Related Resources
 

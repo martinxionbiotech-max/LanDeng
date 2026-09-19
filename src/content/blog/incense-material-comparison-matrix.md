@@ -74,19 +74,19 @@ Borneol deserves a note too: natural borneol (from *Dryobalanops*) and synthetic
 ## FAQ
 
 ### Q: What is the most expensive incense material?
-Agarwood — and its top grade 奇楠 (kyara) is the most expensive material in the market, orders of magnitude above the rest.
+Agarwood (沉香) is the most expensive, and its top grade 奇楠 (kyara) sits at the very top of the market — orders of magnitude above sandalwood, frankincense, and the other classical materials. The cost comes from how it forms: agarwood is resin-saturated heartwood that develops slowly in only some Aquilaria trees, so genuine, high-grade material is scarce. That scarcity is also why it is the most heavily faked material — oil-injected wood and unrelated substitutes are common. Price alone is not proof of authenticity; sourcing matters as much as the number on the tag.
 
 ### Q: What is the difference between frankincense and myrrh?
-Both are tapped resins, but frankincense is fresh and citrus-woody while myrrh is bitter and earthy. Both are far cheaper than agarwood.
+Both are tapped gum resins, but they come from different trees and smell quite different. Frankincense (乳香) is fresh, bright, and citrus-woody, and is often used as a focusing, uplifting note. Myrrh (没药) is bitter, earthy, and balsamic, with a deeper, more grounding character, and has a long history of ritual use. Both are far cheaper than agarwood, because they are more abundant and easier to harvest. They are also among the least-faked materials — usually the real resin is what you get, though grades still vary.
 
 ### Q: Is borneol the same as camphor?
-No — they are different compounds, but both have a cool, sharp character. Borneol is the traditional "snow" note in blends like 雪中春信.
+No. Borneol (龙脑) and camphor are different compounds, even though both have a cool, sharp, camphor-like character. Borneol is the traditional "snow" note in Chinese blends such as 雪中春信, lending a cooling top note. Natural borneol comes from the resin distillate of Dryobalanops trees, but a chemically identical synthetic version is made from turpentine or camphor — the two are the same molecule, so the difference is sourcing and price, not aroma. That makes "natural borneol" a label to verify rather than take at face value.
 
 ### Q: Which material is most likely to be faked?
-Agarwood (oil-injection and substituted woods), followed by sandalwood (substitute species and fragrance oil).
+Agarwood is the most likely to be faked, because genuine material is scarce and expensive. Common tricks include injecting oil into low-grade or unrelated wood to fake the resin content, and selling other woods under the agarwood name. Sandalwood is the second hotspot: other Santalum species and synthetic fragrance oil are routinely sold as the prized Santalum album. Borneol is a subtler case, since synthetic and natural borneol are chemically identical. For all three, the safest defense is buying from a source that names the species and method.
 
 ### Q: What is the difference between Siam and Sumatra benzoin?
-Siam benzoin (from *Styrax tonkinensis*) is considered finer and sweeter; Sumatra benzoin (*S. benzoin*) is more common. Both are real benzoin — the grades differ.
+Both are real benzoin resin, but they come from different Styrax species and are graded differently. Siam benzoin (from Styrax tonkinensis) is considered the finer grade — sweeter, more vanilla-like, and with a cleaner profile — so it commands a higher price. Sumatra benzoin (from Styrax benzoin) is more common and slightly earthier or smokier in character. Both work as a warm, sweet base note and fixative in blends; the choice is a matter of quality and budget rather than authenticity. Reputable sellers label which grade they are offering.
 
 ---
 
@@ -95,6 +95,8 @@ Siam benzoin (from *Styrax tonkinensis*) is considered finer and sweeter; Sumatr
 - Botanical taxonomy references for *Aquilaria*, *Santalum*, *Boswellia*, *Dryobalanops*, *Styrax*, *Commiphora*, *Syzygium*.
 - Editorial synthesis of documented substitution practices; price signals are directional.
 - Research synthesis: docs/research/agarwood-chenxiang-notes.md (R-001) and sandalwood-tanxiang-notes.md (R-002).
+- [Santalum album on GBIF](https://www.gbif.org/species/2889785) — botanical record for sandalwood.
+- [Aquilaria malaccensis on GBIF](https://www.gbif.org/species/5524063) — botanical record for agarwood.
 
 ## Related Resources
 

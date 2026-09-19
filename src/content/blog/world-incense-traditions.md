@@ -94,16 +94,16 @@ Much English-language "world incense" content exoticizes these traditions, flatt
 ## FAQ
 
 ### Q: What is the difference between Chinese and Japanese incense?
-They share an origin, but Chinese incense is warmer and more layered, while Japanese kōdō is minimalist and very low-smoke. See [Japanese kōdō](/blog/japanese-incense-kodo/).
+They share a common origin, but they diverged in character. Chinese incense is generally warmer and more layered, built around the 合香 blending tradition that combines several materials into a structured formula, and it covers a wide range of forms from sticks to loose powder. Japanese kōdō descends from the Chinese Song-dynasty 隔火焚香 technique but was formalized into a minimalist art that favors thin, coreless sticks and very low smoke, with the emphasis on "listening" to a single refined fragrance rather than layering. In short, Chinese incense is broader and more compositional; Japanese incense is narrower, more austere, and more focused on subtlety. See [Japanese kōdō](/blog/japanese-incense-kodo/).
 
 ### Q: Which incense tradition is the oldest?
-Chinese incense has a continuous recorded history of more than two millennia. India, the Middle East, and Tibet each have long, distinct traditions of their own.
+Chinese incense has the longest continuous recorded history, spanning more than two millennia of documented practice and written manuals. That said, "oldest" is not a clean ranking: India, the Middle East, and Tibet each have long, distinct traditions of their own, with incense use in the Middle East and the Indian subcontinent also reaching back to antiquity. The more useful point is that Chinese incense is the historical source of the East Asian traditions, with Japan systematizing it into kōdō. Rather than trying to name a single origin, it is more accurate to treat each tradition as its own long-standing craft lineage.
 
 ### Q: What is bakhoor?
-Prepared wood chips (often agarwood) soaked in fragrance oils and resins, burned on charcoal or an electric burner — the signature of Middle Eastern incense. See [Middle Eastern incense](/blog/middle-eastern-incense/).
+Bakhoor is the signature form of Middle Eastern incense: prepared wood chips, often agarwood, that have been soaked or coated in fragrance oils, resins, and other aromatics and then dried. To use it, a small piece is placed on hot charcoal or an electric burner, where it smolders and fills a room with a rich, resinous scent. It is strongly associated with hospitality and the majlis, the sitting room where guests are received, and with scenting clothing and the home. Unlike a stick or coil, bakhoor is a loose-chip format, so it needs a heat source rather than a simple holder. See [Middle Eastern incense](/blog/middle-eastern-incense/).
 
 ### Q: Are these traditions religious?
-Several are tied to religious ritual (Buddhist, Hindu, Christian, Islamic contexts), but they are also household, aesthetic, and hospitality practices. The meaning varies by tradition and context.
+Several are tied to religious ritual, but none of them is only religious. Incense appears in Buddhist, Hindu, Christian, and Islamic contexts — for example, Indian agarbatti in puja and aarti, Tibetan incense in monastery ritual, and bakhoor in the hospitality of the majlis. At the same time, every tradition also includes household, aesthetic, and social uses: scenting a room, marking a meditative session, or welcoming a guest. The meaning depends on the tradition and the setting, and this page deliberately makes no spiritual-power or health claims about any of them — it treats each as a specific craft tradition with its own form and purpose.
 
 ---
 
@@ -111,6 +111,8 @@ Several are tied to religious ritual (Buddhist, Hindu, Christian, Islamic contex
 
 - Cultural and historical references on Chinese, Japanese, Indian, Tibetan, and Middle Eastern incense traditions.
 - The four linked regional guides for full detail.
+- [Xiang Cheng (香乘) full text on Wikisource](https://zh.wikisource.org/wiki/香乘)
+- [Incense burner, China (The Met)](https://www.metmuseum.org/art/collection/search/53650)
 
 ---
 

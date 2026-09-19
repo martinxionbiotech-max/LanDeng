@@ -114,19 +114,19 @@ LanDeng describes fragrance as an **aromatic and ambiance experience**, never as
 ## FAQ
 
 ### Q: What is the difference between essential oil and fragrance oil?
-An essential oil is extracted from a plant (steam-distilled or cold-pressed). A fragrance oil is manufactured — often synthetic, sometimes built from natural isolates — to *smell like* something. "Sandalwood fragrance oil" is not sandalwood essential oil.
+An essential oil is extracted from a plant — usually by steam distillation, or by cold-pressing for citrus peel — and carries the plant's actual volatile aroma compounds. A fragrance oil is manufactured: often fully synthetic, sometimes built from natural isolates, and designed to *smell like* something rather than to be that thing. The labels are not interchangeable. "Sandalwood fragrance oil" is not sandalwood essential oil, and "natural fragrance" can still be a constructed scent, so the word "oil" alone does not tell you which you have.
 
 ### Q: Is an essential oil the same as the plant it came from?
-No. It is a concentrated extract of the plant's volatile aromatics. A sandalwood essential oil and sandalwood heartwood smell related but are different materials with different behavior.
+No. An essential oil is a concentrated extract of only the plant's volatile aromatics — the fraction that carries smell — separated from everything else (water, waxes, cellulose). A sandalwood essential oil and a piece of sandalwood heartwood therefore smell related but behave differently: the oil delivers bright, immediate notes, while the wood releases a slower, deeper, developing "cooked" aroma over time. Same plant, different material, different performance in incense.
 
 ### Q: Why do some incense sticks say "essential oil" and others say "powder"?
-"Essential oil" means the stick's base is scented with oil; "powder" (e.g., sandalwood powder) means the fragrant material is the whole wood itself. Oil gives bright notes; wood gives a slower, deeper aroma. See the [sandalwood guide](/blog/sandalwood-incense/).
+"Essential oil" on a label means the stick's base is scented with oil — the base (often charcoal or neutral wood powder) carries the aroma when burned. "Powder" (for example, sandalwood powder) means the fragrant material is the whole wood itself, ground and bound. The two give different results: oil tends to bright, immediate notes, while wood gives a slower, deeper, evolving aroma. The distinction explains why "sandalwood" can mean several different products. See the [sandalwood guide](/blog/sandalwood-incense/).
 
 ### Q: Does the word "essential" mean it's good for you?
-No. It means "containing the essence/fragrance of the plant." It is not a statement about nutrition or health.
+No. In this context "essential" means "containing the essence or fragrance of the plant" — a historical usage, not a statement about necessity or benefit. The word has nothing to do with nutrition or health, even though it is often misread that way. An essential oil can be pleasant and useful in fragrance, but the name carries no claim that it is "essential" to your diet or wellbeing.
 
 ### Q: Can I use essential oils to make my own incense?
-Yes — but the traditional method uses plant material plus a natural binder like makko, with essential oil as an optional addition. See [what makes incense natural](/blog/what-makes-incense-natural/) for the binder and base.
+Yes — you can add essential oils, but the traditional method starts with dry plant material (wood powder, ground herbs, or resins) bound with a natural combustible binder like makko, with the essential oil as an optional addition to intensify or harmonize a note. A stick made only of oil on a filler base is a different kind of product. See [what makes incense natural](/blog/what-makes-incense-natural/) for the roles of binder and base in a properly constructed stick.
 
 ---
 
@@ -134,6 +134,8 @@ Yes — but the traditional method uses plant material plus a natural binder lik
 
 - ISO definition of essential oils (steam distillation, cold pressing, dry distillation).
 - Standard references on essential-oil extraction (steam distillation share, absolutes vs essential oils).
+- [*Lavandula* in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019757)
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq)
 - Enthusiast/retailer sources on the "oil vs wood" distinction in incense.
 
 ---

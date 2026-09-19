@@ -91,22 +91,24 @@ An **electric incense heater** achieves the same result — gentle, controlled h
 ## FAQ
 
 ### Q: How do I burn incense without smoke?
-Use 隔火焚香 — hot charcoal buried in ash under a thin plate, so the material warms without combusting. An electric heater is the modern equivalent.
+Use 隔火焚香 (gé huǒ fén xiāng), the classical indirect-fire method. A small, dense charcoal is lit until it glows and then buried in a level bed of ash, with a thin plate — traditionally silver leaf or mica — placed on top. The incense material sits on the plate and is warmed by the rising heat rather than burned, so it releases aroma with almost no smoke. The goal is below-combustion heat: hot enough to volatilize the aromatic compounds, cool enough that nothing scorches. An electric incense heater achieves the same result without charcoal or ash and is the accessible modern equivalent.
 
 ### Q: What is the plate made of?
-Traditionally 银叶 (silver leaf) or 云母片 (mica) — thin, heat-conductive, and inert.
+Traditionally the plate is made of 银叶 (silver leaf) or 云母片 (mica), two materials chosen because they are thin, heat-conductive, and chemically inert. The thinness lets heat pass through quickly, the conductivity spreads it evenly across the surface, and the inertness means the plate does not add its own odor to the material. Silver leaf is a thin sheet of silver; mica is a natural mineral that splits into thin, heat-resistant flakes. Either one sits over the buried charcoal and holds the resin chip or powder, separating it from the heat source so the material warms without burning.
 
 ### Q: Why bury the charcoal in ash?
-The ash insulates and controls heat transfer, so you can tune the temperature and avoid scorching the material.
+The ash does two jobs: it insulates the charcoal, and it gives you a way to control how much heat reaches the material. Burying the coal means only its stored heat rises slowly through the ash rather than hitting the plate directly, which would scorch the incense. By adding ash you lower the temperature; by moving the plate closer or the coal nearer the surface you raise it. This fine control is what lets you hold the material just below its combustion point — warm enough to release aroma, cool enough to produce almost no smoke. The ash bed is therefore not just a container but the temperature regulator of the whole setup.
 
 ### Q: What is the difference between this and burning a stick?
-A stick combusts (smoke + PM); 隔火焚香 only warms, so it releases aroma with far less particulate — the lowest-smoke method.
+A stick combusts — the material actually burns, producing smoke and particulate matter (including PM2.5) as part of the process. 隔火焚香 only warms the material below its combustion point, so the aromatic compounds are released without the material catching fire. The result is a much cleaner scent with far less smoke and particulate, which is why this method is the lowest-smoke option in the whole tradition and appears throughout this site's air-quality guidance. Because you smell the material's true aroma without a smoke note masking it, it is also the preferred way to appreciate a fine agarwood or sandalwood.
 
 ---
 
 ## Sources
 
 - Editorial synthesis of established 隔火焚香 practice (standard technique, not therapeutic).
+- [Xiang Cheng (香乘) full text on Wikisource](https://zh.wikisource.org/wiki/香乘)
+- [Compendium of Materia Medica (本草綱目) on ctext.org](https://ctext.org/wiki.pl?if=gb&res=8)
 
 ## Related Resources
 

@@ -95,19 +95,19 @@ See [ventilation & indoor air](/blog/incense-ventilation-indoor-air/), [incense 
 ## FAQ
 
 ### Q: Is incense bad for you?
-Burning incense produces roughly four times the PM of a cigarette per gram, plus VOCs and PAHs — so it does degrade indoor air. The risk scales with amount, frequency, and ventilation; see the mitigation table.
+Burning incense measurably degrades indoor air: per gram of material it produces roughly four times the particulate matter of a cigarette, plus VOCs, aldehydes, and PAHs. Whether that translates into harm depends on amount, frequency, and ventilation — a single stick in an aired room is a small exposure, while daily burning for years in a sealed space is a different matter. Observational studies link heavy, long-term use to respiratory and cardiovascular outcomes, but these are associations, not proof of cause in any given person. The page reports the evidence and then gives the mitigation table rather than a verdict.
 
 ### Q: Is "natural" incense safer?
-No — natural material still burns, and still produces particulate matter and VOCs. "Natural ≠ smoke-free" is the core point.
+No — natural material still burns, and burning is what produces the particulate matter and VOCs. A "natural" stick made of wood powder, resin, and a plant binder combusts the same way a synthetic one does, releasing PM2.5, formaldehyde, benzene, and PAHs. The natural-versus-synthetic distinction is about ingredients and additives, not about whether the burn is clean. This is the core correction the page makes: "natural ≠ smoke-free." If your concern is air quality, the lever that actually matters is combustion management — ventilation, lower-smoke formats, and moderation — not the natural label.
 
 ### Q: What is the least smoky way to use incense?
-Electric-heated resin (隔火焚香) — it warms material below combustion, producing the least smoke. See the [burner & tools guide](/blog/incense-burners-tools/).
+Electric-heated resin, sometimes called 隔火焚香 ("separated-fire" burning). It warms the material below its combustion point, releasing fragrance without the flame and with far less smoke and particulate matter than any burning format. A charcoal disc also heats resin, but the charcoal itself combusts and adds its own emissions. After electric heating, the next-lowest-smoke options are thinner, coreless sticks, which use less material. See the [burner & tools guide](/blog/incense-burners-tools/) for full context — the point is that reducing combustion, not changing fragrance, is what cuts the smoke.
 
 ### Q: Does incense smoke contain the same chemicals as cigarette smoke?
-It contains overlapping pollutants — formaldehyde, benzene, CO, and PAHs are found in both — but the exposure profile depends on how much and how often you burn.
+It contains overlapping pollutants, though the two smokes are not identical. Both incense and cigarette smoke include fine particulate matter, formaldehyde, benzene, carbon monoxide, and polycyclic aromatic hydrocarbons (PAHs) — products of burning plant material. Incense releases more particulate matter per gram of material, which is where the "four times a cigarette" figure comes from. The exposure profile differs, however: people typically inhale incense smoke more diffusely and less directly than cigarette smoke, so the comparison is about emission rates, not identical risk. How much and how often you burn shapes your actual exposure.
 
 ### Q: Should I stop burning incense indoors?
-Not necessarily — but ventilate, avoid closed bedrooms, and prefer low-smoke methods. The goal is managing smoke, not eliminating a practice.
+Not necessarily — the point is to manage the smoke, not eliminate a practice. Ventilate by opening a window or burning near an exhaust fan, avoid continuous burning in closed bedrooms, prefer lower-smoke formats such as electric-heated resin or thin coreless sticks, and run a HEPA purifier after a session if you burn regularly. These steps directly lower particulate exposure without giving up incense. The evidence describes a real exposure that scales with amount, frequency, and ventilation, so a sensible routine — occasional, aired, and low-smoke — is a reasonable middle ground rather than an all-or-nothing choice.
 
 ---
 
@@ -119,6 +119,9 @@ Not necessarily — but ventilate, avoid closed bedrooms, and prefer low-smoke m
 - "The Adverse Impact of Incense Smoke on Human Health," PMC8548258.
 - Bootdee et al. (2016) — incense/temple PM2.5 study, cited in later aerosol literature.
 - Tran et al. / Hien et al. — incense PM2.5 in Vietnam & Taiwan temples.
+- [Incense burning and indoor PM10 (Indoor Air study, DOI)](https://doi.org/10.1034/j.1600-0668.2003.00197.x) — peer-reviewed measurement of incense smoke particulate matter.
+- [Fine particulate emissions from incense burning (IJESD, DOI)](https://doi.org/10.7763/ijesd.2014.v5.483) — fine particle (PM) emission data.
+- [EPA Burn Wise](https://www.epa.gov/burnwise) — combustion particulate guidance and burn practices.
 
 ## Related Resources
 

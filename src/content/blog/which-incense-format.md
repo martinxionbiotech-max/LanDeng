@@ -88,33 +88,35 @@ Most "sticks vs cones" content is an affiliate listicle ranking products. This h
 ## FAQ
 
 ### Q: Are incense sticks or cones better?
-Neither is "better" — a stick burns longer (~20–60 min), a cone is shorter (~10–15 min). Pick by session length. Backflow cones are a special case chosen for their visual.
+Neither is "better" — they suit different session lengths. A stick burns roughly 20 to 60 minutes, making it the everyday default, while a cone burns only about 10 to 15 minutes, which suits a short ritual or a quick accent. If your session is a half-hour meditation, a stick matches better; if you want a brief burst of scent, a cone is the cleaner choice. Backflow cones are a special case: they are chosen almost entirely for their downward-smoke waterfall effect, not for scent or burn time.
 
 ### Q: How long does an incense coil burn?
-A coil can burn for hours (often several), making it the format for long, steady room scent. See [incense coils](/blog/incense-coils/).
+A coil can burn for hours — often several, and a large one can smolder for much of a day. That long, continuous burn is the coil's defining feature, and it is why coils are the format for temples, long ceremonies, and steady all-day room scenting without needing to relight. Burn time scales with the coil's diameter and thickness, so check the stated time on the product. See [incense coils](/blog/incense-coils/) for how to set one up safely.
 
 ### Q: What burns the longest?
-Coils burn the longest by far; sticks are ~20–60 min and cones ~10–15 min. See [incense coils](/blog/incense-coils/).
+Coils burn the longest by far — often hours, versus a stick's 20 to 60 minutes and a cone's 10 to 15 minutes. If you count heated resin on an electric heater, that can also run for hours, but it is a different method (warming rather than burning). For a single, self-contained burn, the coil is the longest-lasting common format. The catch is that a long burn needs more attention to placement, airflow, and safety. See [incense coils](/blog/incense-coils/) for the setup.
 
 ### Q: What is a backflow cone?
-A hollow cone that directs smoke downward to create a waterfall effect — chosen for its visual, not its scent. See [backflow cones](/blog/backflow-cones/).
+A backflow cone is a hollow incense cone with a channel through its center. When lit, the enclosed channel cools the smoke and makes it denser, so the smoke sinks through the hole at the base and spills downward over a purpose-built burner, creating a waterfall effect. It is chosen for that visual trick, not for its scent — the fragrance is the same as a regular cone. It requires a matching backflow burner, and the heavier smoke means you should ventilate the room. See [backflow cones](/blog/backflow-cones/).
 
 ---
 
 ## People Also Ask / 长尾问答
 
 ### Q: What is the least smoky format?
-Resin or powder warmed on an electric heater — it releases scent without combustion, so the least smoke of any format.
+Resin or powder warmed on an electric heater is the least smoky option. The heater warms the material below combustion temperature, so it releases aroma as vapor rather than smoke — there is no flame and almost no visible smoke. This is the modern version of the refined 隔火焚香 method. Charcoal-heated resin produces more smoke, and sticks, cones, and coils all burn and produce smoke. If smoke is your main concern — a small room, sensitivity, or a preference for clean air — an electric heater with loose resin is the format to try.
 
 ### Q: Can I reuse a coil after putting it out?
-Yes — snuff a coil and relight the remaining segment later. This is a practical way to break a long burn into shorter sessions.
+Yes. You can snuff a coil out partway through and relight the remaining segment later — the spiral keeps burning from the outer tip inward, so the unburned portion stays intact. This is a practical way to break a long, hours-long burn into shorter sessions without wasting material. Make sure the coil is fully out before you leave it, and store the remaining segment somewhere dry until you light it again. The same trick works for a coil more cleanly than for a stick, which is harder to snuff evenly.
 
 ### Q: Which format is best for a gift?
-A stick is the safest, most universal choice; a cone or backflow set makes a more visual gift. Match the format to the recipient's setup.
+A stick is the safest, most universal choice — it is self-contained, predictable, and needs only a simple holder, so it suits almost anyone. A cone or a backflow set makes a more visual, gift-worthy present, especially with a matching burner, but it assumes the recipient has (or wants) that setup. If you are unsure of their equipment, a stick plus a basic holder is the lowest-risk option. Match the format to how they are likely to use incense: daily sessions, a decorative moment, or long background scent.
 
 ## Sources
 
 - The format pages linked above for burn-time and usage detail.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — background on smoke from burning incense.
+- [American Lung Association indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — on particulate matter and indoor burning.
 
 ---
 

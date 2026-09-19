@@ -83,33 +83,35 @@ The honest position: a scent can be a **powerful cue in a routine** (the same sc
 ## FAQ
 
 ### Q: How does aromatherapy actually work?
-A: Through the sense of smell — odor molecules bind receptors in the nose and signal brain regions for emotion and memory. The effect is largely associative, not pharmacological.
+A: Through the sense of smell. Odor molecules enter the nose and bind olfactory receptors, which send signals to the olfactory bulb and then to brain regions involved in emotion and memory, especially the limbic system. That wiring is why a scent can feel powerfully calming or energizing and why a familiar smell can recall a moment with unusual vividness. The important caveat is that the effect is largely associative rather than pharmacological: a smell works as a cue, not as a drug. This is the honest core of the page — the neuroscience is real, and the specific "this scent fixes that mood" claims usually are not established.
 
 ### Q: Does lavender really make you calm?
-A: It is a widely shared cultural association, with some preliminary research, but not an established clinical effect. It is best used as a ritual cue, not a treatment.
+A: It is a widely shared cultural association, with some preliminary research behind it, but not an established, dose-specific clinical effect on every person. Many people feel lavender is calming partly because they expect it to be and partly because they pair it with quiet, restful moments, which reinforces the association over time. That makes it genuinely useful as a ritual cue — burn or diffuse the same scent at the same evening moment and it becomes part of unwinding — but it is not a treatment. Use it as ambiance, not medicine.
 
 ### Q: Is aromatherapy a medical treatment?
-A: No. It is a wellness and ambiance practice. This site makes no medical claims about any scent.
+A: No. Aromatherapy is a wellness and ambiance practice, not a medical treatment, and this site makes no medical claims about any scent. The sense of smell is real and wired directly to emotion and memory, but that does not make a fragrance a therapeutic intervention — no scent has an established, reliable, dose-specific clinical effect the way a medicine does. Claims that a specific oil "treats" anxiety, pain, or a disease overstate the evidence. The honest use is as a ritual cue and atmosphere: pick scents you respond to and pair them consistently with a routine.
 
 ### Q: Why does a familiar scent feel so powerful?
-A: Because smell is wired directly to emotion and memory, a familiar scent triggers strong associations.
+A: Because smell is wired directly to the brain's emotion and memory centers. Odor signals reach the olfactory bulb and project to the limbic system — including the amygdala and hippocampus — more directly than signals from the other senses do. That short, direct route means a familiar scent can trigger a felt response and a vivid memory almost instantly, before you consciously process why. A smell you encountered years ago can return with surprising force because it is tied to the context and emotion of that moment. It is association doing the work, not a chemical effect.
 
 ---
 
 ## People Also Ask / 长尾问答
 
 ### Q: Is aromatherapy scientifically proven?
-The mechanism — smell routing to emotion and memory — is well established. The specific claims ("lavender lowers cortisol," "this oil treats anxiety") are mostly not established clinical fact. The honest position: association is real, pharmacology is largely unproven.
+The mechanism is well established; the specific claims mostly are not. That smell routes to the emotion and memory regions of the brain is solid neuroscience. But the marketing claims — "lavender lowers cortisol," "this oil treats anxiety," "frankincense relieves stress" — are largely cultural association and preliminary research rather than established clinical fact. The honest position is a split: association is real and useful, while pharmacology is mostly unproven. So you can rely on aromatherapy as a ritual cue and ambiance, but you should not treat any scent as a documented medical effect.
 
 ### Q: Why does a smell trigger a memory so strongly?
-Because the olfactory signal connects more directly to the limbic system (emotion and memory) than the other senses do. A familiar scent can recall a place or moment with unusual vividness.
+Because the olfactory signal connects more directly to the limbic system — the brain's emotion and memory circuitry — than the other senses do. Odor molecules bind receptors in the nose, and the signal reaches the olfactory bulb and then the amygdala and hippocampus with few relay stops, so a smell can pull up a place, person, or moment with unusual vividness and emotional weight. This is why a single whiff can transport you back years in an instant. It is the same wiring that makes scent useful as a ritual cue: pair a fragrance with a repeated activity and the association strengthens.
 
 ### Q: How do I use aromatherapy honestly?
-Use a consistent fragrance as a ritual cue for a specific activity — the same scent for the same moment each time. Choose scents you personally respond to, and treat fragrance as ambiance and ritual, not medicine.
+Use a consistent fragrance as a ritual cue for a specific activity — the same scent for the same moment each time, such as one fragrance for winding down in the evening and another for focused work. Choose scents you personally respond to, because the association is yours rather than a universal law. Keep expectations grounded: treat fragrance as ambiance and ritual, not medicine, and if you burn incense rather than diffusing, remember that combustion adds particulate matter to the air, so ventilate. That pairing — scent as cue plus smoke management — is the honest way to use it.
 
 ## Sources
 
 - Established olfactory-neuroscience literature — odor signals route to the limbic system (amygdala, hippocampus), the basis of scent-memory association.
+- [American Lung Association indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — on combustion particles when scent is delivered via burning incense.
+- [Incense burning and indoor PM10 (DOI)](https://doi.org/10.1034/j.1600-0668.2003.00197.x) — peer-reviewed measurement of particulate matter from incense combustion.
 - "Association vs pharmacology" is an evidence-governed framing; research is described as preliminary where it exists.
 
 ## Related Resources

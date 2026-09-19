@@ -90,28 +90,34 @@ Both are premium aromatic woods, but they form differently and smell different:
 
 ## FAQ
 
-**What is the difference between agarwood and 奇楠?** 奇楠 is the top grade of agarwood, distinguished by "oil wraps wood" (油包木) structure — soft, pliable, aromatic at room temperature — versus ordinary agarwood's "wood wraps oil" (木包油).
+**What is the difference between agarwood and 奇楠?** 奇楠 (qínán) is the highest grade of agarwood, not a separate plant. The difference is structural: ordinary agarwood shows a "wood wraps oil" (木包油) pattern, where hard wood carries resin veins, while 奇楠 shows "oil wraps wood" (油包木) — the fiber is so thoroughly saturated with resin that it turns soft and pliable, aromatic even at room temperature. A good piece shaves into curls and kneads into pellets. 奇楠 is further divided into color grades, though the hierarchy among those is disputed and treated here as market terminology.
 
-**Is agarwood a type of tree?** No — it is resin-impregnated wood formed in *Aquilaria* trees. Different species can produce it.
+**Is agarwood a type of tree?** No — agarwood is not a species; it is a condition of the wood. It forms inside *Aquilaria* trees when the tree responds to wounding or fungal infection by saturating its heartwood with resin. Healthy *Aquilaria* wood is pale, light, and nearly scentless; only after years of injury and resin accumulation does it darken, densify, and become fragrant. Because several *Aquilaria* species can produce it, the material sold as agarwood may come from different species, which is a key point for buyers checking authenticity.
 
-**Why is agarwood so expensive?** It forms slowly and unpredictably (years to decades), wild resources are depleted, and most commercial material is cultivated or low-grade.
+**Why is agarwood so expensive?** Agarwood is expensive because it forms slowly and unpredictably. Resin accumulates only after a tree is wounded — by insects, broken branches, lightning, or deliberate injury — and mature resin-bearing wood typically takes decades to develop. Wild *Aquilaria* resources are depleted, and high-grade material is scarce, so most commercial supply today is cultivated or low-grade. The top grade, 奇楠, is rarer still, and heavy adulteration in the market further pushes up the price of genuine material.
 
-**How do I burn agarwood?** The refined method is indirect heat (隔火焚香) — material rested above buried charcoal on a plate, releasing aroma without flame. Chips can also be gently warmed on an electric heater.
+**How do I burn agarwood?** The refined traditional method is indirect heat (隔火焚香): the material is rested above charcoal buried in ash on a plate, so it releases aroma without an open flame. This gentle warming avoids the charred note of direct burning and lets the complex scent develop in stages. Chips can also be warmed on an electric incense heater, which gives steadier temperature control. For high-grade material, avoid flame; ordinary material benefits from gentle, gradual heat rather than burning.
 
 ---
 
 ## People Also Ask (Long-Tail)
 
-**What does agarwood smell like?** Deep, sweet, and resinous over a woody base, and it develops in stages as it warms — an opening, a body, and a dry-down. Top-grade 奇楠 is aromatic even unheated.
+**What does agarwood smell like?** Agarwood has a deep, sweet, resinous scent over a woody base that develops in stages as it warms. In Chinese practice this is described as 头香 (top note), 本香 (body), and 尾香 (dry-down). High-grade material is aromatic even unheated; ordinary material needs gentle heat to release its aroma. The exact character varies by species, origin, and grade, but the defining notes are woody, resinous, and sweet rather than floral or sharp.
 
-**Is agarwood the same as oud?** Largely yes. "Oud" (oudh) is the Arabic name for the same resin-impregnated *Aquilaria* wood called 沉香 in Chinese and jinkō/kyara in Japanese — one material family under different names.
+**Is agarwood the same as oud?** Largely yes. "Oud" (also written oudh) is the Arabic name for the same resin-impregnated *Aquilaria* wood called 沉香 (chénxiāng) in Chinese and jinkō or kyara in Japanese. They are one material family under different regional names. There are minor differences in grading vocabulary — for example, the top grade is called 奇楠 in Chinese and kyara in Japanese — but the underlying material is the same resin-saturated heartwood.
 
-**What does "sinking-grade" (沉水) agarwood mean?** It refers to the classic Chinese density test: the most resin-saturated pieces are dense enough to sink in water, hence 沉香 ("sinking fragrance"). Sinking-grade indicates the highest resin content and value.
+**What does "sinking-grade" (沉水) agarwood mean?** "Sinking-grade" refers to the classic Chinese density test. The most resin-saturated pieces are dense enough to sink in water, which is why the name 沉香 means "sinking fragrance." This water test sorts material into grades: 沉水 (sinks), 半沉半浮 (half-sinks), and floating, with sinking pieces carrying the most resin and the highest value. It is a density guide, not a proof of authenticity — sophisticated fakes can be made to sink, so it should be combined with other checks.
 
-**Can agarwood be farmed?** Yes. Because wild agarwood is depleted, much modern supply is cultivated *Aquilaria* that is deliberately wounded to trigger resin formation. This is legitimate but generally lower-grade than old wild material.
+**Can agarwood be farmed?** Yes. Because wild agarwood is depleted, much modern supply is cultivated *Aquilaria* that is deliberately wounded — by drilling, fungal inoculation, or other methods — to trigger resin formation. Cultivated agarwood is legitimate and increasingly common, but it is generally lower-grade than old wild material because the resin has had less time to accumulate. Buyers should expect cultivated material to be more affordable and less aromatic than aged wild stock.
 
-**How should I store agarwood?** Cool, dry, airtight, and away from direct light. Agarwood keeps well, but heat, humidity, and strong ambient odors can degrade or contaminate the scent over time.
+**How should I store agarwood?** Store agarwood cool, dry, and airtight, away from direct light. Resin-saturated wood keeps well, but heat can make it lose volatile aromatics, humidity can encourage deterioration, and strong ambient odors can contaminate the scent. A sealed container in a stable, dark place is best. Because the material is precious, keep pieces separated by grade so cheaper material does not share fragrance with high-grade stock. Proper storage preserves both aroma and value.
 
 See also: the [agarwood incense guide](/blog/agarwood-incense/) and the full [scent guide](/blog/scent-guide/).
+
+## Sources
+
+- [Aquilaria sinensis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506)
+- [Aquilaria malaccensis on GBIF](https://www.gbif.org/species/5524063)
+- [Aquilaria in the CITES species checklist](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Aquilaria%20malaccensis)
 
 *Sources: this page synthesizes Chinese-language trade/specialist sources (奇楠 grading, adulteration) and botanical references (Aquilaria sinensis). Etymology of "qínán" and the 奇楠 color-grade hierarchy remain disputed and are noted as such. This is editorial knowledge content, not medical or investment advice.*

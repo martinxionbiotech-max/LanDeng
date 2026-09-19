@@ -94,23 +94,25 @@ So "natural" is a claim about **what is in the stick**, not about **whether the 
 ## FAQ
 
 ### Q: Is incense safe to burn indoors?
-A: Generally yes, with basic care: a heatproof holder, clear of flammables, in a ventilated space, and never left unattended. The main risks are fire and smoke, both manageable.
+A: Generally yes, with basic care. Use a holder made for the format, set it on a heatproof, stable surface clear of curtains, paper, and other flammables, ventilate the room, and never leave it burning unattended. The two real risks are fire and smoke, and both are manageable: a stable holder and no unattended burning address fire, while ventilation and moderation address the fine particles (PM2.5) that combustion releases. Incense is not "dangerous" in ordinary use — it is something to use with the same common sense you would apply to a candle.
 
 ### Q: Is natural incense safer than synthetic?
-A: "Natural" refers to the ingredients, not the smoke. Natural incense still produces smoke and fine particles, so the smoke safety rules are the same for both.
+A: Not in terms of smoke. "Natural" describes the ingredients — plant powders, resins, and binders — not what happens when they burn. Natural plant material still combusts into smoke and fine particles (PM2.5), exactly as synthetic incense does. So the smoke-safety rules are the same for both: ventilate, avoid continuous burning in a sealed room, and keep it away from people with respiratory sensitivity. The natural-versus-synthetic question is about ingredient quality and additives, which is a separate matter from the smoke any burning stick produces.
 
 ### Q: Does incense produce harmful smoke?
-A: Incense combustion produces fine particulate matter (PM2.5) and VOCs. For occasional use in a ventilated room this is a minor exposure; the mitigation is ventilation, not fear.
+A: Incense combustion produces fine particulate matter (PM2.5) and volatile organic compounds (VOCs) — the same categories of pollutants as candles and cooking. For occasional use in a ventilated room this is a minor exposure, not a cause for alarm. The concern grows with amount, frequency, and poor ventilation: burning stick after stick in a sealed room raises cumulative exposure. The mitigation is ventilation and moderation, not fear. This page states the exposure plainly and makes no medical claims about it — it is a management question, not a therapeutic one.
 
 ### Q: Can I burn incense in a bedroom?
-A: Yes, if ventilated and never left burning while you sleep. See the [ventilation guide](/blog/incense-ventilation-indoor-air/).
+A: Yes, with two conditions: ventilate the room, and never leave incense burning while you sleep. A bedroom is often smaller and more sealed than other rooms, so fine particles accumulate faster there, and the deeper breathing of sleep is a poor time for any smoke exposure. Crack a window before and after burning, or air the room out before bed, and always extinguish the stick, cone, or coil before lying down. See the [ventilation guide](/blog/incense-ventilation-indoor-air/) for the full picture on managing smoke indoors.
 
 ---
 
 ## Sources
 
-- NFPA fire-safety guidance.
-- EPA indoor air quality on combustion particulate matter (see the ventilation guide for detail).
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — particulate matter (PM2.5) and VOCs from indoor combustion sources.
+- [American Lung Association indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — combustion particles and their sources indoors.
+- [U.S. Consumer Product Safety Commission](https://www.cpsc.gov) — fire-safety and product-safety guidance.
+- NFPA fire-safety guidance (heatproof surface, clearances, never leave burning unattended).
 - No health or medical claims are made.
 
 ## Related Resources

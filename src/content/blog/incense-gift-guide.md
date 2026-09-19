@@ -92,22 +92,24 @@ Search "incense gift set" and you will find affiliate listicles ranking gift box
 ## FAQ
 
 ### Q: What is a good incense gift for a beginner?
-A real-material starter — a sandalwood or frankincense stick set with a holder included. See [incense sticks](/blog/incense-sticks/).
+A real-material starter is the safest choice: a sandalwood or frankincense stick set that includes the holder it needs, so the gift is complete and usable the same day. Real wood or resin reads as thoughtful, whereas a synthetic "sandalwood" stick does not. Pair it with a short note on how to burn it — light the tip, let it glow, place it in a ventilated spot on a heatproof surface — so a first-time user is not left guessing. A modest, genuine material beats a flashy set of fragrance sticks, because the recipient is learning what real incense actually smells like. See [incense sticks](/blog/incense-sticks/).
 
 ### Q: What incense gift works for a smoke-free home?
-Aromatherapy beads (worn, no smoke) or an electric heater with resin. See [aromatherapy beads](/blog/aromatherapy-beads/).
+For a home where smoke is unwelcome, choose a zero-smoke or low-smoke format. Aromatherapy beads are worn and release scent from essential oil with no flame and no combustion, so they work in an office, a shared space, or any strictly smoke-free setting. An electric heater with a little resin is the other good option: it warms the material gently to release aroma without burning, producing no visible smoke. Both avoid the particulate matter that any burning incense creates, which is the practical reason they fit a smoke-free home. Match the gift to the recipient's setting rather than to your own taste. See [aromatherapy beads](/blog/aromatherapy-beads/).
 
 ### Q: Is an incense gift set a good idea?
-Only if it contains real material and includes the holder. A generic "gift set" of synthetic sticks is a weaker gift than a single real-material starter.
+Only if it contains real material and includes the holder. A generic "gift set" of synthetic fragrance sticks is usually a weaker present than a single real-material starter, because the recipient gets several artificial scents instead of one honest one. Check what is actually inside: a set that names real woods or resins — sandalwood, frankincense, agarwood — is worth more than one that only says "natural fragrance." Confirm the format and that the right holder is included, since a stick without a holder is an incomplete and unsafe gift. When in doubt, a curated sample set of a few genuine scents lets the recipient discover their own preference.
 
 ### Q: What incense should I avoid gifting?
-A bold, smoky scent (bakhoor or strong agarbatti) for a subtle taste, or any "sandalwood/agarwood" that is actually fragrance oil. Match the person and check the material.
+Avoid a bold, smoky scent for someone with a subtle taste — strong bakhoor or a heavy agarbatti can overwhelm a person who prefers gentle, low-smoke aromas, and a smoky stick in a small or sealed room concentrates quickly. Also avoid anything labeled "sandalwood" or "agarwood" that is actually fragrance oil, since passing off a synthetic as a precious wood is the classic gift mistake. Match the scent to the person, not to your own preference, and check the material behind the name. If you are unsure of their taste, choose a neutral real-material starter or a sample set instead of a strong single scent.
 
 ---
 
 ## Sources
 
 - The [scent guide](/blog/scent-guide/), [format guide](/blog/which-incense-format/), and [natural vs synthetic](/blog/natural-vs-synthetic-incense/) for the gift-selection framework.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — for a gift used in a small or smoke-free home, combustion is the practical variable to plan around.
+- [American Lung Association indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — why the no-smoke and low-smoke options matter in certain settings.
 
 ---
 

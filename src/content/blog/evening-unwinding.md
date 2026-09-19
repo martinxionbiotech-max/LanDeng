@@ -100,16 +100,16 @@ Most "sleep incense" content promises an effect it cannot deliver. This page pro
 ## FAQ
 
 ### Q: Is there incense that helps you sleep?
-LanDeng makes no sleep claims. A warm, low-key scent can be part of a wind-down routine, but incense is not a sleep aid.
+LanDeng makes no sleep claims. No incense can honestly promise to make you fall asleep, and "sleep incense" is a marketing phrase rather than a supported effect. What a warm, low-key scent can do is be part of a wind-down routine: the same familiar smell at the same hour, paired with quiet activity and dimmed lights, signals to you that the day is ending. That is a cue built by repetition, not a sedative effect from the scent. For safety, always extinguish the incense before bed and never leave it burning while you sleep. See [incense safety](/safety/) for the full precautions.
 
 ### Q: What is the best scent for evening unwinding?
-Sandalwood (warm, creamy) and lavender (soft, floral) are the classic choices. Avoid bright citrus. See the [scent guide](/blog/scent-guide/).
+Sandalwood and lavender are the classic choices. Sandalwood is warm, creamy, and sweet — a soft woody base that reads as calm. Lavender is soft, floral, and herbal — the familiar Western "unwind" note. A light wood blend built on cedar or sandalwood also works. The common thread is warm and low-key: avoid bright citrus and bold, sharp resins, which read as energizing and fight the wind-down you are after. The "best" scent is ultimately the warm one you enjoy and can use consistently, because the effect comes from repetition and association, not from the note itself. See the [scent guide](/blog/scent-guide/) for the full spectrum.
 
 ### Q: How long should I burn evening incense?
-Match it to your wind-down window — a thin coreless stick (~25–30 min) or a bamboo-core stick (~45–60 min). See [which incense format](/blog/which-incense-format/).
+Match it to your wind-down window. A thin coreless stick burns roughly 25–30 minutes, which suits a short, focused unwind before bed. A bamboo-core stick burns roughly 45–60 minutes, which suits a longer evening routine with reading or a slow activity. You can use the burn itself as the window: light the stick when you begin winding down and let it go out to mark the end. These are ranges, not exact numbers, since burn time varies by product. Whatever you choose, extinguish the incense before you sleep. See [which incense format](/blog/which-incense-format/) for the comparison.
 
 ### Q: Is burning incense in the evening safe?
-Yes, with care: burn in a ventilated space, away from flammable objects, and never leave it unattended. See [incense safety](/safety/).
+Yes, with care. Burn in a ventilated space — a cracked window or open door — because incense adds smoke and fine particles to the air. Use a stable holder on a heatproof surface, away from curtains, paper, and anything flammable, and out of reach of children and pets. Never leave burning incense unattended, and always extinguish it fully before you go to sleep. The routine should end with the burn, not continue into the night. These are the same precautions you would take with any open ember, and they are the whole of the safety story. See [incense safety](/safety/) for the full guidance.
 
 ---
 
@@ -117,6 +117,8 @@ Yes, with care: burn in a ventilated space, away from flammable objects, and nev
 
 - The [scent guide](/blog/scent-guide/) for the aroma spectrum.
 - The [meditation guide](/blog/incense-for-meditation/) for the timer/anchor/cue framing.
+- [American Lung Association — indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — background on combustion particles, which is why this page recommends a low-smoke format and ventilation.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — general guidance on indoor combustion sources and ventilation.
 
 ---
 

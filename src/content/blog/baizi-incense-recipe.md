@@ -76,16 +76,16 @@ The contrast — 花蕊夫人's opulent court blend on one side, a scholar's cyp
 ## FAQ
 
 ### Q: What is 柏子香?
-A humble incense made from roasted oriental-arborvitae seeds (侧柏), briefly scalded and soaked in wine and honey — the "everyman" incense of the tradition.
+柏子香 (bǎi zǐ xiāng, "cypress-seed incense") is the humble, deliberately simple incense of the Chinese tradition, made from the seeds of the oriental arborvitae (Platycladus orientalis, 侧柏). The classical recipe scalds the green, unopened seeds in boiling water, soaks them in wine, seals them with honey for about seven days, and then dries them in the shade before burning. It is the scholar's counterpoint to the court's expensive 沉檀麝 blends — a single, cheap material transformed by patience and process. Su Shi famously paired it with a simple meal: "铜炉烧柏子，石鼎煮山药" (a bronze burner of cypress seed, a stone pot of yam).
 
 ### Q: Is it a single-material incense?
-Yes — the seed is the whole scent, with honey and wine only softening it. Unlike complex 合香, it has no layered structure.
+Yes, essentially. The cypress seed is the whole scent, and the honey and wine are a processing treatment — a soak that softens and sweetens the roasted-seed character — rather than co-formulated scent materials. This makes it very different from a complex 合香 blend, which combines several ingredients in a structured 君臣佐使 arrangement with a chief, ministers, assistants, and guides. 柏子香 has no such layering; it is one humble material with a simple, honest preparation. That simplicity is precisely the point: the tradition's most un-fussy formula, with the source itself declining to specify a fixed quantity.
 
 ### Q: Why does it matter?
-It shows the tradition was not only about rare woods — a scholar could burn roasted seeds in a quiet study.
+It matters because it proves Chinese incense was a practice, not a luxury. The same tradition that produced 花蕊夫人's opulent agarwood-and-musk court blend also produced a scholar burning roasted tree seeds in a quiet study, and both are equally part of the record. 柏子香 is the reminder that incense did not require rare or expensive materials — only a common seed, wine, honey, and the patience to process them. For a modern reader it is the honest antidote to the "agarwood or nothing" framing that dominates much English-language incense content, showing the full social range of the tradition in a single recipe.
 
 ### Q: Can I make it?
-In principle yes — the method is simple (scald, soak in wine and honey, dry, burn) — but it is a loose roasted material, not a modern stick.
+In principle, yes — the method is straightforward: scald the green, unopened seeds in boiling water, soak them in wine, seal with honey for about seven days, and dry in the shade before burning. Two caveats apply. First, this is a loose roasted material, not a modern stick; you would burn the seeds on charcoal or an electric heater rather than light a pressed stick. Second, the source gives no fixed quantity ("however many" seeds), and regional versions vary in the wine-and-honey treatment, so treat the proportions as flexible by design. It is an easy, honest entry into the classical method for anyone with access to the seeds.
 
 ---
 
@@ -93,6 +93,8 @@ In principle yes — the method is simple (scald, soak in wine and honey, dry, b
 
 - 香乘 (Xiang Cheng), 周嘉胄 (Ming) — the 柏子香 formula. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
 - 苏轼 (Su Shi), 《十月十四日以病在告独酌》 — "铜炉烧柏子，石鼎煮山药."
+- [Compendium of Materia Medica (本草綱目) on ctext.org](https://ctext.org/wiki.pl?if=gb&res=8)
+- [Platycladus orientalis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005428)
 
 ## Related Resources
 

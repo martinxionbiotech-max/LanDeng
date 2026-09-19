@@ -83,21 +83,23 @@ A common misunderstanding is that natural, plant-based incense is somehow safe f
 ## FAQ
 
 ### Q: Is incense safe around cats?
-A: Cats are less sensitive than birds but can still be irritated by smoke. Ventilate, keep incense and ash out of reach, and let the cat leave the room. (This is general guidance, not veterinary advice.)
+A: Cats are less sensitive than birds, but smoke can still irritate their airways, and cats are also more sensitive to certain fragrance compounds than dogs. The practical rules: ventilate the room, keep sticks, cones, resin, and ash out of reach so the cat cannot chew or swallow them, and make sure the animal can leave the room if it wants to. Never leave a lit stick unattended around a curious cat that might bat at it. This is general guidance, not veterinary advice — if your cat shows respiratory signs, consult a veterinarian.
 
 ### Q: Can I burn incense in a room with a bird?
-A: No. Birds are highly sensitive to airborne smoke and particulates — this is the one scenario where incense should be avoided entirely.
+A: No. Birds are the one clear case where the advice is to avoid incense entirely. Their respiratory systems are highly sensitive to airborne smoke and fine particles, and their anatomy moves air through the body differently from mammals, which makes them unusually vulnerable to what would be a minor exposure for a person. Burning incense in a room with a caged bird is the single genuinely high-risk scenario on this page. If you keep birds, burn incense in a different, well-ventilated room, or skip it altogether.
 
 ### Q: Is natural incense safe for pets?
-A: Not in terms of smoke — natural plant material still burns to smoke and fine particles, which are the concern. Keep any incense away from pets, especially birds.
+A: Not in terms of smoke. Natural plant material still burns to smoke and fine particles, and that smoke — not the synthetic-versus-natural distinction — is what affects a pet's airways. A "natural" stick is a claim about ingredients, not about the air a pet breathes. The concern is the same for cats, dogs, and especially birds: combustion particles and VOCs. So keep any incense, natural or not, away from pets, avoid burning in a room with a bird, and ventilate. Treat "natural = pet-safe" as the most persistent myth on this subject.
 
 ### Q: What if my pet eats incense or resin?
-A: Keep it out of reach to prevent this. If a pet ingests a meaningful amount of resin or incense, contact a veterinarian.
+A: Prevent it by keeping everything out of reach — sticks, cones, charcoal, ash, and especially resin tears, which can look like something chewable. If a pet ingests a meaningful amount of resin or incense, contact a veterinarian or a poison-control service promptly and describe the product and the estimated amount. Do not wait for symptoms. Small incidental contact is usually not an emergency, but ingestion of resin or heavily fragranced material is worth a professional call. This page gives precautionary guidance only and does not substitute for veterinary advice.
 
 ---
 
 ## Sources
 
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — particulate matter from indoor combustion sources.
+- [American Lung Association indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — combustion particles and their effect on airways.
 - ASPCA Animal Poison Control Center (APCC) — essential-oil and smoke toxicity guidance for pets.
 - Veterinary toxicology references on essential oils and airborne irritants.
 - Precautionary guidance only; no veterinary or medical claims.

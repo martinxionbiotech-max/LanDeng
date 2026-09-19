@@ -106,22 +106,24 @@ Much "natural vs synthetic" content leans on scare language — "toxic chemicals
 ## FAQ
 
 ### Q: How do I tell if incense is natural?
-Read the ingredient list for actual plant names, watch the burn and after-smell, and treat a very low price as a signal of fragrance rather than material. There is no single home test.
+Read the ingredient list for actual plant names (for example, "*Santalum album* wood powder, makko binder") rather than vague "fragrance" or "parfum." Watch the burn and after-smell: material incense tends to evolve and fade naturally, while fragrance-oil sticks often smell uniform and "perfumy." Treat a very low price as a signal of fragrance rather than material. There is no single home test that proves "natural" — the three signals (ingredients, burn, price) work together.
 
 ### Q: Is "natural" incense safer than synthetic?
-LanDeng makes no such claim. Both produce smoke when burned, and both belong in a ventilated space. "Natural" describes the material, not a safety guarantee.
+LanDeng makes no such claim. "Natural" describes what the material is, not a safety guarantee: plant material and synthetic bases both produce smoke and fine particulate matter when burned, so both belong in a well-ventilated space. Ventilation, short sessions, and keeping burning incense away from children and pets apply regardless of whether the stick is natural or synthetic. Equating "natural" with "safe" is a common misunderstanding this page does not endorse.
 
 ### Q: What is makko?
-A plant-based binder (the powdered bark of *Machilus thunbergii*) used to hold natural incense together — a common sign of a material, rather than charcoal-base, stick. See [what makes incense natural](/blog/what-makes-incense-natural/).
+A plant-based binder and combustion aid made from the powdered bark of *Machilus thunbergii* (the tabu tree). It holds natural incense together and burns cleanly, which is why it is a common sign of a material-based stick rather than a charcoal or sawdust base soaked in fragrance. It is the reference natural binder in Japanese and Chinese incense. See [what makes incense natural](/blog/what-makes-incense-natural/).
 
 ### Q: Why is real sandalwood so expensive?
-*Santalum album* is slow-growing and hemiparasitic, its heartwood takes decades to develop aroma, and wild stands are depleted. Cheap "sandalwood" is almost always fragrance. See [sandalwood](/blog/sandalwood-incense/).
+*Santalum album* is slow-growing and hemiparasitic — it needs host plants to grow — and its heartwood takes decades to develop the aromatic oil. Wild stands have also been heavily depleted, which adds to scarcity. Real sandalwood powder is therefore priced per gram, far above the cost of a charcoal stick scented with synthetic "sandalwood" fragrance. A suspiciously cheap "sandalwood" stick is almost always fragrance. See [sandalwood](/blog/sandalwood-incense/).
 
 ---
 
 ## Sources
 
 - Trade and material references on natural vs fragrance-oil incense production and the absence of a binding "natural" definition.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq)
+- [American Lung Association indoor air](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants)
 - The [sandalwood](/blog/sandalwood-incense/) and [agarwood](/blog/agarwood-incense/) guides for material-specific adulteration detail.
 
 ---

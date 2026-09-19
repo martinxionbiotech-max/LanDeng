@@ -70,16 +70,16 @@ Here the lotus is real material, not an accord — but this is a **contemporary*
 ## FAQ
 
 ### Q: Is lotus a real incense material?
-Usually an accord in classical incense — the flower's scent is too delicate to burn. Some contemporary recipes use actual lotus petals.
+In classical incense, usually not — "lotus" was typically built as an accord, because the flower's own scent is too delicate to survive burning. The 香乘's 芙药衣香, for example, is a lotus-scented clothes incense made from clove, sandalwood, spikenard, and herbs, with no lotus at all. Some contemporary recipes do use actual lotus petals: 陈云君's *燕居香语* pairs fresh lotus with saffron, agarwood, and dendrobium. So the honest answer is "both, depending on the era" — classical formulas used the idea, while a few modern ones use the material.
 
 ### Q: What does lotus symbolize?
-Purity — 出淤泥而不染, "grows from mud yet is unstained."
+Purity, expressed in the classical phrase 出淤泥而不染 — "it grows from the mud yet is unstained." The lotus rises clean from muddy water, which made it a natural symbol for moral integrity and refinement in Chinese and Buddhist culture. In incense that symbolism often matters more than the flower itself: a "lotus" blend was valued for the idea of unstained purity it evoked, not for the flower's chemistry. That is why classical manuals could build a convincing lotus accord without any lotus — the symbol was the point, and the scent was constructed to match it.
 
 ### Q: What is 芙药衣香?
-A classical lotus-scented *clothes* incense built from clove, sandalwood, spikenard, and herbs — no lotus at all.
+A classical lotus-scented clothes incense recorded in the 香乘, built entirely from woods, herbs, and spices — one liǎng each of clove, sandalwood, and spikenard, half a liǎng each of tonka and peony bark, and a small amount of fennel, with a little musk and borneol — and no lotus at all. It is described as smelling "like a freshly opened lotus," which is the key insight: the tradition could produce a lotus impression by layering fresh, clean notes over a sandalwood base. As a clothes incense (衣香) it was used to perfume garments rather than a study burner.
 
 ### Q: Why does "lotus incense" rarely smell like the flower?
-Because the flower's scent does not survive combustion; the "lotus" impression is usually constructed from other materials.
+Because the flower's scent does not survive combustion. Lotus petals are too delicate — their fragrance is faint even fresh, and burning destroys what little it has. Classical makers understood this and built the lotus impression from sturdier materials that survive a burn: fresh, clean herbal and floral notes layered over a sandalwood or wood base. The result evokes lotus without containing it. This is the same logic modern perfumers use when they build a floral accord from ingredients that are not the flower, and it is why the page stresses checking the material, not the name.
 
 ---
 
@@ -87,6 +87,7 @@ Because the flower's scent does not survive combustion; the "lotus" impression i
 
 - 香乘 (Xiang Cheng), 周嘉胄 (Ming) — 芙药衣香. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
 - 燕居香语 (陈云君) — the contemporary lotus recipes (汉唐月; proportions unverified).
+- [Nelumbo nucifera in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200007079) — the botanical identity of lotus.
 
 ## Related Resources
 

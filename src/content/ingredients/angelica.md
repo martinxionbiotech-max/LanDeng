@@ -55,20 +55,25 @@ Incense combustion produces smoke and particulate matter; burn in a well-ventila
 
 ## FAQ
 
-**Is angelica the same as dong quai?** No — 白芷 (*Angelica dahurica*) and 当归 / dong quai (*Angelica sinensis*) are different species. 白芷 is the aromatic incense herb; 当归 is a different materia medica herb. The shared English word "angelica" hides the difference.
+**Is angelica the same as dong quai?** No. 白芷 (*Angelica dahurica*) and 当归, known as dong quai (*Angelica sinensis*), are different species in the same genus. 白芷 is the aromatic root used in incense and blended fragrance, with a warm, herbal, slightly sweet-bitter scent, while 当归 is a materia medica herb with a different profile and role. The shared English word "angelica" hides the difference, and a third plant, European angelica (*Angelica archangelica*), is used in European liqueurs and perfumery. In an incense context, 白芷 is the relevant one.
 
-**What part of angelica is used?** The dried root — *Angelica dahurica* root is ground or sliced for incense and traditional use.
+**What part of angelica is used?** The dried root of *Angelica dahurica* is the part used. The root is harvested, cleaned, dried, and then ground or sliced for use in incense and traditional practice. It is an aromatic root rather than a wood, resin, or flower, which gives it its earthy, herbal character. In Chinese 合香 (blended incense), the dried root is typically powdered and combined with other aromatics rather than burned as a whole piece.
 
 ---
 
 ## People Also Ask (Long-Tail)
 
-**What does angelica smell like?** Warm, herbal, and aromatic, with a slightly sweet-bitter edge — an earthy root note rather than a floral or woody one.
+**What does angelica smell like?** Angelica root has a warm, herbal, aromatic scent with a slightly sweet-bitter edge and a subtle spicy undertone. It reads as an earthy root note — dry and seasoning-like — rather than floral or woody. The aroma is closer to a culinary spice or dried herb than to a perfume flower, which is why it works as a supporting body note in blends. It contributes depth and warmth beneath woods and resins rather than leading with a bright or sweet top note.
 
-**Is angelica used alone in incense?** Rarely — it is usually a supporting ingredient in 合香 blends, adding herbal body beneath woods and resins rather than leading the scent.
+**Is angelica used alone in incense?** Rarely. Angelica is almost always a supporting ingredient in Chinese 合香 (blended incense), adding a warm, herbal body beneath woods, resins, and other aromatics rather than leading the scent. Its earthy, root-like aroma lacks the sweetness or brightness of a solo note, so it performs best in combination. It is one of several classical aromatic roots — alongside 菖蒲 (calamus) and 藿香 — that give traditional blends their layered, herbal character.
 
-**What is angelica root used for in incense?** It contributes a warm, herbal base note to Chinese blended incense and is one of the classical aromatic roots of the 合香 tradition.
+**What is angelica root used for in incense?** Angelica root contributes a warm, herbal base note to Chinese blended incense. In the 合香 tradition, it is one of the classical aromatic roots that add body and depth, supporting the woods and resins that anchor a formula. It also appears in traditional materia medica, where 白芷 is described for various uses, though those are treated as traditional rather than established clinical fact. In incense, its role is aromatic and cultural, not therapeutic.
 
 See also: [calamus](/ingredients/calamus/), [mugwort](/ingredients/mugwort/), and the full [scent guide](/blog/scent-guide/).
+
+## Sources
+
+- [Angelica in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015358)
+- [Angelica on GBIF](https://www.gbif.org/species/5537813)
 
 *Sources: botanical references on *Angelica dahurica* and the 白芷/当归 disambiguation. Medicinal uses are treated as traditional, not established clinical fact. This is editorial knowledge content, not medical advice.*

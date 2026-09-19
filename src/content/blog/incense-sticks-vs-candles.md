@@ -85,33 +85,34 @@ They are different products for different moments, not two ways of doing the sam
 ## FAQ
 
 ### Q: What burns in an incense stick vs a candle?
-A: An incense stick burns plant material and a binder; a candle burns wax carrying fragrance. That is the core material difference.
+A: Different fuels. An incense stick burns plant material — wood powder, resins, and botanicals held together with a binder — and the ember releases that material's aroma as smoke. A candle burns wax as a fuel, with fragrance oil mixed in, and the heat of the flame melts and vaporizes the wax so the scent is carried into the air. So the core material difference is plant matter versus wax, and the practical difference is an ember at the tip of a stick versus an open flame at a candle's wick. That difference drives everything else, from soot and smoke to fire risk.
 
 ### Q: Is incense safer than candles?
-A: Not in a simple sense — incense has an ember, a candle has an open flame. Both need a heatproof surface, clearance from flammables, and no unattended burning.
+A: Not in a simple sense — each carries a different risk. A candle has an open flame, which can ignite nearby material if it is knocked over or left too close to curtains or paper. An incense stick has an ember rather than a flame, but that ember is hot enough to scorch or ignite if the stick tips into flammable material. So neither is categorically safer. Both need the same basic care: a stable holder on a heatproof surface, clearance from anything flammable, and no unattended burning. Treat them as equal in the care they demand.
 
 ### Q: Do candles produce smoke?
-A: Yes — a burning candle produces soot and fine particles, even if less visible than incense smoke.
+A: Yes. A burning candle produces soot and fine particles even when the flame looks clean and you can't see much output. The smoke is usually less visible than incense smoke, which is why candles are often wrongly assumed to be smoke-free, but combustion always puts particles into the air. The amount depends on the wax, the wick, and how the candle burns — a flickering, smoking flame produces more soot. So a candle is not a "clean air" option; both a candle and a stick are combustion sources that should be used in a ventilated room.
 
 ### Q: Which lasts longer, a stick or a candle?
-A: A candle generally lasts hours; an incense stick typically burns about 30–60 minutes, depending on thickness.
+A: A candle, generally by a wide margin. A candle runs for hours — often tens of hours across many uses from a single jar or pillar — because it is a reservoir of wax that burns slowly. An incense stick is a single session: it typically burns about 30–60 minutes depending on thickness and then is gone. So a candle suits a long, ambient evening or repeated use, while a stick is a timed, one-sitting experience. Treat them as different durations, not as two versions of the same product.
 
 ---
 
 ## People Also Ask / 长尾问答
 
 ### Q: Which produces more particles, a stick or a candle?
-Both are combustion sources and both produce airborne particles — incense smoke and candle soot. Neither is particle-free, and neither is "clean air." See [ventilation & indoor air](/blog/incense-ventilation-indoor-air/).
+Both are combustion sources and both produce airborne particles — incense smoke and candle soot — so the honest answer is that neither is particle-free and neither is "clean air." Incense tends to produce more visible smoke, and some studies of indoor burning show incense releasing substantial fine particulate matter; candles produce soot and particles too, though often less visibly. The exact amount depends on the material, the burn, and the room. Either way, ventilation is the practical remedy. See [ventilation & indoor air](/blog/incense-ventilation-indoor-air/) for the detail.
 
 ### Q: Is a candle or incense better for a long evening?
-A candle runs for hours and adds light; a stick burns ~30–60 minutes. For a long, ambient evening with light, a candle; for a timed, material ritual, a stick.
+A candle, if you want one thing to carry the whole evening. A candle runs for hours and adds ambient light along with scent, so it suits a long, slow evening where you light it once and leave it. A stick burns for roughly 30–60 minutes, then is done, which suits a timed, material ritual — a single marked session rather than a background. You can of course burn a second stick, but then you are managing ash and relighting. For a long, ambient evening with light, choose the candle; for a short, deliberate, ritual moment, choose the stick.
 
 ### Q: Do I need different safety setups for each?
-The principles are the same — a heatproof, stable surface, clear of flammables, never unattended. A candle needs a holder that contains the flame; incense needs a holder that catches ash and holds the ember.
+The principles are the same, but the hardware differs. Both need a heatproof, stable surface, clearance from curtains and paper and anything flammable, and no unattended burning. A candle needs a holder that contains the flame and catches dripping wax — something that won't tip or overheat. Incense needs a holder that catches the falling ash and holds the ember safely above the surface, whether it is a stick holder, a bowl of ash or sand, or a proper burner. Match the holder to the format, keep the area clear, and never leave either burning unattended.
 
 ## Sources
 
-- EPA indoor air quality on combustion particulate matter (PM2.5) — basis of the smoke-comparison framing.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — combustion particulate matter (PM2.5) is the basis of the smoke-comparison framing.
+- [American Lung Association — indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — background on combustion particles from incense and candles.
 - NFPA fire-safety guidance (open flame).
 - Editorial synthesis of usage differences; no therapeutic claims.
 

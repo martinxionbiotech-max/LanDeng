@@ -55,20 +55,25 @@ Incense combustion produces smoke and particulate matter; burn in a well-ventila
 
 ## FAQ
 
-**Is pine resin the same as rosin?** Rosin (colophony) is refined pine resin — the solid left after the volatile turpentine fraction is removed. They are stages of the same oleoresin, not different materials.
+**Is pine resin the same as rosin?** Rosin (colophony) is refined pine resin — the solid left after the volatile turpentine fraction is removed. They are stages of the same oleoresin, not different materials. The raw resin is the sticky, semi-translucent gum as collected from the tree; when the volatile turpentine is distilled off, the solid amber residue left behind is what we call rosin or colophony, the familiar material used on violin bows and in varnishes.
 
-**Does pine resin smell like pine needles?** Related but not identical — pine resin is woody-balsamic and resinous, while "pine needle" scent is greener and more conifer-fresh. The resin is the base note; the needles give the brighter top.
+**Does pine resin smell like pine needles?** Related but not identical — pine resin is woody-balsamic and resinous, while "pine needle" scent is greener and more conifer-fresh. The resin is the base note; the needles give the brighter top. In a blend, pine resin adds a warm, woody-balsamic depth rather than the sharp, clean freshness of crushed needles, so the two are related but sit at different points of the pine scent.
 
 ---
 
 ## People Also Ask (Long-Tail)
 
-**What is pine resin used for in incense?** It adds a fresh, woody-balsamic, conifer note to blends, and is also used as a traditional binder/adhesive in some preparations. It is usually a supporting note, not a solo scent.
+**What is pine resin used for in incense?** It adds a fresh, woody-balsamic, conifer note to blends, and is also used as a traditional binder/adhesive in some preparations. It is usually a supporting note, not a solo scent. The resin reads clean and outdoorsy rather than heavy, which makes it a useful brightener alongside the deeper, sweeter resins. Beyond incense, rosin is a common industrial material used in varnish and on violin bows.
 
-**Is pine resin the same as frankincense?** No. Pine resin comes from *Pinus* trees (Pinaceae) and is piney and woody-balsamic; frankincense comes from *Boswellia* trees (Burseraceae) and is citrus-resinous. Different plants, different resins.
+**Is pine resin the same as frankincense?** No. Pine resin comes from *Pinus* trees (Pinaceae) and is piney and woody-balsamic; frankincense comes from *Boswellia* trees (Burseraceae) and is citrus-resinous. Different plants, different resins. Pine resin reads fresh, green, and conifer-like, while frankincense reads bright, citrus, and creamy, so they are easily told apart and used for different effects in incense. In a blend, pine resin adds an outdoorsy conifer edge, whereas frankincense lends a warmer, citrus-resinous brightness.
 
-**How do you burn pine resin?** Like other resins — on a lit charcoal disc (in sand or ash on a heatproof surface) or more gently on an electric incense heater. Use small pieces; it melts and releases fragrant smoke.
+**How do you burn pine resin?** Like other resins — on a lit charcoal disc (in sand or ash on a heatproof surface) or more gently on an electric incense heater. Use small pieces; it melts and releases fragrant smoke. The charcoal method is hotter and produces more smoke, while the electric heater is slower, lower in smoke, and often preferred indoors. Keep it in a ventilated space and store unused resin away from flame, since it is flammable.
 
 See also: [cedar](/ingredients/cedar/), [borneol](/ingredients/borneol/), and the full [scent guide](/blog/scent-guide/).
+
+## Sources
+
+- [Pinus in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005343)
+- [Pinus on GBIF](https://www.gbif.org/species/5285215)
 
 *Sources: botanical references on *Pinus* oleoresin and the rosin/colophony refinement. This is editorial knowledge content, not medical advice.*

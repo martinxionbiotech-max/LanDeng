@@ -66,26 +66,31 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 ## FAQ
 
-**Is benzoin a wood?** No — it is a resin collected from *Styrax* tree bark.
+**Is benzoin a wood?** No — benzoin is not the wood of the *Styrax* tree. It is a balsamic resin collected from the tree's bark. The resin is produced by making incisions in the bark; the tree exudes a sticky substance that hardens into "tears" or blocks, which are then scraped off and sold. Benzoin is classed as a balsamic resin because it contains benzoic acid (and cinnamic acid in the Sumatra type) in addition to the resin itself, which gives it its vanilla-sweet character and fixative power.
 
-**Is "benzoin" the same as the chemical?** No — the resin's main component is benzoic acid, distinct from the chemical compound "benzoin."
+**Is "benzoin" the same as the chemical?** No. The word "benzoin" names two different things that are easily confused. The incense and perfume ingredient is a balsamic resin from *Styrax* trees, whose main active component is benzoic acid (with cinnamic acid in the Sumatra type). Separately, "benzoin" is also the name of an organic chemical compound used in laboratories. A perfume note listing "benzoin" means the resin; a laboratory catalog listing "benzoin" means the compound. They share a name but are different materials.
 
-**What is benzoin used for in incense?** Mainly as a sweet base and a fixative — it rounds out blends and helps lighter notes persist.
+**What is benzoin used for in incense?** Benzoin is used mainly as a sweet base and a fixative in incense. Its warm, vanilla-like, balsamic scent rounds out a blend, softening sharper notes, while its fixative properties help lighter, more volatile aromas persist longer. It is a staple of church incense, where it is often blended with frankincense and myrrh, and it appears in Chinese 合香 as a sweet base, in Japanese and Indian incense as a sweetener, and in the Arabic bakhoor tradition.
 
 ---
 
 ## People Also Ask (Long-Tail)
 
-**What does benzoin smell like?** Sweet, warm, and vanilla-like with a balsamic depth — a soft, comforting note that also helps other aromas last (a fixative).
+**What does benzoin smell like?** Benzoin has a sweet, warm, vanilla-like scent with a balsamic depth and a slightly powdery, woody undertone. It sits at the soft, comforting end of the resin family — never sharp or astringent — which is why it is usually a base or supporting note rather than the star of a blend. The character differs by origin: Siam benzoin reads as the classic smooth vanilla note, while Sumatra benzoin is a touch spicier and more resinous.
 
-**What is benzoin used for in incense?** Mainly as a sweet base and a fixative: it rounds out blends and helps lighter notes persist. It appears in church incense, Chinese incense (安息香), and the Arabic bakhoor tradition.
+**What is benzoin used for in incense?** Benzoin serves two roles in incense: a sweet base note and a fixative. Its vanilla-balsamic sweetness rounds out and softens a blend, while its fixative quality helps the lighter notes persist longer on the skin or in the air. It appears across traditions — in church incense (with frankincense and myrrh), in Chinese 合香 as 安息香, in Japanese and Indian incense as a sweetener, and in the Arabic bakhoor tradition where prepared wood chips are fragranced. It is almost always blended rather than burned alone.
 
-**Is Siam benzoin different from Sumatra benzoin?** Yes. Siam benzoin (*Styrax tonkinensis*) is sweet, vanilla, and balsamic; Sumatra benzoin (*S. benzoin*) is sweeter-spicier and contains cinnamic acid in addition to benzoic acid. They are related but distinct resins.
+**Is Siam benzoin different from Sumatra benzoin?** Yes. Siam benzoin (*Styrax tonkinensis*) is the classic, reference vanilla-balsamic resin: sweet, smooth, and powdery, used widely in fragrance and flavoring. Sumatra benzoin (*Styrax benzoin* or *S. paralleloneurus*) is a touch spicier and more resinous, and it contains cinnamic acid in addition to benzoic acid. The difference matters mainly to perfumers and buyers who want a specific profile — Siam for the classic vanilla note, Sumatra for the spicier edge. For general incense use either works; the label should say which you are getting.
 
-**Is benzoin a wood?** No — it is a balsamic resin collected from *Styrax* tree bark, not the wood itself.
+**Is benzoin a wood?** No — benzoin is a balsamic resin, not wood. It is collected from the bark of *Styrax* trees, which are tapped by cutting incisions; the tree exudes a resin that hardens into tears or blocks over time, and these are scraped off. The resin is classed as "balsamic" because it contains benzoic and cinnamic acids alongside the resin itself, which accounts for its vanilla-sweet aroma and fixative power. The wood of the tree is not the aromatic part — the resin is.
 
-**How do you burn benzoin resin?** Like other resins: on a lit charcoal disc (in sand or ash on a heatproof surface), or more gently on an electric incense heater. It is usually blended rather than burned alone.
+**How do you burn benzoin resin?** Benzoin is burned like other resins, either on a lit charcoal disc or, more gently, on an electric incense heater. For the charcoal method, place the disc on a heatproof surface in sand or ash, light it, and add a small amount of resin once it glows. An electric heater avoids charcoal smoke and lets the resin warm slowly, releasing its vanilla-sweet aroma more cleanly. Benzoin is usually blended with frankincense or myrrh rather than burned alone, and only a small amount is needed.
 
 See also: [frankincense](/ingredients/frankincense/) and [myrrh](/ingredients/myrrh/), its resin relatives, plus the full [scent guide](/blog/scent-guide/).
+
+## Sources
+
+- [Styrax in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017762)
+- [Styrax on GBIF](https://www.gbif.org/species/5371676)
 
 *Sources: botanical references on *Styrax* and benzoin resin (Siam vs Sumatra distinction, benzoic/cinnamic acid). This is editorial knowledge content, not medical advice.*

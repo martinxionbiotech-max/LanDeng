@@ -92,16 +92,16 @@ Most coil content is either a product listing or mosquito-coil content. This pag
 ## FAQ
 
 ### Q: How long does an incense coil burn?
-Typically hours — a small coil a couple of hours, a large one most of a day. Check the product's stated time. See [which incense format](/blog/which-incense-format/).
+Typically hours, which is the coil's whole point. A small, thin coil might burn for a couple of hours, while a large, thick coil can smolder for much of a day. Burn time scales with the coil's diameter and thickness, and it varies a lot between makers, so check the stated time on the product rather than guessing. This long, continuous burn is what makes coils the go-to format for temples, long ceremonies, and steady all-day room scent. See [which incense format](/blog/which-incense-format/).
 
 ### Q: How do I burn an incense coil?
-Hang it on a coil stand or set it on a heatproof plate over ash/sand, light the outer tip, and let it smolder inward. See [incense holder & burner guide](/blog/incense-holder-burner-guide/).
+Either suspend the coil on a dedicated coil stand — a wire or peg through its center — or lay it flat on a heatproof plate with a layer of ash or sand beneath it. Light the outer tip so the coil smolders inward in a steady, continuous burn. Because a coil burns for hours, placement matters more than with a stick: keep it clear of drafts and anything flammable, and ventilate the room. See [incense holder & burner guide](/blog/incense-holder-burner-guide/).
 
 ### Q: Are coils the same as mosquito coils?
-The form is the same spiral, but incense coils are made of aromatic material for scent; mosquito coils are a different, insecticide product. Do not confuse the two.
+No — they share the same spiral shape but are completely different products. An incense coil is made of aromatic material — woods, resins, and botanicals — and its job is to release fragrance over hours. A mosquito coil is treated with an insecticide to repel insects, and it is not meant to be used as a room fragrance. Never burn a mosquito coil as incense and never use an incense coil to try to repel pests. Always check the label to confirm which one you are lighting.
 
 ### Q: Is a coil better than a stick for scenting a room?
-For long, steady scent (hours), yes — a coil burns continuously; a stick is ~20–60 min. See [incense sticks](/blog/incense-sticks/).
+For long, steady scenting, yes. A coil burns continuously for hours without needing to be relit, which makes it ideal for scenting a room all afternoon or during a long ceremony. A stick, by contrast, burns for about 20 to 60 minutes, so it suits a single timed session rather than continuous coverage. If you want a short, controlled scent, a stick is easier; if you want hours of background fragrance, the coil is the better tool. See [incense sticks](/blog/incense-sticks/).
 
 ---
 
@@ -109,6 +109,8 @@ For long, steady scent (hours), yes — a coil burns continuously; a stick is ~2
 
 - Structural description of the coil form and typical burn-time ranges.
 - The [format guide](/blog/which-incense-format/) for cross-format comparison.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — background on smoke from burning incense.
+- [American Lung Association indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — on particulate matter and indoor burning.
 
 ---
 

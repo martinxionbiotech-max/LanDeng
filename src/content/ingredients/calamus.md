@@ -56,20 +56,25 @@ Like all burning plant material, calamus smoke contains particulate matter — b
 
 ## FAQ
 
-**Is calamus safe?** For **ingestion**, calamus is restricted in several jurisdictions because its oil can contain β-asarone (carcinogenic in rodent studies). For incense, the relevant caution is the same as any burning material — ventilate. We make no claim that calamus incense is safe or unsafe beyond this.
+**Is calamus safe?** The answer depends on how it is used. For ingestion, calamus is restricted in several jurisdictions because its essential oil can contain β-asarone, which is carcinogenic in rodent studies — the US FDA banned calamus in food in 1968, and the European Commission set limits on β-asarone. For incense, the relevant caution is the same as for any burning plant material: the smoke contains particulate matter, so burn in a well-ventilated space and avoid inhaling concentrated smoke. We make no claim that calamus incense is safe or unsafe beyond this.
 
-**What is the difference between calamus and sweet flag?** They are the same plant — *Acorus calamus* is commonly called "sweet flag" in English. The rhizome is the aromatic part.
+**What is the difference between calamus and sweet flag?** There is no difference — they are the same plant. *Acorus calamus* is commonly called "sweet flag" in English, and calamus (菖蒲, chāngpú) is the Chinese name. The aromatic part is the rhizome, the underground stem, which has a warm, spicy, slightly sweet, earthy scent. The name varies by language and tradition, but the plant is the same, and the rhizome is the part used in incense and traditional practice.
 
 ---
 
 ## People Also Ask (Long-Tail)
 
-**What does calamus smell like?** Warm, spicy, and slightly sweet with an earthy, rooty character — a herbal note closer to a spice than a flower.
+**What does calamus smell like?** Calamus has a warm, spicy, slightly sweet, earthy aroma with a subtle bittersweet undertone. It is a "rooty" herbal note, closer to a spice than to a flower, and it usually acts as a supporting character in blends rather than a solo scent. The rhizome's dry, earthy warmth adds body to Chinese 合香 formulas, complementing other aromatic roots and herbs. Because the scent is not sweet or floral, calamus reads as a grounding, herbal element rather than a bright top note.
 
-**Is calamus the same as orris root?** No — calamus is *Acorus calamus* (Acoraceae), while orris root is the iris rhizome (*Iris* spp., Iridaceae). They are unrelated plants with different aromas.
+**Is calamus the same as orris root?** No. Calamus is the rhizome of *Acorus calamus*, in the family Acoraceae, while orris root is the rhizome of the iris (*Iris* species, family Iridaceae). They are unrelated plants with different aromas and uses. Orris root has a sweet, powdery, violet-like scent prized in perfumery, whereas calamus is spicy, earthy, and herbal. The two are sometimes confused because both are aromatic rhizomes, but botanically and olfactorily they are distinct.
 
-**Why is calamus restricted in food?** Because its essential oil can contain β-asarone, which is carcinogenic in rodent studies. This is a food/ingestion restriction, distinct from the general smoke caution for incense.
+**Why is calamus restricted in food?** Calamus is restricted in food because its essential oil can contain β-asarone, a compound that is carcinogenic in rodent studies. The US FDA banned calamus in food in 1968, and the European Commission established strict limits on β-asarone in foods and beverages. The level of β-asarone varies by variety: diploid *Acorus calamus* is reported to contain little or none, while other varieties, notably tetraploid, are high in it. This restriction concerns ingestion and internal use, not the smoke exposure that applies to all incense.
 
 See also: [angelica](/ingredients/angelica/), [mugwort](/ingredients/mugwort/), and the full [scent guide](/blog/scent-guide/).
+
+## Sources
+
+- [Acorus in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200027130)
+- [Acorus calamus on GBIF](https://www.gbif.org/species/2873769)
 
 *Sources: botanical and toxicological references on *Acorus calamus* and β-asarone (FDA 1968 ban; European Commission limits; diploid-vs-tetraploid variety distinction). Medicinal uses are treated as traditional, not established clinical fact. This is editorial knowledge content, not medical advice.*

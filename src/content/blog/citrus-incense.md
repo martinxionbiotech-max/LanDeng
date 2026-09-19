@@ -125,19 +125,19 @@ LanDeng takes a different position: citrus is a **bright, fresh, energizing arom
 ## FAQ
 
 ### Q: What does citrus incense smell like?
-Bright, zesty, and fresh — orange/mandarin, bergamot, yuzu, or lemon. It reads as an energizing, focusing note.
+Bright, zesty, and fresh — the citrus family covers sweet orange and mandarin, aromatic bergamot, sharp yuzu, and tart lemon or lime. Warm, sweet mandarin peel and its aged form 陈皮 add a slightly earthy depth, while lemon and lime read as clean and crisp. The shared character is a clean, lifting brightness rather than a heavy or sweet base. Because the note is light and volatile, citrus in incense usually opens the scent and then gives way to a wood or resin.
 
 ### Q: What is 陈皮 (chénpí)?
-Dried, aged mandarin (*Citrus reticulata*) peel — a classic Chinese material with a warm, sweet, slightly earthy citrus note. See the [orange peel reference](/ingredients/orange-peel/).
+Dried, aged peel of the mandarin orange (*Citrus reticulata*). Fresh peel is bright and zesty; over years of aging it darkens, deepens, and develops a warmer, sweeter, slightly earthy and herbal aroma. The most prized 陈皮 traditionally comes from the Xinhui (新会) region of Guangdong. In the Chinese material tradition it is both a fragrance and a culinary item, giving citrus a genuinely Chinese identity beyond Western florals. See the [orange peel reference](/ingredients/orange-peel/).
 
 ### Q: Why does citrus incense fade so fast?
-Citrus oils are highly volatile, so the note evaporates quickly. That is why citrus is used as a top note in a blend, over a wood or resin base.
+Citrus essential oils are made of light, highly volatile molecules — chiefly limonene and related terpenes — that evaporate quickly once heated or burned. That is why a pure citrus note is bright but brief: it opens strongly and then fades. To keep the scent going, makers layer the citrus top over a slower-burning wood or resin base such as sandalwood or frankincense. The base carries the burn, so the blend reads as bright lift over warm wood.
 
 ### Q: Is citrus incense energizing?
-It is a bright, fresh scent that many people associate with focus and energy — an aromatic character, not a physiological effect.
+It is a bright, fresh, zesty scent that many people associate with focus, alertness, and energy. That is a description of its aromatic character, not a physiological effect: LanDeng makes no claim that citrus incense improves concentration or mood in any clinical sense. In fragrance terms, citrus is classified as a top note that opens a blend and reads as clean and lifting. The "energizing" language refers to how the scent is commonly perceived, not to a measurable health benefit.
 
 ### Q: Is citrus a traditional Chinese incense ingredient?
-Via 陈皮 (aged mandarin peel), yes. But in modern incense, "citrus" more often means a bright blend note.
+Via 陈皮 (aged mandarin peel), yes — citrus has a real place in the Chinese material tradition, distinct from Western-origin florals like lavender. The dried, aged peel of *Citrus reticulata* has been used for centuries and is prized in its own right. In modern incense, however, "citrus" more often means a bright blend note built from orange, bergamot, yuzu, or lemon oil, layered over a wood or resin base.
 
 ---
 
@@ -145,6 +145,8 @@ Via 陈皮 (aged mandarin peel), yes. But in modern incense, "citrus" more often
 
 - Botanical references for *Citrus reticulata* and 陈皮.
 - Chemistry references noting citrus essential oils are limonene/terpene-dominant (high volatility).
+- [*Citrus reticulata* in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012434)
+- [*Citrus reticulata* on GBIF](https://www.gbif.org/species/3190172)
 - The [orange peel / 陈皮 ingredient reference](/ingredients/orange-peel/).
 
 ---

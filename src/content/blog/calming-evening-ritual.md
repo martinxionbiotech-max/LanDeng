@@ -83,34 +83,36 @@ The magic is the **repetition**, not the smoke.
 ## FAQ
 
 ### Q: Does incense help you sleep?
-A: This site makes no sleep claims. A consistent evening routine with a familiar scent can help signal the transition to rest — but incense is not a sleep aid, and it should never be left burning while you sleep.
+A: This site makes no sleep claims. Incense is not a sleep aid, and no fragrance product can honestly promise to make you fall asleep. What a consistent evening routine with a familiar scent can do is help signal the transition to rest — the same soft smell at the same hour tells your body and mind that the day is ending. That is a cue built by repetition, not a sedative effect from the scent itself. For safety, always extinguish the incense before you go to bed, and never leave it burning unattended or while you sleep. See the [safety guide](/blog/incense-safety-guide/) for the full set of precautions.
 
 ### Q: What scent is best for an evening ritual?
-A: A soft, familiar scent you like — sandalwood, lavender, or a soft floral are common choices by association. The key is consistency.
+A: A soft, familiar scent that you genuinely like. Sandalwood, lavender, and soft florals are common choices because they read as warm and low-key, but the "right" scent is the one you can use night after night without tiring of it. The mechanism is association, not pharmacology: the scent becomes a wind-down cue because you pair it repeatedly with the same quiet sequence. So consistency matters more than the specific note — a familiar smell you find pleasant will do more than an exotic one you use once. Pick one, keep it, and reserve it for the evening.
 
 ### Q: Is it safe to burn incense in the evening?
-A: Yes, with basic care — a proper holder, ventilation, and always extinguish before sleep. See the [safety guide](/blog/incense-safety-guide/).
+A: Yes, with basic care. Use a proper, stable holder on a heatproof surface, away from curtains, paper, and anything flammable, and out of reach of children and pets. Keep the room ventilated — burning incense adds smoke and fine particles to the air, so a cracked window or open door keeps it from building up. Always extinguish the stick fully before you go to sleep, and never leave burning incense unattended. The routine should end with the burn, not continue into the night. See the [safety guide](/blog/incense-safety-guide/) for the full set of precautions.
 
 ### Q: How do I build the habit?
-A: Repeat the same sequence (same scent, same time, same quiet activity) nightly; the association builds over time.
+A: Repeat the same small sequence every night, and keep it simple enough that you actually do it. Pick one scent, one rough time, and one quiet activity — reading, journaling, tidying, or a few slow breaths — and do them in the same order. Light the incense at the start of the wind-down and extinguish it when the sequence ends. The association builds through repetition, not through intensity or willpower, so it is fine to start with just a few minutes. Consistency beats novelty: changing the scent or the hour every night breaks the cue you are trying to form.
 
 ---
 
 ## People Also Ask / 长尾问答
 
 ### Q: What time should I burn evening incense?
-Match it to your wind-down window — typically the last 20–60 minutes before you begin settling for the night. The point is consistency of timing, not a specific clock hour. Extinguish before sleep.
+Match it to your wind-down window rather than a fixed clock hour. For most people that is the last 20–60 minutes before they begin settling for the night — long enough for a short stick or a quiet activity, short enough that you are still awake to enjoy it and to extinguish it. The point is consistency of timing, not the exact minute: burning at roughly the same point each evening is what builds the cue. A stick's burn can also serve as the window itself — when it goes out, the routine ends. Always extinguish the incense before you go to sleep.
 
 ### Q: Can I use a backflow cone for a wind-down?
-You can, but a backflow cone produces more visible smoke and is chosen for its visual, not a calm scent. A thin, low-smoke stick or a gentle electric heater is usually a better fit for an evening ritual.
+You can, but it is usually not the best fit. A backflow cone is designed to produce a thick, visible stream of smoke that cascades downward — it is a visual centerpiece, not a gentle scent. For an evening wind-down you generally want the opposite: a soft, low-smoke presence that sits quietly in the background. A thin coreless stick or a gentle electric heater with a small amount of resin gives you that calmer, lower-smoke effect. If you enjoy the backflow visual, treat it as a short, watched moment earlier in the evening rather than the main wind-down scent, and keep the room ventilated.
 
 ### Q: What if I find sandalwood or lavender too strong?
-Try a very light wood blend or a soft floral, or use an electric heater with a tiny amount of resin for a gentler, lower-smoke presence. The key is a scent you find quietly pleasant, whatever it is.
+Try a lighter option and a gentler method. A very light wood blend, a soft floral, or a faint cedar note may sit better than a full sandalwood or lavender stick. You can also switch to an electric heater with a tiny amount of resin, which produces a much lower-smoke, more diffuse presence than a burning stick. The key is a scent you find quietly pleasant, whatever it is — the ritual works by association, so any familiar, agreeable smell will do. If everything feels too strong, ventilate more and shorten the burn rather than forcing a scent you dislike.
 
 ## Sources
 
 - Editorial synthesis of established incense usage practice; scent descriptors are qualitative, not physiological-effect claims.
 - Historical/cultural references drawn from docs/research/chinese-incense-pillar-notes.md (R-003).
+- [American Lung Association — indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — background on combustion particles, which is why this page stresses ventilation and extinguishing before sleep.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — general guidance on indoor combustion sources and ventilation.
 
 ## Related Resources
 

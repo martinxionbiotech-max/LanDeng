@@ -86,16 +86,16 @@ The ratio shows the court blend's structure: the two agarwood grades together fo
 ## FAQ
 
 ### Q: What is 花蕊夫人衙香?
-A rich court compound incense attributed to Lady Huarui, built on agarwood, sandalwood, and musk with frankincense and borneol.
+A rich court compound incense (合香) attributed to Lady Huarui, built on the classic agarwood–sandalwood–musk core with frankincense, borneol, and operculum (甲香) for depth. It is the most famous named example of the 衙香 category, and its proportions — six liǎng of the two agarwood grades combined against one-liǎng support materials — mark it as an opulent status blend rather than a leaner scholar incense. The attribution to Lady Huarui is traditional and widely repeated, not a signed historical document, so the page treats the identity as a label rather than verified authorship.
 
 ### Q: What is 衙香?
-A category of court/office incense — the 陈氏香谱 lists fifteen recipes, all built on the agarwood–sandalwood–musk core.
+衙香 (yamen incense) is a category of court and official-office compound incense, not a single fixed scent. The name comes from the yamen, or government office, where such incense was burned. The 陈氏香谱 alone lists fifteen distinct 衙香 recipes, all sharing the same agarwood–sandalwood–musk core. The common thread is expense: these were courtly blends made from costly materials, the opposite of a humble seed-based incense like 柏子香. So the label tells you about the blend's social register and material profile, not one specific fragrance.
 
 ### Q: What is 甲香?
-Operculum, a shellfish-derived traditional fixative — rarely used today; modern reproductions usually substitute or omit it.
+甲香 is operculum — the hard, shell-like disc that seals the opening of certain sea snails. In classical incense it was used as a fixative to bind and stabilize a blend's scent, and the 香乘 versions of this recipe call for it to be treated (法制) before use. It is rarely used in modern reproduction: the material is uncommon and often replaced or omitted, and its animal origin makes it unsuitable for vegetarian or cruelty-conscious makers. When it appears in old formulas, read it as a functional fixative from the shellfish tradition, not a fragrance note in its own right.
 
 ### Q: Who was 花蕊夫人?
-The famous consort of Meng Chang of the Later Shu, celebrated as a poet and beauty; the incense attribution is traditional.
+花蕊夫人 (Lady Huarui) was the celebrated consort of 孟昶 (Meng Chang), ruler of the Later Shu kingdom in the tenth century. She is remembered as a poet and a beauty, and several poems are attributed to her — most famously lines lamenting the fall of the kingdom. The incense recipe that carries her name is part of that romantic legend: a courtly, luxurious blend named for a glamorous figure of the period. The attribution is traditional rather than verifiable, so the page presents her as the legendary namesake of the recipe, not its documented author.
 
 ---
 
@@ -103,6 +103,7 @@ The famous consort of Meng Chang of the Later Shu, celebrated as a poet and beau
 
 - 香乘 (Xiang Cheng), 周嘉胄 (Ming) — the 花蕊夫人衙香 formula. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
 - 陈氏香谱 — the 衙香 category (fifteen recipes).
+- 本草綱目 — the materia medica documenting the formula's materials (agarwood, sandalwood, frankincense, borneol, musk). [Full text on ctext.org](https://ctext.org/wiki.pl?if=gb&res=8).
 
 ## Related Resources
 

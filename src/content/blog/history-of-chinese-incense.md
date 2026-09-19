@@ -105,35 +105,35 @@ From roughly the 2000s, classical Chinese incense has revived: specialist studio
 ## FAQ
 
 ### Q: How old is Chinese incense culture?
-Conservatively about 3,000 years, from the Shang-dynasty 香 on oracle bones to the present. The aesthetic tradition is clear from the Han dynasty.
+Conservatively about 3,000 years, measured from the appearance of the character 香 on Shang-dynasty (c. 1600–1046 BCE) oracle bones to the present day. In that earliest phase incense was primarily ritual and sacrificial — fragrant plants burned as offerings. The aesthetic tradition is clearly visible from the Han dynasty, when the Boshan censer signaled a shift from pure ritual toward refined enjoyment. LanDeng states the ~3,000-year span deliberately rather than the common inflated "5,000 years."
 
 ### Q: When was the golden age of Chinese incense?
-The Song dynasty (960–1279) — the era of the Four Leisure Arts, indirect-fire incense, and the great incense manuals.
+The Song dynasty (960–1279) is the cultural peak. Three things crystallized there: the Four Leisure Arts (四般闲事), which placed incense alongside tea, painting, and flowers; the low-smoke indirect-fire technique (隔火焚香), ancestor of Japanese kōdō; and the great incense manuals (香谱), which codified formulas and lore. The Song also developed seal incense (篆香). Earlier Tang was a first golden age, but the Song is where the refined aesthetic reached its height.
 
 ### Q: Did Chinese incense become Japanese incense?
-Japan's kōdō descended from Song-dynasty Chinese 隔火焚香 technique. Chinese culture is the source; Japan systematized the form.
+They share a root but are not the same. Japanese kōdō descended from the Song-dynasty Chinese indirect-fire technique (隔火焚香), transmitted along with tea and Buddhism. Chinese culture is the source; Japan systematized, formalized, and preserved the practice as a standalone ritual art with codified games and vocabulary. Chinese incense, by contrast, remained one of four informal leisure arts. The honest framing is shared origin, divergent development.
 
 ### Q: Why did Chinese incense decline?
-Sumptuary laws, Western perfume, and 20th-century cultural upheaval (notably the Cultural Revolution) reduced the practice to temples and studios; it revived from the 2000s.
+Several forces contracted the tradition. Sumptuary restrictions and the rise of Western perfume reduced demand through the Qing; then 20th-century cultural upheaval — most notably the Cultural Revolution's targeting of "four olds" (old customs) — pushed classical incense practice to near-extinction. For much of the 20th century it survived mainly in temples and specialist studios. From roughly the 2000s it has revived through studios, museums, collectors, and new brands.
 
 ---
 
 ## People Also Ask / 长尾问答
 
 ### Q: What is a Boshan censer (博山炉)?
-A Han-dynasty (206 BCE–220 CE) mountain-shaped incense burner. Its appearance marks the moment incense shifted from pure ritual offering into aesthetic and courtly enjoyment — the first clear sign of incense as a refined pastime rather than only a sacrifice.
+A mountain-shaped incense burner from the Han dynasty (206 BCE–220 CE), named after the mythical Mount Bo. Its appearance marks a turning point: incense began to move from pure ritual offering into aesthetic and courtly enjoyment. The Boshan censer is often taken as the first clear sign of incense as a refined pastime rather than only a sacrifice — the material evidence that burning fragrant material had become an art as well as a rite.
 
 ### Q: What is seal incense (篆香)?
-A Song-dynasty practice where incense powder is pressed into a patterned stamp and burned along a timed path. It doubled as a visual art and a timekeeping device — the incense trail burned at a predictable rate.
+A Song-dynasty practice in which incense powder is pressed into a patterned stamp and then lit, so the trail burns along a fixed, predictable path. It doubled as both a visual art and a timekeeping device: the powder burned at a known rate, so the trail's progress marked the passage of time. Seal incense is one of the refined "low-smoke, high-craft" forms the Song developed, distinct from sticks and coils.
 
 ### Q: What is the Xuande censer (宣德炉)?
-A celebrated bronze censer from the Ming dynasty's Xuande period (1426–1435). Xuande-period censers are among the most famous incense vessels in Chinese material culture and a high point for the craft.
+A celebrated bronze censer from the Ming dynasty's Xuande period (1426–1435). Xuande-period censers are among the most famous incense vessels in Chinese material culture, prized for their metalwork and their association with the imperial court. They represent the Ming as a high point for incense vessels — the same era that perfected the everyday stick (线香) — and they remain a reference point for collectors of classical Chinese incense objects.
 
 ### Q: When did Chinese incense reach Japan?
-Incense arrived in Japan in the 6th century CE with the spread of Buddhism, carrying both the materials (agarwood, sandalwood) and the ritual of burning them. The refined Song-dynasty 隔火焚香 technique followed and became the basis of Japanese kōdō. See [Japanese incense & kōdō](/blog/japanese-incense-kodo/).
+Incense arrived in Japan in the 6th century CE with the spread of Buddhism, carrying both the materials (agarwood, sandalwood) and the ritual of burning them as offerings. The refined Song-dynasty indirect-fire technique (隔火焚香) followed later and became the basis of Japanese kōdō, which formalized the practice. So the flow was not one event but a series: materials first, then the refined technique. See [Japanese incense & kōdō](/blog/japanese-incense-kodo/).
 
 ### Q: What are the 香谱 (xiāng pǔ) incense manuals?
-The body of classical incense literature — 陈氏香谱 (Chen's Manual), 洪芻香谱, and the encyclopedic 香乘 by Zhou Jiazhou — which codified formulas and lore. They are the world's most complete ancient incense literature and remain largely untranslated.
+The body of classical Chinese incense literature — works such as 陈氏香谱 (Chen's Incense Manual), 洪芻香谱, and the encyclopedic 香乘 compiled by Zhou Jiazhou — which recorded formulas, materials, and lore. They are widely considered the world's most complete ancient incense literature and remain largely untranslated into English. This untranslated status is itself part of why the English-language web often gets Chinese incense history wrong, a gap LanDeng works against.
 
 ## Sources
 
@@ -141,6 +141,9 @@ The body of classical incense literature — 陈氏香谱 (Chen's Manual), 洪�
 - 光明日报 (Guangming Daily) — Song 香文化 and 合香 features.
 - 陈氏香谱 / 香乘 — canonical incense manuals (historical).
 - China Daily / Feuerle Collection — modern revival context.
+- [Meng Liang Lu (夢粱錄) full text on Wikisource](https://zh.wikisource.org/wiki/夢粱錄)
+- [Xiang Cheng (香乘) full text on Wikisource](https://zh.wikisource.org/wiki/香乘)
+- [Bencao Gangmu (本草綱目) on ctext.org](https://ctext.org/wiki.pl?if=gb&res=8)
 - Research synthesis: docs/research/chinese-incense-pillar-notes.md (R-003).
 
 ---

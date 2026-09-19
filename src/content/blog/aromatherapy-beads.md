@@ -90,33 +90,35 @@ Much "aromatherapy bead" content sells healing. This page describes the **carrie
 ## FAQ
 
 ### Q: Do aromatherapy beads produce smoke?
-No — they are worn and release scent slowly from essential oil; there is no burning and no smoke.
+No — they are worn and release scent slowly from essential oil; there is no burning and no smoke. The scent is delivered by essential oil absorbed into the porous bead, which releases slowly at close range as you wear it, so there is no flame, no combustion, and no smoke. That is their entire point in the incense family: they are the zero-smoke option for settings where burning is unwelcome — offices, shared spaces, travel, or any strictly smoke-free home. Because nothing is combusted, they also produce none of the particulate matter that burning incense creates. The trade-off is that the scent stays close to you rather than filling a room.
 
 ### Q: How long does the scent last?
-Days to weeks, fading over time, and refreshed by re-applying a drop of essential oil. The bead is reusable.
+Days to weeks, fading over time, and refreshed by re-applying a drop of essential oil. The bead is reusable. The bead itself is reusable — it is the oil that fades, not the material — so a wood, stone, or clay bead can be re-scented repeatedly as long as it stays porous and clean. The exact duration depends on the oil, the bead material, and how often you wear it; lighter citrus oils fade faster than heavier woods or resins. This fade-and-refresh cycle is a defining feature of the format, not a defect, and it is what makes beads a long-term object rather than a single-use product.
 
 ### Q: What are aromatherapy beads made of?
-Porous materials — often wood (including sandalwood), lava stone, or clay — that absorb and slowly release the oil.
+Porous materials — often wood (including sandalwood), lava stone, or clay — that absorb and slowly release the oil. The porosity is what matters: a dense, non-porous material would not hold the oil. Note the distinction between the carrier and the scent: a "sandalwood bead bracelet" is usually scented wood, not raw sandalwood heartwood, and the aroma comes from the oil applied to it, not from the bead itself. Checking the actual material — and whether it is natural wood or a synthetic copy — is the same honest-label habit as in the rest of incense buying.
 
 ### Q: Are aromatherapy beads the same as incense?
-They are in the same fragrance family but a different format: worn and zero-smoke, versus burned and room-filling. See [which incense format](/blog/which-incense-format/).
+They are in the same fragrance family but a different format: worn and zero-smoke, versus burned and room-filling. See [which incense format](/blog/which-incense-format/). Incense is burned and room-filling — it scents a space through combustion and produces smoke — while beads are worn and zero-smoke, releasing a personal scent at close range only. The duration also differs: a stick burns for minutes to hours, while beads fade over days to weeks and can be refreshed. So beads solve a different problem — wanting a scent on you, or in a no-smoke setting — rather than scenting a room.
 
 ---
 
 ## People Also Ask / 长尾问答
 
 ### Q: Can I refresh aromatherapy beads?
-Some can be re-scented with a few drops of essential oil; many are single-use and simply fade. Check the material before assuming it is refreshable.
+Some can be re-scented with a few drops of essential oil; many are single-use and simply fade. Check the material before assuming it is refreshable. Porous wood, lava stone, and unglazed clay beads can usually be refreshed with a few drops of essential oil once the original scent fades, which is part of why they are a reusable object. Some beads are sealed, coated, or sold as single-use, and those simply fade without being re-scented. Before buying, check the material and whether the seller describes it as refreshable; a sealed or heavily finished bead may not absorb new oil well. If you want a long-term bead, choose an uncoated, porous material.
 
 ### Q: Are aromatherapy beads safer than burning incense?
-They produce no smoke, so no combustion particulates — but that is about smoke, not about any therapeutic effect, and the scent itself is still a fragrance.
+They produce no smoke, so no combustion particulates — but that is about smoke, not about any therapeutic effect, and the scent itself is still a fragrance. In one narrow sense, yes: beads produce no smoke, so no combustion particulates, which is the main air-quality concern with burning incense. But that is specifically about smoke, not about any therapeutic effect — the scent itself is still a fragrance, and essential oils are concentrated substances that should be handled with care, especially around skin, children, and pets. So "safer" means "no smoke and no open flame," not "medically beneficial." If your concern is indoor air, beads remove the combustion issue entirely; if you are asking about health benefits, none are claimed.
 
 ### Q: Do aromatherapy beads work like a diffuser?
-Sort of — both are smoke-free scent, but beads diffuse passively at close range while a diffuser actively disperses into the air.
+Sort of — both are smoke-free scent, but beads diffuse passively at close range while a diffuser actively disperses into the air. Beads diffuse passively at close range, releasing oil slowly from a worn object, so the scent stays near you and fades over days. A diffuser actively disperses essential oil into the air — by ultrasonic mist, heat, or a fan — so it fills a room more quickly and evenly but needs power and refilling. Beads are personal and portable; a diffuser is a room-level appliance. If you want a scent on you that travels, beads fit; if you want a scent throughout a room, a diffuser is the better tool.
 
 ## Sources
 
 - Standard descriptions of the carrier-bead + essential-oil mechanic.
+- [Lavandula in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019757) — the botanical record for lavender, a common bead-scent oil.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — beads are a zero-combustion option, which is their air-quality distinction from burned incense.
 - The [essential oils in incense](/blog/essential-oils-in-incense/) guide for the honest aromatherapy framing.
 
 ---

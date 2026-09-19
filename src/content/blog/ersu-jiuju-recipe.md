@@ -74,22 +74,24 @@ This stands in contrast to the 香谱/香乘 recipes in this cluster, which do r
 ## FAQ
 
 ### Q: Is 二苏旧局 an ancient recipe?
-No — it is a contemporary recipe from 陈云君's *燕居香语*, written in the classical 合香 idiom.
+No — it is a contemporary recipe from 陈云君's *燕居香语*, a modern manual written in the classical 合香 idiom. The name and structure are ancient in style — a wood core, a resin lift, honey as binder, and a floral coat — but the formula is not drawn from the Song or Ming 香谱. That distinction matters, because retellings often treat it as a period recipe. Reading it as a modern revival is the accurate framing, and it is why the page labels the proportions unverified rather than assigning fixed historical weights.
 
 ### Q: Who are the "two Su"?
-苏轼 (Su Shi) and 苏辙 (Su Zhe), the famous Song-dynasty brothers. The name is evocative, not a historical record of their blend.
+苏轼 (Su Shi) and 苏辙 (Su Zhe), the Song-dynasty brothers and celebrated literati. The name "二苏" ("two Su") points to them, but it is evocative rather than historical: there is no evidence the brothers ever burned this exact blend. The recipe borrows their names to conjure a scholar's study — a quiet, bookish, deep-wood atmosphere. Treat the attribution as a poetic label that sets a mood, not as a documented record of what either brother actually burned.
 
 ### Q: What does the jasmine do?
-It coats the pill, so the first impression is a bright floral over the deep, quiet agarwood interior.
+Jasmine is the outer coat of the pill, and it works as the first impression — a bright, clean floral that opens the scent before the deeper agarwood interior reveals itself. Because it sits on the surface and burns first, it creates a two-stage experience: a light floral top that gives way to the quiet, resinous wood body underneath. In the 合香 role system it sits with the honey in the 使 (guide) position, shaping how the blend presents itself rather than forming its core.
 
 ### Q: What makes it different from other recipes here?
-It is a modern revival (not a 香谱 original) and its assistant role is split across two ingredients — frankincense (opens) and amber (settles).
+Two things. First, it is a modern revival rather than a 香谱 original: the source is 陈云君's contemporary *燕居香语*, and the proportions are loose rather than fixed in 两 and 钱. Second, its assistant (佐) role is split across two ingredients doing opposite jobs — frankincense opens and lifts, while amber settles and deepens. That split is a cleaner teaching example of the assistant as a *function* than any single-assistant recipe in the cluster, which is why this page treats it as the best entry point.
 
 ---
 
 ## Sources
 
 - 燕居香语 (陈云君) — the 二苏旧局 formula (contemporary manual; proportions loose, flagged as unverified), via Zhihu and Meipian secondary sources.
+- 香乘 (Xiang Cheng) — the classical manual whose 合香 idiom this revival follows. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
+- 本草綱目 — the materia medica documenting agarwood, sandalwood, frankincense, and the formula's other materials. [Full text on ctext.org](https://ctext.org/wiki.pl?if=gb&res=8).
 
 ## Related Resources
 

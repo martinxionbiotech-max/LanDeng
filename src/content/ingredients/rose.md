@@ -62,28 +62,33 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 ## FAQ
 
-**What is the difference between Chinese rose and damask rose?** Chinese rose (*Rosa rugosa*) is the traditional Chinese material; damask rose (*Rosa damascena*) is the classic Western perfume rose. They are different species with related but distinct scents.
+**What is the difference between Chinese rose and damask rose?** Chinese rose (*Rosa rugosa*) is the traditional Chinese material; damask rose (*Rosa damascena*) is the classic Western perfume rose. They are different species with related but distinct scents. The damask rose reads as the rich, dewy, slightly spicy "classic rose" of Western perfume, while the Chinese rose is a touch fresher and fruitier, closer to a garden rose. In Chinese ingredient lists, 玫瑰 means *R. rugosa*.
 
-**Is rose a wood or a flower?** A flower — the dried bud of *Rosa* species, used in tea, perfume, and incense.
+**Is rose a wood or a flower?** A flower — the dried bud of *Rosa* species, used in tea, perfume, and incense. The fragrant material is the flower bud or petals, not any wood; in incense, "rose" is almost always a floral accord layered over a wood or resin base, because true rose absolute is costly. So rose is a light floral note that is usually delivered as a reconstructed accord in fragrance, not as raw flower material.
 
 ---
 
 ## People Also Ask (Long-Tail)
 
-**What does rose incense smell like?** Sweet, floral, and "romantic" — a classic floral note, either the Chinese rose (*Rosa rugosa*) or the Western damask rose (*R. damascena*).
+**What does rose incense smell like?** Sweet, floral, and "romantic" — a classic floral note, either the Chinese rose (*Rosa rugosa*) or the Western damask rose (*R. damascena*). In incense, rose is usually a reconstructed accord over a wood or resin base, so the exact character can range from a fresh, garden-like rose to a rich, dewy, slightly spicy perfume rose. The two species read slightly differently, with damask leaning richer and the Chinese rose fresher and fruitier.
 
-**Is rose used in Chinese incense?** Yes, as a sweet floral note, usually blended rather than burned alone. It also appears in rose tea (玫瑰花茶) and traditional materia medica.
+**Is rose used in Chinese incense?** Yes, as a sweet floral note, usually blended rather than burned alone. It also appears in rose tea (玫瑰花茶) and traditional materia medica. Because true rose absolute is costly, rose in incense is typically a floral accord over a wood or resin base, where it adds a romantic, sweet lift to the blend. It is more common in floral-forward and modern blends than in the classical wood-and-resin canon.
 
-**What is rose tea?** Dried rose buds (玫瑰花) brewed as a floral tisane, common in Chinese tea culture.
+**What is rose tea?** Dried rose buds (玫瑰花) brewed as a floral tisane, common in Chinese tea culture. The buds are steeped in hot water to release a gentle, sweet floral flavor, often enjoyed alone or blended with other teas and herbs. It is a light, fragrant drink, distinct from rose-scented black tea in the Western sense; here the buds themselves are the flavoring, not just a scenting layer.
 
-**Is rose a wood or a flower?** A flower — the dried bud of *Rosa* species, used in tea, perfume, and incense.
+**Is rose a wood or a flower?** A flower — the dried bud of *Rosa* species, used in tea, perfume, and incense. The material is the flower bud or petals, never wood; in fragrance, rose is often delivered as an accord over a base because the true absolute is expensive. The dried buds are the form used for tea and materia medica, while the petals are distilled for rose water and rose oil.
 
-**What is the difference between 玫瑰, 月季, and 蔷薇?** Three *Rosa* species in Chinese: 玫瑰 is *R. rugosa* (tea/fragrance rose), 月季 is *R. chinensis* (garden rose), and 蔷薇 covers climbing roses. They are distinct words and plants.
+**What is the difference between 玫瑰, 月季, and 蔷薇?** Three *Rosa* species in Chinese: 玫瑰 is *R. rugosa* (tea/fragrance rose), 月季 is *R. chinensis* (garden rose), and 蔷薇 covers climbing roses. They are distinct words and plants. In an ingredient list, 玫瑰 means *R. rugosa* — the tea and fragrance rose — not the ornamental garden 月季. English loosely calls all of them "rose," but the Chinese terms separate the fragrant tea rose from the ornamental and climbing types.
 
-**What is rose water?** A by-product of rose distillation, used as a fragrance and culinary ingredient in Chinese, Middle Eastern, and South Asian traditions. Rose water carries a light, fresh version of the rose note.
+**What is rose water?** A by-product of rose distillation, used as a fragrance and culinary ingredient in Chinese, Middle Eastern, and South Asian traditions. Rose water carries a light, fresh version of the rose note. When rose petals are distilled for rose oil, the aromatic water left behind is rose water (玫瑰花水), which is used to flavor desserts and drinks and as a gentle room or skin fragrance.
 
-**What part of the rose is used?** The flower bud — dried rose buds (玫瑰花) are used for tea and materia medica, while the petals are distilled for rose water and rose oil.
+**What part of the rose is used?** The flower bud — dried rose buds (玫瑰花) are used for tea and materia medica, while the petals are distilled for rose water and rose oil. The buds are picked and dried whole; the petals are processed by steam distillation or solvent extraction to yield rose oil and absolute for perfumery. So the bud is the tea ingredient and the petal is the perfumery material, two different parts with two different uses.
 
 See also: [jasmine](/ingredients/jasmine/) and [osmanthus](/ingredients/osmanthus/), its fellow florals, plus the full [scent guide](/blog/scent-guide/).
+
+## Sources
+
+- [Rosa in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011310)
+- [Rosa on GBIF](https://www.gbif.org/species/3003979)
 
 *Sources: botanical references on *Rosa* (R. rugosa vs R. damascena) and TCM descriptions of 玫瑰花. Medicinal claims are treated as traditional, not clinical. This is editorial knowledge content, not medical advice.*

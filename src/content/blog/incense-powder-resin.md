@@ -90,16 +90,16 @@ Much resin content wraps the practice in mystical language. This page describes 
 ## FAQ
 
 ### Q: How do I burn frankincense resin?
-On a lit charcoal disc set in ash/sand on a heatproof burner, or more gently on an electric incense heater. Use a few tears at a time. See [frankincense](/ingredients/frankincense/).
+There are two standard ways. The traditional method is to light a charcoal disc until it glows, set it in a heatproof burner on a bed of ash or sand, and drop a few resin tears on top — the resin melts and releases a rich, fragrant smoke. The gentler method is an electric incense heater, which warms the resin below combustion so it releases aroma with almost no smoke. Either way, use only a few tears at a time; too much material produces harsh, acrid smoke. See [frankincense](/ingredients/frankincense/) for the material details.
 
 ### Q: What is 隔火焚香 (indirect-fire incense)?
-The refined Chinese method of resting fragrant material above buried charcoal (with a plate between), releasing aroma with almost no smoke. It is the ancestor of Japanese kōdō. See [what Chinese incense is](/blog/what-is-chinese-incense/).
+隔火焚香 (indirect-fire incense) is the refined Chinese method of warming fragrant material without touching it to the flame. A piece of charcoal is buried in ash, and a thin plate — often of mica or metal — is placed between the charcoal and the wood or resin, so the material is heated gently and releases its aroma with almost no smoke. This low-smoke, slow-release technique is the ancestor of Japanese kōdō, the incense-listening ceremony. See [what Chinese incense is](/blog/what-is-chinese-incense/) for the cultural context.
 
 ### Q: Do I need a charcoal disc for resin?
-A charcoal disc works, but an electric heater is gentler and smoke-light. Both are standard. See [incense holder & burner guide](/blog/incense-holder-burner-guide/).
+Not necessarily. A charcoal disc is the traditional option and gives a strong, immediate release, but it produces more smoke and runs hot, so it needs a heatproof burner on a bed of ash or sand. An electric incense heater is gentler — it warms the resin below combustion, releasing aroma with almost no smoke and better control over temperature. Both are standard; many people prefer the electric heater for everyday use and reserve charcoal for a stronger, more traditional session. See [incense holder & burner guide](/blog/incense-holder-burner-guide/).
 
 ### Q: Is heating resin better than burning a stick?
-Not "better" — it is a different format: the pure material with minimal smoke, but more hands-on. A stick is more convenient. See [which incense format](/blog/which-incense-format/).
+Not "better" — just different. Heating resin gives you the pure material with minimal smoke, which makes it the truest, cleanest scent and the format where authenticity matters most, since there is no binder or fragrance oil. But it is more hands-on: you need a heater or charcoal, an ash bed, and a bit of practice. A stick is far more convenient — self-contained, predictable, and easy to light — but may include a binder and sometimes a fragrance oil. Choose by what you value: purity and control, or convenience. See [which incense format](/blog/which-incense-format/).
 
 ---
 
@@ -107,6 +107,8 @@ Not "better" — it is a different format: the pure material with minimal smoke,
 
 - Standard descriptions of charcoal-disc and electric-heater resin/wood heating, and the 隔火焚香 method.
 - The [frankincense](/ingredients/frankincense/) and [agarwood](/ingredients/agarwood/) entity pages.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — background on smoke from heating resin.
+- [American Lung Association indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — on particulate matter and indoor burning.
 
 ---
 

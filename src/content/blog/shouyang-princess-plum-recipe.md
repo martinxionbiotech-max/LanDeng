@@ -88,16 +88,16 @@ This is why 梅花香 has so many versions: each is a different *construction* o
 ## FAQ
 
 ### Q: What is 寿阳公主梅花香?
-A classical plum-blossom compound incense attributed (legendarily) to Princess Shouyang, built from sandalwood, herbal tones, and white plum.
+A classical plum-blossom compound incense attributed, legendarily, to 寿阳公主 (Princess Shouyang) of the Southern Dynasties. The recipe builds its plum character as an accord rather than from plum flowers: sandalwood forms the warm woody body, spikenard, angelica, and lovage supply herbal middle tones, and 白梅 (white plum) with peony bark gives the tart-sweet plum signature. The 香乘 records the formula with proportions, and it exists alongside several other 梅花香 versions. The princess attribution is a romantic legend tied to the plum-blossom makeup story, not documented authorship.
 
 ### Q: Does it use real plum flowers?
-The "plum" character is built as an accord — 白梅 (dried plum) over warm woods — rather than from the flower's scent alone.
+Not as the source of the scent. The "plum" character is constructed — an accord of 白梅 (dried or pickled white plum) over warm wood and herbal tones. Plum flowers themselves are too delicate to carry a scent through burning, so the recipe reaches for the tart-sweet fruit note instead. This is the same compositional logic as a perfumer building a floral impression from materials that are not the flower. The result is recognizable as "plum" because the accord is engineered that way, which is why the page's central lesson is that a floral scent in this tradition is built, not picked.
 
 ### Q: Why are there so many "plum incense" recipes?
-Because each version is a different *construction* of the plum idea; the 香乘 records several distinct 梅花香 formulas.
+Because "梅花香" (plum incense) is an idea, not one fixed formula, and each version is a different construction of that idea. The 香乘 records several — 梅花香一, 二, and 三, alongside 寿阳公主梅花香 — and the sources do not agree on a single recipe. Each version arranges a slightly different set of woods, herbs, and plum materials to reach the same plum impression. This variation is normal in the classical manuals: a named incense was a flexible theme that makers adapted, not a standardized product with one authoritative formula.
 
 ### Q: Did Princess Shouyang really make it?
-The attribution is traditional legend (the plum-blossom-makeup story), not documented fact.
+The attribution is traditional legend, not documented fact. Princess Shouyang is famous for the 梅花妆 (plum-blossom makeup) origin story, in which a plum blossom stuck to her forehead and became a fashion; that tale comes from the Song-era encyclopedia 《太平御览》. The incense recipe borrows her name to evoke romance and court elegance, but there is no historical evidence she composed the blend. The page treats the princess as the legendary namesake — the craft and the accord are the real subject, and the charming attribution is beside the point.
 
 ---
 
@@ -105,6 +105,7 @@ The attribution is traditional legend (the plum-blossom-makeup story), not docum
 
 - 香乘 (Xiang Cheng), 周嘉胄 (Ming), 卷十八 — the 寿阳公主梅花香 formula. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
 - 《太平御览》 — the 梅花妆 origin legend.
+- 本草綱目 — the materia medica documenting sandalwood, angelica, peony bark, and the formula's other materials. [Full text on ctext.org](https://ctext.org/wiki.pl?if=gb&res=8).
 
 ## Related Resources
 

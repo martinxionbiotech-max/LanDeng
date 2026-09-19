@@ -104,39 +104,41 @@ It is often the "unwind" note in a modern brand's scent range, complementary to 
 ## FAQ
 
 ### Q: Is lavender a traditional Chinese incense ingredient?
-No. The classical Chinese canon centers on agarwood, sandalwood, frankincense, myrrh, and similar materials. Lavender is a Western-origin botanical that entered incense through modern aromatherapy practice.
+No. The classical Chinese canon centers on agarwood, sandalwood, frankincense, myrrh, and a few other woods, resins, and herbs recorded in the traditional incense manuals (香谱). Lavender (*Lavandula angustifolia*) is a Western-origin plant that entered incense mainly through modern aromatherapy and Western perfumery, well after the classical canon was formed. It is a legitimate modern addition, but it sits outside the traditional Chinese material set — a useful distinction, not a criticism.
 
 ### Q: Does lavender incense help you sleep or reduce anxiety?
-LanDeng makes no medical claims. Many people use its soft floral scent as part of a calming evening routine, but it is a wellness/ambiance practice, not a treatment.
+LanDeng makes no medical claims. Lavender fragrance is widely associated with relaxation, and many people use its soft floral scent as part of a calming evening routine or wind-down ritual. That association is about routine and atmosphere — a repeated, low-effort cue that anchors bedtime — not a demonstrated sleep aid or anxiety treatment. Incense is not medicine: it does not treat insomnia, anxiety, stress, or pain, and it does not replace professional advice.
 
 ### Q: Is all lavender incense made from real lavender?
-Not necessarily. Much commercial lavender incense is fragrance-oil-based. Check whether the product uses lavender flowers/essential oil versus a synthetic lavender fragrance.
+Not necessarily. Much commercial lavender incense is fragrance-oil-based — a neutral charcoal or sawdust base dipped in a manufactured "lavender" scent — rather than made from actual lavender flowers or lavender essential oil. Botanical lavender incense does exist and will typically name the plant. If it matters to you, check the ingredient list or ask the seller whether the product uses real lavender material or a synthetic lavender fragrance, since the word "lavender" alone does not tell you.
 
 ### Q: How does lavender compare to sandalwood or agarwood?
-Lavender is light, floral, and Western-origin; sandalwood is creamy sweet-woody; agarwood is deep, resinous, and the most precious. See the [sandalwood](/blog/sandalwood-incense/) and [agarwood](/blog/agarwood-incense/) guides.
+They sit at opposite ends of the spectrum. Lavender is light, soft, floral, and slightly herbal, with a familiar, gentle character. Sandalwood is creamy, milky, and sweet-woody. Agarwood is deep, resinous, and faintly medicinal — the most precious and complex of the three. Lavender is also Western-origin and modern, while sandalwood and agarwood are classical Chinese and broader Asian incense materials. See the [sandalwood](/blog/sandalwood-incense/) and [agarwood](/blog/agarwood-incense/) guides.
 
 ---
 
 ## People Also Ask / 长尾问答
 
 ### Q: What does lavender incense smell like?
-Soft, floral, and slightly herbal-sweet — the recognizable lavender note, driven by linalool and linalyl acetate. It is lighter and more familiar than the deep woods (agarwood, sandalwood), which is why it often serves as a gentle entry scent.
+Soft, floral, and slightly herbal-sweet — the recognizable lavender note, driven by two main compounds: linalool (fresh, floral) and linalyl acetate (sweet, fruity-herbal). It reads as lighter, cleaner, and more familiar than the deep woods such as agarwood and sandalwood, and it lacks their resinous weight. That approachability is exactly why lavender often serves as a gentle entry scent for people new to incense.
 
 ### Q: How long does a lavender incense stick burn?
-The same as other sticks — roughly 20–60 minutes depending on length and thickness (short coreless sticks ~25–30 min; bamboo-core sticks ~45–60 min). Cones burn ~10–15 minutes.
+The same as other sticks — roughly 20–60 minutes, depending on length, thickness, and composition. Short, thin coreless sticks burn around 25–30 minutes, while thicker bamboo-core sticks run about 45–60 minutes. Cones typically last 10–15 minutes. The scent does not change the burn time; it is the stick's physical size, density, and binder that determine how long it lasts, so a lavender stick burns just like any other of the same format.
 
 ### Q: Is lavender incense safe for cats and dogs?
-All incense produces smoke and particulate matter, and pets can be more sensitive to airborne irritants. Burn in a ventilated space, keep it away from pets, and watch for any reaction. This is general safety guidance, not a claim about any specific condition.
+All incense produces smoke and fine particulate matter when burned, and pets can be more sensitive to airborne irritants than people. The honest guidance is to burn in a well-ventilated space, keep burning incense out of reach of cats and dogs, and watch for any sign of irritation or discomfort. This is general combustion-safety advice that applies to every incense scent, not a claim about lavender specifically — and it is not a statement about any particular medical condition in animals.
 
 ### Q: Is lavender incense good for evening unwinding?
-Many people use its soft floral scent as part of a calming evening routine — a repeated, low-effort signal that anchors wind-down time. That is a routine-and-ambiance practice, not a treatment: LanDeng makes no sleep or anxiety claims. See the [meditation guide](/blog/incense-for-meditation/) for the timer/anchor/cue framing.
+Many people use its soft floral scent as part of a calming evening routine — a repeated, low-effort cue that signals the brain it is time to wind down. That is a routine-and-ambiance practice, not a treatment: LanDeng makes no claim that lavender incense induces sleep or reduces anxiety. The value is in the ritual itself — a consistent, pleasant anchor at the end of the day — rather than any pharmacological effect. See the [meditation guide](/blog/incense-for-meditation/) for the timer/anchor/cue framing.
 
 ### Q: What is the difference between lavender incense and lavender essential oil?
-Lavender essential oil is the concentrated steam-distilled extract of the flower; lavender incense is a scented product (often a base carrying a lavender fragrance or oil, sometimes actual lavender botanicals). They smell related but are different products — and much commercial lavender incense uses fragrance oil, not real lavender. See [essential oils in incense](/blog/essential-oils-in-incense/).
+Lavender essential oil is the concentrated, steam-distilled extract of the lavender flower, carrying its volatile aroma compounds. Lavender incense is a finished scented product — usually a base (charcoal or wood powder) carrying a lavender fragrance oil, and sometimes actual lavender flowers or essential oil blended into the material. They smell related but are different products. Much commercial lavender incense uses a synthetic fragrance rather than real lavender oil. See [essential oils in incense](/blog/essential-oils-in-incense/).
 
 ## Sources
 
 - Botanical/chemistry references for *Lavandula angustifolia* and linalool/linalyl acetate.
+- [*Lavandula* in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019757)
+- [*Lavandula* on GBIF](https://www.gbif.org/species/2927305)
 - English SERP and DTC sources (reviewed) documenting the overclaiming pattern — used only to identify the gap, not as factual sources.
 - LanDeng safety page for combustion and ventilation guidance.
 

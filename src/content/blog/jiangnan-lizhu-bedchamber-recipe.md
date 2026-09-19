@@ -90,16 +90,16 @@ Note the economy: **ten pears and a full 两 of agarwood, against a single 钱 o
 ## FAQ
 
 ### Q: What is 江南李主帐中香?
-A bedchamber incense attributed to Li Yu, the last ruler of the Southern Tang — most famously made by steaming agarwood inside hollowed goose pears.
+A bedchamber incense attributed to 李煜 (Li Yu), the last ruler of the Southern Tang — "江南李主" means "the Lord of Jiangnan." Its most famous version steams agarwood powder and a trace of sandalwood inside hollowed goose pears, so the wood absorbs a clean, sweet fruit note before it is burned. The 香乘 records several versions of the formula, which is why it is one of the best-documented classical recipes. The Li Yu attribution is traditional and widely repeated, but not a signed historical document, so the page treats it as a label rather than verified authorship.
 
 ### Q: Why use a pear?
-The pear's juice infuses the agarwood with a clean, sweet fruit note — an early example of a fruit as an "ingredient" in incense.
+The pear is the formula's assistant (佐), and it works by infusion rather than by adding its own note. The agarwood powder is packed into hollowed pears, the fruit is sealed and steamed three times, and the juice carries a clean, sweet, slightly cool character into the wood. It is an early and unusually clear example of fruit used as an incense ingredient — showing that an assistant can be a fruit, not another precious wood or resin. The pear also lets the recipe's structure show through: the agarwood chief stays dominant, with the fruit shaping only the top note.
 
 ### Q: What are the other versions?
-One soaks agarwood in storax oil (苏合油) for a hundred days and finishes with rose water (蔷薇水).
+The 香乘 gives several. One steams minced goose-pear juice into agarwood wick pieces three times in a silver vessel. A second uses a resin-and-spice base — four liǎng agarwood, one liǎng sandalwood, one liǎng musk, half a liǎng borneol, and a trace of a resin called 马牙香, bound with refined honey. Another entry soaks agarwood in storax oil (苏合油) for a hundred days and finishes it with rose water (蔷薇水). All three realize the same idea — agarwood as the body — through different processes: fruit-infused, juice-steamed, or resin-and-spice.
 
 ### Q: Is the Li Yu attribution certain?
-It is traditional and widely repeated, but not a signed, verifiable historical document.
+No. It is traditional and widely repeated, but there is no signed, verifiable document proving Li Yu authored the recipe. The connection is plausible — Li Yu was the last Southern Tang ruler and a famous poet, and "江南李主" clearly points to him — but the formula survives in Ming-era manuals like the 香乘, compiled centuries after his death. The page therefore treats the attribution as a well-established label rather than confirmed authorship, and notes the same caution applies to the pear variety, which is not fixed today.
 
 ---
 
@@ -107,6 +107,7 @@ It is traditional and widely repeated, but not a signed, verifiable historical d
 
 - 香乘 (Xiang Cheng), 周嘉胄 (Ming) — the 帐中香 recipes (multiple recorded versions). [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
 - 陈氏香谱 (Chen's Incense Manual) — the "江南李主帐中香" second formula.
+- 本草綱目 — the materia medica documenting agarwood, sandalwood, and the other materials in the formula. [Full text on ctext.org](https://ctext.org/wiki.pl?if=gb&res=8).
 
 ## Related Resources
 

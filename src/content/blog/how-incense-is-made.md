@@ -86,16 +86,16 @@ Chinese incense is traditionally **not** a single material but a **blend** — �
 ## FAQ
 
 ### Q: What is incense made of?
-A: Ground fragrant materials (woods, resins, flowers, spices) plus a natural combustible binder, mixed with water into a paste and shaped, then dried.
+A: Incense is made of ground fragrant materials — woods, resins, flowers, and spices — plus a natural combustible binder that holds them together, mixed with water into a workable paste and shaped into sticks, coils, or cones, then dried. The binder is typically a combustible wood powder such as makko (Machilus thunbergii), not glue. In the Chinese tradition, the fragrant materials are usually a blend (合香) rather than a single ingredient, composed on a formula principle. So the answer depends on the product: a hand-rolled stick uses real botanicals, while a dipped stick uses a fragrance.
 
 ### Q: What holds incense sticks together?
-A: A natural binder — traditionally a combustible wood powder such as makko (*Machilus thunbergii*) — not glue.
+A: A natural binder holds the ingredients together, and it is traditionally a combustible wood powder — most famously makko, from the Machilus thunbergii tree — rather than glue or chemical adhesive. The binder does two jobs: it makes the ground botanicals cohere into a shapeable paste, and because it is itself a wood powder, it burns cleanly along with the incense and helps the stick smolder evenly. In cheap, machine-dipped incense, the base may be charcoal or bamboo dust instead, and the scent is carried by a liquid fragrance rather than the binder's material.
 
 ### Q: What is the difference between hand-rolled and machine-made incense?
-A: Hand-rolled uses real botanicals rolled by hand; machine-made is mass-produced and often fragrance-dipped. See [hand-rolled vs machine-made](/blog/hand-rolled-vs-machine-made/).
+A: Hand-rolled incense is made by blending dry botanicals into a paste and rolling it onto a bamboo core by hand, or extruding it as a coreless stick — the scent comes from the actual materials. Machine-made incense is mass-produced for speed and consistency, and is often made by coating or dipping a core (bamboo or charcoal) in a liquid fragrance, giving a cheaper, uniform, frequently synthetic scent. The distinction is really about method and ingredients together: hand-rolled usually means real material, machine-dipped usually means fragrance oil. See [hand-rolled vs machine-made](/blog/hand-rolled-vs-machine-made/).
 
 ### Q: What is 合香 (hé xiāng)?
-A: The Chinese tradition of blended incense, composed on a formula principle (君臣佐使) like Chinese herbal compounding. See [the blending system](/blog/hexiang-blending-system/).
+A: 合香 (hé xiāng) is the Chinese tradition of blended incense — combining multiple fragrant ingredients into a single formula, rather than burning one material alone. It is composed on a principle analogous to Chinese herbal compounding, the 君臣佐使 system, which assigns each ingredient a role: chief (君), minister (臣), assistant (佐), and guide (使). This is why a classical Chinese incense is rarely a single note — the blend is designed to balance top, middle, and base notes. See [the blending system](/blog/hexiang-blending-system/) for the full framework.
 
 ---
 
@@ -103,6 +103,8 @@ A: The Chinese tradition of blended incense, composed on a formula principle (�
 
 - Editorial synthesis of established incense-making craft (base, binder, scent material, extrusion/rolling).
 - Traditional craft sources on 合香 and stick-making.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — background on smoke from burning incense.
+- [American Lung Association indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — on particulate matter and indoor burning.
 
 ## Related Resources
 

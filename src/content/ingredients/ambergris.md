@@ -55,22 +55,28 @@ Incense combustion produces smoke and particulate matter; burn in a well-ventila
 
 ## FAQ
 
-**Is ambergris a plant?** No — it is a waxy secretion from the sperm whale's digestive system. It is animal-derived, unlike the botanical ingredients elsewhere in this encyclopedia.
+**Is ambergris a plant?** No — ambergris is not botanical. It is a waxy secretion produced in the digestive system of the sperm whale (*Physeter macrocephalus*). This makes it unique among the ingredients in this encyclopedia: everything else comes from plants, woods, or resins, while ambergris is animal-derived. The distinction matters for sourcing and for labeling — a "botanical incense" that includes natural ambergris is stretching its own definition, and most contemporary products use a synthetic substitute instead.
 
-**Is ambergris still used today?** Natural ambergris is scarce and trade-restricted (the sperm whale is CITES-listed), so most "ambergris" in modern fragrance is a synthetic substitute (ambroxide and related compounds).
+**Is ambergris still used today?** Natural ambergris is still used, but rarely. It is scarce — produced by only a small fraction of sperm whales and usually found washed ashore — and the sperm whale is CITES-listed, which restricts trade. As a result, most "ambergris" in modern fragrance and incense is a synthetic substitute such as ambroxide or ambreine, which reproduces the fixative and amber character without the animal source. When a label says "ambergris," it usually means the synthetic compound rather than the natural secretion.
 
-**What does ambergris smell like?** Fresh it is marine and slightly animalic; aged and oxidized it becomes sweet, earthy, and waxy-amber — the prized fixative character.
+**What does ambergris smell like?** Fresh ambergris has a marine, slightly animalic — even fecal — character. As it ages and oxidizes, exposed to air and seawater, it develops the prized sweet, earthy, waxy-amber scent that made it a legendary perfumery fixative. The value lies less in a loud single note than in its ability to anchor and extend other aromas, adding warmth and depth to a blend. The aged, oxidized material is considered far superior to the fresh secretion.
 
 ---
 
 ## People Also Ask (Long-Tail)
 
-**What is ambergris used for?** Primarily as a perfumery and incense **fixative** — it anchors and extends other aromas rather than dominating as a loud note.
+**What is ambergris used for?** Ambergris is used primarily as a fixative in perfumery and traditional incense. A fixative slows the evaporation of lighter, more volatile aroma compounds, so a fragrance lasts longer and smells more rounded. Ambergris does this exceptionally well, which is why it has been prized for centuries despite its rarity. In Chinese tradition, 龙涎香 also appears in materia medica and classical incense as a rare, precious ingredient, though those uses are treated as traditional rather than established clinical fact.
 
-**What is the synthetic substitute for ambergris?** Compounds like ambroxide and ambreine reproduce ambergris's fixative and amber character without the animal source. Most "ambergris" in commerce today is synthetic.
+**What is the synthetic substitute for ambergris?** The main synthetic substitutes are ambroxide (also called ambroxan) and ambreine, compounds that reproduce ambergris's fixative and warm amber character without any animal source. These synthetics are inexpensive, consistent, and legal to trade, which is why they dominate modern perfumery and incense. They are widely described as "ambergris" or "amber" notes. Chemically they are related to ambrein, the key odor-bearing compound in natural ambergris, but they are produced in the laboratory rather than harvested from whales.
 
-**Why is ambergris so expensive?** Natural ambergris is rare — produced by a small fraction of sperm whales and found washed ashore — and trade is restricted. Scarcity and the fixative's value drive the price.
+**Why is ambergris so expensive?** Natural ambergris is expensive because it is rare and difficult to obtain. Only a small fraction of sperm whales produce it, and the material is usually found washed ashore or floating at sea rather than harvested deliberately, making supply unpredictable. Trade is restricted because the sperm whale is CITES-listed. Scarcity, combined with the fixative's unmatched ability to extend a fragrance, drives the price. Genuine aged ambergris can command very high prices, while synthetic substitutes are inexpensive.
 
 See also: [sandalwood](/ingredients/sandalwood/), [agarwood](/ingredients/agarwood/), and the full [scent guide](/blog/scent-guide/).
+
+## Sources
+
+- [Physeter macrocephalus (sperm whale) on GBIF](https://www.gbif.org/species/8123917)
+- [Physeter macrocephalus in the CITES species checklist](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Physeter%20macrocephalus)
+- [Bencao Gangmu (本草綱目) full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目)
 
 *Sources: references on ambergris (sperm whale secretion, aging/oxidation, fixative role, CITES trade status, and synthetic substitutes ambroxide/ambreine). Medicinal uses are treated as traditional, not established clinical fact. This is editorial knowledge content, not medical advice.*

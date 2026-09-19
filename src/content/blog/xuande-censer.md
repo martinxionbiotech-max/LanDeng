@@ -75,22 +75,24 @@ This is the same buyer-intelligence discipline the rest of this site applies to 
 ## FAQ
 
 ### Q: What is a 宣德炉?
-The famous Ming-dynasty censer cast by imperial order during the Xuande reign (1426–1435), known for its plain form and prized patina.
+The 宣德炉 (Xuande censer) is the most famous — and most copied — incense censer in Chinese history. It was cast by imperial order during the Xuande reign of the Ming dynasty (宣德, 1426–1435), using imported copper, and is known for its deliberately plain form: a simple rounded body, often with small handles, resting on short feet. Its defining feature is not ornament but patina (皮壳), the surface color that develops with age and handling. Because genuine Xuande-period pieces are extremely rare, the name now functions more as a style and reputation than as a provenance claim, and the market is full of later copies.
 
 ### Q: How do I tell a real 宣德炉?
-Genuine Xuande-period pieces are extremely rare — most "宣德炉" are later copies. Judge it as a copy: quality of casting and naturalness of patina.
+Start from the honest assumption that genuine Xuande-period pieces are extremely rare, and that the vast majority of objects labeled "宣德炉" are later copies — some Qing, some modern, some themselves centuries old and collectible in their own right. Rather than chase authenticity, judge what is in front of you: is the casting crisp and well-proportioned, and does the patina look natural and uneven from age and handling, rather than uniform and artificial? A perfect, uniform patina is usually a red flag, since forgers imitate exactly that. Unless you have expert certification, treat "Xuande" as a style label, not a provenance claim.
 
 ### Q: What are the patina colors?
-Traditional names include 棠梨色 (warm brown), 猪肝色 (liver-brown), and 蟹壳青 (crab-shell green) — patina names, not a grading system.
+Collectors name the surface colors, and each is a sign of age and alloy rather than a rank. Traditional names include 棠梨色 ("crabapple-pear"), a warm reddish-brown; 猪肝色 ("pig's-liver"), a deep liver-brown; and 蟹壳青 ("crab-shell green"), a greenish-bronze tone. These are descriptive patina names, not a grading system — no one color is inherently more valuable than another, and the names describe how the surface has aged. The caution is that forgers imitate exactly these named colors, so a textbook example of any one of them should prompt closer scrutiny rather than confidence.
 
 ### Q: Should I buy a "宣德炉"?
-Buy a well-made bronze censer at a fair price and treat "Xuande" as a style label, not a provenance claim — unless you have expert certification.
+That depends on how you approach it. The sensible path is to buy a well-made bronze censer at a fair price and treat "Xuande" as a style label rather than a provenance claim — unless you have genuine expert certification, in which case you are dealing with a museum-grade rarity. Judge the object on its own merits: the quality of the casting, the proportions, and whether the patina looks natural. A well-made later bronze with honest patina is a perfectly good censer; the mistake is paying Xuande-original prices for what is really a copy. This is the same buyer-intelligence discipline this site applies to incense materials.
 
 ---
 
 ## Sources
 
 - Art-history references on the 宣德炉 (Ming Xuande period, imported copper, named patinas).
+- [Incense censer, China (The Met)](https://www.metmuseum.org/art/collection/search/460557)
+- [Zun Sheng Ba Jian (遵生八箋) full text on Wikisource](https://zh.wikisource.org/wiki/遵生八箋)
 
 ## Related Resources
 

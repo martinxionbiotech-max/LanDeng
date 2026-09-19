@@ -67,22 +67,24 @@ This is why the form matters — the 博山炉 is a **cosmological object**, not
 ## FAQ
 
 ### Q: What is a 博山炉?
-The iconic Han-dynasty bronze incense burner with a lid cast as a pierced mountain range, so smoke rises like mist over peaks.
+The 博山炉 (Boshan censer, "universal-mountain burner") is the iconic bronze incense burner of the Han dynasty. Its lid is cast as a miniature mountain range — layered peaks, figures, and animals — pierced with small holes so that when incense burned inside, the smoke rose through the openings and appeared as mist drifting over the peaks. The effect was deliberately theatrical: a small sacred mountain on the scholar's desk, with the smoke completing the illusion of cloud and mist. Unlike later low-smoke methods, the 博山炉 was about spectacle, making the smoke itself part of the object's meaning.
 
 ### Q: What does "博山" mean?
-"Broad/universal mountain" — the mountain shape evokes the mythical isles of the immortals.
+"博山" translates roughly as "broad" or "universal mountain." The name points to the mountain shape of the lid, but the mountain is not any ordinary peak — it evokes the mythical isles of the immortals, 蓬莱, 方丈, and 瀛洲, where Daoist immortals were believed to dwell. By casting the lid as a miniature of that sacred place, the maker put the myth directly on the scholar's desk. Burning incense inside a tiny model of the immortals' world was, in effect, a small ritual evocation of that world, which is why the 博山炉 is understood as a cosmological object rather than a mere container.
 
 ### Q: What did it burn?
-Raw aromatic materials — resins, woods, and herbs — placed directly in the bowl, not sticks or cones.
+It burned raw aromatic materials — resins, woods, and dried herbs — placed directly in the bowl, rather than the sticks and cones that dominate modern use. In the Han dynasty, incense was not yet a pressed-stick product; aromatic substances were burned loose, and the resulting smoke was the experience itself. This is a key difference from later practice: the 博山炉 celebrated the visible smoke rising through the pierced mountain, whereas the refined 隔火焚香 method that developed later deliberately minimized smoke in favor of a cleaner scent. The 博山炉's whole design assumes direct combustion and the drama of its smoke.
 
 ### Q: Why is the mountain shape meaningful?
-It represents the Daoist immortals' realm (蓬莱/方丈/瀛洲), making the burner a miniature cosmological object.
+The mountain shape is meaningful because it represents the Daoist immortals' world — the three mythical isles of 蓬莱, 方丈, and 瀛洲, where immortals were believed to live. Han court culture was deeply colored by this longing for immortality, and the 博山炉 translated that belief into a physical object: a miniature sacred mountain on the desk, with smoke curling through its peaks like mist. In this reading, the burner is not a functional container but a cosmological model, a small evocation of the immortals' world placed in daily view. That is why the form matters — it carries the symbolism of the whole object.
 
 ---
 
 ## Sources
 
 - Cultural-history references on Han-dynasty incense and the 博山炉 form.
+- [Incense burner, China (The Met)](https://www.metmuseum.org/art/collection/search/42359)
+- [Meng Liang Lu (夢粱錄) full text on Wikisource](https://zh.wikisource.org/wiki/夢粱錄)
 
 ## Related Resources
 

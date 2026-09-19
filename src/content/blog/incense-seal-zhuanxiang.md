@@ -78,22 +78,24 @@ The skill is in steps 3–4 — filling evenly and lifting without breaking the 
 ## FAQ
 
 ### Q: What is 香篆?
-Powder incense pressed into a carved pattern with a mold, then lit at one end to burn in sequence — used for beauty and as a timer.
+香篆 (xiāng zhuàn), also called 打香印 ("stamping incense"), is powder incense pressed into a carved pattern using a metal mold (香篆模 or 香印). The mold's channels are filled with powder over a level ash bed, the mold is lifted cleanly, and one end of the resulting line is lit so the flame travels along the pattern and burns it in sequence. Traditionally the patterns take the form of auspicious characters, spirals, or seal-script designs. The practice serves two purposes at once: the visual beauty of the burning pattern, and timekeeping, since a known pattern length corresponds to a known burn duration.
 
 ### Q: Why is it called an incense "clock"?
-Because a known pattern length corresponds to a known burn duration, so the burning line marks time.
+Because a known pattern length corresponds to a known burn duration, so the burning line itself marks the passage of time. A particular design, once its length and the burn rate of the powder are known, will take a predictable amount of time to finish, making it possible to use the incense as a timer before mechanical clocks became common. This was the classical "incense clock" — a deliberately slow, visible burn that signals when a session is over. The longer and more complex the pattern, the longer the burn, so the same technique could mark anything from a short interval to a lengthy stretch.
 
 ### Q: Do I need special tools?
-Yes — a censer with ash, a 香篆模 (mold), and incense powder. A steady hand is the other requirement.
+Yes. The basic equipment is a censer filled with level ash, a 香篆模 (the metal mold with the pattern cut through), and incense powder to fill it. Some setups also include small tools to smooth the ash and transfer the powder, but the core three items are enough to begin. The other requirement is not a tool but a skill: a steady hand, because the whole technique turns on filling the channels evenly and lifting the mold cleanly without breaking the powder line. That care — and the patience it demands — is itself part of the point of the practice.
 
 ### Q: What patterns are used?
-Traditionally auspicious characters, spirals, and seal-script designs; any continuous-line pattern works.
+Traditionally the patterns are auspicious Chinese characters, spirals, and seal-script (篆书) designs — the script style that gives 香篆 its name. The only real requirement is that the pattern be one continuous line, so the flame can travel from a single starting point through the entire design without jumping gaps. This is why the molds are carved as connected channels rather than isolated marks. In practice, simpler designs are easier to lay and light, while longer or more intricate patterns produce a longer burn. Any continuous-line pattern works, whether traditional or of your own design.
 
 ---
 
 ## Sources
 
 - Editorial synthesis of established 香篆/打香印 practice (standard technique, not therapeutic).
+- [Xiang Cheng (香乘) full text on Wikisource](https://zh.wikisource.org/wiki/香乘)
+- [Zun Sheng Ba Jian (遵生八箋) full text on Wikisource](https://zh.wikisource.org/wiki/遵生八箋)
 
 ## Related Resources
 

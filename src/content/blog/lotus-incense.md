@@ -108,19 +108,19 @@ The consequence for buyers: **most "lotus" sticks, cones, and blends use a synth
 ## FAQ
 
 ### Q: What does lotus smell like?
-Delicate, mildly sweet, and fresh-floral — light and airy rather than heavy or heady. It reads as an "uplifting" note.
+Delicate, mildly sweet, and fresh-floral — light and airy rather than heavy or heady. The real flower's scent is subtle, sometimes described as slightly green or aquatic, and it does not fill a room the way a strong resin does. In incense, that translates to an "uplifting" note that lifts and brightens a blend rather than dominating it. Because the true scent is faint and hard to capture, most commercial "lotus" accords are built to evoke this soft, clean, watery-floral impression.
 
 ### Q: Is blue lotus the same as lotus?
-No. Blue lotus (*Nymphaea caerulea*) is a water lily, not a true lotus (*Nelumbo nucifera*). They are different plant families.
+No. "Blue lotus" refers to *Nymphaea caerulea*, a water lily in the family Nymphaeaceae, while the true lotus is *Nelumbo nucifera* in the family Nelumbonaceae. They are different plants with different leaves, flowers, and habits: lotus leaves and flowers rise above the water, while water-lily leaves float on the surface. The "blue lotus" name persists in marketing, but botanically it is not a lotus at all, and its history is separate.
 
 ### Q: Does lotus incense contain real lotus?
-Usually not — most commercial "lotus" uses a floral fragrance accord, because true lotus absolute is rare and expensive. Confirm with the seller what the scent is derived from.
+Usually not. True lotus absolute is rare and expensive, and the fresh flower's delicate scent does not survive burning or heating well. As a result, most commercial "lotus" sticks, cones, and blends use a synthetic or blended floral accord designed to evoke the lotus note, not real lotus. This is not automatically a defect — a well-made accord can be pleasant — but it is worth confirming with the seller whether the scent comes from real lotus material or a fragrance interpretation.
 
 ### Q: What is the lotus a symbol of?
-Purity — captured in the phrase 出淤泥而不染 ("emerges from the mud unstained"), and central to Buddhist iconography as the lotus throne.
+Purity — most famously captured in the phrase 出淤泥而不染 ("emerges from the mud without being stained"), from Zhou Dunyi's Song-dynasty essay 《爱莲说》. The image is of a clean flower rising from muddy water. The lotus is also central to Buddhist iconography as the lotus throne (莲座/莲台), symbolizing purity and enlightenment, and it appears widely across Asian art, ritual, and poetry. That symbolic weight is why "lotus" is a meaningful scent even though the flower is not a classical incense material.
 
 ### Q: Is lotus a traditional Chinese incense ingredient?
-Not in the classical wood/resin canon. Lotus is more a **symbol and modern floral note** than a classical incense material like agarwood or sandalwood.
+Not in the classical wood-and-resin canon. The traditional Chinese incense manuals (香谱) center on agarwood, sandalwood, frankincense, and myrrh; the lotus flower, despite its deep symbolism, was not a standard incense material because its fresh scent survives burning poorly and true lotus absolute is rare. In modern incense, "lotus" is more a symbolic and modern floral note — usually rendered as a fragrance accord — than a classical ingredient like agarwood or sandalwood.
 
 ---
 
@@ -129,6 +129,8 @@ Not in the classical wood/resin canon. Lotus is more a **symbol and modern flora
 - Botanical references for *Nelumbo nucifera* (Nelumbonaceae) and *Nymphaea* (Nymphaeaceae), including the "blue lotus" distinction.
 - 周敦颐《爱莲说》— primary textual source for 出淤泥而不染.
 - Perfumery/floral references for the lotus scent profile (subtle, sweet, fresh).
+- [*Nelumbo nucifera* in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200007079)
+- [*Nelumbo* on GBIF](https://www.gbif.org/species/2882449)
 - The [frankincense ingredient reference](/ingredients/frankincense/) illustrates the resin-vs-floral contrast in the classical canon.
 
 ---

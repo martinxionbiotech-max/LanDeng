@@ -81,22 +81,24 @@ For how incense is actually used in a mindful context today, see [incense for me
 ## FAQ
 
 ### Q: What are the four leisure arts?
-烧香 (incense), 点茶 (whisked tea), 挂画 (hanging paintings), 插花 (flower arranging) — the Song-dynasty ideal of cultivated leisure.
+烧香 (burning incense), 点茶 (whisking tea), 挂画 (hanging paintings), and 插花 (arranging flowers) — the Song-dynasty ideal of cultivated leisure. The phrase treats these four as a coordinated aesthetic of the scholar's life rather than isolated hobbies. Incense was one of four, not practiced alone: the point of the grouping is that these are arts of attention and pleasure, each training perception through a different sense.
 
 ### Q: Where does the phrase come from?
-吴自牧's《梦粱录》(Meng Liang Lu), a Song-dynasty memoir: "烧香点茶，挂画插花，四般闲事，不宜累家."
+吴自牧's《梦粱录》(Meng Liang Lu), a Song-dynasty memoir of daily life in the capital Hangzhou. The passage reads: "烧香点茶，挂画插花，四般闲事，不宜累家" — burning incense, whisking tea, hanging paintings, arranging flowers: four leisurely arts, not to be burdened by household cares. This single line is the canonical source for the phrase and for incense's place among the refined pastimes of the era. Because it is a cultural-historical record rather than a medical or ritual text, it is cited here as evidence of how incense was grouped with the other cultivated arts, not as a health or efficacy claim.
 
 ### Q: Is Chinese incense the same as Japanese kōdō?
-They share a root, but Chinese incense is one of four informal leisure arts, while kōdō became a standalone formalized ritual art.
+They share a root, but developed differently. Chinese incense is one of four informal leisure arts — personal, scholarly, and loosely structured. Japanese kōdō descends from the same tradition (transmitted via Buddhism and the Tang/Song exchange) but became a standalone, formalized ritual art with codified games (组香, such as 源氏香), a fixed vocabulary (六国五味), and graded schools. The comparison is historical and cultural, not a ranking.
 
 ### Q: What does "不宜累家" mean?
-"Not to be a burden on the household" — the arts are leisure precisely because they are not productive or laborious.
+"Not to be a burden on the household." The clause is the key to the whole phrase: these four arts are "闲" (leisure) precisely because they are not productive, not status-seeking, and not labor. They should remain pleasurable and unhurried rather than become obligations. It is a gentle corrective to how incense is often marketed today — as a productivity or wellness tool — since the Song ideal placed these arts firmly outside work and duty.
 
 ---
 
 ## Sources
 
 - 吴自牧《梦粱录》— the source of the 四般闲事 phrase (cultural history).
+- [Meng Liang Lu (夢粱錄) full text on Wikisource](https://zh.wikisource.org/wiki/夢粱錄)
+- [Bencao Gangmu (本草綱目) on ctext.org](https://ctext.org/wiki.pl?if=gb&res=8)
 - Standard references on Japanese kōdō (六国五味, 组香/源氏香).
 
 ## Related Resources

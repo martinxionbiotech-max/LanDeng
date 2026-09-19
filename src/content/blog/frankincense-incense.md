@@ -132,19 +132,19 @@ The honest way to say it: frankincense is a scent people associate with **clarit
 ## FAQ
 
 ### Q: What does frankincense smell like?
-Fresh and warm at once — resinous and balsamic with a citrus (lemony) opening, plus peppery and woody notes. It reads "bright" and "clearing" rather than heavy.
+Fresh and warm at once — resinous and balsamic at its core, with a citrus (lemony) opening and supporting peppery and woody notes. Some grades show a dry, mineral, almost stony edge underneath. The overall impression is "bright" and "clearing" rather than heavy or sleepy, which is why frankincense is often chosen for morning, study, meditation, or space-clearing rituals. The balance between the fresh citrus top and the warm balsamic base is what gives frankincense its recognizable two-sided character.
 
 ### Q: Is frankincense the same as oud or agarwood?
-No. Frankincense is a gum-resin from *Boswellia* trees (Burseraceae); agarwood/oud is resin-impregnated *Aquilaria* wood. Different plants, different materials, different aromas.
+No. Frankincense is the dried gum-resin tapped from *Boswellia* trees (family Burseraceae), harvested from incisions in the bark. Agarwood — also called oud — is a resin-impregnated wood from *Aquilaria* trees (Thymelaeaceae), formed when the tree reacts to infection or injury. They are different plants, different plant parts (resin tears versus wood), and different aromas: frankincense is bright and balsamic, agarwood is deep, sweet, and resinous. They are sometimes blended, but they are not the same material.
 
 ### Q: How do you burn frankincense resin?
-Traditionally on a lit charcoal disc (in sand or ash on a heatproof surface), or more gently on an electric incense heater, which shows the bright citrus first with less smoke.
+There are two standard methods. The traditional one places resin tears on a lit charcoal disc set in sand or ash on a heatproof surface — this produces more smoke and a stronger, sometimes sharper release. The gentler method uses an electric incense heater, which warms the resin slowly so it releases its bright citrus notes first, then the warmer balsamic base, with far less smoke. Either way, use a heat-safe dish, keep the material away from anything flammable, and ventilate the room.
 
 ### Q: Why does frankincense smell "churchy"?
-Because frankincense has been used in religious ritual for millennia — in churches, temples, and fumigation. The "old church" association comes from that history, not from the resin being inherently religious.
+Because frankincense has been used in religious and ceremonial contexts for thousands of years — in churches, temples, and fumigation rites across the Mediterranean, the Middle East, and Africa. The "old church" association comes from that long history of ritual use, not from anything inherently religious about the resin. Its dry, resinous, slightly smoky-woody character simply became linked in many people's memories with sacred spaces, which is why the scent can feel instantly familiar and solemn.
 
 ### Q: Is stick frankincense the same as the resin?
-Not necessarily. Many frankincense sticks and cones use a fragrance oil rather than real resin. Confirm whether the product contains *Boswellia* resin or a synthetic "frankincense" note.
+Not necessarily. Many frankincense sticks and cones are built on a charcoal or sawdust base scented with a manufactured "frankincense" fragrance oil rather than real resin. The resin itself is best burned as tears on charcoal or warmed on an electric heater. If you want actual *Boswellia* resin in a stick, confirm with the seller that it contains frankincense resin or a *Boswellia* extract rather than a synthetic note — the label "frankincense" alone does not guarantee the real material.
 
 ---
 
@@ -153,6 +153,9 @@ Not necessarily. Many frankincense sticks and cones use a fragrance oil rather t
 - Botanical references for *Boswellia* (Burseraceae) and the principal species (*B. sacra*, *B. carteri*, *B. frereana*, *B. serrata*, *B. papyrifera*).
 - Perfumery references for the aroma profile (citrus/balsamic/peppery/woody/mineral).
 - Chemistry references noting the essential oil is primarily monoterpenes/sesquiterpenes and that boswellic acids are largely absent from steam-distilled oil.
+- [*Boswellia sacra* on GBIF](https://www.gbif.org/species/8330171)
+- [*Boswellia sacra* in the CITES species checklist](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Boswellia%20sacra)
+- [Bencao Gangmu (本草綱目) full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目)
 - The [frankincense ingredient reference](/ingredients/frankincense/) for botanical and cultural background.
 
 ---

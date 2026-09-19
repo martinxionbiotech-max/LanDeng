@@ -66,26 +66,31 @@ Incense combustion produces smoke and particulate matter — burn in a well-vent
 
 ## FAQ
 
-**Is Chinese cinnamon the same as Ceylon cinnamon?** No — Chinese cassia (*C. cassia*) is stronger and thicker; Ceylon cinnamon (*C. verum*) is milder and finer. Both are *Cinnamomum* barks.
+**Is Chinese cinnamon the same as Ceylon cinnamon?** No. Chinese cassia (*Cinnamomum cassia*) is stronger, with thicker, harder bark, and is the standard "cinnamon" in North America and in Chinese cooking and incense. Ceylon cinnamon (*Cinnamomum verum*, "true cinnamon") is milder, finer, and more expensive, and is favored in parts of Europe and South America. Both are legitimate *Cinnamomum* barks, but the aroma and price differ. In a Chinese incense context, "cinnamon" almost always means cassia (桂皮), not the delicate Ceylon type.
 
-**What is the difference between 桂皮 and 肉桂?** Both are *Cinnamomum cassia* bark: 桂皮 is the coarser outer bark (everyday spice), 肉桂 the finer inner bark (more refined and expensive).
+**What is the difference between 桂皮 and 肉桂?** Both are bark from *Cinnamomum cassia*, but they differ in grade and which layer is used. 桂皮 (guìpí) is the coarser outer bark, the everyday cooking spice, and is strong and economical. 肉桂 (ròuguì) is the finer inner bark, more refined and more expensive. The two names are often flattened into a single English "cinnamon," but Chinese distinguishes them. In a Chinese incense or cooking context, "cinnamon" usually refers to the coarser cassia bark (桂皮).
 
 ---
 
 ## People Also Ask (Long-Tail)
 
-**What does cinnamon/cassia incense smell like?** Warm, sweet, and spicy — driven by cinnamaldehyde. Chinese cassia (桂皮) is stronger and less delicate than Ceylon cinnamon.
+**What does cinnamon/cassia incense smell like?** Cassia incense has a warm, sweet, spicy aroma driven by cinnamaldehyde, the compound that gives cinnamon its characteristic scent. It reads as a warming spice — sweet up front, then a pungent, almost hot finish — and is stronger and less delicate than Ceylon cinnamon. In a blend, cassia acts as a supporting note that adds heat and depth, often paired with clove or citrus peel rather than burned as a solo scent. Its role is closer to a spice-cabinet accent than a sweet base.
 
-**Is cinnamon used in Chinese incense?** Yes — cassia bark (桂皮) is a classic warm spice note in 合香 (blended incense), usually as a supporting note rather than the star.
+**Is cinnamon used in Chinese incense?** Yes. Cassia bark (桂皮) is a classic warm-spice note in Chinese 合香 (blended incense), used to add warmth and pungency. It usually plays a supporting role rather than leading the scent, adding a familiar, food-adjacent warmth that comes from its overlap with Chinese five-spice. Because its aroma is strong, cassia is typically blended with other ingredients — often clove or citrus peel — rather than burned alone. It is one of the traditional spice accents of classical Chinese incense formulas.
 
-**What is cinnamaldehyde?** The principal aroma compound in cinnamon/cassia bark — the molecule responsible for its characteristic warm, spicy-sweet scent.
+**What is cinnamaldehyde?** Cinnamaldehyde is the principal aroma compound in cinnamon and cassia bark — the molecule responsible for their characteristic warm, spicy-sweet scent. It is an organic compound found in the bark's essential oil, and it is what gives both cassia and Ceylon cinnamon their familiar character, though in different concentrations. Cinnamaldehyde is also used industrially as a flavoring and fragrance ingredient. In an incense context, it is simply the compound behind the warm spice note.
 
-**Is cassia the same as Ceylon cinnamon?** No — cassia (*C. cassia*) is stronger and thicker; Ceylon cinnamon (*C. verum*) is milder and finer. Both are legitimate *Cinnamomum* barks.
+**Is cassia the same as Ceylon cinnamon?** No. Cassia (*Cinnamomum cassia*) is stronger and thicker, while Ceylon cinnamon (*Cinnamomum verum*) is milder and finer. Both are legitimate *Cinnamomum* barks, but they differ in aroma, price, and typical use — cassia is the standard "cinnamon" in North America and Chinese cooking, while Ceylon is favored in parts of Europe and South America. In a Chinese incense context, "cinnamon" almost always means cassia (桂皮) rather than the delicate Ceylon type.
 
-**Does cassia bark contain coumarin?** Yes — cassia contains coumarin, which is a consideration for large dietary quantities but is not relevant to incense use. A factual note, not a health recommendation.
+**Does cassia bark contain coumarin?** Yes — cassia bark contains coumarin, a naturally occurring compound that is a consideration for large dietary quantities but is not relevant to incense use. Coumarin is present at higher levels in cassia than in Ceylon cinnamon, which is why some health authorities advise caution about consuming large amounts of cassia. This is a factual note about the bark's composition, not a health recommendation, and it does not affect the safety or aroma of burning cassia as incense.
 
-**Is cassia the "cinnamon" in Chinese five-spice?** Yes — cassia (桂皮) is one of the traditional five-spice (五香粉) components, alongside star anise, cloves, Sichuan pepper, and fennel. That overlap is why its aroma reads as familiar and food-adjacent.
+**Is cassia the "cinnamon" in Chinese five-spice?** Yes. Cassia (桂皮) is one of the traditional five-spice (五香粉) components, alongside star anise, cloves, Sichuan pepper, and fennel. This is why its aroma reads as familiar and food-adjacent — the same spice that warms a Chinese braise also warms an incense blend. The overlap between culinary and incense use is common for cassia, and it explains why the scent feels immediately recognizable even outside a cooking context.
 
 See also: [clove](/ingredients/clove/), its frequent spice partner, and the full [scent guide](/blog/scent-guide/).
+
+## Sources
+
+- [Cinnamomum cassia in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008698)
+- [Cinnamomum aromaticum on GBIF](https://www.gbif.org/species/3033982)
 
 *Sources: botanical references on *Cinnamomum cassia* and *C. verum* (cinnamaldehyde, coumarin, 桂皮/肉桂 usage). This is editorial knowledge content, not medical advice.*

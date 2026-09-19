@@ -102,16 +102,16 @@ Most holder content is an affiliate listicle of decorative burners. This page pu
 ## FAQ
 
 ### Q: What is the best incense holder?
-There is no single best — match the holder to the format: a stick holder, cone holder, backflow burner, coil stand, or charcoal burner. Heatproof ceramic, glass, metal, or stone is the rule.
+There is no single "best" holder, because each format needs something different. Match the holder to what you are burning: a stick holder over an ash tray, a cone holder with a heatproof base, a backflow burner with a hole and catch tray, a coil stand, or a charcoal-safe burner on a bed of ash or sand. The one rule that never changes is material and stability — ceramic, glass, metal, or stone, on a level surface away from drafts and flammables. Heatproof and stable beats decorative every time.
 
 ### Q: Can I burn incense without a holder?
-Not safely. A holder catches ash and keeps the ember on a heatproof surface. See [incense safety](/safety/).
+Not safely. A holder does two essential jobs: it catches the falling ash for the whole burn, and it keeps the smoldering ember on a heatproof surface instead of against wood, plastic, paper, or fabric. Burning a stick or cone directly on a bare surface — or propped against something flammable — risks scorching and fire. Even a simple ceramic dish or a small plate of sand is far better than nothing, but a purpose-matched holder is the safest choice. See [incense safety](/safety/) for the full set of precautions.
 
 ### Q: Do backflow cones need a special burner?
-Yes — a backflow burner with a hole aligned to the cone's base and a catch tray for the falling smoke. See [backflow cones](/blog/backflow-cones/).
+Yes. A backflow cone only produces its waterfall effect on a purpose-built backflow burner, which has a hole aligned to the cone's base and a catch tray or baffle that collects the falling smoke and lets it spill outward. On a flat, ordinary dish the smoke has nowhere to go, so it simply rises and the effect does not happen. Make sure the cone is seated upright and the hole lines up, and keep the setup away from drafts, which can break the downward flow. See [backflow cones](/blog/backflow-cones/).
 
 ### Q: What should I put under a charcoal burner?
-A bed of sand or ash inside a heatproof burner insulates the heat and protects the surface. See [incense powder & resin](/blog/incense-powder-resin/).
+Put a bed of sand or ash inside a heatproof burner, beneath the charcoal disc. The bed does two things: it insulates the intense heat of the charcoal so the burner and the surface under it do not crack or scorch, and it gives the hot disc a stable, non-flammable seat. Never place a lit charcoal disc directly on a thin dish, wood, or plastic. This is the standard setup for heating resin and wood chips. See [incense powder & resin](/blog/incense-powder-resin/) for the full method.
 
 ---
 
@@ -119,6 +119,8 @@ A bed of sand or ash inside a heatproof burner insulates the heat and protects t
 
 - Standard safety guidance on heatproof, format-matched holders.
 - The [format guide](/blog/which-incense-format/) and [incense safety](/safety/) pages.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — background on smoke from burning incense.
+- [Incense burner, China (The Met)](https://www.metmuseum.org/art/collection/search/42359) — a museum example of a Chinese censer.
 
 ---
 

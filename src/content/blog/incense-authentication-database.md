@@ -89,16 +89,16 @@ These are **traditional buyer heuristics**, accumulated in the Chinese agarwood 
 ## FAQ
 
 ### Q: How can I tell if agarwood is real?
-A: Check the burn (white smoke + oil seepage vs black smoke), the gentle-heat aroma (complex and sweet vs "perfume"), and the sink test — and prefer a reputable seller. See the [grading guide](/blog/agarwood-grading-guide/).
+A: Combine several signals rather than relying on one. On burning, real agarwood tends to give white smoke with a slight oil seepage, while many fakes give black smoke. On gentle heat, real agarwood releases a complex, sweet, layered aroma, whereas a fake often smells like "perfume" or plain "burnt wood." For density, resin-rich agarwood sinks in water — the classic 沉香 "sinking fragrance" test — but this alone is not proof. Most important is the seller: buy from someone who names the species, origin, and grade. See the [grading guide](/blog/agarwood-grading-guide/).
 
 ### Q: What is "oil-injected" agarwood?
-A: Non-resinous wood forced with oil under high pressure to add weight and scent — a common fake. See the [grading guide](/blog/agarwood-grading-guide/).
+A: Oil-injected agarwood is non-resinous, low-grade wood that has had oil forced into it under high pressure to add weight and a superficial scent, so it passes density and weight checks a buyer might use. The added oil is usually cheap, and the aroma is thin or "perfume-like" — nothing like the layered sweetness of genuine resin-rich agarwood. Because the oil sits in the wood rather than forming naturally, the piece may smell wrong on gentle heat and burn with a different smoke character. It is one of the most common fakes precisely because it defeats the sink test, so always combine it with burn and aroma checks. See the [grading guide](/blog/agarwood-grading-guide/).
 
 ### Q: Is the sink test reliable?
-A: It is a useful density signal, but oil-injection fakes are designed to pass weight checks, so combine it with burn and aroma signals.
+A: It is a useful density signal but not proof on its own. Resin-dense agarwood genuinely sinks in water, which is where the name 沉香 ("sinking fragrance") comes from, and lower-grade wood floats — so the test can quickly rule out obvious low-resin pieces. However, oil-injection fakes are engineered specifically to pass weight and density checks, and some dyed or treated woods will sink too. A sinking piece can still be a fake, and a floating piece is not automatically worthless. Treat the sink test as one data point and always combine it with the burn smoke and the gentle-heat aroma before deciding.
 
 ### Q: Why is fake sandalwood common?
-A: True *Santalum album* is scarce and expensive, so substitutes (other species or synthetic fragrance) are common. See the [sandalwood guide](/blog/sandalwood-incense/).
+A: True *Santalum album* sandalwood is scarce and expensive: the tree grows slowly, takes years to develop its heartwood oil, and has been heavily overharvested, so genuine material commands a high price. That price gap invites substitution — sellers pass off other sandalwood species, unrelated pale woods, or synthetic fragrance blends under the sandalwood name because the margin is large. Buyers who look only at the name or the low price end up with a copy. Confirming the species and origin, and accepting that real sandalwood costs more, is the practical defense. See the [sandalwood guide](/blog/sandalwood-incense/).
 
 ---
 
@@ -106,6 +106,8 @@ A: True *Santalum album* is scarce and expensive, so substitutes (other species 
 
 - 本草纲目 — historical materia-medica record (traditional, not clinical).
 - Chinese specialist/consumer sources on 沉香 authenticity checks (white smoke/oil seepage vs dyed fakes).
+- [Aquilaria malaccensis on GBIF](https://www.gbif.org/species/5524063) — the botanical species behind most agarwood.
+- [Aquilaria in the CITES species checklist](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Aquilaria%20malaccensis) — agarwood is CITES-listed, which drives scarcity and substitution.
 - Research synthesis: docs/research/agarwood-chenxiang-notes.md (R-001).
 
 ## Related Resources

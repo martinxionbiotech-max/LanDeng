@@ -73,16 +73,16 @@ The second tradition is where the full 香具 toolkit lives — see [the tool se
 ## FAQ
 
 ### Q: What is the difference between a censer and a burner?
-They overlap — "censer" usually means a covered vessel (博山炉, 宣德炉), while "burner/holder" includes flat dishes and stands for sticks, cones, and coils.
+The two terms overlap, but they carry slightly different weight. "Censer" usually means a covered or vessel-like burner — think of the 博山炉 with its mountain lid or the plain 宣德炉 — where the incense sits inside a container. "Burner" or "holder" is the broader, more practical term and includes flat dishes and stands for sticks, cones, and coils, where the incense rests on top or stands upright rather than being enclosed. In everyday use the distinction hardly matters; the practical question is whether you need a vessel (for loose material or indirect heating) or a simple holder (for a stick or coil).
 
 ### Q: Do I need special tools to burn incense?
-For sticks and cones, no — a holder is enough. For resin/powder heating (隔火焚香), you need a small tool set.
+For sticks and cones, no — a simple holder and an ash catcher are enough, and that is all most people need. The full tool set only becomes relevant when you move to resin and powder heating through 隔火焚香, the indirect-fire method. That technique requires a censer, ash, charcoal, a thin plate (silver leaf or mica), and a small kit of tools — chopsticks for the coal, a spoon for the material, and a spatula and tamper for the ash. So the answer depends entirely on which tradition you practice: stick burning needs almost nothing, while resin and powder heating needs the complete 香具 toolkit.
 
 ### Q: What is the least smoky burner?
-The 隔火焚香 setup (electric or buried charcoal under a plate) — it warms material below combustion.
+The least smoky option is the 隔火焚香 setup, which warms the material below its combustion point instead of burning it. In the traditional version, a hot charcoal is buried in ash beneath a thin plate — silver leaf or mica — and the incense sits on the plate, releasing aroma without catching fire. A modern electric incense heater achieves the same result with no charcoal or ash, and is the simplest low-smoke route. Because nothing combusts, both produce far less smoke and particulate than a burning stick or cone, which is why this method appears throughout this site's air-quality guidance as the cleanest way to enjoy incense.
 
 ### Q: Where do I start?
-With a simple stick holder, then explore. See the [burner buying guide](/blog/incense-holder-burner-guide/).
+Start with a simple stick holder — something stable, heatproof, and non-flammable, with a tray to catch the ash. That single piece covers sticks, cones, and coils and costs very little, which makes it the right entry point before spending on anything more. Once you know which format you actually use, you can explore further: a covered censer for the historical forms, or a 隔火焚香 setup if you want the low-smoke resin and powder route. The common mistake is buying a full 香具 toolkit as a beginner when a basic holder is all you need. See the [burner buying guide](/blog/incense-holder-burner-guide/) for the decision path.
 
 ---
 
@@ -90,6 +90,8 @@ With a simple stick holder, then explore. See the [burner buying guide](/blog/in
 
 - Cultural-history references for 博山炉 (Han) and 宣德炉 (Ming).
 - Editorial synthesis of established burner/tool practice.
+- [Incense burner, China (The Met)](https://www.metmuseum.org/art/collection/search/42359)
+- [Incense censer, China (The Met)](https://www.metmuseum.org/art/collection/search/460557)
 
 ## Related Resources
 

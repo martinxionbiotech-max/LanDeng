@@ -84,21 +84,23 @@ author: "\"LanDeng Editorial Team\""
 ## FAQ
 
 ### Q: Do I need a special holder for incense?
-A: Yes — the right holder for the format is the single biggest fire-prevention step. A stick needs a stick holder with an ash catcher; a cone needs a flat heatproof dish.
+A: Yes — a holder matched to the format is the single biggest fire-prevention step. A stick needs a stick holder with an ash catcher so the ember and ash fall onto a safe surface; a cone needs a flat, heatproof dish because it burns down completely and leaves a mark; a coil needs a stable stand or plate that can support its long burn; and resin needs a heatproof vessel with a charcoal disc or an electric heater. Using the wrong holder — a cone on a stick holder, a stick poked into dry soil — is how most avoidable incidents start.
 
 ### Q: Can I burn incense in a plant pot?
-A: Not recommended. Dry soil and plant matter are a fire risk, and the pot is often not heatproof in the way a dedicated holder is.
+A: Not recommended. Dry potting soil and plant matter are a fire risk, and a plant pot is usually not heatproof in the way a dedicated holder is — the soil may contain dry organic material that can smolder, and the pot can crack or transfer heat to the surface beneath it. A stick poked into soil also has no proper ash catcher, so embers can fall onto whatever is below. Use a purpose-made holder designed for the format instead, on a heatproof, stable surface. This is one of the most common and most avoidable mistakes in home incense use.
 
 ### Q: How do I put out an incense stick?
-A: Snuff the ember or snap off the burning tip and discard it in a non-flammable container. Do not leave it smoldering unattended.
+A: Snuff the ember, or snap off the burning tip and discard it in a non-flammable container such as a metal tin or a dish of sand. Do not leave it smoldering unattended — a stick that is still glowing can tip, fall, or ignite nearby material. If you want to stop a cone early, snuff it out the same way. For resin on charcoal, let the charcoal cool completely in its heatproof vessel before disposing of it. The rule is simple: extinguish it, confirm it is out, and only then leave the room.
 
 ### Q: Is it safe to sleep with incense burning?
-A: No — never leave burning incense unattended, including while sleeping. Extinguish it first.
+A: No — never leave burning incense unattended, including while sleeping. During sleep you cannot watch the ember, respond if it tips, or notice smoke accumulating in the room — and a lit tip near bedding, curtains, or a knockable holder is exactly the kind of situation that leads to fire. Extinguish the stick, cone, or coil before lying down, and air the room if it was burning shortly before. If you want scent through the night, consider a format that does not involve an open ember, or stop burning well before bed.
 
 ---
 
 ## Sources
 
+- [U.S. Consumer Product Safety Commission](https://www.cpsc.gov) — fire-safety and product-safety guidance for burning items in the home.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — context on smoke and particulate matter from combustion sources.
 - NFPA fire-safety guidance (heatproof surface, clearances, never leave burning unattended).
 - This page covers fire and usage safety only; no health or medical claims.
 

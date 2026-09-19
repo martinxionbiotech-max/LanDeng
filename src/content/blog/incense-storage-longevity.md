@@ -89,16 +89,16 @@ There is no fixed "expiry date" for incense — degradation is gradual and depen
 ## FAQ
 
 ### Q: Does incense expire?
-A: Not in a fixed-date sense. Incense degrades gradually — losing scent or absorbing moisture — depending on conditions. Stored cool, dry, and sealed, dry sticks and resins last for years.
+A: Not in a fixed-date sense — incense does not "go bad" the way food does. Instead, it degrades gradually: volatile fragrance compounds fade over time, and the material can absorb moisture, which dulls the scent and makes it hard to light. The rate depends entirely on conditions, not on a calendar. Stored cool, dry, and sealed away from light and competing odors, dry sticks, cones, and resins can last for years. A stick left loose on a sunny windowsill or in a humid bathroom will fade much faster.
 
 ### Q: How should I store incense?
-A: In a sealed container, in a cool, dry, dark place, away from moisture and strong competing odors.
+A: Store incense in a sealed container — a jar, tin, or zip bag — in a cool, dry, dark place, away from moisture and strong competing odors. Sealing keeps out humidity and prevents the incense from absorbing ambient smells, which would muddy its own scent. A cupboard or drawer is ideal; avoid windowsills, above radiators, and bathrooms, which combine heat, light, and moisture. For humid climates, add a desiccant packet to the container, and keep the incense out of reach of children and pets.
 
 ### Q: Why did my incense stop burning well?
-A: Most likely moisture. Damp incense will not light or burn cleanly — dry it out and store it sealed with a desiccant.
+A: The most likely cause is moisture. Damp incense will not light easily, burns poorly, and can produce a weak or uneven smolder, because the water it absorbed interferes with combustion. This often happens when sticks are stored in a humid room or left unsealed. To fix it, dry the incense slowly in a cool, dry place (never direct heat), then store it sealed with a desiccant packet to keep humidity out. If the scent has also faded, it may simply be old, and the fragrance compounds have degraded.
 
 ### Q: How long do incense sticks last?
-A: Years, when kept sealed, cool, and dry. There is no set expiry; degradation depends on storage conditions.
+A: Years, when kept sealed, cool, and dry. There is no fixed expiry date for incense — degradation is gradual and depends on storage conditions, not on a calendar. Resins such as frankincense and myrrh, and wood chips like agarwood, are the most stable and can last for many years. Hand-rolled sticks that rely on essential oils are more sensitive and may fade sooner, while dipped fragrance-oil sticks can lose scent quickly once the package is opened. Stored properly, most dry incense stays usable for a long time.
 
 ---
 
@@ -106,6 +106,8 @@ A: Years, when kept sealed, cool, and dry. There is no set expiry; degradation d
 
 - Editorial synthesis of established incense-storage practice (cool, dry, dark; resin vs stick longevity).
 - General materials guidance; no specific lab data asserted.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — background on combustion and indoor air.
+- [American Lung Association indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — on particulate matter and indoor burning.
 
 ## Related Resources
 

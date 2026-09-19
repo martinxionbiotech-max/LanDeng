@@ -123,19 +123,19 @@ LanDeng treats Tibetan incense as what it is: a **herbal, recipe-based incense t
 ## FAQ
 
 ### Q: What does Tibetan incense smell like?
-Earthy, herbal, and slightly smoky — juniper and other aromatic plants over a sweet-woody base, rather than a single dominant note.
+Earthy, herbal, and slightly smoky — juniper and other aromatic plants over a sweet-woody base, rather than a single dominant note. It is a blended scent: warm spices like clove and nutmeg, and precious ingredients like saffron, sit inside a formula that can combine two dozen or more botanicals. The overall effect is rustic and grounded — closer to burning dried herbs than to a sweet single-floral stick. Because it is a recipe tradition, the exact aroma varies by monastery and lineage, so "Tibetan" describes a family of herbal blends, not one fixed smell.
 
 ### Q: Does Tibetan incense have a bamboo core?
-Typically no. Tibetan sticks are hand-rolled and coreless, and often thicker than Indian or Japanese sticks.
+Typically no. Tibetan sticks are hand-rolled and coreless, and often thicker than Indian or Japanese sticks. Traditional Tibetan sticks are hand-rolled and coreless — the ground botanicals are mixed into a paste and formed into a thick, solid stick without the bamboo splint used in Indian agarbatti. That coreless, thicker form is one of the clearest ways to recognize a Tibetan-style stick, and it changes the burn: the stick itself is the fuel, so it tends to burn with a denser, more herbal smoke. Some commercial "Tibetan-style" products may add a core or cut corners, so a coreless, thicker stick is the honest sign of a more traditional product.
 
 ### Q: Is Tibetan incense medicinal?
-Its recipes come from the Tibetan medical system (Sowa Rigpa), but that is a cultural and historical context — burning it is not a clinical treatment.
+Its recipes come from the Tibetan medical system (Sowa Rigpa), but that is a cultural and historical context — burning it is not a clinical treatment. The recipes were formulated as ritual or medicinal compounds for use in monasteries, meditation, and purification, and that cultural origin is real and well documented. But "medicinal" here describes a tradition, not a proven treatment: burning the incense does not treat illness, and any claim that it does is overreach. The honest framing is that the medical context gives the recipes their structure and meaning, while any actual therapeutic effect is not established clinical fact, and LanDeng makes no such claim.
 
 ### Q: How is Tibetan incense different from Indian incense?
-Indian agarbatti is bold and floral-spicy on a bamboo core; Tibetan incense is earthy, herbal, and smoky, in a thicker coreless stick. See [Indian incense](/blog/indian-incense-agarbatti/).
+Indian agarbatti is bold and floral-spicy on a bamboo core; Tibetan incense is earthy, herbal, and smoky, in a thicker coreless stick. See [Indian incense](/blog/indian-incense-agarbatti/). Indian incense is bold and floral-spicy, built on a bamboo core, with sandalwood, jasmine, rose, and champa as its notes, and a room-filling, immediate character. Tibetan incense is earthy, herbal, and smoky, in a thicker coreless stick, with juniper and other high-altitude plants as its signature. Both are smoky by Western standards, but Tibetan incense leans herbal-medicinal in its recipe tradition, while Indian incense leans floral-bold. The forms also differ — a bamboo splint versus a solid rolled stick — and so do the ritual contexts.
 
 ### Q: How is Tibetan incense different from Chinese incense?
-Chinese 香 tends to be warmer and more layered, with refined low-smoke techniques; Tibetan incense is earthy, herbal, and smoky, in a thicker coreless stick. See [what Chinese incense is](/blog/what-is-chinese-incense/).
+Chinese 香 tends to be warmer and more layered, with refined low-smoke techniques; Tibetan incense is earthy, herbal, and smoky, in a thicker coreless stick. See [what Chinese incense is](/blog/what-is-chinese-incense/). Chinese 香 has a long tradition of refined, low-smoke techniques and a focus on sweet woods like sandalwood and agarwood. Tibetan incense is built from a blended recipe of juniper, spices, and herbs rather than a single refined note. The philosophical framing also differs: Chinese incense culture is closely tied to aesthetic and scholarly appreciation, while Tibetan incense is rooted in Sowa Rigpa and monastery ritual. If you prefer subtle, layered sweetness, Chinese incense fits; if you want rustic, herbal depth, Tibetan does.
 
 ---
 
@@ -143,6 +143,8 @@ Chinese 香 tends to be warmer and more layered, with refined low-smoke techniqu
 
 - Cultural references on Tibetan incense and its Sowa Rigpa / monastery context.
 - Botanical references for the representative ingredients (juniper, sandalwood, clove, nutmeg, saffron).
+- [本草纲目 (Bencao Gangmu) on Wikisource](https://zh.wikisource.org/wiki/本草綱目) — the historical materia-medica context for herbal ingredients.
+- [Santalum album on GBIF](https://www.gbif.org/species/2889785) — the sandalwood species used as the sweet-woody anchor in many Tibetan recipes.
 - The [Indian incense](/blog/indian-incense-agarbatti/) and [sandalwood](/blog/sandalwood-incense/) guides for comparison.
 
 ---

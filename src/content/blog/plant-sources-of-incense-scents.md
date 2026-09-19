@@ -88,33 +88,36 @@ Read the label with this map in mind, and a lot of the mystery in incense buying
 ## FAQ
 
 ### Q: Where does the sandalwood scent come from?
-A: The heartwood of *Santalum album* (and related species), not the flowers or leaves.
+A: The heartwood of *Santalum album* (and related species), not the flowers, leaves, or bark. The fragrant oil develops in the dense center of the trunk as the tree ages over decades. This is why real sandalwood is expensive: the aromatic heartwood is slow to form and the tree is hemiparasitic, needing host plants to grow. The scent is creamy and sweet-woody, and only the heartwood — ground to powder or distilled to oil — carries it.
 
 ### Q: Are flower scents real in incense?
-A: Usually not — raw flowers burn poorly, so most floral incense is a fragrance accord. See the [lotus guide](/blog/lotus-incense/).
+A: Usually not. Raw flowers burn poorly and their delicate scent does not survive direct burning, so most floral incense is built on a fragrance accord that evokes the flower rather than using real flower material. A few florals (rose, jasmine) can be captured as costly absolutes, but in everyday sticks the "flower" note is almost always reconstructed. See the [lotus guide](/blog/lotus-incense/) for how this plays out with lotus specifically.
 
 ### Q: What part of the plant is frankincense?
-A: A gum-resin tapped from the bark of *Boswellia* trees — not a wood or flower.
+A: A gum-resin tapped from the bark of *Boswellia* trees — not a wood and not a flower. The resin is collected from incisions made in the bark, where it hardens into "tears" that are then hand-sorted by grade. This is why frankincense is classified as a resin: it is an exudate, a plant secretion, rather than a structural part like heartwood or a reproductive part like a flower. Its scent is bright and balsamic.
 
 ### Q: Why does the plant part matter?
-A: The part (wood vs resin vs flower vs peel) determines the scent character and how it burns — deep and slow for wood/resin, bright and delicate for flowers.
+A: Because the plant part determines the scent character and how it burns. Heartwood and resin burn or heat slowly and carry deep, persistent aroma, so they anchor a blend. Flowers are delicate and usually become fragrance accords. Peels, buds, and barks are bright or spicy and typically serve as top notes or blend components. Knowing the part is a shortcut to predicting both the aroma and the burn behavior.
 
 ---
 
 ## People Also Ask / 长尾问答
 
 ### Q: Which plant parts burn best in incense?
-Woods and resins burn (or heat) slowly and carry deep, persistent scent, so they are the classical backbone. Raw flowers burn poorly, which is why florals are usually fragrance accords. Peels, buds, and barks are bright or spicy top notes, usually blend components.
+Woods and resins burn (or heat) slowly and carry deep, persistent scent, so they are the classical backbone of incense. Heartwood such as sandalwood and resin-impregnated agarwood release their aroma steadily, while resins like frankincense and myrrh warm into bright, balsamic notes. Raw flowers burn poorly, which is why florals are usually rendered as fragrance accords. Peels, buds, and barks — citrus, clove, cassia — are bright or spicy top notes that add lift but rarely stand alone.
 
 ### Q: Is the lotus in lotus incense a real flower?
-Usually not — lotus has a subtle, aquatic scent that does not survive burning, so most "lotus" incense is a fragrance accord. See the [lotus guide](/blog/lotus-incense/).
+Usually not. The lotus has a subtle, aquatic scent that does not survive burning or heating well, and true lotus absolute is rare and expensive. As a result, most "lotus" incense is a fragrance accord — a blended or synthetic construction that evokes the lotus note rather than real flower material. This is not automatically a defect, but it is worth knowing what you are buying. See the [lotus guide](/blog/lotus-incense/).
 
 ### Q: Why is makko listed as a plant source?
-Makko (*Machilus thunbergii* bark) is a functional ingredient — the combustible binder — not a scent. It is listed because it is the one plant material in incense whose job is structure, not fragrance. See [makko & natural binders](/blog/makko-natural-binders/).
+Makko (*Machilus thunbergii* bark) is a functional ingredient — the combustible binder — not a scent. It is listed because it is the one plant material in incense whose job is structure, not fragrance: it holds the fragrant powders together and burns cleanly so the stick keeps its shape and burns evenly. Nearly odorless on its own, it disappears into the blend. Understanding makko explains why "contains a binder" is normal and necessary rather than a red flag. See [makko & natural binders](/blog/makko-natural-binders/).
 
 ## Sources
 
 - Botanical references — Kew Plants of the World Online and Flora of China for species identity and range.
+- [*Aquilaria sinensis* in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506)
+- [*Santalum album* on GBIF](https://www.gbif.org/species/2889785)
+- [*Osmanthus fragrans* in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001392)
 - 本草纲目 — historical materia-medica record (traditional, not clinical).
 
 ## Related Resources

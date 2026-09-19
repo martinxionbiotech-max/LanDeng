@@ -78,19 +78,25 @@ Chinese incense carries a rich layer of **traditional and cultural knowledge** (
 
 ## People Also Ask / 长尾问答
 
-**What does Chinese incense smell like?** It depends on the material: sandalwood (檀香) is creamy and sweet-woody, agarwood (沉香) is deep and resinous, frankincense (乳香) is bright and balsamic, and blended 合香 spans floral to medicinal. The shared signature is warmth and layering rather than a single sharp note.
+**What does Chinese incense smell like?** It depends entirely on the material. Sandalwood (檀香) is creamy, milky, and sweet-woody; agarwood (沉香) is deep, resinous, and faintly medicinal; frankincense (乳香) is bright, lemony, and balsamic. Clove and cinnamon add spice, while blended 合香 compounds can range from floral and sweet to herbaceous and bitter. The shared signature across the tradition is warmth and layering — most refined Chinese incense is a blend that unfolds gradually rather than one sharp, single-note scent.
 
-**How long does a stick of Chinese incense burn?** Roughly 20–60 minutes depending on length and thickness — short Japanese-style coreless sticks ~25–30 min, thicker bamboo-core sticks ~45–60 min. Cones burn ~10–15 min; coils burn for hours; seal-incense trails (篆香) burn along a timed path.
+**How long does a stick of Chinese incense burn?** Roughly 20–60 minutes, depending on length, thickness, and composition. Short, thin coreless sticks (common in the Japanese-influenced style) burn around 25–30 minutes, while thicker bamboo-core sticks can run 45–60 minutes. Cones typically last about 10–15 minutes, and large coils can smolder for several hours. Seal-incense trails (篆香), made from pressed powder, burn along a timed path and were historically used as a form of timekeeping. Exact burn times vary by maker and material density.
 
-**What is 隔火焚香 (indirect-fire incense)?** The refined Song-dynasty technique of burying hot charcoal in ash and resting the fragrant wood on a plate above it, so aroma releases with almost no smoke. It is the ancestor of Japanese kōdō — the "scent, not smoke" method.
+**What is 隔火焚香 (indirect-fire incense)?** It is the refined Song-dynasty technique of burying a piece of hot charcoal in ash, then placing a thin mica or silver plate on top and resting the fragrant wood or resin on that plate. The material warms gently rather than burning, so it releases a pure aroma with almost no visible smoke. This "scent, not smoke" approach became the direct ancestor of Japanese kōdō, which later systematized and formalized the same practice. It remains the reference method for appreciating high-grade agarwood.
 
-**Is Chinese incense natural?** Not automatically. Natural incense uses plant material and a plant binder (like makko); much commercial incense is a charcoal or sawdust base soaked in synthetic fragrance. "Natural" is unregulated, so check the ingredients rather than the label. See [what makes incense natural](/blog/what-makes-incense-natural/).
+**Is Chinese incense natural?** Not automatically. Natural incense is built from plant material — wood powder, resin, or dried botanicals — held together with a plant binder such as makko. Much commercial incense, by contrast, is a charcoal or sawdust base soaked in synthetic fragrance oil. The word "natural" is not legally regulated in most markets, so a label alone proves little. The reliable check is the ingredient list: named plant materials and a plant binder point toward natural, while vague "fragrance" terms point the other way. See [what makes incense natural](/blog/what-makes-incense-natural/).
 
-**What is the difference between Chinese incense and a candle?** A candle is wax with a wick, burned for light and scent; incense is aromatic plant material burned or heated for its scent alone. Incense is a material-and-ritual tradition, not a lighting technology.
+**What is the difference between Chinese incense and a candle?** A candle is wax built around a wick, burned primarily for light and secondarily for scent; incense is aromatic plant material — wood, resin, herbs, or flowers — burned or gently heated for its fragrance alone. Incense carries no lighting function, and its forms (sticks, coils, cones, raw material, or pressed powder) are chosen for aroma, burn time, and ritual. It is a material-and-ritual tradition that developed over two millennia, not a lighting technology.
 
-**What is 合香 (blended incense)?** The art of combining multiple materials into one compound, built on the 君臣佐使 (chief/minister/assistant/guide) formula principle. Most refined Chinese incense is a blend, not a single scent.
+**What is 合香 (blended incense)?** It is the art of combining multiple fragrant materials into a single compound, structured on the 君臣佐使 (chief/minister/assistant/guide) principle borrowed from classical Chinese compounding. The chief (君) defines the blend's character, the minister (臣) supports it, the assistant (佐) adds nuance or tempers sharp edges, and the guide (使) harmonizes the whole. Most refined Chinese incense is therefore a recipe — a balanced blend — rather than one single scent.
 
-**Is Chinese incense the same as Japanese incense?** They share an origin — Japanese kōdō developed from Song-dynasty 隔火焚香 — but Chinese incense is warmer and more complex, while Japanese incense is minimalist and very low-smoke. See [Japanese incense & kōdō](/blog/japanese-incense-kodo/).
+**Is Chinese incense the same as Japanese incense?** They share an origin — Japanese kōdō developed from the Song-dynasty 隔火焚香 technique — but the two traditions diverged. Chinese incense tends to be warmer, more complex, and tied to informal scholarly life; Japanese incense is minimalist, precise, and often extremely low-smoke, centered on high-grade agarwood and formal ritual games. Chinese incense is one of the four leisure arts, while kōdō became a standalone art. See [Japanese incense & kōdō](/blog/japanese-incense-kodo/).
+
+## Sources
+
+- [Xiang Cheng (香乘) full text on Wikisource](https://zh.wikisource.org/wiki/香乘)
+- [Meng Liang Lu (夢粱錄) full text on Wikisource](https://zh.wikisource.org/wiki/夢粱錄)
+- [Bencao Gangmu (本草綱目) on ctext.org](https://ctext.org/wiki.pl?if=gb&res=8)
 
 ---
 

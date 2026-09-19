@@ -106,22 +106,23 @@ This is the cleanest lesson in the 佐 (assistant) role: the assistant is rarely
 ## FAQ
 
 ### Q: What does 雪中春信 mean?
-Literally "snow in spring" — a blend that evokes the cold-to-warm transition with a camphor "snow" note over warm woods.
+Literally "snow in spring" (雪中春信), and the name describes what the blend is meant to evoke: the moment winter turns to spring, rendered as a cool "snow" note over warm woods. The effect comes from camphor (樟脑), a sharp, almost mentholated note set against sandalwood and herbal tones, reading as a cold snap against warmth. The name is the recipe's identity — it promises a seasonal image, and the formula delivers it through the contrast between the camphor's chill and the wood's warmth.
 
 ### Q: Did Su Shi really create it?
-The attribution is traditional but unverified — widely repeated, but not documented fact.
+The attribution is traditional but unverified. Su Shi (苏轼) is famous in incense lore for the romantic story of collecting plum-blossom snow water over seven years to make this blend, but that story is a later invention, not a verifiable source. The formula survives in Ming-era manuals like the 香乘, compiled long after Su Shi's time, and those manuals themselves record multiple versions that disagree. So the page treats the Su Shi link as a legend — an evocative label attached to a recipe whose actual craft, not its supposed author, is what matters.
 
 ### Q: What makes it smell "snowy"?
-The camphor (樟脑) — a cool, sharp note set against sandalwood and herbal tones.
+Camphor (樟脑). Camphor is a cool, sharp, slightly mentholated note, and when it is placed against warm sandalwood and the herbal middle tones of cyperus and turmeric, the contrast reads as cold against warmth — a "snow" note. This is the recipe's signature and the cleanest lesson in the assistant (佐) role: camphor is not the loudest or most abundant ingredient, but it is the one that gives the blend its name and identity. The cold snap is a compositional effect, built by placing one cool material inside a warm structure.
 
 ### Q: Can I make it today?
-In principle yes, but the proportions vary by version and musk is restricted or scarce in most places. Treat it as historical study.
+In principle yes, but with caveats. The 香乘 records at least three versions with different ingredients and proportions, so there is no single "correct" formula to follow — Version A is camphor-forward on a cyperus-turmeric-sandalwood base, while Version B is built on agarwood with a wide herbal and spice array. Musk (麝香) is restricted, scarce, or unavailable in most places, and many modern reproductions substitute or omit it. Treat the recipe as historical study: read the ratios and the structure, not a precise gram conversion, and expect to adapt.
 
 ---
 
 ## Sources
 
 - 香乘 (Xiang Cheng), 周嘉胄 (Ming), 卷十八 — the primary formula (multiple recorded versions). [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
+- 本草綱目 — the materia medica documenting camphor, sandalwood, cyperus, and the formula's other materials. [Full text on ctext.org](https://ctext.org/wiki.pl?if=gb&res=8).
 
 ## Related Resources
 

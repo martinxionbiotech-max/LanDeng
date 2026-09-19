@@ -116,19 +116,19 @@ Indian incense is a favorite of affiliate "best incense" roundups, which rank st
 ## FAQ
 
 ### Q: What does "agarbatti" mean?
-It comes from Sanskrit *agarvarti* — "agar (agarwood) smoke" — and refers to the classic Indian bamboo-core incense stick.
+It comes from Sanskrit *agarvarti* — "agar (agarwood) smoke" — and refers to the classic Indian bamboo-core incense stick. The name is *agar* from agarwood (the fragrant resinous wood) plus *varti* for "stick," and it points to a time when agarwood was the prized fragrant core of the Indian stick tradition — even though most modern agarbatti is built on sandalwood and floral ingredients rather than the far more expensive agarwood. Today the word simply means the classic Indian incense stick: a thin bamboo splint coated in a fragrant paste, dried, and burned. Knowing the etymology explains why the form carries the prestige name even when the base material has changed.
 
 ### Q: What is the difference between masala and dipped agarbatti?
-Masala is hand-rolled from real botanical powders; dipped is a core dipped in a liquid fragrance. Masala is usually earthier and pricier; dipped is stronger, cheaper, and uniform.
+Masala is hand-rolled from real botanical powders; dipped is a core dipped in a liquid fragrance. Masala is usually earthier and pricier; dipped is stronger, cheaper, and uniform. Masala agarbatti is rolled from a paste of real botanical powders — woods, resins, flowers, and spices — so the scent comes from the actual materials and tends to be earthier, more complex, and longer-lasting. Dipped (charcoal) agarbatti is a core dipped into a liquid fragrance, usually synthetic or a perfume-oil blend; it is cheaper to make and its scent is stronger and more uniform. The practical signal is price and smell: a very cheap, uniformly strong stick is almost always dipped. Neither is automatically wrong — they are different products.
 
 ### Q: What does Indian incense smell like?
-Bold, floral-spicy, and often smoky — sandalwood, jasmine, rose, and champa are the classic notes.
+Bold, floral-spicy, and often smoky — sandalwood, jasmine, rose, and champa are the classic notes. It is designed to fill a room and carry ritual presence rather than whisper. The classic notes are sandalwood as the sweet-woody backbone, plus jasmine, rose, and champa (plumeria), often blended into a masala or rendered as a dipped fragrance. The overall character is floral-spicy and immediate — the opposite of Japanese minimalism and distinct from the warmer, more layered Chinese 香. Because it is meant to be a clear, present offering in worship, the scent leans strong and room-filling, which is a feature of the tradition, not a defect.
 
 ### Q: Is Indian incense the same as Chinese or Japanese incense?
-No. Indian incense is bold and expressive; Chinese 香 is warmer and layered; Japanese kōh is minimalist. See [what Chinese incense is](/blog/what-is-chinese-incense/).
+No. Indian incense is bold and expressive; Chinese 香 is warmer and layered; Japanese kōh is minimalist. See [what Chinese incense is](/blog/what-is-chinese-incense/). The three traditions are clearly different: Indian agarbatti is bold and floral-spicy, on a bamboo core, and often smoky, built for ritual presence. Chinese 香 tends to be warmer and more layered, with a developed tradition of refined, low-smoke techniques. Japanese kōh is minimalist and very low-smoke, designed for quiet, meditative appreciation. The materials overlap — sandalwood appears in all three — but the form, scent character, and intention differ. Judging Indian incense by Japanese standards misses the point; bold and smoky is what the tradition is for.
 
 ### Q: What is dhoop?
-A thicker, often coreless form of Indian incense, molded or extruded and burned in temples and homes. Dhoop is related to agarbatti but a distinct format.
+A thicker, often coreless form of Indian incense, molded or extruded and burned in temples and homes. Dhoop is related to agarbatti but a distinct format. It burns more slowly, produces a denser smoke, and is common in temples and home shrines, where a steady, substantial offering is wanted. Because dhoop has no bamboo core, its smoke profile differs from a standard agarbatti stick, and the scent is often more concentrated. While it shares the same botanical and resinous ingredients, it is best understood as a separate format within the same Indian tradition, not just a thicker version of a stick.
 
 ---
 
@@ -136,6 +136,8 @@ A thicker, often coreless form of Indian incense, molded or extruded and burned 
 
 - Industry and trade references on masala vs. dipped agarbatti production.
 - Etymological references for *agarvarti*.
+- [Santalum album on GBIF](https://www.gbif.org/species/2889785) — the sandalwood species that anchors much of the masala tradition.
+- [Santalum album in the CITES species checklist](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Santalum%20album) — sandalwood is CITES-listed, which explains its cost and substitution.
 - The [sandalwood](/blog/sandalwood-incense/) and [what is Chinese incense](/blog/what-is-chinese-incense/) guides for cross-tradition comparison.
 
 ---

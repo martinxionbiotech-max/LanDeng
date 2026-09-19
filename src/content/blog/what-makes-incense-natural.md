@@ -120,19 +120,19 @@ So the honest guidance is: choose natural materials if you care about what you a
 ## FAQ
 
 ### Q: What is makko powder?
-Makko (抹香) is the ground bark of the tabu tree (*Machilus thunbergii*), used in natural incense as both a binder (holds the stick together) and a combustion agent (helps it burn evenly). It is the traditional backbone of Japanese incense.
+Makko (抹香) is the ground bark of the tabu tree (*Machilus thunbergii*, family Lauraceae), used in natural incense as both a binder (holding the stick together) and a combustion agent (helping it burn evenly). When moistened and mixed with aromatic powders, it forms a paste that dries into a firm, self-supporting stick, then burns quietly and nearly odorlessly. It is the traditional backbone of Japanese incense and now appears in natural hand-rolled incense worldwide, in several grades that burn at different rates.
 
 ### Q: How can I tell if incense is natural?
-Look for a named plant aromatic (e.g., sandalwood powder), a plant binder (makko or plant gum), and no charcoal/fragrance-oil base. Very cheap sticks that smell of "perfume" and won't disclose their binder are usually synthetic. See the full [natural vs synthetic guide](/blog/natural-vs-synthetic-incense/).
+Look for three things. First, a named plant aromatic — for example, sandalwood powder or agarwood — rather than a vague "fragrance" or "parfum." Second, a plant binder such as makko or a plant gum, not a chemical adhesive or nothing listed. Third, no charcoal or fragrance-oil base. Very cheap sticks that smell strongly of "perfume" and won't disclose their binder or base are usually synthetic. No single signal is conclusive; the three together are a reliable rule of thumb. See the full [natural vs synthetic guide](/blog/natural-vs-synthetic-incense/).
 
 ### Q: Does "natural" mean smoke-free?
-No. All burning plant material produces smoke and particulate matter. "Natural" describes the materials, not the combustion byproducts. Ventilate regardless.
+No. All burning plant material — wood, resin, or botanical — produces smoke and fine particulate matter (including PM2.5) when burned, whether or not the incense is "natural." "Natural" describes the source of the materials, not the combustion byproducts. So ventilate regardless: open a window, keep sessions reasonably short, and keep burning incense away from children and pets. Natural is not a synonym for smoke-free.
 
 ### Q: Is "hand-rolled" the same as "natural"?
-No. Hand-rolling is a method of forming the stick; it does not tell you whether the inside is plant material or a charcoal/fragrance base.
+No. Hand-rolling describes the method used to form the stick — shaping a paste of ingredients by hand versus extruding it by machine — not what is inside it. A hand-rolled stick can still contain a charcoal or sawdust base with synthetic fragrance, just as a machine-made stick can be entirely plant-based. The label "hand-rolled" is about craft and process; the ingredient list is what tells you whether the material is natural.
 
 ### Q: Why is natural incense more expensive?
-Real aromatic woods and resins (agarwood, sandalwood) and plant binders cost more than charcoal filler and synthetic fragrance. Very low prices are a strong signal of a filler-based product.
+Because the ingredients cost more. Real aromatic woods and resins — agarwood, sandalwood, frankincense — are slow to grow, scarce, and priced by weight, and plant binders like makko cost more than charcoal filler. A fragrance-oil stick is mostly cheap filler carrying a manufactured scent, so it can be sold for very little. A very low price is therefore a strong signal of a filler-based, synthetic product, even if the label says "natural."
 
 ---
 
@@ -140,6 +140,8 @@ Real aromatic woods and resins (agarwood, sandalwood) and plant binders cost mor
 
 - Baieido / Scents of Earth / DIY incense suppliers — makko as *Machilus thunbergii* bark powder binder and combustion agent.
 - Japanese incense manufacturer references on makko grades and use.
+- [Platycladus orientalis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005428)
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq)
 - General labeling-standards references on the unregulated nature of "natural" claims.
 
 ---

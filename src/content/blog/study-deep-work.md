@@ -98,31 +98,33 @@ Much "focus incense" content sells a productivity shortcut. This page sells only
 ## FAQ
 
 ### Q: What incense is good for studying?
-A bright, non-distracting scent — citrus or frankincense — and a stick whose burn time matches your work block. See [citrus incense](/blog/citrus-incense/).
+A bright, non-distracting scent — citrus or frankincense — plus a stick whose burn time matches your work block. Citrus is the classic bright, energizing note that keeps a room feeling alert. Frankincense is fresh, resinous, and slightly citrus-woody, reading as "clear" and focused without being heavy. Cedar is a quieter alternative if you want a dry, clean wood that sits in the background. Avoid deep sweet woods like agarwood and heavy florals, which read as enveloping rather than alert. Match the burn to your block — a thin coreless stick of about 25–30 minutes suits one focus sprint. See [citrus incense](/blog/citrus-incense/).
 
 ### Q: Does incense improve focus?
-LanDeng makes no such claim. A bright scent and a consistent ritual can support a focused atmosphere, but that is a fragrance and routine effect, not a measured cognitive one.
+LanDeng makes no such claim. Incense does not improve concentration, memory, or productivity in any measured way, and no scent reliably produces a cognitive effect. What a bright scent and a consistent ritual can do is support a focused atmosphere: lighting the same citrus or frankincense every time you sit down to work turns the smell into a "work has started" cue through repetition. That is a fragrance and routine effect, not a performance effect. So use incense as structure — a timer and a cue — not as a cognitive enhancer, and be wary of any product promising a focus boost.
 
 ### Q: How do I use incense as a study timer?
-Light a stick at the start of a work block and stop when it goes out — a thin coreless stick is ~25–30 min, a bamboo-core stick ~45–60 min. See [which incense format](/blog/which-incense-format/).
+Light a stick at the start of a work block and stop when it goes out. That turns the burn into a natural pomodoro: the lighting marks the start, and the stick going out marks the end, so you work for a fixed span without watching a clock. A thin coreless stick burns roughly 25–30 minutes, good for one short sprint; a bamboo-core stick burns roughly 45–60 minutes, good for a longer deep-work block. Keep the room ventilated, and don't light a second stick mid-block — the point is the fixed window. See [which incense format](/blog/which-incense-format/) for burn times.
 
 ### Q: Is frankincense good for focus?
-Frankincense is a classic "bright, focusing" resin — fresh and citrus-woody, not heavy. See [frankincense](/blog/frankincense-incense/).
+Frankincense is a common choice for focus because of its character, not because of a proven effect. It is fresh, resinous, and slightly citrus-woody — a "clear" note that keeps a room feeling alert without the heaviness of a deep wood or the sweetness of a floral. That bright quality is why it is often paired with study and deep work. But the focus benefit comes from how you use it: burn the same frankincense at the start of each work session and it becomes a cue for getting started. LanDeng makes no claim that frankincense improves concentration. See [frankincense](/blog/frankincense-incense/) for the full guide.
 
 ---
 
 ## People Also Ask / 长尾问答
 
 ### Q: Is cedar good for studying?
-Cedar is a clean, fresh, room-clearing scent — a reasonable "neutral focus" choice if you find floral or resin scents distracting.
+Cedar is a clean, fresh, room-clearing scent, and a reasonable "neutral focus" choice if you find floral or resin scents distracting. It sits quietly in the background — dry, slightly sweet, and unobtrusive — which suits long stretches of reading or writing where you don't want the scent competing for attention. It lacks the bright lift of citrus or frankincense, so it reads more neutral than energizing, but that is exactly why some people prefer it for deep work. As with any scent, the benefit is the ritual: use the same cedar consistently at the start of a session and it becomes a cue.
 
 ### Q: How many sticks should I burn in a study session?
-One at a time, in a ventilated room. More sticks means more smoke, not more focus.
+One at a time, in a ventilated room. A single stick of a bright, clean scent is plenty for a normal room, and burning more does nothing for your focus — it only adds smoke and fine particles, which can make the air stale and uncomfortable during long work blocks. If you want the scent to last through a long session, choose a longer-burning format, like a bamboo-core stick or a coil, rather than lighting several at once. Keep a window or door open so the air stays clear, and let one stick carry the room.
 
 ## Sources
 
 - The [citrus](/blog/citrus-incense/) and [frankincense](/blog/frankincense-incense/) guides for scent detail.
 - The [meditation guide](/blog/incense-for-meditation/) for the "incense as timer" framing.
+- [American Lung Association — indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — background on combustion particles, which is why this page stresses ventilation and a low-smoke format.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — general guidance on indoor combustion sources and ventilation.
 
 ---
 

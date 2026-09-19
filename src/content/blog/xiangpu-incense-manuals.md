@@ -87,16 +87,16 @@ This page is an **orientation** to the 香谱 tradition, not a translation of th
 ## FAQ
 
 ### Q: What are the 香谱 (xiāng pǔ)?
-A: The canonical Chinese incense manuals — texts recording formulas, materials, and lore, culminating in the Ming-dynasty 《香乘》 by Zhou Jiazhou.
+A: 香谱 (xiāng pǔ) literally means "incense manuals" — the canonical Chinese texts that record incense formulas, raw materials, and the lore around their use. The tradition runs from Song-dynasty works such as 陈氏香谱 (Chen's Incense Manual) and 洪芻香谱 (Hong Chu's), through the 新纂香谱 ("New Compilation"), and culminates in the Ming-dynasty 《香乘》 (Incense Compendium) compiled by Zhou Jiazhou. Together they form what scholars regard as the world's most complete body of ancient incense literature, yet almost none of it has been translated into English, leaving a large gap in what Western readers can access.
 
 ### Q: What is 《香乘》?
-A: A Ming-dynasty encyclopedia of incense by Zhou Jiazhou, widely regarded as the most comprehensive of the classical manuals.
+A: 《香乘》 (Xiāng chéng, "Incense Compendium") is a Ming-dynasty encyclopedia of incense compiled by Zhou Jiazhou (周嘉胄). It gathers the earlier Song manuals — 陈氏香谱, 洪芻香谱, and others — into a single large reference, making it the most comprehensive of the classical incense manuals. The title is sometimes rendered "Incense Vehicle," a play on the character 乘. Because it consolidates hundreds of named formulas and the terminology of the 合香 blending tradition, it is the text most often cited when English writers describe the depth of Chinese incense literature, despite the original remaining largely untranslated.
 
 ### Q: Are the 香谱 translated into English?
-A: Almost not at all. This untranslated status is the single biggest gap in English-language incense knowledge.
+A: Almost not at all. Apart from scattered excerpts and secondary summaries, the major manuals — 陈氏香谱, 洪芻香谱, 新纂香谱, and 《香乘》 — have not been systematically translated into English. This is the single biggest gap in English-language incense knowledge: the formulas, the material terminology (合香, 奇楠, 沉水), and the overall depth of the tradition remain inaccessible to readers who do not read classical Chinese. That absence is precisely why a project that translates and organizes the manuals fills a niche no product-focused competitor currently addresses. The untranslated status is a fact about the current state of resources, not a claim about this site's own translations.
 
 ### Q: Why do these manuals matter today?
-A: They are the primary record of the 合香 blending tradition and the source of the terminology (香道, 合香, 奇楠) that English content struggles with.
+A: They are the primary written record of the 合香 (blending) tradition, preserving hundreds of named formulas rather than mere ingredient lists, and they document what was burned, how, and for what purpose across centuries. They are also the source of the terminology — 香道, 合香, 奇楠, 沉水 — that English content consistently struggles to render. Because the manuals capture the whole craft as a formula art with a written canon, they explain why Chinese incense is more than a consumer scent. Without access to them, Western writing on the subject stays thin, limited to romanticized descriptions instead of the actual structure of the tradition.
 
 ---
 
@@ -105,6 +105,9 @@ A: They are the primary record of the 合香 blending tradition and the source o
 - 香谱 manuals — 陈氏香谱, 洪芻香谱, 周嘉胄《香乘》 (the canonical incense literature; largely untranslated).
 - 吴自牧《梦粱录》 — source of the 四般闲事 cultural frame.
 - Research synthesis: docs/research/chinese-incense-pillar-notes.md (R-003).
+- [Xiang Cheng (香乘) full text on Wikisource](https://zh.wikisource.org/wiki/香乘)
+- [Xiang Pu (香譜) full text on Wikisource](https://zh.wikisource.org/wiki/香譜)
+- [Compendium of Materia Medica (本草綱目) on ctext.org](https://ctext.org/wiki.pl?if=gb&res=8)
 
 ## Related Resources
 

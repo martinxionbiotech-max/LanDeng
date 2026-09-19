@@ -87,16 +87,16 @@ They are not competitors in the strict sense — they solve different wants. A k
 ## FAQ
 
 ### Q: What is the difference between incense and a diffuser?
-A: Incense burns (or gently heats) plant material, releasing smoke and aroma. A diffuser vaporizes essential oils into a mist, with no combustion and no smoke.
+A: Incense releases scent through heat — the plant material either burns or is gently warmed, producing smoke along with the aroma. A diffuser works the opposite way: it vaporizes essential oils into a fine mist using ultrasonic vibration or gentle heat, with no combustion and no smoke. Practically, that means incense leaves ash and needs a heatproof holder and ventilation, while a diffuser just needs water and occasional cleaning. If you want the deep, resinous character and ritual of burning material, choose incense; if you want a clean, smoke-free scent you can switch on and off, choose a diffuser.
 
 ### Q: Is incense the same as essential oils?
-A: No. Incense is (classically) whole material — wood and resin — while essential oil is an extract. See [essential oils in incense](/blog/essential-oils-in-incense/).
+A: No. Incense is, classically, whole plant material — ground woods, resins, flowers, and spices — burned or heated to release scent. An essential oil is an extract: the volatile compounds of a plant are separated out, usually by steam distillation, leaving a concentrated liquid. This is why the two behave differently. A piece of agarwood or sandalwood gives a slow, layered, smoky aroma tied to the material itself, while an essential oil delivers a single, concentrated scent that evaporates quickly in a diffuser. Some sticks do add essential or fragrance oils, so the label matters. See [essential oils in incense](/blog/essential-oils-in-incense/).
 
 ### Q: Which is better, incense or a candle?
-A: They serve different wants — incense for material and ritual, a candle for ambient light plus scent. "Better" depends on what you are after.
+A: Neither is better — they solve different wants. Incense gives you the material experience of burning wood or resin, with a deep, resinous aroma and a cultural or ritual dimension. A candle gives you ambient light plus scent together, which makes it feel cozy and decorative, and it adds no ash but does produce a small amount of soot from the flame. If you want scent plus a flame and soft light, a candle fits; if you want a focused, material-driven aroma for a session or ritual, incense fits. The honest answer is to name what you are after before asking which is 'best.'
 
 ### Q: Do all three produce "smoke"?
-A: Incense produces smoke (or minimal with 隔火焚香); a diffuser produces none; a candle produces only minimal soot from the flame.
+A: Not equally. Incense produces the most smoke because it burns plant material, though the refined 隔火焚香 (indirect-fire) method keeps it minimal by warming material above buried charcoal. A diffuser produces none — it only vaporizes oil into a mist, so nothing combusts. A candle falls in between: the flame gives off a little soot and fine particles, but far less visible smoke than a burning stick. If smoke is a concern — a small room, sensitivity, or simply a preference for clean air — a diffuser or an electric-heated resin setup is the lighter option.
 
 ---
 
@@ -105,6 +105,8 @@ A: Incense produces smoke (or minimal with 隔火焚香); a diffuser produces no
 - Research synthesis: docs/research/chinese-incense-pillar-notes.md (R-003) — historical and cultural framing.
 - Botanical references for incense materials vs essential-oil sources.
 - Editorial synthesis; no therapeutic claims.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — background on combustion, smoke, and indoor air.
+- [Lavandula in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019757) — botanical reference for lavender, a common essential-oil plant.
 
 ## Related Resources
 

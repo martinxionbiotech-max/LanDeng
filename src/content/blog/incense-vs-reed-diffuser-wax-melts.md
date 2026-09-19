@@ -82,22 +82,23 @@ This is the honest framing: the choice is about **what kind of scent experience 
 ## FAQ
 
 ### Q: What is the difference between incense and a reed diffuser?
-A: Incense burns material (smoke); a reed diffuser evaporates fragrance oil through reeds with no heat or smoke, running constantly.
+A: The mechanism. Incense burns plant material, producing smoke and a material, ritual character, and it lasts only as long as the burn — a session of roughly 30–60 minutes for a stick. A reed diffuser evaporates fragrance oil through rattan reeds with no heat, no flame, and no smoke, and it runs constantly and passively for weeks, releasing a steady background scent with no effort once set up. So incense is an active, timed, smoky experience; a reed diffuser is a set-and-forget, flameless, smoke-free one. The choice comes down to whether you want smoke and ritual or constant, clean scent.
 
 ### Q: Are wax melts safer than incense?
-A: Wax melts on an electric warmer have no flame and no combustion smoke. They are a flameless option, which some people prefer for that reason.
+A: They are a flameless option, which removes two specific risks. Wax melts are warmed on an electric warmer rather than burned, so there is no open flame and no combustion smoke — only the warmed wax releasing scent. Incense burns with an ember and produces smoke and fine particles. "Safer" is not absolute, though: a warmer still uses electricity and gets hot, so it needs a stable surface and should not be left running indefinitely. Some people prefer wax melts precisely because they avoid flame and smoke, which is a real difference in how each feels in a room.
 
 ### Q: Which has no smoke at all?
-A: A reed diffuser and electric wax melts produce no combustion smoke. Incense does.
+A: The reed diffuser and electric wax melts. Neither burns anything: a reed diffuser evaporates fragrance oil through reeds, and wax melts are warmed on an electric heater, so neither produces combustion smoke or soot. Incense is the one that burns, and it produces visible smoke and fine particles, which is part of its material, ritual character but also why it needs ventilation. If your priority is a completely smoke-free scent, the reed diffuser or an electric wax warmer is the right choice; if you want the smoky, material experience, incense is the only one of the three that provides it.
 
 ### Q: Do wax melts last longer than incense?
-A: A reed diffuser runs continuously for weeks; wax melts and incense are per-session. Duration depends on the product and how you use it.
+A: It depends on how you count. A reed diffuser runs continuously for weeks, so it is the longest-lasting of the three. Wax melts and incense are both per-session: a single melt cube releases scent for several hours of warming, while an incense stick burns for roughly 30–60 minutes. So in a single session, a wax melt generally outlasts one stick, but both are consumed and replaced each time, unlike a reed diffuser that just sits there releasing scent. Exact duration depends on the specific product, the warmer, and how often you run it.
 
 ---
 
 ## Sources
 
-- EPA indoor air quality on combustion particulate matter (PM2.5) — basis of the smoke-comparison framing.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — combustion particulate matter (PM2.5) is the basis of the smoke-comparison framing.
+- [American Lung Association — indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — background on combustion particles from incense and candles.
 - Editorial synthesis of usage differences; no therapeutic claims.
 
 ## Related Resources

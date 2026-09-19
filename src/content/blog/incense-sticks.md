@@ -94,34 +94,36 @@ Most "incense stick" content is an affiliate roundup. This page explains the **f
 ## FAQ
 
 ### Q: How long does an incense stick burn?
-Roughly 20–60 minutes — coreless sticks ~25–30 min, thicker bamboo-core sticks ~45–60 min. Check the specific product.
+Roughly 20 to 60 minutes, depending on the construction. A thin, coreless Japanese-style stick typically burns around 25 to 30 minutes, while a thicker bamboo-core stick usually runs 45 to 60 minutes. The exact time depends on length, thickness, and how densely the paste is packed, so treat any number as a range rather than a spec. Before you light one, check the packaging or the maker's stated burn time, and match it to how long your session actually needs to be.
 
 ### Q: What is the difference between coreless and bamboo-core sticks?
-A bamboo-core stick has a wooden splint and burns longer; a coreless stick is solid material, thinner, and lower-smoke. See [which incense format](/blog/which-incense-format/).
+A bamboo-core stick is built on a thin wooden splint coated in incense paste, which makes it sturdier and longer-burning — usually 45 to 60 minutes — but adds a little wood smoke from the core itself. A coreless stick is solid incense paste with no support inside, so it is thinner, burns faster (around 25 to 30 minutes), and generally produces less smoke. The difference is mostly about burn time and smoke, not quality: neither is better, they simply suit different session lengths. See [which incense format](/blog/which-incense-format/).
 
 ### Q: Are incense sticks natural?
-Not automatically — check whether the scent is material (wood powder, resins) or fragrance oil. See [natural vs synthetic](/blog/natural-vs-synthetic-incense/).
+Not automatically. A stick's scent can come from real botanical material — ground woods, resins, herbs, and spices blended into the paste — or from a manufactured fragrance oil carried on a neutral base. A 'sandalwood stick' can be real sandalwood powder or a synthetic scent that smells like sandalwood. The label is your best clue: reputable makers state whether the scent is material or fragrance oil. When in doubt, the price and the scent character (earthy and layered versus strong and perfumey) offer hints. See [natural vs synthetic](/blog/natural-vs-synthetic-incense/).
 
 ### Q: How do I light an incense stick?
-Light the tip until it glows, blow out the flame, and let it smolder in a holder over a heatproof surface. See [incense safety](/safety/).
+Light the very tip of the stick and hold the flame there for a few seconds until the tip glows red. Blow out the flame so the stick smolders rather than burns with a flame, then set it in a holder over a heatproof surface where the falling ash can land safely. Burn it in a ventilated space, keep it away from curtains, paper, and anything flammable, and never leave it unattended. See [incense safety](/safety/) for the full set of precautions.
 
 ---
 
 ## People Also Ask / 长尾问答
 
 ### Q: What is the difference between a coreless and a bamboo-core stick?
-A coreless stick is pure incense paste and produces less smoke; a bamboo-core stick has a wooden splint inside and produces more smoke but is sturdier and cheaper.
+A coreless stick is made entirely of incense paste, so it is thinner and produces less smoke — this is the Japanese and Tibetan style. A bamboo-core stick has a wooden splint running through its center, which adds a little wood smoke as the core burns but makes the stick sturdier, longer, and often cheaper to produce. Practically, the coreless stick burns shorter (around 25–30 minutes) and cleaner, while the bamboo-core stick burns longer (45–60 minutes) and is more forgiving to handle.
 
 ### Q: How do I store incense sticks?
-Dry, airtight, away from sunlight and moisture. Humidity is the main enemy — it dulls the scent and makes sticks hard to light.
+Store them in a sealed container — a jar, tin, or zip bag — in a cool, dry, dark place. The main enemy is moisture: humid air dulls the scent and makes the sticks hard to light, and in extreme cases can cause mold. Keep them out of direct sunlight, which degrades fragrance, and away from strong competing odors, since incense absorbs ambient smells. A cupboard or drawer is ideal; a bathroom cabinet is the worst spot. See [incense storage & longevity](/blog/incense-storage-longevity/) for the details.
 
 ### Q: Can I break a stick to shorten the burn?
-You can, but a cleaner way is to use a cone (shorter) or a coil segment. Breaking a stick changes how evenly it burns.
+You can, but it is not the cleanest option. Breaking a stick changes how evenly it burns, because the broken end is rough and the stick was packed to burn as a whole. If you want a shorter session, a cone is the natural choice — it burns for about 10 to 15 minutes — or you can use a coil segment. Another option is to snuff the stick out partway and relight the remaining portion later. That preserves the burn more evenly than snapping it in half.
 
 ## Sources
 
 - Trade references on bamboo-core vs coreless stick construction and burn times.
 - The [natural vs synthetic](/blog/natural-vs-synthetic-incense/) guide for the material-vs-fragrance distinction.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — background on smoke from burning incense.
+- [American Lung Association indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — on particulate matter and indoor burning.
 
 ---
 

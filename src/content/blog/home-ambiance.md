@@ -92,34 +92,36 @@ Much "home incense" content leans on "purify your space" and "cleanse negative e
 ## FAQ
 
 ### Q: What is the best incense for a living room?
-Cedar or sandalwood — warm, clean, and room-filling without being sharp. See the [scent guide](/blog/scent-guide/).
+Cedar or sandalwood. Both are warm, clean, and room-filling without being sharp or cloying, which is what you want in a shared space where people sit and linger. Cedar reads dry and slightly sweet — the classic "space" note that clears a room's stale edge. Sandalwood reads creamy and soft, pleasant for hours. Frankincense also works if you want a fresh, resinous, slightly citrus "clearing" scent. Avoid bright florals and quick-fading citrus, which struggle to fill a room, and reserve expensive agarwood for smaller spaces. Match the format to how long you want the scent. See the [scent guide](/blog/scent-guide/) for the full spectrum.
 
 ### Q: How do I make my house smell good with incense?
-Burn a clean wood or resin in a ventilated space, and match the format to how long you want the scent to last. See [which incense format](/blog/which-incense-format/).
+Burn a clean wood or resin in a ventilated space, and match the format to how long you want the scent to last. For a short, single-evening scent, a stick burns roughly 30–60 minutes; for a slow, continuous scent over hours, a coil works better; for the lightest, smoke-free scent, warm a small amount of resin on an electric heater. Ventilation matters: open a window or door so the smoke doesn't build up, which keeps the scent fresh rather than stale. One good-quality stick is usually enough for a standard room. See [which incense format](/blog/which-incense-format/) for burn times.
 
 ### Q: Does incense purify the air?
-LanDeng makes no such claim. Incense adds fragrance and smoke; it does not clean the air, and burning it requires ventilation.
+LanDeng makes no such claim. Incense adds fragrance and smoke to a room; it does not clean, purify, or disinfect the air, and it does not remove odors — it covers them with its own scent. In fact, burning incense releases fine particles and smoke, which is why it should always be burned in a ventilated space with a window or door open. "Space clearing" and "air purifying" are marketing language, not observable effects. If you want genuinely fresher air, open a window for real air exchange; the incense is for the scent and the ritual, not for cleaning anything.
 
 ### Q: What is the difference between a stick and a coil for ambiance?
-A stick burns ~30–60 minutes; a coil burns for hours. Pick by how long you want the scent. See [incense coils](/blog/incense-coils/).
+The main difference is duration. A stick burns for roughly 30–60 minutes, which suits a single evening or a specific event like hosting a short visit. A coil burns for hours — often several — giving a slow, continuous scent with almost no attention needed, which suits a long gathering or a space you want to keep scented all day. Both produce smoke and both need a holder that catches ash and a ventilated room. Choose by how long you want the scent to last, not by any difference in scent quality. See [incense coils](/blog/incense-coils/) for the details.
 
 ---
 
 ## People Also Ask / 长尾问答
 
 ### Q: What scent is best for a hallway or entryway?
-A light, clean scent — cedar or citrus — reads as welcoming without being heavy. Reserve deep woods (agarwood) for rooms where you sit and linger.
+A light, clean scent reads as welcoming without being heavy. Cedar is the safe default — dry, fresh, and slightly sweet, it greets people without overwhelming them. A bright citrus also works and gives an immediate "clean" impression, though it fades faster, so it suits a short burn as guests arrive. Reserve deep, expensive woods like agarwood for rooms where people actually sit and linger, since their full character is wasted on a pass-through space. Because entryways are small and often poorly ventilated, keep the burn short and open the door or a window.
 
 ### Q: How many sticks do I need for a large room?
-One good-quality stick in a ventilated room is usually enough; two is rarely better and doubles the smoke. Let the scent carry rather than over-burning.
+One good-quality stick in a ventilated room is usually enough. A single stick of a clean wood or resin fills a surprising amount of space, and the scent carries further when the air is moving. Lighting two is rarely better — it mostly doubles the smoke and particulate without meaningfully improving the scent, and it can tip a pleasant room toward harsh. If a large space genuinely needs more, the better move is a coil for continuous coverage or burning a second stick in a different part of the room, each in its own holder. Let the scent carry rather than over-burning.
 
 ### Q: Does incense actually "clean" the air?
-No. Incense adds scent and smoke; it does not purify or remove odors. Open a window if you want actual air exchange.
+No. Incense adds scent and smoke to a room; it does not purify the air or remove odors. The phrase "cleansing" comes from ritual language, not from any measurable effect — the observable truth is only that a fresh resin or wood changes how a room smells. Burning incense actually adds fine particles to the air, which is why ventilation matters. If you want actual air exchange or odor removal, open a window or use real ventilation; the incense gives you fragrance and ritual, not filtration. This page makes no air-purification, health, or "energy cleansing" claims.
 
 ## Sources
 
 - The [scent guide](/blog/scent-guide/) for the aroma spectrum.
 - The [format guide](/blog/which-incense-format/) for burn times.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — general guidance on indoor combustion sources and ventilation.
+- [American Lung Association — indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — background on combustion particles, which is why this page stresses ventilation.
 
 ---
 

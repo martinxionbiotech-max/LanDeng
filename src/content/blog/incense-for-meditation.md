@@ -123,19 +123,19 @@ This is not a weaker framing — it is the defensible one, and it is what keeps 
 ## FAQ
 
 ### Q: What is the best incense for meditation?
-There is no single "best," but the traditional choices are the calm woods and resins — sandalwood, agarwood, and frankincense — for their soft, long-lasting, non-distracting character. Match the burn time to your session length.
+There is no single "best," but the traditional choices are the calm woods and resins — sandalwood, agarwood, and frankincense. They are chosen because they are soft, long-lasting, and non-distracting rather than sharp or sweet. Sandalwood is creamy and gentle, agarwood is deep and resinous with a character that evolves as it heats, and frankincense is clean and slightly citrus, a classic ritual resin. Lighter florals and bright citrus also appear in modern blends but read more uplifting than settling. Start with a wood or resin, and match the burn time to your session length so the stick ends when your sit does.
 
 ### Q: How long should I burn incense for meditation?
-Match the format to your sit: a Japanese coreless stick (~25–30 min) for a short session, a bamboo-core stick (~45–60 min) or a coil for longer ones. The incense ending when the sit ends is the cleanest setup.
+Match the format to the length of your sit. A Japanese coreless stick burns roughly 25–30 minutes, which suits a short daily session. A standard bamboo-core stick burns roughly 45–60 minutes, and a coil burns for hours, suiting longer sits or extended practice. Cones are shortest at roughly 10–15 minutes. The cleanest setup is for the incense to end when your sit ends, so you don't sit in a cloud after the practice or leave a stick smoldering. These are ranges, not exact numbers, since burn time varies by manufacturer and thickness. See [which incense format](/blog/which-incense-format/) for the comparison.
 
 ### Q: Does meditation incense reduce stress or anxiety?
-LanDeng makes no such claim. Incense can be part of a calming, focused routine, but it is not a treatment for stress, anxiety, or any medical condition.
+LanDeng makes no such claim. Meditation incense can be part of a calming, focused routine — a timed, sensory ritual that marks the start of practice and gives the attention a steady anchor. That is a structural role, not a treatment. Incense does not treat, cure, or reduce stress, anxiety, or any medical condition, and no scent reliably changes a mental state through a pharmacological mechanism. Treating the fragrance as a treatment would put the product into medical-claim territory, which is neither accurate nor appropriate. If stress or anxiety is a concern, that is a question for a qualified professional, not for incense.
 
 ### Q: What does "one stick of incense" mean as a unit of time?
-In Chinese tradition, "一炷香" (one stick of incense) was used as a rough unit of time — the span a stick takes to burn — and incense trails (篆香) were even used as timed, patterned timekeepers.
+In Chinese tradition, "一炷香" (yī zhù xiāng, "one stick of incense") was used as a rough unit of time — roughly the span a stick takes to burn, often treated as around half an hour to an hour depending on thickness. It was a practical, pre-clock way to mark a duration, and it appears throughout classical incense culture, including the text 香乘 (Xiang Cheng). Incense seals and trails (篆香, zhuàn xiāng) extended the idea: powdered incense was laid in timed, patterned paths that burned through slowly like a fuse, marking time as they went.
 
 ### Q: Is a cone or a stick better for meditation?
-For most sessions a stick is better because its burn time (20–60 min) matches a typical sit; a cone (~10–15 min) is shorter. Pick by session length, not by shape.
+For most sessions a stick is better, because its burn time — roughly 20–60 minutes — matches a typical sit. A cone burns only about 10–15 minutes, which ends well before most meditation sessions do, leaving you either sitting without the scent or lighting another cone. Cones also tend to produce a denser plume, while a thin stick is gentler in a quiet room. That said, if your practice is a short pause or a brief centering moment, a cone fits fine. Pick by session length, not by shape, and keep the room ventilated either way.
 
 ---
 
@@ -145,6 +145,8 @@ For most sessions a stick is better because its burn time (20–60 min) matches 
 - Koju / Nippon Kodo — monkō ("listening to incense") and kōdō practice.
 - Cultural references on 一炷香 ("one stick of incense") as a traditional timekeeping unit.
 - Research synthesis: docs/research/chinese-incense-pillar-notes.md (R-003).
+- [American Lung Association — indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — background on combustion particles, which is why this page stresses ventilation.
+- [Xiang Cheng (香乘) full text on Wikisource](https://zh.wikisource.org/wiki/香乘) — classical Chinese incense text recording the "一炷香" timekeeping tradition.
 
 ---
 

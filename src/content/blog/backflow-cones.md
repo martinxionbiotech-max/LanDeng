@@ -88,31 +88,33 @@ Much backflow-cone marketing leans on "zen" and "relaxing" imagery as if the wat
 ## FAQ
 
 ### Q: How do backflow cones work?
-The hollow channel cools the smoke and makes it denser, so it sinks through the base hole and spills downward over the burner — a simple density effect, not a special material.
+The cone has a hollow channel drilled through its center, with a small hole at the base. When you light the top, the smoke is drawn down through that channel, where the enclosed space cools it and makes it denser than the surrounding air. Denser smoke sinks instead of rising, so it pours out the bottom hole and pools into the burner's catch tray, spilling over like a waterfall. This is a simple density effect — nothing special about the material. The effect only works with a sealed, upright cone on a matching burner with an aligned hole.
 
 ### Q: Do backflow cones smell different?
-No — they use the same incense material as regular cones. The difference is the hollow channel for the visual effect.
+No — the scent is the same as a regular cone. The only difference is the hollow channel through the center, which redirects the smoke downward for the visual effect; it does not change the fragrance itself. That means the scent strength and character are essentially what you would get from a standard cone, though the heavier, lingering smoke can make the fragrance feel a bit more present in the room. If you are buying for the scent, a regular cone does the same job; if you are buying for the waterfall, that is what you are paying for.
 
 ### Q: Do I need a special burner for backflow cones?
-Yes — a backflow burner with a hole aligned to the cone's base and a catch tray for the falling smoke. A flat holder will not produce the effect.
+Yes. The waterfall effect only works on a purpose-built backflow burner — one with a hole aligned to the cone's base and a catch tray or baffle that collects the falling smoke and lets it spill outward. If you place a backflow cone on a flat, ordinary dish, the smoke has nowhere to go and the effect does not happen. Make sure the cone sits sealed and upright on the burner, and keep it away from drafts, which can break the downward flow. A standard cone holder is not a substitute.
 
 ### Q: How long does a backflow cone burn?
-About 10–15 minutes, like a regular cone. See [which incense format](/blog/which-incense-format/).
+About 10 to 15 minutes, which matches a regular cone. The hollow channel does not meaningfully change the burn time; what changes is where the smoke goes. This short burn makes backflow cones a format for quick, visual moments rather than long scenting sessions. If you want something that lasts, a stick (20–60 minutes) or a coil (hours) is the better choice. See [which incense format](/blog/which-incense-format/) to compare burn times across formats.
 
 ---
 
 ## People Also Ask / 长尾问答
 
 ### Q: Do backflow cones need a special burner?
-Yes — the waterfall effect only works with a hollow or baffled backflow burner that channels smoke downward.
+Yes. The effect depends on a backflow burner built with a hole and a catch tray (or baffle) that channels the cooled smoke downward and lets it pool and spill. Without that specific burner, the smoke simply rises like a normal cone and there is no waterfall. Make sure the cone is seated upright and the hole lines up with the burner's opening, and keep the setup out of drafts. A plain dish, a stick holder, or a regular cone burner will not produce the effect no matter which cone you use.
 
 ### Q: Are backflow cones more smoky than regular cones?
-Yes, they are typically denser and produce heavier, lingering smoke — which is exactly what creates the visual effect.
+Yes. Backflow cones typically produce denser, heavier smoke that lingers and sinks, because that dense smoke is exactly what creates the waterfall effect. A regular cone's smoke is lighter and rises naturally, so it dissipates more quickly. The trade-off is that backflow cones can leave a light residue on the burner over time and need more deliberate ventilation, since you are adding more particulate to the room. Air the space after a session and wipe the burner occasionally to keep it clean.
 
 ## Sources
 
 - Physical description of the backflow mechanism (density/gravity of cooled smoke) and the burner requirement.
 - The [format guide](/blog/which-incense-format/) for burn times.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — background on smoke from burning incense.
+- [American Lung Association indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — on particulate matter and indoor burning.
 
 ---
 
