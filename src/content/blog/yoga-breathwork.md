@@ -1,6 +1,6 @@
 ---
 slug: "yoga-breathwork"
-title: "Incense for Yoga & Breathwork: A Grounding, Steady Scent"
+title: "Incense for Yoga & Breathwork: A Grounding Scent"
 primary_keyword: "incense for yoga"
 search_intent: "informational"
 pillar: "P3 — Use Scenarios"

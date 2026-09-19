@@ -1,5 +1,5 @@
 ---
-title: "What Is Chinese Incense? History, Types & the Way of Incense (香道)"
+title: "What Is Chinese Incense? History, Types & 香道"
 entity: chinese-incense
 type: pillar
 primary_keyword: "chinese incense"

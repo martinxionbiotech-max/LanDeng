@@ -411,3 +411,11 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `雪中春信 (Snow in Spring): The Recipe and Its Cool 'Snow' Note` (58 chars) → rendered 68
   - after:  `雪中春信 (Snow in Spring): The Cool 'Snow' Note` (43 chars) → rendered 53
 
+- `src/content/blog/yoga-breathwork.md`
+  - before: `Incense for Yoga & Breathwork: A Grounding, Steady Scent` (56 chars) → rendered 66
+  - after:  `Incense for Yoga & Breathwork: A Grounding Scent` (48 chars) → rendered 58
+
+- `src/content/concepts/chinese-incense.md`
+  - before: `What Is Chinese Incense? History, Types & the Way of Incense (香道)` (65 chars) → rendered 75
+  - after:  `What Is Chinese Incense? History, Types & 香道` (44 chars) → rendered 54
+
