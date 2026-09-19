@@ -12,7 +12,6 @@ status: draft
 related: ["cinnamon"]
 ---
 
-# Orange Peel / Chenpi (陈皮)
 
 **Direct answer:** Chenpi (陈皮, literally "aged peel") is the sun-dried, aged peel of the mandarin/tangerine (*Citrus reticulata*), most prized from the Xinhui (新会) district of Guangdong. It is used in cooking, tea, and traditional materia medica for a bittersweet citrus aroma that mellows with age.
 

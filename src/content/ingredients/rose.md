@@ -12,7 +12,6 @@ status: draft
 related: ["jasmine"]
 ---
 
-# Rose (玫瑰 / Mei Gui)
 
 **Direct answer:** Rose — *méiguī* (玫瑰, also 玫瑰花 *méiguīhuā*) in Chinese — is a sweet-scented flower, most classically the Chinese rose *Rosa rugosa*, used in tea, perfume, incense, and traditional materia medica.
 

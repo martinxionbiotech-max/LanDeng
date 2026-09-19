@@ -12,7 +12,6 @@ status: draft
 related: ["cedar", "borneol"]
 ---
 
-# Pine Resin (松香 / Song Xiang)
 
 **Direct answer:** Pine resin — *sōngxiāng* (松香) in Chinese — is the hardened oleoresin of pine trees (*Pinus* spp.), the same material that, refined, is known as **rosin** or **colophony**. It has a fresh, piney, woody-balsamic aroma and is used in incense, varnish, and as a traditional aromatic and adhesive.
 

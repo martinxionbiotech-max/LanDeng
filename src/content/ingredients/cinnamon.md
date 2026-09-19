@@ -14,7 +14,6 @@ related: ["clove", "orange-peel"]
 
 <img src="/images/cinnamon-raw-material-800x533.webp" alt="Rolled cinnamon bark quills and broken bark strips." width="800" height="533" loading="lazy">
 
-# Cinnamon (桂皮 / Gui Pi)
 
 **Data summary:** In Chinese tradition, "cinnamon" most often means **Chinese cassia** — the bark of *Cinnamomum cassia* (桂皮, *guìpí*), a tree native to southern China. It has a warm, spicy, sweet aroma and is used as a spice, in incense, and in traditional materia medica.
 

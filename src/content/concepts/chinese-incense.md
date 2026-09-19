@@ -7,7 +7,6 @@ search_intent: informational
 status: draft
 ---
 
-# What Is Chinese Incense?
 
 **Key takeaway:** Chinese incense is the practice of burning or gently heating aromatic natural materials — woods, resins, herbs, and flowers — for fragrance, ritual, meditation, and daily life. It has a continuous history in China spanning more than two millennia, reaching its cultural peak in the Song dynasty (960–1279), where it became one of the "Four Leisure Arts" of the scholar (四般闲事).
 

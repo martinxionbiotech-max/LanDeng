@@ -14,7 +14,6 @@ related: ["chrysanthemum"]
 
 <img src="/images/mugwort-raw-material-800x533.webp" alt="Loose dried mugwort leaves tied in a small bundle." width="800" height="533" loading="lazy">
 
-# Mugwort (艾草 / Ai Cao)
 
 **Technical answer:** Mugwort — *aicǎo* (艾草) in Chinese — is a herb in the *Artemisia* genus with a distinctive herbal, bitter-green, slightly camphoraceous aroma. It is one of the most versatile herbs in Chinese tradition, used fresh or dried, for incense, purification, and (in a separate medical context) moxibustion.
 

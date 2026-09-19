@@ -14,7 +14,6 @@ related: ["vetiver", "patchouli"]
 
 <img src="/images/cedar-raw-material-800x533.webp" alt="A cedarwood block with fine wood shavings beside it." width="800" height="533" loading="lazy">
 
-# Cedar (雪松 / Xue Song)
 
 **Data summary:** "Cedar" in incense is a confusing common name. It can mean **true cedar** (*Cedrus* species, such as Himalayan cedar *C. deodara*) or — very often in "cedarwood" products — **red cedar** (*Juniperus virginiana*), a juniper, not a true cedar. Both are used for a clean, woody, slightly sweet aroma.
 
