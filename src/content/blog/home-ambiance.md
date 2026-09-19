@@ -1,6 +1,6 @@
 ---
 slug: "home-ambiance"
-title: "Incense for Home Ambiance: Scenting a Room & Welcoming Guests"
+title: "Incense for Home Ambiance: Scent & Hospitality"
 primary_keyword: "incense for home ambiance"
 search_intent: "informational"
 pillar: "P3 — Use Scenarios"

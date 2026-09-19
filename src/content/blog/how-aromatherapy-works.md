@@ -1,6 +1,6 @@
 ---
 slug: "how-aromatherapy-works"
-title: "How Aromatherapy Works: Smell, Memory, and the Honest Science"
+title: "How Aromatherapy Works: Smell, Memory & Science"
 primary_keyword: "how aromatherapy works"
 search_intent: "informational"
 pillar: "P11 — Aromatherapy & Botany"

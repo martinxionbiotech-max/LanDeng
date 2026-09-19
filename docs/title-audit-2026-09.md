@@ -183,3 +183,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `History of Chinese Incense Culture: Shang Rituals to the Modern Revival` (71 chars) → rendered 81
   - after:  `History of Chinese Incense: Shang to Revival` (44 chars) → rendered 54
 
+- `src/content/blog/home-ambiance.md`
+  - before: `Incense for Home Ambiance: Scenting a Room & Welcoming Guests` (61 chars) → rendered 71
+  - after:  `Incense for Home Ambiance: Scent & Hospitality` (46 chars) → rendered 56
+
+- `src/content/blog/how-aromatherapy-works.md`
+  - before: `How Aromatherapy Works: Smell, Memory, and the Honest Science` (61 chars) → rendered 71
+  - after:  `How Aromatherapy Works: Smell, Memory & Science` (47 chars) → rendered 57
+
+- `src/content/blog/how-incense-is-made.md`
+  - before: `How Incense Is Made: From Wood and Resin to Stick and Coil` (58 chars) → rendered 68
+  - after:  `How Incense Is Made: From Wood to Stick` (39 chars) → rendered 49
+
