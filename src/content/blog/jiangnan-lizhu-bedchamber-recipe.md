@@ -30,9 +30,27 @@ author: "LanDeng Editorial Team"
 
 ---
 
-## Other Recorded Versions
+## Other Recorded Versions (with Proportions)
 
-The 香乘 records several 帐中香 recipes, including one that **soaks agarwood in storax oil (苏合油) for a hundred days** and finishes it with rose water (蔷薇水). The goose-pear version is simply the most famous — and the most illustrative of how a fruit can be an "ingredient" in the classical sense.
+The 香乘 records several 帐中香 recipes. The goose-pear version above is the most famous; the manual also gives these, with full proportions:
+
+**Version 2 — pear juice steamed into agarwood (又方一):** 沉香一两 (1 liǎng agarwood, cut to wick-sized pieces), 鹅梨一窗 (one goose pear, minced to juice). Steam in a silver vessel three times until the pear juice is dry.
+
+**Version 3 — the resin-and-spice form (又方二):**
+
+| Ingredient | Quantity |
+|---|---|
+| 沉香 (agarwood) | 四两 (4 liǎng) |
+| 檀香 (sandalwood) | 一两 (1 liǎng) |
+| 麝香 (musk) | 一两 (1 liǎng) |
+| 龙脑 (borneol) | 半两 (0.5 liǎng) |
+| 马牙香 (a resin/aromatic) | 一分 (1 fēn) |
+
+Cut fine without sieving, bind with refined honey, and burn. A further 香乘 entry **soaks agarwood in storax oil (苏合油) for a hundred days** and finishes it with rose water (蔷薇水).
+
+The three versions show the same formula idea — agarwood as the body — realized three ways: fruit-infused, juice-steamed, or resin-and-spice. The goose-pear version is the most famous because its 10:1:10 ratio (one 两 agarwood, one 钱 sandalwood, ten pears) makes the chief's dominance concrete.
+
+**Unit conversion:** one 两 (liǎng) was on the order of 37 g in the Song–Ming period — the exact gram value varied by dynasty, roughly 31–41 g across periods — divided into 10 钱 (qián) of about 3.7 g each, each 钱 into 10 分 (fēn) of about 0.37 g. Read the *ratios*, not the grams: the famous goose-pear version is a 10:1 agarwood-to-sandalwood ratio, and Version 3 is a 4:1 agarwood-to-sandalwood ratio with musk equal to the sandalwood.
 
 ---
 
@@ -87,7 +105,7 @@ It is traditional and widely repeated, but not a signed, verifiable historical d
 
 ## Sources
 
-- 香乘 (Xiang Cheng), 周嘉胄 (Ming) — the 帐中香 recipes, via ctext.org and 识典古籍.
+- 香乘 (Xiang Cheng), 周嘉胄 (Ming) — the 帐中香 recipes (multiple recorded versions). [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
 - 陈氏香谱 (Chen's Incense Manual) — the "江南李主帐中香" second formula.
 
 ## Related Resources

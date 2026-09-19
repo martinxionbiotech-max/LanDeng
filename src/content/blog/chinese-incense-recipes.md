@@ -49,6 +49,20 @@ Three rules apply to every page in this cluster:
 
 ---
 
+## Historical Weights and Unit Conversion
+
+The classical recipes weigh ingredients in historical Chinese units:
+
+| Unit | Relation | Approx. gram value (Song–Ming) |
+|---|---|---|
+| 两 (liǎng) | the base unit | on the order of 37 g |
+| 钱 (qián) | 1/10 of a 两 | about 3.7 g |
+| 分 (fēn) | 1/10 of a 钱 (1/100 of a 两) | about 0.37 g |
+
+Some recipes also count pieces (枚) — as in "一百枚白梅" (a hundred white plums) — while others use the open-ended "不计多少" (however many), as 柏子香 does. At least one recipe in this cluster (二苏旧局) is contemporary and records no fixed ratio at all.
+
+The crucial caveat: the gram value of the 两 was not constant. It varied by dynasty — roughly 31–41 g across periods — and by region and purpose, so any gram conversion is an approximation. The *ratios between ingredients* are the reliable part of a recipe: "一两沉香, 一钱檀香" is a 10:1 ratio, and that ratio — not the gram count — is the recipe's real content. Every recipe page in this cluster states its proportions (or marks them unverified) and applies this same conversion note.
+
 ## How to Read the 君臣佐使 Structure
 
 Every recipe here is deconstructed by role — **君 (chief), 臣 (minister), 佐 (assistant), 使 (guide)** — the same logic as a Chinese herbal formula. Four questions unlock any 合香 recipe:
@@ -99,8 +113,9 @@ The manuals are extensive classical Chinese that has never been systematically t
 
 ## Sources
 
-- 香乘 (Xiang Cheng), 周嘉胄 (Ming) — the primary recipe source, via ctext.org and 识典古籍.
-- 陈氏香谱 (Chen's Incense Manual) and 洪芻香谱 (Hong Chu's Manual) — the Song-dynasty canon.
+- 香乘 (Xiang Cheng), 周嘉胄 (Ming) — the primary recipe source. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
+- 洪芻香谱 (Hong Chu's Manual), Song — the canonical manual. [Full text on Wikisource](https://zh.wikisource.org/wiki/香譜).
+- 陈氏香谱 (Chen's Incense Manual) — the Song-dynasty canon.
 - 燕居香语 (陈云君) — the contemporary manual source for 二苏旧局.
 
 ## Related Resources

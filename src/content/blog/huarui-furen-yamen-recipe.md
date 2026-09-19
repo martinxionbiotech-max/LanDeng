@@ -19,7 +19,7 @@ author: "LanDeng Editorial Team"
 
 ## The Recipe (香乘 version)
 
-> **沉香、栈香、檀香、乳香、龙脑、甲香、麝香** — agarwood (沉香), 栈香 (a non-sinking agarwood grade), sandalwood (檀香), frankincense (乳香), borneol (龙脑), 甲香 (operculum), and musk (麝香). Except the borneol, grind together; add 炭皮末 (charcoal-bark powder) and 朴硝 (saltpetre) one 钱 each; blend with raw honey; warm in a sealed vessel over boiling water (重汤) ten or so times; age (窨) seven days; form into cakes and burn.
+> **沉香三两、栈香三两、檀香一两、乳香一两、龙脑半钱、甲香一两、麝香一钱** — three liǎng agarwood (沉香), three liǎng 栈香 (a non-sinking agarwood grade), one liǎng sandalwood (檀香), one liǎng frankincense (乳香), half a qián borneol (龙脑), one liǎng 甲香 (operculum), and one qián musk (麝香). Except the borneol, grind together; add 炭皮末 (charcoal-bark powder) and 朴硝 (saltpetre) one qián each; blend with raw honey; warm in a sealed vessel over boiling water (重汤) ten or so times; age (窨) seven days; form into cakes and burn.
 
 | Role | Ingredient | Job in the blend |
 |---|---|---|
@@ -29,6 +29,26 @@ author: "LanDeng Editorial Team"
 | 使 (guide) | 甲香 + 麝香 + 炭皮末/朴硝 + honey | Fixatives, combustion aids, and binder |
 
 ---
+
+## Proportions and Unit Conversion
+
+The recorded proportions (香乘):
+
+| Ingredient | Quantity |
+|---|---|
+| 沉香 (agarwood) | 三两 (3 liǎng) |
+| 栈香 (non-sinking agarwood grade) | 三两 (3 liǎng) |
+| 檀香 (sandalwood) | 一两 (1 liǎng) |
+| 乳香 (frankincense) | 一两 (1 liǎng) |
+| 龙脑 (borneol) | 半钱 (0.5 qián) |
+| 甲香 (operculum) | 一两 (1 liǎng, 法制 treated) |
+| 麝香 (musk) | 一钱 (1 qián) |
+| 炭皮末 (charcoal-bark powder) | 一钱 (1 qián) |
+| 朴硝 (saltpetre) | 一钱 (1 qián) |
+
+The ratio shows the court blend's structure: the two agarwood grades together form the dominant body (six liǎng combined), with sandalwood, frankincense, and operculum each at one liǎng as the support, and borneol, musk, and the two combustion aids as the small accents measured in qián.
+
+**Unit conversion:** one 两 (liǎng) was on the order of 37 g in the Song–Ming period — the exact gram value varied by dynasty, roughly 31–41 g across periods — divided into 10 钱 (qián) of about 3.7 g each, each 钱 into 10 分 (fēn) of about 0.37 g. Read the *ratios*, not the grams: the core here is a 3:3:1:1 agarwood-to-sandalwood-to-frankincense-to-operculum balance, with the precious accents (borneol, musk) at a tenth of a liǎng or less.
 
 ## What "衙香" Means
 
@@ -81,7 +101,7 @@ The famous consort of Meng Chang of the Later Shu, celebrated as a poet and beau
 
 ## Sources
 
-- 香乘 (Xiang Cheng), 周嘉胄 (Ming) — the 花蕊夫人衙香 formula, via ctext.org and 识典古籍.
+- 香乘 (Xiang Cheng), 周嘉胄 (Ming) — the 花蕊夫人衙香 formula. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
 - 陈氏香谱 — the 衙香 category (fifteen recipes).
 
 ## Related Resources

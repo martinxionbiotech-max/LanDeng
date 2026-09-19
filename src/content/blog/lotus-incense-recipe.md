@@ -21,9 +21,11 @@ author: "LanDeng Editorial Team"
 
 The 香乘's 芙药衣香 is a lotus-scented clothes incense built entirely from woods, herbs, and spices — and explicitly described as smelling "like a freshly opened lotus" (其香如新开莲花):
 
-> **丁香、檀香、甘松、零陵香、牡丹皮、茴香** — clove, sandalwood, spikenard, tonka (零陵香), peony bark, and fennel, with a little musk and borneol — none of it lotus.
+> **丁香一两、檀香一两、甘松一两、零陵香半两、牡丹皮半两、茴香二分** — one liǎng clove, one liǎng sandalwood, one liǎng spikenard, half a liǎng tonka (零陵香), half a liǎng peony bark, and two fēn fennel, with a little musk and borneol — none of it lotus.
 
 This is the key insight: the classical tradition could produce a "lotus" scent **without the flower**, by layering fresh, clean notes over a sandalwood base.
+
+**Proportions and unit conversion:** the recorded proportions are 丁香一两, 檀香一两, 甘松一两, 零陵香半两, 牡丹皮半两, 茴香二分, with musk and borneol each "a little" (少许). One 两 (liǎng) was on the order of 37 g in the Song–Ming period — the exact gram value varied by dynasty, roughly 31–41 g across periods — divided into 10 钱 (qián) of about 3.7 g each, each 钱 into 10 分 (fēn) of about 0.37 g. Read the *ratios*, not the grams: the three backbone ingredients run at a full liǎng each, the tonka and peony bark at half, and the fennel at a mere two fēn — a spice accent, not a body.
 
 ---
 
@@ -33,7 +35,7 @@ The contemporary manual 燕居香语 (陈云君) does use **actual lotus**, pair
 
 > **荷花、西红花、沉香、石斛** — fresh lotus petals, saffron, agarwood, and dendrobium — the saffron rolled inside half-dried lotus petals, pressed, and bound to agarwood slices with dendrobium juice.
 
-Here the lotus is real material, not an accord — but this is a **contemporary** recipe, not a 香谱 original.
+Here the lotus is real material, not an accord — but this is a **contemporary** recipe, not a 香谱 original. Its proportions are **unverified**: the modern source describes the method (saffron rolled inside half-dried lotus petals, pressed, and bound to agarwood with dendrobium juice) without a fixed 两/钱 ratio, so no measured proportion should be asserted here.
 
 ---
 
@@ -83,8 +85,8 @@ Because the flower's scent does not survive combustion; the "lotus" impression i
 
 ## Sources
 
-- 香乘 (Xiang Cheng), 周嘉胄 (Ming) — 芙药衣香, via ctext.org and wikisource.
-- 燕居香语 (陈云君) — the contemporary lotus recipes (汉唐月).
+- 香乘 (Xiang Cheng), 周嘉胄 (Ming) — 芙药衣香. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
+- 燕居香语 (陈云君) — the contemporary lotus recipes (汉唐月; proportions unverified).
 
 ## Related Resources
 
