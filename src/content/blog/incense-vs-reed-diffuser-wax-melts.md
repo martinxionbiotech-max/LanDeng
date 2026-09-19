@@ -79,6 +79,7 @@ This is the honest framing: the choice is about **what kind of scent experience 
 - No health or medical claims are made.
 
 ---
+See [Incense vs Candles vs Diffusers: Which Scent Method Is Right for You?](/blog/incense-vs-candles-vs-diffusers/) for the full guide.
 
 ## FAQ
 

@@ -164,6 +164,7 @@ The framework is conditional, not absolute — the right answer depends on smoke
 - Cost figures are order-of-magnitude guidance, not fixed prices.
 
 ---
+See [Incense vs Candles vs Diffusers: Which Scent Method Is Right for You?](/blog/incense-vs-candles-vs-diffusers/) for the full guide.
 
 ## FAQ
 
