@@ -12,6 +12,8 @@ status: draft
 related: ["pepper", "long-pepper"]
 ---
 
+<img src="/images/prickly-ash-raw-material-800x533.webp" alt="Raw Sichuan Pepper (Zanthoxylum bungeanum) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 蜀椒 — *shǔjiāo* in Chinese — is the dried fruit husk of *Zanthoxylum bungeanum*, a prickly-ash tree of the rue family (Rutaceae) native to central and western China. It is the source of the Sichuan pepper (花椒) of cooking, with a citrusy, woody aroma and the distinctive numbing sensation of hydroxy-α-sanshool. In classical Chinese incense it is the "椒" (pepper/pepper-tree) that the *Xiangcheng* (香乘) counts among the earliest aromatics of Chinese antiquity — 兰蕙椒桂 (orchid, melilot, pepper, cinnamon).
 
 ## Key facts

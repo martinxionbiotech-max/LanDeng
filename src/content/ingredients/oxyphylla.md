@@ -12,6 +12,8 @@ status: draft
 related: ["galangal", "katsumadai"]
 ---
 
+<img src="/images/oxyphylla-raw-material-800x533.webp" alt="Raw Sharp-Leaf Galangal (Alpinia oxyphylla) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 益智仁 — *yìzhì rén* in Chinese — is the dried fruit of *Alpinia oxyphylla*, a ginger-family (Zingiberaceae) perennial native to southern China, Hainan, and northern Vietnam. It is a warm, spicy, camphoraceous seed-like fruit used in traditional medicine and recorded as a minor aromatic in classical incense formulas — the Ming-dynasty *Xiangcheng* (香乘) lists 益智仁 among the ingredients of the inner-court sachet 内苑蕊心衣香.
 
 ## Key facts

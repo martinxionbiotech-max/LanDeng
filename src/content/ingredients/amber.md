@@ -12,6 +12,8 @@ status: draft
 related: ["pine-resin", "styrax-resin"]
 ---
 
+<img src="/images/amber-raw-material-800x533.webp" alt="Raw Amber (fossil resin (not botanical)) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 琥珀 — *hǔpò* in Chinese — is amber, the fossilized resin of ancient trees, and it is **a fossil resin, not a botanical material**. It appears in classical Chinese incense and materia medica — the *Bencao Gangmu* (本草纲目) records the belief that "pine resin, given a thousand years, transforms into amber" (千年松脂化為琥珀) — and the Ming-dynasty *Xiangcheng* (香乘) records amber's use alongside other aromatics. It is a warm, resinous material whose origin is geological, not the living plant, and this page states that distinction honestly.
 
 ## Key facts

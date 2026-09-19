@@ -12,6 +12,8 @@ status: draft
 related: ["champaca", "yulan-magnolia"]
 ---
 
+<img src="/images/michelia-figo-raw-material-800x533.webp" alt="Raw Banana Shrub (Michelia figo (syn. Magnolia figo)) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 含笑花 — *hánxiào huā* in Chinese — is the flower of *Michelia figo* (now often placed as *Magnolia figo*), a magnolia-family (Magnoliaceae) shrub native to southern China, prized for a sweet, fruity, banana-like fragrance. Its Chinese name means "the smiling flower," from the way the small, cream-yellow blossoms open partway like a half-smile. It is closely related to — but distinct from — the white champaca (白兰花), and this page distinguishes the two explicitly.
 
 ## Key facts

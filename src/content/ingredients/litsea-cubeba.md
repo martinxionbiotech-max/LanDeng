@@ -12,6 +12,8 @@ status: draft
 related: ["cubeb", "citronella"]
 ---
 
+<img src="/images/litsea-cubeba-raw-material-800x533.webp" alt="Raw Mountain Pepper (Litsea cubeba) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 山鸡椒 — *shānjījiāo* in Chinese — is the small, aromatic fruit of *Litsea cubeba*, a laurel-family (Lauraceae) tree native to southern China and Southeast Asia. It is the source of litsea cubeba (may chang) essential oil, with a bright, lemony-citrus, slightly spicy aroma. It is a modern crossover in fragrance rather than a classical incense material — and, critically, it shares a Chinese materia-medica name with cubeb (荜澄茄), which is a different plant, so this page disambiguates the two explicitly.
 
 ## Key facts
