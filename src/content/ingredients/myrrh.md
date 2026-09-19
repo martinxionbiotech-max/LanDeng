@@ -1,5 +1,5 @@
 ---
-title: "Myrrh (Mo Yao) — The Bitter, Balsamic Resin"
+title: "Myrrh (没药) — Bitter Resin"
 entity: myrrh
 chinese: 没药
 pinyin: mòyào

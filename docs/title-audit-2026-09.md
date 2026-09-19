@@ -51,3 +51,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Jasmine (Mo Li Hua) — The Sweet Flower of Chinese Tea & Fragrance` (65 chars) → rendered 87
   - after:  `Jasmine (茉莉花) — Sweet Floral` (28 chars) → rendered 50
 
+- `src/content/ingredients/mugwort.md`
+  - before: `Mugwort (Ai Cao) — What It Is & Its Role in Chinese Tradition` (61 chars) → rendered 83
+  - after:  `Mugwort (艾草) — Chinese Tradition` (32 chars) → rendered 54
+
+- `src/content/ingredients/myrrh.md`
+  - before: `Myrrh (Mo Yao) — The Bitter, Balsamic Resin` (43 chars) → rendered 65
+  - after:  `Myrrh (没药) — Bitter Resin` (25 chars) → rendered 47
+
+- `src/content/ingredients/orange-peel.md`
+  - before: `Orange Peel / Chenpi (陈皮) — The Aged Mandarin Peel` (50 chars) → rendered 72
+  - after:  `Orange Peel (陈皮) — Aged Peel` (28 chars) → rendered 50
+

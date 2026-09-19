@@ -1,5 +1,5 @@
 ---
-title: "Orange Peel / Chenpi (陈皮) — The Aged Mandarin Peel"
+title: "Orange Peel (陈皮) — Aged Peel"
 entity: orange-peel
 chinese: 陈皮
 pinyin: chénpí

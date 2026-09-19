@@ -1,5 +1,5 @@
 ---
-title: "Mugwort (Ai Cao) — What It Is & Its Role in Chinese Tradition"
+title: "Mugwort (艾草) — Chinese Tradition"
 entity: mugwort
 chinese: 艾草
 pinyin: àicǎo
