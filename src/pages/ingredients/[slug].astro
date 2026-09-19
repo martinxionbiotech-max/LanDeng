@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import ingredientsDataset from '../../../data/ingredients.json';
 
 export async function getStaticPaths() {
   const ingredients = await getCollection('ingredients');
@@ -20,6 +21,67 @@ const related = (ingredient.data.related || [])
   .filter(Boolean);
 
 const { title, chinese, pinyin, scientificName, type, aroma } = ingredient.data;
+
+// ---- P2: species-authority sameAs (reuse only verified Sources-section links) ----
+const SAMEAS_HOSTS = ['efloras.org', 'gbif.org', 'checklist.cites.org'];
+
+function hostAllowed(url, hosts) {
+  try {
+    const h = new URL(url).hostname;
+    return hosts.some((host) => h === host || h.endsWith('.' + host));
+  } catch {
+    return false;
+  }
+}
+
+function extractExternalUrls(body, hosts) {
+  if (!body) return [];
+  const m = body.match(/## Sources\s*\n([\s\S]*)$/);
+  if (!m) return [];
+  const out = [];
+  const seen = new Set();
+  const re = /\[[^\]]*\]\((https?:\/\/[^\s)]+)\)/g;
+  let mm;
+  while ((mm = re.exec(m[1])) !== null) {
+    const url = mm[1].replace(/[.,;]+$/, '');
+    if (hostAllowed(url, hosts) && !seen.has(url)) {
+      seen.add(url);
+      out.push(url);
+    }
+  }
+  return out;
+}
+
+const sameAs = extractExternalUrls(ingredient.body, SAMEAS_HOSTS);
+
+function extractImage(body) {
+  if (!body) return null;
+  const img = body.match(/<img\s+src="([^"]+)"[^>]*>/);
+  if (!img) return null;
+  const src = img[1];
+  const attr = img[0];
+  const w = attr.match(/width="(\d+)"/);
+  const h = attr.match(/height="(\d+)"/);
+  const dims = src.match(/-(\d+)x(\d+)\.\w+$/);
+  const width = w ? Number(w[1]) : dims ? Number(dims[1]) : null;
+  const height = h ? Number(h[1]) : dims ? Number(dims[2]) : null;
+  if (!src || width == null || height == null) return null;
+  return { '@type': 'ImageObject', url: src, width, height };
+}
+
+const image = extractImage(ingredient.body);
+
+// Category is read from the dataset entity, per the task spec.
+const datasetEntity = (ingredientsDataset.mainEntity || []).find((e) => e.termCode === ingredient.id);
+const categoryValue =
+  datasetEntity?.additionalProperty?.find((p) => p.name === 'Category')?.value ?? null;
+
+const additionalProperty = [
+  { '@type': 'PropertyValue', name: 'Chinese', value: chinese },
+  { '@type': 'PropertyValue', name: 'Pinyin', value: pinyin },
+  { '@type': 'PropertyValue', name: 'Scientific name', value: scientificName },
+  ...(categoryValue ? [{ '@type': 'PropertyValue', name: 'Category', value: categoryValue }] : []),
+];
 
 // Extract FAQ Q&A from the markdown body to emit FAQPage structured data.
 const faqMatch = (ingredient.body || '').match(/## FAQ\s*\n([\s\S]*)$/);
@@ -84,6 +146,9 @@ const structuredData = [
     alternateName: [chinese, pinyin, scientificName],
     termCode: scientificName,
     description: directAnswer,
+    ...(sameAs.length > 0 ? { sameAs } : {}),
+    ...(image ? { image } : {}),
+    additionalProperty,
     inDefinedTermSet: {
       '@type': 'DefinedTermSet',
       name: 'LanDeng Chinese Botanical Incense Ingredient Encyclopedia',
