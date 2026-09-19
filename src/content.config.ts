@@ -39,6 +39,7 @@ const blog = defineCollection({
     search_intent: z.string(),
     pillar: z.string(),
     content_type: z.string(),
+    cluster_role: z.string().optional(),
     last_reviewed: z.string(),
     brand: z.string().optional(),
     author: z.string().optional(),
