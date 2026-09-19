@@ -1,5 +1,5 @@
 ---
-title: "Calamus (Chang Pu) — The Spicy Aromatic Rhizome (With a Safety Caveat)"
+title: "Calamus (菖蒲) — Spicy Rhizome"
 entity: calamus
 chinese: 菖蒲
 pinyin: chāngpú

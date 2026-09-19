@@ -1,5 +1,5 @@
 ---
-title: "Borneol (Long Nao) — The Camphoraceous 'Dragon Brain' Aromatic"
+title: "Borneol (龙脑) — Dragon Brain Aromatic"
 entity: borneol
 chinese: 龙脑
 pinyin: lóngnǎo

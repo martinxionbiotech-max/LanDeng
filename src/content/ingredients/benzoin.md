@@ -1,5 +1,5 @@
 ---
-title: "Benzoin (An Xi Xiang) — The Sweet Vanilla-Balsamic Resin"
+title: "Benzoin (安息香) — Sweet Resin"
 entity: benzoin
 chinese: 安息香
 pinyin: ānxīxiāng
