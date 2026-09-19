@@ -29,10 +29,22 @@
 - [Patchouli (广藿香 / Guang Huo Xiang)](/ingredients/patchouli/)
 - [Chrysanthemum (菊花 / Ju Hua)](/ingredients/chrysanthemum/)
 - [Benzoin (安息香 / An Xi Xiang)](/ingredients/benzoin/)
+- [Pepper (胡椒 / Hu Jiao)](/ingredients/pepper/)
+- [Dried Ginger (干姜 / Gan Jiang)](/ingredients/ginger/)
+- [Magnolia Flower (辛夷 / Xin Yi)](/ingredients/magnolia-flower/)
+- [Wintersweet (蜡梅 / La Mei)](/ingredients/wintersweet/)
+- [Turmeric (姜黄 / Jiang Huang)](/ingredients/turmeric/)
+- [Labdanum (岩蔷薇 / Yan Qiang Wei)](/ingredients/labdanum/)
+- [Mastic (玛蹄脂 / Ma Ti Zhi)](/ingredients/mastic/)
+- [Asafoetida (阿魏 / A Wei)](/ingredients/asafoetida/)
+- [Perilla (紫苏 / Zi Su)](/ingredients/perilla/)
+- [Mint (薄荷 / Bo He)](/ingredients/mint/)
+- [Pomelo Peel (柚皮 / You Pi)](/ingredients/pomelo-peel/)
+- [Civet (灵猫香 / Ling Mao Xiang)](/ingredients/civet/)
 
 ## Machine-readable data
 
-- [Ingredient dataset](/data/ingredients.json): 58 ingredient entities (Schema.org Dataset / DefinedTerm).
+- [Ingredient dataset](/data/ingredients.json): 70 ingredient entities (Schema.org Dataset / DefinedTerm).
 - [Terminology dataset](/data/terminology.json): 104 Chinese–English incense terms (Schema.org Dataset / DefinedTerm).
 
 ## AI content notes
