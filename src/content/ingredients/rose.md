@@ -1,5 +1,5 @@
 ---
-title: "Rose (Mei Gui) — The Sweet Floral of Tea, Perfume & Incense"
+title: "Rose (玫瑰) — Sweet Floral"
 entity: rose
 chinese: 玫瑰
 pinyin: méiguī

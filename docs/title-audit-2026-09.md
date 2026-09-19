@@ -75,3 +75,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Pine Resin (Song Xiang) — The Woody-Balsamic Tree Resin` (55 chars) → rendered 77
   - after:  `Pine Resin (松香) — Woody Resin` (29 chars) → rendered 51
 
+- `src/content/ingredients/rose.md`
+  - before: `Rose (Mei Gui) — The Sweet Floral of Tea, Perfume & Incense` (59 chars) → rendered 81
+  - after:  `Rose (玫瑰) — Sweet Floral` (24 chars) → rendered 46
+
+- `src/content/ingredients/sandalwood.md`
+  - before: `Sandalwood (Tan Xiang) — What It Is, Species & Traditional Use vs Modern Evidence` (81 chars) → rendered 103
+  - after:  `Sandalwood (檀香) — Use vs Evidence` (33 chars) → rendered 55
+
+- `src/content/ingredients/sweetgum.md`
+  - before: `Sweetgum (Feng Xiang) — The Sweet-Balsamic Resin` (48 chars) → rendered 70
+  - after:  `Sweetgum (枫香) — Sweet Resin` (27 chars) → rendered 49
+

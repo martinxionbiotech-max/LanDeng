@@ -1,5 +1,5 @@
 ---
-title: "Sweetgum (Feng Xiang) — The Sweet-Balsamic Resin"
+title: "Sweetgum (枫香) — Sweet Resin"
 entity: sweetgum
 chinese: 枫香
 pinyin: fēngxiāng

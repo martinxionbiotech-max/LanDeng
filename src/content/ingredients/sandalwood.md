@@ -1,5 +1,5 @@
 ---
-title: "Sandalwood (Tan Xiang) — What It Is, Species & Traditional Use vs Modern Evidence"
+title: "Sandalwood (檀香) — Use vs Evidence"
 entity: sandalwood
 chinese: 檀香
 pinyin: tánxiāng
