@@ -31,10 +31,10 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | P10 — Incense Craft & Materials | 8 | how-incense-is-made | 11989 |
 | P11 — Aromatherapy & Botany | 4 | how-aromatherapy-works | 5569 |
 | P12 — Culture & Mindfulness | 5 | incense-in-daily-ritual | 6894 |
-| Ingredient Encyclopedia | 70 | — | 75963 |
+| Ingredient Encyclopedia | 82 | — | 89199 |
 | Chinese Incense (concept) | 1 | — | 1389 |
 
-**Totals:** 159 pages · 203,073 words.
+**Totals:** 171 pages · 216,309 words.
 
 ## Full ledger
 
@@ -129,81 +129,93 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `incense-for-meditation` | P12 — Culture & Mindfulness | `article` | live | 1826 |
 | `incense-in-daily-ritual` | P12 — Culture & Mindfulness | `hub` | live | 1391 |
 | `agarwood` | Ingredient Encyclopedia | `entity` | live | 1517 |
-| `agastache-rugosa` | Ingredient Encyclopedia | `entity` | live | 1000 |
+| `agastache-rugosa` | Ingredient Encyclopedia | `entity` | live | 1018 |
 | `ambergris` | Ingredient Encyclopedia | `entity` | live | 1052 |
+| `amomum-villosum` | Ingredient Encyclopedia | `entity` | live | 976 |
 | `angelica` | Ingredient Encyclopedia | `entity` | live | 877 |
-| `asafoetida` | Ingredient Encyclopedia | `entity` | live | 1059 |
-| `atractylodes` | Ingredient Encyclopedia | `entity` | live | 1053 |
+| `asafoetida` | Ingredient Encyclopedia | `entity` | live | 1076 |
+| `atractylodes` | Ingredient Encyclopedia | `entity` | live | 1070 |
+| `banksia-rose` | Ingredient Encyclopedia | `entity` | live | 1053 |
+| `bay-leaf` | Ingredient Encyclopedia | `entity` | live | 1034 |
 | `benzoin` | Ingredient Encyclopedia | `entity` | live | 1232 |
-| `bletilla` | Ingredient Encyclopedia | `entity` | live | 1117 |
+| `bletilla` | Ingredient Encyclopedia | `entity` | live | 1123 |
 | `borneol` | Ingredient Encyclopedia | `entity` | live | 1096 |
-| `borneol-oil` | Ingredient Encyclopedia | `entity` | live | 1068 |
+| `borneol-oil` | Ingredient Encyclopedia | `entity` | live | 1093 |
 | `calamus` | Ingredient Encyclopedia | `entity` | live | 1019 |
-| `camphor` | Ingredient Encyclopedia | `entity` | live | 1088 |
-| `cardamom` | Ingredient Encyclopedia | `entity` | live | 1027 |
+| `camphor` | Ingredient Encyclopedia | `entity` | live | 1072 |
+| `cardamom` | Ingredient Encyclopedia | `entity` | live | 1046 |
 | `cedar` | Ingredient Encyclopedia | `entity` | live | 1171 |
-| `champaca` | Ingredient Encyclopedia | `entity` | live | 1002 |
+| `champaca` | Ingredient Encyclopedia | `entity` | live | 1010 |
 | `chrysanthemum` | Ingredient Encyclopedia | `entity` | live | 1149 |
 | `cinnamon` | Ingredient Encyclopedia | `entity` | live | 1207 |
-| `citronella` | Ingredient Encyclopedia | `entity` | live | 1028 |
-| `civet` | Ingredient Encyclopedia | `entity` | live | 1253 |
+| `citron` | Ingredient Encyclopedia | `entity` | live | 1042 |
+| `citronella` | Ingredient Encyclopedia | `entity` | live | 1035 |
+| `civet` | Ingredient Encyclopedia | `entity` | live | 1281 |
 | `clove` | Ingredient Encyclopedia | `entity` | live | 1136 |
-| `coriander-seed` | Ingredient Encyclopedia | `entity` | live | 1035 |
-| `costus` | Ingredient Encyclopedia | `entity` | live | 1052 |
-| `cubeb` | Ingredient Encyclopedia | `entity` | live | 1000 |
-| `cyperus` | Ingredient Encyclopedia | `entity` | live | 991 |
-| `cypress-seed` | Ingredient Encyclopedia | `entity` | live | 1065 |
-| `dragons-blood` | Ingredient Encyclopedia | `entity` | live | 1023 |
-| `eupatorium` | Ingredient Encyclopedia | `entity` | live | 1060 |
-| `fennel` | Ingredient Encyclopedia | `entity` | live | 1048 |
+| `coriander-seed` | Ingredient Encyclopedia | `entity` | live | 1048 |
+| `costus` | Ingredient Encyclopedia | `entity` | live | 1068 |
+| `cubeb` | Ingredient Encyclopedia | `entity` | live | 1035 |
+| `cyperus` | Ingredient Encyclopedia | `entity` | live | 1008 |
+| `cypress-seed` | Ingredient Encyclopedia | `entity` | live | 1067 |
+| `dragons-blood` | Ingredient Encyclopedia | `entity` | live | 1060 |
+| `eupatorium` | Ingredient Encyclopedia | `entity` | live | 1052 |
+| `fennel` | Ingredient Encyclopedia | `entity` | live | 1049 |
+| `finger-citron` | Ingredient Encyclopedia | `entity` | live | 1093 |
 | `frankincense` | Ingredient Encyclopedia | `entity` | live | 1229 |
-| `galangal` | Ingredient Encyclopedia | `entity` | live | 960 |
-| `gardenia` | Ingredient Encyclopedia | `entity` | live | 1048 |
-| `ginger` | Ingredient Encyclopedia | `entity` | live | 1039 |
+| `galangal` | Ingredient Encyclopedia | `entity` | live | 984 |
+| `galbanum` | Ingredient Encyclopedia | `entity` | live | 1053 |
+| `gardenia` | Ingredient Encyclopedia | `entity` | live | 1026 |
+| `ginger` | Ingredient Encyclopedia | `entity` | live | 1056 |
+| `honeysuckle` | Ingredient Encyclopedia | `entity` | live | 1008 |
 | `jasmine` | Ingredient Encyclopedia | `entity` | live | 1242 |
-| `jiangzhenxiang` | Ingredient Encyclopedia | `entity` | live | 1118 |
-| `labdanum` | Ingredient Encyclopedia | `entity` | live | 1072 |
-| `ligusticum` | Ingredient Encyclopedia | `entity` | live | 1004 |
-| `linglingxiang` | Ingredient Encyclopedia | `entity` | live | 1133 |
-| `litchi-husk` | Ingredient Encyclopedia | `entity` | live | 1044 |
-| `long-pepper` | Ingredient Encyclopedia | `entity` | live | 982 |
-| `lotus-flower` | Ingredient Encyclopedia | `entity` | live | 1120 |
-| `magnolia-flower` | Ingredient Encyclopedia | `entity` | live | 1103 |
-| `mastic` | Ingredient Encyclopedia | `entity` | live | 1091 |
-| `mint` | Ingredient Encyclopedia | `entity` | live | 1061 |
+| `jasmine-grandiflorum` | Ingredient Encyclopedia | `entity` | live | 1022 |
+| `jiangzhenxiang` | Ingredient Encyclopedia | `entity` | live | 1141 |
+| `labdanum` | Ingredient Encyclopedia | `entity` | live | 1090 |
+| `ligusticum` | Ingredient Encyclopedia | `entity` | live | 988 |
+| `linglingxiang` | Ingredient Encyclopedia | `entity` | live | 1151 |
+| `litchi-husk` | Ingredient Encyclopedia | `entity` | live | 1058 |
+| `long-pepper` | Ingredient Encyclopedia | `entity` | live | 1010 |
+| `lotus-flower` | Ingredient Encyclopedia | `entity` | live | 1146 |
+| `magnolia-flower` | Ingredient Encyclopedia | `entity` | live | 1126 |
+| `mastic` | Ingredient Encyclopedia | `entity` | live | 1107 |
+| `mint` | Ingredient Encyclopedia | `entity` | live | 1080 |
 | `mugwort` | Ingredient Encyclopedia | `entity` | live | 1116 |
-| `musk` | Ingredient Encyclopedia | `entity` | live | 1218 |
+| `musk` | Ingredient Encyclopedia | `entity` | live | 1242 |
 | `myrrh` | Ingredient Encyclopedia | `entity` | live | 1265 |
-| `nutmeg` | Ingredient Encyclopedia | `entity` | live | 974 |
-| `onycha` | Ingredient Encyclopedia | `entity` | live | 1063 |
+| `nutmeg` | Ingredient Encyclopedia | `entity` | live | 956 |
+| `onycha` | Ingredient Encyclopedia | `entity` | live | 1092 |
 | `orange-peel` | Ingredient Encyclopedia | `entity` | live | 1240 |
-| `orris-root` | Ingredient Encyclopedia | `entity` | live | 1244 |
+| `orris-root` | Ingredient Encyclopedia | `entity` | live | 1272 |
 | `osmanthus` | Ingredient Encyclopedia | `entity` | live | 1032 |
-| `paicao` | Ingredient Encyclopedia | `entity` | live | 940 |
+| `paicao` | Ingredient Encyclopedia | `entity` | live | 982 |
 | `patchouli` | Ingredient Encyclopedia | `entity` | live | 1097 |
-| `pepper` | Ingredient Encyclopedia | `entity` | live | 1130 |
-| `perilla` | Ingredient Encyclopedia | `entity` | live | 1033 |
+| `pepper` | Ingredient Encyclopedia | `entity` | live | 1146 |
+| `perilla` | Ingredient Encyclopedia | `entity` | live | 1049 |
 | `pine-resin` | Ingredient Encyclopedia | `entity` | live | 921 |
-| `plum-blossom` | Ingredient Encyclopedia | `entity` | live | 1110 |
-| `pomelo-peel` | Ingredient Encyclopedia | `entity` | live | 1037 |
-| `red-sandalwood` | Ingredient Encyclopedia | `entity` | live | 1170 |
+| `plum-blossom` | Ingredient Encyclopedia | `entity` | live | 1132 |
+| `pomelo-peel` | Ingredient Encyclopedia | `entity` | live | 1057 |
+| `red-sandalwood` | Ingredient Encyclopedia | `entity` | live | 1150 |
 | `rose` | Ingredient Encyclopedia | `entity` | live | 1085 |
-| `rue` | Ingredient Encyclopedia | `entity` | live | 1053 |
-| `sand-ginger` | Ingredient Encyclopedia | `entity` | live | 930 |
+| `rosemary` | Ingredient Encyclopedia | `entity` | live | 1068 |
+| `rue` | Ingredient Encyclopedia | `entity` | live | 1072 |
+| `sand-ginger` | Ingredient Encyclopedia | `entity` | live | 927 |
 | `sandalwood` | Ingredient Encyclopedia | `entity` | live | 1214 |
-| `spikenard-nardostachys` | Ingredient Encyclopedia | `entity` | live | 1108 |
-| `star-anise` | Ingredient Encyclopedia | `entity` | live | 1085 |
-| `styrax-resin` | Ingredient Encyclopedia | `entity` | live | 1062 |
+| `spikenard-nardostachys` | Ingredient Encyclopedia | `entity` | live | 1126 |
+| `star-anise` | Ingredient Encyclopedia | `entity` | live | 1104 |
+| `styrax-resin` | Ingredient Encyclopedia | `entity` | live | 1084 |
 | `sweetgum` | Ingredient Encyclopedia | `entity` | live | 892 |
-| `turmeric` | Ingredient Encyclopedia | `entity` | live | 1163 |
+| `thuja` | Ingredient Encyclopedia | `entity` | live | 1147 |
+| `tsao-ko` | Ingredient Encyclopedia | `entity` | live | 974 |
+| `turmeric` | Ingredient Encyclopedia | `entity` | live | 1179 |
 | `vetiver` | Ingredient Encyclopedia | `entity` | live | 1098 |
-| `wintersweet` | Ingredient Encyclopedia | `entity` | live | 1012 |
+| `wintersweet` | Ingredient Encyclopedia | `entity` | live | 1028 |
+| `yulan-magnolia` | Ingredient Encyclopedia | `entity` | live | 1070 |
 | `chinese-incense` | Chinese Incense (concept) | `pillar` | live | 1389 |
 
 ## Notes
 
 - **12 canonical clusters** = P1–P11 + Commercial (B2B Buying & Supply). Exactly one `hub` per cluster.
-- **Ingredient entity pages** (70) and the **Chinese-incense concept page** (1) live in separate
+- **Ingredient entity pages** (82) and the **Chinese-incense concept page** (1) live in separate
   collections and are not part of the P1–P11 blog taxonomy; they carry `entity` / `pillar` roles.
 - Ingredient/concept frontmatter still uses `status: draft`; they are nonetheless built and served
   (no draft filter in the collection routes), so this ledger records them as `live`.

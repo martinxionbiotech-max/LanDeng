@@ -41,10 +41,22 @@
 - [Mint (薄荷 / Bo He)](/ingredients/mint/)
 - [Pomelo Peel (柚皮 / You Pi)](/ingredients/pomelo-peel/)
 - [Civet (灵猫香 / Ling Mao Xiang)](/ingredients/civet/)
+- [Thuja (崖柏 / Ya Bai)](/ingredients/thuja/)
+- [Banksia Rose (木香花 / Mu Xiang Hua)](/ingredients/banksia-rose/)
+- [Spanish Jasmine (素馨 / Su Xin)](/ingredients/jasmine-grandiflorum/)
+- [Yulan Magnolia (玉兰 / Yu Lan)](/ingredients/yulan-magnolia/)
+- [Honeysuckle (金银花 / Jin Yin Hua)](/ingredients/honeysuckle/)
+- [Amomum villosum (砂仁 / Sha Ren)](/ingredients/amomum-villosum/)
+- [Tsaoko (草果 / Cao Guo)](/ingredients/tsao-ko/)
+- [Galbanum (白松香 / Bai Song Xiang)](/ingredients/galbanum/)
+- [Bay Leaf (月桂叶 / Yue Gui Ye)](/ingredients/bay-leaf/)
+- [Rosemary (迷迭香 / Mi Die Xiang)](/ingredients/rosemary/)
+- [Finger Citron (佛手 / Fo Shou)](/ingredients/finger-citron/)
+- [Citron (香橼 / Xiang Yuan)](/ingredients/citron/)
 
 ## Machine-readable data
 
-- [Ingredient dataset](/data/ingredients.json): 70 ingredient entities (Schema.org Dataset / DefinedTerm).
+- [Ingredient dataset](/data/ingredients.json): 82 ingredient entities (Schema.org Dataset / DefinedTerm).
 - [Terminology dataset](/data/terminology.json): 104 Chinese–English incense terms (Schema.org Dataset / DefinedTerm).
 
 ## AI content notes
