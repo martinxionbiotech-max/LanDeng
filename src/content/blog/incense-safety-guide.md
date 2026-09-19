@@ -1,6 +1,6 @@
 ---
 slug: "incense-safety-guide"
-title: "Incense Safety Guide: Smoke, Ventilation, and Common Sense"
+title: "Incense Safety Guide: Smoke & Ventilation"
 primary_keyword: "incense safety"
 search_intent: "informational"
 pillar: "P6 — Care & Safety"

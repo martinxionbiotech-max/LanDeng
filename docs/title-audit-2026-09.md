@@ -243,3 +243,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Incense Material Comparison Matrix: 7 Classical Materials at a Glance` (69 chars) → rendered 79
   - after:  `Incense Material Comparison Matrix: 7 Classics` (46 chars) → rendered 56
 
+- `src/content/blog/incense-pets-sensitivities.md`
+  - before: `Incense, Pets & Sensitivities: What to Actually Watch For` (57 chars) → rendered 67
+  - after:  `Incense, Pets & Sensitivities: What to Watch` (44 chars) → rendered 54
+
+- `src/content/blog/incense-powder-resin.md`
+  - before: `Incense Powder & Resin: The Pure-Material, Smoke-Light Format` (61 chars) → rendered 71
+  - after:  `Incense Powder & Resin: Smoke-Light Format` (42 chars) → rendered 52
+
+- `src/content/blog/incense-safety-guide.md`
+  - before: `Incense Safety Guide: Smoke, Ventilation, and Common Sense` (58 chars) → rendered 68
+  - after:  `Incense Safety Guide: Smoke & Ventilation` (41 chars) → rendered 51
+
