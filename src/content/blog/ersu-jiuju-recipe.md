@@ -38,6 +38,12 @@ The jasmine coat is also instructive: it is the **first thing you smell** (a bri
 
 ---
 
+## Proportions: Unverified (Contemporary Source)
+
+二苏旧局 is a **contemporary** recipe, and its source (陈云君's *燕居香语*) does not record a fixed 两/钱 ratio the way the classical manuals do. The proportions are **unverified** — the ingredients are known (agarwood, sandalwood, frankincense, amber, honey, jasmine), but their exact quantities are loose in the source and vary between retellings. Do not invent a number here: the honest position is that the *structure* — wood core, resin lift, honey binder, floral coat — is what the recipe teaches, not a measured ratio.
+
+This stands in contrast to the 香谱/香乘 recipes in this cluster, which do record specific 两/钱 proportions. For those, the classical weights are: one 两 (liǎng) on the order of 37 g in the Song–Ming period, divided into 10 钱 (qián) of about 3.7 g each, each 钱 into 10 分 (fēn) of about 0.37 g — with the gram value varying by dynasty, so the *ratios* are the reliable part. See the [recipe library](/blog/chinese-incense-recipes/) for the full note.
+
 ## The Honest Caveats
 
 - **This is a modern recipe** — 陈云君's *燕居香语* is contemporary, not a Song/Ming manual.
@@ -83,7 +89,7 @@ It is a modern revival (not a 香谱 original) and its assistant role is split a
 
 ## Sources
 
-- 燕居香语 (陈云君) — the 二苏旧局 formula, via Zhihu and Meipian secondary sources.
+- 燕居香语 (陈云君) — the 二苏旧局 formula (contemporary manual; proportions loose, flagged as unverified), via Zhihu and Meipian secondary sources.
 
 ## Related Resources
 

@@ -19,7 +19,7 @@ author: "LanDeng Editorial Team"
 
 ## The Recipe (香乘 version)
 
-> **香附子、鬱金、檀香、麝香、樟腦、羊脛灰** — cyperus (香附子), turmeric (鬱金), sandalwood (檀香), musk (麝香), camphor (樟腦), and sheep-shin-bone ash (羊脛灰). Grind fine, bind with refined honey, age (窨), and burn in the usual manner. Other recorded versions swap in 棧香 and 杉木炭.
+> **香附子四两、鬱金二两、檀香一两、麝香少许、樟脑一钱、羊脛灰四两** — four liǎng cyperus (香附子), two liǎng turmeric (鬱金), one liǎng sandalwood (檀香), a trace of musk (麝香), one qián camphor (樟脑), and four liǎng sheep-shin-bone ash (羊脛灰). Grind fine, bind with refined honey, age (窨), and burn in the usual manner. The 香乘 records this version alongside others (below).
 
 | Role | Ingredient | Job in the blend |
 |---|---|---|
@@ -29,6 +29,44 @@ author: "LanDeng Editorial Team"
 | 使 (guide) | 麝香 + 羊脛灰 + honey | Musk fixes and lifts; ash and honey bind the powder |
 
 ---
+
+## The Recorded Proportions (Both Versions)
+
+The 香乘 gives 雪中春信 in at least three forms. Two are cleanly legible with full proportions:
+
+**Version A (the camphor-forward form, matching the ingredients above):**
+
+| Ingredient | Quantity |
+|---|---|
+| 香附子 (cyperus) | 四两 (4 liǎng) |
+| 鬱金 (turmeric) | 二两 (2 liǎng) |
+| 檀香 (sandalwood) | 一两 (1 liǎng) |
+| 麝香 (musk) | 少许 (a trace) |
+| 樟脑 (camphor) | 一钱 (1 qián) |
+| 羊脛灰 (sheep-shin-bone ash) | 四两 (4 liǎng) |
+
+**Version B (the agarwood-forward form):**
+
+| Ingredient | Quantity |
+|---|---|
+| 沉香 (agarwood) | 一两 (1 liǎng) |
+| 白檀 (sandalwood) | 半两 (0.5 liǎng) |
+| 丁香 (clove) | 半两 (0.5 liǎng) |
+| 木香 (costus) | 半两 (0.5 liǎng) |
+| 甘松 (spikenard) | 七钱半 (7.5 qián) |
+| 藿香 (patchouli/herb) | 七钱半 (7.5 qián) |
+| 零陵香 (tonka/mellilot) | 七钱半 (7.5 qián) |
+| 白芷 (angelica) | 二钱 (2 qián) |
+| 回鹘香附子 (Uyghur cyperus) | 二钱 (2 qián) |
+| 当归 (angelica root) | 二钱 (2 qián) |
+| 麝香 (musk) | 二钱 (2 qián) |
+| 官桂 (cassia) | 二钱 (2 qián) |
+| 槟榔 (areca nut) | 一枚 (1 piece) |
+| 荳蔻 (cardamom) | 一枚 (1 piece) |
+
+Version B shows the same logic — a wood body with a camphor note — built on a much wider herbal and spice base. The two versions are the reason this recipe has no single "correct" form: the 香乘 itself preserves the disagreement.
+
+**Unit conversion:** the recipes use historical Chinese weights. One 两 (liǎng) was on the order of 37 g in the Song–Ming period (the exact gram value varied by dynasty, roughly 31–41 g across periods), divided into 10 钱 (qián) of about 3.7 g each, each 钱 into 10 分 (fēn) of about 0.37 g. Because the gram value of the 两 shifted over time, read the *ratios* — e.g., Version A's cyperus-to-sandalwood ratio of 4:1 — not the gram conversion.
 
 ## Why the "Snow" Note Matters
 
@@ -83,7 +121,7 @@ In principle yes, but the proportions vary by version and musk is restricted or 
 
 ## Sources
 
-- 香乘 (Xiang Cheng), 周嘉胄 (Ming), 卷十八 — the primary formula, via ctext.org and 识典古籍.
+- 香乘 (Xiang Cheng), 周嘉胄 (Ming), 卷十八 — the primary formula (multiple recorded versions). [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
 
 ## Related Resources
 

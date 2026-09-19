@@ -30,6 +30,26 @@ author: "LanDeng Editorial Team"
 
 ---
 
+## Proportions and Unit Conversion
+
+The recorded proportions (香乘, 卷十八):
+
+| Ingredient | Quantity |
+|---|---|
+| 甘松 (spikenard) | 半两 (0.5 liǎng) |
+| 白芷 (angelica) | 半两 (0.5 liǎng) |
+| 牡丹皮 (peony bark) | 半两 (0.5 liǎng) |
+| 藁本 (lovage) | 半两 (0.5 liǎng) |
+| 茴香 (fennel) | 一两 (1 liǎng) |
+| 丁皮 (clove bark) | 一两 (1 liǎng) |
+| 檀香 (sandalwood) | 一两 (1 liǎng, 不见火 not fired) |
+| 降真香 (rosewood/lakawood) | 二钱 (2 qián) |
+| 白梅 (white plum) | 一百枚 (100 pieces) |
+
+The ratio reads clearly: the four herbal top-and-middle ingredients run at half a 两 each, the spice-and-wood backbone at a full 两 each, the accent resin at two 钱, and the plum counted in pieces rather than weight.
+
+**Unit conversion:** one 两 (liǎng) was on the order of 37 g in the Song–Ming period — the exact gram value varied by dynasty, roughly 31–41 g across periods — and it divides into 10 钱 (qián) of about 3.7 g each, each 钱 into 10 分 (fēn) of about 0.37 g. Because the gram value of the 两 shifted over time, read the *ratios*, not the grams: here the 1:1:1:1 backbone against the 半两 herbs, and the 2-钱 降真香 as the smallest weighed accent.
+
 ## The Plum Is an Accord, Not a Flower
 
 The recipe does not rely on plum flowers alone. The "plum" character is **constructed** — a tart-sweet note from 白梅 (pickled/dried plum) over warm wood and herbal tones. This is the same compositional logic as a perfumer building a "floral" accord from materials that are not the flower.
@@ -83,7 +103,7 @@ The attribution is traditional legend (the plum-blossom-makeup story), not docum
 
 ## Sources
 
-- 香乘 (Xiang Cheng), 周嘉胄 (Ming), 卷十八 — the 寿阳公主梅花香 formula, via ctext.org, 识典古籍, and wikisource.
+- 香乘 (Xiang Cheng), 周嘉胄 (Ming), 卷十八 — the 寿阳公主梅花香 formula. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
 - 《太平御览》 — the 梅花妆 origin legend.
 
 ## Related Resources

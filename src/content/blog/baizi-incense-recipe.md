@@ -30,6 +30,14 @@ author: "LanDeng Editorial Team"
 
 ---
 
+## Proportions: Deliberately Unmeasured
+
+The 香乘 records 柏子香 with no fixed quantity: **柏子实不计多少** — "cypress seeds, however many." This is not a gap in the surviving text; it is the point. The recipe is the tradition's most un-fussy formula, so the manual does not bother to weigh it. There is no 两/钱 ratio to recover, and none should be invented — the honest rendering is "as many green, unopened seeds as you have, scalded, wine-soaked, honey-sealed, and dried."
+
+Where a quantity does appear in related folk versions, it is the honey-and-wine treatment rather than the seed count that varies. Treat 柏子香 as **proportions unverified by design** — the source deliberately gives none, so there is nothing to convert.
+
+**Unit conversion (for the recipes that do weigh):** classical Chinese incense recipes use historical weights — one 两 (liǎng) on the order of 37 g in the Song–Ming period, divided into 10 钱 (qián) of about 3.7 g each, each 钱 into 10 分 (fēn) of about 0.37 g. The gram value of the 两 varied by dynasty, so read the *ratios*, not the grams. See the [recipe library](/blog/chinese-incense-recipes/) for the full note.
+
 ## The Point: Not Everything Was Expensive
 
 柏子香 matters precisely because it is **not** precious. It is the reminder that Chinese incense was not only agarwood and musk — it was also a scholar burning roasted seeds in a quiet study. Su Shi, the figure most associated with 雪中春信's legend, is also the one recorded burning 柏子 with a humble meal.
@@ -83,7 +91,7 @@ In principle yes — the method is simple (scald, soak in wine and honey, dry, b
 
 ## Sources
 
-- 香乘 (Xiang Cheng), 周嘉胄 (Ming) — the 柏子香 formula, via ctext.org and 识典古籍.
+- 香乘 (Xiang Cheng), 周嘉胄 (Ming) — the 柏子香 formula. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
 - 苏轼 (Su Shi), 《十月十四日以病在告独酌》 — "铜炉烧柏子，石鼎煮山药."
 
 ## Related Resources
