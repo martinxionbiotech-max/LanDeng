@@ -1,6 +1,6 @@
 ---
 slug: "scent-by-intention"
-title: "Incense by Intention: Choosing a Scent for Your Purpose"
+title: "Incense by Intention: Scent for Your Purpose"
 primary_keyword: "incense by intention"
 search_intent: "informational"
 pillar: "P3 — Use Scenarios"

@@ -1,6 +1,6 @@
 ---
 slug: "samples-program"
-title: "Incense Samples Program: What a Sample Can and Cannot Verify"
+title: "Incense Samples Program: What Samples Verify"
 primary_keyword: "incense sample request"
 search_intent: "commercial_investigation"
 pillar: "Commercial — B2B Buying & Supply"

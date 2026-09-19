@@ -351,3 +351,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `奇楠 (Qinan / Kyara): The Grade English Calls by a Japanese Name` (62 chars) → rendered 72
   - after:  `奇楠 (Qinan / Kyara): A Grade by Many Names` (41 chars) → rendered 51
 
+- `src/content/blog/samples-program.md`
+  - before: `Incense Samples Program: What a Sample Can and Cannot Verify` (60 chars) → rendered 70
+  - after:  `Incense Samples Program: What Samples Verify` (44 chars) → rendered 54
+
+- `src/content/blog/sandalwood-incense.md`
+  - before: `Sandalwood Incense (檀香): Aroma, Species, and How to Read the Claims` (67 chars) → rendered 77
+  - after:  `Sandalwood Incense (檀香): Reading the Claims` (43 chars) → rendered 53
+
+- `src/content/blog/scent-by-intention.md`
+  - before: `Incense by Intention: Choosing a Scent for Your Purpose` (55 chars) → rendered 65
+  - after:  `Incense by Intention: Scent for Your Purpose` (44 chars) → rendered 54
+

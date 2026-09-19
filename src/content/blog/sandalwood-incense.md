@@ -1,6 +1,6 @@
 ---
 slug: "sandalwood-incense"
-title: "Sandalwood Incense (檀香): Aroma, Species, and How to Read the Claims"
+title: "Sandalwood Incense (檀香): Reading the Claims"
 primary_keyword: "what is sandalwood incense"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"
