@@ -120,6 +120,7 @@ This is not a weaker framing — it is the defensible one, and it is what keeps 
 - No therapeutic or health claim is made. Fragrance is treated as an ambiance and focus practice only.
 
 ---
+See [Incense in Daily Ritual: Scent as a Marker of Time and Transition](/blog/incense-in-daily-ritual/) for the full guide.
 
 ## FAQ
 

@@ -80,6 +80,12 @@ Smell is the sense most directly tied to memory and emotion (see [how aromathera
 - No spiritual-power, therapeutic, or medical claims are made.
 
 ---
+## Cluster directory
+
+- [Creating a Calming Evening Ritual (Without the Sleep-Aid Nonsense)](/blog/calming-evening-ritual/)
+- [四般闲事 (Four Leisure Arts): Incense, Tea, Painting, and Flowers](/blog/four-leisure-arts/)
+- [Incense and Breathwork: Using Scent as a Focus for the Breath](/blog/incense-and-breathwork/)
+- [Incense for Meditation: Formats, Burn Times, and Choosing a Scent](/blog/incense-for-meditation/)
 
 ## FAQ
 
