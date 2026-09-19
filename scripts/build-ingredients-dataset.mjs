@@ -1,7 +1,7 @@
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
 
-const SITE = 'https://example.com'; // TODO: replace with production domain
+const SITE = 'https://incenseherbs.com'; // TODO: replace with production domain
 const DIR = 'src/content/ingredients';
 
 function parseFrontmatter(md) {

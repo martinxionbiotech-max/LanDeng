@@ -9,7 +9,7 @@ const {
   description = 'A quiet, research-led knowledge platform for Chinese botanical incense.',
 } = Astro.props;
 
-const SITE = Astro.site?.toString() ?? 'https://example.com';
+const SITE = Astro.site?.toString() ?? 'https://incenseherbs.com';
 const canonical = Astro.site
   ? new URL(Astro.url.pathname, Astro.site).toString()
   : `${SITE}${Astro.url.pathname}`;

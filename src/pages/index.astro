@@ -4,7 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 const ingredients = await getCollection('ingredients');
 const orderedIngredients = ingredients.sort((a, b) => a.data.title.localeCompare(b.data.title));
-const siteUrl = Astro.site?.toString() ?? 'https://example.com';
+const siteUrl = Astro.site?.toString() ?? 'https://incenseherbs.com';
 
 const organizationSchema = {
   '@context': 'https://schema.org',

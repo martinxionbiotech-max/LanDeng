@@ -29,7 +29,7 @@ if (faqMatch) {
   if (qa.length > 0) faqJsonLd = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: qa };
 }
 
-const SITE = Astro.site?.toString() ?? 'https://example.com';
+const SITE = Astro.site?.toString() ?? 'https://incenseherbs.com';
 const pageUrl = `${SITE}blog/${post.data.slug}/`;
 
 const structuredData = [

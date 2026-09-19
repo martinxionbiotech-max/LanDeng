@@ -35,7 +35,7 @@ if (faqMatch) {
   if (qa.length > 0) faqJsonLd = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: qa };
 }
 
-const pageUrl = `${Astro.site?.toString() ?? 'https://example.com'}ingredients/${ingredient.id}/`;
+const pageUrl = `${Astro.site?.toString() ?? 'https://incenseherbs.com'}ingredients/${ingredient.id}/`;
 const aromaText = aroma.join(', ');
 const directAnswer = `${chinese} (${pinyin}) is an ${type} from ${scientificName}, with an aroma profile of ${aromaText}.`;
 
@@ -47,7 +47,7 @@ const structuredData = [
     name: title,
     url: pageUrl,
     description: directAnswer,
-    isPartOf: { '@id': `${Astro.site?.toString() ?? 'https://example.com'}#website` },
+    isPartOf: { '@id': `${Astro.site?.toString() ?? 'https://incenseherbs.com'}#website` },
     breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
     mainEntity: { '@id': `${pageUrl}#definedterm` },
   },
@@ -60,13 +60,13 @@ const structuredData = [
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: `${Astro.site?.toString() ?? 'https://example.com'}`,
+        item: `${Astro.site?.toString() ?? 'https://incenseherbs.com'}`,
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: 'Ingredients',
-        item: `${Astro.site?.toString() ?? 'https://example.com'}ingredients/`,
+        item: `${Astro.site?.toString() ?? 'https://incenseherbs.com'}ingredients/`,
       },
       {
         '@type': 'ListItem',
@@ -87,7 +87,7 @@ const structuredData = [
     inDefinedTermSet: {
       '@type': 'DefinedTermSet',
       name: 'LanDeng Chinese Botanical Incense Ingredient Encyclopedia',
-      url: `${Astro.site?.toString() ?? 'https://example.com'}ingredients/`,
+      url: `${Astro.site?.toString() ?? 'https://incenseherbs.com'}ingredients/`,
     },
   },
   ...(faqJsonLd ? [faqJsonLd] : []),

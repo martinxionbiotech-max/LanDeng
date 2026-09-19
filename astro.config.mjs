@@ -3,7 +3,7 @@ import sitemap from '@astrojs/sitemap';
 
 // TODO: replace with the production domain before launch.
 export default defineConfig({
-  site: 'https://example.com',
+  site: 'https://incenseherbs.com',
   output: 'static',
   integrations: [sitemap()],
 });
