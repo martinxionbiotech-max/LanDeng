@@ -14,6 +14,8 @@ author: "\"LanDeng Editorial Team\""
 
 **Direct answer:** Chinese incense culture spans roughly three millennia, from aromatic offerings in the Shang dynasty (c. 1600–1046 BCE) to a refined aesthetic practice in the Song dynasty (960–1279), followed by codification in the Ming, decline through the Qing and 20th century, and a revival from the 2000s onward.
 
+<img src="/images/incense-history-timeline-artifacts-1600x675.webp" alt="Wide banner of incense artifacts across eras on a dark museum shelf" width="1600" height="675" loading="lazy">
+
 **Key facts:** The first clear written mark is the character 香 on Shang oracle bones. Incense shifted from ritual offering to aesthetic enjoyment around the Han dynasty with the 博山炉 (Boshan censer). The Song dynasty is the cultural peak — the era of 四般闲事, 隔火焚香, and the great 香谱 manuals.
 
 ---

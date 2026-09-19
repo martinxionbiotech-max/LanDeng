@@ -14,6 +14,8 @@ author: "LanDeng Editorial Team"
 
 **Direct answer:** 寿阳公主梅花香 is a classical plum-blossom 合香 attributed to **寿阳公主 (Princess Shouyang)** of the Southern Dynasties — a legendary figure tied to the "梅花妆" (plum-blossom makeup) story. The recipe builds a **plum note from sandalwood, herbal tones, and 白梅 (white plum)**, not from the flower's scent alone.
 
+<img src="/images/recipe-shouyang-plum-blossom-800x533.webp" alt="Plum blossom petals with small dishes of pale aromatic powders" width="800" height="533" loading="lazy">
+
 **Key facts:** "梅花香" (plum incense) survives in *many* versions in the 香乘; 寿阳公主梅花香 is the most famous named one. The plum character is an *accord* — built from layered ingredients — not a single flower.
 
 ---

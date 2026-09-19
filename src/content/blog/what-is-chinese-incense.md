@@ -14,6 +14,8 @@ author: "\"LanDeng Editorial Team\""
 
 **Direct answer:** Chinese incense is aromatic plant material — fragrant woods, resins, and dried botanicals, either burned directly or gently heated over charcoal — used for thousands of years as part of ritual, aesthetic, and daily life. In modern terms it includes both the classical materials (agarwood 沉香, sandalwood 檀香, frankincense 乳香) and the formed products made from them: sticks 线香, coils 盘香, cones, and loose powder.
 
+<img src="/images/chinese-incense-sticks-bundle-1200x675.webp" alt="Bundle of hand-made Chinese incense sticks tied with cotton twine on rice paper" width="1200" height="675" loading="lazy">
+
 **Key facts:** Incense in China is called 香 (xiāng, "fragrance"), the practice is 香道 (xiāngdào, "the Way of Incense"), and the blended-art tradition is 合香 (hé xiāng, "compound incense"). The culture is older than the better-known Japanese kōdō, which descended from it.
 
 ---

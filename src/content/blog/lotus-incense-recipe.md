@@ -14,6 +14,8 @@ author: "LanDeng Editorial Team"
 
 **Direct answer:** 荷香 (lotus incense) is a **symbol first, a material second**. In classical incense, "lotus" was usually built as an *accord* — a fresh, clean floral impression assembled from woods and herbs — because the flower's own scent is too delicate to survive burning. Later manuals used **actual lotus** in compound blends.
 
+<img src="/images/recipe-lotus-summer-800x533.webp" alt="Lotus pod and summer aromatics in a ceramic dish" width="800" height="533" loading="lazy">
+
 **Key facts:** Lotus (莲花/荷花, *Nelumbo*) carries deep symbolism — 出淤泥而不染, "grows from mud yet is unstained." In incense it is more often an ideal than an ingredient; the classical 香乘 even has a lotus clothes-incense built *without* the flower.
 
 ---

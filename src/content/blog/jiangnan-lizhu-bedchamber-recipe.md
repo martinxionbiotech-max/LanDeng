@@ -14,6 +14,8 @@ author: "LanDeng Editorial Team"
 
 **Direct answer:** 江南李主帐中香 is a classical 合香 attributed to **李煜 (Li Yu)**, the last ruler of the Southern Tang — hence "江南李主" ("Lord of Jiangnan"). Its most famous version steams **agarwood and a trace of sandalwood inside hollowed goose pears**, infusing the wood with a clean, sweet fruit note.
 
+<img src="/images/recipe-jiangnan-pear-bedchamber-800x533.webp" alt="A pear with a small censer and silk cloth in soft window light" width="800" height="533" loading="lazy">
+
 **Key facts:** This is one of the best-documented classical recipes, with several versions in the 香乘. Its "assistant" is a *fruit*, and its "guide" is a *process* (steaming and aging) rather than an ingredient.
 
 ---

@@ -14,6 +14,8 @@ author: "\"LanDeng Editorial Team\""
 
 **Direct answer:** A calming evening ritual is a **consistent wind-down sequence** — the same soft scent, dimmed lights, screens put away, a quiet moment — that signals to yourself that the day is ending. The scent is a **cue**, not a sedative.
 
+<img src="/images/evening-ritual-incense-tea-desk-1200x675.webp" alt="Quiet evening scene with tea cup, censer and open book on a dark wood desk" width="1200" height="675" loading="lazy">
+
 **Key facts:** This page makes **no sleep or medical claims.** Incense is not a sleep aid; it is one element of a routine that helps you transition out of the day.
 
 ---

@@ -14,6 +14,8 @@ author: "LanDeng Editorial Team"
 
 **Direct answer:** The 博山炉 ("Boshan censer," "universal-mountain burner") is the **iconic incense burner of the Han dynasty** — a bronze vessel whose lid is cast as a **miniature mountain range** with peaks, figures, and animals. When incense burned inside, smoke rose through the pierced mountain, appearing as mist over the peaks.
 
+<img src="/images/boshan-censer-bronze-han-1200x675.webp" alt="Ancient Chinese Boshan bronze mountain censer with smoke rising" width="1200" height="675" loading="lazy">
+
 **Key facts:** The mountain is symbolic — it represents the mythical **isles of the immortals (蓬莱, 方丈, 瀛洲)** and the Daoist longing for immortality that colored Han court culture. This is a historical page, not a wellness claim.
 
 ---

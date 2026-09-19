@@ -14,6 +14,8 @@ author: "LanDeng Editorial Team"
 
 **Direct answer:** 花蕊夫人衙香 is a rich court 合香 attributed to **花蕊夫人 (Lady Huarui)**, the famous consort of the Later Shu ruler 孟昶. It is built on the classic court trio — **agarwood, sandalwood, and musk** — with frankincense, borneol, and ambergris-derived 甲香 for depth.
 
+<img src="/images/recipe-huarui-yamen-800x533.webp" alt="Refined agarwood pieces and a small gold-accented dish on dark silk" width="800" height="533" loading="lazy">
+
 **Key facts:** 衙香 (yamen incense) was a *category* of court/office incense, not a single scent — and the 花蕊夫人 version is the most famous named one. It is a lesson in the **rich, layered court blend** as distinct from the leaner scholar blends.
 
 ---

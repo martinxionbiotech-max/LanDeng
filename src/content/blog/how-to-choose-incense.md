@@ -14,6 +14,8 @@ author: "\"LanDeng Editorial Team\""
 
 **Direct answer:** To choose incense well, work through four questions in order: **what do you want it for** (intention), **which format** fits that (stick, cone, coil, resin, beads), **what material** is actually in it (wood/resin vs fragrance oil), and **how much smoke** you can tolerate. Then confirm the scent by its material, not its name.
 
+<img src="/images/incense-quality-indicators-closeup-1200x675.webp" alt="Macro close-up of a premium incense stick with even coating and pale ash" width="1200" height="675" loading="lazy">
+
 **Key facts:** This is a buying guide, not a product list. It gives you the decision framework — intention → format → material → smoke — and tells you what to check on a label, with no affiliate rankings and no health claims.
 
 ---

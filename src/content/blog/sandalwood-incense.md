@@ -14,6 +14,8 @@ author: "\"LanDeng Editorial Team\""
 
 **Direct answer:** Sandalwood incense is made from the aromatic heartwood of *Santalum* trees — most classically Indian sandalwood (*Santalum album*) — prized for a creamy, soft, sweet-woody aroma. It is a cornerstone of Chinese, Indian, and Japanese incense traditions, but "sandalwood" on a label can mean several different species or even a synthetic fragrance, so the material matters as much as the name.
 
+<img src="/images/sandalwood-powder-wood-1200x675.webp" alt="Sandalwood powder in a ceramic dish beside a raw sandalwood block" width="1200" height="675" loading="lazy">
+
 **Key facts:** The classic species is *Santalum album* (white/Indian sandalwood); common substitutes are Australian (*S. spicatum*), New Caledonian (*S. austrocaledonicum*), and Hawaiian (*S. paniculatum*). True sandalwood powder is comparatively expensive, which drives substitution and adulteration.
 
 ---

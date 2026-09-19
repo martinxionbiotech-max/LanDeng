@@ -14,6 +14,8 @@ author: "\"LanDeng Editorial Team\""
 
 **Direct answer:** Incense is used in meditation for three practical reasons, not one: as a **timer** (a stick's burn marks a session's length), as a **sensory anchor** (a single scent to return your attention to), and as a **ritual cue** (lighting it signals the start of practice). The traditional scents are the calm woods and resins — **sandalwood 檀香, agarwood 沉香, and frankincense 乳香** — but the format and burn time matter as much as the scent.
 
+<img src="/images/meditation-incense-minimal-1200x675.webp" alt="One incense stick in a tiny ceramic holder on an empty warm-white surface" width="1200" height="675" loading="lazy">
+
 **Key facts:** A stick's burn time roughly frames a session — most sticks burn **20–60 minutes** (Japanese coreless sticks ~25–30 min; bamboo-core sticks ~45–60 min), while coils burn for hours and cones for only 10–15 minutes. Incense is an ambiance and focus practice, **not a treatment** — no form of incense "cures" or "relieves" anything.
 
 ---

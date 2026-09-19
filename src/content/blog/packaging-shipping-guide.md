@@ -14,6 +14,8 @@ author: "\"LanDeng Editorial Team\""
 
 **Direct answer:** Getting incense from a factory to your warehouse has two halves: **packaging** (product protection, labeling, and retail presentation) and **export** (shipping terms, customs classification, and destination compliance). The practical rules are: package for protection and labeling compliance, agree your Incoterms up front, classify the goods correctly for customs, and check your destination country's requirements before the shipment moves.
 
+<img src="/images/wholesale-packaging-boxes-1200x675.webp" alt="Neutral kraft export packaging boxes on a warehouse table" width="1200" height="675" loading="lazy">
+
 **Key facts:** This guide covers incense packaging considerations, international shipping basics, and the customs points that matter most — including the harmonized-system classification that determines duties. It links to official U.S. resources (CBP and the HTS) for tariff and import specifics. No prices, lead times, or duty rates are stated — those are destination- and product-specific and confirmed per shipment.
 
 ---

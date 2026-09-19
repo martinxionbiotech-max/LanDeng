@@ -14,6 +14,8 @@ author: "\"LanDeng Editorial Team\""
 
 **Direct answer:** The main incense formats are **sticks** (the everyday default), **backflow cones** (a visual waterfall effect), **coils** (hours-long burn), **powder & resin** (loose material on heat), and **aromatherapy beads** (scented bracelets, no burning). The right one depends on **burn time, smoke, and whether you want a visual**.
 
+<img src="/images/incense-formats-lineup-sticks-coils-cones-1600x675.webp" alt="Editorial lineup of incense formats: sticks, spiral coil, backflow cone, powder mound on rice paper" width="1600" height="675" loading="lazy">
+
 **Key facts:** A stick burns roughly 20–60 minutes; a cone ~10–15 minutes; a coil can burn for hours; resin is heated, not burned (least smoke); beads are worn, not burned (no smoke at all).
 
 ---
