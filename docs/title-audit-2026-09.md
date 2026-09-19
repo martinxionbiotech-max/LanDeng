@@ -207,3 +207,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Incense Authentication: How to Spot Fake Agarwood, Sandalwood, and Resin` (72 chars) → rendered 82
   - after:  `Incense Authentication: Fake Agarwood & Resin` (45 chars) → rendered 55
 
+- `src/content/blog/incense-burn-time-format-matrix.md`
+  - before: `Incense Burn Time & Format Matrix: Stick, Coil, Cone, Resin, Powder` (67 chars) → rendered 77
+  - after:  `Incense Burn Time Format Matrix: Stick to Powder` (48 chars) → rendered 58
+
+- `src/content/blog/incense-burners-tools.md`
+  - before: `Chinese Incense Burners & Tools (香炉香具): The Complete Guide` (58 chars) → rendered 68
+  - after:  `Chinese Incense Burners & Tools (香炉香具)` (38 chars) → rendered 48
+
+- `src/content/blog/incense-for-business.md`
+  - before: `Incense for Business: A Buyer's Guide to Wholesale, OEM, and Private Label` (74 chars) → rendered 84
+  - after:  `Incense for Business: Buying Wholesale & OEM` (44 chars) → rendered 54
+

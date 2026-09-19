@@ -1,6 +1,6 @@
 ---
 slug: "incense-burn-time-format-matrix"
-title: "Incense Burn Time & Format Matrix: Stick, Coil, Cone, Resin, Powder"
+title: "Incense Burn Time Format Matrix: Stick to Powder"
 primary_keyword: "incense burn time format"
 search_intent: "commercial_investigation"
 pillar: "P4 — Product Formats & Tools"

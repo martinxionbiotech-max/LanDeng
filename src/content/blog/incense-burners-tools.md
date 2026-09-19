@@ -1,6 +1,6 @@
 ---
 slug: "incense-burners-tools"
-title: "Chinese Incense Burners & Tools (香炉香具): The Complete Guide"
+title: "Chinese Incense Burners & Tools (香炉香具)"
 primary_keyword: "chinese incense burner tools censer"
 search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"
