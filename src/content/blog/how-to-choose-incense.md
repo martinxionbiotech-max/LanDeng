@@ -151,6 +151,12 @@ Most "how to choose incense" content is an affiliate listicle ranking products. 
 - No products are ranked or sold, and no health claims are made.
 
 ---
+## Cluster directory
+
+- [Incense Gift Guide: How to Choose a Thoughtful (and Honest) Incense Gift](/blog/incense-gift-guide/)
+- [Incense Holder & Burner Guide: What You Need for Each Format](/blog/incense-holder-burner-guide/)
+- [Incense Substitution Cross-Reference: What a Label Name Can Hide](/blog/incense-substitution-cross-reference/)
+- [Natural vs Synthetic Incense: How to Tell the Difference](/blog/natural-vs-synthetic-incense/)
 
 ## FAQ
 

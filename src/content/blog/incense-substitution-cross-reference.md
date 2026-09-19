@@ -189,6 +189,7 @@ The same discipline applies to your own questions. When a seller answers "is thi
 ---
 
 **Related data asset:** the <a href="/blog/incense-material-comparison-matrix/">material comparison matrix</a> complements this substitution guide with side-by-side material profiles.
+See [How to Choose Incense: A Honest Buying Guide](/blog/how-to-choose-incense/) for the full guide.
 
 ## FAQ
 
