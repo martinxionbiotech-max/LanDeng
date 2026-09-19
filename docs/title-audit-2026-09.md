@@ -399,3 +399,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Wholesale Incense Buying Guide: How to Vet a Supplier and Buy in Bulk` (69 chars) → rendered 79
   - after:  `Wholesale Incense Buying Guide: Vet a Supplier` (46 chars) → rendered 56
 
+- `src/content/blog/world-incense-traditions.md`
+  - before: `World Incense Traditions: China, Japan, India, Tibet & the Middle East` (70 chars) → rendered 80
+  - after:  `World Incense Traditions: China to Middle East` (46 chars) → rendered 56
+
+- `src/content/blog/xiangpu-incense-manuals.md`
+  - before: `The 香谱 Incense Manuals: The World's Most Complete (and Least Translated) Incense Literature` (91 chars) → rendered 101
+  - after:  `香谱 Incense Manuals: Complete, Rarely Translated` (47 chars) → rendered 57
+
+- `src/content/blog/xuezhong-chunxin-recipe.md`
+  - before: `雪中春信 (Snow in Spring): The Recipe and Its Cool 'Snow' Note` (58 chars) → rendered 68
+  - after:  `雪中春信 (Snow in Spring): The Cool 'Snow' Note` (43 chars) → rendered 53
+

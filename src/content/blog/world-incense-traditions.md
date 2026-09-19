@@ -1,6 +1,6 @@
 ---
 slug: "world-incense-traditions"
-title: "World Incense Traditions: China, Japan, India, Tibet & the Middle East"
+title: "World Incense Traditions: China to Middle East"
 primary_keyword: "world incense traditions"
 search_intent: "informational"
 pillar: "P8 — Regional Incense Traditions"

@@ -1,6 +1,6 @@
 ---
 slug: "xuezhong-chunxin-recipe"
-title: "雪中春信 (Snow in Spring): The Recipe and Its Cool 'Snow' Note"
+title: "雪中春信 (Snow in Spring): The Cool 'Snow' Note"
 primary_keyword: "xue zhong chun xin recipe"
 search_intent: "informational"
 pillar: "P9 — Chinese Incense Recipes (香方)"

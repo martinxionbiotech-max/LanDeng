@@ -1,6 +1,6 @@
 ---
 slug: "xiangpu-incense-manuals"
-title: "The 香谱 Incense Manuals: The World's Most Complete (and Least Translated) Incense Literature"
+title: "香谱 Incense Manuals: Complete, Rarely Translated"
 primary_keyword: "xiangpu chinese incense manuals"
 search_intent: "informational"
 pillar: "P1 — Chinese Incense 101"
