@@ -91,6 +91,13 @@ So "natural" is a claim about **what is in the stick**, not about **whether the 
 - This page makes no medical claims; it states smoke is an exposure to manage, not a therapeutic issue.
 
 ---
+## Cluster directory
+
+- [How to Burn Incense Safely: Holders, Placement, and Extinguishing](/blog/how-to-burn-incense-safely/)
+- [Incense, Pets & Sensitivities: What to Actually Watch For](/blog/incense-pets-sensitivities/)
+- [Incense Smoke & Air Quality: What the Evidence Actually Says](/blog/incense-smoke-air-quality-evidence/)
+- [Incense Storage & Longevity: Keeping Scent and Staying Safe](/blog/incense-storage-longevity/)
+- [Incense, Ventilation & Indoor Air: The Honest Picture on Smoke](/blog/incense-ventilation-indoor-air/)
 
 ## FAQ
 
