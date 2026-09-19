@@ -111,3 +111,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Backflow Incense Cones: The Waterfall-Smoke Effect, Explained` (61 chars) → rendered 71
   - after:  `Backflow Incense Cones: The Waterfall Effect` (44 chars) → rendered 54
 
+- `src/content/blog/baizi-incense-recipe.md`
+  - before: `柏子香 (Cypress-Seed Incense): The Humble Scholar's Incense` (56 chars) → rendered 66
+  - after:  `柏子香 (Cypress-Seed Incense): The Scholar's Incense` (49 chars) → rendered 59
+
+- `src/content/blog/best-incense-for-small-room.md`
+  - before: `Which Incense Is Better for a Small Room? Smoke, Burn Time, and Choice` (70 chars) → rendered 80
+  - after:  `Best Incense for a Small Room: Smoke & Burn Time` (48 chars) → rendered 58
+
+- `src/content/blog/boshan-censer.md`
+  - before: `博山炉 (Boshan Censer): The Mountain Incense Burner of the Han` (59 chars) → rendered 69
+  - after:  `博山炉 (Boshan Censer): The Han Mountain Burner` (44 chars) → rendered 54
+

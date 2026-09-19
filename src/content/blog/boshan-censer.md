@@ -1,6 +1,6 @@
 ---
 slug: "boshan-censer"
-title: "博山炉 (Boshan Censer): The Mountain Incense Burner of the Han"
+title: "博山炉 (Boshan Censer): The Han Mountain Burner"
 primary_keyword: "boshan censer boshanlu han dynasty incense burner"
 search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"

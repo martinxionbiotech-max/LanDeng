@@ -1,6 +1,6 @@
 ---
 slug: "baizi-incense-recipe"
-title: "柏子香 (Cypress-Seed Incense): The Humble Scholar's Incense"
+title: "柏子香 (Cypress-Seed Incense): The Scholar's Incense"
 primary_keyword: "baizi xiang cypress seed incense recipe"
 search_intent: "informational"
 pillar: "P9 — Chinese Incense Recipes (香方)"
