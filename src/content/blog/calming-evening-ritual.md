@@ -1,6 +1,6 @@
 ---
 slug: "calming-evening-ritual"
-title: "Creating a Calming Evening Ritual (Without the Sleep-Aid Nonsense)"
+title: "Calming Evening Ritual (No Sleep-Aid Hype)"
 primary_keyword: "calming evening ritual incense"
 search_intent: "informational"
 pillar: "P12 — Culture & Mindfulness"

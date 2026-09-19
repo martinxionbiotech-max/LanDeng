@@ -1,6 +1,6 @@
 ---
 slug: "chinese-incense-recipes"
-title: "Chinese Incense Recipes (香方): Translated from the Classical Manuals"
+title: "Chinese Incense Recipes (香方): Classical Manuals"
 primary_keyword: "chinese incense recipes 香方"
 search_intent: "informational"
 pillar: "P9 — Chinese Incense Recipes (香方)"

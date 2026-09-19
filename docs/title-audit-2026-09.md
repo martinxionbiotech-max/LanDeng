@@ -123,3 +123,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `博山炉 (Boshan Censer): The Mountain Incense Burner of the Han` (59 chars) → rendered 69
   - after:  `博山炉 (Boshan Censer): The Han Mountain Burner` (44 chars) → rendered 54
 
+- `src/content/blog/calming-evening-ritual.md`
+  - before: `Creating a Calming Evening Ritual (Without the Sleep-Aid Nonsense)` (66 chars) → rendered 76
+  - after:  `Calming Evening Ritual (No Sleep-Aid Hype)` (42 chars) → rendered 52
+
+- `src/content/blog/chinese-incense-recipes.md`
+  - before: `Chinese Incense Recipes (香方): Translated from the Classical Manuals` (67 chars) → rendered 77
+  - after:  `Chinese Incense Recipes (香方): Classical Manuals` (47 chars) → rendered 57
+
+- `src/content/blog/chinese-incense-vs-essential-oils-candles.md`
+  - before: `Chinese Incense vs Essential Oils vs Candles: What's the Difference?` (68 chars) → rendered 78
+  - after:  `Chinese Incense vs Essential Oils vs Candles` (44 chars) → rendered 54
+
