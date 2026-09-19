@@ -129,6 +129,7 @@ The honest way to say it: frankincense is a scent people associate with **clarit
 ---
 
 **Related data asset:** the <a href="/blog/scent-wheel/">scent wheel</a> shows where frankincense&rsquo;s resinous notes sit among the families.
+See [The Complete Incense Scent Guide: Choosing a Scent by Atmosphere](/blog/scent-guide/) for the full guide.
 
 ## FAQ
 

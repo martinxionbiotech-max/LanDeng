@@ -101,6 +101,7 @@ It is often the "unwind" note in a modern brand's scent range, complementary to 
 - The distinction between fragrance-oil sticks and botanical incense is a material distinction; confirm with the seller which you are buying.
 
 ---
+See [The Complete Incense Scent Guide: Choosing a Scent by Atmosphere](/blog/scent-guide/) for the full guide.
 
 ## FAQ
 

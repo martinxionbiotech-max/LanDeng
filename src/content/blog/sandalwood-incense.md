@@ -150,6 +150,7 @@ The powder and the oil are different products (see below). A stick made from woo
 - Price signals are approximate and market-dependent; treat them as an order-of-magnitude guide, not a fixed number.
 
 ---
+See [The Complete Incense Scent Guide: Choosing a Scent by Atmosphere](/blog/scent-guide/) for the full guide.
 
 ## FAQ
 

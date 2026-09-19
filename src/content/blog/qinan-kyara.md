@@ -64,6 +64,7 @@ The etymology of 奇楠 itself is genuinely disputed — Sanskrit theories, a po
 - The etymology is explicitly marked uncertain; no therapeutic claim is made.
 
 ---
+See [The Complete Incense Scent Guide: Choosing a Scent by Atmosphere](/blog/scent-guide/) for the full guide.
 
 ## FAQ
 

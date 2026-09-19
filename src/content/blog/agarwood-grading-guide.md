@@ -202,6 +202,7 @@ The sequence matters because it keeps the objective test (density) first and the
 ---
 
 **Related data asset:** the <a href="/blog/incense-material-comparison-matrix/">material comparison matrix</a> places agarwood against its substitutes and complements.
+See [The Complete Incense Scent Guide: Choosing a Scent by Atmosphere](/blog/scent-guide/) for the full guide.
 
 ## FAQ
 

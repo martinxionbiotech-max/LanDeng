@@ -71,6 +71,7 @@ Borneol deserves a note too: natural borneol (from *Dryobalanops*) and synthetic
 - Substitution-risk ratings are editorial synthesis of documented substitution practices, not laboratory findings.
 
 ---
+See [The Complete Incense Scent Guide: Choosing a Scent by Atmosphere](/blog/scent-guide/) for the full guide.
 
 ## FAQ
 

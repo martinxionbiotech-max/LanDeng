@@ -172,6 +172,7 @@ For a first purchase, keep the checks small and concrete:
 - No therapeutic claims are made.
 
 ---
+See [The Complete Incense Scent Guide: Choosing a Scent by Atmosphere](/blog/scent-guide/) for the full guide.
 
 ## FAQ
 

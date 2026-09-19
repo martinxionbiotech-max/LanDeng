@@ -105,6 +105,7 @@ The consequence for buyers: **most "lotus" sticks, cones, and blends use a synth
 - No therapeutic, psychoactive, or spiritual-power claims are made.
 
 ---
+See [The Complete Incense Scent Guide: Choosing a Scent by Atmosphere](/blog/scent-guide/) for the full guide.
 
 ## FAQ
 

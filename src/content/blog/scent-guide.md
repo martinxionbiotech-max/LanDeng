@@ -183,6 +183,18 @@ These are associations, not rules, and they describe atmosphere rather than any 
 - No therapeutic claims are made on this page or any linked page.
 
 ---
+## Cluster directory
+
+- [Agarwood Grading: 沉香, 沉水, and 奇楠 — the Definitive Reference](/blog/agarwood-grading-guide/)
+- [Agarwood Incense (沉香): The Sinking Fragrance, Grading, and How to Spot Fakes](/blog/agarwood-incense/)
+- [Citrus Incense (柑橘): The Bright, Energizing Top Note](/blog/citrus-incense/)
+- [Frankincense Incense (乳香): The Resin of Bright, Focusing Rituals](/blog/frankincense-incense/)
+- [Incense Material Comparison Matrix: 7 Classical Materials at a Glance](/blog/incense-material-comparison-matrix/)
+- [Lavender Incense: A Western Scent in the Modern Incense Lineup](/blog/lavender-incense/)
+- [Lotus Incense (莲花): The Floral Note of Purity and Lift](/blog/lotus-incense/)
+- [奇楠 (Qinan / Kyara): The Grade English Calls by a Japanese Name](/blog/qinan-kyara/)
+- [Sandalwood Incense (檀香): Aroma, Species, and How to Read the Claims](/blog/sandalwood-incense/)
+- [The Incense Scent Wheel: Atmosphere → Scent → Scenario](/blog/scent-wheel/)
 
 ## FAQ
 
