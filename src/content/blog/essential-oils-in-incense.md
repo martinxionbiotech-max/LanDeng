@@ -1,6 +1,6 @@
 ---
 slug: "essential-oils-in-incense"
-title: "Essential Oils in Incense: What They Are and How They Differ From Wood"
+title: "Essential Oils in Incense: How They Differ"
 primary_keyword: "essential oils in incense"
 search_intent: "informational"
 pillar: "P11 — Aromatherapy & Botany"

@@ -1,6 +1,6 @@
 ---
 slug: "evening-unwinding"
-title: "Incense for Evening Unwinding: A Wind-Down Routine (Not a Sleep Aid)"
+title: "Incense for Evening Unwinding: Not a Sleep Aid"
 primary_keyword: "incense for relaxation"
 search_intent: "informational"
 pillar: "P3 — Use Scenarios"

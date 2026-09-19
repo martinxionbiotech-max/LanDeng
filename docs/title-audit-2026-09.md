@@ -147,3 +147,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `二苏旧局 (The Two Sus' Old Gathering): A Modern Revival Recipe` (58 chars) → rendered 68
   - after:  `二苏旧局 (The Two Sus' Gathering): A Revival Recipe` (47 chars) → rendered 57
 
+- `src/content/blog/essential-oils-in-incense.md`
+  - before: `Essential Oils in Incense: What They Are and How They Differ From Wood` (70 chars) → rendered 80
+  - after:  `Essential Oils in Incense: How They Differ` (42 chars) → rendered 52
+
+- `src/content/blog/evening-unwinding.md`
+  - before: `Incense for Evening Unwinding: A Wind-Down Routine (Not a Sleep Aid)` (68 chars) → rendered 78
+  - after:  `Incense for Evening Unwinding: Not a Sleep Aid` (46 chars) → rendered 56
+
+- `src/content/blog/factory-vetting-guide.md`
+  - before: `Factory Vetting Guide: How to Audit an Incense Manufacturer` (59 chars) → rendered 69
+  - after:  `Factory Vetting Guide: Auditing a Manufacturer` (46 chars) → rendered 56
+
