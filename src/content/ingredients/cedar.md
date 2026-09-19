@@ -14,7 +14,7 @@ related: ["vetiver", "patchouli"]
 
 # Cedar (雪松 / Xue Song)
 
-**Direct answer:** "Cedar" in incense is a confusing common name. It can mean **true cedar** (*Cedrus* species, such as Himalayan cedar *C. deodara*) or — very often in "cedarwood" products — **red cedar** (*Juniperus virginiana*), a juniper, not a true cedar. Both are used for a clean, woody, slightly sweet aroma.
+**Data summary:** "Cedar" in incense is a confusing common name. It can mean **true cedar** (*Cedrus* species, such as Himalayan cedar *C. deodara*) or — very often in "cedarwood" products — **red cedar** (*Juniperus virginiana*), a juniper, not a true cedar. Both are used for a clean, woody, slightly sweet aroma.
 
 ## Key facts
 

@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Vetting an incense manufacturer means verifying four layers before you commit: **legal identity**, **production capability**, **quality-control process**, and **documentation** (certifications and test reports). You verify these through questions, documents, references, and — where the order size justifies it — an on-site or third-party audit. The goal is not to eliminate risk but to know *which* risks you are accepting.
+**Technical answer:** Vetting an incense manufacturer means verifying four layers before you commit: **legal identity**, **production capability**, **quality-control process**, and **documentation** (certifications and test reports). You verify these through questions, documents, references, and — where the order size justifies it — an on-site or third-party audit. The goal is not to eliminate risk but to know *which* risks you are accepting.
 
 **Key facts:** This guide gives you the audit points, the QC program you should expect, and the certification and test documentation to request. It does not tell you that any specific factory holds a specific certification — that is precisely what you must verify per supplier. No certifications are implied for LanDeng or anyone else.
 

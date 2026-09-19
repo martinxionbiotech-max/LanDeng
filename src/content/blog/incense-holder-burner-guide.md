@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Every incense format needs a **heatproof, stable holder** matched to it — a stick holder with an ash tray, a backflow burner for backflow cones, a coil stand, a charcoal-safe burner for resin, and (for beads) none at all. The holder's job is simple but non-negotiable: **catch the ash and keep the burn away from anything flammable.**
+**Data summary:** Every incense format needs a **heatproof, stable holder** matched to it — a stick holder with an ash tray, a backflow burner for backflow cones, a coil stand, a charcoal-safe burner for resin, and (for beads) none at all. The holder's job is simple but non-negotiable: **catch the ash and keep the burn away from anything flammable.**
 
 **Key facts:** The holder is a safety item first and a decorative object second. The single rule is **heatproof and stable** — glass, ceramic, metal, or stone, on a level surface, away from drafts and flammables.
 

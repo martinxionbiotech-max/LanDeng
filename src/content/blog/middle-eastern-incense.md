@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Middle Eastern incense centers on **oud (agarwood)** and **bakhoor** — wood chips soaked in fragrant oils and burned, usually on charcoal or an electric burner. It is a **home and hospitality ritual**, used to scent rooms, welcome guests (in the *majlis*), and mark special occasions, with a rich, resinous, woody character.
+**Key takeaway:** Middle Eastern incense centers on **oud (agarwood)** and **bakhoor** — wood chips soaked in fragrant oils and burned, usually on charcoal or an electric burner. It is a **home and hospitality ritual**, used to scent rooms, welcome guests (in the *majlis*), and mark special occasions, with a rich, resinous, woody character.
 
 **Key facts:** *Bakhoor* (بخور) is prepared wood chips (often agarwood) infused with oils and resins. *Oud* is the prestige material at its center. Frankincense (*luban*) is the other classic resin of the region.
 

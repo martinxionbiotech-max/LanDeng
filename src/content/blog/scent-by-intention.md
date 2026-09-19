@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** "Incense by intention" means choosing a scent (and a format) to match the **mood or activity you want** — a bright, focusing scent for deep work, a warm, grounding one for unwinding, a clean one for home ambiance, a soft one for yoga. It is a mapping from *purpose* to *scent*, not a promise of an effect.
+**Definition:** "Incense by intention" means choosing a scent (and a format) to match the **mood or activity you want** — a bright, focusing scent for deep work, a warm, grounding one for unwinding, a clean one for home ambiance, a soft one for yoga. It is a mapping from *purpose* to *scent*, not a promise of an effect.
 
 **Key facts:** Incense scents fall on a spectrum from bright/energizing (citrus, frankincense) to deep/grounding (sandalwood, agarwood). Matching scent to intention is a *fragrance and ritual* choice — "calming" and "focusing" describe aroma character, not a physiological result.
 
@@ -99,7 +99,7 @@ The fragrance can set a tone, and the ritual can anchor a routine, but any "mood
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: What incense should I avoid for focus?
 Heavy, sweet, or strongly floral scents, if they distract you — but this is genuinely personal. Deep woods like agarwood and sweet florals like jasmine read as enveloping and cozy, which can pull a work session toward relaxation rather than alertness. Loud spices like clove can also draw attention away from the task. The honest rule is to choose by your own response, not by a "focus incense" label: if a scent makes you want to sit and sink in rather than get started, it is working against you. Test a scent during work and keep the one that fades into the background.

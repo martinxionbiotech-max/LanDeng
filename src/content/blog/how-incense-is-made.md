@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Incense is made by grinding fragrant materials (woods, resins, flowers, spices) into a powder, blending them — often with a natural binder — adding water to form a paste, then shaping it into sticks, coils, or cones and drying it. There are two broad methods: **hand-rolled** (from real botanicals) and **machine-made** (mass-produced, often fragrance-dipped).
+**Definition:** Incense is made by grinding fragrant materials (woods, resins, flowers, spices) into a powder, blending them — often with a natural binder — adding water to form a paste, then shaping it into sticks, coils, or cones and drying it. There are two broad methods: **hand-rolled** (from real botanicals) and **machine-made** (mass-produced, often fragrance-dipped).
 
 **Key facts:** Traditional Chinese incense is built on the **合香 (hé xiāng)** principle of blending multiple ingredients like a formula. The natural binder that holds it together is typically a combustible wood powder, most famously **makko** (*Machilus thunbergii*).
 

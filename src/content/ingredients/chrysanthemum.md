@@ -14,7 +14,7 @@ related: ["mugwort", "jasmine"]
 
 # Chrysanthemum (菊花 / Ju Hua)
 
-**Direct answer:** Chrysanthemum — *júhuā* (菊花) in Chinese — is the flower of *Chrysanthemum morifolium*, widely drunk as an herbal tea and used in traditional materia medica. It has a light floral-herbal aroma with a bittersweet edge.
+**At a glance:** Chrysanthemum — *júhuā* (菊花) in Chinese — is the flower of *Chrysanthemum morifolium*, widely drunk as an herbal tea and used in traditional materia medica. It has a light floral-herbal aroma with a bittersweet edge.
 
 ## Key facts
 

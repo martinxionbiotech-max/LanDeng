@@ -14,7 +14,7 @@ related: ["jasmine", "rose"]
 
 # Osmanthus (桂花 / Gui Hua)
 
-**Direct answer:** Osmanthus — *guìhuā* (桂花) in Chinese — is the small golden flower of *Osmanthus fragrans*, prized for a sweet, apricot- and honey-like fragrance. It is a classic Chinese fragrance, used in tea, desserts, and incense.
+**Definition:** Osmanthus — *guìhuā* (桂花) in Chinese — is the small golden flower of *Osmanthus fragrans*, prized for a sweet, apricot- and honey-like fragrance. It is a classic Chinese fragrance, used in tea, desserts, and incense.
 
 ## Key facts
 

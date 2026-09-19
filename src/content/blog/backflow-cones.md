@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** A backflow cone is a hollow incense cone that burns with the smoke **flowing downward** through a hole in its base, creating a "waterfall" effect when placed on a purpose-built backflow burner. It is chosen for its **visual**, not for a special scent.
+**Key takeaway:** A backflow cone is a hollow incense cone that burns with the smoke **flowing downward** through a hole in its base, creating a "waterfall" effect when placed on a purpose-built backflow burner. It is chosen for its **visual**, not for a special scent.
 
 **Key facts:** The downward flow is simple physics: the smoke is cooled and made denser inside the hollow cone, so it sinks through the bottom hole instead of rising. The cone itself is the same incense material as a regular cone — the difference is the **hollow channel**.
 
@@ -102,7 +102,7 @@ About 10 to 15 minutes, which matches a regular cone. The hollow channel does no
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: Do backflow cones need a special burner?
 Yes. The effect depends on a backflow burner built with a hole and a catch tray (or baffle) that channels the cooled smoke downward and lets it pool and spill. Without that specific burner, the smoke simply rises like a normal cone and there is no waterfall. Make sure the cone is seated upright and the hole lines up with the burner's opening, and keep the setup out of drafts. A plain dish, a stick holder, or a regular cone burner will not produce the effect no matter which cone you use.

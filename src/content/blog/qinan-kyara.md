@@ -12,7 +12,7 @@ author: "LanDeng Editorial Team"
 ---
 
 
-**Direct answer:** 奇楠 (qínán) is the **top grade of agarwood** — a resin-transformed material so saturated it is soft, pliable, and aromatic even at room temperature. English and Japanese readers usually meet it as **"kyara"**, the Japanese reading of the same characters — which is itself a clue to how the name traveled.
+**Definition:** 奇楠 (qínán) is the **top grade of agarwood** — a resin-transformed material so saturated it is soft, pliable, and aromatic even at room temperature. English and Japanese readers usually meet it as **"kyara"**, the Japanese reading of the same characters — which is itself a clue to how the name traveled.
 
 **Key facts:** 奇楠 is not a different plant; it is a different **material state** of agarwood — "oil wraps wood" (油包木) versus ordinary agarwood's "wood wraps oil" (木包油). This page is the overview; the deep dives on grading, color, and etymology live in the [agarwood grading guide](/blog/agarwood-grading-guide/).
 

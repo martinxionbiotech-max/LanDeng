@@ -14,7 +14,7 @@ related: ["frankincense", "myrrh"]
 
 # Benzoin (安息香 / An Xi Xiang)
 
-**Direct answer:** Benzoin — *ānxīxiāng* (安息香) in Chinese — is a balsamic resin from *Styrax* trees, prized for a sweet, vanilla-like, balsamic aroma. It is a common ingredient in incense (including church and Chinese incense) and a perfumery fixative.
+**Technical answer:** Benzoin — *ānxīxiāng* (安息香) in Chinese — is a balsamic resin from *Styrax* trees, prized for a sweet, vanilla-like, balsamic aroma. It is a common ingredient in incense (including church and Chinese incense) and a perfumery fixative.
 
 ## Key facts
 

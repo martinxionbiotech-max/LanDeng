@@ -12,7 +12,7 @@ author: "LanDeng Editorial Team"
 ---
 
 
-**Direct answer:** 二苏旧局 is a **contemporary** 合香 — not an ancient 香谱 text — from 陈云君 (Chen Yunjun)'s *燕居香语*. It is named for the brothers **苏轼 and 苏辙** (the "two Su" literati) and built to evoke a scholar's study: agarwood, sandalwood, frankincense, amber, honey, and jasmine.
+**At a glance:** 二苏旧局 is a **contemporary** 合香 — not an ancient 香谱 text — from 陈云君 (Chen Yunjun)'s *燕居香语*. It is named for the brothers **苏轼 and 苏辙** (the "two Su" literati) and built to evoke a scholar's study: agarwood, sandalwood, frankincense, amber, honey, and jasmine.
 
 <img src="/images/recipe-ersu-jiuju-tea-incense-800x533.webp" alt="Tea leaves and a small mound of incense powder in matching ceramic dishes" width="800" height="533" loading="lazy">
 

@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** To buy incense wholesale well, work through five steps in order: **define your product** (format, material, aroma), **shortlist suppliers**, **vet each one** (identity, capability, references), **sample the product**, then **negotiate terms** — MOQ, lead time, packaging, and shipping — all of which are confirmed per inquiry, not from a price list. The discipline that matters most is vetting the supplier before discussing price.
+**Definition:** To buy incense wholesale well, work through five steps in order: **define your product** (format, material, aroma), **shortlist suppliers**, **vet each one** (identity, capability, references), **sample the product**, then **negotiate terms** — MOQ, lead time, packaging, and shipping — all of which are confirmed per inquiry, not from a price list. The discipline that matters most is vetting the supplier before discussing price.
 
 **Key facts:** This guide covers the wholesale path specifically — buying existing products in bulk to resell. It gives you the supplier-assessment questions, the bulk-buying considerations, and a pre-shipment inspection checklist. No fixed MOQs or prices are published here; those are always "on request."
 

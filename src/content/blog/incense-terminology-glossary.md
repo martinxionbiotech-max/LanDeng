@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Incense comes in several **forms** — stick (线香), coil (盘香), cone, resin (香脂/香片), and powder (香粉) — plus prepared styles like backflow cones and coreless sticks. The form determines how it burns, how long it lasts, and what holder it needs.
+**Data summary:** Incense comes in several **forms** — stick (线香), coil (盘香), cone, resin (香脂/香片), and powder (香粉) — plus prepared styles like backflow cones and coreless sticks. The form determines how it burns, how long it lasts, and what holder it needs.
 
 **Key facts:** This glossary covers **form** terminology. For **ingredient** terms (sandalwood, frankincense, makko), see the [ingredients glossary](/blog/incense-ingredients-glossary/).
 
@@ -87,7 +87,7 @@ A: A backflow cone (倒流香) is a hollow cone designed to channel its smoke do
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: What is 香道 (xiāngdào)?
 "The Way of Incense" — the broader Chinese and Japanese practice of preparing, burning, and appreciating incense as a cultivated art rather than a mere household habit. It involves attention to the materials, the tools, the setting, and the act of smelling itself. In Japan the practice was formalized into kōdō, a codified art of "listening" to fragrance, while in China it remains closely tied to the literati culture of tea, painting, and the Four Leisure Arts. The refined technique behind both traditions is Song-dynasty 隔火焚香, the low-smoke indirect-fire method. See [Japanese kōdō](/blog/japanese-incense-kodo/).

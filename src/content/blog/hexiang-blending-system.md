@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Chinese incense is traditionally **blended, not single-note** — a practice called **合香 (hé xiāng)**, "compound incense." A 合香 blend is composed on a **君臣佐使 (chief–minister–assistant–guide)** principle, the same structural logic as a Chinese herbal formula, where each ingredient plays a defined role rather than just adding its scent.
+**Technical answer:** Chinese incense is traditionally **blended, not single-note** — a practice called **合香 (hé xiāng)**, "compound incense." A 合香 blend is composed on a **君臣佐使 (chief–minister–assistant–guide)** principle, the same structural logic as a Chinese herbal formula, where each ingredient plays a defined role rather than just adding its scent.
 
 <img src="/images/hexiang-blending-ingredients-1200x675.webp" alt="Flat lay of incense blending with brass scale weighing wood powder" width="1200" height="675" loading="lazy">
 

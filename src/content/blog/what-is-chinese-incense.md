@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Chinese incense is aromatic plant material — fragrant woods, resins, and dried botanicals, either burned directly or gently heated over charcoal — used for thousands of years as part of ritual, aesthetic, and daily life. In modern terms it includes both the classical materials (agarwood 沉香, sandalwood 檀香, frankincense 乳香) and the formed products made from them: sticks 线香, coils 盘香, cones, and loose powder.
+**At a glance:** Chinese incense is aromatic plant material — fragrant woods, resins, and dried botanicals, either burned directly or gently heated over charcoal — used for thousands of years as part of ritual, aesthetic, and daily life. In modern terms it includes both the classical materials (agarwood 沉香, sandalwood 檀香, frankincense 乳香) and the formed products made from them: sticks 线香, coils 盘香, cones, and loose powder.
 
 <img src="/images/chinese-incense-sticks-bundle-1200x675.webp" alt="Bundle of hand-made Chinese incense sticks tied with cotton twine on rice paper" width="1200" height="675" loading="lazy">
 
@@ -192,7 +192,7 @@ LanDeng does not make medical claims. Incense is not a treatment for insomnia, a
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: What does Chinese incense smell like?
 There is no single answer — it depends entirely on the material. Sandalwood 檀香 is creamy and sweet-woody, often described as buttery. Agarwood 沉香 is deep, resinous, and sweet, and it develops in stages as it warms: an opening note, a body, and a dry-down. Frankincense 乳香 is fresh and citrus-woody; blended 合香 compounds range from floral to herbal to warm and medicinal. The shared signature across the tradition is warmth and layering rather than one sharp, single note — which is exactly why asking "what does Chinese incense smell like" invites the follow-up "which one?"

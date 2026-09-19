@@ -12,7 +12,7 @@ author: "LanDeng Editorial Team"
 ---
 
 
-**Direct answer:** Yes, incense smoke measurably degrades indoor air — and the honest headline number is that **burning incense produces roughly four times the particulate matter (PM) of a cigarette, per gram of material** (~45 mg of PM per gram of incense versus ~10 mg/g for a cigarette). The key correction this site makes: **"natural" incense is still combustion**, so it is not automatically smoke-free or "clean."
+**At a glance:** Yes, incense smoke measurably degrades indoor air — and the honest headline number is that **burning incense produces roughly four times the particulate matter (PM) of a cigarette, per gram of material** (~45 mg of PM per gram of incense versus ~10 mg/g for a cigarette). The key correction this site makes: **"natural" incense is still combustion**, so it is not automatically smoke-free or "clean."
 
 **Key facts:** This page is the evidence hub. It cites published research — not wellness claims — and its whole point is the honest framework: *natural ≠ smoke-free*. It makes no claim that any incense has health benefits; it reports what the air-quality research says.
 

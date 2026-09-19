@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Agarwood (沉香 chénxiāng) is graded primarily by **resin density** — expressed in the 沉水 (sink-in-water) system — and by the **奇楠 (qínán) distinction**, which separates the top "oil-wraps-wood" grade from ordinary "wood-wraps-oil" agarwood. The five-color 奇楠 hierarchy (白/绿/紫/黄/黑) is a further, traditional subdivision.
+**Key takeaway:** Agarwood (沉香 chénxiāng) is graded primarily by **resin density** — expressed in the 沉水 (sink-in-water) system — and by the **奇楠 (qínán) distinction**, which separates the top "oil-wraps-wood" grade from ordinary "wood-wraps-oil" agarwood. The five-color 奇楠 hierarchy (白/绿/紫/黄/黑) is a further, traditional subdivision.
 
 <img src="/images/agarwood-grades-sinking-floating-1200x675.webp" alt="Agarwood pieces in two groups on sage cloth, sinking and floating grades" width="1200" height="675" loading="lazy">
 

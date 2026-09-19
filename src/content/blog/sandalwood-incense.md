@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Sandalwood incense is made from the aromatic heartwood of *Santalum* trees — most classically Indian sandalwood (*Santalum album*) — prized for a creamy, soft, sweet-woody aroma. It is a cornerstone of Chinese, Indian, and Japanese incense traditions, but "sandalwood" on a label can mean several different species or even a synthetic fragrance, so the material matters as much as the name.
+**Quick answer:** Sandalwood incense is made from the aromatic heartwood of *Santalum* trees — most classically Indian sandalwood (*Santalum album*) — prized for a creamy, soft, sweet-woody aroma. It is a cornerstone of Chinese, Indian, and Japanese incense traditions, but "sandalwood" on a label can mean several different species or even a synthetic fragrance, so the material matters as much as the name.
 
 <img src="/images/sandalwood-powder-wood-1200x675.webp" alt="Sandalwood powder in a ceramic dish beside a raw sandalwood block" width="1200" height="675" loading="lazy">
 
@@ -170,7 +170,7 @@ Confirm the species with the seller, check whether the product is wood or wood-p
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: What does sandalwood incense smell like?
 Creamy, sweet, and soft-woody — the best material has a distinctly "buttery" smoothness. It is warmer and rounder than a sharp wood note, which is why it works both alone and as a base in blends. The character comes from santalol compounds concentrated in the mature heartwood, and it develops slowly on heat rather than hitting all at once. Different *Santalum* species vary: Indian (*S. album*) is the creamiest benchmark, while Australian and New Caledonian sandalwood are woodier and less sweet. A synthetic "sandalwood" approximates the note but reads flatter and more uniform.

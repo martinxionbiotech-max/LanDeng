@@ -12,7 +12,7 @@ author: "LanDeng Editorial Team"
 ---
 
 
-**Direct answer:** 雪中春信 ("Xue Zhong Chun Xin," "Snow in Spring") is a classical 合香 recipe traditionally **attributed to Su Shi (苏轼)** — an attribution that is a romantic legend, not documented fact. Its signature is a **camphor (樟脑) "snow" note** set against warm woods, evoking the moment winter turns to spring.
+**Definition:** 雪中春信 ("Xue Zhong Chun Xin," "Snow in Spring") is a classical 合香 recipe traditionally **attributed to Su Shi (苏轼)** — an attribution that is a romantic legend, not documented fact. Its signature is a **camphor (樟脑) "snow" note** set against warm woods, evoking the moment winter turns to spring.
 
 <img src="/images/recipe-xuezhong-chunxin-plum-800x533.webp" alt="Plum blossoms on a winter branch beside a small smoking censer" width="800" height="533" loading="lazy">
 

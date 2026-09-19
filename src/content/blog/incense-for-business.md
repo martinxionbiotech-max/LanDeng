@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Buying Chinese incense for business means choosing one of three paths — **wholesale** (buying existing products in bulk), **OEM** (a factory makes product to your specification under your brand), or **private label** (a factory's existing product re-branded as yours). Each path has different minimum orders, lead times, and levels of control, and none of them is served by a published price list — every serious quotation is prepared per inquiry.
+**Quick answer:** Buying Chinese incense for business means choosing one of three paths — **wholesale** (buying existing products in bulk), **OEM** (a factory makes product to your specification under your brand), or **private label** (a factory's existing product re-branded as yours). Each path has different minimum orders, lead times, and levels of control, and none of them is served by a published price list — every serious quotation is prepared per inquiry.
 
 **Key facts:** This is the cluster hub for LanDeng's commercial content. It maps the three buying paths, tells you which path fits which buyer, and links to the seven deeper guides that cover vetting, MOQ, sampling, packaging, and fragrance development. LanDeng is a knowledge-first platform: we explain how Chinese incense supply works before — not instead of — asking for an inquiry.
 
@@ -68,7 +68,7 @@ Regardless of path, the same checks apply before you commit. These are the quest
 
 ## The Cluster Map
 
-This hub sits at the top of a seven-guide commercial cluster. Each guide is a deeper dive into one step of the buying process.
+This hub sits at the top of a seven-guide commercial cluster. Each guide covers one step of the buying process in depth.
 
 - [Wholesale guide](/blog/wholesale-guide/) — supplier assessment, bulk buying, and the inspection checklist.
 - [OEM & private-label guide](/blog/oem-private-label-guide/) — from formula to packaging, and the questions you must ask.

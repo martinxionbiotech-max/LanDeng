@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Incense powder and resin are **loose aromatic materials** — ground woods (like sandalwood powder) and resin tears (like frankincense or myrrh) — that are **heated rather than burned** to release their scent with minimal smoke. This is the closest you can get to the raw material, and it is the format behind refined Chinese and Japanese practice (隔火焚香).
+**Key takeaway:** Incense powder and resin are **loose aromatic materials** — ground woods (like sandalwood powder) and resin tears (like frankincense or myrrh) — that are **heated rather than burned** to release their scent with minimal smoke. This is the closest you can get to the raw material, and it is the format behind refined Chinese and Japanese practice (隔火焚香).
 
 **Key facts:** Resin and wood chips are placed on a heat source — a lit charcoal disc (in ash or sand) or, more gently, an electric incense heater. Indirect heat releases the aroma without a flame, giving a cleaner, truer scent.
 

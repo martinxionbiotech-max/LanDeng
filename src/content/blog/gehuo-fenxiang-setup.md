@@ -12,7 +12,7 @@ author: "LanDeng Editorial Team"
 ---
 
 
-**Direct answer:** 隔火焚香 (gé huǒ fén xiāng, "incense across fire") is the classical method of **heating incense without burning it** — a hot charcoal buried in ash, with a thin plate (silver leaf or mica) on top carrying the incense material. The material **warms but does not combust**, releasing aroma with almost no smoke.
+**Quick answer:** 隔火焚香 (gé huǒ fén xiāng, "incense across fire") is the classical method of **heating incense without burning it** — a hot charcoal buried in ash, with a thin plate (silver leaf or mica) on top carrying the incense material. The material **warms but does not combust**, releasing aroma with almost no smoke.
 
 **Key facts:** This is the answer to "how to burn incense without smoke" — and it is also the lowest-particulate method in the whole tradition, which is why it appears throughout this site's [air-quality guidance](/blog/incense-smoke-air-quality-evidence/).
 

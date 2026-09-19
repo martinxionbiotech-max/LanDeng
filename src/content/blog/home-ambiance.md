@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Incense for home ambiance is a **room-filling, welcoming scent** — cedar, sandalwood, or frankincense — burned to scent a space and set a tone. It is the oldest use of incense: fragrance as a feature of the room, not a personal ritual.
+**At a glance:** Incense for home ambiance is a **room-filling, welcoming scent** — cedar, sandalwood, or frankincense — burned to scent a space and set a tone. It is the oldest use of incense: fragrance as a feature of the room, not a personal ritual.
 
 **Key facts:** For ambiance, the scent should be **clean and room-filling without being sharp**, and the format should match the space (a stick or coil for a long, gentle fill; resin on a heater for a clean, smoke-light scent).
 
@@ -106,7 +106,7 @@ The main difference is duration. A stick burns for roughly 30–60 minutes, whic
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: What scent is best for a hallway or entryway?
 A light, clean scent reads as welcoming without being heavy. Cedar is the safe default — dry, fresh, and slightly sweet, it greets people without overwhelming them. A bright citrus also works and gives an immediate "clean" impression, though it fades faster, so it suits a short burn as guests arrive. Reserve deep, expensive woods like agarwood for rooms where people actually sit and linger, since their full character is wasted on a pass-through space. Because entryways are small and often poorly ventilated, keep the burn short and open the door or a window.

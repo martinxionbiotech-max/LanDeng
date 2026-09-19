@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** The pets most affected by incense are **birds**, which are highly sensitive to airborne smoke and particulate matter. Cats and dogs are less sensitive than birds but can still be irritated by smoke. The practical rule is the same as for people: **ventilate, keep incense out of reach, and never burn it in a room with a caged bird.**
+**Definition:** The pets most affected by incense are **birds**, which are highly sensitive to airborne smoke and particulate matter. Cats and dogs are less sensitive than birds but can still be irritated by smoke. The practical rule is the same as for people: **ventilate, keep incense out of reach, and never burn it in a room with a caged bird.**
 
 **Key facts:** The concern with incense and pets is primarily about **smoke and particulates**, plus the obvious risk of a pet knocking over a burning stick. There is no reason to panic — there is every reason to be sensible.
 

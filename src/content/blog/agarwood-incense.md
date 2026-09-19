@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Agarwood (沉香 chénxiāng) is the resin-impregnated heartwood of *Aquilaria* trees, formed when the tree responds to wounding or fungal infection. It is the most precious material in the classical incense tradition, valued for a deep, sweet, resinous aroma — and so expensive that it is among the most heavily adulterated incense materials in the world.
+**Technical answer:** Agarwood (沉香 chénxiāng) is the resin-impregnated heartwood of *Aquilaria* trees, formed when the tree responds to wounding or fungal infection. It is the most precious material in the classical incense tradition, valued for a deep, sweet, resinous aroma — and so expensive that it is among the most heavily adulterated incense materials in the world.
 
 **Key facts:** The name 沉香 means "sinking fragrance" — the finest resin-dense pieces sink in water. The top grade is called 奇楠 (qínán, cognate with Japanese "kyara"), which differs from ordinary agarwood in a specific, little-documented way.
 
@@ -190,7 +190,7 @@ Confirm with a reputable seller, and prefer laboratory or documented verificatio
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: What does agarwood (沉香) smell like?
 Deep, sweet, and resinous, with a woody base — and it develops in stages as it warms: an opening (头香), a body (本香), and a dry-down (尾香). The character is often described as warm and enveloping rather than sharp. High-grade 奇楠 is aromatic even unheated, at room temperature; ordinary agarwood needs gentle heat to release its full character. That staged, layered quality is the opposite of a flat, single-note fragrance, and it is one reason agarwood rewards slow, flameless appreciation rather than a fast smoky burn.

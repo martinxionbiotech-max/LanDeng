@@ -12,7 +12,7 @@ author: "LanDeng Editorial Team"
 ---
 
 
-**Direct answer:** The single most important 奇楠 (qinan) buying rule is **price honesty** — 奇楠 is orders of magnitude more expensive than ordinary agarwood, so anything sold as 奇楠 at a bargain is almost certainly not 奇楠. The supporting checks are the **seller's ability to name species and grade**, and the **aroma on gentle heat**.
+**Quick answer:** The single most important 奇楠 (qinan) buying rule is **price honesty** — 奇楠 is orders of magnitude more expensive than ordinary agarwood, so anything sold as 奇楠 at a bargain is almost certainly not 奇楠. The supporting checks are the **seller's ability to name species and grade**, and the **aroma on gentle heat**.
 
 <img src="/images/qinan-agarwood-closeup-1200x675.webp" alt="Extreme close-up of qinan agarwood surface with rich resin veins and oily texture" width="1200" height="675" loading="lazy">
 

@@ -12,7 +12,7 @@ author: "LanDeng Editorial Team"
 ---
 
 
-**Direct answer:** 柏子香 is the **everyman's incense** of the Chinese tradition — made from the seeds of the oriental arborvitae (*Platycladus orientalis*, 侧柏), briefly blanched, soaked in wine and honey, and dried. It is deliberately **cheap and simple**, the scholar's counterpoint to the court's expensive 沉檀麝 blends.
+**Data summary:** 柏子香 is the **everyman's incense** of the Chinese tradition — made from the seeds of the oriental arborvitae (*Platycladus orientalis*, 侧柏), briefly blanched, soaked in wine and honey, and dried. It is deliberately **cheap and simple**, the scholar's counterpoint to the court's expensive 沉檀麝 blends.
 
 <img src="/images/recipe-baizi-cypress-seeds-800x533.webp" alt="Small pile of cypress seeds in a ceramic dish, rustic still life" width="800" height="533" loading="lazy">
 

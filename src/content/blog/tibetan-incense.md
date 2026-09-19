@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Tibetan incense (藏香) is a thick, coreless stick made from a blended herbal recipe — not a single "scent." Its tradition comes from Tibetan medicine and monastery ritual, and the point is the **blend**: earthy, herbal, and smoky, built from juniper, sandalwood, clove, and many other botanicals.
+**Key takeaway:** Tibetan incense (藏香) is a thick, coreless stick made from a blended herbal recipe — not a single "scent." Its tradition comes from Tibetan medicine and monastery ritual, and the point is the **blend**: earthy, herbal, and smoky, built from juniper, sandalwood, clove, and many other botanicals.
 
 **Key facts:** Tibetan sticks are typically hand-rolled, thicker than Indian or Japanese sticks, and have **no bamboo core**. The recipes draw on the Tibetan medical system (Sowa Rigpa) and are often described as combining two dozen or more ingredients.
 

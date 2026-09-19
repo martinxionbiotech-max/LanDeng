@@ -14,7 +14,7 @@ related: ["agarwood", "vetiver"]
 
 # Sandalwood (檀香 / Tan Xiang)
 
-**Direct answer:** Sandalwood — *tanxiang* (檀香) in Chinese — is the fragrant heartwood of *Santalum* trees, most classically Indian sandalwood (*Santalum album*). It is prized in Chinese incense for a warm, creamy, sweet, woody aroma, and has a long history in ritual, incense sticks, perfume, and carving.
+**At a glance:** Sandalwood — *tanxiang* (檀香) in Chinese — is the fragrant heartwood of *Santalum* trees, most classically Indian sandalwood (*Santalum album*). It is prized in Chinese incense for a warm, creamy, sweet, woody aroma, and has a long history in ritual, incense sticks, perfume, and carving.
 
 ## Key facts
 

@@ -12,7 +12,7 @@ author: "LanDeng Editorial Team"
 ---
 
 
-**Direct answer:** The seven classical incense materials — **agarwood, sandalwood, frankincense, borneol, benzoin, myrrh, and clove** — differ along five axes: **aroma, botanical source, relative price, use, and substitution risk.** This matrix puts them side by side, because most English content compares only agarwood and sandalwood.
+**At a glance:** The seven classical incense materials — **agarwood, sandalwood, frankincense, borneol, benzoin, myrrh, and clove** — differ along five axes: **aroma, botanical source, relative price, use, and substitution risk.** This matrix puts them side by side, because most English content compares only agarwood and sandalwood.
 
 **Key facts:** "Relative price" is a directional signal, not a price list. The most important column for a buyer is **substitution risk** — the chance that the label name hides a different material.
 

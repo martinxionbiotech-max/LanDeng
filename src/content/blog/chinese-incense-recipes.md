@@ -12,7 +12,7 @@ author: "LanDeng Editorial Team"
 ---
 
 
-**Direct answer:** A 香方 (xiāngfāng) is a **classical Chinese incense recipe** — a structured formula for a compound incense (合香), recorded in the canonical manuals (香谱). The recipes name the ingredients and their proportions, and the best ones reveal the 君臣佐使 (chief–minister–assistant–guide) structure behind the blend.
+**At a glance:** A 香方 (xiāngfāng) is a **classical Chinese incense recipe** — a structured formula for a compound incense (合香), recorded in the canonical manuals (香谱). The recipes name the ingredients and their proportions, and the best ones reveal the 君臣佐使 (chief–minister–assistant–guide) structure behind the blend.
 
 <img src="/images/recipe-ingredients-still-life-1600x675.webp" alt="Wide still life of Chinese incense ingredients on rice paper" width="1600" height="675" loading="lazy">
 
@@ -68,7 +68,7 @@ The crucial caveat: the gram value of the 两 was not constant. It varied by dyn
 
 ## How to Read the 君臣佐使 Structure
 
-Every recipe here is deconstructed by role — **君 (chief), 臣 (minister), 佐 (assistant), 使 (guide)** — the same logic as a Chinese herbal formula. Four questions unlock any 合香 recipe:
+Every recipe here is deconstructed by role — **君 (chief), 臣 (minister), 佐 (assistant), 使 (guide)** — the same logic as a Chinese herbal formula. Four questions reveal the structure of any 合香 recipe:
 
 - **What carries it?** (the chief — almost always a wood)
 - **What rounds it?** (the minister — a smaller wood or resin)

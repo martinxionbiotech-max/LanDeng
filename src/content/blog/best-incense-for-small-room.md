@@ -104,7 +104,7 @@ A: Switch to a low-smoke format first: an electric heater with resin releases al
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: How long should I burn incense in a small room?
 Shorter is better — a half stick, a short cone, or about fifteen to twenty minutes of electric-heated resin is usually enough to scent the space without letting smoke accumulate. The goal is to avoid a continuous source of combustion in a small air volume, because a long, slow-burning stick keeps adding particles the whole time it burns. Stop before the room feels dense, and air it out afterward — a cracked window or a brief airing clears what has built up. Think in terms of a controlled, finite session rather than an hours-long burn, and let ventilation finish the job.

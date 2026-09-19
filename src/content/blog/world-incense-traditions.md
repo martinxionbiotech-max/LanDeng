@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** The world's major incense traditions are regional "schools" that differ in **form** (stick, coil, chip, resin), **scent character**, and **ritual purpose**. The four most distinct — aside from Chinese incense — are **Japanese kōdō** (minimalist, low-smoke), **Indian agarbatti** (bold, expressive), **Tibetan incense** (herbal, recipe-based), and **Middle Eastern bakhoor/oud** (wood chips and resin, hospitality-driven).
+**Data summary:** The world's major incense traditions are regional "schools" that differ in **form** (stick, coil, chip, resin), **scent character**, and **ritual purpose**. The four most distinct — aside from Chinese incense — are **Japanese kōdō** (minimalist, low-smoke), **Indian agarbatti** (bold, expressive), **Tibetan incense** (herbal, recipe-based), and **Middle Eastern bakhoor/oud** (wood chips and resin, hospitality-driven).
 
 <img src="/images/regional-incense-map-asia-1200x675.webp" alt="Flat-lay collage of incense objects representing different Asian incense traditions on warm rice paper" width="1200" height="675" loading="lazy">
 

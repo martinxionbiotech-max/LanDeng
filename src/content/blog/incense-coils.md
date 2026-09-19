@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** An incense coil (盘香, *pánxiāng*) is incense pressed into a spiral that **burns for hours** — often several — making it the format for long, steady room scenting and for temple and overnight-style use. The spiral shape is the whole trick: it packs a long burn into a compact footprint.
+**Technical answer:** An incense coil (盘香, *pánxiāng*) is incense pressed into a spiral that **burns for hours** — often several — making it the format for long, steady room scenting and for temple and overnight-style use. The spiral shape is the whole trick: it packs a long burn into a compact footprint.
 
 **Key facts:** A coil is essentially a long stick coiled into a flat spiral. Burn time scales with diameter and thickness, commonly ranging from a couple of hours to many. It is hung or set on a heatproof surface.
 

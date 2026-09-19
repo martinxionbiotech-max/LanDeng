@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** A calming evening ritual is a **consistent wind-down sequence** — the same soft scent, dimmed lights, screens put away, a quiet moment — that signals to yourself that the day is ending. The scent is a **cue**, not a sedative.
+**Key takeaway:** A calming evening ritual is a **consistent wind-down sequence** — the same soft scent, dimmed lights, screens put away, a quiet moment — that signals to yourself that the day is ending. The scent is a **cue**, not a sedative.
 
 <img src="/images/evening-ritual-incense-tea-desk-1200x675.webp" alt="Quiet evening scene with tea cup, censer and open book on a dark wood desk" width="1200" height="675" loading="lazy">
 
@@ -99,7 +99,7 @@ A: Repeat the same small sequence every night, and keep it simple enough that yo
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: What time should I burn evening incense?
 Match it to your wind-down window rather than a fixed clock hour. For most people that is the last 20–60 minutes before they begin settling for the night — long enough for a short stick or a quiet activity, short enough that you are still awake to enjoy it and to extinguish it. The point is consistency of timing, not the exact minute: burning at roughly the same point each evening is what builds the cue. A stick's burn can also serve as the window itself — when it goes out, the routine ends. Always extinguish the incense before you go to sleep.

@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Burning incense releases fine particulate matter (PM2.5) and volatile organic compounds (VOCs) into the air — the same categories of pollutants as other combustion sources, including candles and cooking. For occasional use in a ventilated room, this is a minor exposure; the practical answer is to **ventilate** and avoid continuous burning in a sealed space.
+**Key takeaway:** Burning incense releases fine particulate matter (PM2.5) and volatile organic compounds (VOCs) into the air — the same categories of pollutants as other combustion sources, including candles and cooking. For occasional use in a ventilated room, this is a minor exposure; the practical answer is to **ventilate** and avoid continuous burning in a sealed space.
 
 **Key facts:** This is not a "natural vs synthetic" issue — plant material burns to smoke regardless. The smoke concern is the same for natural and synthetic incense, and it applies to sticks, cones, coils, and resin alike.
 

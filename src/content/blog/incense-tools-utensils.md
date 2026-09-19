@@ -12,7 +12,7 @@ author: "LanDeng Editorial Team"
 ---
 
 
-**Direct answer:** 香具 are the **small tools** of the incense practice — chopsticks, spoons, spatulas, and brushes — used to handle charcoal, ash, and material in the 隔火焚香 method. The classic arrangement is the **炉瓶三事** ("three things at the burner"): the **censer (香炉)**, the **incense box (香盒)**, and the **tool holder (香瓶)**.
+**Data summary:** 香具 are the **small tools** of the incense practice — chopsticks, spoons, spatulas, and brushes — used to handle charcoal, ash, and material in the 隔火焚香 method. The classic arrangement is the **炉瓶三事** ("three things at the burner"): the **censer (香炉)**, the **incense box (香盒)**, and the **tool holder (香瓶)**.
 
 **Key facts:** You do not need this tool set to burn a stick or cone — it belongs to the resin/powder heating tradition. It is the "kitchen" of incense: functional, and in the best examples, beautiful.
 

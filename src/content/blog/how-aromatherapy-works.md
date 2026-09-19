@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Aromatherapy works through the **sense of smell**: odor molecules bind receptors in the nose, which send signals to brain regions involved in emotion and memory. This is why a scent can feel powerfully "calming" or "energizing" — but the honest part is that most specific "this scent → this mood" claims are **cultural association and preliminary research, not established science.**
+**Quick answer:** Aromatherapy works through the **sense of smell**: odor molecules bind receptors in the nose, which send signals to brain regions involved in emotion and memory. This is why a scent can feel powerfully "calming" or "energizing" — but the honest part is that most specific "this scent → this mood" claims are **cultural association and preliminary research, not established science.**
 
 **Key facts:** Smell is the sense most directly wired to memory and emotion. That is real. What is less real is the marketing claim that a specific oil reliably produces a specific therapeutic effect.
 
@@ -97,7 +97,7 @@ A: Because smell is wired directly to the brain's emotion and memory centers. Od
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: Is aromatherapy scientifically proven?
 The mechanism is well established; the specific claims mostly are not. That smell routes to the emotion and memory regions of the brain is solid neuroscience. But the marketing claims — "lavender lowers cortisol," "this oil treats anxiety," "frankincense relieves stress" — are largely cultural association and preliminary research rather than established clinical fact. The honest position is a split: association is real and useful, while pharmacology is mostly unproven. So you can rely on aromatherapy as a ritual cue and ambiance, but you should not treat any scent as a documented medical effect.

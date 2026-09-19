@@ -14,7 +14,7 @@ related: ["myrrh", "agarwood"]
 
 # Frankincense (乳香 / Ru Xiang)
 
-**Direct answer:** Frankincense — *rǔxiāng* (乳香, "milk fragrance") in Chinese — is the aromatic gum-resin of *Boswellia* trees (family Burseraceae). It is one of the world's oldest incense resins, used for religious ritual, fumigation, perfume, and traditional medicine.
+**Quick answer:** Frankincense — *rǔxiāng* (乳香, "milk fragrance") in Chinese — is the aromatic gum-resin of *Boswellia* trees (family Burseraceae). It is one of the world's oldest incense resins, used for religious ritual, fumigation, perfume, and traditional medicine.
 
 ## Key facts
 

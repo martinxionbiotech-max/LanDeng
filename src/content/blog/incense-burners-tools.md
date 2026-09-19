@@ -12,7 +12,7 @@ author: "LanDeng Editorial Team"
 ---
 
 
-**Direct answer:** Chinese incense requires more than a stick and a lighter. The tradition developed a full set of **burners (香炉)** and **tools (香具)** — from the mountain-shaped 博山炉 to the collectible 宣德炉, and a toolkit of chopsticks, spoons, and spatulas for the smoke-free 隔火焚香 method.
+**Definition:** Chinese incense requires more than a stick and a lighter. The tradition developed a full set of **burners (香炉)** and **tools (香具)** — from the mountain-shaped 博山炉 to the collectible 宣德炉, and a toolkit of chopsticks, spoons, and spatulas for the smoke-free 隔火焚香 method.
 
 <img src="/images/censer-porcelain-song-style-1200x675.webp" alt="Song-dynasty-style celadon porcelain censer with crackle glaze and faint smoke trail" width="1200" height="675" loading="lazy">
 

@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Every classic incense scent traces to a specific plant part — a **wood** (sandalwood, agarwood), a **resin** (frankincense, myrrh), a **flower** (jasmine, rose), a **peel** (citrus), or a **bud/bark** (clove, cassia). Knowing the plant source tells you what kind of material — and therefore what kind of scent and burn — you are getting.
+**Definition:** Every classic incense scent traces to a specific plant part — a **wood** (sandalwood, agarwood), a **resin** (frankincense, myrrh), a **flower** (jasmine, rose), a **peel** (citrus), or a **bud/bark** (clove, cassia). Knowing the plant source tells you what kind of material — and therefore what kind of scent and burn — you are getting.
 
 **Key facts:** The source part matters: wood and resin burn slowly and carry depth; flowers are delicate and are usually rendered as fragrance accords; peels and buds are bright and spicy.
 
@@ -103,7 +103,7 @@ A: Because the plant part determines the scent character and how it burns. Heart
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: Which plant parts burn best in incense?
 Woods and resins burn (or heat) slowly and carry deep, persistent scent, so they are the classical backbone of incense. Heartwood such as sandalwood and resin-impregnated agarwood release their aroma steadily, while resins like frankincense and myrrh warm into bright, balsamic notes. Raw flowers burn poorly, which is why florals are usually rendered as fragrance accords. Peels, buds, and barks — citrus, clove, cassia — are bright or spicy top notes that add lift but rarely stand alone.

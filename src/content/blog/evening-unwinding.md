@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Incense for evening unwinding is a **warm, low-key scent** — sandalwood, lavender, or a soft wood blend — used as part of a wind-down routine. The honest framing: it is a *routine and ambiance* cue, not a sleep aid. LanDeng makes no claim that incense helps you sleep.
+**Key takeaway:** Incense for evening unwinding is a **warm, low-key scent** — sandalwood, lavender, or a soft wood blend — used as part of a wind-down routine. The honest framing: it is a *routine and ambiance* cue, not a sleep aid. LanDeng makes no claim that incense helps you sleep.
 
 **Key facts:** The value of an evening incense is the **ritual cue** — a repeated sensory signal that the day is ending. A stick's burn time (roughly 20–60 minutes) can also serve as a rough "wind-down window."
 

@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Aroma molecules — like **linalool** (lavender), **limonene** (citrus), and **santalols** (sandalwood) — are volatile compounds that bind olfactory receptors and trigger a smell signal to the brain. The chemistry of *what a scent is* is well understood; the claim that a specific molecule *reliably produces a specific mood* is much less established than marketing suggests.
+**Key takeaway:** Aroma molecules — like **linalool** (lavender), **limonene** (citrus), and **santalols** (sandalwood) — are volatile compounds that bind olfactory receptors and trigger a smell signal to the brain. The chemistry of *what a scent is* is well understood; the claim that a specific molecule *reliably produces a specific mood* is much less established than marketing suggests.
 
 **Key facts:** The molecule explains the **aroma character** (linalool = fresh-floral, limonene = bright-citrus). The **mood** connection is mostly associative and cultural, with limited, often preliminary research behind specific claims.
 
@@ -98,7 +98,7 @@ A: Only part of it. The chemistry of *what a scent is* is solid — a molecule's
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: What is linalool?
 Linalool is a naturally occurring terpene alcohol found in lavender, many other florals, and some herbs and spices. It is the main molecule behind lavender's fresh, floral character and also appears in coriander, basil, and certain citrus. Linalool's role is to explain a scent's smell, not a guaranteed mood effect: while it appears in preliminary research on calming, there is no established, dose-specific "relaxation molecule." When a product says "linalool calms you," treat that as marketing. The honest reading is that linalool is a common floral-smelling compound whose calming reputation comes mostly from its presence in lavender, a scent people have learned to associate with unwinding.

@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Aromatherapy beads are porous beads (often wood, stone, or clay) that are **scented with essential oil and worn**, so the aroma is released slowly as a personal scent — with **no burning and no smoke**. They are the portable, zero-smoke option in the incense family.
+**Definition:** Aromatherapy beads are porous beads (often wood, stone, or clay) that are **scented with essential oil and worn**, so the aroma is released slowly as a personal scent — with **no burning and no smoke**. They are the portable, zero-smoke option in the incense family.
 
 **Key facts:** The beads themselves are usually not the scent source; they are a **carrier** you (or the maker) scent with essential oil. The scent fades over time and is refreshed by re-applying oil. This is a *worn-fragrance* format, not a burned one.
 
@@ -104,7 +104,7 @@ They are in the same fragrance family but a different format: worn and zero-smok
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: Can I refresh aromatherapy beads?
 Some can be re-scented with a few drops of essential oil; many are single-use and simply fade. Check the material before assuming it is refreshable. Porous wood, lava stone, and unglazed clay beads can usually be refreshed with a few drops of essential oil once the original scent fades, which is part of why they are a reusable object. Some beads are sealed, coated, or sold as single-use, and those simply fade without being re-scented. Before buying, check the material and whether the seller describes it as refreshable; a sealed or heavily finished bead may not absorb new oil well. If you want a long-term bead, choose an uncoated, porous material.

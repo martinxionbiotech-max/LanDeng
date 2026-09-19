@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** A sample verifies the **product** — what it smells like, how it burns, its format and material — but it does **not** verify the **supplier** — whether they can deliver the full order on time and to the same spec. Sampling is the standard checkpoint between inquiry and bulk commitment: you request a sample, evaluate it against your brief, and only then move to a trial order. Sample terms (what is provided, any cost, and shipping) are confirmed per request.
+**Definition:** A sample verifies the **product** — what it smells like, how it burns, its format and material — but it does **not** verify the **supplier** — whether they can deliver the full order on time and to the same spec. Sampling is the standard checkpoint between inquiry and bulk commitment: you request a sample, evaluate it against your brief, and only then move to a trial order. Sample terms (what is provided, any cost, and shipping) are confirmed per request.
 
 **Key facts:** This guide explains the sampling process, what to evaluate in a sample, and — just as important — what a sample cannot tell you. It publishes no pricing or sample-policy specifics, because those are confirmed on request per inquiry.
 

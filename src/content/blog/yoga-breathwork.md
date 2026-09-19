@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Incense for yoga and breathwork is a **grounding, steady scent** — sandalwood, frankincense, or cedar — burned to mark the practice and keep the room calm. It is a sensory anchor for the session, not a physiological aid.
+**Definition:** Incense for yoga and breathwork is a **grounding, steady scent** — sandalwood, frankincense, or cedar — burned to mark the practice and keep the room calm. It is a sensory anchor for the session, not a physiological aid.
 
 **Key facts:** For a movement or breathing practice, the scent should be **low-smoke and not overpowering**, and the burn time should roughly match the session. A stick (~25–60 min) suits most sessions; a cone is shorter.
 
@@ -111,7 +111,7 @@ Match the burn time to your session so the incense ends when you do. A thin core
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: Is frankincense or sandalwood better for yoga?
 Both work well, and the choice is mostly preference. Sandalwood is warmer, creamier, and softer — the classic grounding wood that sits quietly in the background. Frankincense is fresher and more resinous, with a slight citrus lift that reads as "clear" and alert. For slow, grounding styles like yin or hatha, sandalwood is the natural fit; for a breathwork or pranayama session, frankincense's brighter note can help keep attention on the count. Neither is objectively better. What matters more is a low-smoke format and matching the burn time to your session length, so the scent ends when the practice does.

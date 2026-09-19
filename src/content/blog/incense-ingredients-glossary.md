@@ -168,7 +168,7 @@ A functional ingredient — usually a combustible wood powder like makko (抹香
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: What is the difference between benzoin and frankincense?
 Both are resins but different plants: benzoin (*Styrax*) is sweet and vanilla-balsamic; frankincense (*Boswellia*) is fresh, citrus, and earthy. Benzoin is more of a sweet base and fixative — it anchors and rounds a blend — while frankincense is a bright ritual resin that opens at the top. They are not interchangeable: one sweetens and fixes, the other freshens and lifts. A blend can use both, benzoin for the sweet base and frankincense for the bright top, but their jobs in a formula are different.

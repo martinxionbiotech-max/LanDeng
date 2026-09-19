@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Lavender incense is incense scented with lavender — most classically English lavender (*Lavandula angustifolia*), a flowering shrub in the mint family (Lamiaceae). Unlike sandalwood and agarwood, lavender is **not** part of the classical Chinese 香谱 (incense-manual) canon; it entered incense through Western and modern aromatherapy practice. It is widely used as a soft floral scent for unwinding routines.
+**Definition:** Lavender incense is incense scented with lavender — most classically English lavender (*Lavandula angustifolia*), a flowering shrub in the mint family (Lamiaceae). Unlike sandalwood and agarwood, lavender is **not** part of the classical Chinese 香谱 (incense-manual) canon; it entered incense through Western and modern aromatherapy practice. It is widely used as a soft floral scent for unwinding routines.
 
 **Key facts:** Lavender's characteristic compounds are **linalool** and **linalyl acetate**. It is a Western-origin botanical now common in modern incense; the honest framing is "supportive ritual, not a treatment."
 
@@ -119,7 +119,7 @@ They sit at opposite ends of the spectrum. Lavender is light, soft, floral, and 
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: What does lavender incense smell like?
 Soft, floral, and slightly herbal-sweet — the recognizable lavender note, driven by two main compounds: linalool (fresh, floral) and linalyl acetate (sweet, fruity-herbal). It reads as lighter, cleaner, and more familiar than the deep woods such as agarwood and sandalwood, and it lacks their resinous weight. That approachability is exactly why lavender often serves as a gentle entry scent for people new to incense.
@@ -131,7 +131,7 @@ The same as other sticks — roughly 20–60 minutes, depending on length, thick
 All incense produces smoke and fine particulate matter when burned, and pets can be more sensitive to airborne irritants than people. The honest guidance is to burn in a well-ventilated space, keep burning incense out of reach of cats and dogs, and watch for any sign of irritation or discomfort. This is general combustion-safety advice that applies to every incense scent, not a claim about lavender specifically — and it is not a statement about any particular medical condition in animals.
 
 ### Q: Is lavender incense good for evening unwinding?
-Many people use its soft floral scent as part of a calming evening routine — a repeated, low-effort cue that signals the brain it is time to wind down. That is a routine-and-ambiance practice, not a treatment: LanDeng makes no claim that lavender incense induces sleep or reduces anxiety. The value is in the ritual itself — a consistent, pleasant anchor at the end of the day — rather than any pharmacological effect. See the [meditation guide](/blog/incense-for-meditation/) for the timer/anchor/cue framing.
+Many people use its soft floral scent as part of a calming evening routine — a repeated, low-effort cue that signals the brain it is time to wind down. That is a routine-and-ambiance practice, not a treatment: LanDeng makes no claim that lavender incense induces sleep or reduces anxiety. The value is in the ritual itself — a consistent, pleasant evening anchor — rather than any pharmacological effect. See the [meditation guide](/blog/incense-for-meditation/) for the timer/anchor/cue framing.
 
 ### Q: What is the difference between lavender incense and lavender essential oil?
 Lavender essential oil is the concentrated, steam-distilled extract of the lavender flower, carrying its volatile aroma compounds. Lavender incense is a finished scented product — usually a base (charcoal or wood powder) carrying a lavender fragrance oil, and sometimes actual lavender flowers or essential oil blended into the material. They smell related but are different products. Much commercial lavender incense uses a synthetic fragrance rather than real lavender oil. See [essential oils in incense](/blog/essential-oils-in-incense/).

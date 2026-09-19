@@ -9,7 +9,7 @@ status: draft
 
 # What Is Chinese Incense?
 
-**Direct answer:** Chinese incense is the practice of burning or gently heating aromatic natural materials — woods, resins, herbs, and flowers — for fragrance, ritual, meditation, and daily life. It has a continuous history in China spanning more than two millennia, reaching its cultural peak in the Song dynasty (960–1279), where it became one of the "Four Leisure Arts" of the scholar (四般闲事).
+**Key takeaway:** Chinese incense is the practice of burning or gently heating aromatic natural materials — woods, resins, herbs, and flowers — for fragrance, ritual, meditation, and daily life. It has a continuous history in China spanning more than two millennia, reaching its cultural peak in the Song dynasty (960–1279), where it became one of the "Four Leisure Arts" of the scholar (四般闲事).
 
 ## A note on a common misconception
 
@@ -76,7 +76,7 @@ English-language incense content tends to flatten Chinese incense into either "a
 
 Chinese incense carries a rich layer of **traditional and cultural knowledge** (香道, 合香, materia medica). This is distinct from modern clinical evidence: traditional uses are **traditional**, and we do not present aromatic practices as medical treatment. See our safety guide for combustion disclosure.
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 **What does Chinese incense smell like?** It depends entirely on the material. Sandalwood (檀香) is creamy, milky, and sweet-woody; agarwood (沉香) is deep, resinous, and faintly medicinal; frankincense (乳香) is bright, lemony, and balsamic. Clove and cinnamon add spice, while blended 合香 compounds can range from floral and sweet to herbaceous and bitter. The shared signature across the tradition is warmth and layering — most refined Chinese incense is a blend that unfolds gradually rather than one sharp, single-note scent.
 

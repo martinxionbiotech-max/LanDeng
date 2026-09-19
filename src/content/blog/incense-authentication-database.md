@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** The most common incense fakes are **oil-boiled, oil-injected, and chemically-soaked** wood passed off as agarwood or sandalwood. The practical detection signals are burn behavior (white smoke and oil seepage vs black smoke), aroma on gentle heat (complex and sweet vs "perfume" or "burnt wood"), and the **sink test** for agarwood density.
+**At a glance:** The most common incense fakes are **oil-boiled, oil-injected, and chemically-soaked** wood passed off as agarwood or sandalwood. The practical detection signals are burn behavior (white smoke and oil seepage vs black smoke), aroma on gentle heat (complex and sweet vs "perfume" or "burnt wood"), and the **sink test** for agarwood density.
 
 **Key facts:** This is a buyer-intelligence reference, not a laboratory method. For definitive authentication, use a reputable seller and, where it matters, laboratory testing.
 

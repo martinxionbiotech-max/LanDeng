@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** An essential oil is the concentrated, volatile aromatic fraction of a plant — extracted (most often by steam distillation) from flowers, leaves, bark, wood, roots, or peel. In incense, essential oils appear in two distinct roles: **(1) as a scent added to a base** (the common commercial method, where oil is applied to a charcoal or wood-powder stick), or **(2) as a component of a botanical blend.** They are **not the same thing as raw fragrant wood or resin** — a sandalwood essential oil and a piece of sandalwood heartwood are different materials with different aroma behavior.
+**Definition:** An essential oil is the concentrated, volatile aromatic fraction of a plant — extracted (most often by steam distillation) from flowers, leaves, bark, wood, roots, or peel. In incense, essential oils appear in two distinct roles: **(1) as a scent added to a base** (the common commercial method, where oil is applied to a charcoal or wood-powder stick), or **(2) as a component of a botanical blend.** They are **not the same thing as raw fragrant wood or resin** — a sandalwood essential oil and a piece of sandalwood heartwood are different materials with different aroma behavior.
 
 **Key facts:** Essential oils are extracted by **steam distillation** (over 90% of world production), **cold-pressing** (citrus peel), or **dry distillation**; solvent extraction produces *absolutes*, which are technically distinct from essential oils. The term "essential" means "containing the essence/fragrance of the plant" — it has nothing to do with being nutritionally essential.
 

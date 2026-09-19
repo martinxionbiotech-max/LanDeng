@@ -12,7 +12,7 @@ author: "LanDeng Editorial Team"
 ---
 
 
-**Direct answer:** The 宣德炉 is the **most famous — and most copied — incense censer in Chinese history**, cast by imperial order during the **Xuande reign (宣德, 1426–1435)** of the Ming dynasty, using imported copper. Its plain, elegant form and prized patina made it the standard by which later censers were judged.
+**Definition:** The 宣德炉 is the **most famous — and most copied — incense censer in Chinese history**, cast by imperial order during the **Xuande reign (宣德, 1426–1435)** of the Ming dynasty, using imported copper. Its plain, elegant form and prized patina made it the standard by which later censers were judged.
 
 **Key facts:** The defining feature of a 宣德炉 is not ornament but **patina (皮壳)** — the surface color that develops with age. Genuine Xuande-period pieces are extremely rare; the vast majority of "宣德炉" on the market are later copies, some themselves centuries old and collectible.
 

@@ -14,7 +14,7 @@ related: ["benzoin", "borneol"]
 
 # Sweetgum (枫香 / Feng Xiang)
 
-**Direct answer:** Sweetgum — *fēngxiāng* (枫香) in Chinese — is the aromatic resin of the sweetgum tree, *Liquidambar formosana* (family Altingiaceae). It has a sweet, balsamic, warm aroma and is used in incense and perfumery, where it is closely related to (but distinct from) storax.
+**Key takeaway:** Sweetgum — *fēngxiāng* (枫香) in Chinese — is the aromatic resin of the sweetgum tree, *Liquidambar formosana* (family Altingiaceae). It has a sweet, balsamic, warm aroma and is used in incense and perfumery, where it is closely related to (but distinct from) storax.
 
 ## Key facts
 

@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Chinese incense is a **combustion-or-heating** practice — fragrant wood and resin are burned or gently warmed to release their scent. An **essential oil diffuser** vaporizes plant oils into a mist. A **candle** burns wax with added fragrance. They are three different things that happen to share "makes the room smell nice."
+**Definition:** Chinese incense is a **combustion-or-heating** practice — fragrant wood and resin are burned or gently warmed to release their scent. An **essential oil diffuser** vaporizes plant oils into a mist. A **candle** burns wax with added fragrance. They are three different things that happen to share "makes the room smell nice."
 
 **Key facts:** The core difference is **what is being released and how.** Incense releases the smoke and aroma of burning plant material; a diffuser releases volatile oil molecules without combustion; a candle burns wax (a fuel) carrying a scent.
 

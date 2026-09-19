@@ -14,7 +14,7 @@ related: ["rose", "osmanthus"]
 
 # Jasmine (茉莉 / Mo Li)
 
-**Direct answer:** Jasmine — *mòlì* (茉莉, also 茉莉花 *mòlìhuā*) in Chinese — is a sweet-scented white flower, most classically *Jasminum sambac*, used in Chinese tea, perfume, and incense. Jasmine tea is considered one of China's oldest scented-flower teas.
+**Data summary:** Jasmine — *mòlì* (茉莉, also 茉莉花 *mòlìhuā*) in Chinese — is a sweet-scented white flower, most classically *Jasminum sambac*, used in Chinese tea, perfume, and incense. Jasmine tea is considered one of China's oldest scented-flower teas.
 
 ## Key facts
 

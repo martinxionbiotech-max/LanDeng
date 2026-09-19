@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** The main incense formats are **sticks** (the everyday default), **backflow cones** (a visual waterfall effect), **coils** (hours-long burn), **powder & resin** (loose material on heat), and **aromatherapy beads** (scented bracelets, no burning). The right one depends on **burn time, smoke, and whether you want a visual**.
+**Technical answer:** The main incense formats are **sticks** (the everyday default), **backflow cones** (a visual waterfall effect), **coils** (hours-long burn), **powder & resin** (loose material on heat), and **aromatherapy beads** (scented bracelets, no burning). The right one depends on **burn time, smoke, and whether you want a visual**.
 
 <img src="/images/incense-formats-lineup-sticks-coils-cones-1600x675.webp" alt="Editorial lineup of incense formats: sticks, spiral coil, backflow cone, powder mound on rice paper" width="1600" height="675" loading="lazy">
 
@@ -118,7 +118,7 @@ A backflow cone is a hollow incense cone with a channel through its center. When
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: What is the least smoky format?
 Resin or powder warmed on an electric heater is the least smoky option. The heater warms the material below combustion temperature, so it releases aroma as vapor rather than smoke — there is no flame and almost no visible smoke. This is the modern version of the refined 隔火焚香 method. Charcoal-heated resin produces more smoke, and sticks, cones, and coils all burn and produce smoke. If smoke is your main concern — a small room, sensitivity, or a preference for clean air — an electric heater with loose resin is the format to try.

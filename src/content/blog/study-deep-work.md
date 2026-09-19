@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Incense for study and deep work is a **bright, clean, non-distracting scent** — citrus or frankincense most often — used as a *focus cue*: a repeated sensory signal that marks the start of a work session. It is a routine and ambiance tool, not a cognitive enhancer.
+**Quick answer:** Incense for study and deep work is a **bright, clean, non-distracting scent** — citrus or frankincense most often — used as a *focus cue*: a repeated sensory signal that marks the start of a work session. It is a routine and ambiance tool, not a cognitive enhancer.
 
 **Key facts:** A bright scent suits focus because it is clean and non-distracting, and because a fresh, energizing aroma reads as "alert." LanDeng makes no claim that incense improves concentration or memory.
 
@@ -112,7 +112,7 @@ Frankincense is a common choice for focus because of its character, not because 
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: Is cedar good for studying?
 Cedar is a clean, fresh, room-clearing scent, and a reasonable "neutral focus" choice if you find floral or resin scents distracting. It sits quietly in the background — dry, slightly sweet, and unobtrusive — which suits long stretches of reading or writing where you don't want the scent competing for attention. It lacks the bright lift of citrus or frankincense, so it reads more neutral than energizing, but that is exactly why some people prefer it for deep work. As with any scent, the benefit is the ritual: use the same cedar consistently at the start of a session and it becomes a cue.

@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Frankincense is the dried gum-resin of *Boswellia* trees (family Burseraceae) — one of the oldest incense materials in the world. As incense it burns (or, better, is gently heated) into a fresh, resinous, slightly citrus scent that is often described as "bright" and "clearing" — a clean, focusing atmosphere rather than a heavy, sleepy one.
+**At a glance:** Frankincense is the dried gum-resin of *Boswellia* trees (family Burseraceae) — one of the oldest incense materials in the world. As incense it burns (or, better, is gently heated) into a fresh, resinous, slightly citrus scent that is often described as "bright" and "clearing" — a clean, focusing atmosphere rather than a heavy, sleepy one.
 
 **Key facts:** The name comes from Old French *franc encens* ("high-quality incense"); in Chinese it is 乳香 (rǔxiāng, "milk fragrance"), in Arabic *luban*. The essential oil is dominated by monoterpenes (alpha-pinene, limonene); the boswellic acids many blogs cite are *not* present in steam-distilled oil.
 

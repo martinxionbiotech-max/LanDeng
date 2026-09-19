@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** An incense stick burns plant material (wood, resin, botanicals) into aroma and smoke; a candle burns wax as a fuel, with fragrance added. The practical differences are an **open flame** (candle) versus an **ember** (incense), and **material smoke** (incense) versus **wax soot** (candle).
+**Data summary:** An incense stick burns plant material (wood, resin, botanicals) into aroma and smoke; a candle burns wax as a fuel, with fragrance added. The practical differences are an **open flame** (candle) versus an **ember** (incense), and **material smoke** (incense) versus **wax soot** (candle).
 
 **Key facts:** Both produce airborne particles; neither is "clean air." The choice is really about the experience: incense gives a material, often ritual scent; a candle gives ambient light plus scent.
 
@@ -100,7 +100,7 @@ A: A candle, generally by a wide margin. A candle runs for hours — often tens 
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: Which produces more particles, a stick or a candle?
 Both are combustion sources and both produce airborne particles — incense smoke and candle soot — so the honest answer is that neither is particle-free and neither is "clean air." Incense tends to produce more visible smoke, and some studies of indoor burning show incense releasing substantial fine particulate matter; candles produce soot and particles too, though often less visibly. The exact amount depends on the material, the burn, and the room. Either way, ventilation is the practical remedy. See [ventilation & indoor air](/blog/incense-ventilation-indoor-air/) for the detail.

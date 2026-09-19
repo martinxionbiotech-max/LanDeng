@@ -14,7 +14,7 @@ related: ["angelica", "mugwort"]
 
 # Calamus (菖蒲 / Chang Pu)
 
-**Direct answer:** Calamus — *chāngpú* (菖蒲) in Chinese — is the aromatic rhizome of *Acorus calamus* (sweet flag), with a warm, spicy, slightly sweet, earthy scent. It is a traditional aromatic herb, but it carries an important safety caveat: the essential oil of many calamus varieties contains **β-asarone**, which is restricted in food use in several jurisdictions.
+**Definition:** Calamus — *chāngpú* (菖蒲) in Chinese — is the aromatic rhizome of *Acorus calamus* (sweet flag), with a warm, spicy, slightly sweet, earthy scent. It is a traditional aromatic herb, but it carries an important safety caveat: the essential oil of many calamus varieties contains **β-asarone**, which is restricted in food use in several jurisdictions.
 
 ## Key facts
 

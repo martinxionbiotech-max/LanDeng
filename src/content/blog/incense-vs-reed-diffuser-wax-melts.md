@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** These three release scent by three different mechanisms — incense by **combustion**, a reed diffuser by **passive evaporation**, and wax melts by **warming**. Incense gives smoke and a material, ritual character; a reed diffuser gives a constant, flameless scent with no effort; wax melts give a re-meltable, flameless scent (with an electric warmer).
+**Technical answer:** These three release scent by three different mechanisms — incense by **combustion**, a reed diffuser by **passive evaporation**, and wax melts by **warming**. Incense gives smoke and a material, ritual character; a reed diffuser gives a constant, flameless scent with no effort; wax melts give a re-meltable, flameless scent (with an electric warmer).
 
 **Key facts:** If you want **no smoke and no flame**, the choice is between a reed diffuser (constant, passive) and wax melts (warmed, re-meltable) — not incense.
 

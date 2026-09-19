@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** A single word on an incense label — "sandalwood," "agarwood," "essential oil," "benzoin" — can point at several different materials. This cross-reference lists the most common substitutions, so you can read a label and know what you might actually be getting.
+**Definition:** A single word on an incense label — "sandalwood," "agarwood," "essential oil," "benzoin" — can point at several different materials. This cross-reference lists the most common substitutions, so you can read a label and know what you might actually be getting.
 
 **Key facts:** The pattern is consistent: a scarce, expensive material (Indian sandalwood, kyara, real ambergris) has cheaper lookalikes, and "natural" or "essential oil" does not by itself tell you which one you have.
 

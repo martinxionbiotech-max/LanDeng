@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** To burn incense safely, use a holder made for the format, set it on a heatproof, stable surface clear of anything flammable, ventilate the room, and never leave it burning unattended. Most incense-related incidents are fire incidents — and they are almost entirely preventable.
+**Key takeaway:** To burn incense safely, use a holder made for the format, set it on a heatproof, stable surface clear of anything flammable, ventilate the room, and never leave it burning unattended. Most incense-related incidents are fire incidents — and they are almost entirely preventable.
 
 **Key facts:** The method differs by format — a stick needs a stick holder and an ash catcher, a cone or coil needs a flat, heatproof base, and resin needs a charcoal disc or an electric heater. The safety principles, however, are identical across all of them.
 

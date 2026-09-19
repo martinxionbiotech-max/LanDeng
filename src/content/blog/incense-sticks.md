@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** An incense stick is a thin rod of fragrant material — either a **bamboo core** coated in a paste, or a **coreless** stick pressed from the material itself — that burns for roughly 20–60 minutes. It is the everyday incense format: predictable, low-effort, and easy to time.
+**Quick answer:** An incense stick is a thin rod of fragrant material — either a **bamboo core** coated in a paste, or a **coreless** stick pressed from the material itself — that burns for roughly 20–60 minutes. It is the everyday incense format: predictable, low-effort, and easy to time.
 
 **Key facts:** Sticks come in two main constructions: **bamboo-core** (common in India and China, thicker) and **coreless** (common in Japan and Tibet, thinner and lower-smoke). The burn time depends on length and thickness.
 
@@ -108,7 +108,7 @@ Light the very tip of the stick and hold the flame there for a few seconds until
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: What is the difference between a coreless and a bamboo-core stick?
 A coreless stick is made entirely of incense paste, so it is thinner and produces less smoke — this is the Japanese and Tibetan style. A bamboo-core stick has a wooden splint running through its center, which adds a little wood smoke as the core burns but makes the stick sturdier, longer, and often cheaper to produce. Practically, the coreless stick burns shorter (around 25–30 minutes) and cleaner, while the bamboo-core stick burns longer (45–60 minutes) and is more forgiving to handle.

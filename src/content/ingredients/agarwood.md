@@ -14,7 +14,7 @@ related: ["sandalwood", "frankincense"]
 
 # Agarwood (沉香 / Chen Xiang)
 
-**Direct answer:** Agarwood — *chenxiang* (沉香, "sinking fragrance") in Chinese — is the resin-impregnated heartwood of *Aquilaria* trees, formed when the tree responds to wounding or fungal infection by saturating its wood with aromatic resin. It is one of the most prized aromatic woods in Chinese incense, perfume, and traditional practice. The name comes from the fact that the most resin-dense pieces sink in water.
+**Data summary:** Agarwood — *chenxiang* (沉香, "sinking fragrance") in Chinese — is the resin-impregnated heartwood of *Aquilaria* trees, formed when the tree responds to wounding or fungal infection by saturating its wood with aromatic resin. It is one of the most prized aromatic woods in Chinese incense, perfume, and traditional practice. The name comes from the fact that the most resin-dense pieces sink in water.
 
 ## Key facts
 

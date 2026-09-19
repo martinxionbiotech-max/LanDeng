@@ -86,7 +86,7 @@ A: It depends on how long you want the burn. A cone lasts roughly 15 to 30 minut
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: Do thicker sticks burn longer?
 Usually yes. A thicker stick carries more material, which tends to burn more slowly, so a thicker stick often lasts longer than a thin one. But thickness is not the whole story: the binder ratio and how densely the paste is packed also change the burn rate, and a dense, tightly packed thin stick can outlast a loosely packed thick one. Humidity in storage matters too. That is why every burn time here is stated as a range rather than a spec — treat the number on the label as a guide.

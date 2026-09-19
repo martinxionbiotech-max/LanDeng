@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Citrus incense is incense built around a fresh, bright citrus note — orange or mandarin peel (including aged 陈皮 chénpí), bergamot, yuzu, lemon, or lime. It sits at the **energizing, focusing** end of the scent spectrum. Because citrus oils are highly volatile, the note fades fast, so citrus in incense is almost always a **top note layered over a wood or resin base**.
+**Technical answer:** Citrus incense is incense built around a fresh, bright citrus note — orange or mandarin peel (including aged 陈皮 chénpí), bergamot, yuzu, lemon, or lime. It sits at the **energizing, focusing** end of the scent spectrum. Because citrus oils are highly volatile, the note fades fast, so citrus in incense is almost always a **top note layered over a wood or resin base**.
 
 **Key facts:** In Chinese tradition, citrus connects to incense through **陈皮 (chénpí)** — aged mandarin peel — a genuinely Chinese material, unlike Western-origin florals. Citrus "incense" usually means a **blend** (bright top + grounding base), not pure citrus.
 

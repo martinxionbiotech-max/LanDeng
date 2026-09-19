@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Chinese incense culture spans roughly three millennia, from aromatic offerings in the Shang dynasty (c. 1600–1046 BCE) to a refined aesthetic practice in the Song dynasty (960–1279), followed by codification in the Ming, decline through the Qing and 20th century, and a revival from the 2000s onward.
+**At a glance:** Chinese incense culture spans roughly three millennia, from aromatic offerings in the Shang dynasty (c. 1600–1046 BCE) to a refined aesthetic practice in the Song dynasty (960–1279), followed by codification in the Ming, decline through the Qing and 20th century, and a revival from the 2000s onward.
 
 <img src="/images/incense-history-timeline-artifacts-1600x675.webp" alt="Wide banner of incense artifacts across eras on a dark museum shelf" width="1600" height="675" loading="lazy">
 
@@ -121,7 +121,7 @@ Several forces contracted the tradition. Sumptuary restrictions and the rise of 
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: What is a Boshan censer (博山炉)?
 A mountain-shaped incense burner from the Han dynasty (206 BCE–220 CE), named after the mythical Mount Bo. Its appearance marks a turning point: incense began to move from pure ritual offering into aesthetic and courtly enjoyment. The Boshan censer is often taken as the first clear sign of incense as a refined pastime rather than only a sacrifice — the material evidence that burning fragrant material had become an art as well as a rite.

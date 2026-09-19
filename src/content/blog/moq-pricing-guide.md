@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** In business-to-business incense supply, there is no honest price list — pricing is **quotation-based**, prepared per inquiry, because unit cost is a function of several variables that change with every order: **product and material, quantity (MOQ), customization, packaging, and shipping terms**. The useful question is never "what is your price" but "what changes your price."
+**Data summary:** In business-to-business incense supply, there is no honest price list — pricing is **quotation-based**, prepared per inquiry, because unit cost is a function of several variables that change with every order: **product and material, quantity (MOQ), customization, packaging, and shipping terms**. The useful question is never "what is your price" but "what changes your price."
 
 **Key facts:** This guide explains the quotation model, why MOQ exists, and the variables that move a quote up or down. It publishes no numbers — no MOQs, no prices, no margins — because those are, by definition, confirmed "on request" per inquiry. Fabricating them would mislead you; stating them honestly as "on request" is the point.
 

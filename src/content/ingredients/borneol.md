@@ -14,7 +14,7 @@ related: ["sweetgum", "pine-resin"]
 
 # Borneol (龙脑 / Long Nao)
 
-**Direct answer:** Borneol — *lóngnǎo* (龙脑, literally "dragon brain") in Chinese — is a crystalline monoterpene with a sharp, camphoraceous, cooling aroma. It is the classic "cooling" note in Chinese incense and materia medica, and one of the materials most prone to source confusion, because "borneol" on a label can be a natural tree-resin crystal, a leaf-distilled crystal, or a fully synthetic compound.
+**At a glance:** Borneol — *lóngnǎo* (龙脑, literally "dragon brain") in Chinese — is a crystalline monoterpene with a sharp, camphoraceous, cooling aroma. It is the classic "cooling" note in Chinese incense and materia medica, and one of the materials most prone to source confusion, because "borneol" on a label can be a natural tree-resin crystal, a leaf-distilled crystal, or a fully synthetic compound.
 
 ## Key facts
 

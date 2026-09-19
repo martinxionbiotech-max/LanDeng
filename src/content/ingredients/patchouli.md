@@ -14,7 +14,7 @@ related: ["vetiver", "cedar"]
 
 # Patchouli (广藿香 / Guang Huo Xiang)
 
-**Direct answer:** Patchouli — *guǎnghuòxiāng* (广藿香) in Chinese — is the dried leaf of *Pogostemon cablin*, a bushy mint-family herb, with a heavy, earthy, woody, balsamic aroma. It is an important ingredient in East Asian incense and a classic perfumery base note.
+**Definition:** Patchouli — *guǎnghuòxiāng* (广藿香) in Chinese — is the dried leaf of *Pogostemon cablin*, a bushy mint-family herb, with a heavy, earthy, woody, balsamic aroma. It is an important ingredient in East Asian incense and a classic perfumery base note.
 
 ## Key facts
 

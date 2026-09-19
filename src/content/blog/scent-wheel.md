@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Incense scents can be organized into a wheel by **atmosphere** — bright and energizing, uplifting floral, calming woody, deep and enveloping — each mapping to a set of materials and the scenarios where people reach for them. Pick a scenario, and the wheel points to the scent family; pick a scent, and it tells you the atmosphere it tends to create.
+**Data summary:** Incense scents can be organized into a wheel by **atmosphere** — bright and energizing, uplifting floral, calming woody, deep and enveloping — each mapping to a set of materials and the scenarios where people reach for them. Pick a scenario, and the wheel points to the scent family; pick a scent, and it tells you the atmosphere it tends to create.
 
 **Key facts:** "Atmosphere" is a descriptive, cultural association — not a medical effect. This wheel is a decision aid, not a claim about what a scent "does."
 
@@ -88,7 +88,7 @@ A: It describes the aroma's character — bright and zesty — by association, n
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: How many scent families are there?
 The wheel uses four broad families — woods, resins, florals, and citrus — plus a "bright vs deep" axis for atmosphere. It is a thinking aid, not an exhaustive taxonomy. Woods (sandalwood, agarwood) sit at the calm-to-deep end; resins (frankincense) bridge bright and deep; florals (lotus, lavender, osmanthus) occupy the light, airy middle; citrus sits at the bright, fresh end. Real perfumery uses hundreds of notes, but classical incense centers on a small set of materials, so four families plus the axis cover most everyday choices.

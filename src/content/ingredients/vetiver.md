@@ -14,7 +14,7 @@ related: ["cedar", "patchouli", "sandalwood"]
 
 # Vetiver (岩兰草 / Yan Lan Cao)
 
-**Direct answer:** Vetiver — *yánláncǎo* (岩兰草) in Chinese — is a tropical grass whose roots yield a deep, earthy, woody, slightly smoky essential oil, used primarily as a base note in perfumery and incense.
+**Definition:** Vetiver — *yánláncǎo* (岩兰草) in Chinese — is a tropical grass whose roots yield a deep, earthy, woody, slightly smoky essential oil, used primarily as a base note in perfumery and incense.
 
 ## Key facts
 

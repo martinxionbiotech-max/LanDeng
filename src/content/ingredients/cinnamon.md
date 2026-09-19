@@ -14,7 +14,7 @@ related: ["clove", "orange-peel"]
 
 # Cinnamon (桂皮 / Gui Pi)
 
-**Direct answer:** In Chinese tradition, "cinnamon" most often means **Chinese cassia** — the bark of *Cinnamomum cassia* (桂皮, *guìpí*), a tree native to southern China. It has a warm, spicy, sweet aroma and is used as a spice, in incense, and in traditional materia medica.
+**Data summary:** In Chinese tradition, "cinnamon" most often means **Chinese cassia** — the bark of *Cinnamomum cassia* (桂皮, *guìpí*), a tree native to southern China. It has a warm, spicy, sweet aroma and is used as a spice, in incense, and in traditional materia medica.
 
 ## Key facts
 

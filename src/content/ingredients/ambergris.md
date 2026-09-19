@@ -14,7 +14,7 @@ related: ["sandalwood", "agarwood"]
 
 # Ambergris (龙涎香 / Long Xian Xiang)
 
-**Direct answer:** Ambergris — *lóngxiánxiāng* (龙涎香, "dragon-spittle fragrance") in Chinese — is a waxy secretion produced in the digestive system of the sperm whale (*Physeter macrocephalus*). It is prized as a **fixative** in perfumery and traditional incense, with a marine, sweet, earthy scent. Unlike most incense ingredients, it is **animal-derived, not botanical**.
+**Key takeaway:** Ambergris — *lóngxiánxiāng* (龙涎香, "dragon-spittle fragrance") in Chinese — is a waxy secretion produced in the digestive system of the sperm whale (*Physeter macrocephalus*). It is prized as a **fixative** in perfumery and traditional incense, with a marine, sweet, earthy scent. Unlike most incense ingredients, it is **animal-derived, not botanical**.
 
 ## Key facts
 

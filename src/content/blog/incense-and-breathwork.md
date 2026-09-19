@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Incense pairs naturally with breathwork as a **focus object** — the rising smoke and the scent give the attention something steady to rest on while you breathe slowly. It is a practice aid, not a treatment.
+**Definition:** Incense pairs naturally with breathwork as a **focus object** — the rising smoke and the scent give the attention something steady to rest on while you breathe slowly. It is a practice aid, not a treatment.
 
 **Key facts:** This page makes **no health or medical claims** about breathing. The honest framing is that a scent or a visual (the smoke) can anchor attention during a breathing exercise.
 
@@ -95,7 +95,7 @@ A: The two are closely related and the scents overlap, but the object of attenti
 
 ---
 
-## People Also Ask / 长尾问答
+## More Questions Answered
 
 ### Q: What scent is best for breathwork?
 A soft, low-key scent that does not compete for attention. Sandalwood and cedar are good choices — warm, steady, and quiet — while frankincense works if you want something slightly brighter. Avoid sharp spices like clove and heavy, sweet florals, which pull attention rather than settle it. The format matters as much as the scent: prefer a low-smoke option such as a thin coreless stick or an electric-heated resin so the air stays clear while you breathe. The point is a steady cue, not a strong smell. See [yoga & breathwork](/blog/yoga-breathwork/) for the practice-room setup.

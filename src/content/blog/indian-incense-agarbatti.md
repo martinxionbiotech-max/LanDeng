@@ -12,7 +12,7 @@ author: "\"LanDeng Editorial Team\""
 ---
 
 
-**Direct answer:** Indian incense — *agarbatti* (from Sanskrit *agarvarti*, "agar smoke") — is a bamboo-core stick carrying a fragrant paste, burned for bold, expressive, often smoky scent. It splits into two very different products: **masala** agarbatti (hand-rolled from real botanicals) and **charcoal/dipped** agarbatti (a perfume-dipped core). Knowing which is which is the key to understanding what you are buying.
+**Data summary:** Indian incense — *agarbatti* (from Sanskrit *agarvarti*, "agar smoke") — is a bamboo-core stick carrying a fragrant paste, burned for bold, expressive, often smoky scent. It splits into two very different products: **masala** agarbatti (hand-rolled from real botanicals) and **charcoal/dipped** agarbatti (a perfume-dipped core). Knowing which is which is the key to understanding what you are buying.
 
 **Key facts:** The name *agarbatti* traces to agarwood, but most modern Indian sticks are built on sandalwood and florals. Masala sticks use real ingredients; dipped sticks use perfume oils. Dhoop is the related coreless, thicker form.
 
