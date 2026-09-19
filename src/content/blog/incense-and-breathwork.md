@@ -1,6 +1,6 @@
 ---
 slug: "incense-and-breathwork"
-title: "Incense and Breathwork: Using Scent as a Focus for the Breath"
+title: "Incense and Breathwork: Scent as a Focus"
 primary_keyword: "incense breathwork"
 search_intent: "informational"
 pillar: "P12 — Culture & Mindfulness"

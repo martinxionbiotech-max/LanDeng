@@ -195,3 +195,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `How Incense Is Made: From Wood and Resin to Stick and Coil` (58 chars) → rendered 68
   - after:  `How Incense Is Made: From Wood to Stick` (39 chars) → rendered 49
 
+- `src/content/blog/how-to-burn-incense-safely.md`
+  - before: `How to Burn Incense Safely: Holders, Placement, and Extinguishing` (65 chars) → rendered 75
+  - after:  `How to Burn Incense Safely: Holders & Placement` (47 chars) → rendered 57
+
+- `src/content/blog/incense-and-breathwork.md`
+  - before: `Incense and Breathwork: Using Scent as a Focus for the Breath` (61 chars) → rendered 71
+  - after:  `Incense and Breathwork: Scent as a Focus` (40 chars) → rendered 50
+
+- `src/content/blog/incense-authentication-database.md`
+  - before: `Incense Authentication: How to Spot Fake Agarwood, Sandalwood, and Resin` (72 chars) → rendered 82
+  - after:  `Incense Authentication: Fake Agarwood & Resin` (45 chars) → rendered 55
+

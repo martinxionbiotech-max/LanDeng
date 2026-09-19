@@ -1,6 +1,6 @@
 ---
 slug: "how-to-burn-incense-safely"
-title: "How to Burn Incense Safely: Holders, Placement, and Extinguishing"
+title: "How to Burn Incense Safely: Holders & Placement"
 primary_keyword: "how to burn incense safely"
 search_intent: "informational"
 pillar: "P6 — Care & Safety"
