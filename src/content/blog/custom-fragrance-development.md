@@ -110,6 +110,7 @@ A development is finished when you could hand the formula and reference sample t
 - No health or medical claims are made.
 
 ---
+See [Incense for Business: A Buyer's Guide to Wholesale, OEM, and Private Label](/blog/incense-for-business/) for the full guide.
 
 ## FAQ
 

@@ -101,6 +101,7 @@ Before you accept a bulk shipment, verify against this checklist — on a sample
 - No health or medical claims are made.
 
 ---
+See [Incense for Business: A Buyer's Guide to Wholesale, OEM, and Private Label](/blog/incense-for-business/) for the full guide.
 
 ## FAQ
 

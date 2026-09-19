@@ -98,6 +98,7 @@ See the [wholesale guide](/blog/wholesale-guide/) for the pre-shipment inspectio
 - No health or medical claims are made.
 
 ---
+See [Incense for Business: A Buyer's Guide to Wholesale, OEM, and Private Label](/blog/incense-for-business/) for the full guide.
 
 ## FAQ
 

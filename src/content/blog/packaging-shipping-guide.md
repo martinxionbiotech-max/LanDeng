@@ -107,6 +107,7 @@ For U.S. imports, the authoritative tariff schedule is the **Harmonized Tariff S
 - No health or medical claims are made.
 
 ---
+See [Incense for Business: A Buyer's Guide to Wholesale, OEM, and Private Label](/blog/incense-for-business/) for the full guide.
 
 ## FAQ
 
