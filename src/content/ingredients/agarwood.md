@@ -14,7 +14,6 @@ related: ["sandalwood", "frankincense"]
 
 <img src="/images/agarwood-raw-material-800x533.webp" alt="Dark resin-veined agarwood pieces arranged on warm rice paper." width="800" height="533" loading="lazy">
 
-
 **Data summary:** Agarwood — *chenxiang* (沉香, "sinking fragrance") in Chinese — is the resin-impregnated heartwood of *Aquilaria* trees, formed when the tree responds to wounding or fungal infection by saturating its wood with aromatic resin. It is one of the most prized aromatic woods in Chinese incense, perfume, and traditional practice. The name comes from the fact that the most resin-dense pieces sink in water.
 
 ## Key facts
@@ -99,21 +98,39 @@ Both are premium aromatic woods, but they form differently and smell different:
 
 **How do I burn agarwood?** The refined traditional method is indirect heat (隔火焚香): the material is rested above charcoal buried in ash on a plate, so it releases aroma without an open flame. This gentle warming avoids the charred note of direct burning and lets the complex scent develop in stages. Chips can also be warmed on an electric incense heater, which gives steadier temperature control. For high-grade material, avoid flame; ordinary material benefits from gentle, gradual heat rather than burning.
 
----
-
-## People Also Ask (Long-Tail)
-
-**What does agarwood smell like?** Agarwood has a deep, sweet, resinous scent over a woody base that develops in stages as it warms. In Chinese practice this is described as 头香 (top note), 本香 (body), and 尾香 (dry-down). High-grade material is aromatic even unheated; ordinary material needs gentle heat to release its aroma. The exact character varies by species, origin, and grade, but the defining notes are woody, resinous, and sweet rather than floral or sharp.
-
 **Is agarwood the same as oud?** Largely yes. "Oud" (also written oudh) is the Arabic name for the same resin-impregnated *Aquilaria* wood called 沉香 (chénxiāng) in Chinese and jinkō or kyara in Japanese. They are one material family under different regional names. There are minor differences in grading vocabulary — for example, the top grade is called 奇楠 in Chinese and kyara in Japanese — but the underlying material is the same resin-saturated heartwood.
 
 **What does "sinking-grade" (沉水) agarwood mean?** "Sinking-grade" refers to the classic Chinese density test. The most resin-saturated pieces are dense enough to sink in water, which is why the name 沉香 means "sinking fragrance." This water test sorts material into grades: 沉水 (sinks), 半沉半浮 (half-sinks), and floating, with sinking pieces carrying the most resin and the highest value. It is a density guide, not a proof of authenticity — sophisticated fakes can be made to sink, so it should be combined with other checks.
 
-**Can agarwood be farmed?** Yes. Because wild agarwood is depleted, much modern supply is cultivated *Aquilaria* that is deliberately wounded — by drilling, fungal inoculation, or other methods — to trigger resin formation. Cultivated agarwood is legitimate and increasingly common, but it is generally lower-grade than old wild material because the resin has had less time to accumulate. Buyers should expect cultivated material to be more affordable and less aromatic than aged wild stock.
-
-**How should I store agarwood?** Store agarwood cool, dry, and airtight, away from direct light. Resin-saturated wood keeps well, but heat can make it lose volatile aromatics, humidity can encourage deterioration, and strong ambient odors can contaminate the scent. A sealed container in a stable, dark place is best. Because the material is precious, keep pieces separated by grade so cheaper material does not share fragrance with high-grade stock. Proper storage preserves both aroma and value.
-
 See also: the [agarwood incense guide](/blog/agarwood-incense/) and the full [scent guide](/blog/scent-guide/).
+
+## Evidence & Sources
+
+### Botanical identity
+**Source:** [Aquilaria sinensis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506) · [Aquilaria malaccensis on GBIF](https://www.gbif.org/species/5524063) · [Aquilaria malaccensis in the CITES species checklist](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Aquilaria%20malaccensis). **Evidence type:** Established.
+
+### Traditional Chinese use
+**Source:** this page records agarwood as traditionally described for "moving qi and relieving pain" (行气止痛) and warming the middle (温中). **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
+
+### Commercial grading
+**Source:** the "sinking" water test (沉水 / 半沉半浮 / floating) and the 奇楠 (qínán) five color grades (白/绿/紫/黄/黑) are market terminology. **Evidence type:** Trade terminology.
+
+### Authenticity / adulteration
+**Source:** documented fakes (dyed white wood, foreign woods, oil-injected material) and practical checks (burn test, gentle heat, water test). **Evidence type:** Practical screening.
+
+### Safety
+**Source:** incense combustion produces smoke and particulate matter; burn in a well-ventilated space. **Evidence type:** Established.
+
+## Evidence status
+
+| Layer | Status |
+|---|---|
+| Botanical identity | Established |
+| Traditional use | Historically documented |
+| Commercial grading | Trade terminology |
+| Authenticity test | Practical screening |
+| Laboratory confirmation | Requires analytical testing |
+| Health claims | Not established |
 
 ## Sources
 

@@ -14,7 +14,6 @@ related: ["sandalwood", "agarwood"]
 
 <img src="/images/ambergris-raw-material-800x533.webp" alt="Aged waxy ambergris lumps resting on a small stone dish." width="800" height="533" loading="lazy">
 
-
 **Key takeaway:** Ambergris — *lóngxiánxiāng* (龙涎香, "dragon-spittle fragrance") in Chinese — is a waxy secretion produced in the digestive system of the sperm whale (*Physeter macrocephalus*). It is prized as a **fixative** in perfumery and traditional incense, with a marine, sweet, earthy scent. Unlike most incense ingredients, it is **animal-derived, not botanical**.
 
 ## Key facts
@@ -62,17 +61,38 @@ Incense combustion produces smoke and particulate matter; burn in a well-ventila
 
 **What does ambergris smell like?** Fresh ambergris has a marine, slightly animalic — even fecal — character. As it ages and oxidizes, exposed to air and seawater, it develops the prized sweet, earthy, waxy-amber scent that made it a legendary perfumery fixative. The value lies less in a loud single note than in its ability to anchor and extend other aromas, adding warmth and depth to a blend. The aged, oxidized material is considered far superior to the fresh secretion.
 
----
-
-## People Also Ask (Long-Tail)
-
-**What is ambergris used for?** Ambergris is used primarily as a fixative in perfumery and traditional incense. A fixative slows the evaporation of lighter, more volatile aroma compounds, so a fragrance lasts longer and smells more rounded. Ambergris does this exceptionally well, which is why it has been prized for centuries despite its rarity. In Chinese tradition, 龙涎香 also appears in materia medica and classical incense as a rare, precious ingredient, though those uses are treated as traditional rather than established clinical fact.
-
 **What is the synthetic substitute for ambergris?** The main synthetic substitutes are ambroxide (also called ambroxan) and ambreine, compounds that reproduce ambergris's fixative and warm amber character without any animal source. These synthetics are inexpensive, consistent, and legal to trade, which is why they dominate modern perfumery and incense. They are widely described as "ambergris" or "amber" notes. Chemically they are related to ambrein, the key odor-bearing compound in natural ambergris, but they are produced in the laboratory rather than harvested from whales.
 
 **Why is ambergris so expensive?** Natural ambergris is expensive because it is rare and difficult to obtain. Only a small fraction of sperm whales produce it, and the material is usually found washed ashore or floating at sea rather than harvested deliberately, making supply unpredictable. Trade is restricted because the sperm whale is CITES-listed. Scarcity, combined with the fixative's unmatched ability to extend a fragrance, drives the price. Genuine aged ambergris can command very high prices, while synthetic substitutes are inexpensive.
 
 See also: [sandalwood](/ingredients/sandalwood/), [agarwood](/ingredients/agarwood/), and the full [scent guide](/blog/scent-guide/).
+
+## Evidence & Sources
+
+### Botanical identity
+**Source:** [Physeter macrocephalus (sperm whale) on GBIF](https://www.gbif.org/species/8123917) · [Physeter macrocephalus in the CITES species checklist](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Physeter%20macrocephalus) — ambergris is an animal secretion, not botanical. **Evidence type:** Established.
+
+### Traditional Chinese use
+**Source:** [本草綱目 (Bencao Gangmu) full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目) and this page's record that 龙涎香 appears in classical Chinese incense and materia medica as a rare, precious fixative. **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
+
+### Commercial grading
+**Source:** the natural-vs-synthetic market note (ambroxide / ambreine) and the sperm whale's CITES trade listing. **Evidence type:** Trade terminology.
+
+### Authenticity / adulteration
+**Source:** most "ambergris" on the market today is synthetic, not the natural secretion — a sourcing point, not a health claim. **Evidence type:** Practical screening.
+
+### Safety
+**Source:** incense combustion produces smoke and particulate matter; burn in a well-ventilated space. **Evidence type:** Established.
+
+## Evidence status
+
+| Layer | Status |
+|---|---|
+| Botanical identity | Established |
+| Traditional use | Historically documented |
+| Commercial grading | Trade terminology |
+| Authenticity test | Practical screening |
+| Health claims | Not established |
 
 ## Sources
 

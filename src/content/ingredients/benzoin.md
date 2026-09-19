@@ -14,7 +14,6 @@ related: ["frankincense", "myrrh"]
 
 <img src="/images/benzoin-raw-material-800x533.webp" alt="Amber-brown benzoin resin lumps in a ceramic dish." width="800" height="533" loading="lazy">
 
-
 **Technical answer:** Benzoin — *ānxīxiāng* (安息香) in Chinese — is a balsamic resin from *Styrax* trees, prized for a sweet, vanilla-like, balsamic aroma. It is a common ingredient in incense (including church and Chinese incense) and a perfumery fixative.
 
 ## Key facts
@@ -73,21 +72,39 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **What is benzoin used for in incense?** Benzoin is used mainly as a sweet base and a fixative in incense. Its warm, vanilla-like, balsamic scent rounds out a blend, softening sharper notes, while its fixative properties help lighter, more volatile aromas persist longer. It is a staple of church incense, where it is often blended with frankincense and myrrh, and it appears in Chinese 合香 as a sweet base, in Japanese and Indian incense as a sweetener, and in the Arabic bakhoor tradition.
 
----
-
-## People Also Ask (Long-Tail)
-
-**What does benzoin smell like?** Benzoin has a sweet, warm, vanilla-like scent with a balsamic depth and a slightly powdery, woody undertone. It sits at the soft, comforting end of the resin family — never sharp or astringent — which is why it is usually a base or supporting note rather than the star of a blend. The character differs by origin: Siam benzoin reads as the classic smooth vanilla note, while Sumatra benzoin is a touch spicier and more resinous.
-
-**What is benzoin used for in incense?** Benzoin serves two roles in incense: a sweet base note and a fixative. Its vanilla-balsamic sweetness rounds out and softens a blend, while its fixative quality helps the lighter notes persist longer on the skin or in the air. It appears across traditions — in church incense (with frankincense and myrrh), in Chinese 合香 as 安息香, in Japanese and Indian incense as a sweetener, and in the Arabic bakhoor tradition where prepared wood chips are fragranced. It is almost always blended rather than burned alone.
-
 **Is Siam benzoin different from Sumatra benzoin?** Yes. Siam benzoin (*Styrax tonkinensis*) is the classic, reference vanilla-balsamic resin: sweet, smooth, and powdery, used widely in fragrance and flavoring. Sumatra benzoin (*Styrax benzoin* or *S. paralleloneurus*) is a touch spicier and more resinous, and it contains cinnamic acid in addition to benzoic acid. The difference matters mainly to perfumers and buyers who want a specific profile — Siam for the classic vanilla note, Sumatra for the spicier edge. For general incense use either works; the label should say which you are getting.
-
-**Is benzoin a wood?** No — benzoin is a balsamic resin, not wood. It is collected from the bark of *Styrax* trees, which are tapped by cutting incisions; the tree exudes a resin that hardens into tears or blocks over time, and these are scraped off. The resin is classed as "balsamic" because it contains benzoic and cinnamic acids alongside the resin itself, which accounts for its vanilla-sweet aroma and fixative power. The wood of the tree is not the aromatic part — the resin is.
 
 **How do you burn benzoin resin?** Benzoin is burned like other resins, either on a lit charcoal disc or, more gently, on an electric incense heater. For the charcoal method, place the disc on a heatproof surface in sand or ash, light it, and add a small amount of resin once it glows. An electric heater avoids charcoal smoke and lets the resin warm slowly, releasing its vanilla-sweet aroma more cleanly. Benzoin is usually blended with frankincense or myrrh rather than burned alone, and only a small amount is needed.
 
 See also: [frankincense](/ingredients/frankincense/) and [myrrh](/ingredients/myrrh/), its resin relatives, plus the full [scent guide](/blog/scent-guide/).
+
+## Evidence & Sources
+
+### Botanical identity
+**Source:** [Styrax in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017762) · [Styrax on GBIF](https://www.gbif.org/species/5371676). **Evidence type:** Established.
+
+### Traditional Chinese use
+**Source:** this page records 安息香 as a sweet base in 合香 (blended incense), with the name glossed as "the fragrance of Parthia (安息)." **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
+
+### Commercial grading
+**Source:** the Siam (*Styrax tonkinensis*) vs Sumatra (*S. benzoin* / *S. paralleloneurus*) distinction and their benzoic/cinnamic acid profiles. **Evidence type:** Trade terminology.
+
+### Authenticity / adulteration
+**Source:** the "benzoin the resin" vs "benzoin the compound" naming disambiguation. **Evidence type:** Practical screening.
+
+### Safety
+**Source:** incense combustion produces smoke and particulate matter; benzoin resin is a fragrance/fixative material, not a food or medicine. **Evidence type:** Established.
+
+## Evidence status
+
+| Layer | Status |
+|---|---|
+| Botanical identity | Established |
+| Traditional use | Historically documented |
+| Commercial grading | Trade terminology |
+| Authenticity test | Practical screening |
+| Laboratory confirmation | Requires analytical testing |
+| Health claims | Not established |
 
 ## Sources
 

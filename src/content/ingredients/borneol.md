@@ -14,7 +14,6 @@ related: ["sweetgum", "pine-resin"]
 
 <img src="/images/borneol-raw-material-800x533.webp" alt="Translucent white borneol crystals in a dark ceramic dish." width="800" height="533" loading="lazy">
 
-
 **At a glance:** Borneol — *lóngnǎo* (龙脑, literally "dragon brain") in Chinese — is a crystalline monoterpene with a sharp, camphoraceous, cooling aroma. It is the classic "cooling" note in Chinese incense and materia medica, and one of the materials most prone to source confusion, because "borneol" on a label can be a natural tree-resin crystal, a leaf-distilled crystal, or a fully synthetic compound.
 
 ## Key facts
@@ -61,10 +60,6 @@ Incense combustion produces smoke and particulate matter; burn in a well-ventila
 
 **What is the difference between 龙脑 and 冰片?** 龙脑 (lóngnǎo) is the broader name for borneol as an aromatic material, literally "dragon brain." 冰片 (bīngpiàn) most often refers to the refined crystalline form, though the two terms overlap in practice. Both names cover natural and synthetic sources: natural d-borneol from *Dryobalanops aromatica* resin or camphor-tree leaves, l-borneol (艾片) from *Blumea balsamifera*, and synthetic borneol made from turpentine or camphor. Because the name does not specify the source, buyers should check which form they are getting.
 
----
-
-## People Also Ask (Long-Tail)
-
 **What does borneol smell like?** Borneol has a sharp, camphor-like, cooling scent, often described as minty or slightly medicinal. It is a bright, penetrating top note that cuts through heavier woods and resins, adding clarity to a blend. Alongside the aroma, borneol imparts a distinct cooling sensation — it activates the same TRPM8 cold receptor as menthol, though more weakly. This combination of a piercing scent and a cooling feel is what makes borneol the classic "cooling" note in Chinese incense and materia medica.
 
 **Is borneol natural?** It can be. Natural d-borneol is crystallized from the resin of *Dryobalanops aromatica*, a dipterocarp tree, or distilled from camphor-tree (*Cinnamomum camphora*) leaves — the traditional 龙脑冰片. L-borneol, called 艾片, is distilled from the leaves of *Blumea balsamifera*. However, much commercial borneol is synthetic, manufactured from turpentine or camphor and often a mixture of isomers. Natural and synthetic forms differ in isomer composition, purity, and price, so a label that says only "borneol" does not tell you which you are buying.
@@ -72,6 +67,30 @@ Incense combustion produces smoke and particulate matter; burn in a well-ventila
 **Why does borneol feel cooling?** Borneol activates the TRPM8 receptor, the same cold-sensing mechanism behind menthol's cooling sensation, though borneol's effect is weaker. This receptor responds to cooling temperatures and to certain compounds, producing a sensation of cold without an actual drop in temperature. That receptor effect is well documented and explains why borneol feels "cooling" or "minty." It is a sensory fact about how the compound interacts with the body, not a health claim about treating any condition.
 
 See also: [sweetgum](/ingredients/sweetgum/), [pine resin](/ingredients/pine-resin/), and the full [scent guide](/blog/scent-guide/).
+
+## Evidence & Sources
+
+### Botanical identity
+**Source:** [Blumea balsamifera in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023545) · [Dryobalanops aromatica on GBIF](https://www.gbif.org/species/3189690). **Evidence type:** Established.
+
+### Traditional Chinese use
+**Source:** this page records 冰片 in traditional Chinese medicine, described for a cooling sensation and as a "carrier." **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
+
+### Authenticity / adulteration
+**Source:** the source problem — "borneol" on a label can be natural d-borneol, leaf-distilled l-borneol (艾片), or synthetic borneol. **Evidence type:** Practical screening.
+
+### Safety
+**Source:** incense combustion produces smoke and particulate matter; borneol is potent and not for consumption. **Evidence type:** Established.
+
+## Evidence status
+
+| Layer | Status |
+|---|---|
+| Botanical identity | Established |
+| Traditional use | Historically documented |
+| Authenticity test | Practical screening |
+| Laboratory confirmation | Requires analytical testing |
+| Health claims | Not established |
 
 ## Sources
 
