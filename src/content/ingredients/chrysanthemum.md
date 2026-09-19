@@ -1,5 +1,5 @@
 ---
-title: "Chrysanthemum (Ju Hua) — The Herbal-Floral Flower of Tea"
+title: "Chrysanthemum (菊花) — Herbal Floral"
 entity: chrysanthemum
 chinese: 菊花
 pinyin: júhuā

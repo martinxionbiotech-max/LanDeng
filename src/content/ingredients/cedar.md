@@ -1,5 +1,5 @@
 ---
-title: "Cedar (Xue Song) — A Woody Note With a Naming Problem"
+title: "Cedar (雪松) — Woody Note"
 entity: cedar
 chinese: 雪松
 pinyin: xuěsōng

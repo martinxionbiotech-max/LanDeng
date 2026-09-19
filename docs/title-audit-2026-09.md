@@ -27,3 +27,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Calamus (Chang Pu) — The Spicy Aromatic Rhizome (With a Safety Caveat)` (70 chars) → rendered 92
   - after:  `Calamus (菖蒲) — Spicy Rhizome` (28 chars) → rendered 50
 
+- `src/content/ingredients/cedar.md`
+  - before: `Cedar (Xue Song) — A Woody Note With a Naming Problem` (53 chars) → rendered 75
+  - after:  `Cedar (雪松) — Woody Note` (23 chars) → rendered 45
+
+- `src/content/ingredients/chrysanthemum.md`
+  - before: `Chrysanthemum (Ju Hua) — The Herbal-Floral Flower of Tea` (56 chars) → rendered 78
+  - after:  `Chrysanthemum (菊花) — Herbal Floral` (34 chars) → rendered 56
+
+- `src/content/ingredients/cinnamon.md`
+  - before: `Cinnamon (Gui Pi) — Chinese Cassia, and the 'Cinnamon vs Cassia' Distinction` (76 chars) → rendered 98
+  - after:  `Cinnamon (桂皮) — Cassia Distinction` (34 chars) → rendered 56
+

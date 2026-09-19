@@ -1,5 +1,5 @@
 ---
-title: "Cinnamon (Gui Pi) — Chinese Cassia, and the 'Cinnamon vs Cassia' Distinction"
+title: "Cinnamon (桂皮) — Cassia Distinction"
 entity: cinnamon
 chinese: 桂皮
 pinyin: guìpí
