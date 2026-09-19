@@ -99,6 +99,55 @@ The "listen, don't smell" mindset and the rikkoku gomi vocabulary turn fragrance
 
 ---
 
+## The Two Schools: Oie-ryū and Shino-ryū
+
+Kōdō survives today in two main schools, descended from the Edo-period formalization:
+
+- **Oie-ryū (御家流)** — the "aristocratic" lineage, associated with the court and the Sanjōnishi family tradition. Its forms are considered refined and restrained, emphasizing etiquette and the classical dimension.
+- **Shino-ryū (志野流)** — the "warrior" (samurai) lineage, associated with the Shino family. Its forms are considered more austere and practical, reflecting a martial household's discipline.
+
+The split is a reminder that kōdō, like tea ceremony, is a *practice with lineages* — not a single standardized hobby. Each school codified its own procedures, which is one reason the art can feel opaque to an outsider: the "right way" is defined within a lineage, not by a universal rulebook.
+
+## The Tools of Kōdō (香道具)
+
+The preparation of the flameless heat is a ritual in itself, using a small kit of specialized tools (香道具, kōdōgu):
+
+- **Ash (灰)** — a bed of fine ash in the censer, in which the charcoal is buried.
+- **Charcoal (炭)** — a small piece, lit and buried in the ash so only gentle radiant heat reaches the surface.
+- **Ash press (灰押)** — shapes and compacts the ash into a tidy cone.
+- **Mica plate (銀葉/雲母板)** — the thin plate laid over the ash; the fragrant wood rests on it.
+- **Chopsticks/tweezers (火箸/香筯)** — for handling the charcoal and the wood.
+
+The point of the tools is control: the practitioner manages exactly how much heat reaches the wood, so the aroma releases slowly and with almost no smoke. This is the physical basis of the "scent, not smoke" aesthetic.
+
+## Monkō and the "Listening" Mindset
+
+The core verb of kōdō is 聞 (kiku, "to listen/hear"), not 嗅 (kagu, "to smell"). Monkō (聞香) — "listening to incense" — is the practice of attending to a fragrance with the focused attention one gives to music.
+
+This is not mere metaphor. "Listening" implies sustained, attentive reception rather than a quick sniff for identification. The kōdō practitioner is not asking "what is this?" and moving on; they are attending to how the aroma opens, holds, and fades. It turns fragrance into an object of contemplation — which is exactly what separates kōdō from household air-freshening, even though both involve a pleasant smell.
+
+## Kumikō and Genjikō: Incense as Game
+
+Kōdō is unusual among the classical arts for turning appreciation into structured games:
+
+- **Kumikō (組香)** — "incense-comparing" games, where participants are given several fragrant woods and must distinguish them according to set rules.
+- **Genjikō (源氏香)** — the most famous kumikō, based on *The Tale of Genji*. Five woods are burned in sequence, and players record which ones they judge to be the same or different; the possible answer patterns — fifty-two in all — are each named after a chapter of the Genji.
+
+The games make kōdō a social and intellectual practice, not a solitary one: you are testing discrimination and memory against a codified answer key. This is why kōdō has a vocabulary and a literature of its own, and why it survived as a codified art rather than dissolving into a hobby.
+
+## Kōdō vs Chinese 香道: Where They Part Ways
+
+The two traditions share a name (香道) and an origin, but they developed in different directions:
+
+| Dimension | Chinese 香道 | Japanese kōdō |
+|---|---|---|
+| Center of gravity | Materials and blends (合香) | A single precious wood (jinkō) |
+| Method | Heating and burning; many forms | Almost flameless heating (monkō) |
+| Vocabulary | 隔火焚香, 合香, 香谱 | monkō, kumikō, rikkoku gomi |
+| Character | Warm, layered, compositional | Minimalist, meditative, codified |
+
+China is the historical source; Japan systematized and conserved a specific, refined slice of it. Neither "invented" the art in a vacuum. See the [history of Chinese incense](/blog/history-of-chinese-incense/) for the fuller timeline.
+
 ## Common Mistakes
 
 1. **Assuming kōdō is the origin of incense appreciation.** It is a Japanese *formalization* of a Chinese tradition (Song 隔火焚香).
@@ -129,27 +178,29 @@ The "listen, don't smell" mindset and the rikkoku gomi vocabulary turn fragrance
 ## FAQ
 
 ### Q: Is kōdō the same as Chinese 香道?
-They share the name 香道 and a common origin, but they developed differently. Chinese incense culture is the historical source; Japanese kōdō is a later, formalized art built on the Song 隔火焚香 technique. See [what Chinese incense is](/blog/what-is-chinese-incense/).
+They share the name 香道 and a common origin, but they developed differently. Chinese incense culture is the historical source, documented centuries before kōdō existed as a named practice; Japanese kōdō is a later, formalized art built on the Song-dynasty 隔火焚香 technique. In character, Chinese 香道 is warmer and more compositional, centered on materials and blended 合香 formulas; kōdō is minimalist and codified, centered on a single precious wood appreciated through ritual and games. The honest statement is that China provided the source and technique, and Japan systematized and conserved a refined slice of it. See [what Chinese incense is](/blog/what-is-chinese-incense/).
 
 ### Q: What does "listening to incense" mean?
-Kōdō uses the verb 聞 (kiku, "listen") rather than 嗅 (smell). Monkō means attending to a fragrance with focused attention — appreciating it as you would a piece of music.
+Kōdō uses the verb 聞 (kiku, "listen/hear") rather than 嗅 (kagu, "smell"). Monkō means attending to a fragrance with focused, sustained attention — appreciating it as you would a piece of music — rather than taking a quick sniff to identify it and moving on. The mindset is contemplative: the practitioner follows how the aroma opens, holds, and fades. This distinction is subtle but defining, because it turns fragrance appreciation from a household habit into a discipline, and it is why kōdō is described as "listening" rather than merely smelling.
 
 ### Q: What is rikkoku gomi?
-"Six countries, five tastes" — the traditional kōdō classification of agarwood into six named types (kyara, rakoku, manaka, manaban, sasora, sumotara) and five taste qualities (sweet, spicy, sour, salty, bitter).
+"Six countries, five tastes" — the traditional kōdō classification of agarwood into six named types (kyara, rakoku, manaka, manaban, sasora, sumotara) and five taste qualities (sweet, spicy, sour, salty, bitter). It is the foundation of how kōdō practitioners describe and compare aromatic woods. The "countries" are traditional labels encoding historical trade routes and origins, not verified modern geography, and the precise mapping is debated among sources. Treat rikkoku gomi as a classical descriptive framework — useful for comparing aroma character — rather than a modern provenance system, much like the Chinese 奇楠 color grades are traditional rather than settled taxonomy.
 
 ### Q: Why is kōdō less common than tea ceremony?
-Primarily cost and scarcity. Premium agarwood is expensive and limited, and the practice requires specialized tools and training.
+Primarily cost and scarcity. Premium agarwood (jinkō, and especially the top grade kyara) is expensive and limited, so the central material of kōdō is a scarce luxury, unlike tea leaves. The practice also requires specialized tools — ash, charcoal, a mica plate, an ash press — and formal training within a lineage, which raises the barrier to entry. Tea ceremony, by contrast, uses a more affordable and abundant material and has been more widely popularized. Kōdō survives as a minority, specialized art precisely because its material and its codification both sit at the expensive, formal end.
 
 ### Q: What's the difference between kyara and ordinary agarwood?
-Kyara (伽羅) is the top grade, cognate with Chinese 奇楠 — the "oil-wraps-wood" agarwood that is soft, pliable, and aromatic at room temperature. See the [agarwood guide](/blog/agarwood-incense/).
+Kyara (伽罗) is the top grade, cognate with Chinese 奇楠 — the "oil-wraps-wood" agarwood whose fiber is so thoroughly resin-transformed that the material is soft, pliable, and aromatic at room temperature. Ordinary agarwood (jinkō 沈香) is "wood-wraps-oil": harder wood with resin veins. Kyara sits at the top of the rikkoku gomi classification and commands the highest prices; the same material is called 奇楠 in Chinese, and the term carries the same ambiguity about its ultimate origin. See the [agarwood guide](/blog/agarwood-incense/) for the full distinction.
 
 ---
 
 ## Sources
 
+- 周嘉胄《香乘》(Ming) — 隔火焚香 technique and the Chinese source tradition. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
+- 洪芻《香谱》(Song) — the Song-dynasty incense canon behind 隔火焚香. [Full text on Wikisource](https://zh.wikisource.org/wiki/香譜).
+- 吴自牧《梦粱录》 — the Four Leisure Arts frame (incense among the refined pastimes). [Full text on Wikisource](https://zh.wikisource.org/wiki/夢粱錄).
 - Koju / Nippon Kodo — official kōdō culture pages (history, schools, monkō/kumikō/genjikō, rikkoku gomi).
 - Wikipedia — *Kōdō* (history, etymology, major houses).
-- Kyarazen, Dr. Incense, IncenseMaking — rikkoku gomi classification detail.
 - Research synthesis: docs/research/chinese-incense-pillar-notes.md (R-003) — Chinese-origin correction.
 
 ---
