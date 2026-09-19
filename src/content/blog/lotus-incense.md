@@ -1,6 +1,6 @@
 ---
 slug: "lotus-incense"
-title: "Lotus Incense (莲花): The Floral Note of Purity and Lift"
+title: "Lotus Incense (莲花): Purity and Lift"
 primary_keyword: "lotus incense"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

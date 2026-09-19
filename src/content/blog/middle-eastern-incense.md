@@ -1,6 +1,6 @@
 ---
 slug: "middle-eastern-incense"
-title: "Middle Eastern Incense (Bakhoor & Oud): Wood Chips, Resin, and Hospitality"
+title: "Middle Eastern Incense (Bakhoor & Oud)"
 primary_keyword: "middle eastern incense bakhoor oud"
 search_intent: "informational"
 pillar: "P8 — Regional Incense Traditions"

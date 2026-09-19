@@ -315,3 +315,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Lavender Incense: A Western Scent in the Modern Incense Lineup` (62 chars) → rendered 72
   - after:  `Lavender Incense: A Western Scent` (33 chars) → rendered 43
 
+- `src/content/blog/lotus-incense.md`
+  - before: `Lotus Incense (莲花): The Floral Note of Purity and Lift` (54 chars) → rendered 64
+  - after:  `Lotus Incense (莲花): Purity and Lift` (35 chars) → rendered 45
+
+- `src/content/blog/makko-natural-binders.md`
+  - before: `Makko & Natural Binders: The Wood Powder That Holds Incense Together` (68 chars) → rendered 78
+  - after:  `Makko & Natural Binders: The Binding Wood Powder` (48 chars) → rendered 58
+
+- `src/content/blog/middle-eastern-incense.md`
+  - before: `Middle Eastern Incense (Bakhoor & Oud): Wood Chips, Resin, and Hospitality` (74 chars) → rendered 84
+  - after:  `Middle Eastern Incense (Bakhoor & Oud)` (38 chars) → rendered 48
+
