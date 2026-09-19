@@ -85,6 +85,7 @@ Read the label with this map in mind, and a lot of the mystery in incense buying
 - No health or medical claims are made.
 
 ---
+See [How Aromatherapy Works: Smell, Memory, and the Honest Science](/blog/how-aromatherapy-works/) for the full guide.
 
 ## FAQ
 

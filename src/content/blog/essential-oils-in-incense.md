@@ -111,6 +111,7 @@ LanDeng describes fragrance as an **aromatic and ambiance experience**, never as
 - No therapeutic claim is made. "Aromatherapy" is used only in the wellness/ambiance sense.
 
 ---
+See [How Aromatherapy Works: Smell, Memory, and the Honest Science](/blog/how-aromatherapy-works/) for the full guide.
 
 ## FAQ
 
