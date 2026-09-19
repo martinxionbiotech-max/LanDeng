@@ -57,7 +57,7 @@ Sandalwood (檀香) is a staple material in Chinese incense alongside agarwood (
 
 ## Quality & authenticity (buyer intelligence)
 
-- **Real sandalwood powder is expensive.** Genuine sandalwood powder can cost on the order of ~$2/gram in craft supply; very cheap "sandalwood" sticks are almost always synthetic fragrance oil, not wood.
+- **Real sandalwood powder is expensive — but price alone proves nothing.** Prices vary substantially by species, origin, heartwood content, grade, purity and market channel, so a low retail price cannot by itself establish authenticity. Very cheap "sandalwood" sticks are almost always synthetic fragrance oil, not wood.
 - **Oil ≠ wood.** Sticks made with sandalwood oil smell distinctly different from those made with the actual wood; the wood gives the "buttery" note.
 - **Species matters.** *S. album* is the reference standard; substitutes (Australian, New Caledonian) are legitimate but different in aroma and price.
 
