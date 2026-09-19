@@ -83,6 +83,7 @@ The ratio shows the court blend's structure: the two agarwood grades together fo
 - Attribution is flagged as traditional; no therapeutic claim is made.
 
 ---
+See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
 
 ## FAQ
 

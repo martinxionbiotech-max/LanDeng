@@ -87,6 +87,7 @@ Note the economy: **ten pears and a full 两 of agarwood, against a single 钱 o
 - The attribution is flagged as traditional; no therapeutic claim is made.
 
 ---
+See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
 
 ## FAQ
 

@@ -86,6 +86,7 @@ These are **traditional buyer heuristics**, accumulated in the Chinese agarwood 
 - No health or medical claims are made.
 
 ---
+See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
 
 ## FAQ
 

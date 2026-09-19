@@ -85,6 +85,7 @@ This is why 梅花香 has so many versions: each is a different *construction* o
 - Attribution and version-variation are flagged; no therapeutic claim is made.
 
 ---
+See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
 
 ## FAQ
 

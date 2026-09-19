@@ -95,6 +95,7 @@ For the full framework, see [the 合香 blending system](/blog/hexiang-blending-
 - These are cultural-historical records, not therapeutic formulas — no recipe here makes a health claim.
 
 ---
+See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
 
 ## FAQ
 

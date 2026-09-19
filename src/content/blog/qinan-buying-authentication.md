@@ -68,6 +68,7 @@ The reliable route is not a single trick — it is a **seller you can hold accou
 - The fake methods (煮油/高压灌油/泡药水) and detection heuristics are drawn from Chinese specialist sources, presented as traditional buyer heuristics.
 
 ---
+See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
 
 ## FAQ
 

@@ -71,6 +71,7 @@ This stands in contrast to the 香谱/香乘 recipes in this cluster, which do r
 - The contemporary-vs-ancient distinction is flagged explicitly; no therapeutic claim is made.
 
 ---
+See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
 
 ## FAQ
 

@@ -103,6 +103,7 @@ This is the cleanest lesson in the 佐 (assistant) role: the assistant is rarely
 - The Su Shi attribution is flagged as legend; no therapeutic claim is made.
 
 ---
+See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
 
 ## FAQ
 

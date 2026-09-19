@@ -117,6 +117,7 @@ So the honest guidance is: choose natural materials if you care about what you a
 - No health or therapeutic claim is made. The smoke/particulate guidance is a combustion-safety fact, not a medical claim.
 
 ---
+See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
 
 ## FAQ
 

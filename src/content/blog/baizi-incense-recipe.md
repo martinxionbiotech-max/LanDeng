@@ -73,6 +73,7 @@ The contrast — 花蕊夫人's opulent court blend on one side, a scholar's cyp
 - The Su Shi line ("铜炉烧柏子") is a well-attested literary reference; no therapeutic claim is made.
 
 ---
+See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
 
 ## FAQ
 

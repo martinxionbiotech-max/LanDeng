@@ -67,6 +67,7 @@ Here the lotus is real material, not an accord — but this is a **contemporary*
 - No therapeutic claim is made.
 
 ---
+See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
 
 ## FAQ
 
