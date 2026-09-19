@@ -1,6 +1,6 @@
 ---
 slug: "citrus-incense"
-title: "Citrus Incense (柑橘): The Bright, Energizing Top Note"
+title: "Citrus Incense (柑橘): A Bright Top Note"
 primary_keyword: "citrus incense"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

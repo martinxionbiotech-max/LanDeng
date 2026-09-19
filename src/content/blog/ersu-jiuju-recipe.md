@@ -1,6 +1,6 @@
 ---
 slug: "ersu-jiuju-recipe"
-title: "二苏旧局 (The Two Sus' Old Gathering): A Modern Revival Recipe"
+title: "二苏旧局 (The Two Sus' Gathering): A Revival Recipe"
 primary_keyword: "er su jiu ju incense recipe"
 search_intent: "informational"
 pillar: "P9 — Chinese Incense Recipes (香方)"

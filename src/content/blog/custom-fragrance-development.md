@@ -1,6 +1,6 @@
 ---
 slug: "custom-fragrance-development"
-title: "Custom Fragrance Development: From Brief to Incense Production Sample"
+title: "Custom Fragrance Development: Brief to Sample"
 primary_keyword: "custom incense fragrance development"
 search_intent: "commercial_investigation"
 pillar: "Commercial — B2B Buying & Supply"

@@ -135,3 +135,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Chinese Incense vs Essential Oils vs Candles: What's the Difference?` (68 chars) → rendered 78
   - after:  `Chinese Incense vs Essential Oils vs Candles` (44 chars) → rendered 54
 
+- `src/content/blog/citrus-incense.md`
+  - before: `Citrus Incense (柑橘): The Bright, Energizing Top Note` (52 chars) → rendered 62
+  - after:  `Citrus Incense (柑橘): A Bright Top Note` (38 chars) → rendered 48
+
+- `src/content/blog/custom-fragrance-development.md`
+  - before: `Custom Fragrance Development: From Brief to Incense Production Sample` (69 chars) → rendered 79
+  - after:  `Custom Fragrance Development: Brief to Sample` (45 chars) → rendered 55
+
+- `src/content/blog/ersu-jiuju-recipe.md`
+  - before: `二苏旧局 (The Two Sus' Old Gathering): A Modern Revival Recipe` (58 chars) → rendered 68
+  - after:  `二苏旧局 (The Two Sus' Gathering): A Revival Recipe` (47 chars) → rendered 57
+
