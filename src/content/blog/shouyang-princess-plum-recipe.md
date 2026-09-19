@@ -1,6 +1,6 @@
 ---
 slug: "shouyang-princess-plum-recipe"
-title: "寿阳公主梅花香 (Shouyang Princess's Plum Incense): Recipe"
+title: "寿阳公主梅花香 (Shouyang Princess's Plum Incense)"
 primary_keyword: "shouyang gongzhu meihua xiang recipe"
 search_intent: "informational"
 pillar: "P9 — Chinese Incense Recipes (香方)"

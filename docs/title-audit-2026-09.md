@@ -363,3 +363,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Incense by Intention: Choosing a Scent for Your Purpose` (55 chars) → rendered 65
   - after:  `Incense by Intention: Scent for Your Purpose` (44 chars) → rendered 54
 
+- `src/content/blog/scent-guide.md`
+  - before: `The Complete Incense Scent Guide: Choosing a Scent by Atmosphere` (64 chars) → rendered 74
+  - after:  `Incense Scent Guide: Choosing by Atmosphere` (43 chars) → rendered 53
+
+- `src/content/blog/scent-wheel.md`
+  - before: `The Incense Scent Wheel: Atmosphere → Scent → Scenario` (54 chars) → rendered 64
+  - after:  `The Incense Scent Wheel: Atmosphere to Scenario` (47 chars) → rendered 57
+
+- `src/content/blog/shouyang-princess-plum-recipe.md`
+  - before: `寿阳公主梅花香 (Shouyang Princess's Plum Incense): Recipe` (50 chars) → rendered 60
+  - after:  `寿阳公主梅花香 (Shouyang Princess's Plum Incense)` (42 chars) → rendered 52
+
