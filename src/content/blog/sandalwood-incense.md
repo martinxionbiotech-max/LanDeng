@@ -78,6 +78,49 @@ Because true *Santalum album* is scarce and comparatively expensive, substitutio
 
 ---
 
+## Where Sandalwood Comes From and How It Grows
+
+Sandalwood is the heartwood of trees in the genus *Santalum* (family Santalaceae), which are hemiparasitic — they tap the roots of neighboring host plants for some nutrients. The aromatic value concentrates in the heartwood, which develops its scent only as the tree matures, over decades. This is why mature trees are the valuable ones, and why fast, plantation-grown wood can differ from old, wild-grown wood.
+
+The historical benchmark is *Santalum album*, the "white" or "Indian" sandalwood, long associated with the Mysore region of southern India. Its substitutes — Australian (*S. spicatum*), New Caledonian (*S. austrocaledonicum*), and Hawaiian (*S. paniculatum*) — are related but distinct in aroma. The [Flora of China Santalaceae entry](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=10791) places the family botanically; the commercial names do not always map cleanly to species.
+
+## Why It Smells the Way It Does: Santalols
+
+Sandalwood's creamy, sweet-woody character comes mainly from sesquiterpene alcohols called **santalols** (chiefly α-santalol and β-santalol), concentrated in the mature heartwood. These compounds are responsible for the "buttery" smoothness that distinguishes good material from flat substitutes. This is a chemistry observation, not a therapeutic claim — the presence of santalols describes what the wood smells like, not what it does to a body.
+
+Different *Santalum* species carry different santalol profiles, which is one reason Australian sandalwood smells related but not identical to Indian sandalwood, and why a synthetic "sandalwood" fragrance, while it may approximate the note, does not reproduce the full, slow-developing character of the wood.
+
+## Sandalwood in Chinese Ritual and Culture
+
+檀香 (tánxiāng) is deeply embedded in Chinese religious and cultural practice. It is burned in Buddhist and Taoist temples, used in ritual offerings, carved into beads and small devotional objects, and long recorded in materia medica as an aromatic material — the 本草纲目 lists 檀香 among the fragrant woods. In incense practice it is both a solo material and a workhorse base in 合香 blends, its warm, rounded character supporting stronger scents without competing with them.
+
+This ritual history is real and documented; what it is not is a license for health claims. The temple use of sandalwood is cultural, not medical.
+
+## Conservation and the Mysore Story
+
+*Santalum album* is the cautionary tale of the incense trade. Wild Indian sandalwood was harvested so heavily through the 20th century that the species is widely regarded as depleted in the wild, and India's production moved toward heavily regulated plantation cultivation — the famous "Mysore" sandalwood is now largely a controlled, licensed product. This scarcity is exactly why substitutes (Australian sandalwood, and synthetic fragrance) fill so much of the market.
+
+The practical consequence: "Mysore" or "Indian sandalwood" on a label should be read carefully. It can mean genuine, licensed *S. album*, or it can be a prestige word attached to something else. Provenance, not the name, is what matters.
+
+## Forms of Sandalwood Incense
+
+Sandalwood reaches the user in a few forms, and they are not interchangeable:
+
+- **Heartwood powder** — the ground wood itself; the "real" material, with a slow, developing, cooked aroma when burned or heated.
+- **Sticks** — blended powder around a bamboo core (or coreless), the everyday form; quality depends on whether the powder is real wood or a fragrance base.
+- **Essential oil** — steam-distilled from the heartwood; bright, immediate notes, used in diffusers or to scent sticks.
+- **Synthetic "sandalwood"** — a manufactured fragrance approximating the note; common in cheap sticks, not the wood.
+
+The powder and the oil are different products (see below). A stick made from wood is not the same thing as a stick scented with oil, and neither is the same as a synthetic.
+
+## Buying Sandalwood: Species and Material Checks
+
+1. **Name the species.** *Santalum album*, *S. spicatum*, or another — if the label will not say, assume the cheapest and price accordingly.
+2. **Wood or oil?** Sandalwood powder (heartwood) and sandalwood essential oil are different products with different aromas and prices.
+3. **Check for "sandalwood" fragrance.** Cheap sticks are often charcoal plus synthetic "sandalwood" fragrance oil, not wood.
+4. **Price as a signal.** True sandalwood powder is comparatively expensive; a very cheap "sandalwood" stick is almost certainly fragrance.
+5. **Ask about source.** Legitimate substitutes (Australian sandalwood) are fine; ambiguity about which species is the red flag.
+
 ## Common Mistakes
 
 1. **Assuming "sandalwood" = one guaranteed species.** It can be *S. album*, another species, or a synthetic.
@@ -110,39 +153,41 @@ Because true *Santalum album* is scarce and comparatively expensive, substitutio
 ## FAQ
 
 ### Q: What is the difference between sandalwood and agarwood?
-Both are precious aromatic woods, but different materials: sandalwood is *Santalum* heartwood with a creamy, sweet-woody scent; agarwood is resin-impregnated *Aquilaria* wood with a deeper, resinous character. See the [agarwood guide](/blog/agarwood-incense/).
+Both are precious aromatic woods, but they are different trees, different families, and different aromas. Sandalwood is *Santalum* heartwood with a creamy, sweet-woody scent, smooth and approachable. Agarwood is resin-impregnated *Aquilaria* wood with a deeper, resinous, layered character that develops in stages as it warms. Agarwood is generally the more precious and more heavily faked of the two, with a whole grading system (沉水, 奇楠) built around resin density; sandalwood's main risk is species substitution. They are not rivals — they are often used together, sandalwood as the warm base and agarwood as the deep center. See the [agarwood guide](/blog/agarwood-incense/).
 
 ### Q: Is all "sandalwood" the same?
-No. The classic is *Santalum album*; Australian, New Caledonian, and Hawaiian species are common substitutes, and some "sandalwood" products are synthetic fragrance.
+No. The classic is *Santalum album* (Indian or white sandalwood); Australian (*S. spicatum*), New Caledonian (*S. austrocaledonicum*), and Hawaiian (*S. paniculatum*) species are common substitutes with related but distinct aromas, and some "sandalwood" products are synthetic fragrance with no *Santalum* wood at all. The word on a label is a claim, not a guarantee. The two questions that sort it out are always: which species, and is it wood or fragrance oil? A label that will not name the species is itself information.
 
 ### Q: Does sandalwood incense help you sleep or reduce anxiety?
-LanDeng makes no medical claims. It is traditionally associated with calming, and many people use it in a wind-down routine, but it is not a treatment.
+LanDeng makes no medical claims. Sandalwood is traditionally associated with calming, and many people use its warm, familiar scent as part of a wind-down routine, but that is an ambiance and ritual practice, not a treatment for insomnia, anxiety, or any condition. Much of the "relaxation" and "anti-anxiety" language attached to sandalwood online is traditional belief or unverified claim, not established clinical evidence. A fragrance can be a pleasant part of an evening routine; it is not a substitute for medical care, and any product claiming to cure or clinically treat should be read with skepticism.
 
 ### Q: How can I tell real sandalwood from synthetic?
-Confirm the species with the seller, check whether the product is wood/wood-powder versus fragrance oil, and treat a very low price as a signal of fragrance rather than wood.
+Confirm the species with the seller, check whether the product is wood or wood-powder versus fragrance oil, and treat a very low price as a signal of fragrance rather than wood. Real sandalwood powder is comparatively expensive, so a cheap "sandalwood" stick is almost certainly a synthetic or fragrance-oil base. Genuine heartwood has a slow, developing, cooked aroma when heated; a synthetic gives a flat, uniform, "perfumey" note. The species name and the material (wood vs. oil vs. synthetic) are the two questions that do most of the work. See [natural vs synthetic](/blog/natural-vs-synthetic-incense/).
 
 ---
 
 ## People Also Ask / 长尾问答
 
 ### Q: What does sandalwood incense smell like?
-Creamy, sweet, and soft-woody — the best material has a distinctly "buttery" smoothness. It is warmer and rounder than a sharp wood note, which is why it works both alone and as a base in blends.
+Creamy, sweet, and soft-woody — the best material has a distinctly "buttery" smoothness. It is warmer and rounder than a sharp wood note, which is why it works both alone and as a base in blends. The character comes from santalol compounds concentrated in the mature heartwood, and it develops slowly on heat rather than hitting all at once. Different *Santalum* species vary: Indian (*S. album*) is the creamiest benchmark, while Australian and New Caledonian sandalwood are woodier and less sweet. A synthetic "sandalwood" approximates the note but reads flatter and more uniform.
 
 ### Q: How long does a sandalwood incense stick burn?
-The same range as other sticks — roughly 20–60 minutes depending on length and thickness, with short Japanese coreless sticks ~25–30 minutes and thicker bamboo-core sticks ~45–60 minutes. The scent lingers after the stick goes out.
+The same range as other sticks — roughly 20–60 minutes depending on length and thickness, with short Japanese-style coreless sticks around 25–30 minutes and thicker bamboo-core sticks around 45–60 minutes. These are typical ranges, not fixed figures; the exact time depends on the specific stick. The scent also lingers after the stick goes out, so a short stick can still leave a room scented for a while. For precise burn times, check the product's stated figure where it is given, and treat general ranges as an order-of-magnitude guide.
 
 ### Q: What is the difference between sandalwood oil and sandalwood powder?
-Oil is the concentrated steam-distilled volatile extract; powder is the ground heartwood itself. Oil gives the bright, immediate notes; wood gives the slower, deeper "cooked" aroma. A stick scented with oil is not the same product as one made from the wood. See [essential oils in incense](/blog/essential-oils-in-incense/).
+Oil is the concentrated steam-distilled volatile extract; powder is the ground heartwood itself. Oil gives the bright, immediate notes and is used in diffusers or to scent products; wood powder gives the slower, deeper "cooked" aroma when burned or heated. A stick scented with oil is not the same product as one made from the wood — the two have different aromas, prices, and uses. Both are legitimate, but they are different materials, and the label should make clear which one you are getting. See [essential oils in incense](/blog/essential-oils-in-incense/).
 
 ### Q: Why is real sandalwood so expensive?
-*Santalum album* is a slow-growing hemiparasitic tree whose heartwood takes decades to develop aroma, and wild stands have been heavily depleted. Scarcity plus demand drives the price — which is why cheap "sandalwood" sticks are almost always synthetic fragrance.
+*Santalum album* is a slow-growing hemiparasitic tree whose heartwood takes decades to develop its santalol-rich aroma, and wild stands were harvested so heavily that the species is widely regarded as depleted in the wild, with production now largely regulated plantation cultivation. Scarcity plus demand drives the price. This is precisely why cheap "sandalwood" sticks are almost always synthetic fragrance — genuine heartwood powder is comparatively expensive, and the gap between the two is where the misleading labeling happens.
 
 ### Q: Is sandalwood incense safe for pets?
-All incense produces smoke and particulate matter, and animals can be more sensitive to airborne irritants than people. Burn in a ventilated space, keep it away from pets, and watch for any sign of discomfort. This is general safety guidance, not a claim about any specific condition.
+All incense produces smoke and particulate matter, and animals can be more sensitive to airborne irritants than people. Burn in a ventilated space, keep incense and its smoke away from pets, and watch for any sign of discomfort. This is general safety guidance, not a claim about any specific condition or species — if you have a pet with respiratory issues, or specific concerns, ask a veterinarian rather than relying on fragrance-product claims. The same ventilation guidance applies whether the sandalwood is real or a synthetic base.
 
 ## Sources
 
-- Botanical references for *Santalum album* and substitute species (Santalaceae).
+- Flora of China — [Santalaceae family entry](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=10791) (botanical identity of *Santalum*).
+- 本草纲目 — historical materia-medica record for 檀香 (traditional, not clinical). [Full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目).
+- 周嘉胄《香乘》(Ming) — sandalwood in classical incense. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
 - Enthusiast and DTC review sources documenting the oil-vs-wood distinction and price signals (identified in research).
 - Research synthesis: docs/research/sandalwood-tanxiang-notes.md (R-002).
 

@@ -125,6 +125,42 @@ To read 合香 like a formula, ask four questions of any recipe: *what carries i
 
 ---
 
+## Where the 君臣佐使 Idea Comes From
+
+The 君臣佐使 structure is not an incense invention — it comes from Chinese herbal compounding (中药组方). In herbal medicine, a formula is organized so that a chief (君) herb addresses the main condition, a minister (臣) reinforces it, an assistant (佐) balances or corrects it, and a guide (使) directs it or harmonizes the whole. This structure is documented in the foundational materia-medica tradition, including the 本草纲目's formulation logic.
+
+Incense borrowed the framework because incense and medicine shared a worldview: both are compositions where individual ingredients are chosen for their *role in a whole*, not their isolated effect. This is why classical incense recipes read like formulas — they are structured, not haphazard, and the structure is the craft.
+
+## The Materials a 合香 Draws On
+
+A 合香 blend pulls from the same families as the wider incense tradition, each with a typical role:
+
+| Family | Examples | Typical role in a blend |
+|---|---|---|
+| Woods | agarwood 沉香, sandalwood 檀香 | Chief or minister — the long, stable burn and deep base |
+| Resins | frankincense 乳香, myrrh 没药, benzoin 安息香 | Assistant — brightness or sweet depth; also a fixative |
+| Spices | clove 丁香, cassia 桂皮, fennel 茴香 | Assistant or guide — warmth and lift |
+| Herbs/roots | spikenard 甘松, angelica 白芷, cyperus 香附子 | Minister or assistant — herbal middle tones |
+| Florals/fruits | jasmine 茉莉, plum 白梅, pear 鹅梨 | Assistant — the signature top note or accord |
+| Binders/fixatives | honey 蜂蜜, makko 抹香, musk 麝香, 甲香 operculum | Guide — binds the powder and fixes the scent |
+
+The point of the table is not completeness but the pattern: the chief is almost always a wood, and the binder is almost never a scent. The materials are chosen for function first, fragrance second.
+
+## 单方 vs 复方: Single-Material vs Compound
+
+Chinese incense has two poles, and 合香 is only one of them:
+
+- **单方 (dān fāng, "single formula")** — a single material appreciated alone: a piece of agarwood, a stick of pure sandalwood. The art here is in the material's own quality.
+- **复方 (fù fāng, "compound formula")** — 合香 proper: multiple materials composed into a structured blend.
+
+The two are not rivals; they are different disciplines. Single-material appreciation is about grading and heating technique (隔火焚香); 合香 is about composition. The same tradition holds both, which is why "Chinese incense" cannot be reduced to a single smell or a single skill.
+
+## Historical Weights and Proportions
+
+Classical 合香 recipes state quantities in historical Chinese units — chiefly the 两 (liǎng), its tenth the 钱 (qián), and its hundredth the 分 (fēn), with some recipes also counting pieces (枚) or "portions" (份). The gram value of a 两 varied by dynasty — on the order of 30–40 g in later dynasties, commonly cited around 37 g for the Song–Ming era — so the *ratios* between ingredients are the reliable part, not the exact gram weights.
+
+This is why a recipe like 江南李主帐中香 reads "one 两 agarwood, one 钱 sandalwood, ten pears": the useful fact is the 10:1 relationship between the chief and the minister, not a precise gram count. For the individual recipes with their recorded proportions, see the [recipe library](/blog/chinese-incense-recipes/).
+
 ## The Honest Limits
 
 This page describes the **cultural and technical framework** of 合香. It makes no claim about the *effects* of any blend — a formula is a composition, not a treatment.
@@ -156,21 +192,24 @@ This page describes the **cultural and technical framework** of 合香. It makes
 ## FAQ
 
 ### Q: What is 合香 (hé xiāng)?
-A: "Compound incense" — the classical Chinese practice of blending multiple ingredients into a structured formula, rather than burning a single material.
+"Compound incense" — the classical Chinese practice of blending multiple ingredients into a structured formula, rather than burning a single material. Each ingredient is assigned a role (chief, minister, assistant, guide), and the result is a composition, not a random mix of smells. It is the opposite pole from single-material incense (单方), where a lone piece of agarwood or sandalwood is appreciated for its own quality. 合香 is why the classical manuals read as recipe books — the art is in the structure of the blend, not any one ingredient's scent.
 
 ### Q: What is 君臣佐使?
-A: The chief–minister–assistant–guide principle — the same compositional structure as a Chinese herbal formula — by which a 合香 blend is organized.
+The chief–minister–assistant–guide principle, the same compositional structure as a Chinese herbal formula, by which a 合香 blend is organized. The chief (君) carries the leading scent, almost always a wood; the minister (臣) supports and rounds it; the assistant (佐) harmonizes, balances, or adds the signature character; and the guide (使) binds or directs the blend, often as a fixative or a processing step rather than a scented ingredient. Understanding these four roles is the fastest way to read any classical recipe.
 
 ### Q: Why is Chinese incense a "blend" rather than a single scent?
-A: Because the tradition is a formula art (合香): each ingredient plays a role in a structured composition, not just a scent of its own.
+Because the tradition is a formula art (合香): each ingredient plays a role in a structured composition, not just a scent of its own. The chief carries the base, the minister rounds it, the assistant gives it a signature note, and the guide binds it — the same logic as Chinese herbal compounding. This is why "Chinese incense" has no single signature smell, why the classical canon is full of recipes rather than ingredient lists, and why asking "what does it smell like" often has the answer "which formula?" Single-material appreciation (单方) exists alongside it, but the distinctive Chinese method is composition.
 
 ### Q: Is 合香 connected to Chinese medicine?
-A: It shares the same 君臣佐使 compositional logic as Chinese herbal compounding — a structural parallel, not a claim that incense is medicine.
+It shares the same 君臣佐使 compositional logic as Chinese herbal compounding — a structural parallel, not a claim that incense is medicine. The framework came from herbal formulation, and incense and medicine shared a worldview where ingredients are chosen for their role in a whole. But the parallel is methodological, not therapeutic: a 合香 formula is a composition for fragrance, and this project makes no claim that any blend treats or prevents any condition. See the safety note in [what Chinese incense is](/blog/what-is-chinese-incense/).
 
 ---
 
 ## Sources
 
+- 周嘉胄《香乘》(Ming) — 合香 recipes and the 君臣佐使 compounding principle. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
+- 洪芻《香谱》(Song) — the canonical incense manual. [Full text on Wikisource](https://zh.wikisource.org/wiki/香譜).
+- 本草纲目 — the formulation logic behind 君臣佐使 (herbal compounding). [Full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目).
 - 香谱 manuals (陈氏香谱, 洪芻香谱, 香乘) — 合香 and the 君臣佐使 compounding principle.
 - Research synthesis: docs/research/chinese-incense-pillar-notes.md (R-003).
 
