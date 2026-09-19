@@ -387,3 +387,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `What Is Chinese Incense? A Plain Guide to 香 (Xiāng)` (51 chars) → rendered 61
   - after:  `What Is Chinese Incense? 香 (Xiāng)` (34 chars) → rendered 44
 
+- `src/content/blog/what-makes-incense-natural.md`
+  - before: `What Makes Incense "Natural"? Binders, Bases, and the Label Problem` (67 chars) → rendered 77
+  - after:  `What Makes Incense "Natural"? The Label Problem` (47 chars) → rendered 57
+
+- `src/content/blog/which-incense-format.md`
+  - before: `Which Incense Format Is Right for You? Sticks, Cones, Coils, Powder & Beads` (75 chars) → rendered 85
+  - after:  `Which Incense Format Is Right for You?` (38 chars) → rendered 48
+
+- `src/content/blog/wholesale-guide.md`
+  - before: `Wholesale Incense Buying Guide: How to Vet a Supplier and Buy in Bulk` (69 chars) → rendered 79
+  - after:  `Wholesale Incense Buying Guide: Vet a Supplier` (46 chars) → rendered 56
+
