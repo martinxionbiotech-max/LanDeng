@@ -3,7 +3,7 @@ slug: "xuezhong-chunxin-recipe"
 title: "雪中春信 (Snow in Spring): The Recipe and Its Cool 'Snow' Note"
 primary_keyword: "xue zhong chun xin recipe"
 search_intent: "informational"
-pillar: "P9 — Incense Craft & Recipes"
+pillar: "P9 — Chinese Incense Recipes (香方)"
 content_type: "recipe"
 cluster_role: "recipe"
 last_reviewed: "2026-09-11"
@@ -103,7 +103,7 @@ This is the cleanest lesson in the 佐 (assistant) role: the assistant is rarely
 - The Su Shi attribution is flagged as legend; no therapeutic claim is made.
 
 ---
-See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
+See [Chinese Incense Recipes (香方): Translated from the Classical Manuals](/blog/chinese-incense-recipes/) for the full guide.
 
 ## FAQ
 

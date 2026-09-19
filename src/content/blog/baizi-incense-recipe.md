@@ -3,7 +3,7 @@ slug: "baizi-incense-recipe"
 title: "柏子香 (Cypress-Seed Incense): The Humble Scholar's Incense"
 primary_keyword: "baizi xiang cypress seed incense recipe"
 search_intent: "informational"
-pillar: "P9 — Incense Craft & Recipes"
+pillar: "P9 — Chinese Incense Recipes (香方)"
 content_type: "recipe"
 cluster_role: "recipe"
 last_reviewed: "2026-09-11"
@@ -73,7 +73,7 @@ The contrast — 花蕊夫人's opulent court blend on one side, a scholar's cyp
 - The Su Shi line ("铜炉烧柏子") is a well-attested literary reference; no therapeutic claim is made.
 
 ---
-See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
+See [Chinese Incense Recipes (香方): Translated from the Classical Manuals](/blog/chinese-incense-recipes/) for the full guide.
 
 ## FAQ
 

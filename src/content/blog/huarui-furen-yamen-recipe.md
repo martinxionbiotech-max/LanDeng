@@ -3,7 +3,7 @@ slug: "huarui-furen-yamen-recipe"
 title: "花蕊夫人衙香 (Huarui Furen's Court Incense): Recipe"
 primary_keyword: "huarui furen ya xiang recipe"
 search_intent: "informational"
-pillar: "P9 — Incense Craft & Recipes"
+pillar: "P9 — Chinese Incense Recipes (香方)"
 content_type: "recipe"
 cluster_role: "recipe"
 last_reviewed: "2026-09-11"
@@ -83,7 +83,7 @@ The ratio shows the court blend's structure: the two agarwood grades together fo
 - Attribution is flagged as traditional; no therapeutic claim is made.
 
 ---
-See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
+See [Chinese Incense Recipes (香方): Translated from the Classical Manuals](/blog/chinese-incense-recipes/) for the full guide.
 
 ## FAQ
 

@@ -3,7 +3,7 @@ slug: "how-incense-is-made"
 title: "How Incense Is Made: From Wood and Resin to Stick and Coil"
 primary_keyword: "how incense is made"
 search_intent: "informational"
-pillar: "P9 — Incense Craft & Recipes"
+pillar: "P10 — Incense Craft & Materials"
 content_type: "hub"
 cluster_role: "hub"
 last_reviewed: "2026-09-10"
@@ -85,21 +85,13 @@ Chinese incense is traditionally **not** a single material but a **blend** — �
 ---
 ## Cluster directory
 
-- [柏子香 (Cypress-Seed Incense): The Humble Scholar's Incense](/blog/baizi-incense-recipe/)
-- [Chinese Incense Recipes (香方): Translated from the Classical Manuals](/blog/chinese-incense-recipes/)
-- [二苏旧局 (The Two Sus' Old Gathering): A Modern Revival Recipe](/blog/ersu-jiuju-recipe/)
 - [Hand-Rolled vs Machine-Made Incense: How to Tell the Difference](/blog/hand-rolled-vs-machine-made/)
 - [The 合香 Blending System: How Chinese Incense Is Composed Like a Formula](/blog/hexiang-blending-system/)
-- [花蕊夫人衙香 (Huarui Furen's Court Incense): Recipe](/blog/huarui-furen-yamen-recipe/)
 - [Incense Authentication: How to Spot Fake Agarwood, Sandalwood, and Resin](/blog/incense-authentication-database/)
 - [Incense Ingredients Glossary: Wood, Resin, Flower, and Spice](/blog/incense-ingredients-glossary/)
-- [江南李主帐中香 (The Lord of Jiangnan's Bedchamber Incense): Recipe](/blog/jiangnan-lizhu-bedchamber-recipe/)
-- [荷香 (Lotus Incense): The Symbol Over the Flower](/blog/lotus-incense-recipe/)
 - [Makko & Natural Binders: The Wood Powder That Holds Incense Together](/blog/makko-natural-binders/)
 - [Buying 奇楠 (Qinan): What to Check Before You Pay](/blog/qinan-buying-authentication/)
-- [寿阳公主梅花香 (Shouyang Princess's Plum Incense): Recipe](/blog/shouyang-princess-plum-recipe/)
 - [What Makes Incense \"Natural\"? Binders, Bases, and the Label Problem](/blog/what-makes-incense-natural/)
-- [雪中春信 (Snow in Spring): The Recipe and Its Cool 'Snow' Note](/blog/xuezhong-chunxin-recipe/)
 
 ## FAQ
 

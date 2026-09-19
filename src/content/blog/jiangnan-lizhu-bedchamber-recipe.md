@@ -3,7 +3,7 @@ slug: "jiangnan-lizhu-bedchamber-recipe"
 title: "江南李主帐中香 (The Lord of Jiangnan's Bedchamber Incense): Recipe"
 primary_keyword: "jiangnan li zhu zhang zhong xiang recipe"
 search_intent: "informational"
-pillar: "P9 — Incense Craft & Recipes"
+pillar: "P9 — Chinese Incense Recipes (香方)"
 content_type: "recipe"
 cluster_role: "recipe"
 last_reviewed: "2026-09-11"
@@ -87,7 +87,7 @@ Note the economy: **ten pears and a full 两 of agarwood, against a single 钱 o
 - The attribution is flagged as traditional; no therapeutic claim is made.
 
 ---
-See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
+See [Chinese Incense Recipes (香方): Translated from the Classical Manuals](/blog/chinese-incense-recipes/) for the full guide.
 
 ## FAQ
 

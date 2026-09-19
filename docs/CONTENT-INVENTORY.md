@@ -27,9 +27,9 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | P6 — Care & Safety | 6 | incense-safety-guide | 7059 |
 | P7 — Incense vs Alternatives | 5 | incense-vs-candles-vs-diffusers | 7986 |
 | P8 — Regional Incense Traditions | 5 | world-incense-traditions | 8502 |
-| P9 — Incense Craft & Recipes | 16 | how-incense-is-made | 21108 |
-| P10 — Aromatherapy & Botany | 4 | how-aromatherapy-works | 5556 |
-| P11 — Culture & Mindfulness | 5 | incense-in-daily-ritual | 6813 |
+| P9 — Incense Craft & Recipes | 16 | how-incense-is-made | P10 — Incense Craft & Materials|
+| P10 — Aromatherapy & Botany | 4 | how-aromatherapy-works | P11 — Aromatherapy & Botany|
+| P11 — Culture & Mindfulness | 5 | incense-in-daily-ritual | P12 — Culture & Mindfulness|
 | Ingredient Encyclopedia | 22 | — | 25155 |
 | Chinese Incense (concept) | 1 | — | 1395 |
 

@@ -3,9 +3,9 @@ slug: "chinese-incense-recipes"
 title: "Chinese Incense Recipes (香方): Translated from the Classical Manuals"
 primary_keyword: "chinese incense recipes 香方"
 search_intent: "informational"
-pillar: "P9 — Incense Craft & Recipes"
+pillar: "P9 — Chinese Incense Recipes (香方)"
 content_type: "hub"
-cluster_role: "recipe"
+cluster_role: "hub"
 last_reviewed: "2026-09-11"
 brand: "LanDeng"
 author: "LanDeng Editorial Team"
@@ -96,6 +96,16 @@ For the full framework, see [the 合香 blending system](/blog/hexiang-blending-
 
 ---
 See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
+
+## Cluster directory
+
+- [柏子香 (Cypress-Seed Incense): The Humble Scholar's Incense](/blog/baizi-incense-recipe/)
+- [二苏旧局 (The Two Sus' Old Gathering): A Modern Revival Recipe](/blog/ersu-jiuju-recipe/)
+- [花蕊夫人衙香 (Huarui Furen's Court Incense): Recipe](/blog/huarui-furen-yamen-recipe/)
+- [江南李主帐中香 (The Lord of Jiangnan's Bedchamber Incense): Recipe](/blog/jiangnan-lizhu-bedchamber-recipe/)
+- [荷香 (Lotus Incense): The Symbol Over the Flower](/blog/lotus-incense-recipe/)
+- [寿阳公主梅花香 (Shouyang Princess's Plum Incense): Recipe](/blog/shouyang-princess-plum-recipe/)
+- [雪中春信 (Snow in Spring): The Recipe and Its Cool 'Snow' Note](/blog/xuezhong-chunxin-recipe/)
 
 ## FAQ
 

@@ -3,7 +3,7 @@ slug: "ersu-jiuju-recipe"
 title: "二苏旧局 (The Two Sus' Old Gathering): A Modern Revival Recipe"
 primary_keyword: "er su jiu ju incense recipe"
 search_intent: "informational"
-pillar: "P9 — Incense Craft & Recipes"
+pillar: "P9 — Chinese Incense Recipes (香方)"
 content_type: "recipe"
 cluster_role: "recipe"
 last_reviewed: "2026-09-11"
@@ -71,7 +71,7 @@ This stands in contrast to the 香谱/香乘 recipes in this cluster, which do r
 - The contemporary-vs-ancient distinction is flagged explicitly; no therapeutic claim is made.
 
 ---
-See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
+See [Chinese Incense Recipes (香方): Translated from the Classical Manuals](/blog/chinese-incense-recipes/) for the full guide.
 
 ## FAQ
 

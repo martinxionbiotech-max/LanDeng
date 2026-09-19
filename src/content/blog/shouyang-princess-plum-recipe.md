@@ -3,7 +3,7 @@ slug: "shouyang-princess-plum-recipe"
 title: "寿阳公主梅花香 (Shouyang Princess's Plum Incense): Recipe"
 primary_keyword: "shouyang gongzhu meihua xiang recipe"
 search_intent: "informational"
-pillar: "P9 — Incense Craft & Recipes"
+pillar: "P9 — Chinese Incense Recipes (香方)"
 content_type: "recipe"
 cluster_role: "recipe"
 last_reviewed: "2026-09-11"
@@ -85,7 +85,7 @@ This is why 梅花香 has so many versions: each is a different *construction* o
 - Attribution and version-variation are flagged; no therapeutic claim is made.
 
 ---
-See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incense-is-made/) for the full guide.
+See [Chinese Incense Recipes (香方): Translated from the Classical Manuals](/blog/chinese-incense-recipes/) for the full guide.
 
 ## FAQ
 
