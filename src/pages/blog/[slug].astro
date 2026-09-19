@@ -15,6 +15,55 @@ const { Content } = await render(post);
 
 const { title, primary_keyword, search_intent, pillar, last_reviewed } = post.data;
 
+// ---- P2: authoritative citations (reuse only verified Sources-section links) ----
+const CITATION_HOSTS = ['efloras.org', 'gbif.org', 'checklist.cites.org', 'wikisource.org', 'ctext.org'];
+
+function hostAllowed(url, hosts) {
+  try {
+    const h = new URL(url).hostname;
+    return hosts.some((host) => h === host || h.endsWith('.' + host));
+  } catch {
+    return false;
+  }
+}
+
+function extractExternalUrls(body, hosts) {
+  if (!body) return [];
+  const m = body.match(/## Sources\s*\n([\s\S]*)$/);
+  if (!m) return [];
+  const out = [];
+  const seen = new Set();
+  const re = /\[[^\]]*\]\((https?:\/\/[^\s)]+)\)/g;
+  let mm;
+  while ((mm = re.exec(m[1])) !== null) {
+    const url = mm[1].replace(/[.,;]+$/, '');
+    if (hostAllowed(url, hosts) && !seen.has(url)) {
+      seen.add(url);
+      out.push(url);
+    }
+  }
+  return out;
+}
+
+const citations = extractExternalUrls(post.body, CITATION_HOSTS);
+
+function extractImage(body) {
+  if (!body) return null;
+  const img = body.match(/<img\s+src="([^"]+)"[^>]*>/);
+  if (!img) return null;
+  const src = img[1];
+  const attr = img[0];
+  const w = attr.match(/width="(\d+)"/);
+  const h = attr.match(/height="(\d+)"/);
+  const dims = src.match(/-(\d+)x(\d+)\.\w+$/);
+  const width = w ? Number(w[1]) : dims ? Number(dims[1]) : null;
+  const height = h ? Number(h[1]) : dims ? Number(dims[2]) : null;
+  if (!src || width == null || height == null) return null;
+  return { '@type': 'ImageObject', url: src, width, height };
+}
+
+const image = extractImage(post.body);
+
 // Extract FAQ Q&A from the markdown body to emit FAQPage structured data.
 const faqMatch = (post.body || '').match(/## FAQ\s*\n([\s\S]*)$/);
 let faqJsonLd = null;
@@ -43,6 +92,8 @@ const structuredData = [
     about: primary_keyword,
     articleSection: pillar,
     dateModified: last_reviewed,
+    ...(image ? { image } : {}),
+    ...(citations.length > 0 ? { citation: citations } : {}),
     isPartOf: { '@id': `${SITE}#website` },
   },
   {
