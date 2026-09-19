@@ -175,6 +175,7 @@ China is the historical source; Japan systematized and conserved a specific, ref
 - No health or therapeutic claims are made anywhere in this article.
 
 ---
+See [World Incense Traditions: China, Japan, India, Tibet & the Middle East](/blog/world-incense-traditions/) for the full guide.
 
 ## FAQ
 
