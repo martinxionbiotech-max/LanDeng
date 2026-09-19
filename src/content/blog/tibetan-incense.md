@@ -1,6 +1,6 @@
 ---
 slug: "tibetan-incense"
-title: "Tibetan Incense (藏香): A Herbal Recipe, Not a Single Note"
+title: "Tibetan Incense (藏香): Herbal, Not a Single Note"
 primary_keyword: "tibetan incense"
 search_intent: "informational"
 pillar: "P8 — Regional Incense Traditions"

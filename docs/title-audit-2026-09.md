@@ -375,3 +375,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `寿阳公主梅花香 (Shouyang Princess's Plum Incense): Recipe` (50 chars) → rendered 60
   - after:  `寿阳公主梅花香 (Shouyang Princess's Plum Incense)` (42 chars) → rendered 52
 
+- `src/content/blog/study-deep-work.md`
+  - before: `Incense for Study & Deep Work: A Focus Cue, Not a Focus Drug` (60 chars) → rendered 70
+  - after:  `Incense for Study & Deep Work: Not a Focus Drug` (47 chars) → rendered 57
+
+- `src/content/blog/tibetan-incense.md`
+  - before: `Tibetan Incense (藏香): A Herbal Recipe, Not a Single Note` (56 chars) → rendered 66
+  - after:  `Tibetan Incense (藏香): Herbal, Not a Single Note` (47 chars) → rendered 57
+
+- `src/content/blog/what-is-chinese-incense.md`
+  - before: `What Is Chinese Incense? A Plain Guide to 香 (Xiāng)` (51 chars) → rendered 61
+  - after:  `What Is Chinese Incense? 香 (Xiāng)` (34 chars) → rendered 44
+

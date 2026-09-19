@@ -1,6 +1,6 @@
 ---
 slug: "study-deep-work"
-title: "Incense for Study & Deep Work: A Focus Cue, Not a Focus Drug"
+title: "Incense for Study & Deep Work: Not a Focus Drug"
 primary_keyword: "incense for focus"
 search_intent: "informational"
 pillar: "P3 — Use Scenarios"

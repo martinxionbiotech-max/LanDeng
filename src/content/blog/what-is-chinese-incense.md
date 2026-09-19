@@ -1,6 +1,6 @@
 ---
 slug: "what-is-chinese-incense"
-title: "What Is Chinese Incense? A Plain Guide to 香 (Xiāng)"
+title: "What Is Chinese Incense? 香 (Xiāng)"
 primary_keyword: "chinese incense"
 search_intent: "informational"
 pillar: "P1 — Chinese Incense 101"
