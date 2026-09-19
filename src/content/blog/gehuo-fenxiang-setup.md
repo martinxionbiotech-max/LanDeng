@@ -88,6 +88,7 @@ An **electric incense heater** achieves the same result — gentle, controlled h
 - No safety guidance exceeds common-sense combustion precautions (never leave hot charcoal unattended).
 
 ---
+See [Which Incense Format Is Right for You? Sticks, Cones, Coils, Powder & Beads](/blog/which-incense-format/) for the full guide.
 
 ## FAQ
 

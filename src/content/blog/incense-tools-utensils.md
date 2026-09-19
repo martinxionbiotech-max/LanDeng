@@ -73,6 +73,7 @@ Do not buy a full 香具 set as a beginner with sticks. Buy it when (and if) you
 - The tool names and the 炉瓶三事 grouping are standard cultural reference, not therapeutic claims.
 
 ---
+See [Which Incense Format Is Right for You? Sticks, Cones, Coils, Powder & Beads](/blog/which-incense-format/) for the full guide.
 
 ## FAQ
 

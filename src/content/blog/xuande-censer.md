@@ -72,6 +72,7 @@ This is the same buyer-intelligence discipline the rest of this site applies to 
 - The buying guidance is buyer-intelligence editorial, not a provenance certification.
 
 ---
+See [Which Incense Format Is Right for You? Sticks, Cones, Coils, Powder & Beads](/blog/which-incense-format/) for the full guide.
 
 ## FAQ
 

@@ -64,6 +64,7 @@ This is why the form matters — the 博山炉 is a **cosmological object**, not
 - No therapeutic claim is made.
 
 ---
+See [Which Incense Format Is Right for You? Sticks, Cones, Coils, Powder & Beads](/blog/which-incense-format/) for the full guide.
 
 ## FAQ
 

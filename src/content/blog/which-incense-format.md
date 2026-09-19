@@ -85,6 +85,20 @@ Most "sticks vs cones" content is an affiliate listicle ranking products. This h
 ---
 
 **Related data asset:** the <a href="/blog/incense-burn-time-format-matrix/">burn-time matrix</a> compares burn time across formats and sizes.
+## Cluster directory
+
+- [Aromatherapy Beads & Scented Bracelets: Worn Scent, No Smoke](/blog/aromatherapy-beads/)
+- [Backflow Incense Cones: The Waterfall-Smoke Effect, Explained](/blog/backflow-cones/)
+- [博山炉 (Boshan Censer): The Mountain Incense Burner of the Han](/blog/boshan-censer/)
+- [隔火焚香 (Indirect-Fire Incense): How to Scent a Room Without Smoke](/blog/gehuo-fenxiang-setup/)
+- [Incense Burn Time & Format Matrix: Stick, Coil, Cone, Resin, Powder](/blog/incense-burn-time-format-matrix/)
+- [Chinese Incense Burners & Tools (香炉香具): The Complete Guide](/blog/incense-burners-tools/)
+- [Incense Coils: The Hours-Long Burn, Explained](/blog/incense-coils/)
+- [Incense Powder & Resin: The Pure-Material, Smoke-Light Format](/blog/incense-powder-resin/)
+- [香篆 (Seal Incense): Powder Pressed Into Patterns, and a Clock](/blog/incense-seal-zhuanxiang/)
+- [Incense Sticks: The Everyday Format, Explained](/blog/incense-sticks/)
+- [香具 (The Incense Tool Set): Chopsticks, Spoons, and the 炉瓶三事](/blog/incense-tools-utensils/)
+- [宣德炉 (Xuande Censer): The Ming Collector's Censer](/blog/xuande-censer/)
 
 ## FAQ
 

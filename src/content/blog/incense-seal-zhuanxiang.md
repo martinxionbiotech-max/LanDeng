@@ -75,6 +75,7 @@ The skill is in steps 3–4 — filling evenly and lifting without breaking the 
 - The 香篆 technique (ash bed, mold, powder, single-end lighting) and timekeeping use are standard practice, not therapeutic claims.
 
 ---
+See [Which Incense Format Is Right for You? Sticks, Cones, Coils, Powder & Beads](/blog/which-incense-format/) for the full guide.
 
 ## FAQ
 
