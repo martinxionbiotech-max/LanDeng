@@ -122,6 +122,42 @@ The classical Chinese incense tradition (香谱) is built on **woods and resins*
 
 Most "incense scent guides" are really affiliate roundups — "best calming incense," "best focus incense" — that rank products and attach health claims. This guide does neither: it maps **aroma to atmosphere**, tells you to **check the material, not the name**, and makes **no health claims**. That is the honest version, and it is the one worth trusting.
 
+## How a Scent Develops: Top, Body, Dry-Down
+
+A good incense does not smell the same from start to finish — it unfolds. The classical Chinese vocabulary names three stages, the same structure perfumery uses:
+
+- **头香 (tóu xiāng, "head")** — the first impression as the material begins to release. Bright, volatile, and short-lived.
+- **本香 (běn xiāng, "body")** — the main, sustained character; the heart of the scent.
+- **尾香 (wěi xiāng, "tail")** — the fading, deeper residue that lingers after the burn.
+
+This is why the same material can be described two ways: what it smells like *now* (the opening) and what it smells like *overall* (the full arc). A citrus top note fades fast; a woody base lingers. When you choose a scent, you are choosing an arc, not a single snapshot — which is why "what does it smell like" is a trickier question than it looks.
+
+## The Scent Families, Expanded
+
+Beyond the headline scents, the spectrum fills out with a few families worth placing:
+
+| Family | Reference scents | Character | Where it sits |
+|---|---|---|---|
+| Bright / citrus | Citrus, 陈皮 | Fresh, clean, zesty | Top of the spectrum; fades fast |
+| Green / herbal | Mugwort, chrysanthemum | Herbal, slightly bitter | Middle; earthy and calm |
+| Floral | Lotus, jasmine, osmanthus, rose | Sweet, heady, or airy | Middle; usually an accord |
+| Earthy / woody | Cedar, vetiver, patchouli | Dry, deep, grounding | Lower; smoky and solid |
+| Resinous / balsamic | Frankincense, myrrh, benzoin | Bright-balsamic or sweet-warm | Middle-to-base; often a fixative |
+| Deep / enveloping | Agarwood, sandalwood | Resinous, sweet, complex | Base; the classical core |
+
+The two ends — bright citrus and deep agarwood — are the poles most people navigate between. The middle families (green, floral, earthy, balsamic) are the nuance. Knowing where a scent sits on this map is the fastest way to predict how it will feel in a room.
+
+## Season, Occasion, and Mood
+
+The classical tradition attached scents to seasons and occasions, and the logic still reads clearly:
+
+- **Spring** — light florals and green notes (a fresh, opening character).
+- **Summer** — cool, clean notes like camphor or borneol against heat.
+- **Autumn** — warm woods and resins (sandalwood, frankincense).
+- **Winter** — deep, enveloping agarwood and rich blends.
+
+These are associations, not rules, and they describe atmosphere rather than any measured effect. The useful version for a modern buyer is simpler: match the scent's *weight* to the moment — a light citrus for daytime focus, a warm wood for evening wind-down. Weight, not season, is what most people are actually choosing. And weight is not intensity: a light scent is not necessarily weak, and a deep scent is not necessarily loud. A subtle agarwood can fill a room with quiet presence, while a bright citrus can be soft and airy. The axis is weight, not volume.
+
 ## Common Mistakes
 
 1. **Choosing by name alone.** Confirm the actual material or accord behind the label.
@@ -150,27 +186,30 @@ Most "incense scent guides" are really affiliate roundups — "best calming ince
 ## FAQ
 
 ### Q: What is the best incense scent for focus?
-Citrus and frankincense are the classic "bright, focusing" scents. See the [citrus](/blog/citrus-incense/) and [frankincense](/blog/frankincense-incense/) guides.
+Citrus and frankincense are the classic "bright, focusing" scents — fresh, clean, and clear rather than heavy or sleepy. The logic is atmospheric, not medical: a bright top note feels alert and open, which suits study or work, whereas a deep resin feels enclosing. But "focus" is personal, so treat this as a starting point rather than a prescription. The more useful rule is to match the scent's *weight* to the task: light and fresh for daytime concentration, warm and grounding when you want to settle. See the [citrus](/blog/citrus-incense/) and [frankincense](/blog/frankincense-incense/) guides.
 
 ### Q: What is the most calming incense scent?
-Sandalwood is the classic calming, warming wood; agarwood is deeper and more enveloping. "Calming" describes aroma, not a medical effect.
+Sandalwood is the classic calming, warming wood — creamy, sweet, and smooth — while agarwood is deeper and more enveloping. "Calming" here describes aroma character and the atmosphere people associate with it, not a measured physiological effect or a medical claim. A warm, familiar scent can be a pleasant part of an evening routine, but no incense is a treatment for anxiety or insomnia. Choose by the atmosphere you want — warm and grounded (sandalwood) or deep and quiet (agarwood) — and treat any "clinically calming" claim with skepticism.
 
 ### Q: Are floral incense scents traditional Chinese?
-Mostly not. The classical canon is woods and resins; lotus and lavender are largely modern or symbolic additions. See [what Chinese incense is](/blog/what-is-chinese-incense/).
+Mostly not. The classical Chinese canon is built on woods and resins — agarwood, sandalwood, frankincense, myrrh — with flowers largely a modern or symbolic addition. Lotus carries deep cultural symbolism (purity, 出淤泥而不染), but in classical incense the "lotus" impression was usually built as an accord from woods and herbs rather than the flower, because the flower does not survive combustion. So a "lotus" or "lavender" incense today is usually a modern scent. Knowing this helps you read a product honestly: "agarwood" or "sandalwood" points at a material tradition, while a floral name often points at a modern accord. See [what Chinese incense is](/blog/what-is-chinese-incense/).
 
 ### Q: How do I know what I'm actually buying?
-Confirm the material or accord behind the label — "sandalwood," "lotus," and "lavender" can each be a real material or a fragrance accord.
+Confirm the material or accord behind the label. "Sandalwood," "lotus," and "lavender" can each be a real material or a fragrance accord, and the label alone does not tell you which. Ask two questions: which species (for woods and resins), and material versus accord (for florals and fruit notes). A natural binder (makko) suggests a material-based stick; a charcoal base suggests a fragrance stick. Price is also a signal — a very cheap "agarwood" is almost certainly not agarwood. See the [substitution cross-reference](/blog/incense-substitution-cross-reference/) for the full checklist.
 
 ### Q: What is the difference between a scent's aroma and its atmosphere?
-Aroma is what the material objectively smells like; atmosphere is the feeling people associate with it. "Calming" and "focusing" describe atmosphere — aroma character, not a measured effect.
+Aroma is what the material objectively smells like — creamy, resinous, citrus — while atmosphere is the feeling people associate with it — calm, focused, uplifting. "Calming" and "focusing" describe atmosphere, which is aroma character plus association, not a measured effect. This guide uses the atmosphere framing because that is how most people actually choose: they start from the feeling they want, then find the scent that produces it. The distinction matters because it keeps the language honest — an atmosphere is a starting point for choice, not a claim about what the scent does to a body.
 
 ### Q: How do I pick a scent if I'm new to incense?
-Start with the atmosphere you want (bright/focusing vs warm/grounding), then confirm the material behind the label. Sandalwood is the classic gentle entry point; citrus and frankincense are the bright alternatives.
+Start from the atmosphere you want — bright and focusing versus warm and grounding — then confirm the material behind the label. Sandalwood is the classic gentle entry point: approachable, warm, and easy to like. Citrus and frankincense are the bright alternatives if you want a fresh, clear lift rather than a warm calm. Once you have one scent you like, use it as a reference point: note whether you want something lighter or deeper, and move along the spectrum from there. The goal is to learn your own preference, not to memorize a list.
 
 ---
 
 ## Sources
 
+- 周嘉胄《香乘》(Ming) — the classical scent canon (woods and resins). [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
+- 洪芻《香谱》(Song) — the canonical manual. [Full text on Wikisource](https://zh.wikisource.org/wiki/香譜).
+- 本草纲目 — historical materia-medica record for the named materials (traditional, not clinical). [Full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目).
 - Editorial synthesis of established incense scent-pairing practice; descriptors are qualitative, not physiological-effect claims.
 - Botanical references for the woods/resins/florals named in the guide.
 
