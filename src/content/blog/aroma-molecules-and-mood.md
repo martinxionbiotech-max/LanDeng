@@ -1,6 +1,6 @@
 ---
 slug: "aroma-molecules-and-mood"
-title: "Aroma Molecules and Mood: What the Chemistry Does (and Doesn't) Say"
+title: "Aroma Molecules and Mood: What Chemistry Says"
 primary_keyword: "aroma molecules and mood"
 search_intent: "informational"
 pillar: "P11 — Aromatherapy & Botany"

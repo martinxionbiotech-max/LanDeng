@@ -1,6 +1,6 @@
 ---
 slug: "backflow-cones"
-title: "Backflow Incense Cones: The Waterfall-Smoke Effect, Explained"
+title: "Backflow Incense Cones: The Waterfall Effect"
 primary_keyword: "backflow incense cones"
 search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"

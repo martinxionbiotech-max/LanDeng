@@ -1,6 +1,6 @@
 ---
 slug: "aromatherapy-beads"
-title: "Aromatherapy Beads & Scented Bracelets: Worn Scent, No Smoke"
+title: "Aromatherapy Beads & Bracelets: Worn, Not Burned"
 primary_keyword: "aromatherapy beads"
 search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"

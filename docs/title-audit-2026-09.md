@@ -99,3 +99,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Agarwood Incense (沉香): The Sinking Fragrance, Grading, and How to Spot Fakes` (76 chars) → rendered 86
   - after:  `Agarwood Incense (沉香): Grading & Spotting Fakes` (47 chars) → rendered 57
 
+- `src/content/blog/aroma-molecules-and-mood.md`
+  - before: `Aroma Molecules and Mood: What the Chemistry Does (and Doesn't) Say` (67 chars) → rendered 77
+  - after:  `Aroma Molecules and Mood: What Chemistry Says` (45 chars) → rendered 55
+
+- `src/content/blog/aromatherapy-beads.md`
+  - before: `Aromatherapy Beads & Scented Bracelets: Worn Scent, No Smoke` (60 chars) → rendered 70
+  - after:  `Aromatherapy Beads & Bracelets: Worn, Not Burned` (48 chars) → rendered 58
+
+- `src/content/blog/backflow-cones.md`
+  - before: `Backflow Incense Cones: The Waterfall-Smoke Effect, Explained` (61 chars) → rendered 71
+  - after:  `Backflow Incense Cones: The Waterfall Effect` (44 chars) → rendered 54
+
