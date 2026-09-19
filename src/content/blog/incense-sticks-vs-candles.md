@@ -1,6 +1,6 @@
 ---
 slug: "incense-sticks-vs-candles"
-title: "Incense Sticks vs Candles: Flame, Smoke, and the Real Differences"
+title: "Incense Sticks vs Candles: Flame & Smoke"
 primary_keyword: "incense sticks vs candles"
 search_intent: "commercial_investigation"
 pillar: "P7 — Incense vs Alternatives"

@@ -1,6 +1,6 @@
 ---
 slug: "incense-smoke-air-quality-evidence"
-title: "Incense Smoke & Air Quality: What the Evidence Actually Says"
+title: "Incense Smoke & Air Quality: The Evidence"
 primary_keyword: "is incense bad for you incense smoke PM2.5"
 search_intent: "informational"
 pillar: "P6 — Care & Safety"

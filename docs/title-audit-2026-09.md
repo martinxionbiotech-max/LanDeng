@@ -255,3 +255,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Incense Safety Guide: Smoke, Ventilation, and Common Sense` (58 chars) → rendered 68
   - after:  `Incense Safety Guide: Smoke & Ventilation` (41 chars) → rendered 51
 
+- `src/content/blog/incense-seal-zhuanxiang.md`
+  - before: `香篆 (Seal Incense): Powder Pressed Into Patterns, and a Clock` (60 chars) → rendered 70
+  - after:  `香篆 (Seal Incense): Powder Pressed Into Patterns` (47 chars) → rendered 57
+
+- `src/content/blog/incense-smoke-air-quality-evidence.md`
+  - before: `Incense Smoke & Air Quality: What the Evidence Actually Says` (60 chars) → rendered 70
+  - after:  `Incense Smoke & Air Quality: The Evidence` (41 chars) → rendered 51
+
+- `src/content/blog/incense-sticks-vs-candles.md`
+  - before: `Incense Sticks vs Candles: Flame, Smoke, and the Real Differences` (65 chars) → rendered 75
+  - after:  `Incense Sticks vs Candles: Flame & Smoke` (40 chars) → rendered 50
+
