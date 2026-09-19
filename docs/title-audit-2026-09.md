@@ -303,3 +303,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Indian Incense (Agarbatti): Bold, Expressive, and Two Very Different Grades` (75 chars) → rendered 85
   - after:  `Indian Incense (Agarbatti): Two Different Grades` (48 chars) → rendered 58
 
+- `src/content/blog/japanese-incense-kodo.md`
+  - before: `Japanese Incense & Kōdō (香道): The Art That Came From China` (58 chars) → rendered 68
+  - after:  `Japanese Incense & Kōdō (香道): The Art From China` (48 chars) → rendered 58
+
+- `src/content/blog/jiangnan-lizhu-bedchamber-recipe.md`
+  - before: `江南李主帐中香 (The Lord of Jiangnan's Bedchamber Incense): Recipe` (59 chars) → rendered 69
+  - after:  `江南李主帐中香 (Jiangnan Lord's Bedchamber Incense)` (44 chars) → rendered 54
+
+- `src/content/blog/lavender-incense.md`
+  - before: `Lavender Incense: A Western Scent in the Modern Incense Lineup` (62 chars) → rendered 72
+  - after:  `Lavender Incense: A Western Scent` (33 chars) → rendered 43
+

@@ -1,6 +1,6 @@
 ---
 slug: "lavender-incense"
-title: "Lavender Incense: A Western Scent in the Modern Incense Lineup"
+title: "Lavender Incense: A Western Scent"
 primary_keyword: "lavender incense"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"
