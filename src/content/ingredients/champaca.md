@@ -12,6 +12,8 @@ status: draft
 related: ["jasmine", "gardenia"]
 ---
 
+<img src="/images/champaca-raw-material-800x533.webp" alt="Raw Champaca (Michelia alba (syn. Magnolia × alba)) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Champaca — *báilánhuā* (白兰花) in Chinese — is the intensely fragrant white flower of *Michelia alba* (now often placed as *Magnolia × alba*), a magnolia-family tree cultivated across southern China and Southeast Asia. It is a heady, sweet, slightly fruity white-floral, widely used to scent tea, sachets, and floral incense. The flower is also one of the defining scents of southern-Chinese fragrance culture, worn as a fresh blossom in daily life.
 
 ## Key facts

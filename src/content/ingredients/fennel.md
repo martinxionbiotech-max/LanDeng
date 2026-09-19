@@ -12,6 +12,8 @@ status: draft
 related: ["star-anise", "clove"]
 ---
 
+<img src="/images/fennel-raw-material-800x533.webp" alt="Raw Fennel (Foeniculum vulgare) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Fennel — *xiǎohuíxiāng* (小茴香) in Chinese — is the dried seed-like fruit of *Foeniculum vulgare*, a herbaceous plant of the carrot family (Apiaceae). It is best known as a sweet, anise-like culinary spice, and it appears in Chinese incense as a warm, sweet supporting note in classical 合香 (blended incense) formulas — including the famous 寿阳公主梅花香 (Shouyang princess's plum incense), where it is listed as 茴香. It is distinct from the larger, star-shaped 八角 (star anise, *Illicium verum*), which Chinese usage sometimes also calls 大茴香.
 
 ## Key facts

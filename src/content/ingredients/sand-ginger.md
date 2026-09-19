@@ -12,6 +12,8 @@ status: draft
 related: ["cardamom", "clove"]
 ---
 
+<img src="/images/sand-ginger-raw-material-800x533.webp" alt="Raw Sand Ginger (Kaempferia galanga) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Sand ginger — *shānnài* (山柰) in Chinese — is the dried, aromatic rhizome of *Kaempferia galanga*, a ginger-family herb (Zingiberaceae) of tropical Asia. It is a pungent, camphoraceous spice, best known in English as **kencur** or **aromatic ginger**, used across Southeast Asian cooking and in Chinese incense and materia medica as a warm, spicy aromatic. Despite the name, it is a distinct plant from the common ginger (生姜, *Zingiber officinale*).
 
 ## Key facts

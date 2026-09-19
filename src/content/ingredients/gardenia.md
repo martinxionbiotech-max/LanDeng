@@ -12,6 +12,8 @@ status: draft
 related: ["jasmine", "osmanthus"]
 ---
 
+<img src="/images/gardenia-raw-material-800x533.webp" alt="Raw Gardenia (Gardenia jasminoides) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Gardenia — *zhīzihuā* (栀子花) in Chinese — is the fragrant white flower of *Gardenia jasminoides*, an evergreen shrub of the coffee family (Rubiaceae) native to East Asia. The flower is intensely sweet and creamy — one of the classic white-floral scents of Chinese fragrance — and it is used in floral incense, in scenting tea, and as a fragrance reference in Chinese culture. The same plant's *fruit* (栀子, zhīzi) is a separate material used as a yellow dye and in materia medica.
 
 ## Key facts

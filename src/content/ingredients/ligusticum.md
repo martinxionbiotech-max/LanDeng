@@ -12,6 +12,8 @@ status: draft
 related: ["spikenard-nardostachys", "angelica"]
 ---
 
+<img src="/images/ligusticum-raw-material-800x533.webp" alt="Raw Ligusticum (Ligusticum sinense) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Ligusticum — *gǎoběn* (藁本) in Chinese — is the dried root and rhizome of *Ligusticum sinense*, an aromatic herb of the carrot family (Apiaceae) native to China. It is a classical Chinese incense ingredient with a herbal, slightly spicy, aromatic root character, best known in the incense record as one of the named ingredients of the 寿阳公主梅花香 (Shouyang princess's plum incense) formula, where it supplies a herbal middle tone alongside spikenard and angelica.
 
 ## Key facts

@@ -12,6 +12,8 @@ status: draft
 related: ["sandalwood", "jiangzhenxiang"]
 ---
 
+<img src="/images/red-sandalwood-raw-material-800x533.webp" alt="Raw Red Sandalwood (Pterocarpus santalinus) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Red sandalwood — *zǐtán* (紫檀) in Chinese — is the dense, deep crimson heartwood of *Pterocarpus santalinus*, a leguminous tree of southern India. It is a hard, heavy dye-and-carving wood whose dark-red pigment (santalin) has been prized for centuries, and whose finely-ground wood is used in Chinese incense as a sweet, softly spicy fragrant wood. It is **not** the same material as "sandalwood" (檀香, *Santalum album*): the two share the word "sandalwood" in loose English usage but come from unrelated plant families.
 
 ## Key facts

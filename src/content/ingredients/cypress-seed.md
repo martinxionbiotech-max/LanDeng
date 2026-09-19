@@ -12,6 +12,8 @@ status: draft
 related: ["pine-resin", "cedar"]
 ---
 
+<img src="/images/cypress-seed-raw-material-800x533.webp" alt="Raw Cypress Seed (Platycladus orientalis) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Cypress seed — *bǎizǐ* (柏子) in Chinese — is the seed of the oriental arborvitae, *Platycladus orientalis* (侧柏), a cypress-family tree native to China and Korea. It is the single humble material of 柏子香 (bǎizǐ xiāng), the classical "cypress-seed incense" — the scholar's simple, deliberately inexpensive incense, made by scalding the green seeds, soaking them in wine and honey, and drying them. It is the tradition's everyman counterpoint to costly agarwood-and-musk court blends.
 
 ## Key facts

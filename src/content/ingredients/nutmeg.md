@@ -12,6 +12,8 @@ status: draft
 related: ["clove", "cardamom"]
 ---
 
+<img src="/images/nutmeg-raw-material-800x533.webp" alt="Raw Nutmeg (Myristica fragrans) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Nutmeg — *ròudòukòu* (肉豆蔻) in Chinese — is the dried seed of *Myristica fragrans*, an evergreen tree of the nutmeg family (Myristicaceae) native to the Moluccas (Spice Islands) of Indonesia. It is a warm, spicy, sweet spice, familiar from cooking and baking, and it appears in Chinese incense as a warm spice note in some 合香 (blended incense) contexts. Its lacy red covering — *mace* — is a separate, closely related spice.
 
 ## Key facts

@@ -12,6 +12,8 @@ status: draft
 related: ["borneol", "cinnamon"]
 ---
 
+<img src="/images/camphor-raw-material-800x533.webp" alt="Raw Camphor (Cinnamomum camphora) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Camphor — *zhāngmù* (樟木) for the wood, *zhāngnǎo* (樟脑) for the crystallized aromatic — is the fragrant wood and crystalline extract of *Cinnamomum camphora*, the camphor laurel, a large evergreen tree native to southern China, Japan, and Taiwan. The wood is strongly, penetratingly aromatic with a cool, medicinal, slightly minty "camphoraceous" scent that also wards off insects. It is used in Chinese incense mainly as a fresh, cooling top note and as a traditional insect-repelling aromatic, distinct from the related but different material 龙脑 (borneol).
 
 ## Key facts

@@ -12,6 +12,8 @@ status: draft
 related: ["patchouli", "agastache-rugosa"]
 ---
 
+<img src="/images/citronella-raw-material-800x533.webp" alt="Raw Citronella (Cymbopogon citratus) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Citronella — *xiāngmáo* (香茅) in Chinese — is the fragrant leaf of *Cymbopogon citratus*, a tropical grass of the Poaceae family, better known in English as **lemongrass**. It is a bright, citrusy, lemony aromatic used across Southeast Asian cooking, and it appears in incense as a fresh, clean top note and as a traditional insect-repelling scent. Strictly, the *essential oil* sold as "citronella oil" often comes from a close relative (*Cymbopogon nardus* or *C. winterianus*), while *Cymbopogon citratus* is the lemongrass of the kitchen — a distinction worth noting.
 
 ## Key facts

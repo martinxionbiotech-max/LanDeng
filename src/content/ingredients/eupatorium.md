@@ -12,6 +12,8 @@ status: draft
 related: ["mugwort", "agastache-rugosa"]
 ---
 
+<img src="/images/eupatorium-raw-material-800x533.webp" alt="Raw Eupatorium (Eupatorium fortunei) botanical material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Eupatorium — *pèilán* (佩兰) in Chinese — is the aromatic aerial part of *Eupatorium fortunei*, a herbaceous plant of the daisy family (Asteraceae) native to East Asia. It is a classical Chinese "fragrant herb" (香草) whose name literally means "worn orchid" — 佩 ("to wear") and 兰 ("orchid") — because the fragrant herb was traditionally worn in sachets and used to scent clothing. It is a fresh, herbaceous, mildly sweet aromatic used in incense, sachets, and traditional practice.
 
 ## Key facts
