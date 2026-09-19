@@ -339,3 +339,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `OEM & Private Label Incense: The Buyer's Guide to Custom Manufacturing` (70 chars) → rendered 80
   - after:  `OEM & Private Label Incense: Custom Manufacturing` (49 chars) → rendered 59
 
+- `src/content/blog/packaging-shipping-guide.md`
+  - before: `Packaging & Export Guide: How Incense Is Packaged and Shipped Internationally` (77 chars) → rendered 87
+  - after:  `Packaging & Export Guide: Packing & Shipping` (44 chars) → rendered 54
+
+- `src/content/blog/plant-sources-of-incense-scents.md`
+  - before: `Plant Sources of Classic Incense Scents: A Botanical Map` (56 chars) → rendered 66
+  - after:  `Plant Sources of Incense Scents: A Botanical Map` (48 chars) → rendered 58
+
+- `src/content/blog/qinan-kyara.md`
+  - before: `奇楠 (Qinan / Kyara): The Grade English Calls by a Japanese Name` (62 chars) → rendered 72
+  - after:  `奇楠 (Qinan / Kyara): A Grade by Many Names` (41 chars) → rendered 51
+

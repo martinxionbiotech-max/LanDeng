@@ -1,6 +1,6 @@
 ---
 slug: "packaging-shipping-guide"
-title: "Packaging & Export Guide: How Incense Is Packaged and Shipped Internationally"
+title: "Packaging & Export Guide: Packing & Shipping"
 primary_keyword: "incense packaging export shipping"
 search_intent: "commercial_investigation"
 pillar: "Commercial — B2B Buying & Supply"

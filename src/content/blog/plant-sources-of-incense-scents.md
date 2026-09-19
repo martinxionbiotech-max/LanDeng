@@ -1,6 +1,6 @@
 ---
 slug: "plant-sources-of-incense-scents"
-title: "Plant Sources of Classic Incense Scents: A Botanical Map"
+title: "Plant Sources of Incense Scents: A Botanical Map"
 primary_keyword: "plant sources of incense scents"
 search_intent: "informational"
 pillar: "P11 — Aromatherapy & Botany"
