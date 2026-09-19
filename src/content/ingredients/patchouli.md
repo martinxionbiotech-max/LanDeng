@@ -12,6 +12,8 @@ status: draft
 related: ["vetiver", "cedar"]
 ---
 
+<img src="/images/patchouli-raw-material-800x533.webp" alt="Whole dried patchouli leaves with a few crushed pieces." width="800" height="533" loading="lazy">
+
 # Patchouli (广藿香 / Guang Huo Xiang)
 
 **Definition:** Patchouli — *guǎnghuòxiāng* (广藿香) in Chinese — is the dried leaf of *Pogostemon cablin*, a bushy mint-family herb, with a heavy, earthy, woody, balsamic aroma. It is an important ingredient in East Asian incense and a classic perfumery base note.

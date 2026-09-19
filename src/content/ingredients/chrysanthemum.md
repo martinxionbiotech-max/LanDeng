@@ -12,6 +12,8 @@ status: draft
 related: ["mugwort", "jasmine"]
 ---
 
+<img src="/images/chrysanthemum-raw-material-800x533.webp" alt="Dried golden chrysanthemum blossoms in a shallow dish." width="800" height="533" loading="lazy">
+
 # Chrysanthemum (菊花 / Ju Hua)
 
 **At a glance:** Chrysanthemum — *júhuā* (菊花) in Chinese — is the flower of *Chrysanthemum morifolium*, widely drunk as an herbal tea and used in traditional materia medica. It has a light floral-herbal aroma with a bittersweet edge.

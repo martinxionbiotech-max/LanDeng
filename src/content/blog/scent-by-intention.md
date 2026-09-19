@@ -11,6 +11,8 @@ brand: "\"LanDeng\""
 author: "\"LanDeng Editorial Team\""
 ---
 
+<img src="/images/scent-by-intention-scenes-1200x675.webp" alt="Three calm scenes of incense use: meditation, evening rest, and a work desk." width="1200" height="675" loading="lazy">
+
 
 **Definition:** "Incense by intention" means choosing a scent (and a format) to match the **mood or activity you want** — a bright, focusing scent for deep work, a warm, grounding one for unwinding, a clean one for home ambiance, a soft one for yoga. It is a mapping from *purpose* to *scent*, not a promise of an effect.
 

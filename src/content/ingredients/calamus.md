@@ -12,6 +12,8 @@ status: draft
 related: ["angelica", "mugwort"]
 ---
 
+<img src="/images/calamus-raw-material-800x533.webp" alt="Cut dried calamus rhizome pieces on warm rice paper." width="800" height="533" loading="lazy">
+
 # Calamus (菖蒲 / Chang Pu)
 
 **Definition:** Calamus — *chāngpú* (菖蒲) in Chinese — is the aromatic rhizome of *Acorus calamus* (sweet flag), with a warm, spicy, slightly sweet, earthy scent. It is a traditional aromatic herb, but it carries an important safety caveat: the essential oil of many calamus varieties contains **β-asarone**, which is restricted in food use in several jurisdictions.

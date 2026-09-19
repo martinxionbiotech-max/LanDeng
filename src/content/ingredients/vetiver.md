@@ -12,6 +12,8 @@ status: draft
 related: ["cedar", "patchouli", "sandalwood"]
 ---
 
+<img src="/images/vetiver-raw-material-800x533.webp" alt="A coiled bundle of dried vetiver roots." width="800" height="533" loading="lazy">
+
 # Vetiver (岩兰草 / Yan Lan Cao)
 
 **Definition:** Vetiver — *yánláncǎo* (岩兰草) in Chinese — is a tropical grass whose roots yield a deep, earthy, woody, slightly smoky essential oil, used primarily as a base note in perfumery and incense.

@@ -11,6 +11,8 @@ brand: "\"LanDeng\""
 author: "\"LanDeng Editorial Team\""
 ---
 
+<img src="/images/incense-safety-holder-1200x675.webp" alt="A lit incense stick in a fireproof holder on a clear stone surface by an open window." width="1200" height="675" loading="lazy">
+
 
 **Technical answer:** Incense is generally safe when burned in a ventilated space, on a heatproof surface, away from flammable material, children, and pets. The two real concerns are **fire** (never leave burning incense unattended) and **smoke** (incense combustion releases particulate matter, so ventilation matters). Neither concern makes incense "dangerous" — it makes it something to use with basic care.
 

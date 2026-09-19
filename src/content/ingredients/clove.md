@@ -12,6 +12,8 @@ status: draft
 related: ["cinnamon"]
 ---
 
+<img src="/images/clove-raw-material-800x533.webp" alt="Dark dried clove buds heaped in a small dish." width="800" height="533" loading="lazy">
+
 # Clove (丁香 / Ding Xiang)
 
 **Data summary:** Clove — *dīngxiāng* (丁香) in Chinese — is the dried flower bud of *Syzygium aromaticum*, prized for a warm, spicy, penetrating aroma. It is used as a spice, in incense, and in traditional materia medica.

@@ -16,6 +16,8 @@ related: ["jasmine"]
 
 **Direct answer:** Rose — *méiguī* (玫瑰, also 玫瑰花 *méiguīhuā*) in Chinese — is a sweet-scented flower, most classically the Chinese rose *Rosa rugosa*, used in tea, perfume, incense, and traditional materia medica.
 
+<img src="/images/rose-raw-material-800x533.webp" alt="Small dried rose buds in a ceramic dish." width="800" height="533" loading="lazy">
+
 ## Key facts
 
 | | |

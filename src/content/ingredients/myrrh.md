@@ -12,6 +12,8 @@ status: draft
 related: ["frankincense"]
 ---
 
+<img src="/images/myrrh-raw-material-800x533.webp" alt="Dark reddish-brown myrrh resin tears on a stone dish." width="800" height="533" loading="lazy">
+
 # Myrrh (没药 / Mo Yao)
 
 **Technical answer:** Myrrh — *mòyào* (没药) in Chinese — is the aromatic gum-resin of *Commiphora* trees (family Burseraceae), most classically *Commiphora myrrha*. It has been traded and used for millennia in perfume, incense, and traditional medicine.

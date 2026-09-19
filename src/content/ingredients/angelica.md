@@ -12,6 +12,8 @@ status: draft
 related: ["calamus", "mugwort"]
 ---
 
+<img src="/images/angelica-raw-material-800x533.webp" alt="Dried angelica root slices with a few whole root pieces." width="800" height="533" loading="lazy">
+
 # Angelica (白芷 / Bai Zhi)
 
 **Technical answer:** Angelica — *báizhǐ* (白芷) in Chinese — is the dried root of *Angelica dahurica* (family Apiaceae), an aromatic herb with a distinctive herbal, slightly sweet-bitter scent. It is a classic ingredient in Chinese 合香 (blended incense) and in traditional materia medica.

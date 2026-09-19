@@ -11,6 +11,8 @@ brand: "\"LanDeng\""
 author: "\"LanDeng Editorial Team\""
 ---
 
+<img src="/images/incense-making-drying-sticks-1200x675.webp" alt="Freshly extruded incense sticks drying on a wooden board." width="1200" height="675" loading="lazy">
+
 
 **Definition:** Incense is made by grinding fragrant materials (woods, resins, flowers, spices) into a powder, blending them — often with a natural binder — adding water to form a paste, then shaping it into sticks, coils, or cones and drying it. There are two broad methods: **hand-rolled** (from real botanicals) and **machine-made** (mass-produced, often fragrance-dipped).
 

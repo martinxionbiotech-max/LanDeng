@@ -11,6 +11,8 @@ brand: "\"LanDeng\""
 author: "\"LanDeng Editorial Team\""
 ---
 
+<img src="/images/incense-candle-diffuser-comparison-1200x675.webp" alt="An incense stick, a candle, and a reed diffuser arranged side by side." width="1200" height="675" loading="lazy">
+
 
 **Technical answer:** The three main ways to scent a room — **incense**, **candles**, and **diffusers** — differ by how they release scent: incense **burns** plant material, candles **burn wax**, and diffusers **evaporate** oil. The right one depends on whether you want smoke, flame, or neither.
 

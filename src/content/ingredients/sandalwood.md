@@ -12,6 +12,8 @@ status: draft
 related: ["agarwood", "vetiver"]
 ---
 
+<img src="/images/sandalwood-raw-material-800x533.webp" alt="Creamy sandalwood slices and powder on rice paper." width="800" height="533" loading="lazy">
+
 # Sandalwood (檀香 / Tan Xiang)
 
 **At a glance:** Sandalwood — *tanxiang* (檀香) in Chinese — is the fragrant heartwood of *Santalum* trees, most classically Indian sandalwood (*Santalum album*). It is prized in Chinese incense for a warm, creamy, sweet, woody aroma, and has a long history in ritual, incense sticks, perfume, and carving.

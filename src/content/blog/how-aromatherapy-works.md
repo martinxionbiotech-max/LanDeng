@@ -11,6 +11,8 @@ brand: "\"LanDeng\""
 author: "\"LanDeng Editorial Team\""
 ---
 
+<img src="/images/aromatherapy-molecules-botanicals-1200x675.webp" alt="Dried herbs and a small amber bottle with delicate molecule spheres drifting above." width="1200" height="675" loading="lazy">
+
 
 **Quick answer:** Aromatherapy works through the **sense of smell**: odor molecules bind receptors in the nose, which send signals to brain regions involved in emotion and memory. This is why a scent can feel powerfully "calming" or "energizing" — but the honest part is that most specific "this scent → this mood" claims are **cultural association and preliminary research, not established science.**
 

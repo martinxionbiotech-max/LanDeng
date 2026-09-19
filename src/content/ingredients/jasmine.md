@@ -12,6 +12,8 @@ status: draft
 related: ["rose", "osmanthus"]
 ---
 
+<img src="/images/jasmine-raw-material-800x533.webp" alt="Dried white jasmine blossoms in a small ceramic dish." width="800" height="533" loading="lazy">
+
 # Jasmine (茉莉 / Mo Li)
 
 **Data summary:** Jasmine — *mòlì* (茉莉, also 茉莉花 *mòlìhuā*) in Chinese — is a sweet-scented white flower, most classically *Jasminum sambac*, used in Chinese tea, perfume, and incense. Jasmine tea is considered one of China's oldest scented-flower teas.
