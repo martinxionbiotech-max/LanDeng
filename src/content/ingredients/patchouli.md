@@ -14,7 +14,6 @@ related: ["vetiver", "cedar"]
 
 <img src="/images/patchouli-raw-material-800x533.webp" alt="Whole dried patchouli leaves with a few crushed pieces." width="800" height="533" loading="lazy">
 
-
 **Definition:** Patchouli — *guǎnghuòxiāng* (广藿香) in Chinese — is the dried leaf of *Pogostemon cablin*, a bushy mint-family herb, with a heavy, earthy, woody, balsamic aroma. It is an important ingredient in East Asian incense and a classic perfumery base note.
 
 ## Key facts
@@ -70,23 +69,37 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **What is the difference between 广藿香 and 藿香?** 广藿香 is patchouli (*Pogostemon cablin*); 藿香 is Korean mint (*Agastache rugosa*). They share a name and mint-family relationship but are different plants. In an incense or perfume context, 广藿香 means patchouli, whereas 藿香 is a different herb used in Chinese medicine and cooking. English blurs the two together, but in Chinese they are distinct materials with different aromas and uses.
 
----
-
-## People Also Ask (Long-Tail)
-
 **What does patchouli smell like?** Heavy, earthy, woody-balsamic with a musty-sweet, spicy edge — a strong base note that lingers. The character is earthy and "rooted," like wet soil and dry wood with a faint sweetness, rather than bright or floral, which is why a little patchouli can anchor an entire blend. It is long-lasting and penetrating, so it works as a base that carries lighter top notes.
 
 **Where does patchouli come from?** Southeast Asia — patchouli (*Pogostemon cablin*) is native to the region and has long been an ingredient in East Asian incense and perfumery, well before its 1960s–70s Western popularity. Today it is also cultivated in other tropical regions for its oil, but Southeast Asia remains its historical and botanical home. The dried leaves are what get distilled into the familiar heavy, earthy oil.
 
-**What does patchouli pair with?** It anchors heavier blends — often paired with woods (sandalwood, cedar) and resins, or brightened with citrus. Like vetiver, it works as a base rather than a solo star. The earthy base it provides sits under brighter top notes and gives a blend depth and staying power, which is why a small amount of patchouli is enough to ground an entire composition.
-
-**Is patchouli a wood?** No — it is the dried leaf of a mint-family herb (*Pogostemon cablin*), steam-distilled for its oil. The woody-balsamic character comes from the oil, not from any wood material. Although patchouli reads as earthy and rooted, its botanical source is a leafy herb in the mint family, which is an important distinction for understanding where the scent actually comes from and why it behaves as a base note.
-
 **How is patchouli oil made?** The dried leaves are steam-distilled. Interestingly, patchouli oil is often described as improving with age, mellowing from a sharp green note to a deeper, smoother earthiness. The leaves are typically dried, sometimes fermented, then distilled to extract the heavy, long-lasting essential oil. The fermentation and drying steps are part of what develops the oil's characteristic earthy, musty-sweet character. The fermentation and drying steps are part of what develops the oil's characteristic earthy, musty-sweet character.
 
-**Is patchouli oil aged?** Patchouli oil is often described as improving with age, mellowing from a sharp, green note into a deeper, smoother earthiness. This is a perfumery observation, not a standardized grading rule. Some aged oils are valued for a rounder, less harsh profile, but aging practices vary by producer and no universal standard defines what counts as "aged," so treat "aged patchouli" as a descriptive claim rather than a fixed grade.
-
 See also: [vetiver](/ingredients/vetiver/) and [cedar](/ingredients/cedar/), its fellow earthy/woody notes, plus the full [scent guide](/blog/scent-guide/).
+
+## Evidence & Sources
+
+### Botanical identity
+**Source:** [Pogostemon in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200020033) · [Pogostemon on GBIF](https://www.gbif.org/species/2926672). **Evidence type:** Established.
+
+### Traditional Chinese use
+**Source:** this page records 广藿香 (*Pogostemon cablin*) as an important East Asian incense ingredient and a materia medica herb. **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
+
+### Authenticity / adulteration
+**Source:** the 广藿香 (*Pogostemon cablin*) vs 藿香 (*Agastache rugosa*) naming distinction. **Evidence type:** Practical screening.
+
+### Safety
+**Source:** incense combustion produces smoke and particulate matter; patchouli is potent. **Evidence type:** Established.
+
+## Evidence status
+
+| Layer | Status |
+|---|---|
+| Botanical identity | Established |
+| Traditional use | Historically documented |
+| Authenticity test | Practical screening |
+| Laboratory confirmation | Requires analytical testing |
+| Health claims | Not established |
 
 ## Sources
 

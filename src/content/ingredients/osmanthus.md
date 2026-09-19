@@ -14,7 +14,6 @@ related: ["jasmine", "rose"]
 
 <img src="/images/osmanthus-raw-material-800x533.webp" alt="Tiny golden dried osmanthus flowers heaped in a dish." width="800" height="533" loading="lazy">
 
-
 **Definition:** Osmanthus — *guìhuā* (桂花) in Chinese — is the small golden flower of *Osmanthus fragrans*, prized for a sweet, apricot- and honey-like fragrance. It is a classic Chinese fragrance, used in tea, desserts, and incense.
 
 ## Key facts
@@ -70,23 +69,36 @@ Osmanthus is a gentle floral note and is commonly used in tea and food; however,
 
 **What does osmanthus pair with?** Its sweet apricot-honey florals pair well with woods like agarwood and sandalwood, where it adds a bright, sweet lift. The classic pairing is osmanthus with agarwood (沉香), which the flower rounds out and sweetens; it also pairs naturally with other florals such as jasmine and rose. Its fruity-sweet character makes it useful for lightening heavier, deeper wood-and-resin blends without covering them.
 
----
-
-## People Also Ask (Long-Tail)
-
 **What does osmanthus smell like?** Distinctly sweet and fruity-floral — often described as ripe apricot or peach with a honeyed, nectar-like quality. It is a bright, uplifting note, and one of the few flowers whose scent is naturally described as "fruity," which sets it apart within the floral family. More apricot-and-honey than rose's romantic florality or jasmine's heady white-floral, it is a favorite for rounding out heavier woods.
 
 **What is osmanthus tea?** Osmanthus flowers brewed as a floral tisane or blended with tea leaves (桂花茶). It carries the same sweet apricot-honey aroma. The dried flowers are steeped alone or mixed into green or oolong tea, giving a delicate, fruity-sweet cup that is a classic of Chinese tea culture. Because the flowers are small and fragrant, only a small amount is needed to flavor a pot.
 
-**When does osmanthus flower?** In autumn — *Osmanthus fragrans* is famous for its strong autumn bloom, and the flower's timing is part of its cultural association with mid-autumn. The small golden flowers open in clusters and are known for their powerful, far-reaching fragrance, which is why the plant is celebrated as a seasonal marker in Chinese culture. This autumn bloom is a distinctive trait that ties osmanthus to the mid-autumn festival.
-
-**Is osmanthus a wood or a flower?** A flower — the bloom of *Osmanthus fragrans* (olive family, Oleaceae). It is used dried in tea, food, and incense. Although the plant itself is an evergreen shrub or small tree, the fragrant material is the flower, not the wood or resin. The name "sweet olive" or "fragrant tea olive" reflects its olive-family membership, but in fragrance it is a light floral note.
-
 **What is the difference between 金桂 and 丹桂?** Both are *Osmanthus fragrans* color variants: 金桂 (gold) is the most fragrant, 丹桂 (red) is less so. The gold type is the reference for fragrance and tea. A third variant, 银桂 (silver), is paler with a lighter scent, and 四季桂 (four-seasons) is a less fragrant type that blooms repeatedly. Recognizing these color names is useful because they appear on Chinese product labels and indicate the likely strength and character of the scent.
 
-**What is osmanthus used for in food?** It flavors desserts, sugar syrups, and confections — 桂花糕 (osmanthus cake) and 桂花酒 (osmanthus wine) are the classic examples — adding a sweet, apricot-honey note. The dried flowers are also steeped into syrups and jams to carry the fruity-floral flavor into sweets, and they are sometimes mixed into sugar for a fragrant, floral sweetener used widely across southern Chinese cooking.
-
 See also: [jasmine](/ingredients/jasmine/) and [rose](/ingredients/rose/), its fellow florals, plus the full [scent guide](/blog/scent-guide/).
+
+## Evidence & Sources
+
+### Botanical identity
+**Source:** [Osmanthus in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001392) · [Osmanthus on GBIF](https://www.gbif.org/species/3172278). **Evidence type:** Established.
+
+### Traditional Chinese use
+**Source:** this page records osmanthus as a classic Chinese fragrance dating back at least to the Tang dynasty, tied to mid-autumn (中秋). **Evidence type:** Historically documented — traditional use, not modern clinical evidence.
+
+### Commercial grading
+**Source:** the color variants (金桂 / 银桂 / 丹桂 / 四季桂), with the golden (金桂) type as the fragrance reference. **Evidence type:** Trade terminology.
+
+### Safety
+**Source:** osmanthus is food-safe, but incense combustion produces smoke and particulate matter; do not assume food-safety implies the smoke is harmless. **Evidence type:** Established.
+
+## Evidence status
+
+| Layer | Status |
+|---|---|
+| Botanical identity | Established |
+| Traditional use | Historically documented |
+| Commercial grading | Trade terminology |
+| Health claims | Not established |
 
 ## Sources
 

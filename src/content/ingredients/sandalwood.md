@@ -14,7 +14,6 @@ related: ["agarwood", "vetiver"]
 
 <img src="/images/sandalwood-raw-material-800x533.webp" alt="Creamy sandalwood slices and powder on rice paper." width="800" height="533" loading="lazy">
 
-
 **At a glance:** Sandalwood — *tanxiang* (檀香) in Chinese — is the fragrant heartwood of *Santalum* trees, most classically Indian sandalwood (*Santalum album*). It is prized in Chinese incense for a warm, creamy, sweet, woody aroma, and has a long history in ritual, incense sticks, perfume, and carving.
 
 ## Key facts
@@ -73,21 +72,40 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Does sandalwood help you sleep?** There is no established clinical evidence that burning sandalwood treats insomnia, and no fragrance should be treated as a medical sleep aid. Sandalwood does have a traditional use as a calming ritual scent, and its warm, grounding aroma has been used for centuries in meditation and evening ritual settings. Describing it as "calming" is an aromatherapy observation about how a familiar scent can anchor an unwinding routine, not a proven treatment for any sleep condition. If a product claims to cure insomnia, that claim is unverified and should be read with skepticism.
 
----
-
-## People Also Ask (Long-Tail)
-
 **What does sandalwood smell like?** Warm, creamy, sweet, and soft-woody — the best material has a distinctly "buttery" smoothness that distinguishes it from sharper or synthetic "sandalwood" fragrances. The aroma is gentle and long-lasting rather than sharp, which is why sandalwood is widely used as a base or blending material. This smooth, buttery quality is the mark of good material and is lost in cheap synthetic versions.
-
-**How long does a sandalwood incense stick burn?** Roughly 20–60 minutes depending on length and thickness — short Japanese coreless sticks ~25–30 min, thicker bamboo-core sticks ~45–60 min. The scent lingers after the stick goes out. Burn time varies by maker, so check the label for an expected duration if precision matters. The lingering quality comes from sandalwood's gentle, long-lasting base character rather than a sharp top note.
 
 **Is sandalwood oil the same as sandalwood powder?** No. Oil is the concentrated steam-distilled extract; powder is the ground heartwood. Oil gives bright, immediate notes; wood gives the slower, deeper "cooked" aroma. Sticks made with oil smell distinctly different from those made with actual wood — the wood is what supplies the characteristic "buttery" note. So the same word, "sandalwood," can mean two quite different materials in practice.
 
 **Why is real sandalwood so expensive?** *Santalum album* is slow-growing and hemiparasitic, its heartwood takes decades to develop aroma, and wild stands are depleted. Scarcity plus demand drives the price — cheap "sandalwood" is usually synthetic. The species is also CITES-listed, which reflects pressure on wild populations and adds to the cost of genuine material. All of this means real sandalwood powder commands a meaningful price in craft supply.
 
-**Is sandalwood incense safe for pets?** All incense produces smoke and particulate matter, and animals can be more sensitive to airborne irritants. Burn in a ventilated space, keep it away from pets, and watch for any reaction. This is general safety guidance, not a claim about any condition. If a pet shows respiratory or behavioral signs, move it to fresh air and stop burning. Birds in particular are sensitive to smoke, so keep any burning incense well out of their reach and airspace.
-
 See also: the [sandalwood incense guide](/blog/sandalwood-incense/) and the full [scent guide](/blog/scent-guide/).
+
+## Evidence & Sources
+
+### Botanical identity
+**Source:** [Santalum album on GBIF](https://www.gbif.org/species/2889785) · [Santalum album in the CITES species checklist](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Santalum%20album). **Evidence type:** Established.
+
+### Traditional Chinese use
+**Source:** [本草綱目 (Bencao Gangmu) full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目) and this page's record of sandalwood's long traditional and ritual use (incense, Buddhist and Taoist practice, materia medica). **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
+
+### Commercial grading
+**Source:** the species distinction among *Santalum album* / *S. spicatum* / *S. austrocaledonicum* / *S. paniculatum* is market-relevant terminology. **Evidence type:** Trade terminology.
+
+### Authenticity / adulteration
+**Source:** species substitution and "oil vs wood" (synthetic fragrance oil vs real wood) are the page's buyer-intelligence points. **Evidence type:** Practical screening.
+
+### Safety
+**Source:** incense combustion produces smoke and particulate matter; burn in a well-ventilated space. **Evidence type:** Established.
+
+## Evidence status
+
+| Layer | Status |
+|---|---|
+| Botanical identity | Established |
+| Traditional use | Historically documented |
+| Commercial grading | Trade terminology |
+| Authenticity test | Practical screening |
+| Health claims | Not established |
 
 ## Sources
 
