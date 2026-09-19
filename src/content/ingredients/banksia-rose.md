@@ -12,6 +12,8 @@ status: draft
 related: ["costus", "rose"]
 ---
 
+<img src="/images/banksia-rose-raw-material-800x533.webp" alt="Raw Banksia Rose (Rosa banksiae) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 木香花 — *mùxiānghuā* in Chinese — is the flower of *Rosa banksiae*, the Banksia rose (also called Lady Banks' rose), a climbing rose of the rose family (Rosaceae) native to central and western China. It is a sweet, honeyed, lightly green floral used in Chinese incense and recorded as a flower material in the classical compendium 香乘. Its name is dangerously easy to confuse with 木香 (costus), an entirely different aromatic root — and this page disambiguates them explicitly.
 
 ## Key facts

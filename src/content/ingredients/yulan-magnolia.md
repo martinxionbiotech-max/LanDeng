@@ -12,6 +12,8 @@ status: draft
 related: ["magnolia-flower", "champaca"]
 ---
 
+<img src="/images/yulan-magnolia-raw-material-800x533.webp" alt="Raw Yulan Magnolia (Magnolia denudata) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 玉兰 — *yùlán* in Chinese — is the flower of *Magnolia denudata*, the yulan magnolia, a deciduous tree of the magnolia family (Magnoliaceae) native to central and eastern China. Its large, white, fragrant spring flowers are a celebrated symbol of early spring, and the flower is used in Chinese incense and fragrance as a **fresh white-floral note**. It is closely related to — and easily confused with — 辛夷 (the dried magnolia flower bud, *Magnolia biondii*), and this page separates the two explicitly.
 
 ## Key facts

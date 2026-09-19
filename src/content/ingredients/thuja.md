@@ -12,6 +12,8 @@ status: draft
 related: ["cedar", "cypress-seed", "pine-resin"]
 ---
 
+<img src="/images/thuja-raw-material-800x533.webp" alt="Raw Thuja (Thuja sutchuenensis) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 崖柏 — *yábǎi* in Chinese — is the fragrant wood of *Thuja sutchuenensis*, a conifer of the cypress family (Cupressaceae) endemic to the mountains of Sichuan and Chongqing in southwest China. It is a woody, cedar-like, faintly smoky aromatic used in Chinese incense as a **conifer wood note**, and its rarity and protected status make authentic material a genuine sourcing concern. The name 崖柏 ("cliff cypress/arborvitae") is shared loosely with other aromatic woods, so the species needs to be pinned down explicitly.
 
 ## Key facts

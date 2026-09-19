@@ -12,6 +12,8 @@ status: draft
 related: ["jasmine", "osmanthus"]
 ---
 
+<img src="/images/jasmine-grandiflorum-raw-material-800x533.webp" alt="Raw Spanish Jasmine (Jasminum grandiflorum) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 素馨 — *sùxīn* in Chinese — is the flower of *Jasminum grandiflorum*, the Spanish or royal jasmine, a climbing shrub of the olive family (Oleaceae) with large, intensely fragrant white flowers. It is the classic **Western perfumery jasmine** — the source of much jasmine absolute — and is recorded in the Chinese incense compendium 香乘 alongside its close relative 茉莉 (*Jasminum sambac*). The two jasmines are distinct species and this page separates them explicitly.
 
 ## Key facts

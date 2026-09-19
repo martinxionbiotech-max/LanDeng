@@ -12,6 +12,8 @@ status: draft
 related: ["cardamom", "amomum-villosum", "galangal"]
 ---
 
+<img src="/images/tsao-ko-raw-material-800x533.webp" alt="Raw Tsaoko (Amomum tsao-ko (FOC: Amomum tsaoko; syn. Lanxangia tsao-ko)) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 草果 — *cǎoguǒ* in Chinese — is the dried fruit of *Amomum tsao-ko* (Flora of China: *Amomum tsaoko*; recently reclassified as *Lanxangia tsao-ko* in some databases), a ginger-family herb (Zingiberaceae) native to the mountains of Yunnan and neighbouring Guangxi. It is a smoky, spicy, camphoraceous aromatic best known as the "black cardamom" of southwestern Chinese cooking, and used in incense as a **香药 (aromatic-medicine) spice accent**. Its ginger-family relatives — 白豆蔻 (cardamom) and 砂仁 — are the closest points of comparison.
 
 ## Key facts

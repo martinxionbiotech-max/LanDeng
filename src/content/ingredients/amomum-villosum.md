@@ -12,6 +12,8 @@ status: draft
 related: ["cardamom", "tsao-ko", "galangal"]
 ---
 
+<img src="/images/amomum-villosum-raw-material-800x533.webp" alt="Raw Amomum villosum (Amomum villosum (syn. Wurfbainia villosa)) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 砂仁 — *shārén* in Chinese — is the dried fruit (and its seeds) of *Amomum villosum* (recently reclassified as *Wurfbainia villosa* in some databases), a ginger-family herb (Zingiberaceae) native to southern China. It is a spicy, camphoraceous, warm aromatic used in Chinese incense as a **香药 (aromatic-medicine) spice accent**, and it is recorded in the classical compendium 香乘 as an incense-recipe ingredient. Its closest relatives in this encyclopedia are the other ginger-family aromatics — 白豆蔻 (cardamom) and 草果 (tsaoko).
 
 ## Key facts

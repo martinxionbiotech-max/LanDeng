@@ -12,6 +12,8 @@ status: draft
 related: ["chrysanthemum", "plum-blossom"]
 ---
 
+<img src="/images/honeysuckle-raw-material-800x533.webp" alt="Raw Honeysuckle (Lonicera japonica) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 金银花 — *jīnyínhuā* in Chinese — is the flower of *Lonicera japonica*, the Japanese honeysuckle, a twining vine of the honeysuckle family (Caprifoliaceae) native to East Asia. Its sweetly fragrant white-to-yellow flowers are best known as a materia-medica flower (the plant itself is 忍冬 *rěndōng*), and their use in incense and fragrance is a **modern crossover** rather than a classical incense-canon material. This page positions it honestly: a sweet floral with a documented materia-medica identity, not a 香乘 ingredient.
 
 ## Key facts

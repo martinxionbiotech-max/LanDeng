@@ -12,6 +12,8 @@ status: draft
 related: ["cinnamon", "rosemary"]
 ---
 
+<img src="/images/bay-leaf-raw-material-800x533.webp" alt="Raw Bay Leaf (Laurus nobilis) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 月桂叶 — *yuèguì yè* in Chinese — is the leaf of *Laurus nobilis*, the bay laurel or sweet bay, an evergreen tree of the laurel family (Lauraceae) native to the Mediterranean. It is a herbal, camphoraceous, slightly sweet culinary and fragrance herb — the "bay leaf" of Western kitchens — used in Chinese incense as a **herbal accent** and, more commonly, as a modern crossover rather than a classical incense ingredient. The name 月桂 needs careful handling: in classical Chinese, 月桂 usually refers to the osmanthus (桂花), not the bay laurel.
 
 ## Key facts
