@@ -12,6 +12,8 @@ status: draft
 related: ["orange-peel", "litchi-husk", "cinnamon"]
 ---
 
+<img src="/images/pomelo-peel-raw-material-800x533.webp" alt="Raw Pomelo Peel (Citrus maxima (pomelo peel)) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 柚皮 — *yòupí* in Chinese — is the peel of the pomelo (*Citrus maxima*), the largest citrus fruit, a tree of the rue family (Rutaceae) native to Southeast Asia and long cultivated in southern China. It is a bittersweet, floral-woody citrus peel used in Chinese incense as a **citrus peel note** and in cooking and tea. It is distinct from the aged mandarin peel 陈皮 (*Citrus reticulata*), which has its own entry.
 
 ## Key facts

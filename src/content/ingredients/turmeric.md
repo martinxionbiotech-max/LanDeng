@@ -12,6 +12,8 @@ status: draft
 related: ["galangal", "sand-ginger", "ginger"]
 ---
 
+<img src="/images/turmeric-raw-material-800x533.webp" alt="Raw Turmeric (Curcuma longa) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 姜黄 — *jiānghuáng* in Chinese — is the dried rhizome of *Curcuma longa*, a perennial of the ginger family (Zingiberaceae) native to South and Southeast Asia, long cultivated in China. It is an earthy, warm, slightly bitter aromatic best known today as the source of the yellow-orange pigment **curcumin**, and used in Chinese incense as an **earthy spice accent**. Its Chinese name is dangerously easy to confuse with two other *Curcuma* materials — 郁金 and 莪术 — and this page disambiguates them explicitly.
 
 ## Key facts

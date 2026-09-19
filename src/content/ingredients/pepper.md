@@ -12,6 +12,8 @@ status: draft
 related: ["long-pepper", "cubeb", "clove"]
 ---
 
+<img src="/images/pepper-raw-material-800x533.webp" alt="Raw Pepper (Piper nigrum) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Pepper — *hújiāo* (胡椒) in Chinese — is the dried fruit of *Piper nigrum*, a climbing vine of the pepper family (Piperaceae) native to South India and long cultivated across the tropics. It is the world's most common spice, with a hot, pungent, warm-woody scent that comes from the alkaloid piperine and the essential oil in the fruit. In Chinese incense it is a **warming spice accent**, used sparingly to add a sharp, penetrating top note to 合香 blends.
 
 ## Key facts

@@ -12,6 +12,8 @@ status: draft
 related: ["frankincense", "myrrh", "benzoin"]
 ---
 
+<img src="/images/labdanum-raw-material-800x533.webp" alt="Raw Labdanum (Cistus ladanifer (gum rockrose)) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Labdanum — *yánqiángwēi* (岩蔷薇, "rock rose") in Chinese — is the resinous exudate of *Cistus ladanifer*, the gum rockrose, a shrub of the rockrose family (Cistaceae) native to the western Mediterranean. It is a deep, balsamic, leathery, amber-like resin used in modern perfumery as a base and fixative. This is a **modern crossover material**: it is not part of the classical Chinese incense canon, and this page states that honestly rather than inventing a classical origin.
 
 ## Key facts

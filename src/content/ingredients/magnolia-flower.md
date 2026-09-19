@@ -12,6 +12,8 @@ status: draft
 related: ["plum-blossom", "champaca", "gardenia"]
 ---
 
+<img src="/images/magnolia-flower-raw-material-800x533.webp" alt="Raw Magnolia Flower (Magnolia biondii (Flora of China: Yulania biondii)) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 辛夷 — *xīnyí* in Chinese — is the dried flower bud of the magnolia tree, most classically *Magnolia biondii* (treated in Flora of China under *Yulania biondii*), a small tree of the magnolia family (Magnoliaceae) native to central China. It is a floral-spicy aromatic with a green, slightly camphoraceous edge, used in Chinese incense as a **floral top note** and recorded in materia medica. The name 辛夷 is also applied to the buds of closely related magnolias such as *Magnolia denudata* (玉兰, the white magnolia).
 
 ## Key facts

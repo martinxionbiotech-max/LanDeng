@@ -12,6 +12,8 @@ status: draft
 related: ["perilla", "agastache-rugosa", "citronella"]
 ---
 
+<img src="/images/mint-raw-material-800x533.webp" alt="Raw Mint (Mentha haplocalyx (syn. Mentha canadensis)) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 薄荷 — *bòhé* in Chinese — is the aerial herb of *Mentha haplocalyx*, a perennial of the mint family (Lamiaceae) native to East Asia; modern botanical databases treat this name as a synonym of the broader *Mentha canadensis*. It is a cooling, minty, fresh aromatic from its menthol-rich essential oil, used in Chinese incense as a **cooling top note** and as a culinary herb. It is the "mint" of the Chinese pharmacopoeia, distinct in source from European peppermint.
 
 ## Key facts

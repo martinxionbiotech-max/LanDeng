@@ -12,6 +12,8 @@ status: draft
 related: ["musk", "ambergris"]
 ---
 
+<img src="/images/civet-raw-material-800x533.webp" alt="Raw Civet (Civettictis civetta (African civet); Viverricula indica (small Indian civet) — animal-derived, not botanical) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Civet — *língmāoxiāng* (灵猫香) in Chinese — is the glandular secretion of the civet, a small carnivore of the family Viverridae, most historically from the African civet (*Civettictis civetta*) and the small Indian civet (*Viverricula indica*). In classical Chinese incense and perfumery it was used as a **fixative** with an animalic, musky, sweet-warm scent. Like musk, it is **animal-derived, not botanical** — and modern perfumery has almost entirely replaced it with synthetic civetone.
 
 ## Key facts

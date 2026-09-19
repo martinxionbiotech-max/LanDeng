@@ -12,6 +12,8 @@ status: draft
 related: ["galangal", "sand-ginger", "cinnamon"]
 ---
 
+<img src="/images/ginger-raw-material-800x533.webp" alt="Raw Dried Ginger (Zingiber officinale) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** 干姜 — *gānjiāng* (dried ginger) in Chinese — is the dried rhizome of *Zingiber officinale*, the common ginger of the ginger family (Zingiberaceae), native to tropical Asia and cultivated worldwide. It is a warming, pungent spice with a sharp, slightly citrusy warmth that comes from gingerol and the volatile essential oil. In Chinese incense it is a **warming spice accent**, used sparingly to add a dry, penetrating heat to 合香 blends.
 
 ## Key facts
