@@ -1,6 +1,6 @@
 ---
 slug: "incense-vs-candles-vs-diffusers"
-title: "Incense vs Candles vs Diffusers: Which Scent Method Is Right for You?"
+title: "Incense vs Candles vs Diffusers: Which Is Right?"
 primary_keyword: "incense vs candles vs diffusers"
 search_intent: "commercial_investigation"
 pillar: "P7 — Incense vs Alternatives"

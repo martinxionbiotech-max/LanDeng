@@ -279,3 +279,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Incense Terminology Glossary: Stick, Coil, Cone, Resin, and Powder` (66 chars) → rendered 76
   - after:  `Incense Terminology Glossary: Stick to Powder` (45 chars) → rendered 55
 
+- `src/content/blog/incense-tools-utensils.md`
+  - before: `香具 (The Incense Tool Set): Chopsticks, Spoons, and the 炉瓶三事` (59 chars) → rendered 69
+  - after:  `香具 (The Incense Tool Set): Chopsticks & Spoons` (46 chars) → rendered 56
+
+- `src/content/blog/incense-ventilation-indoor-air.md`
+  - before: `Incense, Ventilation & Indoor Air: The Honest Picture on Smoke` (62 chars) → rendered 72
+  - after:  `Incense, Ventilation & Indoor Air` (33 chars) → rendered 43
+
+- `src/content/blog/incense-vs-candles-vs-diffusers.md`
+  - before: `Incense vs Candles vs Diffusers: Which Scent Method Is Right for You?` (69 chars) → rendered 79
+  - after:  `Incense vs Candles vs Diffusers: Which Is Right?` (48 chars) → rendered 58
+
