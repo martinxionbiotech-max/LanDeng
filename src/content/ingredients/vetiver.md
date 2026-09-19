@@ -1,5 +1,5 @@
 ---
-title: "Vetiver (Yan Lan Cao) — The Deep, Earthy Root Note"
+title: "Vetiver (岩兰草) — Earthy Root Note"
 entity: vetiver
 chinese: 岩兰草
 pinyin: yánláncǎo

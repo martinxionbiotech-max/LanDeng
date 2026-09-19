@@ -1,6 +1,6 @@
 ---
 slug: "agarwood-grading-guide"
-title: "Agarwood Grading: 沉香, 沉水, and 奇楠 — the Definitive Reference"
+title: "Agarwood Grading: 沉香, 沉水 & 奇楠"
 primary_keyword: "agarwood grading qinan kyara"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

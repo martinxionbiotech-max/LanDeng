@@ -1,6 +1,6 @@
 ---
 slug: "agarwood-incense"
-title: "Agarwood Incense (沉香): The Sinking Fragrance, Grading, and How to Spot Fakes"
+title: "Agarwood Incense (沉香): Grading & Spotting Fakes"
 primary_keyword: "what is agarwood incense"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

@@ -87,3 +87,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Sweetgum (Feng Xiang) — The Sweet-Balsamic Resin` (48 chars) → rendered 70
   - after:  `Sweetgum (枫香) — Sweet Resin` (27 chars) → rendered 49
 
+- `src/content/ingredients/vetiver.md`
+  - before: `Vetiver (Yan Lan Cao) — The Deep, Earthy Root Note` (50 chars) → rendered 72
+  - after:  `Vetiver (岩兰草) — Earthy Root Note` (32 chars) → rendered 54
+
+- `src/content/blog/agarwood-grading-guide.md`
+  - before: `Agarwood Grading: 沉香, 沉水, and 奇楠 — the Definitive Reference` (59 chars) → rendered 69
+  - after:  `Agarwood Grading: 沉香, 沉水 & 奇楠` (29 chars) → rendered 39
+
+- `src/content/blog/agarwood-incense.md`
+  - before: `Agarwood Incense (沉香): The Sinking Fragrance, Grading, and How to Spot Fakes` (76 chars) → rendered 86
+  - after:  `Agarwood Incense (沉香): Grading & Spotting Fakes` (47 chars) → rendered 57
+
