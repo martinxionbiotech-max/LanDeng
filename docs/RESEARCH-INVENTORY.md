@@ -8,6 +8,8 @@ Research ledger. Records are added as research is actually performed.
 | R-002 | Sandalwood 檀香 — botanical identity, evidence review vs SERP overclaiming | Sandalwood · Santalum · 檀香 | en DTC blogs (overclaim pattern) + enthusiast reviews | researched (notes) | /ingredients/sandalwood/ | 2026-09-08 |
 | R-003 | Chinese incense 香/香道 — history, 四般闲事, 隔火焚香, 合香, 香谱, China-vs-Japan | Chinese incense · 香道 · 合香 | zh: 光明日报/merit-times/南山居/Scenter; en: Bifang/Cenisy/China Daily | researched (notes) | /chinese-incense/ | 2026-09-08 |
 
+> Coverage note (2026-09-19): target pages for R-001–R-003 are now live — `/ingredients/agarwood/`, `/ingredients/sandalwood/`, and `/chinese-incense/` (see [CONTENT-INVENTORY.md](CONTENT-INVENTORY.md)).
+
 ## R-001 findings summary
 
 - **沉香** = "sinking fragrance"; **奇楠** = top grade (油包木 "oil wraps wood" vs 沉香 木包油 "wood wraps oil").
