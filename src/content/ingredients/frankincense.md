@@ -14,7 +14,6 @@ related: ["myrrh", "agarwood"]
 
 <img src="/images/frankincense-raw-material-800x533.webp" alt="Pale golden frankincense resin tears in a shallow dish." width="800" height="533" loading="lazy">
 
-
 **Quick answer:** Frankincense — *rǔxiāng* (乳香, "milk fragrance") in Chinese — is the aromatic gum-resin of *Boswellia* trees (family Burseraceae). It is one of the world's oldest incense resins, used for religious ritual, fumigation, perfume, and traditional medicine.
 
 ## Key facts
@@ -78,25 +77,43 @@ Both are resins from the same plant family (Burseraceae), but from different gen
 
 **Is frankincense a wood?** No — frankincense is a gum-resin, not wood. It is collected from the bark of *Boswellia* trees, which are scored so the tree exudes a milky resin that hardens into droplets called "tears." These tears are harvested by hand and graded by size, color, and clarity. The aromatic material is the hardened resin, not the wood of the tree itself. Frankincense is therefore classed as a resin incense ingredient, distinct from aromatic woods like sandalwood or agarwood.
 
----
-
-## People Also Ask (Long-Tail)
-
 **What does frankincense smell like?** Frankincense has a fresh, resinous, slightly citrus (lemony) aroma over a warm, creamy, earthy base. When gently heated, it releases a clean, bright scent that is distinct from the deep sweetness of woods like agarwood or sandalwood. The exact character varies by species and origin — *B. sacra* from Oman and Yemen is classic, *B. carterii* from Somalia is clean and citrusy, and *B. serrata* from India is earthier and more balsamic. Overall it reads bright and clean rather than dark and heavy.
 
 **How do you burn frankincense resin?** Frankincense is traditionally burned on a lit charcoal disc. Place the disc on a heatproof surface in sand or ash, light it until it glows, and add small tears or granules of resin, which will melt and release their aroma. A gentler method is an electric incense heater, which warms the resin slowly without charcoal smoke and gives a cleaner scent. Small tears work best because they heat evenly; large lumps may only partially melt. Avoid inhaling the smoke directly and keep the area ventilated.
 
-**Where does frankincense come from?** Frankincense comes from *Boswellia* trees, which grow mainly across the Arabian Peninsula, the Horn of Africa, and parts of India. The resin is tapped by scoring the bark; the tree exudes a milky sap that hardens over days to weeks into droplets called "tears," which are collected by hand. The main producing regions include Oman and Yemen (*B. sacra*), Somalia (*B. carterii*), and India (*B. serrata*). Origin and species affect the aroma, so a label that names them is more informative.
-
 **Is frankincense the same as oud or agarwood?** No. Frankincense is a gum-resin from *Boswellia* trees (family Burseraceae), while oud, also called agarwood, is resin-impregnated *Aquilaria* wood. They are different materials from different plants with different aromas: frankincense is fresh, citrusy, and resinous, while agarwood is deep, sweet, and woody. The confusion sometimes arises because both are premium aromatic materials, but they are not interchangeable and come from entirely different botanical sources.
-
-**Is frankincense a wood?** No — frankincense is a dried gum-resin collected from the bark of *Boswellia* trees, not the wood itself. The tree is scored, and the milky resin that exudes hardens into droplets, or "tears," which are then harvested by hand. The wood of the tree is not the aromatic part. This distinguishes frankincense from aromatic woods such as sandalwood and agarwood, which are valued for their scented heartwood rather than an exuded resin.
 
 **What is the difference between frankincense tears and powder?** Tears are the whole dried resin droplets, while powder is the same resin ground fine. They suit different uses. Tears are preferred for gentle heating because they melt and release their aroma slowly, and whole pieces are easier to grade by size and color. Powder is used for blending into incense pastes and sticks, where a uniform, fast-burning form is needed. Both are the same material — *Boswellia* resin — simply in different physical forms, and neither is inherently higher quality.
 
-**Is all frankincense the same?** No. Different *Boswellia* species and origins produce different aroma profiles. *B. sacra* from Oman and Yemen is the classic, often considered the reference grade; *B. carterii* from Somalia is common in commerce and clean and citrusy; and *B. serrata* from India is earthier and more balsamic. The species and region affect the scent, so a label that names them is more informative than one that simply says "frankincense." For general incense use any good grade works, but the profiles are noticeably different.
-
 See also: the [frankincense incense guide](/blog/frankincense-incense/) and the full [scent guide](/blog/scent-guide/).
+
+## Evidence & Sources
+
+### Botanical identity
+**Source:** [Boswellia sacra on GBIF](https://www.gbif.org/species/8330171) · [Boswellia sacra in the CITES species checklist](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Boswellia%20sacra). **Evidence type:** Established.
+
+### Traditional Chinese use
+**Source:** [本草綱目 (Bencao Gangmu) full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目) and this page's record that 乳香 is classically paired with myrrh (没药) and described for "activating blood" (活血) and relieving pain. **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
+
+### Commercial grading
+**Source:** species/origin profiles (*B. sacra*, *B. carterii*, *B. serrata*) and tear grading by size, color, and clarity. **Evidence type:** Trade terminology.
+
+### Authenticity / adulteration
+**Source:** the species-and-origin note — a label naming the species is more informative than one that just says "frankincense." **Evidence type:** Practical screening.
+
+### Safety
+**Source:** incense combustion produces smoke and particulate matter; do not consume resin based on traditional-medicine claims without professional guidance. **Evidence type:** Established.
+
+## Evidence status
+
+| Layer | Status |
+|---|---|
+| Botanical identity | Established |
+| Traditional use | Historically documented |
+| Commercial grading | Trade terminology |
+| Authenticity test | Practical screening |
+| Laboratory confirmation | Requires analytical testing |
+| Health claims | Not established |
 
 ## Sources
 
