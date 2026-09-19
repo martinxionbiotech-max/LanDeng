@@ -12,6 +12,8 @@ status: draft
 related: ["linglingxiang", "agastache-rugosa"]
 ---
 
+<img src="/images/paicao-raw-material-800x533.webp" alt="Raw Paicao (Lysimachia capillipes) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Paicao — *páicǎo* (排草) in Chinese — is the dried whole herb of *Lysimachia capillipes*, a small perennial of the primrose family (Primulaceae) native to southern China. It is an aromatic herb with a sweet, hay-like, faintly woody scent, used in Chinese incense as a supporting herbal note in 合香 (blended incense) and as a scenting herb. It belongs to the same genus as the better-known 零陵香 (linglingxiang), *Lysimachia foenum-graecum*.
 
 ## Key facts

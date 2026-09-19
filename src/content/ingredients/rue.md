@@ -12,6 +12,8 @@ status: draft
 related: ["mugwort", "citronella"]
 ---
 
+<img src="/images/rue-raw-material-800x533.webp" alt="Raw Rue (Ruta graveolens) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Rue — *yúnxiāng* (芸香) in Chinese — is the dried leafy herb of *Ruta graveolens*, a small evergreen shrub of the rue family (Rutaceae) native to the Mediterranean and western Asia, long cultivated in China. It is a strongly bitter, herbaceous aromatic with a green, faintly woody, penetrating scent, used in Chinese incense and as a scenting and book-preserving herb. Its name in Chinese is also applied to a group of aromatic "book herbs."
 
 ## Key facts

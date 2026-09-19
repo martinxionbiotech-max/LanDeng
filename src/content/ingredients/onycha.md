@@ -12,6 +12,8 @@ status: draft
 related: ["musk", "ambergris"]
 ---
 
+<img src="/images/onycha-raw-material-800x533.webp" alt="Raw Onycha (operculum of marine gastropods (mollusc) — animal-derived, not botanical) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Onycha — *jiǎxiāng* (甲香) in Chinese — is the **operculum**, the hard, shell-like disc that seals the opening of certain marine gastropods (sea snails). In classical Chinese incense it was used as a **fixative** that binds and stabilizes a blend's scent, contributing a faint marine, animalic undertone. It is one of the two animal-derived materials in this encyclopedia (alongside musk), and — like ambergris — it is **animal-derived, not botanical**.
 
 ## Key facts

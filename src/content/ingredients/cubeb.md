@@ -12,6 +12,8 @@ status: draft
 related: ["long-pepper", "clove"]
 ---
 
+<img src="/images/cubeb-raw-material-800x533.webp" alt="Raw Cubeb (Piper cubeba) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Cubeb — *bìchéngqié* (荜澄茄) in Chinese — is the dried, unripe fruit of *Piper cubeba*, a climbing vine of the pepper family (Piperaceae) native to Java and Sumatra in Indonesia. It is a peppery spice with a sharp, slightly woody, faintly camphoraceous bite, used in Chinese incense as a warm spice accent in some 合香 (blended incense) contexts. It belongs to the same genus as black pepper and long pepper, but is a distinct spice.
 
 ## Key facts

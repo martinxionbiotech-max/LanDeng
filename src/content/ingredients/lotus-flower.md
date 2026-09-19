@@ -12,6 +12,8 @@ status: draft
 related: ["plum-blossom", "osmanthus"]
 ---
 
+<img src="/images/lotus-flower-raw-material-800x533.webp" alt="Raw Lotus Flower (Nelumbo nucifera) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Lotus flower — *liánhuā* (莲花, also 荷花 héhuā) in Chinese — is the blossom of *Nelumbo nucifera*, the sacred lotus, an aquatic perennial of the Nelumbonaceae family native to Asia. In Chinese incense it is a **symbol first, a material second**: the flower's own scent is too delicate to survive burning, so classical incense built a "lotus" accord from woods and herbs, and only later manuals used the actual flower. True lotus is *Nelumbo nucifera* — not the water lily.
 
 ## Key facts

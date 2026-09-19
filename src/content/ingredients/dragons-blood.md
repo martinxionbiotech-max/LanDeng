@@ -12,6 +12,8 @@ status: draft
 related: ["myrrh", "red-sandalwood"]
 ---
 
+<img src="/images/dragons-blood-raw-material-800x533.webp" alt="Raw Dragon's Blood (Daemonorops draco (syn. Calamus draco) — the fruit resin) material, editorial still life" width="800" height="533" loading="lazy">
+
 **Technical answer:** Dragon's blood — *xuèjié* (血竭) in Chinese — is a bright red resin obtained from the fruit of *Daemonorops draco* (now often placed in *Calamus*), a climbing rattan palm of the Arecaceae family native to Southeast Asia. It is a resinous incense and pigment material with a sweet, woody, balsamic scent and a deep red color, used in Chinese incense, lacquer, and materia medica. The name covers several unrelated red resins, but *Daemonorops draco* is the classical "dragon's blood" of the incense and pigment trade.
 
 ## Key facts
