@@ -1,5 +1,5 @@
 ---
-title: "Pine Resin (Song Xiang) — The Woody-Balsamic Tree Resin"
+title: "Pine Resin (松香) — Woody Resin"
 entity: pine-resin
 chinese: 松香
 pinyin: sōngxiāng

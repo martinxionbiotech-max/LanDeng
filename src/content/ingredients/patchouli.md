@@ -1,5 +1,5 @@
 ---
-title: "Patchouli (Guang Huo Xiang) — The Earthy East-Asian Incense Leaf"
+title: "Patchouli (广藿香) — Earthy Leaf"
 entity: patchouli
 chinese: 广藿香
 pinyin: guǎnghuòxiāng

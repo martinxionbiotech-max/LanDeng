@@ -1,5 +1,5 @@
 ---
-title: "Osmanthus (Gui Hua) — The Sweet Chinese Flower of Fragrance & Tea"
+title: "Osmanthus (桂花) — Sweet Floral"
 entity: osmanthus
 chinese: 桂花
 pinyin: guìhuā

@@ -63,3 +63,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Orange Peel / Chenpi (陈皮) — The Aged Mandarin Peel` (50 chars) → rendered 72
   - after:  `Orange Peel (陈皮) — Aged Peel` (28 chars) → rendered 50
 
+- `src/content/ingredients/osmanthus.md`
+  - before: `Osmanthus (Gui Hua) — The Sweet Chinese Flower of Fragrance & Tea` (65 chars) → rendered 87
+  - after:  `Osmanthus (桂花) — Sweet Floral` (29 chars) → rendered 51
+
+- `src/content/ingredients/patchouli.md`
+  - before: `Patchouli (Guang Huo Xiang) — The Earthy East-Asian Incense Leaf` (64 chars) → rendered 86
+  - after:  `Patchouli (广藿香) — Earthy Leaf` (29 chars) → rendered 51
+
+- `src/content/ingredients/pine-resin.md`
+  - before: `Pine Resin (Song Xiang) — The Woody-Balsamic Tree Resin` (55 chars) → rendered 77
+  - after:  `Pine Resin (松香) — Woody Resin` (29 chars) → rendered 51
+
