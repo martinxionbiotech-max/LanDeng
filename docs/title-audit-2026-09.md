@@ -267,3 +267,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Incense Sticks vs Candles: Flame, Smoke, and the Real Differences` (65 chars) → rendered 75
   - after:  `Incense Sticks vs Candles: Flame & Smoke` (40 chars) → rendered 50
 
+- `src/content/blog/incense-storage-longevity.md`
+  - before: `Incense Storage & Longevity: Keeping Scent and Staying Safe` (59 chars) → rendered 69
+  - after:  `Incense Storage & Longevity: Keeping Scent` (42 chars) → rendered 52
+
+- `src/content/blog/incense-substitution-cross-reference.md`
+  - before: `Incense Substitution Cross-Reference: What a Label Name Can Hide` (64 chars) → rendered 74
+  - after:  `Incense Substitution Cross-Reference: Label Traps` (49 chars) → rendered 59
+
+- `src/content/blog/incense-terminology-glossary.md`
+  - before: `Incense Terminology Glossary: Stick, Coil, Cone, Resin, and Powder` (66 chars) → rendered 76
+  - after:  `Incense Terminology Glossary: Stick to Powder` (45 chars) → rendered 55
+

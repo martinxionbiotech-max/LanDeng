@@ -1,6 +1,6 @@
 ---
 slug: "incense-storage-longevity"
-title: "Incense Storage & Longevity: Keeping Scent and Staying Safe"
+title: "Incense Storage & Longevity: Keeping Scent"
 primary_keyword: "incense storage longevity"
 search_intent: "informational"
 pillar: "P6 — Care & Safety"
