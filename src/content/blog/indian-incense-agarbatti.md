@@ -1,6 +1,6 @@
 ---
 slug: "indian-incense-agarbatti"
-title: "Indian Incense (Agarbatti): Bold, Expressive, and Two Very Different Grades"
+title: "Indian Incense (Agarbatti): Two Different Grades"
 primary_keyword: "indian incense agarbatti"
 search_intent: "informational"
 pillar: "P8 — Regional Incense Traditions"

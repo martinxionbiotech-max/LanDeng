@@ -291,3 +291,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Incense vs Candles vs Diffusers: Which Scent Method Is Right for You?` (69 chars) → rendered 79
   - after:  `Incense vs Candles vs Diffusers: Which Is Right?` (48 chars) → rendered 58
 
+- `src/content/blog/incense-vs-essential-oil-diffuser.md`
+  - before: `Incense vs Essential Oil Diffuser: Smoke, Scent, and How They Actually Differ` (77 chars) → rendered 87
+  - after:  `Incense vs Essential Oil Diffuser: Smoke & Scent` (48 chars) → rendered 58
+
+- `src/content/blog/incense-vs-reed-diffuser-wax-melts.md`
+  - before: `Incense vs Reed Diffuser vs Wax Melts: Combustion, Evaporation, and Warming` (75 chars) → rendered 85
+  - after:  `Incense vs Reed Diffuser vs Wax Melts` (37 chars) → rendered 47
+
+- `src/content/blog/indian-incense-agarbatti.md`
+  - before: `Indian Incense (Agarbatti): Bold, Expressive, and Two Very Different Grades` (75 chars) → rendered 85
+  - after:  `Indian Incense (Agarbatti): Two Different Grades` (48 chars) → rendered 58
+

@@ -1,6 +1,6 @@
 ---
 slug: "incense-vs-reed-diffuser-wax-melts"
-title: "Incense vs Reed Diffuser vs Wax Melts: Combustion, Evaporation, and Warming"
+title: "Incense vs Reed Diffuser vs Wax Melts"
 primary_keyword: "incense vs reed diffuser vs wax melts"
 search_intent: "commercial_investigation"
 pillar: "P7 — Incense vs Alternatives"
