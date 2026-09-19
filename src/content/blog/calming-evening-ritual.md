@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P11 — Incense & Mindfulness Practice"
 content_type: "article"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Creating a Calming Evening Ritual (Without the Sleep-Aid Nonsense)
 
 **Direct answer:** A calming evening ritual is a **consistent wind-down sequence** — the same soft scent, dimmed lights, screens put away, a quiet moment — that signals to yourself that the day is ending. The scent is a **cue**, not a sedative.
 

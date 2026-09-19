@@ -6,15 +6,14 @@ search_intent: "informational"
 pillar: "P3 — Use Scenarios"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense for Study & Deep Work: A Focus Cue, Not a Focus Drug
 
 **Direct answer:** Incense for study and deep work is a **bright, clean, non-distracting scent** — citrus or frankincense most often — used as a *focus cue*: a repeated sensory signal that marks the start of a work session. It is a routine and ambiance tool, not a cognitive enhancer.
 
-**Key facts:** A bright scent suits focus because it is clean and non-distracting, and because a fresh, energizing aroma reads as "alert." [BRAND] makes no claim that incense improves concentration or memory.
+**Key facts:** A bright scent suits focus because it is clean and non-distracting, and because a fresh, energizing aroma reads as "alert." LanDeng makes no claim that incense improves concentration or memory.
 
 ---
 
@@ -61,7 +60,7 @@ Lighting the stick marks the start; the stick going out marks the end. That "inc
 
 English-language "focus incense" content is full of claims — "boosts concentration," "improves memory," "increases productivity." Those are **unverified performance claims**. The accurate statement is simpler: a bright, clean scent and a consistent work ritual can support a **focused atmosphere**. That is a fragrance and routine claim.
 
-[BRAND] does not promise cognitive effects.
+LanDeng does not promise cognitive effects.
 
 ---
 
@@ -102,7 +101,7 @@ Much "focus incense" content sells a productivity shortcut. This page sells only
 A bright, non-distracting scent — citrus or frankincense — and a stick whose burn time matches your work block. See [citrus incense](/blog/citrus-incense/).
 
 ### Q: Does incense improve focus?
-[BRAND] makes no such claim. A bright scent and a consistent ritual can support a focused atmosphere, but that is a fragrance and routine effect, not a measured cognitive one.
+LanDeng makes no such claim. A bright scent and a consistent ritual can support a focused atmosphere, but that is a fragrance and routine effect, not a measured cognitive one.
 
 ### Q: How do I use incense as a study timer?
 Light a stick at the start of a work block and stop when it goes out — a thin coreless stick is ~25–30 min, a bamboo-core stick ~45–60 min. See [which incense format](/blog/which-incense-format/).

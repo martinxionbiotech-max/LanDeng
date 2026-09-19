@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P11 — Incense & Mindfulness Practice"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense for Meditation: Formats, Burn Times, and Choosing a Scent
 
 **Direct answer:** Incense is used in meditation for three practical reasons, not one: as a **timer** (a stick's burn marks a session's length), as a **sensory anchor** (a single scent to return your attention to), and as a **ritual cue** (lighting it signals the start of practice). The traditional scents are the calm woods and resins — **sandalwood 檀香, agarwood 沉香, and frankincense 乳香** — but the format and burn time matter as much as the scent.
 
@@ -84,7 +83,7 @@ Lighter florals (lavender, jasmine, osmanthus) and bright citrus also appear in 
 
 Meditation is a practice; incense is a sensory aid to that practice. That distinction matters because most of the English web treats "meditation incense" as a wellness product with claims attached — that it *relieves stress, reduces anxiety, calms the nervous system*, and so on.
 
-[BRAND] does not make those claims. Here is the honest position:
+LanDeng does not make those claims. Here is the honest position:
 
 - Incense can be part of a **calming, focused routine** — a timed, sensory ritual.
 - It is **not a treatment** for stress, anxiety, or any medical condition, and it does not "cause" a meditative state.
@@ -130,7 +129,7 @@ There is no single "best," but the traditional choices are the calm woods and re
 Match the format to your sit: a Japanese coreless stick (~25–30 min) for a short session, a bamboo-core stick (~45–60 min) or a coil for longer ones. The incense ending when the sit ends is the cleanest setup.
 
 ### Q: Does meditation incense reduce stress or anxiety?
-[BRAND] makes no such claim. Incense can be part of a calming, focused routine, but it is not a treatment for stress, anxiety, or any medical condition.
+LanDeng makes no such claim. Incense can be part of a calming, focused routine, but it is not a treatment for stress, anxiety, or any medical condition.
 
 ### Q: What does "one stick of incense" mean as a unit of time?
 In Chinese tradition, "一炷香" (one stick of incense) was used as a rough unit of time — the span a stick takes to burn — and incense trails (篆香) were even used as timed, patterned timekeepers.

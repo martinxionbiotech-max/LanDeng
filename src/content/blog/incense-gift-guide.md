@@ -6,11 +6,10 @@ search_intent: "transactional"
 pillar: "P5 — Buying & Selection"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense Gift Guide: How to Choose a Thoughtful (and Honest) Incense Gift
 
 **Direct answer:** A good incense gift matches the **recipient's taste and setting**, not the price tag. The safest gifts are a **real-material starter** (a sandalwood or frankincense stick set with a holder), a **gift that fits a no-smoke space** (aromatherapy beads or an electric heater), or a **curated sample set** so they can find their own scent. This guide is about choosing well — it does not rank or sell products.
 
@@ -61,7 +60,7 @@ See the [scent guide](/blog/scent-guide/) for scent character and [which incense
 
 ## Why This Guide Reads Different (vs. Affiliate "Gift Set" Lists)
 
-Search "incense gift set" and you will find affiliate listicles ranking gift boxes by commission. This guide does the opposite: it teaches **how to match a gift to a person**, checks material and format, and sells nothing. When [BRAND] eventually offers products, this page will link them the same honest way — by what they actually are.
+Search "incense gift set" and you will find affiliate listicles ranking gift boxes by commission. This guide does the opposite: it teaches **how to match a gift to a person**, checks material and format, and sells nothing. When LanDeng eventually offers products, this page will link them the same honest way — by what they actually are.
 
 ---
 

@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P6 — Care & Safety"
 content_type: "article"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# How to Burn Incense Safely: Holders, Placement, and Extinguishing
 
 **Direct answer:** To burn incense safely, use a holder made for the format, set it on a heatproof, stable surface clear of anything flammable, ventilate the room, and never leave it burning unattended. Most incense-related incidents are fire incidents — and they are almost entirely preventable.
 

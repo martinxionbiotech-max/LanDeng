@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P1 — Chinese Incense 101 (authority reference)"
 content_type: "authority_reference"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# The 香谱 Incense Manuals: The World's Most Complete (and Least Translated) Incense Literature
 
 **Direct answer:** The 香谱 (xiāng pǔ) — "incense manuals" — are the canonical Chinese texts that record incense formulas, materials, and lore, culminating in the Ming-dynasty encyclopedia 《香乘》 by Zhou Jiazhou. They are widely regarded as the **world's most complete ancient incense literature**, and they remain **almost entirely untranslated** into English.
 

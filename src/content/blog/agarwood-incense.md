@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Agarwood Incense (沉香): The Sinking Fragrance, Grading, and How to Spot Fakes
 
 **Direct answer:** Agarwood (沉香 chénxiāng) is the resin-impregnated heartwood of *Aquilaria* trees, formed when the tree responds to wounding or fungal infection. It is the most precious material in the classical incense tradition, valued for a deep, sweet, resinous aroma — and so expensive that it is among the most heavily adulterated incense materials in the world.
 
@@ -87,7 +86,7 @@ These are traditional buyer heuristics; laboratory or reputable-seller verificat
 
 Chinese sources (notably the 本草纲目) attribute to agarwood phrases like "行气止痛，温中降逆，补五脏" — move qi, relieve pain, warm the middle, tonify the organs. **This is traditional materia-medica language, not modern clinical evidence.**
 
-[BRAND] does not repeat these as therapeutic fact. They are recorded here as **historical record / traditional belief**, to preserve the cultural context without making medical claims.
+LanDeng does not repeat these as therapeutic fact. They are recorded here as **historical record / traditional belief**, to preserve the cultural context without making medical claims.
 
 ---
 

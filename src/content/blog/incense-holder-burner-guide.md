@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P5 — Buying & Selection"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense Holder & Burner Guide: What You Need for Each Format
 
 **Direct answer:** Every incense format needs a **heatproof, stable holder** matched to it — a stick holder with an ash tray, a backflow burner for backflow cones, a coil stand, a charcoal-safe burner for resin, and (for beads) none at all. The holder's job is simple but non-negotiable: **catch the ash and keep the burn away from anything flammable.**
 

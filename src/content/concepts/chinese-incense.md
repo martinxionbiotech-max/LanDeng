@@ -70,7 +70,7 @@ Chinese incense is often described as a "middle path": warmer and more complex t
 
 ## Why the Chinese Framing Matters (vs. Overclaiming)
 
-English-language incense content tends to flatten Chinese incense into either "ancient healing wisdom" or a product category. Both miss the point. Chinese incense is a **cultural and material tradition** — a history of blending, grading, and refined burning technique — not a health system and not just a product. [BRAND] describes it as such: traditional knowledge is labeled traditional, modern evidence is labeled evidence, and no therapeutic claims are made. That honesty is the differentiator.
+English-language incense content tends to flatten Chinese incense into either "ancient healing wisdom" or a product category. Both miss the point. Chinese incense is a **cultural and material tradition** — a history of blending, grading, and refined burning technique — not a health system and not just a product. LanDeng describes it as such: traditional knowledge is labeled traditional, modern evidence is labeled evidence, and no therapeutic claims are made. That honesty is the differentiator.
 
 ## Traditional knowledge vs modern evidence
 

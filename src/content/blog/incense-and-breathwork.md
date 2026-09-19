@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P11 — Incense & Mindfulness Practice"
 content_type: "article"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense and Breathwork: Using Scent as a Focus for the Breath
 
 **Direct answer:** Incense pairs naturally with breathwork as a **focus object** — the rising smoke and the scent give the attention something steady to rest on while you breathe slowly. It is a practice aid, not a treatment.
 

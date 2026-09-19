@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P3 — Use Scenarios (hub)"
 content_type: "hub"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense by Intention: Choosing a Scent for Your Purpose
 
 **Direct answer:** "Incense by intention" means choosing a scent (and a format) to match the **mood or activity you want** — a bright, focusing scent for deep work, a warm, grounding one for unwinding, a clean one for home ambiance, a soft one for yoga. It is a mapping from *purpose* to *scent*, not a promise of an effect.
 
@@ -89,7 +88,7 @@ Affiliate and wellness content turns "intention" into a benefit claim. This hub 
 Start with a bright, non-distracting scent — citrus or frankincense — and match the burn time to your work session. See [study & deep work](/blog/study-deep-work/).
 
 ### Q: Is there incense for sleep?
-[BRAND] makes no sleep claims. A warm, low-key scent can be part of an evening wind-down routine, but incense is not a sleep aid. See [evening unwinding](/blog/evening-unwinding/).
+LanDeng makes no sleep claims. A warm, low-key scent can be part of an evening wind-down routine, but incense is not a sleep aid. See [evening unwinding](/blog/evening-unwinding/).
 
 ### Q: What is the best incense for meditation?
 The traditional choices are calm woods and resins — sandalwood, agarwood, frankincense — matched to your session length. See [incense for meditation](/blog/incense-for-meditation/).

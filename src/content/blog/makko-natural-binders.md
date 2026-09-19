@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P9 — Incense Craft & Materials"
 content_type: "article"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Makko & Natural Binders: The Wood Powder That Holds Incense Together
 
 **Direct answer:** Makko is the powdered bark of the *Machilus thunbergii* tree (Japanese *tabunoki*, タブノキ), used as the traditional natural binder in East Asian incense. It is a **combustible** binder — it holds the fragrant powders together *and* burns cleanly — which is why it has no synthetic glue and leaves little unwanted odor.
 

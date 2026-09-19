@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P9 — Chinese Incense Recipes (香方)"
 content_type: "hub"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# Chinese Incense Recipes (香方): Translated from the Classical Manuals
 
 **Direct answer:** A 香方 (xiāngfāng) is a **classical Chinese incense recipe** — a structured formula for a compound incense (合香), recorded in the canonical manuals (香谱). The recipes name the ingredients and their proportions, and the best ones reveal the 君臣佐使 (chief–minister–assistant–guide) structure behind the blend.
 

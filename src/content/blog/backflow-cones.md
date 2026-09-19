@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P4 — Product Formats"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Backflow Incense Cones: The Waterfall-Smoke Effect, Explained
 
 **Direct answer:** A backflow cone is a hollow incense cone that burns with the smoke **flowing downward** through a hole in its base, creating a "waterfall" effect when placed on a purpose-built backflow burner. It is chosen for its **visual**, not for a special scent.
 
@@ -55,7 +54,7 @@ The effect depends on a **sealed, upright cone** on a **backflow burner** with a
 
 ## Why This Page Reads Different (vs. "Relaxing Waterfall" Marketing)
 
-Much backflow-cone marketing leans on "zen" and "relaxing" imagery as if the waterfall did something therapeutic. It does not — it is a **visual effect**, and a charming one. [BRAND] describes it as what it is: a decorative smoke trick, with no wellness claims.
+Much backflow-cone marketing leans on "zen" and "relaxing" imagery as if the waterfall did something therapeutic. It does not — it is a **visual effect**, and a charming one. LanDeng describes it as what it is: a decorative smoke trick, with no wellness claims.
 
 ---
 

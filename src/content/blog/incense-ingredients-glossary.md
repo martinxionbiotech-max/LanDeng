@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P9 — Incense Craft & Materials"
 content_type: "glossary"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense Ingredients Glossary: Wood, Resin, Flower, and Spice
 
 **Direct answer:** Incense ingredients fall into a few families — **woods** (sandalwood, agarwood), **resins** (frankincense, myrrh, benzoin), **flowers** (jasmine, rose, osmanthus, lotus), **spices** (clove, cassia), and **binders** (makko). Knowing the family tells you most of what you need to know about how a scent will behave.
 

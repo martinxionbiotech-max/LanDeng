@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P3 — Use Scenarios"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense for Yoga & Breathwork: A Grounding, Steady Scent
 
 **Direct answer:** Incense for yoga and breathwork is a **grounding, steady scent** — sandalwood, frankincense, or cedar — burned to mark the practice and keep the room calm. It is a sensory anchor for the session, not a physiological aid.
 
@@ -50,7 +49,7 @@ Avoid sharp spices (clove) and heavy florals, which can pull attention. See the 
 
 The scent's real job in yoga and breathwork is to be a **consistent sensory anchor** — a stable background that marks "practice time" and helps the room feel intentional. It does not change your breathing or deepen your practice in any measurable way.
 
-That distinction matters: most "yoga incense" content implies the scent does something physiological. [BRAND] describes only what is true — a steady, grounding aroma and a ritual cue.
+That distinction matters: most "yoga incense" content implies the scent does something physiological. LanDeng describes only what is true — a steady, grounding aroma and a ritual cue.
 
 ---
 
@@ -104,7 +103,7 @@ Sandalwood, frankincense, or cedar — calm, grounding, and low-smoke. See the [
 You can, but keep it low-smoke (a thin coreless stick or an electric heater) and ventilate the room — you want clear air while breathing. See [incense safety](/safety/).
 
 ### Q: Does incense help with meditation and yoga?
-It can provide a consistent sensory anchor and mark the start of a session, but [BRAND] makes no claim that it improves or deepens the practice.
+It can provide a consistent sensory anchor and mark the start of a session, but LanDeng makes no claim that it improves or deepens the practice.
 
 ### Q: How long should yoga incense burn?
 Match it to your session — a thin coreless stick is ~25–30 min, a bamboo-core stick ~45–60 min. See [which incense format](/blog/which-incense-format/).

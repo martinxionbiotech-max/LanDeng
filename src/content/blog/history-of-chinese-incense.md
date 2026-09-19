@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P1 — Chinese Incense 101"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# History of Chinese Incense Culture: Shang Rituals to the Modern Revival
 
 **Direct answer:** Chinese incense culture spans roughly three millennia, from aromatic offerings in the Shang dynasty (c. 1600–1046 BCE) to a refined aesthetic practice in the Song dynasty (960–1279), followed by codification in the Ming, decline through the Qing and 20th century, and a revival from the 2000s onward.
 
@@ -73,7 +72,7 @@ From the **Qing dynasty** onward, the tradition gradually contracted: sumptuary 
 
 ## The Modern Revival
 
-From roughly the 2000s, classical Chinese incense has revived: specialist studios and 香道 practitioners have reappeared, museums and collectors have re-centered the material culture, and a new generation of brands has begun translating the tradition for a global audience. This revival is the context in which most contemporary Chinese-incense DTC brands — including [BRAND] — operate.
+From roughly the 2000s, classical Chinese incense has revived: specialist studios and 香道 practitioners have reappeared, museums and collectors have re-centered the material culture, and a new generation of brands has begun translating the tradition for a global audience. This revival is the context in which most contemporary Chinese-incense DTC brands — including LanDeng — operate.
 
 ---
 

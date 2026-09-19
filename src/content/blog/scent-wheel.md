@@ -6,11 +6,10 @@ search_intent: "commercial_investigation"
 pillar: "P2 — Scent & Ingredient Guide (data asset)"
 content_type: "data_asset"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# The Incense Scent Wheel: Atmosphere → Scent → Scenario
 
 **Direct answer:** Incense scents can be organized into a wheel by **atmosphere** — bright and energizing, uplifting floral, calming woody, deep and enveloping — each mapping to a set of materials and the scenarios where people reach for them. Pick a scenario, and the wheel points to the scent family; pick a scent, and it tells you the atmosphere it tends to create.
 

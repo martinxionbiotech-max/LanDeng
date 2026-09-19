@@ -6,11 +6,10 @@ search_intent: "commercial_investigation"
 pillar: "P9 — Incense Craft & Materials (buyer intelligence)"
 content_type: "reference_database"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense Authentication: How to Spot Fake Agarwood, Sandalwood, and Resin
 
 **Direct answer:** The most common incense fakes are **oil-boiled, oil-injected, and chemically-soaked** wood passed off as agarwood or sandalwood. The practical detection signals are burn behavior (white smoke and oil seepage vs black smoke), aroma on gentle heat (complex and sweet vs "perfume" or "burnt wood"), and the **sink test** for agarwood density.
 

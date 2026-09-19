@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P9 — Chinese Incense Recipes (香方)"
 content_type: "recipe"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# 雪中春信 (Snow in Spring): The Recipe and Its Cool "Snow" Note
 
 **Direct answer:** 雪中春信 ("Xue Zhong Chun Xin," "Snow in Spring") is a classical 合香 recipe traditionally **attributed to Su Shi (苏轼)** — an attribution that is a romantic legend, not documented fact. Its signature is a **camphor (樟脑) "snow" note** set against warm woods, evoking the moment winter turns to spring.
 

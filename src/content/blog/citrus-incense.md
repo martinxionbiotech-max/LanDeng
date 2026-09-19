@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Citrus Incense (柑橘): The Bright, Energizing Top Note
 
 **Direct answer:** Citrus incense is incense built around a fresh, bright citrus note — orange or mandarin peel (including aged 陈皮 chénpí), bergamot, yuzu, lemon, or lime. It sits at the **energizing, focusing** end of the scent spectrum. Because citrus oils are highly volatile, the note fades fast, so citrus in incense is almost always a **top note layered over a wood or resin base**.
 
@@ -90,13 +89,13 @@ The volatile nature of citrus means a "pure citrus" stick that actually lasts is
 
 Search for "citrus incense" and you will quickly hit claims that it "boosts immunity," "detoxes the body," or "lifts depression." Those are **health claims, not incense facts** — and they are not supported by evidence.
 
-[BRAND] takes a different position: citrus is a **bright, fresh, energizing aroma** that many people enjoy in a focusing or unwinding routine. That is a *fragrance* claim, which is true and verifiable; the health claims are not. This honesty is itself the differentiator — a page that tells you "citrus is a top note that fades fast, so it's usually a blend" is rarer and more useful than one promising detox.
+LanDeng takes a different position: citrus is a **bright, fresh, energizing aroma** that many people enjoy in a focusing or unwinding routine. That is a *fragrance* claim, which is true and verifiable; the health claims are not. This honesty is itself the differentiator — a page that tells you "citrus is a top note that fades fast, so it's usually a blend" is rarer and more useful than one promising detox.
 
 ## Common Mistakes
 
 1. **Expecting pure citrus incense to last.** The note is volatile; a good citrus scent is a blend, not a solo note.
 2. **Confusing "citrus" with "cleaner/chemical."** A real citrus note is zesty and sweet; a harsh "lemon cleaner" smell is usually a cheap synthetic.
-3. **Believing citrus incense "boosts immunity" or "detoxes."** Those are ingestion/health claims, not incense facts; [BRAND] makes no such claims.
+3. **Believing citrus incense "boosts immunity" or "detoxes."** Those are ingestion/health claims, not incense facts; LanDeng makes no such claims.
 4. **Overlooking 陈皮.** Aged mandarin peel is the specifically Chinese citrus material, and a more interesting angle than generic "orange."
 
 ---
@@ -120,6 +119,8 @@ Search for "citrus incense" and you will quickly hit claims that it "boosts immu
 - No health or therapeutic claims are made.
 
 ---
+
+**Related data asset:** the <a href="/blog/scent-wheel/">scent wheel</a> places citrus notes within the full fragrance family map.
 
 ## FAQ
 

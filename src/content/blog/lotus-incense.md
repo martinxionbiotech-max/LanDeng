@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Lotus Incense (莲花): The Floral Note of Purity and Lift
 
 **Direct answer:** Lotus incense is incense scented with a fresh, sweet floral "lotus" note. The true lotus is *Nelumbo nucifera* (莲花, the sacred lotus), an aquatic plant with a delicate, mildly sweet scent — but most "lotus" in commercial incense is a **floral fragrance accord**, not real lotus flower, because true lotus absolute is rare and expensive.
 
@@ -73,7 +72,7 @@ The consequence for buyers: **most "lotus" sticks, cones, and blends use a synth
 
 ## What Lotus Incense Is Not (Compliance)
 
-"Blue lotus" and lotus in general attract a lot of wellness and esoteric marketing — claims about "spiritual awakening," "opening the third eye," "lucid dreaming," or anxiety relief. [BRAND] makes **none of these claims**. Lotus is treated here as a **botanical and cultural material**: a fresh floral scent with deep cultural symbolism, used for atmosphere and ritual — not a treatment and not a spiritual technology.
+"Blue lotus" and lotus in general attract a lot of wellness and esoteric marketing — claims about "spiritual awakening," "opening the third eye," "lucid dreaming," or anxiety relief. LanDeng makes **none of these claims**. Lotus is treated here as a **botanical and cultural material**: a fresh floral scent with deep cultural symbolism, used for atmosphere and ritual — not a treatment and not a spiritual technology.
 
 ---
 

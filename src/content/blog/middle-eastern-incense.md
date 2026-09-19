@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P8 — Regional Incense Traditions"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Middle Eastern Incense (Bakhoor & Oud): Wood Chips, Resin, and Hospitality
 
 **Direct answer:** Middle Eastern incense centers on **oud (agarwood)** and **bakhoor** — wood chips soaked in fragrant oils and burned, usually on charcoal or an electric burner. It is a **home and hospitality ritual**, used to scent rooms, welcome guests (in the *majlis*), and mark special occasions, with a rich, resinous, woody character.
 
@@ -80,14 +79,14 @@ Bakhoor recipes vary by maker, but a typical blend combines agarwood chips or po
 
 ## Why Honesty Matters (vs. "Oud Miracle" Claims)
 
-Oud and bakhoor attract inflated claims — luxury, rarity, and even health benefits — much of it marketing. [BRAND] treats the tradition for what it is: a **home-and-hospitality ritual** built on wood chips, resin, and fragrance. Knowing the difference between raw oud, prepared bakhoor, and synthetic "oud" is more valuable than any miracle claim.
+Oud and bakhoor attract inflated claims — luxury, rarity, and even health benefits — much of it marketing. LanDeng treats the tradition for what it is: a **home-and-hospitality ritual** built on wood chips, resin, and fragrance. Knowing the difference between raw oud, prepared bakhoor, and synthetic "oud" is more valuable than any miracle claim.
 
 ## Common Mistakes
 
 1. **Treating "oud" and "bakhoor" as the same thing.** Oud is the agarwood material; bakhoor is prepared wood chips infused with fragrance.
 2. **Assuming all "oud" is genuine agarwood.** Synthetic "oud" fragrance is common; confirm the material. See the [agarwood guide](/blog/agarwood-incense/).
 3. **Burning bakhoor like a stick.** It is burned as chips on charcoal or an electric burner, not lit as a stick.
-4. **Believing health claims.** The tradition is cultural and aromatic; [BRAND] makes no medical claims.
+4. **Believing health claims.** The tradition is cultural and aromatic; LanDeng makes no medical claims.
 
 ---
 

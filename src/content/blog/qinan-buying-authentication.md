@@ -6,11 +6,10 @@ search_intent: "commercial_investigation"
 pillar: "P9 — Incense Craft & Materials (buyer intelligence)"
 content_type: "reference_database"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# Buying 奇楠 (Qinan): What to Check Before You Pay
 
 **Direct answer:** The single most important 奇楠 (qinan) buying rule is **price honesty** — 奇楠 is orders of magnitude more expensive than ordinary agarwood, so anything sold as 奇楠 at a bargain is almost certainly not 奇楠. The supporting checks are the **seller's ability to name species and grade**, and the **aroma on gentle heat**.
 

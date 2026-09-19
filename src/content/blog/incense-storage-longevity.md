@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P6 — Care & Safety"
 content_type: "article"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense Storage & Longevity: Keeping Scent and Staying Safe
 
 **Direct answer:** Store incense in a cool, dry, dark place, sealed from air and away from moisture and strong competing odors. Kept correctly, dry incense (sticks, cones, coils) and resins last for years; the enemies are moisture, heat, direct sunlight, and being stored loose next to other strong scents.
 

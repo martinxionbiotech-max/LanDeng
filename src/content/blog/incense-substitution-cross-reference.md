@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P5 — Buying & Selection"
 content_type: "reference"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense Substitution Cross-Reference: What a Label Name Can Hide
 
 **Direct answer:** A single word on an incense label — "sandalwood," "agarwood," "essential oil," "benzoin" — can point at several different materials. This cross-reference lists the most common substitutions, so you can read a label and know what you might actually be getting.
 
@@ -108,6 +107,8 @@ See [borneol](/ingredients/borneol/), [ambergris](/ingredients/ambergris/), and 
 - No health or medical claims are made anywhere on this page.
 
 ---
+
+**Related data asset:** the <a href="/blog/incense-material-comparison-matrix/">material comparison matrix</a> complements this substitution guide with side-by-side material profiles.
 
 ## FAQ
 

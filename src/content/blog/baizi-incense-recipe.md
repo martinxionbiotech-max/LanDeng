@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P9 — Chinese Incense Recipes (香方)"
 content_type: "recipe"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# 柏子香 (Cypress-Seed Incense): The Humble Scholar's Incense
 
 **Direct answer:** 柏子香 is the **everyman's incense** of the Chinese tradition — made from the seeds of the oriental arborvitae (*Platycladus orientalis*, 侧柏), briefly blanched, soaked in wine and honey, and dried. It is deliberately **cheap and simple**, the scholar's counterpoint to the court's expensive 沉檀麝 blends.
 

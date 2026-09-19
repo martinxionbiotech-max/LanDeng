@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P10 — Aromatherapy & Botany"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Essential Oils in Incense: What They Are and How They Differ From Wood
 
 **Direct answer:** An essential oil is the concentrated, volatile aromatic fraction of a plant — extracted (most often by steam distillation) from flowers, leaves, bark, wood, roots, or peel. In incense, essential oils appear in two distinct roles: **(1) as a scent added to a base** (the common commercial method, where oil is applied to a charcoal or wood-powder stick), or **(2) as a component of a botanical blend.** They are **not the same thing as raw fragrant wood or resin** — a sandalwood essential oil and a piece of sandalwood heartwood are different materials with different aroma behavior.
 
@@ -81,7 +80,7 @@ Neither method is automatically "better"; they are different products at differe
 - It is **not medicine**. A scent does not treat, cure, or relieve medical conditions.
 - The value of essential oils in incense is **aesthetic and ritual** — a particular smell, at a particular time, as part of a routine.
 
-[BRAND] describes fragrance as an **aromatic and ambiance experience**, never as a treatment. This is the compliance line, and it applies to every page on this site.
+LanDeng describes fragrance as an **aromatic and ambiance experience**, never as a treatment. This is the compliance line, and it applies to every page on this site.
 
 ---
 

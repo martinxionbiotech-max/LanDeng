@@ -6,11 +6,10 @@ search_intent: "commercial_investigation"
 pillar: "P4 — Product Formats (data asset)"
 content_type: "data_asset"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense Burn Time & Format Matrix: Stick, Coil, Cone, Resin, Powder
 
 **Direct answer:** Incense formats differ mainly by **burn time** and **smoke level**: a stick runs roughly 20–60 minutes, a cone 15–30, a coil 1.5–4 hours, and resin/powder is session-based (minimal smoke on an electric heater, more on charcoal). Choose the format to match the session length and how much smoke you want.
 

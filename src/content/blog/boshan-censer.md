@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P4 — Product Formats & Tools (history)"
 content_type: "article"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# 博山炉 (Boshan Censer): The Mountain Incense Burner of the Han
 
 **Direct answer:** The 博山炉 ("Boshan censer," "universal-mountain burner") is the **iconic incense burner of the Han dynasty** — a bronze vessel whose lid is cast as a **miniature mountain range** with peaks, figures, and animals. When incense burned inside, smoke rose through the pierced mountain, appearing as mist over the peaks.
 

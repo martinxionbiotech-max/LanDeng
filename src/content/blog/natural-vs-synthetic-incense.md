@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P5 — Buying & Selection"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Natural vs Synthetic Incense: How to Tell the Difference
 
 **Direct answer:** Natural incense is made from **plant material** — woods, resins, herbs, and flowers — bound with a plant binder (like makko) and often scented with essential oil. Synthetic incense replaces all or most of that with a **charcoal or sawdust base** dipped in manufactured fragrance oil. The difference is real, but "natural" is an **unregulated word** — so the practical question is not "is it natural?" but "what is it actually made of?"
 
@@ -68,7 +67,7 @@ For both, the material-vs-fragrance distinction is not snobbery — it determine
 
 ## The Compliance Reality
 
-"Natural" is not a safety or health claim. Natural incense still produces smoke and particulate matter when burned, and "synthetic" does not automatically mean harmful — both belong in a well-ventilated space. [BRAND] makes **no claims** that natural incense is healthier or that synthetic incense is dangerous.
+"Natural" is not a safety or health claim. Natural incense still produces smoke and particulate matter when burned, and "synthetic" does not automatically mean harmful — both belong in a well-ventilated space. LanDeng makes **no claims** that natural incense is healthier or that synthetic incense is dangerous.
 
 ---
 
@@ -110,7 +109,7 @@ Much "natural vs synthetic" content leans on scare language — "toxic chemicals
 Read the ingredient list for actual plant names, watch the burn and after-smell, and treat a very low price as a signal of fragrance rather than material. There is no single home test.
 
 ### Q: Is "natural" incense safer than synthetic?
-[BRAND] makes no such claim. Both produce smoke when burned, and both belong in a ventilated space. "Natural" describes the material, not a safety guarantee.
+LanDeng makes no such claim. Both produce smoke when burned, and both belong in a ventilated space. "Natural" describes the material, not a safety guarantee.
 
 ### Q: What is makko?
 A plant-based binder (the powdered bark of *Machilus thunbergii*) used to hold natural incense together — a common sign of a material, rather than charcoal-base, stick. See [what makes incense natural](/blog/what-makes-incense-natural/).

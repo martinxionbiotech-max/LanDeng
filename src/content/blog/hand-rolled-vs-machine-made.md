@@ -6,11 +6,10 @@ search_intent: "commercial_investigation"
 pillar: "P9 — Incense Craft & Materials"
 content_type: "article"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Hand-Rolled vs Machine-Made Incense: How to Tell the Difference
 
 **Direct answer:** Hand-rolled incense (the *masala* method) is made by rolling a paste of real botanicals onto a core by hand, or extruding it coreless; machine-made incense is mass-produced, uniform, and often a dipped fragrance. Hand-rolled tends to be earthier, less uniform, and built on actual materials; machine-made tends to be cheaper, stronger-smelling, and synthetic.
 

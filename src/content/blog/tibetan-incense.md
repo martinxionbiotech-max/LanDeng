@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P8 — Regional Incense Traditions"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Tibetan Incense (藏香): A Herbal Recipe, Not a Single Note
 
 **Direct answer:** Tibetan incense (藏香) is a thick, coreless stick made from a blended herbal recipe — not a single "scent." Its tradition comes from Tibetan medicine and monastery ritual, and the point is the **blend**: earthy, herbal, and smoky, built from juniper, sandalwood, clove, and many other botanicals.
 
@@ -57,7 +56,7 @@ The recipes are often described as combining **two dozen or more** ingredients; 
 
 Tibetan incense is inseparable from **Sowa Rigpa**, the traditional Tibetan medical system, and from **Buddhist monastery practice**. Many recipes were formulated as ritual or medicinal compounds, and the incense is burned in monasteries, during meditation, and for purification rituals.
 
-This is the honest framing: the *cultural and ritual* meaning is real and well documented; any *medical* effect of the incense is **not** established clinical fact, and [BRAND] makes no such claims.
+This is the honest framing: the *cultural and ritual* meaning is real and well documented; any *medical* effect of the incense is **not** established clinical fact, and LanDeng makes no such claims.
 
 ---
 
@@ -92,7 +91,7 @@ Because recipes vary so much, the label is your main signal:
 
 Tibetan incense attracts a lot of overclaiming: that it "balances chakras," "clears negative energy," or "treats illness." The cultural and ritual meaning is real and well documented; the *therapeutic or spiritual-technology* claims are not evidence-based.
 
-[BRAND] treats Tibetan incense as what it is: a **herbal, recipe-based incense tradition** with a documented place in Sowa Rigpa and monastery ritual. That framing is honest and, for most readers, more useful than promises of healing.
+LanDeng treats Tibetan incense as what it is: a **herbal, recipe-based incense tradition** with a documented place in Sowa Rigpa and monastery ritual. That framing is honest and, for most readers, more useful than promises of healing.
 
 ## Common Mistakes
 

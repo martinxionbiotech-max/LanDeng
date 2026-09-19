@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P4 — Product Formats & Tools (history)"
 content_type: "article"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# 宣德炉 (Xuande Censer): The Ming Collector's Censer
 
 **Direct answer:** The 宣德炉 is the **most famous — and most copied — incense censer in Chinese history**, cast by imperial order during the **Xuande reign (宣德, 1426–1435)** of the Ming dynasty, using imported copper. Its plain, elegant form and prized patina made it the standard by which later censers were judged.
 

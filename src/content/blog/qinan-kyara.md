@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P2 — Scent & Ingredient (authority reference)"
 content_type: "authority_reference"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# 奇楠 (Qinan / Kyara): The Grade English Calls by a Japanese Name
 
 **Direct answer:** 奇楠 (qínán) is the **top grade of agarwood** — a resin-transformed material so saturated it is soft, pliable, and aromatic even at room temperature. English and Japanese readers usually meet it as **"kyara"**, the Japanese reading of the same characters — which is itself a clue to how the name traveled.
 

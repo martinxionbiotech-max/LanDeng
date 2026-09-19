@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P9 — Incense Craft & Materials (hub)"
 content_type: "hub"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# How Incense Is Made: From Wood and Resin to Stick and Coil
 
 **Direct answer:** Incense is made by grinding fragrant materials (woods, resins, flowers, spices) into a powder, blending them — often with a natural binder — adding water to form a paste, then shaping it into sticks, coils, or cones and drying it. There are two broad methods: **hand-rolled** (from real botanicals) and **machine-made** (mass-produced, often fragrance-dipped).
 

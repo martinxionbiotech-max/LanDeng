@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P11 — Incense & Mindfulness Practice (hub)"
 content_type: "hub"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense in Daily Ritual: Scent as a Marker of Time and Transition
 
 **Direct answer:** Incense is most useful as a **ritual cue** — a consistent scent at a consistent moment that marks a transition: starting work, sitting to meditate, winding down in the evening. The value is in the **repetition**, not in any special property of the smoke.
 

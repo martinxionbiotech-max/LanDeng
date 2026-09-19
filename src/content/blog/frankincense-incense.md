@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Frankincense Incense (乳香): The Resin of Bright, Focusing Rituals
 
 **Direct answer:** Frankincense is the dried gum-resin of *Boswellia* trees (family Burseraceae) — one of the oldest incense materials in the world. As incense it burns (or, better, is gently heated) into a fresh, resinous, slightly citrus scent that is often described as "bright" and "clearing" — a clean, focusing atmosphere rather than a heavy, sleepy one.
 
@@ -71,7 +70,7 @@ The practical signal: **origin and grade matter more than the word "frankincense
 
 Two accuracy points that most frankincense blogs get wrong:
 
-1. **The health claims are overreach.** Frankincense is attached to a long list of claimed benefits — treating arthritis, asthma, inflammation, even cancer. These are **traditional use and/or preliminary laboratory research, not established clinical fact.** [BRAND] does not repeat them as therapeutic claims.
+1. **The health claims are overreach.** Frankincense is attached to a long list of claimed benefits — treating arthritis, asthma, inflammation, even cancer. These are **traditional use and/or preliminary laboratory research, not established clinical fact.** LanDeng does not repeat them as therapeutic claims.
 
 2. **The chemistry is often misstated.** The boswellic acids (such as AKBA) that lab research focuses on are **not present in steam-distilled frankincense essential oil** — they are too non-volatile and appear mainly in solvent extracts. The essential oil is mostly monoterpenes and sesquiterpenes (alpha-pinene, limonene, thujene). So a claim that "frankincense essential oil contains boswellic acids" is simply wrong.
 
@@ -127,6 +126,8 @@ The honest way to say it: frankincense is a scent people associate with **clarit
 - No therapeutic claims are made. Traditional-medicine phrases (e.g. Chinese "activating blood") are recorded as historical/traditional context only.
 
 ---
+
+**Related data asset:** the <a href="/blog/scent-wheel/">scent wheel</a> shows where frankincense&rsquo;s resinous notes sit among the families.
 
 ## FAQ
 

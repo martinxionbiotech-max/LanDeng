@@ -6,11 +6,10 @@ search_intent: "commercial_investigation"
 pillar: "P7 — Incense vs Alternatives"
 content_type: "article"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense Sticks vs Candles: Flame, Smoke, and the Real Differences
 
 **Direct answer:** An incense stick burns plant material (wood, resin, botanicals) into aroma and smoke; a candle burns wax as a fuel, with fragrance added. The practical differences are an **open flame** (candle) versus an **ember** (incense), and **material smoke** (incense) versus **wax soot** (candle).
 

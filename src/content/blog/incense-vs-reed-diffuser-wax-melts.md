@@ -6,11 +6,10 @@ search_intent: "commercial_investigation"
 pillar: "P7 — Incense vs Alternatives"
 content_type: "article"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense vs Reed Diffuser vs Wax Melts: Combustion, Evaporation, and Warming
 
 **Direct answer:** These three release scent by three different mechanisms — incense by **combustion**, a reed diffuser by **passive evaporation**, and wax melts by **warming**. Incense gives smoke and a material, ritual character; a reed diffuser gives a constant, flameless scent with no effort; wax melts give a re-meltable, flameless scent (with an electric warmer).
 

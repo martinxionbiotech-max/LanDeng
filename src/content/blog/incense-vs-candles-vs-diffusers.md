@@ -6,11 +6,10 @@ search_intent: "commercial_investigation"
 pillar: "P7 — Incense vs Alternatives (hub)"
 content_type: "hub"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense vs Candles vs Diffusers: Which Scent Method Is Right for You?
 
 **Direct answer:** The three main ways to scent a room — **incense**, **candles**, and **diffusers** — differ by how they release scent: incense **burns** plant material, candles **burn wax**, and diffusers **evaporate** oil. The right one depends on whether you want smoke, flame, or neither.
 

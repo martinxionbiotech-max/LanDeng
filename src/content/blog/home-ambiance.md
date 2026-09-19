@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P3 — Use Scenarios"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense for Home Ambiance: Scenting a Room & Welcoming Guests
 
 **Direct answer:** Incense for home ambiance is a **room-filling, welcoming scent** — cedar, sandalwood, or frankincense — burned to scent a space and set a tone. It is the oldest use of incense: fragrance as a feature of the room, not a personal ritual.
 
@@ -55,7 +54,7 @@ See [which incense format](/blog/which-incense-format/) for the full comparison.
 
 ## A Note on "Space Clearing"
 
-"Space clearing" and "energy cleansing" are common phrases in incense marketing. The **observable** truth: a fresh, resinous scent (like frankincense) genuinely changes how a room smells, and the ritual of airing and scenting a space is an old, sensible habit. The "energy" part is **belief, not a verifiable effect** — [BRAND] describes the scent and the habit, not the metaphysics.
+"Space clearing" and "energy cleansing" are common phrases in incense marketing. The **observable** truth: a fresh, resinous scent (like frankincense) genuinely changes how a room smells, and the ritual of airing and scenting a space is an old, sensible habit. The "energy" part is **belief, not a verifiable effect** — LanDeng describes the scent and the habit, not the metaphysics.
 
 ---
 
@@ -99,7 +98,7 @@ Cedar or sandalwood — warm, clean, and room-filling without being sharp. See t
 Burn a clean wood or resin in a ventilated space, and match the format to how long you want the scent to last. See [which incense format](/blog/which-incense-format/).
 
 ### Q: Does incense purify the air?
-[BRAND] makes no such claim. Incense adds fragrance and smoke; it does not clean the air, and burning it requires ventilation.
+LanDeng makes no such claim. Incense adds fragrance and smoke; it does not clean the air, and burning it requires ventilation.
 
 ### Q: What is the difference between a stick and a coil for ambiance?
 A stick burns ~30–60 minutes; a coil burns for hours. Pick by how long you want the scent. See [incense coils](/blog/incense-coils/).

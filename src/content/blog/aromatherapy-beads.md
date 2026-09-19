@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P4 — Product Formats"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Aromatherapy Beads & Scented Bracelets: Worn Scent, No Smoke
 
 **Direct answer:** Aromatherapy beads are porous beads (often wood, stone, or clay) that are **scented with essential oil and worn**, so the aroma is released slowly as a personal scent — with **no burning and no smoke**. They are the portable, zero-smoke option in the incense family.
 
@@ -53,7 +52,7 @@ Beads solve the problem of wanting a scent in a **no-smoke environment** (office
 
 ## The Compliance Line
 
-Aromatherapy content is full of claims that scents "reduce anxiety," "balance moods," or "heal." [BRAND] makes **no such claims**. Beads are a **fragrance and comfort object**: the aroma is real, the experience is subjective, and no physiological effect is asserted. See [what is aromatherapy](/blog/essential-oils-in-incense/) for the honest framing.
+Aromatherapy content is full of claims that scents "reduce anxiety," "balance moods," or "heal." LanDeng makes **no such claims**. Beads are a **fragrance and comfort object**: the aroma is real, the experience is subjective, and no physiological effect is asserted. See [what is aromatherapy](/blog/essential-oils-in-incense/) for the honest framing.
 
 ---
 

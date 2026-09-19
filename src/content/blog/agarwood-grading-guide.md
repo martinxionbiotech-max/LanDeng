@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P2 — Scent & Ingredient (authority reference)"
 content_type: "authority_reference"
 last_reviewed: "2026-09-11"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Agarwood Grading: 沉香, 沉水, and 奇楠 — the Definitive Reference
 
 **Direct answer:** Agarwood (沉香 chénxiāng) is graded primarily by **resin density** — expressed in the 沉水 (sink-in-water) system — and by the **奇楠 (qínán) distinction**, which separates the top "oil-wraps-wood" grade from ordinary "wood-wraps-oil" agarwood. The five-color 奇楠 hierarchy (白/绿/紫/黄/黑) is a further, traditional subdivision.
 
@@ -137,6 +136,8 @@ More rigorous 考证 argues that **tagara is a mistranslation** — the Sanskrit
 - No therapeutic or medical claims are made.
 
 ---
+
+**Related data asset:** the <a href="/blog/incense-material-comparison-matrix/">material comparison matrix</a> places agarwood against its substitutes and complements.
 
 ## FAQ
 

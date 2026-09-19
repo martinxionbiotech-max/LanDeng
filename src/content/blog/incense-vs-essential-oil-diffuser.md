@@ -6,11 +6,10 @@ search_intent: "comparison"
 pillar: "P7 — Incense vs Alternatives"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense vs Essential Oil Diffuser: Smoke, Scent, and How They Actually Differ
 
 **Direct answer:** Incense and essential-oil diffusers both fill a room with fragrance, but they do it through opposite mechanisms. Incense is **combustion or gentle heating of solid aromatic material** — wood, resin, or a formed stick — which produces aroma *and* smoke. A diffuser **disperses liquid essential oil into the air**, usually as an ultrasonic mist or via heat, with **no combustion and no smoke**. They differ in method, materials, scent character, cost per use, and the air-quality tradeoff each one carries.
 

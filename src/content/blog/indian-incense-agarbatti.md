@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P8 — Regional Incense Traditions"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Indian Incense (Agarbatti): Bold, Expressive, and Two Very Different Grades
 
 **Direct answer:** Indian incense — *agarbatti* (from Sanskrit *agarvarti*, "agar smoke") — is a bamboo-core stick carrying a fragrant paste, burned for bold, expressive, often smoky scent. It splits into two very different products: **masala** agarbatti (hand-rolled from real botanicals) and **charcoal/dipped** agarbatti (a perfume-dipped core). Knowing which is which is the key to understanding what you are buying.
 
@@ -85,7 +84,7 @@ Dipped agarbatti, by contrast, starts with a bare or charcoal-coated core that i
 
 ## Why Honesty Matters (vs. Affiliate "Best Incense" Lists)
 
-Indian incense is a favorite of affiliate "best incense" roundups, which rank sticks by commission rather than by the masala-vs-dipped distinction. [BRAND] takes a different approach: explain **what you are actually buying** — real botanicals hand-rolled, or a perfume-dipped core — and let the material tell you what it is worth. That is more useful than a ranked list of sponsored sticks.
+Indian incense is a favorite of affiliate "best incense" roundups, which rank sticks by commission rather than by the masala-vs-dipped distinction. LanDeng takes a different approach: explain **what you are actually buying** — real botanicals hand-rolled, or a perfume-dipped core — and let the material tell you what it is worth. That is more useful than a ranked list of sponsored sticks.
 
 ## Common Mistakes
 

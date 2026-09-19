@@ -6,11 +6,10 @@ search_intent: "commercial_investigation"
 pillar: "P4 — Product Formats (hub)"
 content_type: "hub"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Which Incense Format Is Right for You? Sticks, Cones, Coils, Powder & Beads
 
 **Direct answer:** The main incense formats are **sticks** (the everyday default), **backflow cones** (a visual waterfall effect), **coils** (hours-long burn), **powder & resin** (loose material on heat), and **aromatherapy beads** (scented bracelets, no burning). The right one depends on **burn time, smoke, and whether you want a visual**.
 
@@ -83,6 +82,8 @@ Most "sticks vs cones" content is an affiliate listicle ranking products. This h
 - No health or safety-superiority claims are made across formats.
 
 ---
+
+**Related data asset:** the <a href="/blog/incense-burn-time-format-matrix/">burn-time matrix</a> compares burn time across formats and sizes.
 
 ## FAQ
 

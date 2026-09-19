@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P1 — Chinese Incense 101"
 content_type: "glossary"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense Terminology Glossary: Stick, Coil, Cone, Resin, and Powder
 
 **Direct answer:** Incense comes in several **forms** — stick (线香), coil (盘香), cone, resin (香脂/香片), and powder (香粉) — plus prepared styles like backflow cones and coreless sticks. The form determines how it burns, how long it lasts, and what holder it needs.
 

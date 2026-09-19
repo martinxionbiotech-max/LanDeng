@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P9 — Chinese Incense Recipes (香方)"
 content_type: "recipe"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# 荷香 (Lotus Incense): The Symbol Over the Flower
 
 **Direct answer:** 荷香 (lotus incense) is a **symbol first, a material second**. In classical incense, "lotus" was usually built as an *accord* — a fresh, clean floral impression assembled from woods and herbs — because the flower's own scent is too delicate to survive burning. Later manuals used **actual lotus** in compound blends.
 

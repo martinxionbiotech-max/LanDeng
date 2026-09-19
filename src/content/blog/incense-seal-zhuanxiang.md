@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P4 — Product Formats & Tools (how-to)"
 content_type: "article"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# 香篆 (Seal Incense): Powder Pressed Into Patterns, and a Clock
 
 **Direct answer:** 香篆 (xiāng zhuàn, "incense seal" or 打香印 "stamping incense") is the practice of **pressing incense powder into a carved pattern** using a mold, then lighting one end so the pattern burns in sequence. The two purposes are **visual beauty** and **timekeeping** — the length of the pattern determines the burn duration.
 

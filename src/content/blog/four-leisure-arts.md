@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P11 — Culture & Mindfulness"
 content_type: "article"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# 四般闲事 (Four Leisure Arts): Incense, Tea, Painting, and Flowers
 
 **Direct answer:** 四般闲事 ("four leisurely arts") is the Song-dynasty ideal of cultivated leisure — **烧香 (burning incense), 点茶 (whisking tea), 挂画 (hanging paintings), and 插花 (arranging flowers)**. The phrase comes from 吴自牧's *梦粱录* (Meng Liang Lu): "烧香点茶，挂画插花，四般闲事，不宜累家" — four leisurely arts, not to be burdened by household cares.
 

@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide (hub)"
 content_type: "hub"
 last_reviewed: "2026-09-11"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# The Complete Incense Scent Guide: Choosing a Scent by Atmosphere
 
 **Direct answer:** Incense scents fall on a spectrum from **bright and energizing** (citrus, frankincense) through **uplifting florals** (lotus, lavender) to **calming woods** (sandalwood) and **deep, enveloping resins** (agarwood). Choosing a scent is really choosing an **atmosphere** — a fresh, focusing lift versus a warm, grounding calm.
 

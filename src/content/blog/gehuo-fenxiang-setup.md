@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P4 — Product Formats & Tools (how-to)"
 content_type: "how_to"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# 隔火焚香 (Indirect-Fire Incense): How to Scent a Room Without Smoke
 
 **Direct answer:** 隔火焚香 (gé huǒ fén xiāng, "incense across fire") is the classical method of **heating incense without burning it** — a hot charcoal buried in ash, with a thin plate (silver leaf or mica) on top carrying the incense material. The material **warms but does not combust**, releasing aroma with almost no smoke.
 

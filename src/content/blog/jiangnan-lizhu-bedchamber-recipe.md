@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P9 — Chinese Incense Recipes (香方)"
 content_type: "recipe"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# 江南李主帐中香 (The Lord of Jiangnan's Bedchamber Incense): Recipe
 
 **Direct answer:** 江南李主帐中香 is a classical 合香 attributed to **李煜 (Li Yu)**, the last ruler of the Southern Tang — hence "江南李主" ("Lord of Jiangnan"). Its most famous version steams **agarwood and a trace of sandalwood inside hollowed goose pears**, infusing the wood with a clean, sweet fruit note.
 

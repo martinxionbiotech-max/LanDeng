@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P8 — Regional Incense Traditions"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Japanese Incense & Kōdō (香道): The Art That Came From China
 
 **Direct answer:** Kōdō (香道, "the Way of Fragrance") is Japan's formal art of appreciating incense, counted alongside the tea ceremony (sadō) and flower arranging (kadō) as one of the three classical arts of refinement. It centers on "listening" to fragrant woods — chiefly agarwood (jinkō 沈香) — through codified ritual and incense-comparing games. Crucially, **kōdō is not the origin of the art: it descended from Chinese incense culture, specifically the Song-dynasty technique of 隔火焚香 (indirect-fire incense), which reached Japan with Buddhism and tea.**
 

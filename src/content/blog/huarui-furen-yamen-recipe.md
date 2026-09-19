@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P9 — Chinese Incense Recipes (香方)"
 content_type: "recipe"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# 花蕊夫人衙香 (Huarui Furen's Court Incense): Recipe
 
 **Direct answer:** 花蕊夫人衙香 is a rich court 合香 attributed to **花蕊夫人 (Lady Huarui)**, the famous consort of the Later Shu ruler 孟昶. It is built on the classic court trio — **agarwood, sandalwood, and musk** — with frankincense, borneol, and ambergris-derived 甲香 for depth.
 

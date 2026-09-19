@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P4 — Product Formats"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense Sticks: The Everyday Format, Explained
 
 **Direct answer:** An incense stick is a thin rod of fragrant material — either a **bamboo core** coated in a paste, or a **coreless** stick pressed from the material itself — that burns for roughly 20–60 minutes. It is the everyday incense format: predictable, low-effort, and easy to time.
 
@@ -89,6 +88,8 @@ Most "incense stick" content is an affiliate roundup. This page explains the **f
 - No health claims are made.
 
 ---
+
+**Related data asset:** the <a href="/blog/incense-burn-time-format-matrix/">burn-time matrix</a> places stick burn times against other formats.
 
 ## FAQ
 

@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Sandalwood Incense (檀香): Aroma, Species, and How to Read the Claims
 
 **Direct answer:** Sandalwood incense is made from the aromatic heartwood of *Santalum* trees — most classically Indian sandalwood (*Santalum album*) — prized for a creamy, soft, sweet-woody aroma. It is a cornerstone of Chinese, Indian, and Japanese incense traditions, but "sandalwood" on a label can mean several different species or even a synthetic fragrance, so the material matters as much as the name.
 
@@ -57,7 +56,7 @@ The English search results for "sandalwood incense" are dominated by unverified 
 
 **How to read this:** most of these are **traditional belief or unverified claim**, not established clinical evidence. A few relate to preliminary or mechanistic research on santalol compounds, but that is not the same as a proven therapeutic effect.
 
-The honest position, and the one [BRAND] takes:
+The honest position, and the one LanDeng takes:
 
 - Sandalwood is a **cultural and aromatic material** with a long traditional use.
 - Its fragrance can contribute to a **calming atmosphere** and an **unwinding routine**.
@@ -117,7 +116,7 @@ Both are precious aromatic woods, but different materials: sandalwood is *Santal
 No. The classic is *Santalum album*; Australian, New Caledonian, and Hawaiian species are common substitutes, and some "sandalwood" products are synthetic fragrance.
 
 ### Q: Does sandalwood incense help you sleep or reduce anxiety?
-[BRAND] makes no medical claims. It is traditionally associated with calming, and many people use it in a wind-down routine, but it is not a treatment.
+LanDeng makes no medical claims. It is traditionally associated with calming, and many people use it in a wind-down routine, but it is not a treatment.
 
 ### Q: How can I tell real sandalwood from synthetic?
 Confirm the species with the seller, check whether the product is wood/wood-powder versus fragrance oil, and treat a very low price as a signal of fragrance rather than wood.

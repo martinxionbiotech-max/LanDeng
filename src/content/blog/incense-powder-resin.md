@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P4 — Product Formats"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense Powder & Resin: The Pure-Material, Smoke-Light Format
 
 **Direct answer:** Incense powder and resin are **loose aromatic materials** — ground woods (like sandalwood powder) and resin tears (like frankincense or myrrh) — that are **heated rather than burned** to release their scent with minimal smoke. This is the closest you can get to the raw material, and it is the format behind refined Chinese and Japanese practice (隔火焚香).
 

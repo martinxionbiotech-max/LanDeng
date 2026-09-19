@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P10 — Aromatherapy & Botany"
 content_type: "article"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Plant Sources of Classic Incense Scents: A Botanical Map
 
 **Direct answer:** Every classic incense scent traces to a specific plant part — a **wood** (sandalwood, agarwood), a **resin** (frankincense, myrrh), a **flower** (jasmine, rose), a **peel** (citrus), or a **bud/bark** (clove, cassia). Knowing the plant source tells you what kind of material — and therefore what kind of scent and burn — you are getting.
 

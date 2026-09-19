@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P10 — Aromatherapy & Botany"
 content_type: "article"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Aroma Molecules and Mood: What the Chemistry Does (and Doesn't) Say
 
 **Direct answer:** Aroma molecules — like **linalool** (lavender), **limonene** (citrus), and **santalols** (sandalwood) — are volatile compounds that bind olfactory receptors and trigger a smell signal to the brain. The chemistry of *what a scent is* is well understood; the claim that a specific molecule *reliably produces a specific mood* is much less established than marketing suggests.
 
@@ -80,6 +79,8 @@ The honest statement: **a molecule gives a scent its character; the mood connect
 
 ---
 
+**Related data asset:** the <a href="/blog/scent-wheel/">scent wheel</a> maps the fragrance families discussed here to concrete incense materials.
+
 ## FAQ
 
 ### Q: Do aroma molecules affect mood?
@@ -102,7 +103,7 @@ A: The chemistry of *what a scent is* is solid; the psychology of *what mood it 
 A naturally occurring terpene alcohol found in lavender, many florals, and some herbs. It is the main molecule behind lavender's fresh-floral character. Its presence explains the smell, not a guaranteed mood effect.
 
 ### Q: Are there molecules that reliably relax you?
-[BRAND] makes no such claim. Some molecules appear in preliminary research on calming, but there is no established, dose-specific "relaxation molecule." The honest mechanism is association: a scent you pair with unwinding becomes an unwinding cue.
+LanDeng makes no such claim. Some molecules appear in preliminary research on calming, but there is no established, dose-specific "relaxation molecule." The honest mechanism is association: a scent you pair with unwinding becomes an unwinding cue.
 
 ### Q: Why do sandalwood and lavender smell different?
 Different volatile compounds — sandalwood is dominated by santalols, lavender by linalool and linalyl acetate. A molecule's structure determines its smell, which is why the two scents are unrelated despite both being called "calming."

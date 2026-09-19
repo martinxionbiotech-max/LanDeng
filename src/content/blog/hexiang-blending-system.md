@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P9 — Incense Craft & Materials (authority reference)"
 content_type: "authority_reference"
 last_reviewed: "2026-09-11"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# The 合香 Blending System: How Chinese Incense Is Composed Like a Formula
 
 **Direct answer:** Chinese incense is traditionally **blended, not single-note** — a practice called **合香 (hé xiāng)**, "compound incense." A 合香 blend is composed on a **君臣佐使 (chief–minister–assistant–guide)** principle, the same structural logic as a Chinese herbal formula, where each ingredient plays a defined role rather than just adding its scent.
 
@@ -151,6 +150,8 @@ This page describes the **cultural and technical framework** of 合香. It makes
 - No therapeutic or medical claims are made.
 
 ---
+
+**Related data asset:** the <a href="/blog/incense-material-comparison-matrix/">material comparison matrix</a> supports blend design with comparative material data.
 
 ## FAQ
 

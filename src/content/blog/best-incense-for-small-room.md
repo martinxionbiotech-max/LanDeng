@@ -6,11 +6,10 @@ search_intent: "commercial_investigation"
 pillar: "P7 — Incense vs Alternatives"
 content_type: "article"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Which Incense Is Better for a Small Room? Smoke, Burn Time, and Choice
 
 **Direct answer:** In a small room, smoke and scent concentrate faster, so the better choice is a **low-smoke, shorter-burn** incense — a thin stick, a coreless Japanese-style stick, or a resin gently warmed on an electric heater — rather than a thick, smoky, long-burning stick. Ventilation matters more in a small room, not less.
 

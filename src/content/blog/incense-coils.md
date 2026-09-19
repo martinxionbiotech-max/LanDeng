@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P4 — Product Formats"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense Coils: The Hours-Long Burn, Explained
 
 **Direct answer:** An incense coil (盘香, *pánxiāng*) is incense pressed into a spiral that **burns for hours** — often several — making it the format for long, steady room scenting and for temple and overnight-style use. The spiral shape is the whole trick: it packs a long burn into a compact footprint.
 
@@ -87,6 +86,8 @@ Most coil content is either a product listing or mosquito-coil content. This pag
 - No health or air-purification claims are made.
 
 ---
+
+**Related data asset:** the <a href="/blog/incense-burn-time-format-matrix/">burn-time matrix</a> shows where coils sit on the burn-time scale.
 
 ## FAQ
 

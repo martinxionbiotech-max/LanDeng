@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P6 — Care & Safety"
 content_type: "article"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Incense, Ventilation & Indoor Air: The Honest Picture on Smoke
 
 **Direct answer:** Burning incense releases fine particulate matter (PM2.5) and volatile organic compounds (VOCs) into the air — the same categories of pollutants as other combustion sources, including candles and cooking. For occasional use in a ventilated room, this is a minor exposure; the practical answer is to **ventilate** and avoid continuous burning in a sealed space.
 

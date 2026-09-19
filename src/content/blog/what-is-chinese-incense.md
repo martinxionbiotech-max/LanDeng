@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P1 — Chinese Incense 101"
 content_type: "cornerstone"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# What Is Chinese Incense? A Plain Guide to 香 (Xiāng)
 
 **Direct answer:** Chinese incense is aromatic plant material — fragrant woods, resins, and dried botanicals, either burned directly or gently heated over charcoal — used for thousands of years as part of ritual, aesthetic, and daily life. In modern terms it includes both the classical materials (agarwood 沉香, sandalwood 檀香, frankincense 乳香) and the formed products made from them: sticks 线香, coils 盘香, cones, and loose powder.
 
@@ -106,7 +105,7 @@ This "middle path" — richer than Japanese minimalism, cleaner than Indian bold
 
 - History dates use conservative framing. The earliest material evidence is the oracle-bone 香 (Shang dynasty); ritual incense is clear from the Han dynasty. Claims of "5,000 years" are not used here as established fact.
 - "香道 originated in China, and kōdō descended from Song 隔火焚香" is stated with high confidence on the basis of multiple secondary sources, but the precise transmission detail is a historical interpretation rather than a single primary-source fact.
-- This page makes **no health or therapeutic claims.** See [BRAND]'s safety page for combustion and ventilation guidance.
+- This page makes **no health or therapeutic claims.** See LanDeng's safety page for combustion and ventilation guidance.
 
 ---
 
@@ -122,7 +121,7 @@ No. They share "pleasant smell" but differ in materials, method (heating/burning
 Loose material (wood chips, resin, powder), formed sticks 线香, coils 盘香, and cones. Stick incense is a Ming-dynasty-era everyday form.
 
 ### Q: Does incense help you sleep or reduce anxiety?
-[BRAND] does not make medical claims. Many people use a calming fragrance as part of an unwinding routine, but incense is a wellness and ambiance practice, not a treatment.
+LanDeng does not make medical claims. Many people use a calming fragrance as part of an unwinding routine, but incense is a wellness and ambiance practice, not a treatment.
 
 ---
 

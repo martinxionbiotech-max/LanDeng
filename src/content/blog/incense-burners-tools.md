@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P4 — Product Formats & Tools (hub)"
 content_type: "hub"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# Chinese Incense Burners & Tools (香炉香具): The Complete Guide
 
 **Direct answer:** Chinese incense requires more than a stick and a lighter. The tradition developed a full set of **burners (香炉)** and **tools (香具)** — from the mountain-shaped 博山炉 to the collectible 宣德炉, and a toolkit of chopsticks, spoons, and spatulas for the smoke-free 隔火焚香 method.
 

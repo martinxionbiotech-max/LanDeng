@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P9 — Chinese Incense Recipes (香方)"
 content_type: "recipe"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# 二苏旧局 (The Two Sus' Old Gathering): A Modern Revival Recipe
 
 **Direct answer:** 二苏旧局 is a **contemporary** 合香 — not an ancient 香谱 text — from 陈云君 (Chen Yunjun)'s *燕居香语*. It is named for the brothers **苏轼 and 苏辙** (the "two Su" literati) and built to evoke a scholar's study: agarwood, sandalwood, frankincense, amber, honey, and jasmine.
 

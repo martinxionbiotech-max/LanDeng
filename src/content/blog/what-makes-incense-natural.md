@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P9 — Incense Craft & Materials"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# What Makes Incense "Natural"? Binders, Bases, and the Label Problem
 
 **Direct answer:** There is no single legal definition of "natural" incense, but the term is generally taken to mean incense whose aromatic material comes from **plants** — woods, resins, dried botanicals — and whose binder and combustion agent are also **plant-based** (traditionally makko, the bark powder of the tabu tree *Machilus thunbergii*), with **no synthetic fragrance, petrochemical binder, or charcoal/fragrance-oil base.** The catch: "natural" is an unregulated marketing word, and it says nothing about smoke, so "natural" does **not** mean "safe" or "smoke-free."
 

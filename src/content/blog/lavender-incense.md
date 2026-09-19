@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"
 content_type: "article"
 last_reviewed: "2026-09-09"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# Lavender Incense: A Western Scent in the Modern Incense Lineup
 
 **Direct answer:** Lavender incense is incense scented with lavender — most classically English lavender (*Lavandula angustifolia*), a flowering shrub in the mint family (Lamiaceae). Unlike sandalwood and agarwood, lavender is **not** part of the classical Chinese 香谱 (incense-manual) canon; it entered incense through Western and modern aromatherapy practice. It is widely used as a soft floral scent for unwinding routines.
 
@@ -22,7 +21,7 @@ author: "\"[AUTHOR]\""
 
 - Lavender = **Lavandula angustifolia** (and related species), family Lamiaceae; key aroma compounds are **linalool** and **linalyl acetate**.
 - It is a **Western-origin scent**, not one of the classical Chinese incense ingredients (agarwood, sandalwood, frankincense, etc.).
-- The English SERP for "lavender incense" is full of **unsupported health claims** (treats insomnia, relieves anxiety, "balances chakras," "releases mood-boosting hormones"). [BRAND] does not make these claims.
+- The English SERP for "lavender incense" is full of **unsupported health claims** (treats insomnia, relieves anxiety, "balances chakras," "releases mood-boosting hormones"). LanDeng does not make these claims.
 - The honest role of lavender is a **soft, floral signal for a calming, unwinding routine** — a wellness/ambiance practice, not medicine.
 
 ---
@@ -108,7 +107,7 @@ It is often the "unwind" note in a modern brand's scent range, complementary to 
 No. The classical Chinese canon centers on agarwood, sandalwood, frankincense, myrrh, and similar materials. Lavender is a Western-origin botanical that entered incense through modern aromatherapy practice.
 
 ### Q: Does lavender incense help you sleep or reduce anxiety?
-[BRAND] makes no medical claims. Many people use its soft floral scent as part of a calming evening routine, but it is a wellness/ambiance practice, not a treatment.
+LanDeng makes no medical claims. Many people use its soft floral scent as part of a calming evening routine, but it is a wellness/ambiance practice, not a treatment.
 
 ### Q: Is all lavender incense made from real lavender?
 Not necessarily. Much commercial lavender incense is fragrance-oil-based. Check whether the product uses lavender flowers/essential oil versus a synthetic lavender fragrance.
@@ -130,7 +129,7 @@ The same as other sticks — roughly 20–60 minutes depending on length and thi
 All incense produces smoke and particulate matter, and pets can be more sensitive to airborne irritants. Burn in a ventilated space, keep it away from pets, and watch for any reaction. This is general safety guidance, not a claim about any specific condition.
 
 ### Q: Is lavender incense good for evening unwinding?
-Many people use its soft floral scent as part of a calming evening routine — a repeated, low-effort signal that anchors wind-down time. That is a routine-and-ambiance practice, not a treatment: [BRAND] makes no sleep or anxiety claims. See the [meditation guide](/blog/incense-for-meditation/) for the timer/anchor/cue framing.
+Many people use its soft floral scent as part of a calming evening routine — a repeated, low-effort signal that anchors wind-down time. That is a routine-and-ambiance practice, not a treatment: LanDeng makes no sleep or anxiety claims. See the [meditation guide](/blog/incense-for-meditation/) for the timer/anchor/cue framing.
 
 ### Q: What is the difference between lavender incense and lavender essential oil?
 Lavender essential oil is the concentrated steam-distilled extract of the flower; lavender incense is a scented product (often a base carrying a lavender fragrance or oil, sometimes actual lavender botanicals). They smell related but are different products — and much commercial lavender incense uses fragrance oil, not real lavender. See [essential oils in incense](/blog/essential-oils-in-incense/).
@@ -139,7 +138,7 @@ Lavender essential oil is the concentrated steam-distilled extract of the flower
 
 - Botanical/chemistry references for *Lavandula angustifolia* and linalool/linalyl acetate.
 - English SERP and DTC sources (reviewed) documenting the overclaiming pattern — used only to identify the gap, not as factual sources.
-- [BRAND] safety page for combustion and ventilation guidance.
+- LanDeng safety page for combustion and ventilation guidance.
 
 ---
 

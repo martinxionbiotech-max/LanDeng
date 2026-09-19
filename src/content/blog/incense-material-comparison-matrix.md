@@ -6,11 +6,10 @@ search_intent: "commercial_investigation"
 pillar: "P2 — Scent & Ingredient (comparison data asset)"
 content_type: "data_asset"
 last_reviewed: "2026-09-11"
-brand: "[BRAND]"
-author: "[AUTHOR]"
+brand: "LanDeng"
+author: "LanDeng Editorial Team"
 ---
 
-# Incense Material Comparison Matrix: 7 Classical Materials at a Glance
 
 **Direct answer:** The seven classical incense materials — **agarwood, sandalwood, frankincense, borneol, benzoin, myrrh, and clove** — differ along five axes: **aroma, botanical source, relative price, use, and substitution risk.** This matrix puts them side by side, because most English content compares only agarwood and sandalwood.
 

@@ -6,11 +6,10 @@ search_intent: "informational"
 pillar: "P10 — Aromatherapy & Botany (hub)"
 content_type: "hub"
 last_reviewed: "2026-09-10"
-brand: "\"[BRAND]\""
-author: "\"[AUTHOR]\""
+brand: "\"LanDeng\""
+author: "\"LanDeng Editorial Team\""
 ---
 
-# How Aromatherapy Works: Smell, Memory, and the Honest Science
 
 **Direct answer:** Aromatherapy works through the **sense of smell**: odor molecules bind receptors in the nose, which send signals to brain regions involved in emotion and memory. This is why a scent can feel powerfully "calming" or "energizing" — but the honest part is that most specific "this scent → this mood" claims are **cultural association and preliminary research, not established science.**
 
