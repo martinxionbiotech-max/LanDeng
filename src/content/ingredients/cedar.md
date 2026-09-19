@@ -14,7 +14,6 @@ related: ["vetiver", "patchouli"]
 
 <img src="/images/cedar-raw-material-800x533.webp" alt="A cedarwood block with fine wood shavings beside it." width="800" height="533" loading="lazy">
 
-
 **Data summary:** "Cedar" in incense is a confusing common name. It can mean **true cedar** (*Cedrus* species, such as Himalayan cedar *C. deodara*) or — very often in "cedarwood" products — **red cedar** (*Juniperus virginiana*), a juniper, not a true cedar. Both are used for a clean, woody, slightly sweet aroma.
 
 ## Key facts
@@ -69,10 +68,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Is "cedarwood" a true cedar?** Often not. Commercial "cedarwood" oil is frequently distilled from red cedar (*Juniperus virginiana*), which is a juniper, not a true cedar in the genus *Cedrus*. True cedars include Himalayan cedar (*C. deodara*), Atlas cedar (*C. atlantica*), and Lebanon cedar (*C. libani*). Other plants called "cedar," such as Western red cedar (*Thuja plicata*), add further confusion. Because the common name "cedar" covers several unrelated conifers, the actual species on the label determines the aroma, and it is worth checking which one you are buying.
 
----
-
-## People Also Ask (Long-Tail)
-
 **What does cedar incense smell like?** Cedar incense has a clean, woody, slightly sweet-resinous aroma — a "dry wood" note, distinct from the creamy sweetness of sandalwood or the resinous depth of agarwood. It reads "quiet and clean" rather than sweet or deep, which is why it often serves as a base or background note in blends. The scent fills a room without dominating it, so cedar is usually paired with a resin or a warmer wood rather than burned as a solo statement.
 
 **What is the difference between cedar and sandalwood?** Cedar is a dry, clean, slightly sweet-resinous wood note, while sandalwood is creamy, sweet, and soft. Cedar tends to be lighter and sharper, with a "space-clearing" quality, whereas sandalwood is rounder, warmer, and more prized as a base note. Both are woody, but they sit at different weights in a blend: cedar provides a clean, airy background, and sandalwood anchors with a rich, milky sweetness. They are distinct aromas from different botanical sources.
@@ -81,11 +76,32 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Is cedar incense safe for pets?** All incense produces smoke and particulate matter, and that general caution applies to pets as well as people. Burn incense in a well-ventilated space, avoid letting smoke concentrate, and keep lit material and ash out of reach of children and pets, who may be more sensitive to airborne particles or curious about burning objects. This is general safety guidance that applies to every incense material, not a claim about any specific condition or about cedar in particular.
 
-**Is cedar incense the same as cedarwood oil?** Not necessarily. Commercial "cedarwood oil" often comes from red cedar (*Juniperus virginiana*), a juniper, while true cedar (*Cedrus*) is a different genus. This means the oil and what you might think of as "cedar wood" can come from entirely different plants. The two names overlap loosely in commerce, so a product labeled "cedar" could be based on either true cedar or a juniper-derived oil. Checking the species is the only way to know what you are actually getting.
-
 **What is the difference between cedar, sandalwood, and agarwood?** Cedar, sandalwood, and agarwood are three woods at three different weights. Cedar is dry, clean, and light — a "space-clearing" note that fills a room without dominating it. Sandalwood is creamy, sweet, and warm, a prized base note. Agarwood is deep, resinous, and sweet-complex, the most precious of the three. They come from different plants — cedar from *Cedrus* or juniper, sandalwood from *Santalum album*, and agarwood from resin-impregnated *Aquilaria* wood — and each fills a different role in a blend.
 
 See also: [sandalwood](/ingredients/sandalwood/), the [sandalwood incense guide](/blog/sandalwood-incense/), and the full [scent guide](/blog/scent-guide/).
+
+## Evidence & Sources
+
+### Botanical identity
+**Source:** [Cedrus in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005268) · [Cedrus on GBIF](https://www.gbif.org/species/5284698). **Evidence type:** Established.
+
+### Traditional Chinese use
+**Source:** this page records cedar's clean, dry wood note in incense blends and meditation settings, with the 雪松 (true cedar) naming note. **Evidence type:** Historically documented — traditional use, not modern clinical evidence.
+
+### Authenticity / adulteration
+**Source:** the naming problem — commercial "cedarwood" oil is often *Juniperus virginiana* (red cedar), not true *Cedrus*. **Evidence type:** Practical screening.
+
+### Safety
+**Source:** incense combustion produces smoke and particulate matter; burn in a well-ventilated space. **Evidence type:** Established.
+
+## Evidence status
+
+| Layer | Status |
+|---|---|
+| Botanical identity | Established |
+| Traditional use | Historically documented |
+| Authenticity test | Practical screening |
+| Health claims | Not established |
 
 ## Sources
 

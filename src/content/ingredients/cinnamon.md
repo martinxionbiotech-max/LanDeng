@@ -14,7 +14,6 @@ related: ["clove", "orange-peel"]
 
 <img src="/images/cinnamon-raw-material-800x533.webp" alt="Rolled cinnamon bark quills and broken bark strips." width="800" height="533" loading="lazy">
 
-
 **Data summary:** In Chinese tradition, "cinnamon" most often means **Chinese cassia** — the bark of *Cinnamomum cassia* (桂皮, *guìpí*), a tree native to southern China. It has a warm, spicy, sweet aroma and is used as a spice, in incense, and in traditional materia medica.
 
 ## Key facts
@@ -71,23 +70,42 @@ Incense combustion produces smoke and particulate matter — burn in a well-vent
 
 **What is the difference between 桂皮 and 肉桂?** Both are bark from *Cinnamomum cassia*, but they differ in grade and which layer is used. 桂皮 (guìpí) is the coarser outer bark, the everyday cooking spice, and is strong and economical. 肉桂 (ròuguì) is the finer inner bark, more refined and more expensive. The two names are often flattened into a single English "cinnamon," but Chinese distinguishes them. In a Chinese incense or cooking context, "cinnamon" usually refers to the coarser cassia bark (桂皮).
 
----
-
-## People Also Ask (Long-Tail)
-
 **What does cinnamon/cassia incense smell like?** Cassia incense has a warm, sweet, spicy aroma driven by cinnamaldehyde, the compound that gives cinnamon its characteristic scent. It reads as a warming spice — sweet up front, then a pungent, almost hot finish — and is stronger and less delicate than Ceylon cinnamon. In a blend, cassia acts as a supporting note that adds heat and depth, often paired with clove or citrus peel rather than burned as a solo scent. Its role is closer to a spice-cabinet accent than a sweet base.
 
 **Is cinnamon used in Chinese incense?** Yes. Cassia bark (桂皮) is a classic warm-spice note in Chinese 合香 (blended incense), used to add warmth and pungency. It usually plays a supporting role rather than leading the scent, adding a familiar, food-adjacent warmth that comes from its overlap with Chinese five-spice. Because its aroma is strong, cassia is typically blended with other ingredients — often clove or citrus peel — rather than burned alone. It is one of the traditional spice accents of classical Chinese incense formulas.
-
-**What is cinnamaldehyde?** Cinnamaldehyde is the principal aroma compound in cinnamon and cassia bark — the molecule responsible for their characteristic warm, spicy-sweet scent. It is an organic compound found in the bark's essential oil, and it is what gives both cassia and Ceylon cinnamon their familiar character, though in different concentrations. Cinnamaldehyde is also used industrially as a flavoring and fragrance ingredient. In an incense context, it is simply the compound behind the warm spice note.
-
-**Is cassia the same as Ceylon cinnamon?** No. Cassia (*Cinnamomum cassia*) is stronger and thicker, while Ceylon cinnamon (*Cinnamomum verum*) is milder and finer. Both are legitimate *Cinnamomum* barks, but they differ in aroma, price, and typical use — cassia is the standard "cinnamon" in North America and Chinese cooking, while Ceylon is favored in parts of Europe and South America. In a Chinese incense context, "cinnamon" almost always means cassia (桂皮) rather than the delicate Ceylon type.
 
 **Does cassia bark contain coumarin?** Yes — cassia bark contains coumarin, a naturally occurring compound that is a consideration for large dietary quantities but is not relevant to incense use. Coumarin is present at higher levels in cassia than in Ceylon cinnamon, which is why some health authorities advise caution about consuming large amounts of cassia. This is a factual note about the bark's composition, not a health recommendation, and it does not affect the safety or aroma of burning cassia as incense.
 
 **Is cassia the "cinnamon" in Chinese five-spice?** Yes. Cassia (桂皮) is one of the traditional five-spice (五香粉) components, alongside star anise, cloves, Sichuan pepper, and fennel. This is why its aroma reads as familiar and food-adjacent — the same spice that warms a Chinese braise also warms an incense blend. The overlap between culinary and incense use is common for cassia, and it explains why the scent feels immediately recognizable even outside a cooking context.
 
 See also: [clove](/ingredients/clove/), its frequent spice partner, and the full [scent guide](/blog/scent-guide/).
+
+## Evidence & Sources
+
+### Botanical identity
+**Source:** [Cinnamomum cassia in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008698) · [Cinnamomum aromaticum on GBIF](https://www.gbif.org/species/3033982). **Evidence type:** Established.
+
+### Traditional Chinese use
+**Source:** this page records cassia bark's traditional warming-formula uses in Chinese medicine and its role in 合香 (blended incense). **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
+
+### Commercial grading
+**Source:** the 桂皮 (guìpí) vs 肉桂 (ròuguì) grade/layer distinction and Chinese cassia vs Ceylon cinnamon (*C. verum*). **Evidence type:** Trade terminology.
+
+### Authenticity / adulteration
+**Source:** the "cinnamon vs cassia" buyer note — both are *Cinnamomum* barks but differ in aroma and price. **Evidence type:** Practical screening.
+
+### Safety
+**Source:** incense combustion produces smoke and particulate matter; cassia bark contains coumarin (relevant to large dietary consumption, not incense use). **Evidence type:** Established.
+
+## Evidence status
+
+| Layer | Status |
+|---|---|
+| Botanical identity | Established |
+| Traditional use | Historically documented |
+| Commercial grading | Trade terminology |
+| Authenticity test | Practical screening |
+| Health claims | Not established |
 
 ## Sources
 
