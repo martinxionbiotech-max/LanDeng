@@ -219,3 +219,15 @@ LanDeng SEO 标题精简批（P1）。渲染标题 = frontmatter `title` + 模�
   - before: `Incense for Business: A Buyer's Guide to Wholesale, OEM, and Private Label` (74 chars) → rendered 84
   - after:  `Incense for Business: Buying Wholesale & OEM` (44 chars) → rendered 54
 
+- `src/content/blog/incense-for-meditation.md`
+  - before: `Incense for Meditation: Formats, Burn Times, and Choosing a Scent` (65 chars) → rendered 75
+  - after:  `Incense for Meditation: Formats & Burn Times` (44 chars) → rendered 54
+
+- `src/content/blog/incense-gift-guide.md`
+  - before: `Incense Gift Guide: How to Choose a Thoughtful (and Honest) Incense Gift` (72 chars) → rendered 82
+  - after:  `Incense Gift Guide: Choosing a Thoughtful Gift` (46 chars) → rendered 56
+
+- `src/content/blog/incense-holder-burner-guide.md`
+  - before: `Incense Holder & Burner Guide: What You Need for Each Format` (60 chars) → rendered 70
+  - after:  `Incense Holder & Burner Guide: What You Need` (44 chars) → rendered 54
+
