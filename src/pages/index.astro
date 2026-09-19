@@ -122,18 +122,22 @@ const webSiteSchema = {
   }
 
   .hero-inner {
-    max-width: var(--max-prose);
+    max-width: 62rem;
   }
 
   .eyebrow,
   .section-label,
   .card-kicker {
     margin: 0 0 var(--space-2);
-    color: var(--amber);
+    color: var(--jade);
     font-size: 0.78rem;
     font-weight: 600;
     letter-spacing: 0.14em;
     text-transform: uppercase;
+  }
+
+  .hero .eyebrow {
+    margin-bottom: 0;
   }
 
   .hero h1 {
@@ -145,6 +149,11 @@ const webSiteSchema = {
     font-weight: 400;
   }
 
+  .hero h1,
+  .hero .lede {
+    text-wrap: balance;
+  }
+
   .lede {
     font-family: var(--serif);
     font-size: clamp(1.25rem, 2.6vw, 1.65rem);
@@ -154,12 +163,6 @@ const webSiteSchema = {
   .hero-note {
     color: var(--ink-soft);
     font-size: 0.95rem;
-  }
-
-  .text-link {
-    display: inline-block;
-    margin-top: var(--space-2);
-    font-weight: 500;
   }
 
   .section {
@@ -253,6 +256,12 @@ const webSiteSchema = {
     .section-heading {
       align-items: start;
       flex-direction: column;
+    }
+
+    .hero .text-link,
+    .section-heading .text-link {
+      width: 100%;
+      justify-content: center;
     }
   }
 </style>

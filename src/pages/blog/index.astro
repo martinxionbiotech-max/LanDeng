@@ -58,7 +58,7 @@ const posts = (await getCollection('blog')).sort((a, b) =>
   .lede {
     margin: 0;
     color: var(--ink-soft);
-    font-size: 1.05rem;
+    font-size: 1.15rem;
   }
 
   .guide-list {
@@ -82,6 +82,11 @@ const posts = (await getCollection('blog')).sort((a, b) =>
   .guide-title {
     color: var(--ink);
     font-weight: 600;
+    transition: color 180ms ease;
+  }
+
+  .guide-list a:hover .guide-title {
+    color: var(--wood);
   }
 
   .guide-pillar {

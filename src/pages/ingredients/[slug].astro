@@ -208,11 +208,15 @@ const structuredData = [
 
   .entity-type {
     margin: 0 0 var(--space-2);
-    color: var(--amber);
+    color: var(--jade);
     font-size: 0.78rem;
     font-weight: 600;
     letter-spacing: 0.14em;
     text-transform: uppercase;
+  }
+
+  .entity-header h1 {
+    font-size: clamp(1.9rem, 4vw, 2.7rem);
   }
 
   .entity-term {
@@ -246,11 +250,15 @@ const structuredData = [
 
   .section-label {
     margin: 0 0 var(--space-2);
-    color: var(--amber);
+    color: var(--jade);
     font-size: 0.78rem;
     font-weight: 600;
     letter-spacing: 0.14em;
     text-transform: uppercase;
+  }
+
+  .direct-answer .section-label {
+    color: var(--ink);
   }
 
   .direct-answer-text {
@@ -268,6 +276,8 @@ const structuredData = [
   .section-title {
     margin: 0 0 var(--space-3);
     font-size: 1.65rem;
+    max-width: var(--max-prose);
+    margin-inline: auto;
   }
 
   .fact-grid {
@@ -326,48 +336,29 @@ const structuredData = [
     margin-top: var(--space-6);
   }
 
-  .article-body :global(table) {
-    width: 100%;
-    margin: var(--space-3) 0;
-    border-collapse: collapse;
-    font-size: 0.95rem;
-  }
-
-  .article-body :global(th),
-  .article-body :global(td) {
-    padding: 0.65rem 0.75rem;
-    border-bottom: 1px solid var(--line);
-    text-align: left;
-    vertical-align: top;
-  }
-
-  .article-body :global(th) {
-    color: var(--ink-soft);
-    font-size: 0.8rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-  }
-
-  .article-body :global(blockquote) {
-    margin: var(--space-4) 0;
-    padding: var(--space-3) var(--space-4);
-    border-left: 3px solid var(--amber);
-    background: var(--paper-raise);
-    color: var(--ink-soft);
-  }
-
-  .article-body :global(blockquote p:last-child) {
-    margin-bottom: 0;
-  }
-
-  .article-body :global(a) {
-    color: var(--amber);
-  }
-
   .article-body :global(hr) {
     margin: var(--space-5) 0;
     border: 0;
     border-top: 1px solid var(--line);
+  }
+
+  /* The markdown body repeats the header, direct answer and key facts that the
+     structured sections above already render. Hide the markdown copies
+     (presentation only; the content remains in source). */
+  .entity-page .article-body > h1:first-child,
+  .entity-page .article-body > h1:first-child + p,
+  .entity-page .article-body > h2#key-facts,
+  .entity-page .article-body > h2#key-facts + table {
+    display: none;
+  }
+
+  .related {
+    border-top: 1px solid var(--line);
+    padding-block: var(--space-5) var(--space-6);
+  }
+
+  .related h2 {
+    margin-top: 0;
   }
 
   @media (max-width: 46rem) {
