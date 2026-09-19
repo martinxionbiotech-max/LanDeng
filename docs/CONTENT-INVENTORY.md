@@ -9,7 +9,7 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | Field | Meaning |
 |---|---|
 | slug | content ID / URL segment |
-| pillar | canonical pillar-cluster (blog: P1–P11 + Commercial) |
+| pillar | canonical pillar-cluster (blog: P1–P12 + Commercial) |
 | cluster_role | role within the cluster — `hub` = the single pillar hub; others: `article · recipe · guide · glossary · authority_reference · data_asset · history · how_to · buyer_intelligence · reference` |
 | status | `live` (all pages are built and served) |
 | words | body word count (frontmatter excluded) |
@@ -102,31 +102,31 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `middle-eastern-incense` | P8 — Regional Incense Traditions | `article` | live | 1553 |
 | `tibetan-incense` | P8 — Regional Incense Traditions | `article` | live | 1638 |
 | `world-incense-traditions` | P8 — Regional Incense Traditions | `hub` | live | 1213 |
-| `baizi-incense-recipe` | P9 — Incense Craft & Recipes | `recipe` | live | 1132 |
-| `chinese-incense-recipes` | P9 — Incense Craft & Recipes | `recipe` | live | 1298 |
-| `ersu-jiuju-recipe` | P9 — Incense Craft & Recipes | `recipe` | live | 1093 |
-| `hand-rolled-vs-machine-made` | P9 — Incense Craft & Recipes | `article` | live | 1043 |
-| `hexiang-blending-system` | P9 — Incense Craft & Recipes | `authority_reference` | live | 2420 |
-| `how-incense-is-made` | P9 — Incense Craft & Recipes | `hub` | live | 1250 |
-| `huarui-furen-yamen-recipe` | P9 — Incense Craft & Recipes | `recipe` | live | 1097 |
-| `incense-authentication-database` | P9 — Incense Craft & Recipes | `buyer_intelligence` | live | 1052 |
-| `incense-ingredients-glossary` | P9 — Incense Craft & Recipes | `glossary` | live | 2417 |
-| `jiangnan-lizhu-bedchamber-recipe` | P9 — Incense Craft & Recipes | `recipe` | live | 1176 |
-| `lotus-incense-recipe` | P9 — Incense Craft & Recipes | `recipe` | live | 1048 |
-| `makko-natural-binders` | P9 — Incense Craft & Recipes | `article` | live | 1027 |
-| `qinan-buying-authentication` | P9 — Incense Craft & Recipes | `buyer_intelligence` | live | 1029 |
-| `shouyang-princess-plum-recipe` | P9 — Incense Craft & Recipes | `recipe` | live | 1101 |
-| `what-makes-incense-natural` | P9 — Incense Craft & Recipes | `article` | live | 1737 |
-| `xuezhong-chunxin-recipe` | P9 — Incense Craft & Recipes | `recipe` | live | 1188 |
-| `aroma-molecules-and-mood` | P10 — Aromatherapy & Botany | `article` | live | 1354 |
-| `essential-oils-in-incense` | P10 — Aromatherapy & Botany | `article` | live | 1616 |
-| `how-aromatherapy-works` | P10 — Aromatherapy & Botany | `hub` | live | 1452 |
-| `plant-sources-of-incense-scents` | P10 — Aromatherapy & Botany | `article` | live | 1134 |
-| `calming-evening-ritual` | P11 — Culture & Mindfulness | `article` | live | 1368 |
-| `four-leisure-arts` | P11 — Culture & Mindfulness | `article` | live | 925 |
-| `incense-and-breathwork` | P11 — Culture & Mindfulness | `article` | live | 1346 |
-| `incense-for-meditation` | P11 — Culture & Mindfulness | `article` | live | 1805 |
-| `incense-in-daily-ritual` | P11 — Culture & Mindfulness | `hub` | live | 1369 |
+| `baizi-incense-recipe` | P9 — Chinese Incense Recipes (香方) | `recipe` | live | 1132 |
+| `chinese-incense-recipes` | P9 — Chinese Incense Recipes (香方) | `recipe` | live | 1298 |
+| `ersu-jiuju-recipe` | P9 — Chinese Incense Recipes (香方) | `recipe` | live | 1093 |
+| `hand-rolled-vs-machine-made` | P10 — Incense Craft & Materials | `article` | live | 1043 |
+| `hexiang-blending-system` | P10 — Incense Craft & Materials | `authority_reference` | live | 2420 |
+| `how-incense-is-made` | P10 — Incense Craft & Materials | `hub` | live | 1250 |
+| `huarui-furen-yamen-recipe` | P9 — Chinese Incense Recipes (香方) | `recipe` | live | 1097 |
+| `incense-authentication-database` | P10 — Incense Craft & Materials | `buyer_intelligence` | live | 1052 |
+| `incense-ingredients-glossary` | P10 — Incense Craft & Materials | `glossary` | live | 2417 |
+| `jiangnan-lizhu-bedchamber-recipe` | P9 — Chinese Incense Recipes (香方) | `recipe` | live | 1176 |
+| `lotus-incense-recipe` | P9 — Chinese Incense Recipes (香方) | `recipe` | live | 1048 |
+| `makko-natural-binders` | P10 — Incense Craft & Materials | `article` | live | 1027 |
+| `qinan-buying-authentication` | P10 — Incense Craft & Materials | `buyer_intelligence` | live | 1029 |
+| `shouyang-princess-plum-recipe` | P9 — Chinese Incense Recipes (香方) | `recipe` | live | 1101 |
+| `what-makes-incense-natural` | P10 — Incense Craft & Materials | `article` | live | 1737 |
+| `xuezhong-chunxin-recipe` | P9 — Chinese Incense Recipes (香方) | `recipe` | live | 1188 |
+| `aroma-molecules-and-mood` | P11 — Aromatherapy & Botany| `article` | live | 1354 |
+| `essential-oils-in-incense` | P11 — Aromatherapy & Botany| `article` | live | 1616 |
+| `how-aromatherapy-works` | P11 — Aromatherapy & Botany| `hub` | live | 1452 |
+| `plant-sources-of-incense-scents` | P11 — Aromatherapy & Botany| `article` | live | 1134 |
+| `calming-evening-ritual` | P12 — Culture & Mindfulness| `article` | live | 1368 |
+| `four-leisure-arts` | P12 — Culture & Mindfulness| `article` | live | 925 |
+| `incense-and-breathwork` | P12 — Culture & Mindfulness| `article` | live | 1346 |
+| `incense-for-meditation` | P12 — Culture & Mindfulness| `article` | live | 1805 |
+| `incense-in-daily-ritual` | P12 — Culture & Mindfulness| `hub` | live | 1369 |
 | `agarwood` | Ingredient Encyclopedia | `entity` | live | 1576 |
 | `ambergris` | Ingredient Encyclopedia | `entity` | live | 962 |
 | `angelica` | Ingredient Encyclopedia | `entity` | live | 824 |
