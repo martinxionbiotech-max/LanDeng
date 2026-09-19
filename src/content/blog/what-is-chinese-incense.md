@@ -167,6 +167,12 @@ Incense burns, and burning produces smoke and particulate matter (PM2.5). This i
 - This page makes **no health or therapeutic claims.** See LanDeng's safety page for combustion and ventilation guidance.
 
 ---
+## Cluster directory
+
+- [Chinese Incense vs Essential Oils vs Candles: What's the Difference?](/blog/chinese-incense-vs-essential-oils-candles/)
+- [History of Chinese Incense Culture: Shang Rituals to the Modern Revival](/blog/history-of-chinese-incense/)
+- [Incense Terminology Glossary: Stick, Coil, Cone, Resin, and Powder](/blog/incense-terminology-glossary/)
+- [The 香谱 Incense Manuals: The World's Most Complete (and Least Translated) Incense Literature](/blog/xiangpu-incense-manuals/)
 
 ## FAQ
 
