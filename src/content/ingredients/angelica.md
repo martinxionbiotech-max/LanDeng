@@ -1,5 +1,5 @@
 ---
-title: "Angelica (Bai Zhi) — The Aromatic Herbal Root"
+title: "Angelica (白芷) — Aromatic Root"
 entity: angelica
 chinese: 白芷
 pinyin: báizhǐ

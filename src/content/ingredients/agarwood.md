@@ -1,5 +1,5 @@
 ---
-title: "Agarwood (Chen Xiang) — What It Is, Grades & How to Tell Real from Fake"
+title: "Agarwood (沉香) — Grades & Fakes"
 entity: agarwood
 chinese: 沉香
 pinyin: chénxiāng

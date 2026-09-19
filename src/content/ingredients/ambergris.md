@@ -1,5 +1,5 @@
 ---
-title: "Ambergris (Long Xian Xiang) — The Animal-Derived Fixative"
+title: "Ambergris (龙涎香) — Animal Fixative"
 entity: ambergris
 chinese: 龙涎香
 pinyin: lóngxiánxiāng
