@@ -13,10 +13,11 @@ const section = `## Machine-readable data
 - [Ingredient dataset](https://data.incenseherbs.com/datasets/ingredients.json): ${nIng} ingredient entities (Schema.org Dataset / DefinedTerm).
 - [Terminology dataset](https://data.incenseherbs.com/datasets/terminology.json): ${nTerm} Chinese–English incense terms (Schema.org Dataset / DefinedTerm).`;
 
-const out = llms.replace(/## Machine-readable data[\s\S]*?(?=\n## |\n\n## |$)/, section.trim() + '\n');
-if (out === llms) {
+const SECTION_RE = /## Machine-readable data[\s\S]*?(?=\n## |\n\n## |$)/;
+if (!SECTION_RE.test(llms)) {
   console.error('未找到 Machine-readable data 段，跳过');
   process.exit(1);
 }
+const out = llms.replace(SECTION_RE, section.trim() + '\n');
 writeFileSync('public/llms.txt', out);
 console.log(`llms.txt 自动更新: ${nIng} ingredients / ${nTerm} terms`);
