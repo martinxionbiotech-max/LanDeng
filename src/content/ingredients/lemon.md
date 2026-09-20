@@ -14,6 +14,8 @@ related: ["citron", "finger-citron", "pomelo-peel"]
 
 **Direct answer:** Lemon — *níngméng* (柠檬) in Chinese — is the fruit and rind of *Citrus × limon*, a cultivated hybrid citrus in the rue family (Rutaceae). Its peel carries a bright, zesty, sweet-sour citrus scent from its essential oil, and it is a **modern essential-oil fragrance material, not a classical Chinese incense ingredient**. Within the citrus family it must be kept distinct from the classical Chinese fragrance fruits — citron (香橼), finger citron (佛手), and pomelo peel (柚皮) — which have their own entries.
 
+<img src="/images/lemon-raw-material-800x533.webp" alt="Raw Lemon (Citrus × limon) material, editorial still life" width="800" height="533" loading="lazy">
+
 ## Key facts
 
 | | |

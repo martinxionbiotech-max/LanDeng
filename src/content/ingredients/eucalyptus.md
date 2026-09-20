@@ -14,6 +14,8 @@ related: ["camphor", "rosemary", "pine-needles"]
 
 **Direct answer:** Eucalyptus — *ānyè* (桉叶) in Chinese — is here the leaf of *Eucalyptus globulus*, the blue gum, a tall evergreen tree of the myrtle family (Myrtaceae) native to Australia. Its leaves carry a sharp, camphoraceous, fresh, slightly medicinal scent from a eucalyptol-rich essential oil, and it is a **modern crossover, not a classical Chinese incense ingredient**.
 
+<img src="/images/eucalyptus-raw-material-800x533.webp" alt="Raw Eucalyptus (Eucalyptus globulus) material, editorial still life" width="800" height="533" loading="lazy">
+
 ## Key facts
 
 | | |

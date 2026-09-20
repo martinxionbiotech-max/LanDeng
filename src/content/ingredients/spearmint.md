@@ -14,6 +14,8 @@ related: ["mint", "peppermint"]
 
 **Direct answer:** Spearmint — *liúlánxiāng* (留兰香) in Chinese — is the herb *Mentha spicata*, a perennial of the mint family (Lamiaceae) native to Europe and Asia and widely cultivated. Its leaves carry a sweet, cooling, minty-fresh scent, and it is a **modern culinary and fragrance crossover, not a classical Chinese incense ingredient**. It must be distinguished from the Chinese pharmacopoeial mint 薄荷 (*Mentha haplocalyx*, syn. *M. canadensis*) and from peppermint 胡椒薄荷 (*Mentha × piperita*).
 
+<img src="/images/spearmint-raw-material-800x533.webp" alt="Raw Spearmint (Mentha spicata) material, editorial still life" width="800" height="533" loading="lazy">
+
 ## Key facts
 
 | | |

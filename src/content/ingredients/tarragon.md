@@ -14,6 +14,8 @@ related: ["mugwort", "artemisia-annua"]
 
 **Direct answer:** Tarragon — *lónghāo* (龙蒿) in Chinese — is the herb *Artemisia dracunculus*, a perennial member of the *Artemisia* (mugwort) genus, family Asteraceae. Its leaves carry a fresh, herbal, anise-like, slightly sweet scent, familiar from French cooking and, more recently, modern fragrance. It is a **modern culinary and fragrance crossover, not a classical Chinese incense ingredient**, and it must be distinguished from its close relatives 艾草 (mugwort, *Artemisia argyi*) and 青蒿 (sweet wormwood, *Artemisia annua*).
 
+<img src="/images/tarragon-raw-material-800x533.webp" alt="Raw Tarragon (Artemisia dracunculus) material, editorial still life" width="800" height="533" loading="lazy">
+
 ## Key facts
 
 | | |
