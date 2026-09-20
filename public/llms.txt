@@ -101,10 +101,22 @@
 - [Cassia Twig (桂枝 / Gui Zhi)](/ingredients/cassia-twig/)
 - [Bergamot (佛手柑 / Fo Shou Gan)](/ingredients/bergamot/)
 - [Neroli (橙花 / Cheng Hua)](/ingredients/neroli/)
+- [Valerian (缬草 / Xie Cao)](/ingredients/valerian/)
+- [Schisandra (五味子 / Wu Wei Zi)](/ingredients/schisandra/)
+- [Asarum (细辛 / Xi Xin)](/ingredients/asarum/)
+- [Zelan (泽兰 / Ze Lan)](/ingredients/eupatorium-japonicum/)
+- [Tree Peony Bark (牡丹皮 / Mu Dan Pi)](/ingredients/tree-peony-bark/)
+- [Lavender (薰衣草 / Xun Yi Cao)](/ingredients/lavender/)
+- [Sage (鼠尾草 / Shu Wei Cao)](/ingredients/sage/)
+- [Thyme (百里香 / Bai Li Xiang)](/ingredients/thyme/)
+- [Chamomile (洋甘菊 / Yang Gan Ju)](/ingredients/chamomile/)
+- [Ylang-Ylang (依兰 / Yi Lan)](/ingredients/ylang-ylang/)
+- [Copaiba (古巴香脂 / Gu Ba Xiang Zhi)](/ingredients/copaiba/)
+- [Violet (紫罗兰 / Zi Luo Lan)](/ingredients/violet/)
 
 ## Machine-readable data
 
-- [Ingredient dataset](/data/ingredients.json): 130 ingredient entities (Schema.org Dataset / DefinedTerm).
+- [Ingredient dataset](/data/ingredients.json): 142 ingredient entities (Schema.org Dataset / DefinedTerm).
 - [Terminology dataset](/data/terminology.json): 104 Chinese–English incense terms (Schema.org Dataset / DefinedTerm).
 
 ## AI content notes
