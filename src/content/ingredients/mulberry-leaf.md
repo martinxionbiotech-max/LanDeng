@@ -14,6 +14,8 @@ related: ["bamboo-leaves", "platycladus-leaves", "sophora-flower"]
 
 **Direct answer:** Mulberry leaf — *sāngyè* (桑叶) in Chinese — is the leaf of the white mulberry, *Morus alba*, a tree (Moraceae) cultivated across China for its silkworm-feeding leaves. It has a mild, green, tea-like, slightly sweet scent, and it enters Chinese tradition chiefly as a fragrant tea and a materia-medica leaf — the "茶香" (tea-fragrance) context — rather than as a prominent incense material.
 
+<img src="/images/mulberry-leaf-raw-material-800x533.webp" alt="Raw Mulberry Leaf (Morus alba (the leaves)) material, editorial still life" width="800" height="533" loading="lazy">
+
 ## Key facts
 
 | | |

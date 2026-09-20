@@ -14,6 +14,8 @@ related: ["artemisia-annua", "agastache-rugosa", "perilla"]
 
 **Direct answer:** Schizonepeta — *jīngjiè* (荆芥) in Chinese — is the aerial herb of *Schizonepeta tenuifolia* (now often placed as *Nepeta tenuifolia*), a mint-family herb (Lamiaceae) native to East Asia. It has a fresh, minty, faintly spicy aromatic scent, and it appears in classical Chinese materia medica and in the 香囊 (fragrant sachet) herb tradition. The *Bencao Gangmu* (本草纲目) records it under the classical name 假苏 (jiǎsū).
 
+<img src="/images/schizonepeta-raw-material-800x533.webp" alt="Raw Schizonepeta (Schizonepeta tenuifolia (syn. Nepeta tenuifolia)) material, editorial still life" width="800" height="533" loading="lazy">
+
 ## Key facts
 
 | | |

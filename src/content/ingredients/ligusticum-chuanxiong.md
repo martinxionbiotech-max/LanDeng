@@ -14,6 +14,8 @@ related: ["ligusticum", "angelica-sinensis", "angelica"]
 
 **Direct answer:** Chuanxiong — *chuānxiōng* (川芎) in Chinese — is the aromatic rhizome of *Ligusticum chuanxiong*, an herb of the carrot family (Apiaceae) cultivated in Sichuan. It has a strong, herbal, spicy, slightly bitter aromatic-root character, and it is one of the best-known aromatic roots of Chinese materia medica. It is a **different species from — and must be distinguished from — 藁本 (Ligusticum sinense)**, its close relative in the same genus.
 
+<img src="/images/ligusticum-chuanxiong-raw-material-800x533.webp" alt="Raw Chuanxiong (Ligusticum chuanxiong (syn. Conioselinum anthriscoides)) material, editorial still life" width="800" height="533" loading="lazy">
+
 ## Key facts
 
 | | |
