@@ -42,6 +42,8 @@ The genus *Styrax* (family Styracaceae) contains trees and shrubs native to Asia
 
 ## Chinese name and terminology
 
+> **Direct answer:** 安息香 (ānxīxiāng) is glossed as "the fragrance of Parthia (安息)," recording the resin's arrival in China as an overland import. Two naming traps recur: benzoin (*Styrax*) vs storax (*Liquidambar*), and the resin vs the chemical compound.
+
 The Chinese name 安息香 (ānxīxiāng) is often glossed as "the fragrance of Parthia (安息)" — a name that records the resin's arrival in China as an import over the ancient overland trade routes, in the same class as frankincense and myrrh. Two naming traps recur:
 
 - **Benzoin vs storax.** Benzoin comes from *Styrax* (安息香); **storax** (苏合香) comes from a different tree, *Liquidambar orientalis*, and is a separate balsamic resin. The shared "styrax" spelling in English causes confusion. See [storax](/ingredients/styrax-resin/).
