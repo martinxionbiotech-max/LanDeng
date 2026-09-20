@@ -41,6 +41,8 @@ Agarwood's scent is woody and resinous at its base, with a sweetness that varies
 
 ## Chinese name and terminology
 
+> **Direct answer:** The name 沉香 means "sinking fragrance," recording the density test that grades the wood. The same material travels under many names — 沉香/沉水香 in Chinese, oud in Arabic, jinkō/kyara in Japanese — so the name alone does not identify species or grade.
+
 The Chinese name 沉香 (chénxiāng) is literal: 沉 "to sink" + 香 "fragrance." It records the classical quality test — wood dense enough with resin to sink in water. The term appears across East Asian incense culture under different names that all point to the same material family:
 
 - **沉香 / 沉水香 (chénxiāng / chénshuǐxiāng)** — standard and "sinking-grade" names in Chinese.
@@ -59,6 +61,8 @@ Healthy *Aquilaria* wood is pale, light, and essentially scentless. Agarwood is 
 > **Botanical vs trade identity:** "agarwood" is not a species — it is a *condition* of the wood. This matters for buyers: what is sold as agarwood may come from different *Aquilaria* species, or (fraudulently) from unrelated woods dressed up to resemble it.
 
 ## Where does agarwood come from?
+
+> **Direct answer:** Wild *Aquilaria* grows across South and Southeast Asia — from southern China (Hainan, Guangdong, Guangxi, Yunnan) through Vietnam, Cambodia, Laos, Thailand, Malaysia, and Indonesia. Wild stands are depleted and CITES-listed, so most supply is now cultivated plantation agarwood.
 
 *Agarwood is an old-growth product of a broad belt of tropical and subtropical forest.* Wild *Aquilaria* grows from Assam and the eastern Himalaya through Southeast Asia — southern China (Hainan, Guangdong, Guangxi, Yunnan), Vietnam, Cambodia, Laos, Thailand, Malaysia, Indonesia, and Bangladesh. Historically the most celebrated producing regions in Chinese trade were Hainan and Vietnam, whose material was long regarded as the aromatic benchmark.
 
