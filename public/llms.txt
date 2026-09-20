@@ -113,10 +113,18 @@
 - [Ylang-Ylang (依兰 / Yi Lan)](/ingredients/ylang-ylang/)
 - [Copaiba (古巴香脂 / Gu Ba Xiang Zhi)](/ingredients/copaiba/)
 - [Violet (紫罗兰 / Zi Luo Lan)](/ingredients/violet/)
+- [Lemon (柠檬 / Ning Meng)](/ingredients/lemon/)
+- [Grapefruit (葡萄柚 / Pu Tao You)](/ingredients/grapefruit/)
+- [Tarragon (龙蒿 / Long Hao)](/ingredients/tarragon/)
+- [Spearmint (留兰香 / Liu Lan Xiang)](/ingredients/spearmint/)
+- [Peppermint (胡椒薄荷 / Hu Jiao Bo He)](/ingredients/peppermint/)
+- [Eucalyptus (桉叶 / An Ye)](/ingredients/eucalyptus/)
+- [Lemon Balm (香蜂草 / Xiang Feng Cao)](/ingredients/lemon-balm/)
+- [Lily of the Valley (铃兰 / Ling Lan)](/ingredients/lily-of-the-valley/)
 
 ## Machine-readable data
 
-- [Ingredient dataset](/data/ingredients.json): 142 ingredient entities (Schema.org Dataset / DefinedTerm).
+- [Ingredient dataset](/data/ingredients.json): 150 ingredient entities (Schema.org Dataset / DefinedTerm).
 - [Terminology dataset](/data/terminology.json): 104 Chinese–English incense terms (Schema.org Dataset / DefinedTerm).
 
 ## AI content notes

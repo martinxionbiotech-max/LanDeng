@@ -31,10 +31,10 @@ actual frontmatter (2026-09-20). Status `live` = built and served.
 | P10 — Incense Craft & Materials | 8 | how-incense-is-made | 11989 |
 | P11 — Aromatherapy & Botany | 4 | how-aromatherapy-works | 5569 |
 | P12 — Culture & Mindfulness | 5 | incense-in-daily-ritual | 6894 |
-| Ingredient Encyclopedia | 142 | — | 152017 |
+| Ingredient Encyclopedia | 150 | — | 160774 |
 | Chinese Incense (concept) | 1 | — | 1389 |
 
-**Totals:** 231 pages · 279,127 words.
+**Totals:** 239 pages · 287,884 words.
 
 ## Full ledger
 
@@ -179,6 +179,7 @@ actual frontmatter (2026-09-20). Status `live` = built and served.
 | `dill` | Ingredient Encyclopedia | `entity` | live | 1042 |
 | `dragons-blood` | Ingredient Encyclopedia | `entity` | live | 1060 |
 | `elsholtzia` | Ingredient Encyclopedia | `entity` | live | 1086 |
+| `eucalyptus` | Ingredient Encyclopedia | `entity` | live | 957 |
 | `eupatorium` | Ingredient Encyclopedia | `entity` | live | 1052 |
 | `eupatorium-japonicum` | Ingredient Encyclopedia | `entity` | live | 1184 |
 | `fennel` | Ingredient Encyclopedia | `entity` | live | 1049 |
@@ -190,6 +191,7 @@ actual frontmatter (2026-09-20). Status `live` = built and served.
 | `gardenia` | Ingredient Encyclopedia | `entity` | live | 1026 |
 | `ginger` | Ingredient Encyclopedia | `entity` | live | 1056 |
 | `ginkgo` | Ingredient Encyclopedia | `entity` | live | 991 |
+| `grapefruit` | Ingredient Encyclopedia | `entity` | live | 1159 |
 | `honey` | Ingredient Encyclopedia | `entity` | live | 1106 |
 | `honeysuckle` | Ingredient Encyclopedia | `entity` | live | 1024 |
 | `jasmine` | Ingredient Encyclopedia | `entity` | live | 1242 |
@@ -200,9 +202,12 @@ actual frontmatter (2026-09-20). Status `live` = built and served.
 | `kumquat` | Ingredient Encyclopedia | `entity` | live | 1120 |
 | `labdanum` | Ingredient Encyclopedia | `entity` | live | 1090 |
 | `lavender` | Ingredient Encyclopedia | `entity` | live | 923 |
+| `lemon` | Ingredient Encyclopedia | `entity` | live | 1199 |
+| `lemon-balm` | Ingredient Encyclopedia | `entity` | live | 949 |
 | `licorice` | Ingredient Encyclopedia | `entity` | live | 1123 |
 | `ligusticum` | Ingredient Encyclopedia | `entity` | live | 988 |
 | `ligusticum-chuanxiong` | Ingredient Encyclopedia | `entity` | live | 1032 |
+| `lily-of-the-valley` | Ingredient Encyclopedia | `entity` | live | 1181 |
 | `linglingxiang` | Ingredient Encyclopedia | `entity` | live | 1151 |
 | `litchi-husk` | Ingredient Encyclopedia | `entity` | live | 1058 |
 | `litsea-cubeba` | Ingredient Encyclopedia | `entity` | live | 1077 |
@@ -229,6 +234,7 @@ actual frontmatter (2026-09-20). Status `live` = built and served.
 | `patchouli` | Ingredient Encyclopedia | `entity` | live | 1097 |
 | `peony` | Ingredient Encyclopedia | `entity` | live | 1063 |
 | `pepper` | Ingredient Encyclopedia | `entity` | live | 1146 |
+| `peppermint` | Ingredient Encyclopedia | `entity` | live | 1082 |
 | `perilla` | Ingredient Encyclopedia | `entity` | live | 1049 |
 | `peru-balsam` | Ingredient Encyclopedia | `entity` | live | 1012 |
 | `pine-needles` | Ingredient Encyclopedia | `entity` | live | 1029 |
@@ -250,10 +256,12 @@ actual frontmatter (2026-09-20). Status `live` = built and served.
 | `shellac` | Ingredient Encyclopedia | `entity` | live | 1217 |
 | `silk-tree` | Ingredient Encyclopedia | `entity` | live | 1040 |
 | `sophora-flower` | Ingredient Encyclopedia | `entity` | live | 863 |
+| `spearmint` | Ingredient Encyclopedia | `entity` | live | 1079 |
 | `spikenard-nardostachys` | Ingredient Encyclopedia | `entity` | live | 1126 |
 | `star-anise` | Ingredient Encyclopedia | `entity` | live | 1104 |
 | `styrax-resin` | Ingredient Encyclopedia | `entity` | live | 1084 |
 | `sweetgum` | Ingredient Encyclopedia | `entity` | live | 892 |
+| `tarragon` | Ingredient Encyclopedia | `entity` | live | 1151 |
 | `thuja` | Ingredient Encyclopedia | `entity` | live | 1163 |
 | `thyme` | Ingredient Encyclopedia | `entity` | live | 884 |
 | `torreya` | Ingredient Encyclopedia | `entity` | live | 1021 |
@@ -275,7 +283,7 @@ actual frontmatter (2026-09-20). Status `live` = built and served.
 ## Notes
 
 - **12 canonical clusters** = P1–P11 + Commercial (B2B Buying & Supply). Exactly one `hub` per cluster.
-- **Ingredient entity pages** (142) and the **Chinese-incense concept page** (1) live in separate
+- **Ingredient entity pages** (150) and the **Chinese-incense concept page** (1) live in separate
   collections and are not part of the P1–P11 blog taxonomy; they carry `entity` / `pillar` roles.
 - Ingredient/concept frontmatter still uses `status: draft`; they are nonetheless built and served
   (no draft filter in the collection routes), so this ledger records them as `live`.
