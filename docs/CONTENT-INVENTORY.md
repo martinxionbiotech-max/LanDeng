@@ -2,7 +2,7 @@
 
 Live ledger of every content asset in the Astro content collections
 (`src/content/{blog,ingredients,concepts}`). One row per page, generated from
-actual frontmatter (2026-09-19). Status `live` = built and served.
+actual frontmatter (2026-09-20). Status `live` = built and served.
 
 ## Columns
 
@@ -31,10 +31,10 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | P10 — Incense Craft & Materials | 8 | how-incense-is-made | 11989 |
 | P11 — Aromatherapy & Botany | 4 | how-aromatherapy-works | 5569 |
 | P12 — Culture & Mindfulness | 5 | incense-in-daily-ritual | 6894 |
-| Ingredient Encyclopedia | 106 | — | 115886 |
+| Ingredient Encyclopedia | 118 | — | 128501 |
 | Chinese Incense (concept) | 1 | — | 1389 |
 
-**Totals:** 195 pages · 242,996 words.
+**Totals:** 207 pages · 255,611 words.
 
 ## Full ledger
 
@@ -135,7 +135,9 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `ambergris` | Ingredient Encyclopedia | `entity` | live | 1052 |
 | `amomum-villosum` | Ingredient Encyclopedia | `entity` | live | 997 |
 | `angelica` | Ingredient Encyclopedia | `entity` | live | 877 |
+| `angelica-sinensis` | Ingredient Encyclopedia | `entity` | live | 1088 |
 | `anise` | Ingredient Encyclopedia | `entity` | live | 1146 |
+| `apricot-kernel` | Ingredient Encyclopedia | `entity` | live | 1129 |
 | `aromatic-turmeric` | Ingredient Encyclopedia | `entity` | live | 1162 |
 | `asafoetida` | Ingredient Encyclopedia | `entity` | live | 1076 |
 | `atractylodes` | Ingredient Encyclopedia | `entity` | live | 1070 |
@@ -145,6 +147,7 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `beeswax` | Ingredient Encyclopedia | `entity` | live | 1127 |
 | `benzoin` | Ingredient Encyclopedia | `entity` | live | 1232 |
 | `bletilla` | Ingredient Encyclopedia | `entity` | live | 1123 |
+| `blumea-balsamifera` | Ingredient Encyclopedia | `entity` | live | 1189 |
 | `borneol` | Ingredient Encyclopedia | `entity` | live | 1096 |
 | `borneol-oil` | Ingredient Encyclopedia | `entity` | live | 1093 |
 | `calamus` | Ingredient Encyclopedia | `entity` | live | 1019 |
@@ -166,6 +169,7 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `cyperus` | Ingredient Encyclopedia | `entity` | live | 1008 |
 | `cypress-seed` | Ingredient Encyclopedia | `entity` | live | 1067 |
 | `daphne` | Ingredient Encyclopedia | `entity` | live | 1023 |
+| `dill` | Ingredient Encyclopedia | `entity` | live | 1042 |
 | `dragons-blood` | Ingredient Encyclopedia | `entity` | live | 1060 |
 | `elsholtzia` | Ingredient Encyclopedia | `entity` | live | 1086 |
 | `eupatorium` | Ingredient Encyclopedia | `entity` | live | 1052 |
@@ -176,6 +180,7 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `galbanum` | Ingredient Encyclopedia | `entity` | live | 1069 |
 | `gardenia` | Ingredient Encyclopedia | `entity` | live | 1026 |
 | `ginger` | Ingredient Encyclopedia | `entity` | live | 1056 |
+| `ginkgo` | Ingredient Encyclopedia | `entity` | live | 991 |
 | `honey` | Ingredient Encyclopedia | `entity` | live | 1106 |
 | `honeysuckle` | Ingredient Encyclopedia | `entity` | live | 1024 |
 | `jasmine` | Ingredient Encyclopedia | `entity` | live | 1242 |
@@ -198,6 +203,7 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `mint` | Ingredient Encyclopedia | `entity` | live | 1080 |
 | `mugwort` | Ingredient Encyclopedia | `entity` | live | 1116 |
 | `musk` | Ingredient Encyclopedia | `entity` | live | 1242 |
+| `mustard` | Ingredient Encyclopedia | `entity` | live | 986 |
 | `myrrh` | Ingredient Encyclopedia | `entity` | live | 1265 |
 | `nutmeg` | Ingredient Encyclopedia | `entity` | live | 956 |
 | `onycha` | Ingredient Encyclopedia | `entity` | live | 1092 |
@@ -211,10 +217,13 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `peony` | Ingredient Encyclopedia | `entity` | live | 1063 |
 | `pepper` | Ingredient Encyclopedia | `entity` | live | 1146 |
 | `perilla` | Ingredient Encyclopedia | `entity` | live | 1049 |
+| `peru-balsam` | Ingredient Encyclopedia | `entity` | live | 1012 |
 | `pine-resin` | Ingredient Encyclopedia | `entity` | live | 921 |
+| `platycladus-leaves` | Ingredient Encyclopedia | `entity` | live | 1018 |
 | `plum-blossom` | Ingredient Encyclopedia | `entity` | live | 1132 |
 | `pomelo-peel` | Ingredient Encyclopedia | `entity` | live | 1057 |
 | `prickly-ash` | Ingredient Encyclopedia | `entity` | live | 1045 |
+| `quince` | Ingredient Encyclopedia | `entity` | live | 1055 |
 | `red-sandalwood` | Ingredient Encyclopedia | `entity` | live | 1150 |
 | `rose` | Ingredient Encyclopedia | `entity` | live | 1085 |
 | `rosemary` | Ingredient Encyclopedia | `entity` | live | 1087 |
@@ -222,6 +231,7 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `sand-ginger` | Ingredient Encyclopedia | `entity` | live | 927 |
 | `sandalwood` | Ingredient Encyclopedia | `entity` | live | 1214 |
 | `shellac` | Ingredient Encyclopedia | `entity` | live | 1217 |
+| `silk-tree` | Ingredient Encyclopedia | `entity` | live | 1040 |
 | `spikenard-nardostachys` | Ingredient Encyclopedia | `entity` | live | 1126 |
 | `star-anise` | Ingredient Encyclopedia | `entity` | live | 1104 |
 | `styrax-resin` | Ingredient Encyclopedia | `entity` | live | 1084 |
@@ -229,7 +239,9 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 | `thuja` | Ingredient Encyclopedia | `entity` | live | 1163 |
 | `torreya` | Ingredient Encyclopedia | `entity` | live | 1021 |
 | `tsao-ko` | Ingredient Encyclopedia | `entity` | live | 999 |
+| `tuberose` | Ingredient Encyclopedia | `entity` | live | 1051 |
 | `turmeric` | Ingredient Encyclopedia | `entity` | live | 1179 |
+| `vanilla` | Ingredient Encyclopedia | `entity` | live | 1014 |
 | `vetiver` | Ingredient Encyclopedia | `entity` | live | 1098 |
 | `wintersweet` | Ingredient Encyclopedia | `entity` | live | 1028 |
 | `yulan-magnolia` | Ingredient Encyclopedia | `entity` | live | 1088 |
@@ -239,7 +251,7 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 ## Notes
 
 - **12 canonical clusters** = P1–P11 + Commercial (B2B Buying & Supply). Exactly one `hub` per cluster.
-- **Ingredient entity pages** (106) and the **Chinese-incense concept page** (1) live in separate
+- **Ingredient entity pages** (118) and the **Chinese-incense concept page** (1) live in separate
   collections and are not part of the P1–P11 blog taxonomy; they carry `entity` / `pillar` roles.
 - Ingredient/concept frontmatter still uses `status: draft`; they are nonetheless built and served
   (no draft filter in the collection routes), so this ledger records them as `live`.

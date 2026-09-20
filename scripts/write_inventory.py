@@ -32,7 +32,7 @@ md = f"""# CONTENT-INVENTORY.md — LanDeng
 
 Live ledger of every content asset in the Astro content collections
 (`src/content/{{blog,ingredients,concepts}}`). One row per page, generated from
-actual frontmatter (2026-09-19). Status `live` = built and served.
+actual frontmatter (2026-09-20). Status `live` = built and served.
 
 ## Columns
 
@@ -61,7 +61,7 @@ actual frontmatter (2026-09-19). Status `live` = built and served.
 ## Notes
 
 - **12 canonical clusters** = P1–P11 + Commercial (B2B Buying & Supply). Exactly one `hub` per cluster.
-- **Ingredient entity pages** (106) and the **Chinese-incense concept page** (1) live in separate
+- **Ingredient entity pages** (118) and the **Chinese-incense concept page** (1) live in separate
   collections and are not part of the P1–P11 blog taxonomy; they carry `entity` / `pillar` roles.
 - Ingredient/concept frontmatter still uses `status: draft`; they are nonetheless built and served
   (no draft filter in the collection routes), so this ledger records them as `live`.

@@ -77,10 +77,22 @@
 - [Torreya (香榧 / Xiang Fei)](/ingredients/torreya/)
 - [Kumquat (金橘 / Jin Ju)](/ingredients/kumquat/)
 - [Castoreum (海狸香 / Hai Li Xiang)](/ingredients/castoreum/)
+- [Blumea Balsamifera (艾纳香 / Ai Na Xiang)](/ingredients/blumea-balsamifera/)
+- [Tuberose (晚香玉 / Wan Xiang Yu)](/ingredients/tuberose/)
+- [Dill (莳萝 / Shi Luo)](/ingredients/dill/)
+- [Mustard Seed (芥子 / Jie Zi)](/ingredients/mustard/)
+- [Apricot Kernel (杏仁 / Xing Ren)](/ingredients/apricot-kernel/)
+- [Ginkgo Nut (银杏 / Yin Xing)](/ingredients/ginkgo/)
+- [Dong Quai (当归 / Dang Gui)](/ingredients/angelica-sinensis/)
+- [Peru Balsam (秘鲁香脂 / Bi Lu Xiang Zhi)](/ingredients/peru-balsam/)
+- [Quince (木瓜 / Mu Gua)](/ingredients/quince/)
+- [Arborvitae Leaves (侧柏叶 / Ce Bai Ye)](/ingredients/platycladus-leaves/)
+- [Vanilla Bean (香草荚 / Xiang Cao Jia)](/ingredients/vanilla/)
+- [Silk Tree Flower (合欢花 / He Huan Hua)](/ingredients/silk-tree/)
 
 ## Machine-readable data
 
-- [Ingredient dataset](/data/ingredients.json): 106 ingredient entities (Schema.org Dataset / DefinedTerm).
+- [Ingredient dataset](/data/ingredients.json): 118 ingredient entities (Schema.org Dataset / DefinedTerm).
 - [Terminology dataset](/data/terminology.json): 104 Chinese–English incense terms (Schema.org Dataset / DefinedTerm).
 
 ## AI content notes
