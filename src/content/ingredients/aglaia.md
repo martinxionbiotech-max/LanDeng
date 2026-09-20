@@ -1,5 +1,5 @@
 ---
-title: "Aglaia (米仔兰) — Southern Fragrant Flower"
+title: "Aglaia (米仔兰)"
 entity: aglaia
 chinese: 米仔兰
 pinyin: mǐzǎilán

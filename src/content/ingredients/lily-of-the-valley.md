@@ -1,5 +1,5 @@
 ---
-title: "Lily of the Valley (铃兰) — Toxic Perfume Flower"
+title: "Lily of the Valley (铃兰)"
 entity: lily-of-the-valley
 chinese: 铃兰
 pinyin: línglán

@@ -1,5 +1,5 @@
 ---
-title: "Finger Citron (佛手) — Fragrant Offering Fruit"
+title: "Finger Citron (佛手)"
 entity: finger-citron
 chinese: 佛手
 pinyin: fóshǒu

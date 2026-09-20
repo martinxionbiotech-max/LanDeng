@@ -1,5 +1,5 @@
 ---
-title: "Grapefruit (葡萄柚) — Fresh Citrus Essential Oil"
+title: "Grapefruit (葡萄柚)"
 entity: grapefruit
 chinese: 葡萄柚
 pinyin: pútáoyòu

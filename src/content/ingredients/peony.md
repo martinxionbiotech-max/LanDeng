@@ -1,5 +1,5 @@
 ---
-title: "Peony (芍药) — Ornamental Fragrant Flower"
+title: "Peony (芍药)"
 entity: peony
 chinese: 芍药
 pinyin: sháoyào

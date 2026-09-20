@@ -1,5 +1,5 @@
 ---
-title: "Onycha (甲香) — Mollusc Operculum Fixative"
+title: "Onycha (甲香)"
 entity: onycha
 chinese: 甲香
 pinyin: jiǎxiāng

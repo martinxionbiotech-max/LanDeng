@@ -1,5 +1,5 @@
 ---
-title: "Amomum villosum (砂仁) — Spicy Aromatic Fruit"
+title: "Amomum villosum (砂仁)"
 entity: amomum-villosum
 chinese: 砂仁
 pinyin: shārén

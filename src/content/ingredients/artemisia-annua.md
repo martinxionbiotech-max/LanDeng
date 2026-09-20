@@ -1,5 +1,5 @@
 ---
-title: "Sweet Wormwood (青蒿) — Aromatic Artemisia"
+title: "Sweet Wormwood (青蒿)"
 entity: artemisia-annua
 chinese: 青蒿
 pinyin: qīnghāo

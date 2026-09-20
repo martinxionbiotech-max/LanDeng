@@ -1,5 +1,5 @@
 ---
-title: "Silk Tree Flower (合欢花) — Fragrant Blossom"
+title: "Silk Tree Flower (合欢花)"
 entity: silk-tree
 chinese: 合欢花
 pinyin: héhuān huā

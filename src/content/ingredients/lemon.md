@@ -1,5 +1,5 @@
 ---
-title: "Lemon (柠檬) — Bright Citrus Essential Oil"
+title: "Lemon (柠檬)"
 entity: lemon
 chinese: 柠檬
 pinyin: níngméng

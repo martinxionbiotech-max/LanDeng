@@ -1,5 +1,5 @@
 ---
-title: "Labdanum (岩蔷薇) — Modern Resinous Balsam"
+title: "Labdanum (岩蔷薇)"
 entity: labdanum
 chinese: 岩蔷薇
 pinyin: yánqiángwēi

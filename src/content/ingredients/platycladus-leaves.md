@@ -1,5 +1,5 @@
 ---
-title: "Arborvitae Leaves (侧柏叶) — Aromatic Leaf"
+title: "Arborvitae Leaves (侧柏叶)"
 entity: platycladus-leaves
 chinese: 侧柏叶
 pinyin: cèbǎi yè

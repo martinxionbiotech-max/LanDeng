@@ -1,5 +1,5 @@
 ---
-title: "Asafoetida (阿魏) — Pungent Classical Resin"
+title: "Asafoetida (阿魏)"
 entity: asafoetida
 chinese: 阿魏
 pinyin: āwèi

@@ -1,5 +1,5 @@
 ---
-title: "Pine Needles (松针) — Aromatic Conifer Leaf"
+title: "Pine Needles (松针)"
 entity: pine-needles
 chinese: 松针
 pinyin: sōngzhēn

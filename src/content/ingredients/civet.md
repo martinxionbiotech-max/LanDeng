@@ -1,5 +1,5 @@
 ---
-title: "Civet (灵猫香) — Historical Animal Fixative"
+title: "Civet (灵猫香)"
 entity: civet
 chinese: 灵猫香
 pinyin: língmāoxiāng

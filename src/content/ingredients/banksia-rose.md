@@ -1,5 +1,5 @@
 ---
-title: "Banksia Rose (木香花) — Sweet Climbing Rose"
+title: "Banksia Rose (木香花)"
 entity: banksia-rose
 chinese: 木香花
 pinyin: mùxiānghuā

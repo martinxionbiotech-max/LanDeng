@@ -1,5 +1,5 @@
 ---
-title: "Lotus Flower (莲花) — Aquatic Floral Symbol"
+title: "Lotus Flower (莲花)"
 entity: lotus-flower
 chinese: 莲花
 pinyin: liánhuā

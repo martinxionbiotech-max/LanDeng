@@ -1,5 +1,5 @@
 ---
-title: "Sharp-Leaf Galangal (益智仁) — Alpinia Seed"
+title: "Sharp-Leaf Galangal (益智仁)"
 entity: oxyphylla
 chinese: 益智仁
 pinyin: yìzhì rén

@@ -1,5 +1,5 @@
 ---
-title: "Mulberry Leaf (桑叶) — Green Aromatic Leaf"
+title: "Mulberry Leaf (桑叶)"
 entity: mulberry-leaf
 chinese: 桑叶
 pinyin: sāngyè

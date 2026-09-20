@@ -1,5 +1,5 @@
 ---
-title: "Yulan Magnolia (玉兰) — White Spring Floral"
+title: "Yulan Magnolia (玉兰)"
 entity: yulan-magnolia
 chinese: 玉兰
 pinyin: yùlán

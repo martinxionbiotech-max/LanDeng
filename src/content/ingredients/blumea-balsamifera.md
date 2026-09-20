@@ -1,5 +1,5 @@
 ---
-title: "Blumea Balsamifera (艾纳香) — Borneol-Leaf Herb"
+title: "Blumea Balsamifera (艾纳香)"
 entity: blumea-balsamifera
 chinese: 艾纳香
 pinyin: àinàxiāng

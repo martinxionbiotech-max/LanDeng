@@ -1,5 +1,5 @@
 ---
-title: "Castoreum (海狸香) — Historical Animal Fixative"
+title: "Castoreum (海狸香)"
 entity: castoreum
 chinese: 海狸香
 pinyin: hǎilíxiāng
