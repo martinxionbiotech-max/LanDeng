@@ -124,8 +124,9 @@
 
 ## Machine-readable data
 
-- [Ingredient dataset](/data/ingredients.json): 150 ingredient entities (Schema.org Dataset / DefinedTerm).
-- [Terminology dataset](/data/terminology.json): 104 Chinese–English incense terms (Schema.org Dataset / DefinedTerm).
+- [Ingredient dataset](https://data.incenseherbs.com/datasets/ingredients.json): 150 ingredient entities (Schema.org Dataset / DefinedTerm).
+- [Terminology dataset](https://data.incenseherbs.com/datasets/terminology.json): 104 Chinese–English incense terms (Schema.org Dataset / DefinedTerm).
+
 
 ## AI content notes
 
