@@ -89,10 +89,22 @@
 - [Arborvitae Leaves (侧柏叶 / Ce Bai Ye)](/ingredients/platycladus-leaves/)
 - [Vanilla Bean (香草荚 / Xiang Cao Jia)](/ingredients/vanilla/)
 - [Silk Tree Flower (合欢花 / He Huan Hua)](/ingredients/silk-tree/)
+- [Pine Needles (松针 / Song Zhen)](/ingredients/pine-needles/)
+- [Bamboo Leaves (竹叶 / Zhu Ye)](/ingredients/bamboo-leaves/)
+- [Fenugreek (葫芦巴 / Hu Lu Ba)](/ingredients/fenugreek/)
+- [Chuanxiong (川芎 / Chuan Xiong)](/ingredients/ligusticum-chuanxiong/)
+- [Sophora Flower (槐花 / Huai Hua)](/ingredients/sophora-flower/)
+- [Tree Peony (牡丹 / Mu Dan)](/ingredients/tree-peony/)
+- [Mulberry Leaf (桑叶 / Sang Ye)](/ingredients/mulberry-leaf/)
+- [Sweet Wormwood (青蒿 / Qing Hao)](/ingredients/artemisia-annua/)
+- [Schizonepeta (荆芥 / Jing Jie)](/ingredients/schizonepeta/)
+- [Cassia Twig (桂枝 / Gui Zhi)](/ingredients/cassia-twig/)
+- [Bergamot (佛手柑 / Fo Shou Gan)](/ingredients/bergamot/)
+- [Neroli (橙花 / Cheng Hua)](/ingredients/neroli/)
 
 ## Machine-readable data
 
-- [Ingredient dataset](/data/ingredients.json): 118 ingredient entities (Schema.org Dataset / DefinedTerm).
+- [Ingredient dataset](/data/ingredients.json): 130 ingredient entities (Schema.org Dataset / DefinedTerm).
 - [Terminology dataset](/data/terminology.json): 104 Chinese–English incense terms (Schema.org Dataset / DefinedTerm).
 
 ## AI content notes
