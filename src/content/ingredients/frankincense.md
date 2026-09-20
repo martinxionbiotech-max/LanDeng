@@ -40,6 +40,8 @@ Frankincense has a fresh, resinous, slightly citrus (lemony) aroma over a warm, 
 
 ## Chinese name and terminology
 
+> **Direct answer:** 乳香 (rǔxiāng) means "milk fragrance," describing the milky resin that hardens into tears. It is classically paired with 没药 (myrrh) in Chinese materia medica — a pairing that also runs through Western religious and perfumery tradition.
+
 The Chinese name 乳香 (rǔxiāng) means "milk fragrance" — a direct description of the milky resin that hardens into the aromatic tears. In Chinese materia medica, 乳香 is classically paired with **没药 (mòyào, myrrh)**, and the two are habitually named together. The pairing is not a Chinese invention alone: frankincense and myrrh travel together through Western religious and perfumery tradition as well, because both are gum-resins from the same plant family (Burseraceae) and complement each other's aroma. See [myrrh](/ingredients/myrrh/).
 
 ## Where does frankincense come from?
