@@ -70,7 +70,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Where is wintersweet used?** Primarily as a celebrated winter garden ornamental, and as a niche sweet, honeyed winter floral note in incense and fragrance — usually as an accord rather than a bulk material. Its documented medicinal uses are traditional language, not modern clinical evidence, and this encyclopedia makes no medical claims.
 
-See also: [plum-blossom](/ingredients/plum-blossom/), [osmanthus](/ingredients/osmanthus/), [magnolia-flower](/ingredients/magnolia-flower/), and the full [scent guide](/blog/scent-guide/).
+See also: [plum-blossom](/ingredients/plum-blossom/), [osmanthus](/ingredients/osmanthus/), [magnolia-flower](/ingredients/magnolia-flower/), [daphne](/ingredients/daphne/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 
