@@ -28,9 +28,25 @@ related: ["cedar", "cypress-seed", "pine-resin"]
 
 ## Aroma profile
 
+> **Direct answer:** 崖柏 is woody and cedar-like at its core, with a clean, resinous sharpness and a faint smoky depth that emerges with gentle heat — a green-woody, slightly austere character closer to a dry conifer note than to the creamy sweetness of sandalwood or the dense warmth of agarwood.
+
 崖柏 is woody and cedar-like at its core, with a clean, resinous sharpness and a faint smoky depth that emerges with gentle heat — closer to a dry conifer note than to the creamy sweetness of sandalwood or the dense warmth of agarwood. It reads as a *green-woody* character: fresh, a little austere, with a lingering balsamic undertone. In a blend it sits naturally alongside other conifer materials — cedar, cypress, pine — where it adds lift without the heaviness of a true resin.
 
+## Botanical identity
+
+> **Direct answer:** *Thuja sutchuenensis* is a shrub or small tree of the cypress family (Cupressaceae), endemic to a narrow area of the Sichuan and Chongqing mountains. It is a genuinely scarce plant — known from a single late-19th-century collection, long thought extinct, and rediscovered in the wild only in the late 1990s.
+
+*Thuja sutchuenensis* is a shrub or small tree (to about 20 m) of the cypress family (Cupressaceae), endemic to a small area of the mountains of Sichuan and Chongqing. Flora of China records it under the Chinese name 崖柏. It is a genuinely scarce plant: known from a single late-19th-century collection, it was long considered extinct in the wild before its rediscovery in the late 1990s in its narrow home range. That scarcity is the source of both its mystique and its conservation problem. See [Thuja sutchuenensis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005459).
+
+## Chinese name and terminology
+
+> **Direct answer:** The name 崖柏 means "cliff arborvitae" — 崖 (cliff) + 柏 (the cypress/arborvitae register). The 柏 character names a broad class of cypress-family plants, which is why 崖柏, 柏子, and even 雪松 get blurred: they share a character and a conifer register, but name different species and parts.
+
+The name 崖柏 (yábǎi) is literal: 崖 "cliff" + 柏, the character for the cypress/arborvitae class of conifers. The 柏 character is a *category* of honor in Chinese botanical naming — it names arborvitae, cypresses, and related conifers — which is precisely why 崖柏 (the wood of *Thuja sutchuenensis*), 柏子 (the seed of *Platycladus orientalis*), and the broader conifer register get run together in casual use. The shared character signals "conifer," not "same plant."
+
 ## The 崖柏 / 雪松 / 柏子 confusion (read this)
+
+> **Direct answer:** 崖柏, 雪松 (cedar), and 柏子 (cypress seed) are three different conifer materials that share a 柏/松 register and a woody aroma but are different species used for different parts. 崖柏 is *Thuja sutchuenensis* wood; 雪松 is true cedar (*Cedrus*) or, in trade, *Juniperus virginiana*; 柏子 is the seed of *Platycladus orientalis*.
 
 Three conifer materials share overlapping Chinese names and are easily blurred:
 
@@ -38,33 +54,106 @@ Three conifer materials share overlapping Chinese names and are easily blurred:
 - **雪松 (cedar)** — *Cedrus* species (true cedar), and commercially "cedarwood" often meaning *Juniperus virginiana*; its own entry.
 - **柏子 (cypress seed)** — the seeds of *Platycladus orientalis*, a classical incense material; its own entry.
 
-They are all conifers with woody aromas, but they are **different species used for different parts**. **This page describes 崖柏 = *Thuja sutchuenensis*.** When a source means 雪松 or 柏子, it is describing a different material.
+They are all conifers with woody aromas, but they are **different species used for different parts**. **This page describes 崖柏 = *Thuja sutchuenensis*.** When a source means 雪松 or 柏子, it is describing a different material. See [cedar](/ingredients/cedar/) and [cypress-seed](/ingredients/cypress-seed/).
 
-## Botanical source and origin
+## Where does thuja come from?
 
-*Thuja sutchuenensis* is a shrub or small tree (to about 20 m) of the cypress family (Cupressaceae), endemic to a small area of the mountains of Sichuan and Chongqing. Flora of China records it under the Chinese name 崖柏. It is a genuinely scarce plant: known from a single late-19th-century collection, it was long considered extinct in the wild before its rediscovery in the late 1990s in its narrow home range. That scarcity is the source of both its mystique and its conservation problem.
+> **Direct answer:** 崖柏 comes from a single narrow endemic range — the mountains of Sichuan and Chongqing in southwest China. It grows on cliffs and rocky slopes, and its wild population is tiny and protected, so most of what circulates commercially is cultivated material or substitute wood.
+
+*Thuja sutchuenensis* is confined to a small area of the Sichuan and Chongqing mountains, where it grows on cliffs and rocky slopes — the "cliff" of its name. The wild population is small, and the plant holds protected status in China, so wild harvesting is restricted. The commercial reality that follows is important: much of the 崖柏 sold is **cultivated material** or, more problematically, **substitute conifer woods** passed off under the name, because the authentic wild wood is scarce.
+
+## Why is it used in incense?
+
+> **Direct answer:** 崖柏 is used as a clean, cedar-like conifer wood note — a green-woody lift that blends naturally with cedar, cypress, and pine without the heaviness of a true resin. Its modern popularity rests as much on its rarity story as on its aroma.
+
+崖柏's role in incense is a clean, cedar-like conifer note — a fresh, slightly austere green-woody character that adds lift to a blend. It is not a resinous base, and it does not have the sweet warmth of sandalwood; its value is the dry, bracing evergreen freshness it contributes alongside other conifer materials. Its recent fashion in contemporary Chinese incense is inseparable from its *story* — a "lost and found" endemic wood — which is a genuine part of its appeal and a genuine part of its pricing, but which must be kept distinct from its actual aromatic character.
+
+## How is it processed?
+
+> **Direct answer:** 崖柏 is used as the wood — cleaned, dried, and either cut into chips or shavings for warming, or ground to powder for blending. There is no resin tapping or extraction step; the aromatic value is in the wood itself.
+
+As a wood material, 崖柏 is handled by drying and cutting rather than tapping or distilling. The fragrant wood is cleaned, dried, and prepared as chips or shavings for gentle warming, or ground to powder for blending into sticks and cones. Because the aroma lives in the wood's own volatile oils, the practical concerns are the same as for any aromatic wood: clean, well-seasoned material, and — for powder — a consistent particle size that packs and burns evenly.
+
+## What determines thuja quality?
+
+> **Direct answer:** Quality turns on species identity, wood condition, and freshness of the conifer aroma. Genuine *Thuja sutchuenensis* wood with a clean, cedar-like, resinous note is the benchmark; substitute conifer wood or faded, musty material fails the identity and aroma checks.
+
+The quality factors, in rough order:
+
+1. **Species identity** — the decisive check: genuine *Thuja sutchuenensis* is scarce, and substitute conifer woods appear under the name.
+2. **Aroma freshness** — a clean, cedar-like, resinous, faintly smoky note; conifer volatiles fade with age and poor storage.
+3. **Wood condition** — clean, dry, well-seasoned wood free of rot, bark, and excess foreign matter.
+4. **Legal origin** — because the wild plant is protected, cultivated and documented material is the defensible choice.
+
+For 崖柏 specifically, identity and legality outrank aroma as grading signals, because the species is the scarce and protected part of the equation.
+
+## Common forms
+
+> **Direct answer:** 崖柏 is sold as chips and shavings for warming, powder for blending, and occasional whole or carved pieces. Chips suit gentle heating; powder suits stick-making. The wood is the working material throughout.
+
+| Form | Typical use |
+|---|---|
+| Chips / shavings | Warmed on charcoal or an electric heater |
+| Powder | Blended into incense sticks and cones |
+| Whole / carved pieces | Beads, ornaments (from cultivated material) |
 
 ## In Chinese tradition
 
-- **Recent incense favourite:** 崖柏 has become a fashionable aromatic wood in contemporary Chinese incense, prized for its clean conifer character.
-- **No classical incense canon entry:** 崖柏 does not appear in the classical incense compendium 香乘 — its popularity is a modern development, not a 香道 heritage material.
-- **Conservation concern:** as a narrowly endemic and once "lost" species, wild 崖柏 is a protected plant; authentic wild wood is restricted, and much of what circulates commercially is cultivated material or substitutes.
+- **Recent incense favourite (Modern Industry Practice):** 崖柏 has become a fashionable aromatic wood in contemporary Chinese incense, prized for its clean conifer character.
+- **No classical incense canon entry (Historical Record):** 崖柏 does not appear in the classical incense compendium 香乘 — its popularity is a modern development, not a 香道 heritage material.
+- **Conservation concern (Established fact):** as a narrowly endemic and once "lost" species, wild 崖柏 is a protected plant; authentic wild wood is restricted, and much of what circulates commercially is cultivated material or substitutes.
 
 ## Traditional use vs modern evidence
 
-The aromatic use of 崖柏 is a modern, well-documented trade practice, not a classical materia-medica tradition. We make **no medical claims**. The documented, non-medical facts are botanical identity, the Cupressaceae placement, the endemic-and-protected status, and the clean woody aromatic use.
+> **Direct answer:** The aromatic use of 崖柏 is a modern trade practice, not a classical materia-medica tradition, and this page makes no medical claims. The documented facts are the botanical identity, the Cupressaceae placement, the endemic-and-protected status, and the clean woody aromatic use.
 
-## Quality and sourcing notes
+- **Traditional Use** — there is no classical 崖柏 materia-medica or incense tradition to describe; this page records that absence rather than inventing one.
+- **Historical Record** — the rediscovery history of *Thuja sutchuenensis* (a single late-19th-century collection, presumed extinction, late-1990s rediscovery) is documented botanical history.
+- **Scientific Evidence** — the botanical identity of *Thuja sutchuenensis* (Cupressaceae) and its narrow endemic distribution are documented. We present no clinical or medical efficacy claims.
 
-Practical points for buyers:
+## What buyers should look for
 
-- Confirm the species. "崖柏" is applied loosely in the trade; genuine *Thuja sutchuenensis* is scarce, and substitutes — other cypress-family woods or even unrelated aromatic woods — appear under the name.
-- Because wild 崖柏 is protected and rare, ask whether material is cultivated, and confirm legal origin before buying.
-- 崖柏 is a green-woody note; expect cedar-like freshness rather than deep, sweet resinous warmth.
+> **Direct answer:** Buyers should confirm the species first — genuine *Thuja sutchuenensis* is scarce and protected — then judge the freshness of the cedar-like conifer aroma and ask whether the material is cultivated. Expect green-woody freshness, not deep resinous sweetness, and verify legal origin before buying.
+
+For an incense maker or sourcing buyer:
+
+- **Species** — "崖柏" is applied loosely in trade; confirm it is genuinely *Thuja sutchuenensis*, not another conifer wood.
+- **Legal origin** — because wild 崖柏 is protected and rare, ask whether material is cultivated and confirm legal origin.
+- **Aroma** — a clean, cedar-like, resinous, faintly smoky note; reject faded or musty wood.
+- **Form** — chips for warming, powder for blending; confirm particle size for powder.
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice.
+
+## Thuja vs cedar vs juniper
+
+> **Direct answer:** These are three conifer materials with woody aromas but different botanical identities and uses. 崖柏 is the scarce endemic wood of *Thuja sutchuenensis*; cedar is true cedar (*Cedrus*) or trade "cedarwood" (*Juniperus virginiana*); juniper is the modern-crossover wood of *Juniperus communis*. All read green-woody, but they are different species with different sourcing profiles.
+
+| | Thuja (崖柏) | Cedar (雪松) | Juniper (杜松) |
+|---|---|---|---|
+| Botanical source | *Thuja sutchuenensis* (Cupressaceae) | *Cedrus* spp., or *Juniperus virginiana* in trade | *Juniperus communis* (Cupressaceae) |
+| Character | Woody, cedar-like, slightly smoky | Woody, clean, slightly sweet | Woody, piney, resinous, fresh |
+| Status | Scarce, endemic, protected | Widely available | Modern cross-over, widely available |
+| Sourcing concern | Substitution + legality | Name confusion ("cedarwood" = juniper) | Provenance claims (no classical lineage) |
+
+See [cedar](/ingredients/cedar/), [juniper](/ingredients/juniper/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
+
+## Our Industry View
+
+> **Direct answer:** 崖柏's commercial lesson is that scarcity and story can drive a market faster than aroma can justify it. A manufacturer should treat 崖柏 as a clean conifer wood note whose real procurement question is species identity and legal origin — not a premium to pay blindly for a "lost and found" narrative.
+
+From a manufacturing perspective, 崖柏 is a useful case study in how **scarcity narrative, not aromatic superiority, sets a material's price**:
+
+- **The aroma does not explain the premium.** 崖柏 is a pleasant, clean, cedar-like conifer note — but it is not dramatically different from other cypress-family woods that are abundant and cheap. What justifies the premium is the *story*: a narrowly endemic tree long thought extinct and rediscovered in the wild. That story is real, but it does not make the wood aromatically essential; it makes it scarce and collectible.
+- **Scarcity invites substitution.** Precisely because the name commands a premium, other conifer woods are sold as 崖柏. The buyer's real work is not finding 崖柏 but *verifying* it — species, and whether the material is cultivated or wild.
+- **For a repeatable product, rarity is a liability.** A material that cannot be reordered to the same spec is a problem in production, not a feature. For a stable incense line, a well-documented cultivated conifer wood of known species beats an irreproducible "wild 崖柏."
+
+In our view, 崖柏 is a legitimate but over-narrated conifer note: buy it by verified species and legal origin, judge it by a clean cedar-like aroma, and treat the "lost and found" story as provenance context — not as a reason to pay a premium that the aroma alone does not support.
+
+## Summary
+
+崖柏 (Thuja sutchuenensis) is the fragrant wood of a narrowly endemic Sichuan/Chongqing cypress-family conifer that was long thought extinct before its late-1990s rediscovery. It is a clean, cedar-like, faintly smoky conifer note — a modern incense favourite, not a classical 香乘 material — and its scarcity and protected status make species identity and legal origin the buyer's first checks, since substitute conifer woods appear under the name. Its market premium reflects the "lost and found" narrative more than any aromatic uniqueness, a distinction that matters as much to a sourcing buyer as to a manufacturer planning a repeatable product.
 
 ## FAQ
 
@@ -78,7 +167,9 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Was 崖柏 used in classical Chinese incense?** No — it does not appear in the classical incense compendium 香乘. Its popularity is a modern development rather than a 香道 heritage material. This is a meaningful distinction: 崖柏 is a contemporary favourite, not a documented classical incense ingredient.
 
-See also: [cedar](/ingredients/cedar/), [cypress-seed](/ingredients/cypress-seed/), [pine-resin](/ingredients/pine-resin/), and the full [scent guide](/blog/scent-guide/).
+**How should I buy 崖柏 for incense making?** Confirm species (*Thuja sutchuenensis*, not another conifer), confirm legal origin (cultivated rather than wild), and judge a clean, cedar-like, resinous aroma. For powder, confirm particle size. Treat the "lost and found" scarcity story as provenance context, not as automatic justification for a premium the aroma alone does not support.
+
+See also: [cedar](/ingredients/cedar/), [cypress-seed](/ingredients/cypress-seed/), [juniper](/ingredients/juniper/), [pine-resin](/ingredients/pine-resin/), and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 
