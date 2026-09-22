@@ -31,7 +31,7 @@ author: "\"LanDeng Editorial Team\""
 
 Makko (Japanese 抹香) is the dried, powdered inner bark of the **tabunoki tree**, *Machilus thunbergii* (family Lauraceae), a broadleaf evergreen native to East Asia. The powder is fine, light-colored, and nearly odorless — which is exactly what you want in a binder: it holds and burns without imposing its own scent on the blend.
 
-In Chinese incense, comparable natural wood-powder binders serve the same role; makko is simply the most famous named one, largely through the Japanese tradition.
+In Chinese incense, comparable natural wood-powder binders serve the same role; makko is simply the most famous named one, largely through the Japanese tradition. Not every natural binder is a wood powder, though — some pressed or kneaded blends use a wax like [beeswax](/ingredients/beeswax/) to hold the material together, which is a different tool for a different form.
 
 ---
 

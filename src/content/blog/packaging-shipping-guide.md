@@ -88,6 +88,8 @@ For U.S. imports, the authoritative tariff schedule is the **Harmonized Tariff S
 - [ ] Documents prepared — invoice, packing list, certificates.
 - [ ] Insurance decided (who carries it, per the Incoterm).
 
+The compliance layer that sits behind this checklist — CITES, documentation, and destination restrictions — is unpacked in [incense export considerations](/blog/incense-export-considerations/).
+
 ---
 
 ## The Author's Take

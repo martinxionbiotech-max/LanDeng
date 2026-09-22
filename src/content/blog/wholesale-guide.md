@@ -71,7 +71,7 @@ When buying in bulk, these are the variables that move both price and risk:
 - **Material grade** — real sandalwood or agarwood costs far more than a fragrance-oil stick. See [agarwood grading](/blog/agarwood-grading-guide/).
 - **Customization** — even minor packaging or label changes move lead time and cost.
 - **Consistency across batches** — ask how the supplier keeps batch-to-batch scent consistent; this is the hidden risk in bulk botanical incense.
-- **Payment and shipping terms** — Incoterms define who bears risk and cost at each point. See [packaging & shipping](/blog/packaging-shipping-guide/).
+- **Payment and shipping terms** — Incoterms define who bears risk and cost at each point. See [packaging & shipping](/blog/packaging-shipping-guide/), and for the cross-border compliance side, [incense export considerations](/blog/incense-export-considerations/).
 
 ---
 

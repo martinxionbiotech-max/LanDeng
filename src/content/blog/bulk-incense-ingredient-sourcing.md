@@ -117,7 +117,7 @@ The document set that matters at the ingredient layer:
 - **Particle size and moisture confirmation** — for powders, the physical specification of the lot.
 - **Permits where applicable** — for CITES-listed botanicals, the documents that allow legal movement.
 
-The rule is to request these per lot, and verify them against the issuing body, rather than accepting a generic statement. No specific certification is asserted here for any supplier — the point is what a buyer should request and verify.
+The rule is to request these per lot, and verify them against the issuing body, rather than accepting a generic statement. No specific certification is asserted here for any supplier — the point is what a buyer should request and verify. For how those documents and permits play out at the export/import boundary — CITES, customs classification, and destination compliance — see [incense export considerations](/blog/incense-export-considerations/).
 
 ---
 
