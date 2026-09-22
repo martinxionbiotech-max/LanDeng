@@ -14,7 +14,7 @@ related: ["cardamom", "amomum-villosum"]
 
 <img src="/images/katsumadai-raw-material-800x533.webp" alt="Raw Katsumadai (Alpinia katsumadae (syn. Alpinia hainanensis)) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 草豆蔻 — *cǎodòukòu* in Chinese — is the dried seed of *Alpinia katsumadae* (a name often treated under *Alpinia hainanensis*), a ginger-family (Zingiberaceae) perennial native to southern China and Hainan. It is a warm, camphoraceous, slightly bitter spice seed used in traditional medicine and as a minor aromatic. Its name — 草豆蔻, "grass cardamom" — is one of several "cardamom" names in Chinese, and this page distinguishes it from the white cardamom (白豆蔻) explicitly.
+> **Direct answer:** Katsumadai (草豆蔻, cǎodòukòu) is the dried seed of *Alpinia katsumadae* (often treated under *Alpinia hainanensis*), a ginger-family (Zingiberaceae) perennial native to southern China and Hainan. It is a warm, camphoraceous, slightly bitter spice seed used in traditional medicine and as a minor aromatic. Its name — 草豆蔻, "grass cardamom" — is one of several "cardamom" names in Chinese.
 
 ## Key facts
 

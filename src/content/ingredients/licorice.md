@@ -14,7 +14,7 @@ related: ["spikenard-nardostachys", "galangal"]
 
 <img src="/images/licorice-raw-material-800x533.webp" alt="Raw Licorice (Glycyrrhiza uralensis) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 甘草 — *gāncǎo* in Chinese — is the dried root and rhizome of *Glycyrrhiza uralensis*, a leguminous perennial of the pea family (Fabaceae) native to northern China, Mongolia, and Siberia. It is a deeply sweet root — the glycyrrhizin it contains is many times sweeter than sugar — and in Chinese incense its role is not to be burned for a dominant scent but to act as a **sweetening, harmonizing binder** in 合香 (blended incense) formulas, where a small amount rounds and softens the other aromatics.
+> **Direct answer:** Licorice (甘草, gāncǎo) is the dried root and rhizome of *Glycyrrhiza uralensis*, a leguminous perennial of the pea family (Fabaceae) native to northern China, Mongolia, and Siberia. It is a deeply sweet root — its glycyrrhizin is many times sweeter than sugar — and in Chinese incense its role is not to be burned for a dominant scent but to act as a sweetening, harmonizing binder in 合香 formulas.
 
 ## Key facts
 

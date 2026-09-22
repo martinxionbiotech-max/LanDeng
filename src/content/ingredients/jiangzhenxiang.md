@@ -14,7 +14,7 @@ related: ["agarwood", "sandalwood"]
 
 <img src="/images/jiangzhenxiang-raw-material-800x533.webp" alt="Raw Jiangzhenxiang (Acronychia pedunculata (classical); cf. Dalbergia odorifera (modern conflation)) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Jiangzhenxiang — *jiàngzhēnxiāng* (降真香) in Chinese — is a fragrant, resinous heartwood best known as the incense of Daoist ritual, burned so that its smoke "rises straight" to summon the immortals. Its botanical identity is genuinely contested: classical texts point to *Acronychia pedunculata* (山油柑, the citrus family), while modern trade and some materia-medica usage conflate it with *Dalbergia odorifera* (降香黄檀, the fragrant rosewood).
+> **Direct answer:** Jiangzhenxiang (降真香, jiàngzhēnxiāng) is a fragrant, resinous heartwood best known as the incense of Daoist ritual, burned so that its smoke "rises straight" to summon the immortals. Its botanical identity is genuinely contested: classical texts point to *Acronychia pedunculata* (山油柑, the citrus family), while modern trade conflates it with *Dalbergia odorifera* (降香黄檀, fragrant rosewood).
 
 ## Key facts
 

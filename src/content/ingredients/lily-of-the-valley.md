@@ -12,7 +12,7 @@ status: draft
 related: ["jasmine", "rose", "orris-root"]
 ---
 
-**Direct answer:** Lily of the valley — *línglán* (铃兰) in Chinese — is the flower of *Convallaria majalis*, a small perennial of the asparagus family (Asparagaceae; formerly placed in Liliaceae) native to the northern temperate zone. Its bell-shaped flowers carry a delicate, green, sweet, fresh floral scent, prized in modern perfumery. It is a **modern fragrance flower, not a classical Chinese incense ingredient — and it is poisonous, never to be burned.**
+> **Direct answer:** Lily of the valley (铃兰, línglán) is the flower of *Convallaria majalis*, a small perennial of the asparagus family (Asparagaceae) native to the northern temperate zone. Its bell-shaped flowers carry a delicate, green, sweet, fresh floral scent prized in modern perfumery. It is a modern fragrance flower, not a classical Chinese incense ingredient — and it is poisonous, never to be burned.
 
 <img src="/images/lily-of-the-valley-raw-material-800x533.webp" alt="Raw Lily of the Valley (Convallaria majalis) material, editorial still life" width="800" height="533" loading="lazy">
 

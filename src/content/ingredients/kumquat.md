@@ -14,7 +14,7 @@ related: ["citron", "finger-citron"]
 
 <img src="/images/kumquat-raw-material-800x533.webp" alt="Raw Kumquat (Citrus japonica (syn. Fortunella japonica)) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 金橘 — *jīnjú* in Chinese — is the kumquat, *Citrus japonica* (formerly *Fortunella japonica*), a small-fruited citrus of the rue family (Rutaceae) whose thin, sweet, fragrant rind is eaten whole. It is a **清供 (scholar's-table offering) and room-fragrance citrus**, its name — "golden orange" — recorded in the *Bencao Gangmu* (本草纲目), which explains the fruit turns golden when ripe. It belongs to the same broad citrus group as the citron (香橼) and finger citron (佛手), but is a distinct fruit.
+> **Direct answer:** Kumquat (金橘, jīnjú) is *Citrus japonica* (formerly *Fortunella japonica*), a small-fruited citrus of the rue family (Rutaceae) whose thin, sweet, fragrant rind is eaten whole. It is a 清供 (scholar's-table offering) and room-fragrance citrus, its name "golden orange" recorded in the *Bencao Gangmu*. It is a distinct fruit from the citron and finger citron.
 
 ## Key facts
 

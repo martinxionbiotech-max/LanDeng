@@ -14,7 +14,7 @@ related: ["cedar", "thuja"]
 
 <img src="/images/juniper-raw-material-800x533.webp" alt="Raw Juniper (Juniperus communis) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 杜松 — *dùsōng* in Chinese — is the common juniper, *Juniperus communis*, an evergreen conifer of the cypress family (Cupressaceae). It is best known in the West as the source of juniper berries — the flavor of gin — and as a clean, piney aromatic wood and needle material. In Chinese incense it is a **modern cross-over material**, not a classical one: it is absent from the Ming-dynasty *Xiangcheng* (香乘) and the *Bencao Gangmu* (本草纲目), and this page states that plainly rather than inventing an antique pedigree.
+> **Direct answer:** Juniper (杜松, dùsōng) is the common juniper, *Juniperus communis*, an evergreen conifer of the cypress family (Cupressaceae). It is best known in the West as the source of juniper berries — the flavor of gin — and as a clean, piney aromatic wood and needle material. In Chinese incense it is a modern crossover, absent from the Ming *Xiangcheng* (香乘) and the *Bencao Gangmu*.
 
 ## Key facts
 

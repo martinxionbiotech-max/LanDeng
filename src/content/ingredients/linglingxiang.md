@@ -14,7 +14,7 @@ related: ["patchouli", "agastache-rugosa"]
 
 <img src="/images/linglingxiang-raw-material-800x533.webp" alt="Raw Linglingxiang (Lysimachia foenum-graecum) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Linglingxiang — *línglíngxiāng* (零陵香) in Chinese — is a fragrant herb identified today as *Lysimachia foenum-graecum*, a moisture-loving plant of southern China whose dried herb smells sweet and hay-like. It is a classical Chinese incense herb, though its historical identity is tangled: the same name (and its alias 熏草) has been applied across several aromatic herbs over the centuries.
+> **Direct answer:** Linglingxiang (零陵香, línglíngxiāng) is a fragrant herb identified today as *Lysimachia foenum-graecum*, a moisture-loving plant of southern China whose dried herb smells sweet and hay-like. It is a classical Chinese incense herb, though its historical identity is tangled: the same name (and its alias 熏草) has been applied across several aromatic herbs over the centuries.
 
 ## Key facts
 

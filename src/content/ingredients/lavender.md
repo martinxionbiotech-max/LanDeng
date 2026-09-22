@@ -12,7 +12,7 @@ status: draft
 related: ["rosemary", "bergamot", "chamomile"]
 ---
 
-**Direct answer:** Lavender — *xūnyīcǎo* (薰衣草) in Chinese — is the flowering herb *Lavandula angustifolia* (English lavender), a mint-family (Lamiaceae) shrub native to the western Mediterranean. Its flowers and leaves carry a fresh, floral, herbal, camphoraceous scent, familiar from modern perfumery and aromatherapy. It is a **modern crossover, not a classical Chinese incense ingredient** — and LanDeng keeps an [explainer on lavender incense](/blog/lavender-incense/) for exactly this distinction.
+> **Direct answer:** Lavender (薰衣草, xūnyīcǎo) is the flowering herb *Lavandula angustifolia* (English lavender), a mint-family (Lamiaceae) shrub native to the western Mediterranean. Its flowers and leaves carry a fresh, floral, herbal, camphoraceous scent, and it is a modern crossover in perfumery and aromatherapy, not a classical Chinese incense ingredient — see the [lavender incense explainer](/blog/lavender-incense/).
 
 <img src="/images/lavender-raw-material-800x533.webp" alt="Raw Lavender (Lavandula angustifolia) material, editorial still life" width="800" height="533" loading="lazy">
 

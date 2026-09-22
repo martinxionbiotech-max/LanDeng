@@ -12,7 +12,7 @@ status: draft
 related: ["mint", "basil", "bergamot"]
 ---
 
-**Direct answer:** Lemon balm — *xiāngfēngcǎo* (香蜂草) in Chinese — is the herb *Melissa officinalis*, a perennial of the mint family (Lamiaceae) native to southern Europe and the Mediterranean. Its leaves carry a soft, lemony, fresh, green scent, and it is a **modern crossover, not a classical Chinese incense ingredient**.
+> **Direct answer:** Lemon balm (香蜂草, xiāngfēngcǎo) is the herb *Melissa officinalis*, a perennial of the mint family (Lamiaceae) native to southern Europe and the Mediterranean. Its leaves carry a soft, lemony, fresh, green scent. It is a modern crossover, not a classical Chinese incense ingredient.
 
 <img src="/images/lemon-balm-raw-material-800x533.webp" alt="Raw Lemon Balm (Melissa officinalis) material, editorial still life" width="800" height="533" loading="lazy">
 

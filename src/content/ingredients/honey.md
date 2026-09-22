@@ -14,7 +14,7 @@ related: ["musk", "ambergris"]
 
 <img src="/images/honey-raw-material-800x533.webp" alt="Raw Honey (Apis mellifera (honey bee) — bee product, not botanical) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 蜂蜜 — *fēngmì* in Chinese — is honey, the nectar-derived product of the honey bee (*Apis mellifera*), a bee product rather than a botanical. In Chinese incense it is not a fragrance in itself but the **classical binder of 合香 (blended incense)**: the Ming-dynasty *Xiangcheng* (香乘) repeatedly specifies honey as the agent that binds ground incense powders into pills and cakes — "以蜜和香" (use honey to blend the incense) — making it a structural material rather than a scent.
+> **Direct answer:** Honey (蜂蜜, fēngmì) is the nectar-derived product of the honey bee (*Apis mellifera*), a bee product rather than a botanical. In Chinese incense it is not a fragrance in itself but the classical binder of 合香 (blended incense): the Ming *Xiangcheng* (香乘) repeatedly specifies honey as the agent that binds ground incense powders into pills and cakes — "以蜜和香" (use honey to blend the incense).
 
 ## Key facts
 
