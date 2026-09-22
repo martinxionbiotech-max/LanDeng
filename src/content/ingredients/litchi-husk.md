@@ -14,7 +14,7 @@ related: ["orange-peel", "osmanthus"]
 
 <img src="/images/litchi-husk-raw-material-800x533.webp" alt="Raw Litchi Husk (Litchi chinensis (the husk / pericarp)) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Litchi husk — *lìzhī ké* (荔枝壳) in Chinese — is the dried, leathery red husk (pericarp) of the litchi fruit, *Litchi chinensis*, a tropical evergreen tree of the soapberry family (Sapindaceae) native to southern China. It is a distinctly Chinese incense ingredient: the 香乘 (Xiang Cheng) records a "荔枝香" (litchi incense) made from the husk, praised as the freshest and most delicate of fruit-peel incenses. The husk is a *fruit peel* material, used for its sweet, fruity, faintly floral scent.
+> **Direct answer:** Litchi husk (荔枝壳, lìzhī ké) is the dried, leathery red husk (pericarp) of the litchi fruit, *Litchi chinensis*, a tropical evergreen tree of the soapberry family (Sapindaceae) native to southern China. It is a distinctly Chinese incense ingredient: the 香乘 records a "荔枝香" (litchi incense) made from the husk, praised as the freshest and most delicate of fruit-peel incenses. It is a fruit peel material.
 
 ## Key facts
 

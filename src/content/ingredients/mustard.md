@@ -14,7 +14,7 @@ related: ["pepper", "cinnamon", "ginger"]
 
 <img src="/images/mustard-raw-material-800x533.webp" alt="Raw Mustard Seed (Sinapis alba / Brassica juncea) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 芥子 — *jièzǐ* in Chinese — is mustard seed, the pungent seed of mustards in the cabbage family (Brassicaceae): white mustard (*Sinapis alba*) and brown or leaf mustard (*Brassica juncea*). It is a sharp, spicy culinary seed whose heat is released only when the ground seed meets water. The *Bencao Gangmu* (本草纲目) records 芥 in its vegetable section (菜之一), describing several kinds and noting the white mustard seed (白芥子) "甚辛美" — very pungent and fine.
+> **Direct answer:** Mustard seed (芥子, jièzǐ) is the pungent seed of mustards in the cabbage family (Brassicaceae): white mustard (*Sinapis alba*) and brown or leaf mustard (*Brassica juncea*). It is a sharp, spicy culinary seed whose heat is released only when the ground seed meets water. The *Bencao Gangmu* records 芥 in its vegetable section, noting the white mustard seed (白芥子) is "甚辛美" — very pungent and fine.
 
 ## Key facts
 

@@ -14,7 +14,7 @@ related: ["osmanthus", "chrysanthemum"]
 
 <img src="/images/orchid-raw-material-800x533.webp" alt="Raw Orchid (Cymbidium ensifolium) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 兰花 — *lánhuā* in Chinese — is the flower of the *Cymbidium* orchids, principally *Cymbidium ensifolium*, an orchid (Orchidaceae) cultivated in China for its delicate, refined fragrance. In Chinese culture the orchid is one of the Four Gentlemen (四君子) and its scent is the classical model of the *refined, understated* floral. In incense it is a delicate floral reference and a 清供 (scholar's-table offering) flower rather than a heavy burned material, and the Ming-dynasty *Xiangcheng* (香乘) records the pairing of orchid with specific incenses (兰宜四絶).
+> **Direct answer:** Orchid (兰花, lánhuā) is the flower of the *Cymbidium* orchids, principally *Cymbidium ensifolium*, an orchid (Orchidaceae) cultivated in China for its delicate, refined fragrance. In Chinese culture the orchid is one of the Four Gentlemen (四君子) and its scent is the classical model of the refined, understated floral. In incense it is a delicate floral reference and a 清供 (scholar's-table offering) flower.
 
 ## Key facts
 

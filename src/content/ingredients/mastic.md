@@ -14,7 +14,7 @@ related: ["frankincense", "pine-resin", "myrrh"]
 
 <img src="/images/mastic-raw-material-800x533.webp" alt="Raw Mastic (Pistacia lentiscus) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Mastic — *mǎtízhī* (玛蹄脂) in Chinese — is the aromatic resin of *Pistacia lentiscus*, the mastic tree, a small evergreen shrub of the cashew family (Anacardiaceae) native to the Mediterranean, most famously cultivated on the Greek island of Chios. It is a fresh, piney, balsamic resin used since antiquity in incense, perfumery, and as a chewing gum, and known in Chinese sources as a **Western aromatic resin**. Its Chinese name 玛蹄脂 is also spelled 乳香脂 or 洋乳香 in some sources, which invites confusion with frankincense (乳香) — a different resin.
+> **Direct answer:** Mastic (玛蹄脂, mǎtízhī) is the aromatic resin of *Pistacia lentiscus*, the mastic tree, a small evergreen shrub of the cashew family (Anacardiaceae) native to the Mediterranean, most famously cultivated on the Greek island of Chios. It is a fresh, piney, balsamic resin used since antiquity in incense, perfumery, and as a chewing gum. Its Chinese name 玛蹄脂 is also spelled 乳香脂 or 洋乳香, inviting confusion with frankincense (乳香).
 
 ## Key facts
 

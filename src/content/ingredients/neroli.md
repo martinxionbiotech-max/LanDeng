@@ -12,7 +12,7 @@ status: draft
 related: ["bergamot", "orange-peel", "jasmine"]
 ---
 
-**Direct answer:** Neroli — *chénghuā* (橙花) in Chinese — is the blossom of the bitter orange, *Citrus aurantium*, a citrus tree (Rutaceae). Its flowers yield neroli essential oil, with a delicate, sweet, citrus-floral, green scent, prized in modern perfumery. It is a **modern fragrance material, not a classical Chinese incense ingredient** — the blossom of a citrus whose peel and fruit have their own, separate entries (orange peel / 陈皮).
+> **Direct answer:** Neroli (橙花, chénghuā) is the blossom of the bitter orange, *Citrus aurantium*, a citrus tree (Rutaceae). Its flowers yield neroli essential oil, with a delicate, sweet, citrus-floral, green scent prized in modern perfumery. It is a modern fragrance material, not a classical Chinese incense ingredient — the blossom of a citrus whose peel and fruit have separate entries (orange peel / 陈皮).
 
 <img src="/images/neroli-raw-material-800x533.webp" alt="Raw Neroli (Citrus aurantium (the flower)) material, editorial still life" width="800" height="533" loading="lazy">
 

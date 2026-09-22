@@ -14,7 +14,7 @@ related: ["ambergris", "sandalwood"]
 
 <img src="/images/musk-raw-material-800x533.webp" alt="Raw Musk (Moschus spp. (musk deer) — an animal secretion, not botanical) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Musk — *shèxiāng* (麝香) in Chinese — is the dried secretion of the musk pod of the male musk deer (genus *Moschus*), a small deer of the mountains of Asia. In classical Chinese incense it was a prized **fixative** and precious accent, with an animalic, sweet, warm scent that rounds and extends a blend. It is the defining animal material of the court 合香 tradition — and, unlike nearly everything else in this encyclopedia, it is **animal-derived, not botanical**.
+> **Direct answer:** Musk (麝香, shèxiāng) is the dried secretion of the musk pod of the male musk deer (genus *Moschus*), a small deer of Asia's mountains. In classical Chinese incense it was a prized fixative and precious accent with an animalic, sweet, warm scent that rounds and extends a blend. It is animal-derived, not botanical — the defining animal material of the court 合香 tradition.
 
 ## Key facts
 

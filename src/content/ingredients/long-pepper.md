@@ -14,7 +14,7 @@ related: ["cubeb", "clove"]
 
 <img src="/images/long-pepper-raw-material-800x533.webp" alt="Raw Long Pepper (Piper longum) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Long pepper — *bìbá* (荜茇) in Chinese — is the dried, immature fruit spike of *Piper longum*, a climbing vine of the pepper family (Piperaceae) native to South and Southeast Asia. It is a warm, pungent spice with a sweet, lingering heat, used in Chinese incense as a warm spice accent in some 合香 (blended incense) contexts. Long pepper was historically the more important of the peppers in Asia, predating black pepper in many traditions.
+> **Direct answer:** Long pepper (荜茇, bìbá) is the dried, immature fruit spike of *Piper longum*, a climbing vine of the pepper family (Piperaceae) native to South and Southeast Asia. It is a warm, pungent spice with a sweet, lingering heat, used in Chinese incense as a warm spice accent in some 合香 contexts. Long pepper was historically the more important of the peppers in Asia, predating black pepper.
 
 ## Key facts
 
