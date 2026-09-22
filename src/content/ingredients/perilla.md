@@ -70,7 +70,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **How is 紫苏 used in Chinese tradition?** Primarily as a staple culinary herb — used fresh and dried in cooking, pickling, and tea — and as a light, green herbal note in incense. It is also recorded in traditional Chinese medicine (本草綱目, 草部). The medicinal uses are traditional language, not modern clinical evidence, and this encyclopedia makes no medical claims.
 
-See also: [mint](/ingredients/mint/), [agastache-rugosa](/ingredients/agastache-rugosa/), [mugwort](/ingredients/mugwort/), and the full [scent guide](/blog/scent-guide/).
+See also: [mint](/ingredients/mint/), [agastache-rugosa](/ingredients/agastache-rugosa/), [mugwort](/ingredients/mugwort/), [elsholtzia](/ingredients/elsholtzia/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

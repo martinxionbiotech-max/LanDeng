@@ -205,7 +205,7 @@ Rose (玫瑰) is the flower of *Rosa* species — most classically the Chinese r
 
 **What part of the rose is used?** The flower bud — dried rose buds (玫瑰花) are used for tea and materia medica, while the petals are distilled for rose water and rose oil. The buds are picked and dried whole; the petals are processed by steam distillation or solvent extraction to yield rose oil and absolute for perfumery. So the bud is the tea ingredient and the petal is the perfumery material, two different parts with two different uses.
 
-See also: [jasmine](/ingredients/jasmine/) and [osmanthus](/ingredients/osmanthus/), its fellow florals, plus the full [scent guide](/blog/scent-guide/).
+See also: [jasmine](/ingredients/jasmine/) and [osmanthus](/ingredients/osmanthus/), its fellow florals, [banksia rose](/ingredients/banksia-rose/), [violet](/ingredients/violet/) plus the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

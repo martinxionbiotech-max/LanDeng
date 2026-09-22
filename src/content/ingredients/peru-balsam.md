@@ -78,7 +78,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **How does Peru balsam relate to benzoin and storax?** They are all sweet, balsamic resins used as fixatives, but from different plants. Peru balsam is *Myroxylon balsamum* (Fabaceae), benzoin (安息香) is *Styrax* resin, and storax (苏合香) is *Liquidambar orientalis*. They overlap in warm, sweet, vanilla-balsamic character but differ in botanical source and precise scent.
 
-See also: [benzoin](/ingredients/benzoin/), [storax](/ingredients/styrax-resin/), [vanilla](/ingredients/vanilla/), and the full [scent guide](/blog/scent-guide/).
+See also: [benzoin](/ingredients/benzoin/), [storax](/ingredients/styrax-resin/), [vanilla](/ingredients/vanilla/), [copaiba](/ingredients/copaiba/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

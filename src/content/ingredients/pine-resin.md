@@ -186,7 +186,7 @@ Pine resin (松香) is the hardened oleoresin of *Pinus* trees, the same materia
 
 **What is the difference between 松香 and 松脂?** Both are pine resin at different stages. 松脂 (sōngzhī) is the raw oleoresin as it comes from the tree — the sticky gum. 松香 (sōngxiāng) is the refined rosin/colophony left after the volatile turpentine is distilled off. They are the same material, raw versus refined, and they serve different uses — the raw gum for incense aroma, the refined solid for binder and industrial roles.
 
-See also: [pine needles (松针)](/ingredients/pine-needles/), [cedar](/ingredients/cedar/), [borneol](/ingredients/borneol/), and the full [scent guide](/blog/scent-guide/).
+See also: [pine needles (松针)](/ingredients/pine-needles/), [cedar](/ingredients/cedar/), [borneol](/ingredients/borneol/), [amber](/ingredients/amber/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

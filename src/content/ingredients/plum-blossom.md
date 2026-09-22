@@ -181,7 +181,7 @@ Plum blossom (梅花) is the late-winter flower of *Prunus mume* (syn. *Armeniac
 
 **Is plum blossom the same as wintersweet?** No. Plum blossom is the flower of *Prunus mume* (Rosaceae), while wintersweet (蜡梅) is *Chimonanthus praecox*, a shrub of a different family (Calycanthaceae) that also blooms in winter. They share the 梅 word and a winter-blooming habit, but they are unrelated plants, and neither should be confused with the borneol grade 梅花脑 / 梅花片.
 
-See also: [wintersweet](/ingredients/wintersweet/), [borneol](/ingredients/borneol/), [osmanthus](/ingredients/osmanthus/), [chrysanthemum](/ingredients/chrysanthemum/), the [Shouyang princess plum recipe](/blog/shouyang-princess-plum-recipe/), and the full [scent guide](/blog/scent-guide/).
+See also: [wintersweet](/ingredients/wintersweet/), [borneol](/ingredients/borneol/), [osmanthus](/ingredients/osmanthus/), [chrysanthemum](/ingredients/chrysanthemum/), the [Shouyang princess plum recipe](/blog/shouyang-princess-plum-recipe/), [apricot kernel](/ingredients/apricot-kernel/), [daphne](/ingredients/daphne/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

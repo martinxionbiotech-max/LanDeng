@@ -74,7 +74,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **What is the peony root used for?** In traditional Chinese medicine the root (白芍/赤芍) is a materia medica item. This is traditional materia-medica language, not modern clinical evidence, and this page makes no medical claims about it.
 
-See also: [rose](/ingredients/rose/), [plum-blossom](/ingredients/plum-blossom/), and the full [scent guide](/blog/scent-guide/).
+See also: [rose](/ingredients/rose/), [plum-blossom](/ingredients/plum-blossom/), [apricot kernel](/ingredients/apricot-kernel/), [tree peony bark](/ingredients/tree-peony-bark/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

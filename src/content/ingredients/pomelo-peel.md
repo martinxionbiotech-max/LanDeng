@@ -70,7 +70,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **How is 柚皮 used in Chinese tradition?** Primarily in southern Chinese cooking and tea for its bittersweet citrus depth, and as a soft citrus peel note in incense blends. It is also recorded in traditional Chinese medicine (本草綱目, 果部). The medicinal uses are traditional language, not modern clinical evidence, and this encyclopedia makes no medical claims.
 
-See also: [orange-peel](/ingredients/orange-peel/), [litchi-husk](/ingredients/litchi-husk/), [cinnamon](/ingredients/cinnamon/), and the full [scent guide](/blog/scent-guide/).
+See also: [orange-peel](/ingredients/orange-peel/), [litchi-husk](/ingredients/litchi-husk/), [cinnamon](/ingredients/cinnamon/), [grapefruit](/ingredients/grapefruit/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

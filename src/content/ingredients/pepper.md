@@ -70,7 +70,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **What does pepper smell like?** Hot and penetrating, with a sharp, dry pungency over a warm, faintly woody base. In a blend it reads as a pungent spark that brightens and sharpens heavier woods and resins, adding lift rather than body. This penetrating quality is why it is used sparingly — too much produces an acrid, sneeze-inducing smoke.
 
-See also: [long-pepper](/ingredients/long-pepper/), [cubeb](/ingredients/cubeb/), [clove](/ingredients/clove/), and the full [scent guide](/blog/scent-guide/).
+See also: [long-pepper](/ingredients/long-pepper/), [cubeb](/ingredients/cubeb/), [clove](/ingredients/clove/), [mustard seed](/ingredients/mustard/), [sichuan pepper](/ingredients/prickly-ash/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 
