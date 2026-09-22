@@ -70,7 +70,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **How is 阿魏 used in Chinese tradition?** As one of the "foreign aromatics" (香药) of classical Chinese incense, entering through the Silk Road and appearing in 合香 contexts for its pungent, fixative character, and in traditional medicine for its penetrating, warming quality. The medicinal uses are traditional language, not modern clinical evidence, and this encyclopedia makes no medical claims.
 
-See also: [galangal](/ingredients/galangal/), [frankincense](/ingredients/frankincense/), [costus](/ingredients/costus/), and the full [scent guide](/blog/scent-guide/).
+See also: [galangal](/ingredients/galangal/), [frankincense](/ingredients/frankincense/), [costus](/ingredients/costus/), [galbanum](/ingredients/galbanum/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

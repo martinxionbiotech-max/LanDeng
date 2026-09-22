@@ -186,7 +186,7 @@ Calamus (菖蒲) is the dried rhizome of *Acorus calamus* (sweet flag), an Acora
 
 **What family does calamus belong to?** Calamus belongs to the family Acoraceae. The genus *Acorus* was long classified within the arum family (Araceae), but it is now placed in its own family, Acoraceae — a small, taxonomically tangled group in which *Acorus calamus* has accumulated many synonyms and named forms. The aromatic part is the rhizome, and Flora of China records the ensiform leaves at up to 150 cm long.
 
-See also: [angelica](/ingredients/angelica/), [mugwort](/ingredients/mugwort/), [orris-root](/ingredients/orris-root/), and the full [scent guide](/blog/scent-guide/).
+See also: [angelica](/ingredients/angelica/), [mugwort](/ingredients/mugwort/), [orris-root](/ingredients/orris-root/), [cyperus](/ingredients/cyperus/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

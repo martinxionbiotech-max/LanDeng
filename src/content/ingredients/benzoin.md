@@ -188,7 +188,7 @@ Benzoin (安息香) is a balsamic resin from *Styrax* trees, prized for a sweet,
 
 **What is the difference between benzoin and storax?** They are different resins from different trees. Benzoin (安息香) comes from *Styrax* trees and is a sweet, vanilla-balsamic resin. Storax (苏合香) comes from *Liquidambar orientalis*, the Oriental sweetgum, and is a separate balsamic resin with its own profile. The English names overlap because "styrax" historically covered both, but the botanical sources are distinct.
 
-See also: [frankincense](/ingredients/frankincense/) and [myrrh](/ingredients/myrrh/), its resin relatives, plus [storax](/ingredients/styrax-resin/) and the full [scent guide](/blog/scent-guide/).
+See also: [frankincense](/ingredients/frankincense/) and [myrrh](/ingredients/myrrh/), its resin relatives, plus [storax](/ingredients/styrax-resin/), [copaiba](/ingredients/copaiba/), [shellac](/ingredients/shellac/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

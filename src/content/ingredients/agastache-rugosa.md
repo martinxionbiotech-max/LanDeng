@@ -74,7 +74,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Why does agastache have so many Buddhist names?** Because it was a valued aromatic in Buddhist incense practice, and the sutras recorded it under several transliterated names — 多摩羅跋香 (*tāmalapatra*, from the Sanskrit for a fragrant leaf), 兜娄婆香, 钵怛罗香, and 迦筭香. The proliferation of names is a record of the herb's importance across the incense traditions that entered China with Buddhism, not a sign of confusion about the plant itself.
 
-See also: [patchouli](/ingredients/patchouli/), [mugwort](/ingredients/mugwort/), and the full [scent guide](/blog/scent-guide/).
+See also: [patchouli](/ingredients/patchouli/), [mugwort](/ingredients/mugwort/), [elsholtzia](/ingredients/elsholtzia/), [paicao](/ingredients/paicao/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

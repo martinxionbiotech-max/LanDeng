@@ -65,7 +65,7 @@ Incense combustion produces smoke and particulate matter; burn in a well-ventila
 
 **Why is ambergris so expensive?** Natural ambergris is expensive because it is rare and difficult to obtain. Only a small fraction of sperm whales produce it, and the material is usually found washed ashore or floating at sea rather than harvested deliberately, making supply unpredictable. Trade is restricted because the sperm whale is CITES-listed. Scarcity, combined with the fixative's unmatched ability to extend a fragrance, drives the price. Genuine aged ambergris can command very high prices, while synthetic substitutes are inexpensive.
 
-See also: [sandalwood](/ingredients/sandalwood/), [agarwood](/ingredients/agarwood/), and the full [scent guide](/blog/scent-guide/).
+See also: [sandalwood](/ingredients/sandalwood/), [agarwood](/ingredients/agarwood/), [onycha](/ingredients/onycha/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

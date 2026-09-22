@@ -68,7 +68,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Is 砂仁 a medicine?** It is recorded in traditional Chinese medicine as a 香药 (aromatic medicine). That is **traditional materia-medica language, not modern clinical evidence**, and this encyclopedia makes no medical claims. Its documented non-medical uses are the spicy aromatic and incense-recipe roles described here.
 
-See also: [cardamom](/ingredients/cardamom/), [tsao-ko](/ingredients/tsao-ko/), [galangal](/ingredients/galangal/), and the full [scent guide](/blog/scent-guide/).
+See also: [cardamom](/ingredients/cardamom/), [tsao-ko](/ingredients/tsao-ko/), [galangal](/ingredients/galangal/), [schisandra](/ingredients/schisandra/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

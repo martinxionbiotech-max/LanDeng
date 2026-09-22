@@ -186,7 +186,7 @@ Angelica (白芷, *báizhǐ*) is the dried, strongly aromatic root of *Angelica 
 
 **Is angelica an expensive or heavily faked material?** No. Unlike agarwood, angelica root is not a rare, heavily adulterated aromatic. Its risk is misidentification, not counterfeiting: the English name "angelica" covers 白芷, dong quai (当归), and European angelica — three different species. A buyer's main job is to confirm the botanical name (*Angelica dahurica*) rather than to run authenticity tests.
 
-See also: [angelica-sinensis (当归)](/ingredients/angelica-sinensis/), [calamus](/ingredients/calamus/), [mugwort](/ingredients/mugwort/), and the full [scent guide](/blog/scent-guide/).
+See also: [angelica-sinensis (当归)](/ingredients/angelica-sinensis/), [calamus](/ingredients/calamus/), [mugwort](/ingredients/mugwort/), [asarum](/ingredients/asarum/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

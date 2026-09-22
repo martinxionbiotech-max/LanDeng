@@ -253,7 +253,7 @@ Agarwood (沉香) is resin-impregnated *Aquilaria* heartwood formed by injury, g
 
 **What is the difference between agarwood chips and powder?** They are the same resin wood in different physical forms. Chips are cut pieces meant to be warmed on charcoal or an electric heater, where whole surfaces release aroma slowly. Powder is ground resin wood for blending into incense sticks and cones, where a uniform particle size helps the material pack and burn consistently. Neither form is inherently higher quality, but for stick-making, particle size and moisture affect how the powder behaves in a formula.
 
-See also: the [agarwood incense guide](/blog/agarwood-incense/), the [agarwood grading guide](/blog/agarwood-grading-guide/), and the full [scent guide](/blog/scent-guide/).
+See also: the [agarwood incense guide](/blog/agarwood-incense/), the [agarwood grading guide](/blog/agarwood-grading-guide/), [bletilla](/ingredients/bletilla/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 
