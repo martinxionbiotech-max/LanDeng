@@ -77,7 +77,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Is the citron eaten?** Its fruit flesh is scant and not the point — the citron is grown for its thick, fragrant rind, which may be candied or used to perfume spaces, and the whole fruit is displayed for scent and symbolism. As one of the most ancient cultivated citrus, it is also an ancestor of much of the modern citrus family alongside pomelo and mandarin.
 
-See also: [finger-citron](/ingredients/finger-citron/), [orange-peel](/ingredients/orange-peel/), and the full [scent guide](/blog/scent-guide/).
+See also: [finger-citron](/ingredients/finger-citron/), [orange-peel](/ingredients/orange-peel/), [grapefruit](/ingredients/grapefruit/), [quince](/ingredients/quince/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

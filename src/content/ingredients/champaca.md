@@ -186,7 +186,7 @@ Champaca (白兰花) is the fragrant white flower of *Michelia alba* (syn. *Magn
 
 **What is the difference between champaca and yulan magnolia?** Both are white-flowered magnolia-family trees, but they are different species. Champaca is *Michelia alba* (syn. *Magnolia × alba*), with a sweet, heady, slightly fruity white-floral; yulan magnolia is *Magnolia denudata*, a pale-flowered magnolia with a different character. The two names should not be used interchangeably.
 
-See also: [michelia-figo](/ingredients/michelia-figo/), [yulan magnolia](/ingredients/yulan-magnolia/), [jasmine](/ingredients/jasmine/), [gardenia](/ingredients/gardenia/), and the full [scent guide](/blog/scent-guide/).
+See also: [michelia-figo](/ingredients/michelia-figo/), [yulan magnolia](/ingredients/yulan-magnolia/), [jasmine](/ingredients/jasmine/), [gardenia](/ingredients/gardenia/), [aglaia](/ingredients/aglaia/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

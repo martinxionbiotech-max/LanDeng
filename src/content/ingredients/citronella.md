@@ -180,7 +180,7 @@ Citronella (香茅) is the citral-rich leaf of *Cymbopogon citratus* — lemongr
 
 **What is the difference between lemongrass and lemon?** They are different plants with a shared lemon character. Lemongrass (*Cymbopogon citratus*) is a grass whose *leaves* carry a green, grassy lemon scent from citral; lemon (*Citrus × limon*) is a tree whose *peel* carries a sharp, bright fruit-citrus scent. One is a leafy top note, the other a fruit-peel citrus; they are not interchangeable in a formula.
 
-See also: [lemon](/ingredients/lemon/), [lemon balm](/ingredients/lemon-balm/), [patchouli](/ingredients/patchouli/), the [citrus incense guide](/blog/citrus-incense/), and the full [scent guide](/blog/scent-guide/).
+See also: [lemon](/ingredients/lemon/), [lemon balm](/ingredients/lemon-balm/), [patchouli](/ingredients/patchouli/), the [citrus incense guide](/blog/citrus-incense/), [rue](/ingredients/rue/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

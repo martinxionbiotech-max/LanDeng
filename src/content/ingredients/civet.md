@@ -74,7 +74,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **How does civet relate to musk?** Both are classical animal fixatives: musk is the secretion of the male musk deer (genus *Moschus*), and civet is the glandular secretion of civets (*Civettictis civetta* / *Viverricula indica*). They played the same structural role in classical perfumery — anchoring and extending a blend from below — and both are now almost entirely replaced by synthetics in modern practice. This encyclopedia treats both as historical and connoisseurship references only.
 
-See also: [musk](/ingredients/musk/), [ambergris](/ingredients/ambergris/), and the full [scent guide](/blog/scent-guide/).
+See also: [musk](/ingredients/musk/), [ambergris](/ingredients/ambergris/), [castoreum](/ingredients/castoreum/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

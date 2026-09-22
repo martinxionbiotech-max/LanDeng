@@ -71,7 +71,7 @@ Incense combustion produces smoke and particulate matter; burn in a well-ventila
 
 **Is natural camphor different from synthetic camphor?** Yes. Natural camphor is distilled from *Cinnamomum camphora* wood, while synthetic camphor is manufactured and widely used as a cheaper replacement in commerce. Both are strongly aromatic, but if natural origin matters for incense or traditional use, the source should be confirmed, since the two are not always distinguished on labels.
 
-See also: [borneol](/ingredients/borneol/), [cinnamon](/ingredients/cinnamon/), and the full [scent guide](/blog/scent-guide/).
+See also: [borneol](/ingredients/borneol/), [cinnamon](/ingredients/cinnamon/), [eucalyptus](/ingredients/eucalyptus/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

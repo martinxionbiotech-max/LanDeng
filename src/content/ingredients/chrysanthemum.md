@@ -194,7 +194,7 @@ Chrysanthemum (菊花) is the dried flower of *Chrysanthemum morifolium* (with w
 
 **What is the difference between 菊花 and 野菊?** 菊花 (júhuā) is the general name for the cultivated chrysanthemum, *Chrysanthemum morifolium*; 野菊 (yějú) is the wild chrysanthemum, *Chrysanthemum indicum*, the perennial wild herb from which the cultivated forms descend. The tea flower and the incense material are the cultivated 菊花; 野菊 names the wild relative. The two are related but distinct plants, and a label should specify which is meant.
 
-See also: [mugwort](/ingredients/mugwort/), another herbal (non-sweet) Chinese incense material; [chamomile](/ingredients/chamomile/) for the Asteraceae distinction; [jasmine](/ingredients/jasmine/) and [rose](/ingredients/rose/) for the floral comparison; and the full [scent guide](/blog/scent-guide/).
+See also: [mugwort](/ingredients/mugwort/), another herbal (non-sweet) Chinese incense material; [chamomile](/ingredients/chamomile/) for the Asteraceae distinction; [jasmine](/ingredients/jasmine/) and [rose](/ingredients/rose/) for the floral comparison;, [orchid](/ingredients/orchid/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

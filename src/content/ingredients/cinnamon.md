@@ -189,7 +189,7 @@ Cassia (桂皮) is the dried bark of *Cinnamomum cassia*, a laurel-family tree n
 
 **What is the difference between cassia bark and cassia twig (桂枝)?** Both come from the same tree, *Cinnamomum cassia*, but they are different parts. 桂皮 is the mature bark — dense, strong, and pungent; 桂枝 is the young twig — lighter and more woody-green. The two are recorded as separate parts in classical Chinese materia medica, and they are not interchangeable in a blend. See the [cassia twig (桂枝)](/ingredients/cassia-twig/) page.
 
-See also: [clove](/ingredients/clove/), its frequent spice partner, and the full [scent guide](/blog/scent-guide/).
+See also: [clove](/ingredients/clove/), its frequent spice partner, [mustard seed](/ingredients/mustard/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

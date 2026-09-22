@@ -192,7 +192,7 @@ White cardamom (白豆蔻, *báidòukòu*) is the dried fruit of *Amomum kravanh
 
 **Is 白豆蔻 the same as 草果 (tsaoko)?** No. 白豆蔻 is *Amomum kravanh* (white/round cardamom); 草果 is *Amomum tsao-ko*, the smoky "black cardamom" of southwestern Chinese cooking. They are both ginger-family (Zingiberaceae) spices in the *Amomum* group, but distinct species with different aromas — white cardamom is warm and camphoraceous, while tsaoko is smoky and earthy.
 
-See also: [katsumadai (草豆蔻)](/ingredients/katsumadai/), [tsao-ko (草果)](/ingredients/tsao-ko/), [clove](/ingredients/clove/), [cinnamon](/ingredients/cinnamon/), and the full [scent guide](/blog/scent-guide/).
+See also: [katsumadai (草豆蔻)](/ingredients/katsumadai/), [tsao-ko (草果)](/ingredients/tsao-ko/), [clove](/ingredients/clove/), [cinnamon](/ingredients/cinnamon/), [nutmeg](/ingredients/nutmeg/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 
