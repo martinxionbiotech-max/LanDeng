@@ -14,7 +14,7 @@ related: ["sandalwood", "agarwood"]
 
 <img src="/images/bletilla-raw-material-800x533.webp" alt="Raw Bletilla (Bletilla striata) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Bletilla — *báijí* (白及) in Chinese — is the dried tuber of *Bletilla striata*, a terrestrial orchid of the Orchidaceae family native to East Asia. It is a classical Chinese incense **binder**: its tuber is rich in mucilage (a water-soluble gum), which makes a natural adhesive that holds incense powders together and helps a stick or cake keep its shape and burn evenly. It is valued for function, not fragrance.
+> **Direct answer:** Bletilla (白及, báijí) is the dried tuber of *Bletilla striata*, a terrestrial orchid of the Orchidaceae family native to East Asia. It is a classical Chinese incense binder: its tuber is rich in mucilage, a water-soluble gum that holds incense powders together and helps a stick or cake keep its shape and burn evenly. It is valued for function, not fragrance.
 
 ## Key facts
 

@@ -14,7 +14,7 @@ related: ["perilla", "mint"]
 
 <img src="/images/basil-raw-material-800x533.webp" alt="Raw Basil (Ocimum basilicum) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 罗勒 — *luólè* in Chinese — is sweet basil, *Ocimum basilicum*, an aromatic herb of the mint family (Lamiaceae). It is a familiar culinary herb worldwide, and in Chinese culture it carries the older name **兰香 (lánxiāng, "orchid fragrance")** — a name the *Bencao Gangmu* (本草纲目) records, explaining that northerners avoided the taboo name of the Later Zhao ruler Shi Le and so "called 罗勒 as 兰香" (呼羅勒為蘭香). This classical naming is the herb's genuine connection to the Chinese aromatic record.
+> **Direct answer:** Basil (罗勒, luólè) is sweet basil, *Ocimum basilicum*, an aromatic herb of the mint family (Lamiaceae). A familiar culinary herb worldwide, it carries the older Chinese name 兰香 (lánxiāng, "orchid fragrance"), which the *Bencao Gangmu* records as a taboo-name substitution. This classical naming is its genuine connection to the Chinese aromatic record.
 
 ## Key facts
 

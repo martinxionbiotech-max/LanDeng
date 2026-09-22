@@ -14,7 +14,7 @@ related: ["borneol", "borneol-oil", "camphor"]
 
 <img src="/images/blumea-balsamifera-raw-material-800x533.webp" alt="Raw Blumea balsamifera botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 艾纳香 — *àinàxiāng* in Chinese — is the sambong or Ngai camphor plant, *Blumea balsamifera*, an aromatic shrub of the daisy family (Asteraceae) native to South and Southeast Asia. It is the plant source of **l-borneol** (艾片, *ài piàn*), the leaf-distilled form of borneol that sits alongside tree-resin and synthetic borneol in the classical 龙脑/冰片 family. In the Chinese record it appears as early as the *Bencao Gangmu* (本草纲目), which names it 艾纳香 and notes its use "to blend the many aromatics" — 和合诸香.
+> **Direct answer:** Blumea (艾纳香, àinàxiāng) is the sambong or Ngai camphor plant, *Blumea balsamifera*, an aromatic shrub of the daisy family (Asteraceae) native to South and Southeast Asia. It is the plant source of l-borneol (艾片), the leaf-distilled form of borneol in the classical 龙脑/冰片 family. The *Bencao Gangmu* names it 艾纳香, noting its use "to blend the many aromatics."
 
 ## Key facts
 

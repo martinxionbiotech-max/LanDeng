@@ -14,7 +14,7 @@ related: ["finger-citron", "orange-peel"]
 
 <img src="/images/citron-raw-material-800x533.webp" alt="Raw Citron (Citrus medica) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 香橼 — *xiāngyuán* in Chinese — is the citron, *Citrus medica*, one of the oldest cultivated citrus, in the rue family (Rutaceae). It is a thick-rinded, intensely fragrant fruit grown for its aromatic rind rather than its juice, and used in Chinese culture as a **清供 (scholar's-table offering) and room-fragrance fruit**. It is the parent species of the finger citron (佛手, *Citrus medica* var. *sarcodactylis*), and the two must be kept distinct.
+> **Direct answer:** Citron (香橼, xiāngyuán) is *Citrus medica*, one of the oldest cultivated citrus, in the rue family (Rutaceae). It is a thick-rinded, intensely fragrant fruit grown for its aromatic rind rather than its juice, used in Chinese culture as a 清供 (scholar's-table offering) and room-fragrance fruit. It is the parent species of the finger citron (佛手), and the two must be kept distinct.
 
 ## Key facts
 

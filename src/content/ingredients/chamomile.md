@@ -12,7 +12,7 @@ status: draft
 related: ["lavender", "rose", "bergamot"]
 ---
 
-**Direct answer:** Chamomile — *yánggānjú* (洋甘菊) in Chinese — is the German chamomile, *Matricaria chamomilla* (syn. *Matricaria recutita*), a daisy-family (Asteraceae) annual native to Europe and western Asia. Its flowers carry a soft, sweet, apple-like, hay-like scent, familiar from herbal tea and modern aromatherapy. It is a **modern crossover, not a classical Chinese incense ingredient**.
+> **Direct answer:** Chamomile (洋甘菊, yánggānjú) is the German chamomile, *Matricaria chamomilla* (syn. *Matricaria recutita*), a daisy-family (Asteraceae) annual native to Europe and western Asia. Its flowers carry a soft, sweet, apple-like, hay-like scent, familiar from herbal tea and modern aromatherapy. It is a modern crossover, not a classical Chinese incense ingredient.
 
 <img src="/images/chamomile-raw-material-800x533.webp" alt="Raw Chamomile (Matricaria chamomilla) flower material, editorial still life" width="800" height="533" loading="lazy">
 

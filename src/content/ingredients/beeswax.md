@@ -14,7 +14,7 @@ related: ["honey", "musk"]
 
 <img src="/images/beeswax-raw-material-800x533.webp" alt="Raw Beeswax (Apis cerana & A. mellifera (bee product) — beeswax) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 蜂蜡 — *fēnglà* in Chinese — is beeswax, the wax secreted by honey bees (*Apis cerana* and *Apis mellifera*) to build their honeycomb. It is a **bee product, not a botanical**, and in classical Chinese incense it is a *wax* — a molding, coating, and sealing material distinct from honey (蜂蜜), which serves as a binder. The *Bencao Gangmu* (本草纲目) records both, side by side, in its insect section: 蜂蜜 (honey) and 蜜蜡 (beeswax).
+> **Direct answer:** Beeswax (蜂蜡, fēnglà) is the wax secreted by honey bees (*Apis cerana* and *Apis mellifera*) to build their honeycomb. It is a bee product, not a botanical; in classical Chinese incense it is a wax — a molding, coating, and sealing material distinct from honey (蜂蜜), which serves as a binder. The *Bencao Gangmu* records both side by side.
 
 ## Key facts
 

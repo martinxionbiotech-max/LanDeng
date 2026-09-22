@@ -14,7 +14,7 @@ related: ["fennel", "orange-peel"]
 
 <img src="/images/coriander-seed-raw-material-800x533.webp" alt="Raw Coriander Seed (Coriandrum sativum) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Coriander seed — *yánsuī zǐ* (芫荽籽) in Chinese — is the dried fruit of *Coriandrum sativum*, an annual herb of the carrot family (Apiaceae) native to the Mediterranean and western Asia. It is a warm, citrusy spice with a woody, faintly floral undertone, used in Chinese incense as a fresh spice accent. It is the seed of the same plant as the leaf herb cilantro (芫荽, also 香菜), but the seed and the leaf are very different aromatics.
+> **Direct answer:** Coriander seed (芫荽籽, yánsuī zǐ) is the dried fruit of *Coriandrum sativum*, an annual herb of the carrot family (Apiaceae) native to the Mediterranean and western Asia. It is a warm, citrusy spice with a woody, faintly floral undertone, used in Chinese incense as a fresh spice accent. It is the seed of the same plant as cilantro (芫荽), but seed and leaf are very different aromatics.
 
 ## Key facts
 

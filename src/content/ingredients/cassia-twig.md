@@ -12,7 +12,7 @@ status: draft
 related: ["cinnamon", "clove", "ginger"]
 ---
 
-**Direct answer:** Cassia twig — *guìzhī* (桂枝) in Chinese — is the young, slender branch of the cassia tree, *Cinnamomum cassia* (syn. *C. aromaticum*), the same tree that yields cinnamon bark (桂皮). It has a warm, spicy, sweet, woody-bark scent, and it is a classical Chinese materia-medica part. It is the **young twig of the very same tree as 桂皮 (cinnamon bark) — same species, different part** — and the two must be kept distinct.
+> **Direct answer:** Cassia twig (桂枝, guìzhī) is the young, slender branch of the cassia tree, *Cinnamomum cassia* (syn. *C. aromaticum*), the same tree that yields cinnamon bark (桂皮). It has a warm, spicy, sweet, woody-bark scent and is a classical Chinese materia-medica part. It is the young twig of the same tree as 桂皮 — same species, different part.
 
 <img src="/images/cassia-twig-raw-material-800x533.webp" alt="Raw Cassia Twig (Cinnamomum cassia (the young twig); syn. C. aromaticum) material, editorial still life" width="800" height="533" loading="lazy">
 

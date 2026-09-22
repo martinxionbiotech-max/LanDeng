@@ -12,7 +12,7 @@ status: draft
 related: ["finger-citron", "citron", "neroli"]
 ---
 
-**Direct answer:** Bergamot — *fóshǒugān* (佛手柑) in Chinese — is the bergamot orange, *Citrus × bergamia*, a cultivated citrus (Rutaceae) grown chiefly in southern Italy for its fragrant rind. Its peel yields bergamot essential oil, with a bright, citrus-floral, fresh, faintly bitter scent, familiar from Earl Grey tea and modern perfumery. It is a **modern essential-oil material, not a classical Chinese incense ingredient** — and it must be distinguished from the finger citron (佛手, *Citrus medica* var. *sarcodactylis*) and the citron (香橼, *Citrus medica*).
+> **Direct answer:** Bergamot (佛手柑, fóshǒugān) is the bergamot orange, *Citrus × bergamia*, a cultivated citrus (Rutaceae) grown chiefly in southern Italy for its fragrant rind. Its peel yields bergamot essential oil, with a bright, citrus-floral, faintly bitter scent. It is a modern essential-oil material, not a classical Chinese incense ingredient, distinct from finger citron (佛手) and citron (香橼).
 
 <img src="/images/bergamot-raw-material-800x533.webp" alt="Raw Bergamot (Citrus × bergamia) material, editorial still life" width="800" height="533" loading="lazy">
 

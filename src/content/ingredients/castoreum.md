@@ -14,7 +14,7 @@ related: ["civet", "musk"]
 
 <img src="/images/castoreum-raw-material-800x533.webp" alt="Raw Castoreum (Castor fiber (Eurasian beaver) — animal secretion) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 海狸香 — *hǎilíxiāng* in Chinese — is castoreum, the historical scent secretion of beavers (*Castor fiber* in Eurasia, *Castor canadensis* in North America), drawn from the castor sacs near the base of the tail. It is a **Western classical perfumery fixative, not a Chinese incense material**, and it carries an important caveat: the beaver is a protected species in much of its range, and modern "castoreum" is almost entirely a synthetic reconstruction. This page treats it strictly as historical context.
+> **Direct answer:** Castoreum (海狸香, hǎilíxiāng) is the historical scent secretion of beavers (*Castor fiber* and *Castor canadensis*), drawn from the castor sacs near the base of the tail. It is a Western classical perfumery fixative, not a Chinese incense material, and modern "castoreum" is almost entirely synthetic — the beaver being protected in much of its range. This page treats it strictly as historical context.
 
 ## Key facts
 

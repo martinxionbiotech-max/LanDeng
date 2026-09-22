@@ -12,7 +12,7 @@ status: draft
 related: ["peru-balsam", "benzoin", "labdanum"]
 ---
 
-**Direct answer:** Copaiba — *gǔbā xiāngzhī* (古巴香脂) in Chinese — is the oleoresin tapped from trees of the genus *Copaifera*, a legume-family (Fabaceae) group native to tropical South America. It yields a woody, balsamic, resinous, slightly sweet balsam used in modern perfumery and aromatherapy. It is a **modern crossover, not a classical Chinese incense ingredient**.
+> **Direct answer:** Copaiba (古巴香脂, gǔbā xiāngzhī) is the oleoresin tapped from trees of the genus *Copaifera*, a legume-family (Fabaceae) group native to tropical South America. It yields a woody, balsamic, resinous, slightly sweet balsam used in modern perfumery and aromatherapy. It is a modern crossover, not a classical Chinese incense ingredient.
 
 <img src="/images/copaiba-raw-material-800x533.webp" alt="Raw Copaiba (Copaifera spp. (resin)) balsam material, editorial still life" width="800" height="533" loading="lazy">
 
