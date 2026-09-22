@@ -14,7 +14,7 @@ related: ["honeysuckle", "osmanthus", "lotus-flower"]
 
 <img src="/images/silk-tree-raw-material-800x533.webp" alt="Raw Silk Tree Flower (Albizia julibrissin) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 合欢花 — *héhuān huā* in Chinese — is the flower of the silk tree, *Albizia julibrissin* (合欢, "collective joy"), a legume tree (Fabaceae) native to Asia. Its pink, thread-like blossoms carry a delicate sweet scent, and the tree is a famous cultural plant: the *Bencao Gangmu* (本草纲目) records 合欢 in its tree section (木之二), quoting the saying that 合欢 dispels anger and calms the heart — a cultural association rather than a documented incense use.
+> **Direct answer:** Silk tree flower (合欢花, héhuān huā) is the flower of *Albizia julibrissin* (合欢, "collective joy"), a legume tree (Fabaceae) native to Asia. Its pink, thread-like blossoms carry a delicate sweet scent, and the tree is a famous cultural plant: the *Bencao Gangmu* records 合欢, quoting the saying that it dispels anger and calms the heart — a cultural association rather than a documented incense use.
 
 ## Key facts
 

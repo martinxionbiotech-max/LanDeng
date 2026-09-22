@@ -14,7 +14,7 @@ related: ["cypress-seed", "pine-resin"]
 
 <img src="/images/torreya-raw-material-800x533.webp" alt="Raw Torreya (Torreya grandis) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 香榧 — *xiāngfěi* in Chinese — is the nut of the Chinese torreya, *Torreya grandis*, an evergreen conifer of the yew family (Taxaceae) native to eastern China. The large, aromatic seed is a prized Chinese nut, and the *Bencao Gangmu* (本草纲目) records it under 榧实, with the classical name 玉山果 (yùshānguǒ, "jade-mountain fruit") — a name echoed in a poem by Su Dongpo praising its beauty.
+> **Direct answer:** Torreya (香榧, xiāngfěi) is the nut of the Chinese torreya, *Torreya grandis*, an evergreen conifer of the yew family (Taxaceae) native to eastern China. The large, aromatic seed is a prized Chinese nut, and the *Bencao Gangmu* records it under 榧实 with the classical name 玉山果 ("jade-mountain fruit"), echoed in a poem by Su Dongpo.
 
 ## Key facts
 

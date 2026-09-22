@@ -14,7 +14,7 @@ related: ["sweetgum", "benzoin"]
 
 <img src="/images/styrax-resin-raw-material-800x533.webp" alt="Raw Storax (Liquidambar orientalis (Oriental sweetgum / storax)) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Storax — *sūhéxiāng* (苏合香) in Chinese — is an aromatic balsam produced from the inner bark of *Liquidambar orientalis*, the Oriental sweetgum of Asia Minor. In classical Chinese incense it was a prized *imported* resin, distinct from the native Chinese sweetgum (枫香, *Liquidambar formosana*), with a sweet, balsamic, cinnamon-like warmth.
+> **Direct answer:** Storax (苏合香, sūhéxiāng) is an aromatic balsam produced from the inner bark of *Liquidambar orientalis*, the Oriental sweetgum of Asia Minor. In classical Chinese incense it was a prized imported resin, distinct from the native Chinese sweetgum (枫香, *Liquidambar formosana*), with a sweet, balsamic, cinnamon-like warmth.
 
 ## Key facts
 

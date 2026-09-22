@@ -12,7 +12,7 @@ status: draft
 related: ["tree-peony", "peony", "orris-root"]
 ---
 
-**Direct answer:** Tree peony bark — *mǔdānpí* (牡丹皮) in Chinese — is the dried root bark of *Paeonia suffruticosa*, the tree peony (Paeoniaceae) native to China. It is a classical Chinese materia-medica part with a faint, rooty, earthy, woody scent. It is the **root bark of the very same tree as 牡丹 (tree peony, the flower) — same species, different part** — and the two must be kept distinct.
+> **Direct answer:** Tree peony bark (牡丹皮, mǔdānpí) is the dried root bark of *Paeonia suffruticosa*, the tree peony (Paeoniaceae) native to China. It is a classical Chinese materia-medica part with a faint, rooty, earthy, woody scent. It is the root bark of the very same tree as the peony flower (牡丹) — same species, different part — and the two must be kept distinct.
 
 <img src="/images/tree-peony-bark-raw-material-800x533.webp" alt="Raw Tree Peony Bark (Paeonia suffruticosa (root bark)) material, editorial still life" width="800" height="533" loading="lazy">
 

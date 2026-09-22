@@ -14,7 +14,7 @@ related: ["dragons-blood", "benzoin"]
 
 <img src="/images/shellac-raw-material-800x533.webp" alt="Raw Shellac (Kerria lacca (lac insect; formerly Laccifer lacca) — lac resin) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 紫草茸 — *zǐcǎoróng* in Chinese — is lac resin (shellac), the resinous secretion of the lac insect *Kerria lacca* (formerly *Laccifer lacca*), a scale insect of the family Kerriidae that feeds on certain trees and coats the twigs with a hard, resinous crust. It is an **insect-derived resin, not a plant material**, and the classical Chinese record is precise about this: the *Bencao Gangmu* (本草纲目) records lac under 紫鉚, noting "蚁于海畔树藤皮中为之……正如蜂造蜜也" (ants make it on tree bark by the sea, just as bees make honey), while the Ming-dynasty *Xiangcheng* (香乘) lists 紫矿 in incense formulas.
+> **Direct answer:** Shellac (紫草茸, zǐcǎoróng) is lac resin, the resinous secretion of the lac insect *Kerria lacca*, a scale insect that coats twigs with a hard crust. It is an insect-derived resin, not a plant material; the *Bencao Gangmu* records lac under 紫鉚, and the Ming *Xiangcheng* (香乘) lists 紫矿 in incense formulas.
 
 ## Key facts
 

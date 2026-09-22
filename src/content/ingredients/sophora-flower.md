@@ -12,7 +12,7 @@ status: draft
 related: ["honeysuckle", "chrysanthemum", "mulberry-leaf"]
 ---
 
-**Direct answer:** Sophora flower — *huáihuā* (槐花) in Chinese — is the blossom of the pagoda tree, *Styphnolobium japonicum* (formerly *Sophora japonica*), a large legume tree (Fabaceae) native to China. Its flowers carry a light, sweet, honey-like floral scent and are used in traditional materia medica and, to a lesser extent, as a fragrant flower. The *Bencao Gangmu* (本草纲目) records the tree under 槐, folding in 槐花 (the flower).
+> **Direct answer:** Sophora flower (槐花, huáihuā) is the blossom of the pagoda tree, *Styphnolobium japonicum* (formerly *Sophora japonica*), a large legume tree (Fabaceae) native to China. Its flowers carry a light, sweet, honey-like floral scent and are used in traditional materia medica and, to a lesser extent, as a fragrant flower. The *Bencao Gangmu* records the tree under 槐, folding in 槐花 (the flower).
 
 <img src="/images/sophora-flower-raw-material-800x533.webp" alt="Raw Sophora Flower (Styphnolobium japonicum (syn. Sophora japonica)) material, editorial still life" width="800" height="533" loading="lazy">
 

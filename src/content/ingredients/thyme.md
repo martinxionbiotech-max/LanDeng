@@ -12,7 +12,7 @@ status: draft
 related: ["rosemary", "sage", "bay-leaf"]
 ---
 
-**Direct answer:** Thyme — *bǎilǐxiāng* (百里香) in Chinese — is the culinary thyme, *Thymus vulgaris*, a low mint-family (Lamiaceae) subshrub native to the Mediterranean. Its leaves carry a warm, herbal, green, spicy, slightly medicinal scent, familiar from cooking and, more recently, modern aromatherapy and incense. It is a **modern crossover, not a classical Chinese incense ingredient**.
+> **Direct answer:** Thyme (百里香, bǎilǐxiāng) is the culinary thyme, *Thymus vulgaris*, a low mint-family (Lamiaceae) subshrub native to the Mediterranean. Its leaves carry a warm, herbal, green, spicy, slightly medicinal scent, familiar from cooking and, more recently, modern aromatherapy and incense. It is a modern crossover, not a classical Chinese incense ingredient.
 
 <img src="/images/thyme-raw-material-800x533.webp" alt="Raw Thyme (Thymus vulgaris) herb material, editorial still life" width="800" height="533" loading="lazy">
 

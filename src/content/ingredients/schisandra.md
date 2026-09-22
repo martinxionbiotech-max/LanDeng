@@ -12,7 +12,7 @@ status: draft
 related: ["peony", "amomum-villosum", "licorice"]
 ---
 
-**Direct answer:** Schisandra — *wǔwèizǐ* (五味子) in Chinese — is the dried berry of *Schisandra chinensis*, a woody climbing vine of the family Schisandraceae native to China and the Russian Far East. Its name means "five-flavor berry," from the berry's combined sour, sweet, salty, bitter, and pungent tastes. It is a classical Chinese materia-medica fruit with a faint, fruity, sour-berry scent, **not a lead incense 香材**.
+> **Direct answer:** Schisandra (五味子, wǔwèizǐ) is the dried berry of *Schisandra chinensis*, a woody climbing vine of the family Schisandraceae native to China and the Russian Far East. Its name means "five-flavor berry," from the berry's combined sour, sweet, salty, bitter, and pungent tastes. It is a classical Chinese materia-medica fruit with a faint, fruity, sour-berry scent, not a lead incense 香材.
 
 <img src="/images/schisandra-raw-material-800x533.webp" alt="Raw Schisandra (Schisandra chinensis) berry material, editorial still life" width="800" height="533" loading="lazy">
 
