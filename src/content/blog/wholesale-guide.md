@@ -30,6 +30,8 @@ author: "\"LanDeng Editorial Team\""
 
 ## Step 1: Define What You Are Buying
 
+> **Direct answer:** Before contacting any supplier, write the product down in buyer terms — format, material, aroma profile, and target quantity/destination — because those variables reshape every quotation, and a vague inquiry produces a guess instead of a quote.
+
 Before contacting anyone, write down the product in buyer terms:
 
 - **Format** — stick, cone, coil, sachet, or raw material. See [which format](/blog/which-incense-format/).
@@ -42,6 +44,8 @@ The more precisely you can state these, the faster a supplier can give you a rea
 ---
 
 ## Step 2: Assess the Supplier
+
+> **Direct answer:** Vet the supplier before you discuss price — ask for legal identity, what they make in-house versus source, references, and what documentation they can provide. A low quote from an unverified source is the most expensive purchase.
 
 Ask these questions of every shortlisted supplier. A supplier who cannot or will not answer them is already telling you something.
 
@@ -59,6 +63,8 @@ A trader is not automatically bad — but you should know whether you are buying
 
 ## Step 3: Bulk-Buying Considerations
 
+> **Direct answer:** In bulk buying, the variables that move price and risk are quantity, material grade, customization, batch-to-batch consistency, and payment/shipping terms — and consistency is the hidden risk in botanical incense.
+
 When buying in bulk, these are the variables that move both price and risk:
 
 - **Quantity** — the largest single driver of unit cost, but only up to a point; larger isn't always linearly cheaper.
@@ -71,6 +77,8 @@ When buying in bulk, these are the variables that move both price and risk:
 
 ## Step 4: Pre-Shipment Inspection Checklist
 
+> **Direct answer:** Before accepting a bulk shipment, verify on a sample you pull yourself — format, material, aroma on gentle heat, burn behavior, packaging, and quantity — against the agreed specification and the retained reference sample.
+
 Before you accept a bulk shipment, verify against this checklist — on a sample you pull, not a sample the supplier chose.
 
 - [ ] Format matches the agreed specification (stick diameter, cone shape, coil size).
@@ -79,6 +87,48 @@ Before you accept a bulk shipment, verify against this checklist — on a sample
 - [ ] Burn time and smoke behavior are within the agreed range.
 - [ ] Packaging and labeling are correct, including any country-of-origin marks.
 - [ ] Quantity is correct and damage is within the agreed allowance.
+
+---
+
+## What Buyers Should Look For
+
+> **Direct answer:** A wholesale buyer should look for a supplier who can *prove* what is in the batch — species, grade, and material — and hold it consistent across batches, rather than one who leads with a low price. The three markers are a traceable identity, a describable QC process, and a sample that matches the specification.
+
+When you strip the negotiation away, three things separate a supplier worth committing to from one that is merely cheap:
+
+- **Traceability** — a legal business name, a real address, and the ability to name the species, origin, and grade of what they sell. A seller who can't answer "which species?" is already telling you something. See [authentication](/blog/incense-authentication-database/).
+- **A describable QC process** — a supplier who can walk through incoming inspection, in-process control, and final release is demonstrating the thing certificates only claim. See [quality control](/blog/incense-manufacturing-quality-control/).
+- **A sample that matches the spec** — the product on your desk should match the written specification, and become the reference standard every later batch is checked against.
+
+The deeper supplier-side discipline is in the [factory vetting guide](/blog/factory-vetting-guide/); this is the buyer-side summary.
+
+---
+
+## The Sample Process
+
+> **Direct answer:** Sampling is the checkpoint between inquiry and bulk commitment: request against a specification, confirm the terms, evaluate the sample against your brief, keep it as the reference standard, then move to a trial order. A sample verifies the product, not the supplier.
+
+The sample flow for a wholesale order runs the same course whether you are buying finished sticks or raw material:
+
+1. **Request against a specification** — state format, material, aroma, and target quantity, so the sample is meaningful, not a random piece. See [the samples program](/blog/samples-program/).
+2. **Confirm the terms** — what is sent, any cost, and shipping, confirmed per request.
+3. **Evaluate against your brief** — aroma on gentle heat, format, material (real wood vs fragrance oil), and burn behavior. See [natural vs synthetic](/blog/natural-vs-synthetic-incense/).
+4. **Keep the reference** — the approved sample becomes the standard for later batch and pre-shipment checks.
+5. **Move to a trial order** — the step that actually tests the supplier's ability to reproduce the sample at volume.
+
+The honest limit: one good sample proves the product, not the relationship — the next batch is the real test of a supplier.
+
+---
+
+## Common Misconceptions
+
+> **Direct answer:** The common wholesale-buying misconceptions are that a low price saves money, that a certificate guarantees quality, and that a good sample guarantees a good bulk run — all three are false, and each is corrected by vetting before price, verifying documents, and running a trial order.
+
+Three beliefs cost wholesale buyers more than any tariff or freight charge:
+
+1. **"The lowest price is the best deal."** A low quote from an unverified source is the most expensive purchase, because the cost shows up later — as inconsistent batches, mislabeled material, or a shipment that never arrives to spec. Price enters last, once you know what you are buying and from whom.
+2. **"A certificate guarantees quality."** A certificate is a claim made by someone; it is only as good as your verification against the issuing body. The more diagnostic signal is whether the supplier can *describe* their QC procedure in testable terms. See [factory vetting](/blog/factory-vetting-guide/).
+3. **"A good sample guarantees a good bulk run."** A sample verifies the product, not the supplier's ability to reproduce it consistently at volume or deliver on time. Only a trial order — with a retained reference sample and an agreed inspection checkpoint — tests that.
 
 ---
 
@@ -135,5 +185,7 @@ You verify it, rather than trusting it. Before shipment, agree in writing on an 
 - [MOQ & pricing guide](/blog/moq-pricing-guide/)
 - [Incense authentication database](/blog/incense-authentication-database/)
 - [Packaging & shipping guide](/blog/packaging-shipping-guide/)
+- [Bulk ingredient sourcing](/blog/bulk-incense-ingredient-sourcing/)
+- [Buying agarwood for manufacturing](/blog/how-to-buy-agarwood-for-incense-manufacturing/)
 
 **Natural next step:** ready to buy in bulk? See the [wholesale inquiry](/wholesale/) page — or request a [quote](/request-a-quote/).
