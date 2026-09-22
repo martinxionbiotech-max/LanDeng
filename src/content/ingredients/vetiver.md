@@ -189,7 +189,7 @@ Vetiver (岩兰草) is the steam-distilled root of the tropical grass *Chrysopog
 
 **What is khus?** The Indian name for vetiver. Khus is used in Indian perfumery and in cooling drinks and sherbets in South Asia — a separate, culinary use of the same grass. The word is common on Indian vetiver products and simply refers to the same *Chrysopogon zizanioides* plant. In Indian perfumery, khus oil is the classic earthy-woody reference profile, and khus sherbet is a well-known summer drink.
 
-See also: [patchouli](/ingredients/patchouli/) and [cedar](/ingredients/cedar/), its fellow earthy/woody notes, plus the full [scent guide](/blog/scent-guide/).
+See also: [patchouli](/ingredients/patchouli/) and [cedar](/ingredients/cedar/), its fellow earthy/woody notes, [cyperus](/ingredients/cyperus/), [valerian](/ingredients/valerian/) plus the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

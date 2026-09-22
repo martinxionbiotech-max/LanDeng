@@ -76,7 +76,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Is rosemary a native Chinese herb?** No — it is native to the Mediterranean. Its classical Chinese appearance is as an imported aromatic from the Western Regions (西域/大秦), introduced to the 魏文帝 court around the third century. Its modern use in Chinese incense and fragrance is a Western-herbal crossover rather than a continuation of a core native tradition.
 
-See also: [bay-leaf](/ingredients/bay-leaf/), [mint](/ingredients/mint/), and the full [scent guide](/blog/scent-guide/).
+See also: [bay-leaf](/ingredients/bay-leaf/), [mint](/ingredients/mint/), [eucalyptus](/ingredients/eucalyptus/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

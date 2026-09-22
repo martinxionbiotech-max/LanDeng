@@ -78,7 +78,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **How is tuberose used in fragrance?** As a white-floral note extracted from the flowers — historically by enfleurage, now usually by solvent extraction into an absolute, or reproduced as a synthetic accord. The living flower's scent is not carried into burning incense, which is one reason 晚香玉 is a perfumery and floristry material rather than a classical 香材.
 
-See also: [jasmine](/ingredients/jasmine/), [Spanish jasmine](/ingredients/jasmine-grandiflorum/), [osmanthus](/ingredients/osmanthus/), and the full [scent guide](/blog/scent-guide/).
+See also: [jasmine](/ingredients/jasmine/), [Spanish jasmine](/ingredients/jasmine-grandiflorum/), [osmanthus](/ingredients/osmanthus/), [ylang-ylang](/ingredients/ylang-ylang/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

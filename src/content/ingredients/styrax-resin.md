@@ -73,7 +73,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Why do classical texts emphasize the "oily" grade of storax?** Because the aromatic compounds are concentrated in the resinous, oily fraction. Classical sources record that producers extracted the fragrant balsam first and sold the spent woody residue — 大秦国人采得苏合香先煎其汁以为香膏乃卖其滓 — leaving a material with little scent. The same principle applies today: a dry, low-resin "storax" is not the aromatic grade.
 
-See also: [sweetgum](/ingredients/sweetgum/), [benzoin](/ingredients/benzoin/), and the full [scent guide](/blog/scent-guide/).
+See also: [sweetgum](/ingredients/sweetgum/), [benzoin](/ingredients/benzoin/), [amber](/ingredients/amber/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

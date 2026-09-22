@@ -78,7 +78,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Where does the Chinese torreya grow?** In eastern China — Zhejiang, Jiangxi, Fujian, and adjacent provinces — where it is long cultivated for its large, edible, aromatic seeds. The finest are traditionally associated with Yushan county.
 
-See also: [cypress-seed](/ingredients/cypress-seed/), [pine-resin](/ingredients/pine-resin/), and the full [scent guide](/blog/scent-guide/).
+See also: [cypress-seed](/ingredients/cypress-seed/), [pine-resin](/ingredients/pine-resin/), [ginkgo nut](/ingredients/ginkgo/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

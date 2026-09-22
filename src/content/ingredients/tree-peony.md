@@ -77,7 +77,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Is tree peony an incense ingredient?** Not a lead one. Its fame is ornamental and cultural — it is the "king of flowers" — and it can lend a soft floral accent, but the classical incense florals are jasmine, osmanthus, and rose. The tree peony's root bark (牡丹皮) is a separate materia-medica part.
 
-See also: [peony (芍药)](/ingredients/peony/), [rose](/ingredients/rose/), [plum-blossom](/ingredients/plum-blossom/), and the full [scent guide](/blog/scent-guide/).
+See also: [peony (芍药)](/ingredients/peony/), [rose](/ingredients/rose/), [plum-blossom](/ingredients/plum-blossom/), [tree peony bark](/ingredients/tree-peony-bark/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

@@ -188,7 +188,7 @@ Spikenard (甘松, *gānsōng*) is the dried, fragrant root of *Nardostachys jat
 
 **Is spikenard the same as vetiver?** No — both are earthy root notes, but they are different plants. Spikenard is *Nardostachys jatamansi*, with an earthy, sweet, musky character; vetiver is *Chrysopogon zizanioides*, a grass whose roots give a dry, smoky, cleaner earthy note. They both ground a blend from below, but spikenard reads sweeter and more musky, while vetiver reads drier and smokier.
 
-See also: [sandalwood](/ingredients/sandalwood/), [vetiver](/ingredients/vetiver/), and the full [scent guide](/blog/scent-guide/).
+See also: [sandalwood](/ingredients/sandalwood/), [vetiver](/ingredients/vetiver/), [valerian](/ingredients/valerian/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

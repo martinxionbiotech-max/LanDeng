@@ -204,7 +204,7 @@ Sandalwood (檀香) is the fragrant heartwood of *Santalum* trees, with *Santalu
 
 **What is the difference between sandalwood and red sandalwood?** They are different plants that share only the character 檀 in their Chinese names. Sandalwood (檀香, *Santalum album*) is a creamy, sweet-scented incense wood. Red sandalwood (紫檀, *Pterocarpus santalinus*) is a crimson dye wood valued for color, not for the sandalwood aroma. The similarity of the names causes persistent confusion, so the scientific name is the reliable anchor.
 
-See also: the [sandalwood incense guide](/blog/sandalwood-incense/), the [material comparison matrix](/blog/incense-material-comparison-matrix/), and the full [scent guide](/blog/scent-guide/).
+See also: the [sandalwood incense guide](/blog/sandalwood-incense/), the [material comparison matrix](/blog/incense-material-comparison-matrix/), [bletilla](/ingredients/bletilla/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 
