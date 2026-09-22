@@ -211,7 +211,7 @@ Jasmine (茉莉) is the flower of *Jasminum* species in the olive family — mos
 
 **What is the difference between jasmine and 素馨 (Spanish jasmine)?** Both are *Jasminum* species, but distinct. Jasmine (茉莉) is *Jasminum sambac* — the tea-scented jasmine used for jasmine tea, with a fresh, tea-like sweetness. 素馨 is *Jasminum grandiflorum* — the Spanish or Poet's jasmine, with larger flowers and a headier, more opulent scent, the classic Western perfumery jasmine. The incense compendium 香乘 lists them as separate flowers, and each has its own entry here. See [jasmine-grandiflorum](/ingredients/jasmine-grandiflorum/).
 
-See also: [rose](/ingredients/rose/), [osmanthus](/ingredients/osmanthus/), [jasmine-grandiflorum](/ingredients/jasmine-grandiflorum/), and the full [scent guide](/blog/scent-guide/).
+See also: [rose](/ingredients/rose/), [osmanthus](/ingredients/osmanthus/), [jasmine-grandiflorum](/ingredients/jasmine-grandiflorum/), [lily of the valley](/ingredients/lily-of-the-valley/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

@@ -72,7 +72,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **How does honey fit the 君臣佐使 (sovereign–minister–assistant–guide) principle?** Honey is typically the guide (使) — the binder or fixative that holds a formula together and carries the burn. The fragrance comes from the principal and supporting aromatics; honey's job is structural. For example, the 香乘 records 江南李主帐中香 with agarwood, sandalwood, frankincense, amber, and jasmine bound in honey and coated with dried jasmine.
 
-See also: [hexiang-blending-system](/blog/hexiang-blending-system/), [musk](/ingredients/musk/), and the full [scent guide](/blog/scent-guide/).
+See also: [hexiang-blending-system](/blog/hexiang-blending-system/), [musk](/ingredients/musk/), [beeswax](/ingredients/beeswax/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

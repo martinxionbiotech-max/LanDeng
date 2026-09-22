@@ -190,7 +190,7 @@ Ligusticum (藁本, *gǎoběn*) is the dried root and rhizome of *Ligusticum sin
 
 **What part of the plant is used?** The root and rhizome, harvested, cleaned, and dried. The aromatic character comes from the root rather than the leaves or seeds, and the dried root is ground for use in blended incense. It is a supporting herbal note, usually blended rather than burned alone.
 
-See also: [ligusticum-chuanxiong (川芎)](/ingredients/ligusticum-chuanxiong/), [spikenard-nardostachys](/ingredients/spikenard-nardostachys/), [angelica](/ingredients/angelica/), the [Shouyang princess plum recipe](/blog/shouyang-princess-plum-recipe/), and the full [scent guide](/blog/scent-guide/).
+See also: [ligusticum-chuanxiong (川芎)](/ingredients/ligusticum-chuanxiong/), [spikenard-nardostachys](/ingredients/spikenard-nardostachys/), [angelica](/ingredients/angelica/), the [Shouyang princess plum recipe](/blog/shouyang-princess-plum-recipe/), [asarum](/ingredients/asarum/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

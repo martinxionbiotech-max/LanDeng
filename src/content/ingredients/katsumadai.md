@@ -79,7 +79,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Where does 草豆蔻 come from?** From *Alpinia katsumadae*, a ginger-family perennial native to southern China and Hainan. The name is often treated under *Alpinia hainanensis*, and Flora of China records 草豆蔻 as the Chinese name for that species. The genus *Alpinia* also includes galangal (*Alpinia officinarum*) and 益智仁 (*Alpinia oxyphylla*).
 
-See also: [cardamom](/ingredients/cardamom/), [amomum-villosum](/ingredients/amomum-villosum/), and the full [scent guide](/blog/scent-guide/).
+See also: [cardamom](/ingredients/cardamom/), [amomum-villosum](/ingredients/amomum-villosum/), [sharp-leaf galangal](/ingredients/oxyphylla/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

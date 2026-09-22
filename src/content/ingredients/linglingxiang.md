@@ -73,7 +73,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **What part of the plant is used?** The dried herb — the leafy aerial part of *Lysimachia foenum-graecum* — is the part used. The plant is moisture-loving, found in wet habitats of southern China, and the dried herb is what carries the sweet-hay fragrance. This distinguishes it from root materials (like 甘松 or 香附子) and from woods and resins.
 
-See also: [patchouli](/ingredients/patchouli/), [agastache](/ingredients/agastache-rugosa/), and the full [scent guide](/blog/scent-guide/).
+See also: [patchouli](/ingredients/patchouli/), [agastache](/ingredients/agastache-rugosa/), [paicao](/ingredients/paicao/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

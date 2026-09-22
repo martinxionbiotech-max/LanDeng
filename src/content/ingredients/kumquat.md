@@ -80,7 +80,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Is 金橘 a classical Chinese incense ingredient?** No. Like the citron and finger citron, the kumquat does not appear in the classical incense compendium 香乘; its role is as a 清供 offering and room-fragrance fruit, scented by presence and evaporation rather than burned.
 
-See also: [citron](/ingredients/citron/), [finger-citron](/ingredients/finger-citron/), and the full [scent guide](/blog/scent-guide/).
+See also: [citron](/ingredients/citron/), [finger-citron](/ingredients/finger-citron/), [quince](/ingredients/quince/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

@@ -72,7 +72,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Is licorice used in traditional Chinese medicine?** Yes — 甘草 is among the most-used herbs in traditional Chinese medicine, classically described for "harmonizing the hundred herbs" (调和诸药). This harmonizing role carries over into its incense use, but this is **traditional materia-medica language, not modern clinical evidence**, and no medical claims are made here.
 
-See also: [spikenard-nardostachys](/ingredients/spikenard-nardostachys/), [galangal](/ingredients/galangal/), and the full [scent guide](/blog/scent-guide/).
+See also: [spikenard-nardostachys](/ingredients/spikenard-nardostachys/), [galangal](/ingredients/galangal/), [schisandra](/ingredients/schisandra/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

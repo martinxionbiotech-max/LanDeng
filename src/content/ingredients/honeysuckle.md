@@ -174,7 +174,7 @@ Honeysuckle (金银花) is the flower of *Lonicera japonica*, a twining, semieve
 
 **How does honeysuckle differ from jasmine and osmanthus?** They are distinct flowers in different registers of sweetness. Honeysuckle (*Lonicera japonica*) is light, honeyed, and green; jasmine (*Jasminum* spp.) is sweet, indolic, and heady; osmanthus (*Osmanthus fragrans*) is sweet and apricot-fruity. Honeysuckle is the freshest and least heady of the three.
 
-See also: [chrysanthemum](/ingredients/chrysanthemum/), [plum-blossom](/ingredients/plum-blossom/), [jasmine](/ingredients/jasmine/), [osmanthus](/ingredients/osmanthus/), and the full [scent guide](/blog/scent-guide/).
+See also: [chrysanthemum](/ingredients/chrysanthemum/), [plum-blossom](/ingredients/plum-blossom/), [jasmine](/ingredients/jasmine/), [osmanthus](/ingredients/osmanthus/), [silk tree flower](/ingredients/silk-tree/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 
