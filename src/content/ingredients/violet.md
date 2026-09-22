@@ -12,7 +12,7 @@ status: draft
 related: ["orris-root", "rose", "jasmine"]
 ---
 
-**Direct answer:** Violet — *zǐluólán* (紫罗兰) in Chinese — is here the sweet violet, *Viola odorata*, a small flowering herb of the violet family (Violaceae) native to Europe and western Asia. Its flowers carry a soft, sweet, powdery, green scent, prized in modern perfumery. It is a **modern fragrance material, not a classical Chinese incense ingredient** — and its Chinese name needs a caution, set out below.
+> **Direct answer:** Violet (紫罗兰, zǐluólán) is here the sweet violet, *Viola odorata*, a small flowering herb of the violet family (Violaceae) native to Europe and western Asia. Its flowers carry a soft, sweet, powdery, green scent prized in modern perfumery. It is a modern fragrance material, not a classical Chinese incense ingredient — and its Chinese name needs a caution, set out below.
 
 <img src="/images/violet-raw-material-800x533.webp" alt="Raw Violet (Viola odorata) flower material, editorial still life" width="800" height="533" loading="lazy">
 

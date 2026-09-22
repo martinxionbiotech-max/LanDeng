@@ -14,7 +14,7 @@ related: ["turmeric", "aromatic-turmeric"]
 
 <img src="/images/zedoary-raw-material-800x533.webp" alt="Raw Zedoary (Curcuma zedoaria (cf. Curcuma phaeocaulis)) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 莪术 — *ézhú* in Chinese — is the dried rhizome of the zedoary group, *Curcuma zedoaria* (with *Curcuma phaeocaulis* as the Flora-of-China species most often cited for Chinese material), a ginger-family (Zingiberaceae) perennial of South and Southeast Asia. It is a warm, camphoraceous, earthy rhizome in the same genus as turmeric, used primarily in traditional medicine and recorded in classical incense formulas as a minor ingredient. It is one of three closely related *Curcuma* rhizomes — 姜黄, 郁金, and 莪术 — that are routinely confused, and this page disambiguates them explicitly.
+> **Direct answer:** Zedoary (莪术, ézhú) is the dried rhizome of the zedoary group, *Curcuma zedoaria* (with *Curcuma phaeocaulis* most often cited for Chinese material), a ginger-family (Zingiberaceae) perennial of South and Southeast Asia. It is a warm, camphoraceous, earthy rhizome in the same genus as turmeric, used primarily in traditional medicine and recorded in classical incense formulas as a minor ingredient. It is one of three closely related *Curcuma* rhizomes that are routinely confused.
 
 ## Key facts
 

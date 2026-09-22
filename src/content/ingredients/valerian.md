@@ -12,7 +12,7 @@ status: draft
 related: ["spikenard-nardostachys", "vetiver", "patchouli"]
 ---
 
-**Direct answer:** Valerian — *xiécǎo* (缬草) in Chinese — is the root of *Valeriana officinalis*, a perennial herb of the valerian family (Valerianaceae, now often placed in Caprifoliaceae) native to Eurasia, including China. Its dried root has a strong, earthy, musky, woody scent, and it is a classical European herbal root and a modern perfumery base note. It is **a native Chinese species recorded in Flora of China — but not a classical *Bencao Gangmu* (本草纲目) herb**, and that gap is stated plainly below.
+> **Direct answer:** Valerian (缬草, xiécǎo) is the root of *Valeriana officinalis*, a perennial herb of the valerian family native to Eurasia, including China. Its dried root has a strong, earthy, musky, woody scent, and it is a classical European herbal root and a modern perfumery base note. It is a native Chinese species recorded in Flora of China — but not a classical *Bencao Gangmu* herb.
 
 <img src="/images/valerian-raw-material-800x533.webp" alt="Raw Valerian (Valeriana officinalis) root material, editorial still life" width="800" height="533" loading="lazy">
 

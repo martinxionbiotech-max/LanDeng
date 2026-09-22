@@ -14,7 +14,7 @@ related: ["benzoin", "peru-balsam", "labdanum"]
 
 <img src="/images/vanilla-raw-material-800x533.webp" alt="Raw Vanilla Bean (Vanilla planifolia) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 香草荚 — *xiāngcǎo jiá* in Chinese — is the vanilla bean, the cured seed pod of the vanilla orchid, *Vanilla planifolia*, a climbing orchid (Orchidaceae) native to Mexico and Central America. Its sweet, creamy, warm scent is one of the most recognizable gourmand notes in the world, developed only after the green pods are cured. Vanilla is a **modern crossover** into Chinese flavor and fragrance — it has no classical Chinese incense origin, and none is claimed.
+> **Direct answer:** Vanilla (香草荚, xiāngcǎo jiá) is the vanilla bean, the cured seed pod of the vanilla orchid, *Vanilla planifolia*, a climbing orchid (Orchidaceae) native to Mexico and Central America. Its sweet, creamy, warm scent develops only after the green pods are cured. Vanilla is a modern crossover into Chinese flavor and fragrance — it has no classical Chinese incense origin, and none is claimed.
 
 ## Key facts
 

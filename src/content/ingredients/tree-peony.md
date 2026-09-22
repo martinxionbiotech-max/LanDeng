@@ -12,7 +12,7 @@ status: draft
 related: ["peony", "rose", "plum-blossom"]
 ---
 
-**Direct answer:** Tree peony — *mǔdān* (牡丹) in Chinese — is the woody-stemmed peony, *Paeonia suffruticosa*, the shrub peony of the peony family (Paeoniaceae) native to China. It is the celebrated "king of flowers" (花王) of Chinese horticulture, with a soft, rosy, sweet floral scent. It is a **different species from — and must be distinguished from — 芍药 (the herbaceous peony, *Paeonia lactiflora*)**, its close relative in the same genus.
+> **Direct answer:** Tree peony (牡丹, mǔdān) is the woody-stemmed peony, *Paeonia suffruticosa*, the shrub peony of the peony family (Paeoniaceae) native to China. It is the celebrated "king of flowers" (花王) of Chinese horticulture, with a soft, rosy, sweet floral scent. It is a different species from, and must be distinguished from, the herbaceous peony (芍药, *Paeonia lactiflora*).
 
 <img src="/images/tree-peony-raw-material-800x533.webp" alt="Raw Tree Peony (Paeonia suffruticosa) material, editorial still life" width="800" height="533" loading="lazy">
 

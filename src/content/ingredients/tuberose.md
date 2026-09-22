@@ -14,7 +14,7 @@ related: ["jasmine", "jasmine-grandiflorum", "osmanthus"]
 
 <img src="/images/tuberose-raw-material-800x533.webp" alt="Raw Tuberose (Agave amica) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 晚香玉 — *wǎnxiāngyù* in Chinese — is the tuberose, *Agave amica* (long known as *Polianthes tuberosa*), a bulbous perennial of the asparagus family (Asparagaceae) native to Mexico. Its name means "night-fragrant jade," and it is a Western-perfumery flower adopted into modern Chinese floristry and fragrance, not a plant of the classical Chinese incense canon. It is prized for a rich, sweet, creamy, intensely heady white-floral scent that deepens at night.
+> **Direct answer:** Tuberose (晚香玉, wǎnxiāngyù) is the flower of *Agave amica* (long known as *Polianthes tuberosa*), a bulbous perennial of the asparagus family (Asparagaceae) native to Mexico. Its name means "night-fragrant jade." It is a Western-perfumery flower adopted into modern Chinese floristry and fragrance, prized for a rich, sweet, creamy, heady white-floral scent that deepens at night — not a plant of the classical Chinese canon.
 
 ## Key facts
 

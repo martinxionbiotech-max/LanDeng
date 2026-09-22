@@ -12,7 +12,7 @@ status: draft
 related: ["jasmine", "neroli", "tuberose"]
 ---
 
-**Direct answer:** Ylang-ylang — *yīlán* (依兰) in Chinese — is the flower of *Cananga odorata*, a tropical tree of the custard-apple family (Annonaceae) native to Southeast Asia and the western Pacific. Its flowers yield a rich, sweet, creamy, slightly fruity essential oil, a classic of tropical perfumery. It is a **modern fragrance crossover, not a classical Chinese incense ingredient**.
+> **Direct answer:** Ylang-ylang (依兰, yīlán) is the flower of *Cananga odorata*, a tropical tree of the custard-apple family (Annonaceae) native to Southeast Asia and the western Pacific. Its flowers yield a rich, sweet, creamy, slightly fruity essential oil, a classic of tropical perfumery. It is a modern fragrance crossover, not a classical Chinese incense ingredient.
 
 <img src="/images/ylang-ylang-raw-material-800x533.webp" alt="Raw Ylang-Ylang (Cananga odorata) flower material, editorial still life" width="800" height="533" loading="lazy">
 

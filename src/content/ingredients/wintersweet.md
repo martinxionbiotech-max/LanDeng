@@ -14,7 +14,7 @@ related: ["plum-blossom", "osmanthus", "magnolia-flower"]
 
 <img src="/images/wintersweet-raw-material-800x533.webp" alt="Raw Wintersweet (Chimonanthus praecox) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 蜡梅 — *làmèi* (wintersweet) in Chinese — is the flower of *Chimonanthus praecox*, a winter-flowering shrub of the wintersweet family (Calycanthaceae) native to central China. It is a sweet, honeyed, waxy floral that blooms in deep winter, prized in Chinese gardens and used as a **winter floral note** in incense. Despite its name, it is **not** a plum — it belongs to a different family from the true plum blossom (梅花, *Prunus mume*).
+> **Direct answer:** Wintersweet (蜡梅, làmèi) is the flower of *Chimonanthus praecox*, a winter-flowering shrub of the wintersweet family (Calycanthaceae) native to central China. It is a sweet, honeyed, waxy floral that blooms in deep winter, prized in Chinese gardens and used as a winter floral note in incense. Despite its name, it is not a plum — it belongs to a different family from the true plum blossom (梅花, *Prunus mume*).
 
 ## Key facts
 
