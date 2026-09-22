@@ -28,9 +28,13 @@ related: ["jasmine", "jasmine-grandiflorum", "osmanthus"]
 
 ## Aroma profile
 
-Tuberose is one of the most powerful white florals in perfumery — sweet and creamy, with a rich, almost fruity headiness that intensifies after dusk. In a room it reads as dense and narcotic rather than fresh or green. This is the signature that made it a prized enfleurage flower in Western perfumery, and it is this Western profile, not any Chinese classical record, that brings 晚香玉 into modern Chinese floral fragrance.
+> **Direct answer:** Tuberose is one of the most powerful white florals in perfumery — sweet and creamy, with a rich, almost fruity headiness that intensifies after dusk. It reads as dense and narcotic rather than fresh or green, which is the signature that made it a prized enfleurage flower in Western perfumery.
+
+Tuberose is one of the most powerful white florals in perfumery — sweet and creamy, with a rich, almost fruity headiness that intensifies after dusk. In a room it reads as dense and narcotic rather than fresh or green. This is the signature that made it a prized enfleurage flower in Western perfumery, and it is this Western profile, not any Chinese classical record, that brings 晚香玉 into modern Chinese floral fragrance. The night-intensification is not poetic license: the flower's scent genuinely strengthens in the evening, which is why its name — in Chinese and in its perfume reputation — centers on night.
 
 ## A provenance note (read this)
+
+> **Direct answer:** 晚香玉 is a modern crossover, not a classical Chinese incense material. The plant is native to Mexico and entered global cultivation through Western horticulture; the name 晚香玉 ("night-fragrant jade") is a descriptive modern coinage, not a term from 香乘 or the *Bencao Gangmu*. No classical Chinese origin is claimed.
 
 晚香玉 is a **modern crossover**, not a classical Chinese incense material:
 
@@ -42,9 +46,21 @@ This page records it honestly as a modern floral note — **no classical Chinese
 
 ## Botanical source and origin
 
+> **Direct answer:** *Agave amica* (formerly *Polianthes tuberosa*) is a bulbous perennial of the asparagus family, native to Mexico and long cultivated for its powerfully fragrant white flowers. Recent taxonomy has returned it from its own genus *Polianthes* to *Agave*; both names are in use, with *Polianthes tuberosa* the more familiar in perfumery literature.
+
 *Agave amica* (formerly *Polianthes tuberosa*) is a bulbous perennial of the asparagus family, native to Mexico and long cultivated for its powerfully fragrant white flowers. Recent taxonomic work has returned the tuberose from its own genus *Polianthes* to *Agave*; both names are in active use, with *Polianthes tuberosa* the more familiar in perfumery literature. It is grown in China today as a floristry and garden plant; it is not a native species and has no Flora of China entry.
 
+The taxonomic detail is worth noting for buyers because it means the same flower can be listed under two different scientific names — *Agave amica* or *Polianthes tuberosa* — and a source that uses the older name is not necessarily wrong, just using the perfumery-traditional label.
+
+## Where does tuberose come from?
+
+> **Direct answer:** Tuberose is native to Mexico and was spread worldwide through Western horticulture as a prized fragrant cut flower and perfume crop. It is now grown in warmer regions, including modern China, but it is not a native Chinese plant and has no Flora of China entry.
+
+The tuberose is a Mexican native that became a global horticultural and perfume crop through Western cultivation. Its powerfully fragrant white flowers made it valuable enough to be moved across warm regions worldwide, and it is now grown in modern China as a floristry and garden bulb. It is important to keep this straight: the plant is not native to China, has no Flora of China entry, and arrived through the Western floristry-and-perfumery channel — which is exactly why it is a modern crossover rather than a classical 香材.
+
 ## In modern use
+
+> **Direct answer:** 晚香玉 is grown as a fragrant cut flower and garden bulb in modern China, and tuberose absolute is a classic Western white-floral note in fine fragrance, extracted by solvent or enfleurage. It has no role in 合香 or the classical 香材 canon.
 
 - **Floristry and garden:** 晚香玉 is grown as a fragrant cut flower and garden bulb in modern China.
 - **Perfumery:** tuberose absolute is a classic Western white-floral note, used in fine fragrance; the scent is extracted by solvent or enfleurage.
@@ -52,19 +68,46 @@ This page records it honestly as a modern floral note — **no classical Chinese
 
 ## Traditional use vs modern evidence
 
+> **Direct answer:** There is no classical Chinese incense record for 晚香玉; its position is entirely modern. The documented facts are botanical identity, the Asparagaceae placement, the Mexican origin, and the flower's modern floristry-and-perfumery role — no classical origin is claimed.
+
+- **Traditional Use** — none in classical Chinese incense; tuberose has no traditional 香材 or materia-medica role in this encyclopedia's scope, and no classical use is claimed.
+- **Historical Record** — the botanical record places *Agave amica* (syn. *Polianthes tuberosa*) as a Mexican native in the asparagus family, spread worldwide by Western horticulture; the name 晚香玉 is a modern descriptive coinage, not a classical Chinese term.
+- **Scientific Evidence** — botanical identity (Asparagaceae) and the recent taxonomic return from *Polianthes* to *Agave* are established; the flower's night-fragrance behavior is documented. No medical claims are made.
+
 There is **no classical Chinese incense record** for 晚香玉; its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Asparagaceae placement, and the flower's modern floristry-and-perfumery role.
 
-## Quality and sourcing notes
+## How is tuberose used in fragrance?
 
-Practical points for buyers:
+> **Direct answer:** Tuberose is used as a white-floral note extracted from the flowers — historically by enfleurage, now usually by solvent extraction into an absolute, or reproduced as a synthetic accord. The living flower's scent is not carried into burning incense, which is why 晚香玉 is a perfumery and floristry material rather than a classical 香材.
 
-- 晚香玉 is the tuberose, *Agave amica* (syn. *Polianthes tuberosa*); expect a sweet, creamy, heady white-floral scent.
-- It is a modern crossover flower — a floristry and perfumery material, not a classical 香材, and not a burned incense ingredient.
-- In fragrance it is usually an absolute or synthetic accord; the living flower's scent is not carried into burning incense.
+Tuberose's fragrance role is in extraction, not burning. The flower's powerful scent is captured historically by enfleurage — pressing the blossoms into fat to absorb their fragrance — and now usually by solvent extraction into an absolute, or by reproducing the profile as a synthetic accord. The critical practical point is that this is a *cold-extraction* flower: its scent is delicate enough that it does not survive combustion, which is why tuberose appears in perfume and floristry, not as a burned incense material. The living flower's evening fragrance and the perfumer's absolute are two different things, and neither is a classical 香材.
 
-## Safety
+## What buyers should look for
 
-Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice.
+> **Direct answer:** A buyer should recognize 晚香玉 as a modern crossover flower — a floristry and perfumery material, not a classical 香材 and not a burned incense ingredient. For fragrance, expect a tuberose absolute or a synthetic accord; the living flower's scent does not carry into burning incense.
+
+For a formulator or sourcing buyer, the checks are:
+
+- **Provenance** — recognize tuberose as a Mexican-native, Western-horticulture flower with no classical Chinese incense record; treat any "classical 香材" claim with care.
+- **Name** — the flower may be listed as *Agave amica* or *Polianthes tuberosa*; both refer to the same plant, the latter being the perfumery-traditional label.
+- **Format** — for fragrance, expect a tuberose absolute or a synthetic accord; the fresh flower is a floristry item, not an incense material.
+- **Aroma** — expect a sweet, creamy, heady white-floral that intensifies at night; this dense, narcotic character is its signature.
+
+## Our Industry View
+
+> **Direct answer:** Tuberose's lesson is about extraction economics: it is a flower whose scent is powerful in life but destroyed by combustion, so its entire commercial value is tied to cold extraction — enfleurage or solvent — and to the modern perfumery channel that brought it to China. It is a modern crossover that should be labeled as such, not draped in a borrowed classical pedigree.
+
+Tuberose is the clearest example in this encyclopedia of a material whose value depends entirely on *how* its scent is captured:
+
+- **Combustion destroys what extraction preserves.** The flower is intensely fragrant in the evening air, yet its delicate scent does not survive burning. This is a real material-science boundary: some aromatics are heat-stable and suit incense, while others — like tuberose — are cold-extraction materials. Recognizing which is which is basic formulator competence.
+- **The channel shapes the identity.** Tuberose reached China through Western horticulture and perfumery, not through the classical 香材 canon, and its Chinese name 晚香玉 is a modern descriptive coinage. That channel is part of its identity and should be stated, not hidden.
+- **Taxonomic drift is a sourcing detail.** The move from *Polianthes* to *Agave* means the same flower carries two scientific names; a buyer who sees either is looking at the same material. Knowing this prevents false "wrong species" alarms.
+
+In our view, tuberose is a **legitimate modern floral note whose value is extraction-bound**: the disciplined buyer specifies "tuberose absolute or accord," knows it is not a burned material, and keeps its modern, Mexican-origin provenance clearly on the record.
+
+## Summary
+
+Tuberose (晚香玉, "night-fragrant jade") is the flower of *Agave amica* (syn. *Polianthes tuberosa*), a Mexican-native, asparagus-family bulb whose sweet, creamy, heady white-floral scent intensifies at night. It is a Western-perfumery flower that entered modern Chinese floristry and fragrance as a crossover, with no classical Chinese incense record — stated plainly rather than fabricated. Because its scent is destroyed by combustion, its value is extraction-bound (enfleurage, solvent, or accord), making it a perfumery material rather than a burned 香材.
 
 ## FAQ
 
@@ -77,6 +120,8 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 **Why is the scientific name changing from Polianthes tuberosa?** Taxonomic revision has moved the tuberose from its own genus *Polianthes* into *Agave*, giving the accepted name *Agave amica*. Both names remain in use, with *Polianthes tuberosa* still common in perfumery literature, but the accepted botanical name is now *Agave amica*.
 
 **How is tuberose used in fragrance?** As a white-floral note extracted from the flowers — historically by enfleurage, now usually by solvent extraction into an absolute, or reproduced as a synthetic accord. The living flower's scent is not carried into burning incense, which is one reason 晚香玉 is a perfumery and floristry material rather than a classical 香材.
+
+**Why is tuberose called "night-fragrant"?** Because the flower's scent genuinely strengthens in the evening — a real biological behavior, not just poetic language. The name 晚香玉 ("night-fragrant jade") records this, and it is why tuberose is associated with evening and night fragrance in perfumery.
 
 See also: [jasmine](/ingredients/jasmine/), [Spanish jasmine](/ingredients/jasmine-grandiflorum/), [osmanthus](/ingredients/osmanthus/), [ylang-ylang](/ingredients/ylang-ylang/) and the full [scent guide](/blog/scent-guide/).
 
