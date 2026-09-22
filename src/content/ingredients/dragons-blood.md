@@ -70,7 +70,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **What is 血竭 used for in Chinese tradition?** 血竭 (dragon's blood) is used as a red resin in incense and as a traditional red pigment and dye in lacquer and crafts, and it is recorded in traditional Chinese medicine (本草綱目, 木部). Its medicinal uses are traditional, not established clinical fact. In incense it serves as a warm, balsamic resin note, usually blended.
 
-See also: [myrrh](/ingredients/myrrh/), [red-sandalwood](/ingredients/red-sandalwood/), and the full [scent guide](/blog/scent-guide/).
+See also: [myrrh](/ingredients/myrrh/), [red-sandalwood](/ingredients/red-sandalwood/), [shellac](/ingredients/shellac/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

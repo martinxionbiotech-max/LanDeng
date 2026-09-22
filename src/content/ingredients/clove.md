@@ -187,7 +187,7 @@ Clove (丁香) is the dried, unopened flower bud of *Syzygium aromaticum*, a myr
 
 **What is clove oil, and how does it differ from the buds?** Clove oil is the essential oil steam-distilled from the buds (and sometimes the stems), concentrating the eugenol that gives clove its pungency. The buds are the whole aromatic material; the oil is a separate, far more concentrated product, used in flavor, fragrance, and dental care. Because eugenol is potent and can be irritating, clove oil is not applied undiluted, whereas the whole buds are used directly as a spice or incense ingredient.
 
-See also: [cinnamon](/ingredients/cinnamon/), [star anise](/ingredients/star-anise/), [fennel](/ingredients/fennel/), and the full [scent guide](/blog/scent-guide/).
+See also: [cinnamon](/ingredients/cinnamon/), [star anise](/ingredients/star-anise/), [fennel](/ingredients/fennel/), [nutmeg](/ingredients/nutmeg/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

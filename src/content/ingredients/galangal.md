@@ -174,7 +174,7 @@ Galangal (高良姜) is the dried rhizome of *Alpinia officinarum*, a Zingiberac
 
 **Is galangal the same as sand ginger?** No. Galangal is *Alpinia officinarum* (高良姜), while sand ginger is *Kaempferia galanga* (山柰) — different genera in the same ginger family (Zingiberaceae). Both are warm, aromatic rhizomes, but galangal is sharper and more camphoraceous, while sand ginger is milder and more aromatic. They are distinct species with their own entries in this encyclopedia.
 
-See also: [sand-ginger](/ingredients/sand-ginger/), [cardamom](/ingredients/cardamom/), [ginger](/ingredients/ginger/), and the full [scent guide](/blog/scent-guide/).
+See also: [sand-ginger](/ingredients/sand-ginger/), [cardamom](/ingredients/cardamom/), [ginger](/ingredients/ginger/), [sharp-leaf galangal](/ingredients/oxyphylla/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

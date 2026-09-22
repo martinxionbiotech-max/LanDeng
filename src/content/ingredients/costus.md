@@ -70,7 +70,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Is costus root endangered?** Yes, it is a conservation concern. *Saussurea costus* is a slow-growing Himalayan plant that has been over-harvested, and it is listed under CITES Appendix I, which heavily restricts international trade in wild-collected material. This drives cultivated material and substitutes into commerce, so species and legal origin should be confirmed when buying.
 
-See also: [spikenard-nardostachys](/ingredients/spikenard-nardostachys/), [orris-root](/ingredients/orris-root/), and the full [scent guide](/blog/scent-guide/).
+See also: [spikenard-nardostachys](/ingredients/spikenard-nardostachys/), [orris-root](/ingredients/orris-root/), [banksia rose](/ingredients/banksia-rose/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

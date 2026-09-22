@@ -76,7 +76,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **How is cumin used in China?** Primarily as the signature spice of Xinjiang and northwest Chinese cooking, especially cumin-spiced lamb and grilled meats, where it is used generously whole or ground. This is a culinary role, not an incense role.
 
-See also: [coriander-seed](/ingredients/coriander-seed/), [fennel](/ingredients/fennel/), and the full [scent guide](/blog/scent-guide/).
+See also: [coriander-seed](/ingredients/coriander-seed/), [fennel](/ingredients/fennel/), [dill](/ingredients/dill/), [fenugreek](/ingredients/fenugreek/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

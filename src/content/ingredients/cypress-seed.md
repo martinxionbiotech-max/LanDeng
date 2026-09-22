@@ -175,7 +175,7 @@ Cypress seed (柏子, *bǎizǐ*) is the seed of the oriental arborvitae, *Platyc
 
 **How is cypress seed incense burned?** As a loose roasted-seed material, not a pressed stick. The classical 柏子香 is burned on charcoal or an electric heater after the seeds have been scalded, wine-soaked, honey-sealed, and dried. This distinguishes it from modern stick incense, and the source gives no fixed quantity, treating the proportions as flexible by design.
 
-See also: [pine-resin](/ingredients/pine-resin/), [cedar](/ingredients/cedar/), [arborvitae leaves (侧柏叶)](/ingredients/platycladus-leaves/), the [cypress-seed incense recipe](/blog/baizi-incense-recipe/), and the full [scent guide](/blog/scent-guide/).
+See also: [pine-resin](/ingredients/pine-resin/), [cedar](/ingredients/cedar/), [arborvitae leaves (侧柏叶)](/ingredients/platycladus-leaves/), the [cypress-seed incense recipe](/blog/baizi-incense-recipe/), [ginkgo nut](/ingredients/ginkgo/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

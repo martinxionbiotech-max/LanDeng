@@ -174,7 +174,7 @@ Fennel (小茴香) is the dried ridged fruit of *Foeniculum vulgare*, an Apiacea
 
 **What is the difference between fennel and anise?** They are two different Apiaceae (carrot-family) plants with the same anethole note. Fennel is *Foeniculum vulgare* (小茴香), whose small ridged fruit is a culinary spice; anise is *Pimpinella anisum* (茴芹), whose smaller seed has a cleaner, more purely licorice character. Both are unrelated to star anise, yet all three share the sweet anethole molecule and the overlapping 茴香/茴芹 naming.
 
-See also: [star-anise](/ingredients/star-anise/), [anise](/ingredients/anise/), [clove](/ingredients/clove/), the [Shouyang princess plum recipe](/blog/shouyang-princess-plum-recipe/), and the full [scent guide](/blog/scent-guide/).
+See also: [star-anise](/ingredients/star-anise/), [anise](/ingredients/anise/), [clove](/ingredients/clove/), the [Shouyang princess plum recipe](/blog/shouyang-princess-plum-recipe/), [dill](/ingredients/dill/), [fenugreek](/ingredients/fenugreek/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

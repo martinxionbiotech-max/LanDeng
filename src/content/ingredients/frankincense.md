@@ -194,7 +194,7 @@ Frankincense (乳香) is the aromatic gum-resin of *Boswellia* trees, harvested 
 
 **What are boswellic acids?** Boswellic acids are compounds found in frankincense resin, the most studied being AKBA (acetyl-11-keto-β-boswellic acid). They are the subject of laboratory and experimental research on inflammation. This is preliminary research interest, not established clinical proof, and it does not make burning frankincense a medical treatment. We mention them only to distinguish what is studied from what is proven.
 
-See also: the [frankincense incense guide](/blog/frankincense-incense/), the [material comparison matrix](/blog/incense-material-comparison-matrix/), and the full [scent guide](/blog/scent-guide/).
+See also: the [frankincense incense guide](/blog/frankincense-incense/), the [material comparison matrix](/blog/incense-material-comparison-matrix/), [galbanum](/ingredients/galbanum/), [mastic](/ingredients/mastic/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 
