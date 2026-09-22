@@ -43,6 +43,22 @@ author: "\"LanDeng Editorial Team\""
 
 ---
 
+## The Standard Comparison: Stick vs Cone
+
+The two most-asked-about formats share one paste but differ in geometry. The standard criteria:
+
+| Criterion | Stick | Cone |
+|---|---|---|
+| Burn time | ~20–60 min | ~10–15 min |
+| Smoke plume | Longer, more even | Shorter, more concentrated |
+| Scent release | Steady over a longer window | Faster, more intense at once |
+| Typical use | Timed sessions, meditation, daily scent | Short rituals, quick accent |
+| Visual option | None by default | Backflow cones add a smoke waterfall |
+
+Neither is "better" — the shape sets the burn time and plume, and the choice follows the session length. See [incense stick vs cone](/blog/incense-stick-vs-cone/) for the full comparison, and [incense powder vs wood chips](/blog/incense-powder-vs-wood-chips/) for the material-form side of the same decision.
+
+---
+
 ## How to Choose
 
 1. **Start with burn time.** A short session (meditation) → stick or cone; an all-day scent → coil; a "no smoke" preference → resin on a heater or beads.
@@ -60,6 +76,8 @@ See [how to choose incense](/blog/how-to-choose-incense/) for the full selection
 - **[Incense coils](/blog/incense-coils/)** — hours-long burn.
 - **[Incense powder & resin](/blog/incense-powder-resin/)** — loose material on heat.
 - **[Aromatherapy beads](/blog/aromatherapy-beads/)** — worn, not burned.
+
+**Comparison deep dives:** [incense stick vs cone](/blog/incense-stick-vs-cone/), [incense powder vs wood chips](/blog/incense-powder-vs-wood-chips/), and [agarwood powder vs chips](/blog/agarwood-powder-vs-chips/) take the format question one level deeper.
 
 ---
 
@@ -97,6 +115,8 @@ Most "sticks vs cones" content is an affiliate listicle ranking products. This h
 - [Chinese Incense Burners & Tools (香炉香具): The Complete Guide](/blog/incense-burners-tools/)
 - [Incense Coils: The Hours-Long Burn, Explained](/blog/incense-coils/)
 - [Incense Powder & Resin: The Pure-Material, Smoke-Light Format](/blog/incense-powder-resin/)
+- [Incense Powder vs Wood Chips: The Form Decides the Use](/blog/incense-powder-vs-wood-chips/)
+- [Incense Stick vs Cone: Burn Time, Smoke, and When Each Fits](/blog/incense-stick-vs-cone/)
 - [香篆 (Seal Incense): Powder Pressed Into Patterns, and a Clock](/blog/incense-seal-zhuanxiang/)
 - [Incense Sticks: The Everyday Format, Explained](/blog/incense-sticks/)
 - [香具 (The Incense Tool Set): Chopsticks, Spoons, and the 炉瓶三事](/blog/incense-tools-utensils/)
@@ -144,6 +164,9 @@ A stick is the safest, most universal choice — it is self-contained, predictab
 - [Backflow Cones](/blog/backflow-cones/)
 - [Incense Coils](/blog/incense-coils/)
 - [Incense Powder & Resin](/blog/incense-powder-resin/)
+- [Incense Stick vs Cone](/blog/incense-stick-vs-cone/)
+- [Incense Powder vs Wood Chips](/blog/incense-powder-vs-wood-chips/)
+- [Agarwood Powder vs Chips](/blog/agarwood-powder-vs-chips/)
 - [Aromatherapy Beads](/blog/aromatherapy-beads/)
 
 **Natural next step:** start with the [sticks](/blog/incense-sticks/) (the default) or the [coils](/blog/incense-coils/) if you want hours of scent.
