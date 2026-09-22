@@ -14,7 +14,7 @@ related: ["galangal", "frankincense", "costus"]
 
 <img src="/images/asafoetida-raw-material-800x533.webp" alt="Raw Asafoetida (Ferula assa-foetida) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 阿魏 — *āwèi* in Chinese — is the dried resin of *Ferula assa-foetida*, a giant perennial herb of the carrot family (Apiaceae) native to Central Asia and the Iranian plateau. It is a fiercely pungent, sulfurous resin famous for its raw garlic-onion odor, which mellows dramatically on heating into a savory, allium-like depth. In classical Chinese incense and medicine it is a **pungent aromatic resin**, one of the "foreign aromatics" that entered China through the Silk Road trade.
+> **Direct answer:** Asafoetida (阿魏, āwèi) is the dried resin of *Ferula assa-foetida*, a giant perennial herb of the carrot family (Apiaceae) native to Central Asia and the Iranian plateau. It is a fiercely pungent, sulfurous resin whose raw garlic-onion odor mellows on heating into a savory, allium-like depth — one of the "foreign aromatics" that entered China via the Silk Road.
 
 ## Key facts
 

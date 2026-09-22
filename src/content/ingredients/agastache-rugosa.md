@@ -14,7 +14,7 @@ related: ["patchouli", "mugwort"]
 
 <img src="/images/agastache-rugosa-raw-material-800x533.webp" alt="Raw Agastache (Agastache rugosa) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Agastache — *huòxiāng* (藿香) in Chinese — is a fragrant herb, *Agastache rugosa* (Chinese giant hyssop), in the mint family. It is a classical Chinese incense and materia-medica herb with a minty, anise-like aroma. It is frequently confused with *patchouli*, a different plant — the two share the "藿香" name in Chinese, which is a standing source of error.
+> **Direct answer:** Agastache (藿香, huòxiāng) is the fragrant herb *Agastache rugosa* (Chinese giant hyssop), in the mint family. It is a classical Chinese incense and materia-medica herb with a minty, anise-like aroma. It is frequently confused with patchouli, a different plant; the two share the 藿香 name in Chinese, a standing source of error.
 
 ## Key facts
 

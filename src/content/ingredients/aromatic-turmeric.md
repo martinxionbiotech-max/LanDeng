@@ -14,7 +14,7 @@ related: ["turmeric", "zedoary"]
 
 <img src="/images/aromatic-turmeric-raw-material-800x533.webp" alt="Raw Aromatic Turmeric (Curcuma aromatica) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 郁金 — *yùjīn* in Chinese — is the dried rhizome of *Curcuma aromatica*, a ginger-family (Zingiberaceae) perennial native to South and Southeast Asia and cultivated in southern China. It is a warm, camphoraceous, earthy rhizome sometimes called "wild turmeric" in English, and its name (郁金) literally means "aromatic gold." It is one of three closely related *Curcuma* rhizomes — 姜黄 (turmeric), 郁金 (aromatic turmeric), and 莪术 (zedoary) — that share overlapping Chinese names and are routinely confused, and this page disambiguates them explicitly.
+> **Direct answer:** Aromatic turmeric (郁金, yùjīn) is the dried rhizome of *Curcuma aromatica*, a ginger-family (Zingiberaceae) perennial native to South and Southeast Asia and cultivated in southern China. It is a warm, camphoraceous, earthy rhizome sometimes called "wild turmeric," and its name (郁金) literally means "aromatic gold." It is one of three closely related *Curcuma* rhizomes that are routinely confused.
 
 ## Key facts
 

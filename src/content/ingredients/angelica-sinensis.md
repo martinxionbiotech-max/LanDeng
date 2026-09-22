@@ -14,7 +14,7 @@ related: ["angelica", "atractylodes", "calamus"]
 
 <img src="/images/angelica-sinensis-raw-material-800x533.webp" alt="Raw Dong Quai (Angelica sinensis) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 当归 — *dāngguī* in Chinese — is dong quai, the dried root of *Angelica sinensis*, a herb of the carrot family (Apiaceae) native to China. It is one of the most famous roots in Chinese materia medica, described in the *Bencao Gangmu* (本草纲目) as "the essential herb for women" (女人要药), with a warm, sweet, herbal scent and the classical name 乾归 (qiánguī). **It is a different species from 白芷 (*Angelica dahurica*)** — same genus, different plant, different role.
+> **Direct answer:** Dong quai (当归, dāngguī) is the dried root of *Angelica sinensis*, a herb of the carrot family (Apiaceae) native to China. One of the most famous roots in Chinese materia medica, the *Bencao Gangmu* calls it "the essential herb for women" (女人要药). It is a different species from 白芷 (*Angelica dahurica*) — same genus, different plant, different role.
 
 ## Key facts
 

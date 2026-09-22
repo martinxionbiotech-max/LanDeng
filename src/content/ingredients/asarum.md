@@ -12,7 +12,7 @@ status: draft
 related: ["ligusticum", "angelica", "atractylodes"]
 ---
 
-**Direct answer:** Asarum — *xìxīn* (细辛) in Chinese — is the dried root and rhizome of *Asarum sieboldii*, a low woodland herb of the birthwort family (Aristolochiaceae) native to China, Korea, and Japan. Its name means "thin [and] pungent," from the slender root's intense, spicy, camphoraceous scent. It is a classical Chinese materia-medica root, **not a documented 香囊 (sachet) or incense ingredient** — and that absence is stated plainly below.
+> **Direct answer:** Asarum (细辛, xìxīn) is the dried root and rhizome of *Asarum sieboldii*, a low woodland herb of the birthwort family (Aristolochiaceae) native to China, Korea, and Japan. Its name means "thin and pungent," from the slender root's intense, spicy, camphoraceous scent. It is a classical Chinese materia-medica root, not a documented sachet or incense ingredient.
 
 <img src="/images/asarum-raw-material-800x533.webp" alt="Raw Asarum (Asarum sieboldii) root material, editorial still life" width="800" height="533" loading="lazy">
 

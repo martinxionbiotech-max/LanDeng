@@ -14,7 +14,7 @@ related: ["fennel", "star-anise"]
 
 <img src="/images/anise-raw-material-800x533.webp" alt="Raw Anise (Pimpinella anisum) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 茴芹 — *huíqín* in Chinese — is anise or aniseed, *Pimpinella anisum*, a herbaceous plant of the carrot family (Apiaceae) whose small dried fruits carry the sweet, licorice-like anethole note. It is a Mediterranean-West Asian spice, distinct from both fennel (小茴香, *Foeniculum vulgare*) and star anise (八角/大茴香, *Illicium verum*), and its Chinese name is a modern botanical term rather than a classical incense ingredient.
+> **Direct answer:** Anise (茴芹, huíqín) is the seed-fruit of *Pimpinella anisum*, a herbaceous plant of the carrot family (Apiaceae) whose small dried fruits carry the sweet, licorice-like anethole note. It is a Mediterranean-West Asian spice, distinct from fennel (小茴香) and star anise (八角/大茴香), and its Chinese name is a modern botanical term rather than a classical incense ingredient.
 
 ## Key facts
 

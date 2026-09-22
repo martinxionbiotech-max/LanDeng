@@ -14,7 +14,7 @@ related: ["michelia-figo", "champaca"]
 
 <img src="/images/aglaia-raw-material-800x533.webp" alt="Raw Aglaia (Aglaia odorata) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 米仔兰 — *mǐzǎilán* in Chinese — is a small evergreen tree or shrub of the mahogany family (Meliaceae), *Aglaia odorata*, native to southern China and Southeast Asia. Its tiny, yellow, bead-like flowers are intensely and sweetly fragrant, and it is grown across the subtropical south as a garden and courtyard fragrant plant. It is a **southern Chinese fragrant flower** — but it does **not** appear in the Ming-dynasty *Xiangcheng* (香乘), and this page records that absence honestly.
+> **Direct answer:** Aglaia (米仔兰, mǐzǎilán) is a small evergreen tree or shrub of the mahogany family (Meliaceae), *Aglaia odorata*, native to southern China and Southeast Asia. Its tiny, yellow, bead-like flowers are intensely and sweetly fragrant, grown across the subtropical south as a garden and courtyard fragrant plant. It does not appear in the Ming *Xiangcheng* (香乘).
 
 ## Key facts
 

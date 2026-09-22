@@ -14,7 +14,7 @@ related: ["plum-blossom", "peony", "licorice"]
 
 <img src="/images/apricot-kernel-raw-material-800x533.webp" alt="Raw Apricot Kernel (Prunus armeniaca) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 杏仁 — *xìngrén* in Chinese — is the kernel of the apricot, *Prunus armeniaca*, a stone fruit of the rose family (Rosaceae) long cultivated in China and Central Asia. The kernel has a sweet, nutty, almond-like scent and a distinct bitter undertone from its amygdalin content. The *Bencao Gangmu* (本草纲目) records 杏 in its fruit section (果之一), with the kernel 杏仁 as the material of value, and a classical alternative name 甜梅 (tiánméi, "sweet plum").
+> **Direct answer:** Apricot kernel (杏仁, xìngrén) is the kernel of the apricot, *Prunus armeniaca*, a stone fruit of the rose family (Rosaceae) long cultivated in China and Central Asia. The kernel has a sweet, nutty, almond-like scent and a bitter undertone from its amygdalin content. The *Bencao Gangmu* records 杏 in its fruit section, with 杏仁 as the material of value.
 
 ## Key facts
 

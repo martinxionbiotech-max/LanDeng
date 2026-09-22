@@ -12,7 +12,7 @@ status: draft
 related: ["mulberry-leaf", "platycladus-leaves", "cypress-seed"]
 ---
 
-**Direct answer:** Bamboo leaves — *zhúyè* (竹叶) in Chinese — are the narrow, green leaves of bamboo (*Phyllostachys* and related genera, family Poaceae). They carry a mild, fresh, grassy-green scent, and they enter Chinese tradition chiefly as a tea and as a fragrant, cooling leaf rather than as a prominent incense material. They must be kept distinct from the similarly named herb 淡竹叶 (*Lophatherum gracile*), which is a different plant.
+> **Direct answer:** Bamboo leaves (竹叶, zhúyè) are the narrow, green leaves of bamboo (*Phyllostachys* and related genera, family Poaceae). They carry a mild, fresh, grassy-green scent and enter Chinese tradition chiefly as a tea and a fragrant, cooling leaf rather than as a prominent incense material. They must be kept distinct from the herb 淡竹叶 (*Lophatherum gracile*).
 
 <img src="/images/bamboo-leaves-raw-material-800x533.webp" alt="Raw Bamboo Leaves (Phyllostachys spp. (the leaves)) material, editorial still life" width="800" height="533" loading="lazy">
 

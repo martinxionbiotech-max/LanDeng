@@ -12,7 +12,7 @@ status: draft
 related: ["mugwort", "agastache-rugosa", "schizonepeta"]
 ---
 
-**Direct answer:** Sweet wormwood — *qīnghāo* (青蒿) in Chinese — is the herb *Artemisia annua*, an annual member of the *Artemisia* (mugwort) genus, family Asteraceae. It has a fresh, herbal, slightly camphoraceous, faintly sweet scent, and it is a classical Chinese aromatic and materia-medica herb. It is a **different species from — and must be distinguished from — 艾草 (mugwort, *Artemisia argyi*)**, its close relative in the same genus.
+> **Direct answer:** Sweet wormwood (青蒿, qīnghāo) is the herb *Artemisia annua*, an annual member of the *Artemisia* (mugwort) genus, family Asteraceae. It has a fresh, herbal, slightly camphoraceous, faintly sweet scent, and is a classical Chinese aromatic and materia-medica herb. It is a different species from, and must be distinguished from, mugwort (艾草, *Artemisia argyi*).
 
 <img src="/images/artemisia-annua-raw-material-800x533.webp" alt="Raw Sweet Wormwood (Artemisia annua) material, editorial still life" width="800" height="533" loading="lazy">
 
