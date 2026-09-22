@@ -14,7 +14,7 @@ related: ["kumquat", "citron", "finger-citron"]
 
 <img src="/images/quince-raw-material-800x533.webp" alt="Raw Quince (Pseudocydonia sinensis) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 木瓜 — *mùguā* in Chinese — is the Chinese quince, *Pseudocydonia sinensis* (long placed as *Chaenomeles sinensis*), a tree of the rose family (Rosaceae) native to China. Its large, hard, intensely fragrant fruit is a classic 清供 (scholar's-table offering) and a recorded materia-medica fruit. The *Bencao Gangmu* (本草纲目) records 木瓜 in its fruit section (果之二), noting that the finest come from Xuancheng (宣城) and giving it the name 木瓜 — "tree melon" — for its melon-like fruit.
+> **Direct answer:** Chinese quince (木瓜, mùguā) is *Pseudocydonia sinensis* (long placed as *Chaenomeles sinensis*), a tree of the rose family (Rosaceae) native to China. Its large, hard, intensely fragrant fruit is a classic 清供 (scholar's-table offering) and a recorded materia-medica fruit. The *Bencao Gangmu* records 木瓜 in its fruit section, noting the finest come from Xuancheng.
 
 ## Key facts
 

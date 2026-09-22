@@ -12,7 +12,7 @@ status: draft
 related: ["rosemary", "thyme", "basil"]
 ---
 
-**Direct answer:** Sage — *shǔwěicǎo* (鼠尾草) in Chinese — is the culinary sage, *Salvia officinalis*, a mint-family (Lamiaceae) subshrub native to the Mediterranean. Its leaves carry a savory, herbal, camphoraceous, slightly peppery scent, familiar from cooking and, more recently, modern incense and cleansing rituals. It is a **modern crossover, not a classical Chinese incense ingredient**.
+> **Direct answer:** Sage (鼠尾草, shǔwěicǎo) is the culinary sage, *Salvia officinalis*, a mint-family (Lamiaceae) subshrub native to the Mediterranean. Its leaves carry a savory, herbal, camphoraceous, slightly peppery scent, familiar from cooking and, more recently, modern incense and cleansing rituals. It is a modern crossover, not a classical Chinese incense ingredient.
 
 <img src="/images/sage-raw-material-800x533.webp" alt="Raw Sage (Salvia officinalis) herb material, editorial still life" width="800" height="533" loading="lazy">
 

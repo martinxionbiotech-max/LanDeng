@@ -14,7 +14,7 @@ related: ["bay-leaf", "mint"]
 
 <img src="/images/rosemary-raw-material-800x533.webp" alt="Raw Rosemary (Salvia rosmarinus (syn. Rosmarinus officinalis)) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 迷迭香 — *mídiéxiāng* in Chinese — is rosemary, the aromatic herb *Salvia rosmarinus* (long known as *Rosmarinus officinalis*), an evergreen shrub of the mint family (Lamiaceae) native to the Mediterranean. It is a herbal, camphoraceous, fresh aromatic used in cooking and fragrance, and used in Chinese incense as a **herbal accent**. Its classical Chinese presence is real but specific: 香乘 records it as an exotic Western import introduced to the court in the third century (魏文帝), not as a core native 香道 ingredient — and this page positions that honestly.
+> **Direct answer:** Rosemary (迷迭香, mídiéxiāng) is the aromatic herb *Salvia rosmarinus* (long known as *Rosmarinus officinalis*), an evergreen shrub of the mint family (Lamiaceae) native to the Mediterranean. It is a herbal, camphoraceous, fresh aromatic used in cooking and fragrance, and in Chinese incense as a herbal accent. The 香乘 records it as an exotic Western import introduced to the court in the third century.
 
 ## Key facts
 

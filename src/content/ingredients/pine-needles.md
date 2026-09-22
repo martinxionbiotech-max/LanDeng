@@ -12,7 +12,7 @@ status: draft
 related: ["pine-resin", "cedar", "juniper"]
 ---
 
-**Direct answer:** Pine needles — *sōngzhēn* (松针) in Chinese — are the long, slender leaves of pine trees (*Pinus* spp.). They carry the bright, conifer-fresh scent of a crushed evergreen branch, and they are used in incense and traditional 香囊 (fragrant sachets) as a green, outdoorsy top note. They come from the **very same tree that yields pine resin (松香/松脂) — same species, different part** — and the two must be kept distinct.
+> **Direct answer:** Pine needles (松针, sōngzhēn) are the long, slender leaves of pine trees (*Pinus* spp.). They carry the bright, conifer-fresh scent of a crushed evergreen branch, and are used in incense and traditional 香囊 (fragrant sachets) as a green, outdoorsy top note. They come from the very same tree that yields pine resin (松香/松脂) — same species, different part — and the two must be kept distinct.
 
 <img src="/images/pine-needles-raw-material-800x533.webp" alt="Raw Pine Needles (Pinus spp. (the needles)) material, editorial still life" width="800" height="533" loading="lazy">
 

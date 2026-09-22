@@ -12,7 +12,7 @@ status: draft
 related: ["mint", "spearmint"]
 ---
 
-**Direct answer:** Peppermint — *hújiāo bòhé* (胡椒薄荷) in Chinese — is the herb *Mentha × piperita*, a sterile hybrid mint in the mint family (Lamiaceae), a cross of watermint (*Mentha aquatica*) and spearmint (*Mentha spicata*). Its leaves carry a sharp, cooling, minty-camphoraceous scent from a menthol-rich essential oil, and it is a **modern culinary and fragrance crossover, not a classical Chinese incense ingredient**. It must be distinguished from the Chinese pharmacopoeial mint 薄荷 (*Mentha haplocalyx*) and from spearmint 留兰香 (*Mentha spicata*).
+> **Direct answer:** Peppermint (胡椒薄荷, hújiāo bòhé) is the herb *Mentha × piperita*, a sterile hybrid mint in the mint family (Lamiaceae), a cross of watermint and spearmint. Its leaves carry a sharp, cooling, minty-camphoraceous scent from a menthol-rich essential oil, and it is a modern culinary and fragrance crossover, not a classical Chinese incense ingredient. It is distinct from the Chinese mint 薄荷 and spearmint 留兰香.
 
 <img src="/images/peppermint-raw-material-800x533.webp" alt="Raw Peppermint (Mentha × piperita) material, editorial still life" width="800" height="533" loading="lazy">
 

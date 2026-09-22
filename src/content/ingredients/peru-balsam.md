@@ -14,7 +14,7 @@ related: ["benzoin", "styrax-resin", "vanilla"]
 
 <img src="/images/peru-balsam-raw-material-800x533.webp" alt="Raw Peru Balsam (Myroxylon balsamum) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 秘鲁香脂 — *bìlǔ xiāngzhī* in Chinese — is Peru balsam, an aromatic resin from the tree *Myroxylon balsamum*, a legume (Fabaceae) native to Central America. It is a sweet, vanilla-like, balsamic resin used in Western perfumery as a fixative and sweetener, and it enters Chinese fragrance as a **modern crossover** — it has no classical Chinese incense origin, and none is claimed.
+> **Direct answer:** Peru balsam (秘鲁香脂, bìlǔ xiāngzhī) is an aromatic resin from the tree *Myroxylon balsamum*, a legume (Fabaceae) native to Central America. It is a sweet, vanilla-like, balsamic resin used in Western perfumery as a fixative and sweetener. It enters Chinese fragrance as a modern crossover — it has no classical Chinese incense origin, and none is claimed.
 
 ## Key facts
 

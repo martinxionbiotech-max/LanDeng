@@ -14,7 +14,7 @@ related: ["cypress-seed", "cedar", "thuja"]
 
 <img src="/images/platycladus-leaves-raw-material-800x533.webp" alt="Raw Arborvitae Leaves (Platycladus orientalis) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 侧柏叶 — *cèbǎi yè* in Chinese — is the leafy branchlet of the oriental arborvitae, *Platycladus orientalis* (侧柏), a cypress-family tree native to China and Korea. It is the **leafy part of the very same tree that yields 柏子 (cypress seed)** — same species, different part. The *Bencao Gangmu* (本草纲目) records 柏 in its tree section (木之一), explaining that "入药惟取叶扁而侧生者，故曰侧柏" — only the flat, sideways-growing leaves are used, hence the name 侧柏.
+> **Direct answer:** Arborvitae leaves (侧柏叶, cèbǎi yè) are the leafy branchlet of the oriental arborvitae, *Platycladus orientalis* (侧柏), a cypress-family tree native to China and Korea. It is the leafy part of the very same tree that yields cypress seed (柏子) — same species, different part. The *Bencao Gangmu* records 柏 in its tree section, explaining the name 侧柏 from the flat, sideways-growing leaves.
 
 ## Key facts
 

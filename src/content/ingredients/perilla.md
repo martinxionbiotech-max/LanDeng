@@ -14,7 +14,7 @@ related: ["mint", "agastache-rugosa", "mugwort"]
 
 <img src="/images/perilla-raw-material-800x533.webp" alt="Raw Perilla (Perilla frutescens) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 紫苏 — *zǐsū* (perilla) in Chinese — is the aerial herb of *Perilla frutescens*, an annual of the mint family (Lamiaceae) native to East Asia and long cultivated across China, Japan, and Korea. It is a fragrant, minty-basil herb with a sweet, anise-like character from its essential oil, used in Chinese incense as a **green herbal note** and as a culinary herb. The name 紫苏 refers to the purple-leaved form; the green-leaved form is called 白苏.
+> **Direct answer:** Perilla (紫苏, zǐsū) is the aerial herb of *Perilla frutescens*, an annual of the mint family (Lamiaceae) native to East Asia. It is a fragrant, minty-basil herb with a sweet, anise-like character from its essential oil, used in Chinese incense as a green herbal note and as a culinary herb. The name 紫苏 refers to the purple-leaved form; the green-leaved form is called 白苏.
 
 ## Key facts
 

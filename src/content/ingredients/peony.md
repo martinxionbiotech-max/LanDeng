@@ -14,7 +14,7 @@ related: ["rose", "plum-blossom"]
 
 <img src="/images/peony-raw-material-800x533.webp" alt="Raw Peony (Paeonia lactiflora) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 芍药 — *sháoyào* in Chinese — is the Chinese herbaceous peony, *Paeonia lactiflora*, a long-cultivated flowering perennial of the peony family (Paeoniaceae). It is one of the oldest ornamental flowers of China, and in the *Bencao Gangmu* (本草纲目) it is recorded with the classical name 将离 (jiānglí, "about to part") — a name tied to the ancient custom of parting gifts. It is a garden and materia-medica flower first, a fragrance second.
+> **Direct answer:** Peony (芍药, sháoyào) is the Chinese herbaceous peony, *Paeonia lactiflora*, a long-cultivated flowering perennial of the peony family (Paeoniaceae). One of China's oldest ornamental flowers, it is recorded in the *Bencao Gangmu* under the classical name 将离 (jiānglí, "about to part"). It is a garden and materia-medica flower first, a fragrance second.
 
 ## Key facts
 
