@@ -12,7 +12,7 @@ status: draft
 related: ["eupatorium", "agastache-rugosa", "mugwort"]
 ---
 
-**Direct answer:** Zelan — *zélán* (泽兰) in Chinese — is the aromatic herb *Eupatorium japonicum*, a daisy-family (Asteraceae) perennial native to East Asia. It is a **same-genus relative of — and must be distinguished from — 佩兰 (*Eupatorium fortunei*)**. But the name 泽兰 is contested in Chinese materia medica, and that naming tangle is set out plainly below rather than papered over.
+> **Direct answer:** Zelan (泽兰, zélán) is the aromatic herb *Eupatorium japonicum*, a daisy-family (Asteraceae) perennial native to East Asia. It is a same-genus relative of, and must be distinguished from, 佩兰 (*Eupatorium fortunei*). The name 泽兰 is contested in Chinese materia medica, and that naming tangle is set out plainly rather than papered over.
 
 <img src="/images/eupatorium-japonicum-raw-material-800x533.webp" alt="Raw Zelan (Eupatorium japonicum) herb material, editorial still life" width="800" height="533" loading="lazy">
 

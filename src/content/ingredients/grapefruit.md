@@ -12,7 +12,7 @@ status: draft
 related: ["pomelo-peel", "citron", "lemon"]
 ---
 
-**Direct answer:** Grapefruit — *pútáoyòu* (葡萄柚) in Chinese — is the fruit and rind of *Citrus × paradisi*, a modern cultivated citrus hybrid in the rue family (Rutaceae). Its peel carries a fresh, bittersweet, green-slightly-woody citrus scent from its essential oil, and it is a **modern essential-oil fragrance material, not a classical Chinese incense ingredient**. It must be kept distinct from the pomelo (柚, *Citrus maxima*), its larger ancestral parent, which has its own entry as 柚皮 (pomelo peel).
+> **Direct answer:** Grapefruit (葡萄柚, pútáoyòu) is the fruit and rind of *Citrus × paradisi*, a modern cultivated citrus hybrid in the rue family (Rutaceae). Its peel carries a fresh, bittersweet, green-slightly-woody citrus scent from its essential oil, and it is a modern essential-oil fragrance material, not a classical Chinese incense ingredient. It is distinct from the pomelo (柚), its larger ancestral parent.
 
 <img src="/images/grapefruit-raw-material-800x533.webp" alt="Raw Grapefruit (Citrus × paradisi) material, editorial still life" width="800" height="533" loading="lazy">
 

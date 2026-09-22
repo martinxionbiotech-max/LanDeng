@@ -14,7 +14,7 @@ related: ["spikenard-nardostachys", "orris-root"]
 
 <img src="/images/costus-raw-material-800x533.webp" alt="Raw Costus (Saussurea costus (syn. Dolomiaea costus, Aucklandia lappa)) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Costus — *mùxiāng* (木香) in Chinese — is the dried root of *Saussurea costus* (now often *Dolomiaea costus*, also known by the older name *Aucklandia lappa*), a thistle-family herb (Asteraceae) native to the Himalaya. It is a classical Chinese incense and materia-medica root valued for a deep, earthy, slightly musky-animalic aroma that made it a traditional fixative and, historically, a lower-cost stand-in for musk. It is a CITES-listed species whose wild trade is restricted.
+> **Direct answer:** Costus (木香, mùxiāng) is the dried root of *Saussurea costus* (now often *Dolomiaea costus*, older name *Aucklandia lappa*), a thistle-family herb (Asteraceae) native to the Himalaya. It is a classical Chinese incense and materia-medica root valued for a deep, earthy, slightly musky-animalic aroma that made it a traditional fixative and, historically, a lower-cost stand-in for musk. It is a CITES-listed species.
 
 ## Key facts
 

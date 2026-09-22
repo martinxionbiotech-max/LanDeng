@@ -14,7 +14,7 @@ related: ["torreya", "cypress-seed", "kumquat"]
 
 <img src="/images/ginkgo-raw-material-800x533.webp" alt="Raw Ginkgo Nut (Ginkgo biloba) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 银杏 — *yínxìng* in Chinese — is the seed of the ginkgo, *Ginkgo biloba*, a "living fossil" tree that is the sole surviving species of its entire division and is native to China. The seed, called 白果 (báiguǒ, "white fruit"), is a mild, nutty, faintly bitter food seed. The *Bencao Gangmu* (本草纲目) records 银杏 under its names 白果 and 鸭脚子, explaining that it entered tribute in the Song dynasty and was renamed 银杏 — "silver apricot" — for its shape and white kernel.
+> **Direct answer:** Ginkgo (银杏, yínxìng) is the seed of *Ginkgo biloba*, a "living fossil" tree that is the sole surviving species of its division, native to China. The seed, called 白果 (báiguǒ, "white fruit"), is a mild, nutty, faintly bitter food seed. The *Bencao Gangmu* records it under 白果 and 鸭脚子, noting it entered tribute in the Song dynasty.
 
 ## Key facts
 

@@ -14,7 +14,7 @@ related: ["fennel", "cumin", "coriander-seed"]
 
 <img src="/images/dill-raw-material-800x533.webp" alt="Raw Dill (Anethum graveolens) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 莳萝 — *shíluó* in Chinese — is dill, *Anethum graveolens*, an annual herb of the carrot family (Apiaceae) native to the Mediterranean and Southwest Asia. It is a culinary spice whose seed and feathery leaf carry a fresh, herbal, anise-like scent. The *Bencao Gangmu* (本草纲目) records 莳萝 under its other names 慈谋勒 and 小茴香, noting that "今人多用和五味" — people now use it mainly to season food.
+> **Direct answer:** Dill (莳萝, shíluó) is the seed of *Anethum graveolens*, an annual herb of the carrot family (Apiaceae) native to the Mediterranean and Southwest Asia. It is a culinary spice whose seed and feathery leaf carry a fresh, herbal, anise-like scent. The *Bencao Gangmu* records 莳萝 under the names 慈谋勒 and 小茴香, noting its use mainly to season food.
 
 ## Key facts
 

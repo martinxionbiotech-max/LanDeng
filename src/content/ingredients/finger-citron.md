@@ -14,7 +14,7 @@ related: ["citron", "orange-peel"]
 
 <img src="/images/finger-citron-raw-material-800x533.webp" alt="Raw Finger Citron (Citrus medica var. sarcodactylis) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 佛手 — *fóshǒu* in Chinese — is the finger citron or Buddha's hand, *Citrus medica* var. *sarcodactylis*, a fingered variety of the citron in the rue family (Rutaceae). It is prized for its intensely fragrant, thick rind and is used in Chinese culture as a **清供 (scholar's-table offering) fragrance fruit**, scenting a room by its presence rather than being burned as incense. It is a variety of — and must be distinguished from — its parent, the plain 香橼 (citron, *Citrus medica*).
+> **Direct answer:** Finger citron (佛手, fóshǒu) is the Buddha's hand, *Citrus medica* var. *sarcodactylis*, a fingered variety of the citron in the rue family (Rutaceae). It is prized for its intensely fragrant, thick rind and is used as a 清供 (scholar's-table offering) fragrance fruit, scenting a room by its presence rather than being burned as incense. It is a variety of, and distinct from, the plain citron (香橼).
 
 ## Key facts
 

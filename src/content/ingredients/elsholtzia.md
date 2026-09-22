@@ -14,7 +14,7 @@ related: ["agastache-rugosa", "perilla"]
 
 <img src="/images/elsholtzia-raw-material-800x533.webp" alt="Raw Elsholtzia (Elsholtzia ciliata) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 香薷 — *xiāngrú* in Chinese — is a leafy aromatic herb of the mint family (Lamiaceae), chiefly *Elsholtzia ciliata* (with related *Elsholtzia* species also used). It is a classical Chinese aromatic-medicinal herb, recorded in the *Bencao Gangmu* (本草纲目) under its aromatic names 香柔 and 香茸 ("fragrant-soft," "fragrant-downy"), and it appears among the aromatics listed in the Ming-dynasty *Xiangcheng* (香乘). Its character is a fresh, minty-spicy green note.
+> **Direct answer:** Elsholtzia (香薷, xiāngrú) is a leafy aromatic herb of the mint family (Lamiaceae), chiefly *Elsholtzia ciliata*. It is a classical Chinese aromatic-medicinal herb, recorded in the *Bencao Gangmu* under its aromatic names 香柔 and 香茸, and listed among the aromatics of the Ming *Xiangcheng* (香乘). Its character is a fresh, minty-spicy green note.
 
 ## Key facts
 

@@ -14,7 +14,7 @@ related: ["asafoetida", "frankincense"]
 
 <img src="/images/galbanum-raw-material-800x533.webp" alt="Raw Galbanum (Ferula gummosa) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 白松香 — *báisōngxiāng* in Chinese — is galbanum, the gum-resin of *Ferula gummosa* (and related *Ferula* species), a giant fennel of the carrot family (Apiaceae) native to Iran and Central Asia. It is a green, balsamic, sharp resin used since antiquity in Western and Middle-Eastern incense and perfumery, and its closest botanical relative in this encyclopedia is 阿魏 (asafoetida), another *Ferula* resin. An honest sourcing caveat: **白松香 is not attested in the Chinese compendium 香乘** — its presence in the Chinese record is via translated Western materia-medica knowledge, not the classical incense canon.
+> **Direct answer:** Galbanum (白松香, báisōngxiāng) is the gum-resin of *Ferula gummosa* (and related *Ferula* species), a giant fennel of the carrot family (Apiaceae) native to Iran and Central Asia. It is a green, balsamic, sharp resin used since antiquity in Western and Middle-Eastern incense and perfumery; its closest relative here is asafoetida (阿魏), another *Ferula* resin. It is not attested in the Chinese compendium 香乘.
 
 ## Key facts
 

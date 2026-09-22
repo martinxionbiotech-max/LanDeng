@@ -14,7 +14,7 @@ related: ["vetiver", "calamus"]
 
 <img src="/images/cyperus-raw-material-800x533.webp" alt="Raw Cyperus (Cyperus rotundus) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Cyperus — *xiāngfùzǐ* (香附子, "fragrant *fuzi* tuber") in Chinese — is the aromatic tuber/rhizome of *Cyperus rotundus*, the purple nutsedge, one of the world's most widespread weeds. It is a classical Chinese incense *blending* ingredient, and it serves as a traditional substitute where the rarer spikenard (甘松) is unavailable.
+> **Direct answer:** Cyperus (香附子, xiāngfùzǐ, "fragrant tuber") is the aromatic tuber/rhizome of *Cyperus rotundus*, the purple nutsedge, one of the world's most widespread weeds. It is a classical Chinese incense blending ingredient, and serves as a traditional substitute where the rarer spikenard (甘松) is unavailable.
 
 ## Key facts
 

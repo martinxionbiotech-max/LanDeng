@@ -14,7 +14,7 @@ related: ["coriander-seed", "fennel"]
 
 <img src="/images/cumin-raw-material-800x533.webp" alt="Raw Cumin (Cuminum cyminum) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 孜然 — *zīrán* in Chinese — is cumin, *Cuminum cyminum*, a herbaceous plant of the carrot family (Apiaceae) whose small dried fruits carry a warm, earthy, slightly bitter spice aroma. It is a **Western-Regions (西域) spice** that reached China through Central Asian trade, and it is absent from both the Ming-dynasty *Xiangcheng* (香乘) and the *Bencao Gangmu* (本草纲目) under the name 孜然 — an absence this page records honestly.
+> **Direct answer:** Cumin (孜然, zīrán) is the seed-fruit of *Cuminum cyminum*, a herbaceous plant of the carrot family (Apiaceae) whose small dried fruits carry a warm, earthy, slightly bitter spice aroma. It is a Western-Regions (西域) spice that reached China through Central Asian trade, and is absent from both the Ming *Xiangcheng* (香乘) and the *Bencao Gangmu* under the name 孜然.
 
 ## Key facts
 

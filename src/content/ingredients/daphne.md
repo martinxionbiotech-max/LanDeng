@@ -14,7 +14,7 @@ related: ["wintersweet", "plum-blossom"]
 
 <img src="/images/daphne-raw-material-800x533.webp" alt="Raw Daphne (Daphne odora) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** 瑞香 — *ruìxiāng* in Chinese — is the flower of *Daphne odora*, an evergreen shrub of the mezereum family (Thymelaeaceae) native to China, prized as a classical winter-blooming flower with a sweet, spicy, heady scent. Its name means "auspicious fragrance," and it is a defining scent of the late-winter garden in Chinese culture — one of the flowers the Ming-dynasty *Xiangcheng* (香乘) names among the aromatic blossoms of the south and lists in its flower-steaming (花熏香) techniques.
+> **Direct answer:** Daphne (瑞香, ruìxiāng) is the flower of *Daphne odora*, an evergreen shrub of the mezereum family (Thymelaeaceae) native to China, prized as a classical winter-blooming flower with a sweet, spicy, heady scent. Its name means "auspicious fragrance," and it is a defining scent of the late-winter garden — one of the flowers the Ming *Xiangcheng* (香乘) lists in its flower-steaming techniques.
 
 ## Key facts
 

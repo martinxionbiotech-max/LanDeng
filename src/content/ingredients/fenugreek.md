@@ -12,7 +12,7 @@ status: draft
 related: ["cumin", "fennel", "coriander-seed"]
 ---
 
-**Direct answer:** Fenugreek — *húlúbā* (葫芦巴) in Chinese — is the small, hard seed of *Trigonella foenum-graecum*, a legume (Fabaceae) native to the Mediterranean and western Asia. Its roasted seed has a warm, sweet, maple-like, faintly nutty-bitter aroma, and it entered Chinese materia medica as a late, "recent" aromatic rather than a classical 香材 — the *Bencao Gangmu* (本草纲目) records it as a relatively new arrival.
+> **Direct answer:** Fenugreek (葫芦巴, húlúbā) is the small, hard seed of *Trigonella foenum-graecum*, a legume (Fabaceae) native to the Mediterranean and western Asia. Its roasted seed has a warm, sweet, maple-like, faintly nutty-bitter aroma. It entered Chinese materia medica as a late, "recent" aromatic rather than a classical 香材.
 
 <img src="/images/fenugreek-raw-material-800x533.webp" alt="Raw Fenugreek (Trigonella foenum-graecum) material, editorial still life" width="800" height="533" loading="lazy">
 
