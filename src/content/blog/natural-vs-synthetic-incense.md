@@ -47,6 +47,25 @@ Both are legitimate products. The problem is when the *label* implies material b
 | Burn / after-smell | Complex, changes, fades naturally | One-note, uniform, lingers as "perfume" |
 | Price | Higher for scarce woods (sandalwood, agarwood) | Cheap, uniform across "scents" |
 
+## The Standard Comparison
+
+The two products sit on the same shelf but are made differently. The standard criteria, stated as facts about what each is made of and how it behaves — not as a quality ranking:
+
+| Criterion | Material incense (plant-based) | Fragrance incense (oil-based) |
+|---|---|---|
+| Material origin | Ground plant material — woods, resins, herbs, flowers | Neutral base (charcoal/sawdust/core) + manufactured fragrance |
+| Aroma | Complex, evolves, fades naturally | Uniform, one-note, lingers as "perfume" |
+| Processing | Plant material ground and bound (e.g. makko) | Base dipped or sprayed in fragrance oil |
+| Burning characteristics | Varies with the material; plant binder drives the burn | Uniform burn; the base drives the burn |
+| Traditional use | Material-based practice (合香, temple, kōdō) | Modern manufactured scent |
+| Typical applications | Appreciation, ritual, material-led blending | Everyday ambient scenting |
+| Quality considerations | Species, grade, particle size, moisture | Fragrance load, base quality |
+| Sourcing considerations | Price reflects scarce material; adulteration risk | Price uniform; the label says little |
+
+Neither column is "better" — the table describes what each is made of and how it behaves, not which you should prefer. The practical question is **which one is actually in the product**, because the label does not reliably tell you.
+
+---
+
 ## The Three Honest Signals
 
 1. **Ingredients.** A real material list names the plant (e.g. "*Santalum album* wood powder, makko binder"). A vague "natural fragrance" is not the same thing.
@@ -62,7 +81,7 @@ The two materials where this distinction matters most are also the two most subs
 - **Sandalwood** — real *Santalum album* heartwood is scarce; cheap sticks are fragrance oil. See [sandalwood](/blog/sandalwood-incense/).
 - **Agarwood** — one of the most heavily adulterated materials on earth; dyed wood, oil-injected wood, and foreign woods are common. See [agarwood](/blog/agarwood-incense/).
 
-For both, the material-vs-fragrance distinction is not snobbery — it determines whether you are smelling the wood or a reconstruction of it.
+For both, the material-vs-fragrance distinction is not snobbery — it determines whether you are smelling the wood or a reconstruction of it. The distinction also plays out at the **form** level: a visible, resin-veined chip is harder to fake than a uniform powder, so the material-vs-fragrance question changes shape depending on whether you are buying [agarwood powder or chips](/blog/agarwood-powder-vs-chips/), and on [powder vs whole chips](/blog/incense-powder-vs-wood-chips/) more generally.
 
 ---
 
