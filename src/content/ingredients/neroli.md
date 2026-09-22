@@ -78,7 +78,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **How is neroli used in incense and fragrance?** As a white-floral/citrus heart note, usually from neroli essential oil or absolute. It is a modern perfumery and aromatherapy material, not a classical 香材, and it lends a soft, luminous citrus-floral lift to modern blends.
 
-See also: [bergamot (佛手柑)](/ingredients/bergamot/), [orange-peel (陈皮)](/ingredients/orange-peel/), [jasmine](/ingredients/jasmine/), and the full [scent guide](/blog/scent-guide/).
+See also: [bergamot (佛手柑)](/ingredients/bergamot/), [orange-peel (陈皮)](/ingredients/orange-peel/), [jasmine](/ingredients/jasmine/), [ylang-ylang](/ingredients/ylang-ylang/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

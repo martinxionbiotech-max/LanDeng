@@ -78,7 +78,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **What is the botanical name for 含笑花?** *Michelia figo*, now often treated as *Magnolia figo* in the magnolia family (Magnoliaceae). Taxonomy has moved the species between *Michelia* and *Magnolia*, so both names appear. The flower — small, cream-yellow, partway-open — is the part used for fragrance.
 
-See also: [champaca](/ingredients/champaca/), [yulan-magnolia](/ingredients/yulan-magnolia/), and the full [scent guide](/blog/scent-guide/).
+See also: [champaca](/ingredients/champaca/), [yulan-magnolia](/ingredients/yulan-magnolia/), [aglaia](/ingredients/aglaia/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

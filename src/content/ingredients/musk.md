@@ -73,7 +73,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Why is this page a "historical reference only"?** Because genuine natural musk is an animal product from CITES-listed musk deer, and sourcing it today raises conservation and legal problems. The page therefore documents musk as a matter of historical and connoisseurship context — what it was, how it was used, and why it mattered — rather than as a material to buy. This is a transparency choice, not a judgment on historical practice.
 
-See also: [ambergris](/ingredients/ambergris/), [sandalwood](/ingredients/sandalwood/), the [Huarui Furen court incense recipe](/blog/huarui-furen-yamen-recipe/), and the full [scent guide](/blog/scent-guide/).
+See also: [ambergris](/ingredients/ambergris/), [sandalwood](/ingredients/sandalwood/), the [Huarui Furen court incense recipe](/blog/huarui-furen-yamen-recipe/), [castoreum](/ingredients/castoreum/), [onycha](/ingredients/onycha/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

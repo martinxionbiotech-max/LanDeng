@@ -209,7 +209,7 @@ Osmanthus (桂花) is the small golden flower of *Osmanthus fragrans*, an olive-
 
 **Is osmanthus the same as bay leaf (月桂叶)?** No. Osmanthus (桂花) is *Osmanthus fragrans* (Oleaceae), a sweet apricot-honey flower, while bay leaf (月桂叶) is *Laurus nobilis* (Lauraceae), a Mediterranean herbal leaf. The confusion comes from the shared 桂 character — and from the fact that in classical Chinese, 月桂 usually means the osmanthus, not the bay laurel. They are unrelated plants, and each has its own entry here. See [bay-leaf](/ingredients/bay-leaf/).
 
-See also: [jasmine](/ingredients/jasmine/), [rose](/ingredients/rose/), [bay-leaf](/ingredients/bay-leaf/), and the full [scent guide](/blog/scent-guide/).
+See also: [jasmine](/ingredients/jasmine/), [rose](/ingredients/rose/), [bay-leaf](/ingredients/bay-leaf/), [orchid](/ingredients/orchid/), [silk tree flower](/ingredients/silk-tree/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

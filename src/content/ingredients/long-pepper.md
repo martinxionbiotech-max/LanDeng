@@ -70,7 +70,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Where does long pepper come from?** From *Piper longum*, a climbing vine native to South and Southeast Asia — India, the Himalayan foothills, and parts of Southeast Asia — now cultivated across the tropics. The dried, immature fruit spike is the part used, and the spice has been traded for centuries, predating black pepper in many traditions.
 
-See also: [cubeb](/ingredients/cubeb/), [clove](/ingredients/clove/), and the full [scent guide](/blog/scent-guide/).
+See also: [cubeb](/ingredients/cubeb/), [clove](/ingredients/clove/), [sichuan pepper](/ingredients/prickly-ash/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

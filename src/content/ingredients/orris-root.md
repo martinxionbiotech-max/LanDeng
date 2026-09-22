@@ -180,7 +180,7 @@ Orris root (鸢尾根, *yuānwěi gēn*) is the dried, aged rhizome of European 
 
 **How is orris root used?** In perfumery, orris root is used as a fixative and for its powdery violet note, typically as ground root, orris butter (a concrete), or orris absolute. In modern incense it appears as a fixative and softening note in contemporary blends. Because the scent is subtle and developed by aging, it is usually blended to support and smooth a composition rather than burned alone.
 
-See also: [vetiver](/ingredients/vetiver/), [sandalwood](/ingredients/sandalwood/), and the full [scent guide](/blog/scent-guide/).
+See also: [vetiver](/ingredients/vetiver/), [sandalwood](/ingredients/sandalwood/), [lily of the valley](/ingredients/lily-of-the-valley/), [violet](/ingredients/violet/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

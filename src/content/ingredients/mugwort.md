@@ -185,7 +185,7 @@ Mugwort (艾草) is a bitter-green, camphoraceous herb in the *Artemisia* genus,
 
 **Is mugwort safe to burn?** Like all burning plant material, mugwort produces smoke and particulate matter when burned, so it should be treated with the same care as any incense. Burn it in a well-ventilated space, avoid inhaling concentrated smoke, and keep it away from children and pets. The smoke can irritate the eyes and airways, especially in poorly ventilated rooms or for anyone sensitive to airborne particles. This is general incense-safety guidance, not a claim about any specific hazard of mugwort. Mugwort is not the same as moxibustion, a separate medical practice that burns the herb near the body and carries its own risks.
 
-See also: [sweet wormwood (青蒿)](/ingredients/artemisia-annua/), [tarragon (龙蒿)](/ingredients/tarragon/), [what Chinese incense is](/blog/what-is-chinese-incense/), and the full [scent guide](/blog/scent-guide/).
+See also: [sweet wormwood (青蒿)](/ingredients/artemisia-annua/), [tarragon (龙蒿)](/ingredients/tarragon/), [what Chinese incense is](/blog/what-is-chinese-incense/), [rue](/ingredients/rue/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 

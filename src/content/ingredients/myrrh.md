@@ -174,7 +174,7 @@ Myrrh (没药) is the bitter-balsamic gum-resin of *Commiphora* trees, harvested
 
 **What is the difference between myrrh and opopanax?** Both are resins from *Commiphora* trees, but they are distinct materials with different scent profiles. Opopanax, sometimes called "sweet myrrh," has a sweeter, more balsamic-sweet and slightly powdery character, while myrrh proper is more bitter, earthy, and medicinal. The two come from different *Commiphora* species, and they play different roles in perfumery: opopanax leans sweet and ambery, while myrrh leans dark and resinous. Because both are called myrrh in some older texts, the terms are easy to confuse, but in a modern incense or perfume context they are treated as related yet separate resins.
 
-See also: [frankincense, myrrh's classical partner](/ingredients/frankincense/), the [frankincense incense guide](/blog/frankincense-incense/), and the full [scent guide](/blog/scent-guide/).
+See also: [frankincense, myrrh's classical partner](/ingredients/frankincense/), the [frankincense incense guide](/blog/frankincense-incense/), [mastic](/ingredients/mastic/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 
