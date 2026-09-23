@@ -28,9 +28,13 @@ related: ["civet", "musk"]
 
 ## Aroma profile
 
-Castoreum is animalic and leathery, smoky and sweet, with a rich, musky-tobacco character — a deep, warm, "animal" note used in Western perfumery to add warmth and a leather-like tenacity to a fragrance. It is a fixative, not a lead scent: it anchors and deepens other notes rather than standing on its own. Its historical value was that warm, leathery base, now reproduced synthetically.
+> **Direct answer:** Castoreum is animalic and leathery, smoky and sweet, with a rich, musky-tobacco character — a deep, warm, "animal" note used in Western perfumery to add warmth and leather-like tenacity. It is a fixative, not a lead scent: it anchors and deepens other notes rather than standing on its own.
+
+Castoreum is animalic and leathery, smoky and sweet, with a rich, musky-tobacco character — a deep, warm, "animal" note used in Western perfumery to add warmth and a leather-like tenacity to a fragrance. It is a fixative, not a lead scent: it anchors and deepens other notes rather than standing on its own. Its historical value was that warm, leathery base, now reproduced synthetically. The smoky-leathery character is its signature — of the three animal fixatives, castoreum is the one that reads most "tobacco and birch-tar," which is why it anchored leather accords in Western perfumery.
 
 ## Historical context only, and a protection caveat (read this)
+
+> **Direct answer:** 海狸香 must be framed precisely: it is Western classical, not Chinese (absent from the Ming-dynasty *Xiangcheng* and the Chinese incense tradition); it was used historically as a fixative, not a contemporary material; the Eurasian beaver *Castor fiber* is legally protected across much of Europe and Asia; and virtually all modern "castoreum" is a synthetic reconstruction.
 
 海狸香 must be framed precisely:
 
@@ -41,9 +45,59 @@ Castoreum is animalic and leathery, smoky and sweet, with a rich, musky-tobacco 
 
 **This page describes 海狸香 = castoreum as historical context only.** It is documented for what it was, not recommended as a material, and we state the protection and synthetic-replacement facts plainly.
 
-## Source and origin
+## Source identity
 
-Castoreum is a secretion from the castor sacs of beavers — the Eurasian beaver *Castor fiber* and the North American beaver *Castor canadensis* — used by the animals for scent-marking. In Western perfumery it was historically obtained by harvesting the sacs, a practice now largely obsolete given the beaver's protected status and the availability of synthetic substitutes. Its aromatic character — animalic, leathery, smoky, sweet — is what modern perfumers reproduce synthetically.
+> **Direct answer:** Castoreum is an animal secretion, not a plant — from the castor sacs of beavers, the Eurasian beaver *Castor fiber* and the North American beaver *Castor canadensis*, used by the animals for scent-marking. It is animal-derived, which frames everything downstream: the protection status and the synthetic replacement.
+
+Castoreum is a secretion from the castor sacs of beavers — the Eurasian beaver *Castor fiber* and the North American beaver *Castor canadensis* — used by the animals for scent-marking. In Western perfumery it was historically obtained by harvesting the sacs, a practice now largely obsolete given the beaver's protected status and the availability of synthetic substitutes. See [Castor fiber on GBIF](https://www.gbif.org/species/4409131). Its aromatic character — animalic, leathery, smoky, sweet — is what modern perfumers reproduce synthetically. This is a zoological origin fact, distinct from the botanical materials that dominate this encyclopedia, and it is the reason the protection and substitution points are central rather than peripheral.
+
+## Chinese name and terminology
+
+> **Direct answer:** 海狸香 means "beaver scent" (海狸 = beaver, 香 = fragrance) — a modern descriptive Chinese term, not a classical ingredient name. Unlike musk (麝香) and civet (灵猫香), which have genuine classical Chinese standing, castoreum's Chinese name is a modern coinage for a Western material.
+
+The name 海狸香 (hǎilíxiāng) is a modern, descriptive coinage — 海狸 "beaver" + 香 "fragrance" — naming a Western material that has no classical Chinese standing. This is a meaningful contrast within the animal-fixative trio: musk (麝香) and civet (灵猫香) are genuine classical Chinese terms with materia-medica records, while 海狸香 is a modern translation applied to a European perfumery ingredient. The name itself encodes the material's status: it is an *imported* concept, named descriptively in modern Chinese, not a term inherited from the classical 香材 canon.
+
+## The animal-musk family (read this)
+
+> **Direct answer:** Castoreum is one of three classical animal fixatives — musk (麝香), civet (灵猫香), and castoreum (海狸香). All are animal secretions with warm, animalic fixative power; all are now replaced by synthetics; but they differ in origin and character — and crucially, castoreum is the only one with no Chinese incense pedigree. It is the smokiest and most leathery of the three.
+
+Castoreum completes the animal-fixative trio, but with a crucial difference:
+
+- **麝香 (musk)** — *Moschus* deer pod secretion; warm, sweet, skin-like; the Chinese court's animal accent. See [musk](/ingredients/musk/).
+- **灵猫香 (civet)** — *Viverra*/civet gland secretion; sharp, fecal-animalic; CITES Appendix III. See [civet](/ingredients/civet/).
+- **海狸香 (castoreum)** — *Castor* beaver castor sac secretion; smoky, leathery; Western classical, **not** Chinese. This entry.
+
+The three share an animalic fixative register, but castoreum stands apart in two ways: it is the smokiest and most leathery in character, and it is the *only* one of the three with no Chinese incense pedigree — a Western material whose Chinese name is a modern coinage. This distinction matters for the encyclopedia's honesty about provenance: "animal fixative" is a family, but the three members do not all belong to the Chinese tradition.
+
+## Where does castoreum come from?
+
+> **Direct answer:** Castoreum comes from the castor sacs of beavers — the Eurasian beaver *Castor fiber* across Europe and northern Asia, and the North American beaver *Castor canadensis* across North America. The Eurasian beaver is legally protected in much of its range, which is why the animal material is no longer legitimately harvested.
+
+The source is the beaver, in two species across two continents: the Eurasian beaver *Castor fiber* and the North American beaver *Castor canadensis*. The castor sacs — scent glands near the base of the tail — were the historical source, harvested from the animals. The Eurasian beaver's protected status across much of Europe and Asia (with conservation status ranging from Near Threatened to Critically Endangered in some subspecies) is the reason the animal material is no longer a legitimate harvest, and the synthetic reconstruction has replaced it.
+
+## Why was it used in perfumery? (historical)
+
+> **Direct answer:** Castoreum was used in Western classical perfumery as a fixative — its warm, leathery, smoky base anchored and deepened fragrances, especially leather accords. It is a Western tradition with no Chinese incense counterpart; its role is historical, and its function is now reproduced synthetically.
+
+Castoreum's historical role is the Western fixative's role: its warm, leathery, smoky base anchored and deepened fragrances, giving tenacity and a leather-like warmth — which is why it was a cornerstone of classical leather accords in European perfumery. It has no Chinese incense counterpart; the Chinese tradition's animal fixatives were musk (and, secondarily, civet), not beaver. This is a *Western* perfumery history, and it is documented here strictly as context, not as a Chinese incense role. See [how incense is made](/blog/how-incense-is-made/) for the Chinese materials that do carry the burning canon.
+
+## How was it processed? (historical)
+
+> **Direct answer:** Historically, castoreum was obtained by harvesting and drying the beaver's castor sacs, then using the secretion as a fixative or tincture. This is a historical process now obsolete — the beaver is protected and the scent is reproduced synthetically — so no modern processing applies.
+
+The historical processing was the harvest-and-dry of the castor sacs: the secretion was collected from the animals and used as a fixative, or tinctured for perfumery. This process is now obsolete for two reasons — the beaver's protected status and the availability of synthetic reconstruction — so there is no legitimate modern processing to describe. The page records the historical process only to explain what castoreum *was*, not to recommend any contemporary practice.
+
+## Common forms (historical reference)
+
+> **Direct answer:** Historically, castoreum was traded as the dried castor sac or as a tincture. In modern practice, "castoreum" is a synthetic reconstruction of the animalic-leathery scent — a different material in a different form.
+
+| Form | Description |
+|---|---|
+| Dried castor sac | The historical raw trade unit |
+| Castoreum tincture | Diluted in alcohol, historical perfumery form |
+| Synthetic castoreum | A modern reconstruction of the leathery-smoky scent |
+
+The first two are historical animal forms; the last is the modern material that replaced them. For a contemporary buyer, "castoreum" means the synthetic.
 
 ## In Western tradition (historical)
 
@@ -53,9 +107,17 @@ Castoreum is a secretion from the castor sacs of beavers — the Eurasian beaver
 
 ## Traditional use vs modern evidence
 
-The historical Western perfumery use is documented. We make **no medical claims**, and we explicitly note that castoreum is historical context only, not a recommended material, given the beaver's protected status.
+> **Direct answer:** The historical Western perfumery use is documented. No medical claims are made, and the page explicitly notes castoreum is historical context only, not a recommended material, given the beaver's protected status.
 
-## Quality and sourcing notes
+- **Traditional Use** — none in the Chinese tradition; castoreum's standing is Western classical perfumery (historical only).
+- **Historical Record** — castoreum as a Western classical perfumery fixative, historically harvested and now replaced by synthetic reconstruction; absent from the Chinese incense tradition and the 香乘.
+- **Scientific Evidence** — the animal source (*Castor fiber*, *Castor canadensis*) is established; the Eurasian beaver's protected status is documented. No clinical or medical efficacy claims are presented.
+
+The historical Western perfumery use is documented; no medical claims are made, and the page states plainly that castoreum is historical context only.
+
+## Conservation and sourcing notes
+
+> **Direct answer:** Castoreum is a historical Western perfumery fixative — not a Chinese incense material and not recommended today. Modern "castoreum" is almost entirely synthetic; the Eurasian beaver *Castor fiber* is a protected species in much of its range, so legitimate modern fragrance uses the synthetic, not the animal material.
 
 Practical points for buyers:
 
@@ -63,9 +125,27 @@ Practical points for buyers:
 - Modern "castoreum" is almost entirely a synthetic reconstruction of the animalic-leathery scent, not the animal secretion.
 - The Eurasian beaver *Castor fiber* is a protected species in much of its range; legitimate modern fragrance uses the synthetic, not the animal material.
 
+The ethical and legal point is straightforward: the animal source is protected, so the *only* legitimate modern "castoreum" is the synthetic. Unlike musk and civet, which are CITES-listed, the beaver's protection is national and regional (rather than CITES), but the practical consequence for a buyer is the same — the animal material is not a legitimate contemporary option. See [natural vs synthetic incense](/blog/natural-vs-synthetic-incense/) for how this substitution logic applies across the material families.
+
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice.
+
+## Our Industry View
+
+> **Direct answer:** Castoreum is the "imported outsider" of the animal-fixative trio — a Western leather fixative with no Chinese incense pedigree, whose Chinese name is a modern coinage, and whose animal source is protected by national/regional law rather than CITES. Its lesson is a provenance discipline: not every "classical" fixative belongs to the Chinese canon, and the responsible framing is to name the tradition accurately.
+
+From a sourcing and editorial perspective, castoreum adds a distinct lesson to the animal-fixative family. Three points follow:
+
+- **Not all animal fixatives are Chinese.** Musk (麝香) and civet (灵猫香) have genuine classical Chinese standing; castoreum does not — it is a Western leather fixative, and its Chinese name 海狸香 is a modern descriptive coinage. This is a provenance fact, not a minor detail: an encyclopedia claiming Chinese incense authority must say plainly which of its animal materials belong to the Chinese canon and which do not. Castoreum is the imported outsider.
+- **Protection takes different legal forms.** Where musk and civet are CITES-listed, the beaver's protection is national and regional — legally protected across much of Europe and Asia, with subspecies ranging to Critically Endangered. The legal instrument differs, but the buyer's conclusion is identical: the animal material is not a legitimate contemporary option, and the synthetic is the only responsible choice.
+- **The synthetic is the entire modern story.** "Castoreum" today is a synthetic reconstruction of a leathery-smoky accord — used, notably, in both fragrance and flavor. The buyer's check is not rarity but accuracy: confirm it is the synthetic, and do not accept a label implying animal origin.
+
+In our view, castoreum is best framed as the **Western, synthetic-only member of the animal-fixative family** — a material whose correct description includes three explicit statements: Western (not Chinese) provenance, protected animal source, and synthetic modern reality. The discipline it teaches is to name a material's tradition accurately rather than folding everything into a generic "animal fixative" category.
+
+## Summary
+
+Castoreum (海狸香, "beaver scent") is the historical scent secretion of beavers (*Castor fiber*, *Castor canadensis*), a Western classical perfumery fixative with a smoky, leathery, animalic character — the smokiest member of the animal-fixative trio, and the only one with no Chinese incense pedigree. The Eurasian beaver is legally protected across much of its range, so virtually all modern "castoreum" is a synthetic reconstruction. It is documented strictly as historical context, not as a material to source.
 
 ## FAQ
 
@@ -81,7 +161,9 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 **Is castoreum the same as musk or civet?** No, though all three are historical animal fixatives with warm, animalic depth. Castoreum comes from beavers, musk from the musk deer (*Moschus*), and civet from civets. Each has its own entry, and all three are now largely replaced by synthetic substitutes.
 
-See also: [civet](/ingredients/civet/), [musk](/ingredients/musk/), and the full [scent guide](/blog/scent-guide/).
+**How is castoreum different from musk and civet in the Chinese tradition?** It is the outsider. Musk (麝香) and civet (灵猫香) have genuine classical Chinese standing and materia-medica records, while castoreum (海狸香) is a Western leather fixative whose Chinese name is a modern coinage. The three are all animal fixatives, but only two belong to the Chinese incense canon.
+
+See also: [civet](/ingredients/civet/), [musk](/ingredients/musk/), [ambergris](/ingredients/ambergris/), [natural vs synthetic incense](/blog/natural-vs-synthetic-incense/), [how incense is made](/blog/how-incense-is-made/) and the full [scent guide](/blog/scent-guide/).
 
 ## Evidence & Sources
 
