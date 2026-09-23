@@ -28,9 +28,15 @@ related: ["citron", "finger-citron"]
 
 ## Aroma profile
 
+> **Direct answer:** 金橘 is citrus and sweet, with a bright, floral, slightly honeyed rind scent that is more delicate and less tart than an orange, and more food-like than the citron's reserved perfume. The fragrance lives in the thin, sweet rind — in the kumquat the rind is the eating part.
+
 金橘 is citrus and sweet, with a bright, floral, slightly honeyed rind scent that is more delicate and less tart than an orange, and more food-like than the citron's reserved perfume. The fragrance lives in the thin, sweet rind — in the kumquat the rind is the eating part, unlike most citrus where it is discarded. In a room it reads as a *clear, bright citrus-sweet*, experienced by proximity and evaporation rather than by burning.
 
+This is the kumquat's defining inversion: in most citrus, the rind is the fragrant-but-discarded wrapper and the pulp is the food; in the kumquat, the thin, sweet rind *is* the food, and the scant pulp is incidental. This inversion — rind as food, fragrance as the point — is what places the kumquat in the 清供 and room-fragrance tradition rather than the burned-incense canon.
+
 ## The 金橘 / citron relationship (read this)
+
+> **Direct answer:** 金橘 sits within the broader fragrant-citrus group but is its own fruit. The kumquat (*Citrus japonica*) is a small citrus eaten whole; the citron (香橼, *Citrus medica*) is the thick-rinded parent species; the finger citron (佛手, *Citrus medica* var. *sarcodactylis*) is the fingered variety. All are fragrant citrus, but distinct fruits.
 
 金橘 sits within the broader fragrant-citrus group but is its own fruit:
 
@@ -40,9 +46,49 @@ related: ["citron", "finger-citron"]
 
 The *Bencao Gangmu* (本草纲目), in its fruit section (果之二), records 金橘 with the alternative names 金柑 and 卢橘, explaining: "此橘生时青卢色，黄熟则如金，故有金橘、卢橘之名" — the fruit is green when young and turns gold when ripe, hence the names 金橘 ("golden orange") and 卢橘. **This page describes 金橘 = the kumquat**, a distinct small citrus, not the citron or finger citron.
 
+This grouping is the page's disambiguation anchor: the kumquat, citron, and finger citron are all fragrant citrus, but the kumquat is the *edible* one — the only member of the group whose rind is eaten whole — while the citron and finger citron are grown for fragrance and display, not for eating.
+
 ## Botanical source and origin
 
-*Citrus japonica* (long placed in its own genus as *Fortunella japonica*, now usually returned to *Citrus*) is a small evergreen citrus tree of the rue family, native to southern China and long cultivated across East and Southeast Asia. Its fruit is small, oval or round, with a thin, sweet, fragrant rind and little pulp, and it is eaten whole. Flora of China treats the kumquats within *Citrus*, recording *C. japonica*.
+> **Direct answer:** *Citrus japonica* (long placed in its own genus as *Fortunella japonica*, now usually returned to *Citrus*) is a small evergreen citrus tree of the rue family, native to southern China and long cultivated across East and Southeast Asia. Its fruit is small, oval or round, with a thin, sweet, fragrant rind and little pulp, and it is eaten whole.
+
+*Citrus japonica* (long placed in its own genus as *Fortunella japonica*, now usually returned to *Citrus*) is a small evergreen citrus tree of the rue family, native to southern China and long cultivated across East and Southeast Asia. Its fruit is small, oval or round, with a thin, sweet, fragrant rind and little pulp, and it is eaten whole. Flora of China treats the kumquats within *Citrus*, recording *C. japonica* (金柑) — with its extensive synonymy under *Fortunella*, *Atalantia*, and *Citrus × aurantium* — as the small-fruited, sweet-rinded citrus that defines the kumquat.
+
+## Chinese name and terminology
+
+> **Direct answer:** 金橘 (jīnjú) means "golden orange," and the *Bencao Gangmu* explains it directly: the fruit is green (青卢) when young and turns gold (如金) when ripe — hence 金橘 and its alternates 金柑 and 卢橘. The name records the fruit's color, not its species relationship to the citron.
+
+The name 金橘 is color-based and self-explanatory in the source text: 金 ("gold") + 橘 ("orange/tangerine"), recording the fruit's golden ripe color. The *Bencao Gangmu* glosses this explicitly — "此橘生时青卢色，黄熟则如金" (the fruit is green when young, gold when ripe) — and gives the alternates 金柑 (golden citrus) and 卢橘 (dark-green orange, from the young fruit's color). This is a descriptive, color-based name, and it does not imply a close relationship to the citron or finger citron — the three are distinct fruits that happen to share the fragrant-citrus group.
+
+## Why is it used — 清供 and room fragrance?
+
+> **Direct answer:** The kumquat is used as a 清供 (scholar's-table offering) and a room-fragrance fruit, displayed for its fragrance and its auspicious golden color rather than burned. It is also eaten whole — the sweet rind is the point. Its fragrance is one of presence and evaporation, not combustion.
+
+The kumquat's role is the 清供 role: it is displayed on the scholar's table and in the home for its fragrance and its auspicious golden color, especially around the New Year. The fragrance is experienced by *proximity and evaporation* — the oil-rich rind scents the air around the fruit — rather than by burning, which places the kumquat in the same "fragrance of presence" tradition as the citron and finger citron, not in the burned-incense canon. Its second role is culinary: uniquely among the fragrant citrus, the kumquat is eaten whole, the thin sweet rind being the point and the scant pulp incidental.
+
+## How is it processed?
+
+> **Direct answer:** The kumquat needs no processing for its fragrance — the fresh fruit scents a room by evaporation from its oil-rich rind. For eating, it is consumed whole, rind and all; for preservation, it may be candied or made into preserves. There is no distillation or combustion step in its traditional use.
+
+The kumquat needs no processing for its traditional fragrance role: the fresh fruit, with its thin, oil-rich rind, scents a room by simple evaporation, and the fruit is displayed as-is. For eating, it is consumed whole — the sweet rind is the point, the scant pulp incidental — and for preservation it may be candied, made into preserves, or steeped. There is no distillation or combustion step in its classical use: the kumquat's fragrance is a *presence*, released passively from the living fruit rather than extracted or burned.
+
+## What determines quality?
+
+> **Direct answer:** Kumquat quality turns on the freshness and fragrance of the rind. A good kumquat is bright, firm, and strongly sweet-citrus-floral on the rind, with an unbroken, glossy skin — the rind is the aromatic part, so its condition is the whole quality story.
+
+For a buyer, the practical checks are: **rind condition** (bright, firm, glossy, unbroken skin — the rind is the aromatic part), **fragrance** (a clear, sweet, floral, citrusy scent on the rind), and **freshness** (the fresh fruit is the aromatic form; a withered kumquat has lost both its fragrance and its display value). Because the rind carries the oil and the fruit is displayed whole, the rind's condition *is* the quality story — there is no extracted product to fall back on.
+
+## Common forms
+
+> **Direct answer:** The kumquat is used fresh (whole fruit, for 清供 and room fragrance), eaten whole (rind and all), and preserved (candied or in preserves). There is no extracted oil form in its classical use — the fresh fruit is the material.
+
+| Form | Typical use |
+|---|---|
+| Fresh whole fruit | 清供 offering and room fragrance |
+| Eaten whole | The sweet rind is the eating part |
+| Candied / preserved | Culinary preservation |
+
+The fresh fruit is the reference form; candied and preserved forms are culinary, not fragrance, uses.
 
 ## In Chinese tradition
 
@@ -52,7 +98,13 @@ The *Bencao Gangmu* (本草纲目), in its fruit section (果之二), records �
 
 ## Traditional use vs modern evidence
 
-The 清供, culinary, and room-fragrance use is well documented. We make **no medical claims**. The documented, non-medical facts are botanical identity, the Rutaceae placement, and the fragrant offering-fruit use.
+> **Direct answer:** The 清供, culinary, and room-fragrance use of the kumquat is well documented, and its botanical identity is established. No medical claim is made. The page's core factual point is the *Bencao Gangmu* name record and the kumquat's place as the edible member of the fragrant-citrus group.
+
+- **Traditional Use** — 金橘 as a 清供 offering fruit, an edible citrus, and a room-fragrance fruit.
+- **Historical Record** — the *Bencao Gangmu* (果之二) records 金橘 with the names 金柑 and 卢橘, explaining the gold-color naming.
+- **Scientific Evidence** — the botanical identity (*Citrus japonica*, Rutaceae) is established. No clinical or medical efficacy claims are presented.
+
+The 清供, culinary, and room-fragrance use is well documented. We make **no medical claims**. The documented, non-medical facts are botanical identity, the Rutaceae placement, and the fragrant offering-fruit use — plus the kumquat's distinctive edible-rind inversion.
 
 ## Quality and sourcing notes
 
@@ -61,10 +113,36 @@ Practical points for buyers:
 - 金橘 is the kumquat (*Citrus japonica*, syn. *Fortunella japonica*); expect a bright, sweet, floral, citrus rind scent — the rind is the eating part.
 - It is a 清供 offering fruit and edible citrus, not a burned incense material, and not a 香乘 ingredient.
 - Distinguish it from the citron (香橼, *Citrus medica*) and finger citron (佛手) — related fragrant citrus, different fruits, each with its own entry.
+- The fresh fruit is the material; rind condition and freshness are the whole quality story.
 
-## Safety
+## Kumquat vs citron vs finger citron
 
-Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice.
+> **Direct answer:** The kumquat, citron, and finger citron are three fragrant citrus with different uses. The kumquat (*Citrus japonica*) is a small citrus eaten whole, rind and all; the citron (香橼, *Citrus medica*) is the thick-rinded parent species; the finger citron (佛手) is its fingered variety. Only the kumquat is eaten whole.
+
+| | Kumquat (金橘) | Citron (香橼) | Finger citron (佛手) |
+|---|---|---|---|
+| Botanical source | *Citrus japonica* | *Citrus medica* | *Citrus medica* var. *sarcodactylis* |
+| Fruit | Small, thin sweet rind | Thick rind, little pulp | Fingered, fragrant |
+| Eaten? | Yes, whole (rind is the point) | Grown for fragrance, not eating | Grown for fragrance, not eating |
+| Classical role | 清供 + edible citrus | 清供 + room fragrance | 清供 offering fruit |
+
+The three are distinct fruits: the kumquat is the edible one, the citron and finger citron the fragrant-display ones. See [citron](/ingredients/citron/), [finger-citron](/ingredients/finger-citron/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
+
+## Our Industry View
+
+> **Direct answer:** Kumquat is an "edible-fragrance inversion" case — in most citrus the rind is the discarded wrapper and the pulp is the food, but in the kumquat the thin, sweet rind *is* the food. This inversion places the kumquat in the 清供 "fragrance of presence" tradition, alongside the citron and finger citron, rather than in the burned-incense canon.
+
+From a sourcing and editorial perspective, the kumquat is most interesting for the inversion it performs on the citrus category. Three points follow:
+
+- **The rind-as-food inversion is the kumquat's whole identity.** In an orange or lemon, the fragrant rind is discarded and the pulp eaten; in the kumquat, the thin, sweet rind is eaten whole and the scant pulp is incidental. This is not a trivial curiosity — it means the kumquat's fragrance and its food value are the *same part*, which is why it sits so naturally in the 清供 tradition, where a fruit is displayed and smelled for its presence.
+- **"Fragrance of presence" is a distinct mode, and the citrus family shows it clearly.** The kumquat, citron, and finger citron are all experienced by proximity and evaporation — the fruit sits on a table and scents the room — rather than by combustion. This is a genuinely different fragrance model from the burned 香材, and it is the model the whole 清供 group shares. See the [quince](/ingredients/quince/) entry for the same distinction.
+- **The *Bencao Gangmu* name gloss is a source-quality model.** The text does not merely list 金橘; it explains the name from the fruit's color ("黄熟则如金"). This is exactly the kind of in-source explanation a knowledge resource should preserve, because it converts a name from a label into a documented fact.
+
+In our view, the kumquat is best understood as the **edible-fragrance inversion of the citrus family** — a small citrus whose sweet rind is both its food and its perfume, and whose place is in the 清供 "fragrance of presence" tradition rather than in the burned-incense canon.
+
+## Summary
+
+金橘 (jīnjú), the kumquat, is *Citrus japonica* (formerly *Fortunella japonica*), a small-fruited citrus of the rue family (Rutaceae) native to southern China. It is unique among the fragrant citrus for being eaten whole — the thin, sweet, fragrant rind is the food and the scant pulp incidental. It is a 清供 offering and room-fragrance fruit, scented by presence and evaporation rather than burned, and the *Bencao Gangmu* records its "golden orange" name from the fruit's ripe color.
 
 ## FAQ
 
