@@ -198,3 +198,39 @@ Next phase (after this baseline is reviewed): P0 repairs first (§63 — audit �
 | 2026-09-25 | `src/content/blog/floral-aroma-family.md` (new) | G09 family page — floral (4 members); definition/chemistry/representatives + natural-vs-reconstructed honesty point; links hub + entity pages | G09: flagship aroma family | None (new URL) | 1,535 words; Direct answer blocks; 11 internal links; §51 gate passed | `git revert` |
 
 **§53 gate compliance:** 6 new pages this batch (2 comparison + 1 hub + 3 family pages). All are graph-surfacing, not keyword-filler articles. Zero fabrication: chemistry named only where already published on entity pages; representative entities drawn from `aroma.json` membership; 0 new domains (data-site links only).
+
+---
+
+## 2026-09-25 — P2 OG / Image / Freshness batch (phase2/P2)
+
+### §43 — Open Graph / Twitter card audit + template fixes
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `docs/schema-audit.md` (supplement) | Added §43 rendered-layer OG/Twitter coverage scan (268 pages) + 3 findings F6/F7/F8 | §43 requires an OG/Twitter metadata audit | None (doc only) | `dist/` walk over all 268 HTML pages, per-tag presence | `git revert` |
+| 2026-09-25 | `src/layouts/BaseLayout.astro` | Fixed `og:image` double-slash URL (`new URL(…, SITE)` instead of `` `${SITE}/` ``); added `twitter:image` | F6 (double-slash share image) + F7 (`summary_large_image` card lacked `twitter:image`) | None (no new image — reuses site-default `og-image-…jpg`) | Rendered `og:image`/`twitter:image` now single clean URL; 0 missing tags on 268 pages | `git revert` |
+| 2026-09-25 | `src/pages/blog/[slug].astro` | Stripped HTML tags before deriving meta description | F8: 9 image-first blog posts had a description that began with the literal `<img>` tag | None (description generation only; no URL/content change) | 9/9 descriptions now start with prose; 0 `<img` prefixes in `dist/` | `git revert` |
+
+### §44/§45 — Image recompression + lazy-loading audit
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `public/images/scent-wheel-fragrance-families-800x800.webp` (new), `…800x800.png` (removed) | Lossy re-encode PNG → WebP q90 (698.6 KB → 36.4 KB, −94.8%) | §44/§45: 715 KB PNG chart was the largest single asset | None (visually identical chart; WebP is the site's dominant format) | `sharp` dimensions 800×800 preserved; rendered `<img>` + ImageObject updated | `git revert` |
+| 2026-09-25 | `public/images/burn-time-matrix-chart-800x600.webp` (new), `…800x600.png` (removed) | Lossy re-encode PNG → WebP q90 (353.2 KB → 7.7 KB, −97.8%) | §44/§45: second >300 KB asset | None | `sharp` 800×600 preserved; refs updated | `git revert` |
+| 2026-09-25 | `src/content/blog/scent-guide.md`, `incense-burn-time-format-matrix.md` | Updated `<img src>` `.png` → `.webp` (both already carry `loading="lazy"` + `width`/`height` + `alt`) | Keep refs aligned with re-encoded assets | None (ImageObject schema auto-derives from body) | `dist/` `<img>` + `ImageObject.url` both `.webp`; 0 stale `.png` refs | `git revert` |
+| 2026-09-25 | `docs/IMAGE-MANIFEST.md`, `docs/IMAGE-PROMPTS.md` | Updated 2 chart filenames `.png` → `.webp` + format-rule note | Filenames are the wiring contract | None (doc only) | grep: no stale `.png` chart references | `git revert` |
+| 2026-09-25 | `docs/phase2-baseline.md` (G17 supplement) | Recorded image before/after (6.61 MB → 5.62 MB, −14.9%; 0 PNG remain) + lazy-loading result (190/191 content imgs lazy) | §44/§45 require before/after recording | None (doc only) | Programmatic `public/images/` weight + `dist/` `<img>` attribute walk | `git revert` |
+
+### §50 — Content freshness policy (governance doc)
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `docs/content-freshness-policy.md` (new) | Governance policy: review cadence (T1 90d / T2 180d / T3 as-needed), the 6 §50 update triggers, a per-page review checklist, and logging rules. No content date changed | §50 requires a freshness/update policy | None (doc only) | Policy references tier split in `entity-inventory.md`; documents current state (108/108 blog have `last_reviewed`, 0/150 ingredients) | `git revert` |
+
+### Batch summary
+
+| Workstream | Result | Code change |
+|---|---|---|
+| §43 OG/Twitter audit | 3 defects fixed (og:image double-slash, missing twitter:image, malformed description ×9) | BaseLayout + blog `[slug].astro` |
+| §44/§45 images | 2 PNG charts → WebP (−95.9% combined); 6.61→5.62 MB; lazy-loading verified clean (hero LCP correctly eager) | 2 `.webp` added, 2 `.png` removed, 2 `.md` refs |
+| §50 freshness | Policy doc written; no date changes | none (doc) |
