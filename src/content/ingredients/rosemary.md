@@ -131,6 +131,8 @@ For an incense maker or sourcing buyer:
 - **Form** — whole leaf, crushed, powder, or oil; each behaves differently in a blend.
 - **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
 
+See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
+
 ## Our Industry View
 
 > **Direct answer:** Rosemary's commercial interest is as a clean, widely available herbal top note, but its real lesson is provenance: it is a documented third-century Western import, not a 香道 heritage material. Its dual scientific name is a labeling detail, and the honest framing — modern crossover, not classical canon — should guide both content and buying.

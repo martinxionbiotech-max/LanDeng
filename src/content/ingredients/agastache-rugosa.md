@@ -134,6 +134,8 @@ For an incense maker or sourcing buyer:
 - **Cleanliness** — freedom from stems and foreign material.
 - **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
 
+See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
+
 ## Our Industry View
 
 > **Direct answer:** The commercial issue with 藿香 is not quality but identity: the name covers two unrelated-scented plants, so the first requirement is a named species. After that, agastache behaves as a fresh, abundant top-note herb — buy it for freshness and consistency, not rarity.

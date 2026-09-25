@@ -149,9 +149,11 @@ For an incense maker or sourcing buyer:
 - **Form** — crystal, powder, or synthetic.
 - **Aroma** — clean, cooling, camphoraceous, with no solvent off-notes.
 
+See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
+
 ## Safety
 
-Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Borneol is potent — it should be used sparingly and is not for consumption. This is editorial knowledge content, not medical advice.
+Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Borneol is potent — it should be used sparingly and is not for consumption. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
 ## Our Industry View
 

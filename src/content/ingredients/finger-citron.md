@@ -135,9 +135,11 @@ For a buyer or sourcing reader:
 
 Because the finger citron is a display fruit whose value is evaporation, the buyer is effectively specifying **fragrant, fresh, intact rind** — and the naming trap (佛手 vs 佛手柑) is the main disambiguation risk.
 
+See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
+
 ## Safety
 
-Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice.
+Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
 ## Our Industry View
 

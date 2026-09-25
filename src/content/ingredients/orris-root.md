@@ -148,9 +148,11 @@ For a perfumery or incense buyer:
 - **Aroma** — powdery, dry, violet-like.
 - **Form** — ground root, butter (concrete), or absolute; they are not interchangeable.
 
+See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
+
 ## Safety
 
-Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Orris root is a fragrance material, not a food or medicine. This is editorial knowledge content, not medical advice.
+Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Orris root is a fragrance material, not a food or medicine. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
 ## Our Industry View
 

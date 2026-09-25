@@ -139,9 +139,11 @@ For an incense maker or sourcing buyer:
 - **Aroma** — a strong, clean sweet-anise scent; the primary quality indicator.
 - **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
 
+See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
+
 ## Safety
 
-Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice.
+Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
 ## Our Industry View
 

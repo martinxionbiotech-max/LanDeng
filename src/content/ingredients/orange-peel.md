@@ -172,9 +172,11 @@ For a cooking, tea, or blending buyer:
 - **Aroma** — a warm, mellow, bittersweet-citrus character with no mustiness.
 - **Form and condition** — clean, intact whole pieces for cooking and tea.
 
+See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
+
 ## Safety
 
-Chenpi is food-grade and widely used in cooking/tea; however, incense combustion produces smoke and particulate matter — burn in a well-ventilated space.
+Chenpi is food-grade and widely used in cooking/tea; however, incense combustion produces smoke and particulate matter — burn in a well-ventilated space. See our [safety guide](/safety/).
 
 ## Our Industry View
 

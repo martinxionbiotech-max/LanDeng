@@ -125,6 +125,18 @@ The two are complements in the historical fixative palette, not substitutes — 
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Note that most "musk" in modern incense is synthetic, which is a sourcing and animal-welfare matter, not a safety claim. This is editorial knowledge content, not medical advice.
 
+## What buyers should look for
+
+> **Direct answer:** The buyer's check for "musk" is provenance honesty, not rarity: confirm the *actual material* — which synthetic musk or botanical substitute — and treat the scent name as a descriptor, never a claim of animal origin.
+
+For a fragrance or incense buyer, the checks are:
+
+- **Actual material** — confirm whether the "musk" is a synthetic (musk ketone, galaxolide, and related compounds) or a botanical substitute such as ambrette seed; the label names a scent family, not an animal source.
+- **No implied animal origin** — a responsible supplier should never imply animal source; genuine natural musk is CITES-restricted.
+- **Consistency** — for a repeatable product, confirm the specific compound and batch, since "musk" spans many different materials.
+
+See the [wholesale guide](/blog/wholesale-guide/) for sourcing the synthetic or botanical musk substitutes used in modern incense.
+
 ## Our Industry View
 
 > **Direct answer:** The defining fact about musk today is the fixative paradox — the most expensive, most restricted material is used in the smallest dose, precisely because its job is structural, not aromatic. The name "musk" now denotes a synthetic scent family divorced from the animal, which makes provenance honesty, not rarity, the real commercial issue.
