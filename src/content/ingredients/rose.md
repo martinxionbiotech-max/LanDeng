@@ -9,7 +9,7 @@ primary_keyword: "what is chinese rose"
 search_intent: informational
 aroma: ["sweet", "floral", "romantic"]
 status: published
-related: ["jasmine"]
+related: ["jasmine", "osmanthus"]
 ---
 
 **Direct answer:** Rose — *méiguī* (玫瑰, also 玫瑰花 *méiguīhuā*) in Chinese — is a sweet-scented flower, most classically the Chinese rose *Rosa rugosa*, used in tea, perfume, incense, and traditional materia medica.

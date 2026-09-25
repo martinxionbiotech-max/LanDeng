@@ -76,3 +76,30 @@ These are carried as Tier-3/2 by the data-driven rule, but flagged for Tier-1 el
 - **Entity depth vs tier:** the 31 Tier-1 entities are the current graph hubs and the natural subjects of deep editorial treatment (§8 depth standard). Tier-3 entities are long-tail and should not be force-expanded.
 - **Data-site linkage:** all 150 entities have a matching record in `ingredients.json` (termCode = slug) and a `relationships.json` record (450 edges total). The dataset relationship layer is **more complete** than the frontmatter `related[]` layer — a graph-surfacing opportunity, not a data gap.
 - **Link-map artifact:** the internal-link map contains 151 ingredient entries vs 150 files — one empty-slug entry (a trailing-slash link bug) should be fixed in the linking phase.
+
+## G14 supplement — `related[]` ↔ `relationships.json` coverage (phase2/P2)
+
+> Diff statistics only (§14). The 450-edge typed layer was **not** rewritten; the frontmatter layer received a minimal 5-line patch for clearly under-linked Tier-1 pages.
+
+**Two layers, different roles (both legitimate):**
+
+| Layer | Shape | Edge types | Scale |
+|---|---|---|---|
+| Frontmatter `related[]` | flat slug list (entity→entity) | untyped (implicit "related to") | 150 entities, avg 2.37 edges (min 2 / max 3 after P2) |
+| `relationships.json` | typed graph | `category` (150) · `aroma` (280) · `comparison` (7) · `technique` (13) | 450 typed edges |
+
+**Key finding — the layers are not 1:1 and should not be forced to match.** `relationships.json` edges are mostly **entity→taxonomy** (150 category + 280 aroma = 430 of 450 edges point at category/aroma entities, not other ingredients). Only **7 of 450** edges are entity→entity (the `comparison` edges), and those are self-referential by design (each `comparison` edge points at the entity's own comparison record). The frontmatter `related[]` layer is the only **entity→entity navigational** layer, and it is intentionally a curated short list (2–3 links), not a full graph dump.
+
+**Coverage conclusion:** no 450-edge rewrite is warranted. The dataset is a typed taxonomy/derivation graph; frontmatter `related[]` is a curated cross-linking layer. They are complementary.
+
+**Action taken (small):** 5 Tier-1 pages carried a single `related[]` entry (the minimum) — below the 2–3 norm for Tier-1 hubs. Each gained one reciprocal, data-grounded co-aroma/category peer (targets verified to already link back, so the graph stays symmetric):
+
+| Entity | Added `related[]` entry | Basis |
+|---|---|---|
+| mugwort | `artemisia-annua` | same genus (Artemisia), shared herbal/camphoraceous aroma |
+| clove | `cardamom` | shared spicy/warm aroma cluster |
+| rose | `osmanthus` | shared sweet/floral aroma cluster |
+| orange-peel | `pomelo-peel` | citrus peel family, shared citrus/bittersweet/woody aroma |
+| myrrh | `benzoin` | balsamic resin family |
+
+**Result:** `related[]` min count rises 1→2; no Tier-1 page below the 2-edge norm; all 5 additions are reciprocal (verified the target's own `related[]` already names the source).

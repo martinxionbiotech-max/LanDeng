@@ -60,6 +60,26 @@
 | A4 | Answer-first + evidence-tail structure is consistently applied across 250 content files | — (positive) |
 | A5 | No fabricated reviews/ratings/prices/authors — `## AI content notes` states this; verified against page copy | — (positive) |
 
+## G13 supplement — programmatic meta-description dedup audit (phase2/P2)
+
+> Rendered-layer check. Ran against the **built `dist/` output** (262 HTML files) on 2026-09-25, not the Markdown source, so template-derived descriptions are captured exactly as a crawler sees them.
+
+**Method:** walk `dist/**/*.html`, extract each `<meta name="description" content="…">` verbatim, group identical strings, and flag any description shared by >1 page.
+
+**Result:**
+
+| Metric | Value |
+|---|---|
+| HTML pages scanned | 262 |
+| Pages with a meta description | 262 (100%) |
+| Pages missing meta description | 0 |
+| Duplicate-description groups (>1 page) | **0** |
+| Pages involved in any duplicate group | 0 |
+
+**Verdict:** **clean — no duplicate meta descriptions.** The three description sources (ingredient `directAnswer`, blog `metaDescription`, hand-written static-page descriptions) each produce unique text, and the `directAnswer` template is intrinsically unique per entity (Chinese + pinyin + type + scientific name + aroma profile). No template-layer repair was required — this closes the G13 gap with an evidence record rather than a code change.
+
+**Why it stays unique (documented for future regressions):** the ingredient `directAnswer` string is built from 5 per-entity frontmatter fields, so a duplicate can only appear if two entities share Chinese name + pinyin + type + scientific name + aroma set — impossible with correct frontmatter. A future duplicate would signal a frontmatter data-entry error, not a template bug.
+
 ## Bottom line
 
-The site is **strong on AIO fundamentals** (answer-first, entity clarity, source transparency, DefinedTerm schema, llms.txt, FAQ extraction). The single material AIO gap is **incomplete llms.txt dataset coverage (A1)** plus the cross-site `sameAs` allow-list asymmetry noted in `data-site-audit.md`.
+The site is **strong on AIO fundamentals** (answer-first, entity clarity, source transparency, DefinedTerm schema, llms.txt, FAQ extraction). The single material AIO gap was **incomplete llms.txt dataset coverage (A1)** (fixed in P0) plus the cross-site `sameAs` allow-list asymmetry noted in `data-site-audit.md`. The G13 meta-description dedup audit (P2) found **0 duplicates across 262 rendered pages** — no repair needed.

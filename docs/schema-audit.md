@@ -61,6 +61,35 @@
 | F4 | `sameAs` allow-list narrower than data-site CI allow-list (missing `wikisource.org`) | P2 |
 | F5 | No `sameAs` emitted unless sources contain allow-listed URLs — some Tier-1 entities may lack `sameAs` entirely | P3 |
 
+## G16 supplement — `sameAs` allow-list review (phase2/P2)
+
+> Review of the entity-page `sameAs` emission against the rendered build, to decide whether the `SAMEAS_HOSTS` allow-list should be widened.
+
+### Measured `sameAs` distribution (dist render, 150 entity pages)
+
+| Host | sameAs URLs emitted |
+|---|---|
+| `www.gbif.org` | 158 |
+| `www.efloras.org` | 106 |
+| `checklist.cites.org` | 8 |
+| **Total** | **272** |
+
+- Entity pages emitting `sameAs`: **149/150**. The single exception is `amber` (琥珀) — its `## Sources` section cites `本草纲目` / `香乘` on Wikisource, which are outside the current allow-list, so no `sameAs` is emitted there (F5, documented, not a defect per §27).
+- The current allow-list (`SAMEAS_HOSTS = ['efloras.org', 'gbif.org', 'checklist.cites.org']`) yields **only species-authority identity URLs** — exactly the references that unambiguously identify a botanical entity.
+
+### Question: add `zh.wikisource.org` (Wikisource) to the allow-list?
+
+Wikisource is already **extensively cited in `## Sources` sections** — 74 content files link `zh.wikisource.org` (香乘, 香譜, 本草綱目, 遵生八箋, 夢粱錄), and the data-site CI allow-list includes `wikisource.org` for **citation** URLs.
+
+**Decision: do NOT add Wikisource to `sameAs`. Keep the allow-list identity-only.**
+
+Rationale:
+1. **Semantic distinction.** `sameAs` should point to references that *identify the entity* (taxonomic authority records). Wikisource pages are **historical texts / citations**, not identity records — a `本草綱目` chapter describes many materials and does not canonically identify a single ingredient. Mixing citations into `sameAs` would dilute the identity graph.
+2. **Wikisource already has a home.** Classical texts are correctly emitted in `## Sources` (citation layer), which is where they belong. Nothing is lost by excluding them from `sameAs`.
+3. **The F4 "asymmetry" is resolved as intentional, not a defect.** The data-site CI allow-list governs *citation/source* URLs (broad, includes Wikisource); the main-site `SAMEAS_HOSTS` governs *identity* URLs (narrow, species authorities). Two different allow-lists serve two different purposes — consistent, not divergent.
+
+**Resolution recorded:** no code change. `sameAs` remains restricted to `efloras.org` / `gbif.org` / `checklist.cites.org`. `amber`'s missing `sameAs` is accepted (its authority citations are textual, not taxonomic).
+
 ## Bottom line
 
-Structured data is **correctly conservative and largely consistent** (single @id graph, mainEntity wiring, no fabricated ratings/reviews). The concrete defects are the homepage duplicate (F1) and two identity asymmetries (F2, F4) that should be resolved in the schema phase.
+Structured data is **correctly conservative and largely consistent** (single @id graph, mainEntity wiring, no fabricated ratings/reviews). The concrete defects are the homepage duplicate (F1, fixed in P0) and the `termCode` semantics asymmetry (F2, deferred). The F4 `sameAs` asymmetry is **resolved as intentional** in the G16 review (P2): `sameAs` stays identity-only; Wikisource remains a citation-layer domain.

@@ -9,7 +9,7 @@ primary_keyword: "what is myrrh"
 search_intent: informational
 aroma: ["balsamic", "earthy", "bitter", "medicinal"]
 status: published
-related: ["frankincense"]
+related: ["frankincense", "benzoin"]
 ---
 
 <img src="/images/myrrh-raw-material-800x533.webp" alt="Dark reddish-brown myrrh resin tears on a stone dish." width="800" height="533" loading="lazy">

@@ -9,7 +9,7 @@ primary_keyword: "what is mugwort"
 search_intent: informational
 aroma: ["herbal", "bitter-green", "camphoraceous"]
 status: published
-related: ["chrysanthemum"]
+related: ["chrysanthemum", "artemisia-annua"]
 ---
 
 <img src="/images/mugwort-raw-material-800x533.webp" alt="Loose dried mugwort leaves tied in a small bundle." width="800" height="533" loading="lazy">

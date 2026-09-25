@@ -15,6 +15,47 @@
 
 ---
 
+## Performance
+
+> **G15 supplement (phase2/P2) — static build metrics.** Collected programmatically from the local `dist/` build on 2026-09-25. **No CrUX / field data is available** (site not yet deployed); field data will be collected post-deployment.
+
+### Rendered HTML weight
+
+| Metric | Value |
+|---|---|
+| HTML pages | 262 |
+| Total HTML weight | 8.62 MB |
+| Mean per page | 32.1 KB |
+| Min | 4.3 KB |
+| Max | 153.7 KB |
+
+### Image weight
+
+| Metric | Value |
+|---|---|
+| Image files | 189 (186 WebP, 2 PNG, 1 JPG) |
+| Total image weight | 6.61 MB |
+| Images >100 KB | 3 (all PNG/hero — flagged for WebP re-encode in a later asset pass) |
+| Size buckets | <20 KB: 9 · 20–50 KB: 170 · 50–100 KB: 7 · >100 KB: 3 |
+
+### Per-page resource count
+
+| Metric | Value |
+|---|---|
+| CSS/JS bundles (`_astro/`) | 1 file, 9.2 KB (per-route CSS, hashed) |
+| External fonts | Google Fonts (Inter / Source Serif 4 / Noto Serif SC) — render-blocking, preconnected |
+| Per-page external requests (typical) | ~4 (1 CSS + fonts + image) |
+
+### Field data (CrUX)
+
+**Not measured — pending deployment.** No field LCP/INP/CLS data exists for this site yet. The baseline will be extended with CrUX/RUM data after launch. Lab-only proxies (Lighthouse) are deferred to the same post-deploy pass.
+
+### Headline risks (static layer only)
+
+1. **3 large images >100 KB** (2 PNG charts + 1 hero) — no `srcset`/responsive sizing; these are the dominant per-page payload on chart-bearing pages. Candidate for WebP re-encode (PNG → WebP) without visual loss.
+2. **Render-blocking Google Fonts** — mitigated by `preconnect` + a single stylesheet request, but still on the critical path.
+3. HTML is lean (mean 32 KB) and CSS is a single hashed bundle — no JS runtime, no client-side hydration (static output).
+
 ## Technical
 
 - **Framework / build:** Astro `^5.0.0`, `output: 'static'`, `@astrojs/sitemap` integration. `prebuild` runs `node scripts/generate-llms.mjs` (regenerates `public/llms.txt` from content/data).

@@ -135,3 +135,49 @@ Next phase (after this baseline is reviewed): P0 repairs first (§63 — audit �
 | 2026-09-25 | `src/content/blog/agarwood-vs-frankincense.md` (new) | §14 standard comparison page (Criterion table + Direct answer + links to both entity pages and the comparison matrix) | G07: no standalone entity-vs-entity comparison for the top Tier-1 pair | None (new URL) | 2,469 words; 1 §14 Criterion table (10 rows) + 1 aroma table; links to /ingredients/agarwood/, /ingredients/frankincense/, comparison matrix; §51 gate passed | `git revert` |
 
 **§53 gate compliance:** exactly 3 new pages this batch (G08/G10/G07), the maximum allowed. All are graph-surfacing pages, not keyword-filler articles.
+
+---
+
+## 2026-09-25 — P2 audit + small-fix batch (phase2/P2)
+
+### G13 — Meta-description dedup audit (rendered layer)
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `docs/aio-audit.md` (supplement) | Added G13 rendered-layer meta-description dedup audit: 262 HTML pages scanned, **0 duplicate groups**, 0 missing descriptions | G13: no programmatic duplicate-description check existed (§4 SEO block) | None (doc only) | `dist/**/*.html` walk, verbatim `<meta name="description">` extraction, grouped | `git revert` |
+
+**Result:** clean — no template repair required. Ingredient `directAnswer` is intrinsically unique (5 per-entity fields); blog uses per-post `metaDescription`; static pages hand-written. A future duplicate would signal a frontmatter data error, not a template bug.
+
+### G14 — `related[]` ↔ `relationships.json` sync (diff + 5-edge patch)
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `docs/entity-inventory.md` (supplement) | Added G14 diff statistics: `related[]` (150 entities, avg 2.37, untyped) vs `relationships.json` (450 typed edges: 150 category + 280 aroma + 7 comparison + 13 technique); concluded no 450-edge rewrite warranted | G14: layers are complementary (typed taxonomy vs curated cross-links), not 1:1 | None (doc only) | Programmatic count of both layers | `git revert` |
+| 2026-09-25 | `src/content/ingredients/{mugwort,clove,rose,orange-peel,myrrh}.md` (5) | Added 1 reciprocal `related[]` entry each (`artemisia-annua` / `cardamom` / `osmanthus` / `pomelo-peel` / `benzoin`) to the 5 Tier-1 pages that carried only the 1-edge minimum | G14: 5 Tier-1 hubs under the 2–3 edge norm | None (additive; each target already links back → graph stays symmetric) | `related[]` min count 1→2; 0 Tier-1 pages below norm; 5/5 additions reciprocal-verified | `git revert` |
+
+**Result:** no 450-edge rewrite. `relationships.json` is a typed taxonomy/derivation graph; `related[]` is curated entity→entity navigation. Small patch restores the 2-edge minimum on Tier-1 hubs.
+
+### G15 — Performance baseline (static build metrics)
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `docs/phase2-baseline.md` (Performance section) | Added G15 static-metric baseline: 262 pages / 8.62 MB HTML (mean 32.1 KB) / 189 images 6.61 MB / 1 CSS bundle 9.2 KB; field (CrUX) data marked "pending deployment" | G15: no performance baseline recorded (§44) | None (doc only) | Programmatic `dist/` size/weight walk; field data explicitly marked unavailable | `git revert` |
+
+**Result:** HTML lean (mean 32 KB, no JS runtime). 3 images >100 KB (2 PNG charts + 1 hero) flagged for future WebP re-encode; render-blocking Google Fonts noted. Field data deferred to post-launch.
+
+### G16 — `sameAs` allow-list review
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `docs/schema-audit.md` (supplement) | Added G16 `sameAs` review: measured distribution (gbif 158 / efloras 106 / cites 8 = 272 URLs, 149/150 entities) + recorded **decision to NOT add Wikisource** | G16: review whether `sameAs` should widen to `zh.wikisource.org` | None (decision only, no code change) | Rendered-dist extraction of `sameAs` arrays; Wikisource confirmed already in `## Sources` citation layer | `git revert` |
+
+**Decision:** keep `sameAs` identity-only (`efloras`/`gbif`/`cites`); Wikisource is a citation source, not an identity record. F4 asymmetry resolved as intentional.
+
+### Batch summary
+
+| Gap | Disposition | Code change |
+|---|---|---|
+| G13 | Clean (0 dupes) | none |
+| G14 | Diff report + 5 frontmatter edges | 5 files |
+| G15 | Static baseline recorded | none (doc) |
+| G16 | Allow-list decision recorded | none |

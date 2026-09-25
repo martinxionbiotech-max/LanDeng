@@ -9,7 +9,7 @@ primary_keyword: "what is clove"
 search_intent: informational
 aroma: ["spicy", "warm", "aromatic"]
 status: published
-related: ["cinnamon"]
+related: ["cinnamon", "cardamom"]
 ---
 
 <img src="/images/clove-raw-material-800x533.webp" alt="Dark dried clove buds heaped in a small dish." width="800" height="533" loading="lazy">
