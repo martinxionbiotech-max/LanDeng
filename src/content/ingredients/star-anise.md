@@ -170,7 +170,7 @@ Practical points for buyers:
 
 ## Safety
 
-Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Do **not** confuse star anise with the toxic Japanese star anise (*Illicium anisatum*). Keep away from children and pets. This is editorial knowledge content, not medical advice.
+Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Do **not** confuse star anise with the toxic Japanese star anise (*Illicium anisatum*). Keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
 ## Our Industry View
 

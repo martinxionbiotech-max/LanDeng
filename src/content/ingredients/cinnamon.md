@@ -156,7 +156,7 @@ For an incense maker or sourcing buyer:
 
 ## Safety
 
-Incense combustion produces smoke and particulate matter — burn in a well-ventilated space. Cassia bark contains coumarin; this matters for large dietary consumption, not for incense use.
+Incense combustion produces smoke and particulate matter — burn in a well-ventilated space. Cassia bark contains coumarin; this matters for large dietary consumption, not for incense use. See our [safety guide](/safety/).
 
 ## Our Industry View
 

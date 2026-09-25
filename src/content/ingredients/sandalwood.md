@@ -169,7 +169,7 @@ For an incense maker or sourcing buyer:
 
 ## Safety
 
-Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke; keep away from children and pets. See our safety guide.
+Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke; keep away from children and pets. See our [safety guide](/safety/).
 
 ## Our Industry View
 

@@ -120,7 +120,7 @@ The responsible modern framing mirrors musk: because the animal source is protec
 
 ## Safety
 
-Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Note that most "ambergris" in incense is synthetic, which is a sourcing matter, not a safety claim. This is editorial knowledge content, not medical advice.
+Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Note that most "ambergris" in incense is synthetic, which is a sourcing matter, not a safety claim. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
 ## Our Industry View
 

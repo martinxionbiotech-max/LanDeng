@@ -155,7 +155,7 @@ For an incense maker or sourcing buyer:
 
 ## Safety
 
-Clove oil/eugenol is potent and can be irritating; it should not be applied undiluted. Incense combustion produces smoke and particulate matter — burn in a well-ventilated space.
+Clove oil/eugenol is potent and can be irritating; it should not be applied undiluted. Incense combustion produces smoke and particulate matter — burn in a well-ventilated space. See our [safety guide](/safety/).
 
 ## Our Industry View
 

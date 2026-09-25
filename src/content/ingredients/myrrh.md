@@ -143,7 +143,7 @@ For an incense maker or sourcing buyer:
 
 ## Safety
 
-Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke. Do not consume resin based on traditional-medicine claims without professional guidance.
+Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke. Do not consume resin based on traditional-medicine claims without professional guidance. See our [safety guide](/safety/).
 
 ## Our Industry View
 

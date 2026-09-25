@@ -159,7 +159,7 @@ For an incense maker or sourcing buyer:
 
 ## Safety
 
-Chrysanthemum is food-grade and widely drunk as tea; however, incense combustion produces smoke and particulate matter — burn in a well-ventilated space. People with ragweed-family (Asteraceae) allergies may wish to be cautious with chrysanthemum, though this is more relevant to tea than to incense.
+Chrysanthemum is food-grade and widely drunk as tea; however, incense combustion produces smoke and particulate matter — burn in a well-ventilated space. People with ragweed-family (Asteraceae) allergies may wish to be cautious with chrysanthemum, though this is more relevant to tea than to incense. See our [safety guide](/safety/).
 
 ## Our Industry View
 

@@ -155,7 +155,7 @@ For an incense maker or sourcing buyer:
 
 ## Safety
 
-Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Pine resin is flammable — store it away from flame and heat. This is editorial knowledge content, not medical advice.
+Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Pine resin is flammable — store it away from flame and heat. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
 ## Our Industry View
 

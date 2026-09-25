@@ -154,7 +154,7 @@ For an incense maker or sourcing buyer:
 
 ## Safety
 
-Like all burning plant material, mugwort smoke contains particulate matter. Burn in a well-ventilated space and avoid inhaling concentrated smoke. Keep away from children and pets.
+Like all burning plant material, mugwort smoke contains particulate matter. Burn in a well-ventilated space and avoid inhaling concentrated smoke. Keep away from children and pets. See our [safety guide](/safety/).
 
 ## Our Industry View
 

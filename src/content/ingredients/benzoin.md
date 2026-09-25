@@ -155,7 +155,7 @@ For an incense maker or sourcing buyer:
 
 ## Safety
 
-Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke; keep away from children and pets. Benzoin resin itself is a fragrance/fixative material, not a food or medicine.
+Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke; keep away from children and pets. Benzoin resin itself is a fragrance/fixative material, not a food or medicine. See our [safety guide](/safety/).
 
 ## Our Industry View
 

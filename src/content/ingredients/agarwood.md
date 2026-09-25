@@ -201,7 +201,7 @@ None of these should be taken on the label's word alone; the [authentication dat
 
 ## Safety
 
-Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke; keep away from children and pets. See our safety guide.
+Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke; keep away from children and pets. See our [safety guide](/safety/).
 
 ## Agarwood vs sandalwood
 

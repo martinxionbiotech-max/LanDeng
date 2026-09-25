@@ -123,7 +123,7 @@ Practical points for buyers:
 - **Do not ingest any part**, and keep the plant, leaves, and flowers away from children and pets; wash hands after handling.
 - The plant's only legitimate roles are as an ornamental garden/cut flower and as the *inspiration* for a synthetic perfume note — never as a botanical incense ingredient.
 
-For the general safety of incense combustion, burn any incense in a well-ventilated space and avoid inhaling concentrated smoke. This page describes lily of the valley as an ornamental and perfume flower only. This is editorial knowledge content, not medical advice.
+For the general safety of incense combustion, burn any incense in a well-ventilated space and avoid inhaling concentrated smoke. This page describes lily of the valley as an ornamental and perfume flower only. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
 ## Our Industry View
 

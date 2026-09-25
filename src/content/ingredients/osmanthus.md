@@ -176,7 +176,7 @@ For an incense maker or sourcing buyer:
 
 ## Safety
 
-Osmanthus is a gentle floral note and is commonly used in tea and food; however, incense combustion still produces smoke and particulate matter. Burn in a well-ventilated space. (Do not assume a food-safe flower implies its smoke is harmless to inhale.)
+Osmanthus is a gentle floral note and is commonly used in tea and food; however, incense combustion still produces smoke and particulate matter. Burn in a well-ventilated space. (Do not assume a food-safe flower implies its smoke is harmless to inhale.) See our [safety guide](/safety/).
 
 ## Our Industry View
 

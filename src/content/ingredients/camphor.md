@@ -134,7 +134,7 @@ For an incense maker or sourcing buyer:
 
 ## Safety
 
-Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Camphor is a strong aromatic; concentrated camphor products are not for ingestion and should be kept away from children and pets. This is editorial knowledge content, not medical advice.
+Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Camphor is a strong aromatic; concentrated camphor products are not for ingestion and should be kept away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
 ## Camphor vs borneol
 

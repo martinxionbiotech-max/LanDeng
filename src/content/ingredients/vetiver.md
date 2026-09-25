@@ -158,7 +158,7 @@ For an incense maker or sourcing buyer:
 
 ## Safety
 
-Incense/essential-oil combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke.
+Incense/essential-oil combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke. See our [safety guide](/safety/).
 
 ## Our Industry View
 

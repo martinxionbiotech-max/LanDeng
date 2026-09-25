@@ -153,7 +153,7 @@ For an incense maker or sourcing buyer:
 
 ## Safety
 
-Like all burning plant material, calamus smoke contains particulate matter — burn in a well-ventilated space and avoid inhaling concentrated smoke. Beyond that, note the β-asarone ingestion concern above. This is editorial knowledge content, not medical advice.
+Like all burning plant material, calamus smoke contains particulate matter — burn in a well-ventilated space and avoid inhaling concentrated smoke. Beyond that, note the β-asarone ingestion concern above. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
 ## Our Industry View
 

@@ -135,7 +135,7 @@ The ethical-sourcing point is inseparable from the conservation point: because t
 
 ## Safety
 
-Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Note that most "civet" in modern fragrance is synthetic, which is a sourcing and animal-welfare matter, not a safety claim. This is editorial knowledge content, not medical advice.
+Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Note that most "civet" in modern fragrance is synthetic, which is a sourcing and animal-welfare matter, not a safety claim. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
 ## Our Industry View
 

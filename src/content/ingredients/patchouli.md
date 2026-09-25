@@ -149,7 +149,7 @@ For an incense maker or sourcing buyer:
 
 ## Safety
 
-Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke. Patchouli is potent — a little goes a long way.
+Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke. Patchouli is potent — a little goes a long way. See our [safety guide](/safety/).
 
 ## Our Industry View
 

@@ -127,7 +127,7 @@ Related aromatic roots with their own entries sit nearby in the materia-medica f
 
 > **Direct answer:** Asarum belongs to the birthwort family (Aristolochiaceae), a group with documented chemical-safety cautions, and its classical record carries dosing cautions (used in small amounts). It is framed here as a potent medicinal aromatic, not a burning-fragrance material; no medical use is recommended.
 
-Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. 细辛's classical record carries dosing cautions, and its family placement (Aristolochiaceae) carries a documented safety context; this page is about fragrance identification, not use. This is editorial knowledge content, not medical advice.
+Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. 细辛's classical record carries dosing cautions, and its family placement (Aristolochiaceae) carries a documented safety context; this page is about fragrance identification, not use. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
 ## Our Industry View
 

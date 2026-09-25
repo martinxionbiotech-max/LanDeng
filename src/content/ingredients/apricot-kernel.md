@@ -131,7 +131,7 @@ For a food, fragrance, or sourcing buyer:
 
 ## Safety
 
-Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Bitter apricot kernels contain amygdalin, a cyanide precursor, and are not for casual consumption. This is editorial knowledge content, not medical advice.
+Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Bitter apricot kernels contain amygdalin, a cyanide precursor, and are not for casual consumption. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
 ## Apricot kernel vs bitter almond
 
