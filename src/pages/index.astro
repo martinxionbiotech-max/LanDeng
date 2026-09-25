@@ -4,37 +4,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 const ingredients = await getCollection('ingredients');
 const orderedIngredients = ingredients.sort((a, b) => a.data.title.localeCompare(b.data.title));
-const siteUrl = Astro.site?.toString() ?? 'https://incenseherbs.com';
-
-const organizationSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'Organization',
-  '@id': `${siteUrl}#organization`,
-  name: 'LanDeng',
-  alternateName: '澜灯',
-  url: siteUrl,
-  description:
-    'A research-led knowledge platform for Chinese botanical incense.',
-};
-
-const webSiteSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebSite',
-  '@id': `${siteUrl}#website`,
-  name: 'LanDeng',
-  alternateName: '澜灯',
-  url: siteUrl,
-  publisher: { '@id': `${siteUrl}#organization` },
-};
 ---
 
 <BaseLayout
   title="LanDeng 澜灯 — Chinese Botanical Incense Knowledge"
   description="A research-led English-language knowledge platform documenting the botanicals, materials, history, terminology and craft of Chinese incense."
 >
-  <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
-  <script type="application/ld+json" set:html={JSON.stringify(webSiteSchema)} />
-
   <section class="hero">
     <div class="shell hero-inner">
       <p class="eyebrow">Chinese botanical incense · 香 · 熏香 · 合香</p>
