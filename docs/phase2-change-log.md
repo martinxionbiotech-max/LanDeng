@@ -52,3 +52,44 @@
 - No 404 page creation, no status-field wiring, no llms.txt edit.
 
 Next phase (after this baseline is reviewed): P0 repairs first (§63 — audit → map → repair → connect → strengthen graph → AIO → commercial → only then content).
+
+---
+
+## 2026-09-25 — P0 repair batch (phase2/P0)
+
+### G01 + G06 — Data mirror parity + llms.txt 8-dataset coverage
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `data/relationships.json`, `public/data/relationships.json` | Copied `relationships.json` (150 records / 450 edges) from `data-landeng/datasets/` into main-site mirror (now 8/8 files) | G01 cross-site consistency (§31); main site could not serve the relationship graph | None (own data, no new domain) | md5 match vs data-landeng source; 8 files present in both mirrors | `git revert` |
+| 2026-09-25 | `scripts/generate-llms.mjs` | Rewrote to emit all 8 datasets with live counts (relationships shows `150 / 450`) | G06 incomplete machine-readable index; G01 needs relationships row | None (prebuild regenerates only) | `node scripts/generate-llms.mjs` → 8 dataset lines; build succeeded | `git revert` |
+| 2026-09-25 | `public/llms.txt` | Machine-readable section now lists 8 datasets (ingredients 150 / terminology 249 / relationships 150+450 / comparisons 17 / materials 15 / forms 12 / techniques 12 / aroma 10) | G01 + G06 | None | grep confirms 8 rows + correct counts | `git revert` |
+
+### G02 — Homepage duplicate schema
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `src/pages/index.astro` | Removed Organization + WebSite JSON-LD (consts + 2 `<script>` tags) that duplicated BaseLayout's emission | G02 duplicate @id in one document | None (single source retained in BaseLayout) | Built `dist/index.html` has exactly 2 JSON-LD blocks, `@id` `#organization`/`#website` each emitted once as primary node | `git revert` |
+
+### G03 — Custom 404 page
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `src/pages/404.astro` (new) | Custom 404 (title / lead / return-home CTA / core links) following BaseLayout conventions | G03 broken-link UX | None (no URL/canonical change; 404 auto-excluded from sitemap) | Build emits `dist/404.html`; 404 absent from `sitemap-0.xml` | `git revert` |
+
+### G04 — Vestigial `status: draft` cleanup
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `src/content/ingredients/*.md` (150) + `src/content/concepts/chinese-incense.md` (1) | `status: draft` → `status: published` (151 files) | G04 status field unwired; `draft` misleads future gating | None (field is parsed but never gated in build) | `grep -c "^status: draft"` → 0; `status: published` = 151 | `git revert` |
+
+### G05 — Classical-fixative orphan repair (contextual links)
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `src/content/blog/hexiang-blending-system.md` | Linked 琥珀 amber → `/ingredients/amber/`, 甲香 operculum → `/ingredients/onycha/` in the 二苏旧局 recipe + binders/fixatives tables | G05 under-linked classical fixatives | None (anchor = entity name, no new URL) | Build: both `href`s render | `git revert` |
+| 2026-09-25 | `src/content/blog/ersu-jiuju-recipe.md` | Linked 琥珀 amber → `/ingredients/amber/` in the 二苏旧局 assistant table | G05 | None | Build: `href` renders | `git revert` |
+| 2026-09-25 | `src/content/blog/huarui-furen-yamen-recipe.md` | Linked 甲香 (onycha) → `/ingredients/onycha/` in the ingredient table | G05 | None | Build: `href` renders | `git revert` |
+| 2026-09-25 | `src/content/blog/incense-ingredients-glossary.md` | Linked 甲香 (operculum) → `/ingredients/onycha/` in the classical-manuals passage | G05 | None | Build: `href` renders | `git revert` |
+
+**G05 note:** `castoreum` and `shellac` were also 0-inbound in the baseline orphan map, but grep confirmed both already carry contextual inbound links from ingredient pages (`musk`/`civet` → castoreum; `amber`/`benzoin`/`dragons-blood` → shellac). No blog prose mentions castoreum/shellac as entities, so no fabrication was made — the added links target amber (琥珀) and onycha (甲香), which are discussed in recipe/blending blog prose but were unlinked there.
