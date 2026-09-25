@@ -181,3 +181,20 @@ Next phase (after this baseline is reviewed): P0 repairs first (§63 — audit �
 | G14 | Diff report + 5 frontmatter edges | 5 files |
 | G15 | Static baseline recorded | none (doc) |
 | G16 | Allow-list decision recorded | none |
+
+---
+
+## 2026-09-25 — P1 content batch B (phase2/P1)
+
+### G07 — Comparison pages (2 more Tier-1 pairs) + G09 — Aroma family hub + 3 family pages
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `src/content/blog/sandalwood-vs-frankincense.md` (new) | §14 comparison page — wood vs resin (form/burn/traditional-use/purchasing); links both entity pages + comparison matrix + wholesale guide | G07: Tier-1 comparison pair | None (new URL) | 2,528 words; 1 §14 Criterion table (10 rows) + 1 aroma table; 10 internal links; §51 gate passed | `git revert` |
+| 2026-09-25 | `src/content/blog/borneol-vs-camphor.md` (new) | §14 comparison page — same-camphor-family source/use/safety/purchasing split; safety boundary is core value | G07: Tier-1 comparison pair | None (new URL) | 2,445 words; 1 §14 Criterion table (10 rows) + 1 aroma table; links borneol/camphor entities + /safety/ + safety guide; §51 gate passed | `git revert` |
+| 2026-09-25 | `src/content/blog/incense-aroma-families.md` (new) | G09 hub — 10 aroma families from aroma.json + frontmatter `aroma` field; per-family definition + representative entities + links data-site aroma.json | G09: aroma families not surfaced as hub | None (new URL) | 1,708 words; 1 ten-family table + per-family Direct answer blocks; links aroma.json/relationships.json/ingredients.json + 3 family pages; §51 gate passed | `git revert` |
+| 2026-09-25 | `src/content/blog/woody-aroma-family.md` (new) | G09 family page — woody (9 members); definition/chemistry (published only)/representatives; links hub + entity pages | G09: flagship aroma family | None (new URL) | 1,477 words; Direct answer blocks; 13 internal links; §51 gate passed | `git revert` |
+| 2026-09-25 | `src/content/blog/resinous-aroma-family.md` (new) | G09 family page — resinous (4 members); definition/chemistry/representatives + balsamic-sibling distinction; links hub + entity pages | G09: flagship aroma family | None (new URL) | 1,590 words; Direct answer blocks; 12 internal links; §51 gate passed | `git revert` |
+| 2026-09-25 | `src/content/blog/floral-aroma-family.md` (new) | G09 family page — floral (4 members); definition/chemistry/representatives + natural-vs-reconstructed honesty point; links hub + entity pages | G09: flagship aroma family | None (new URL) | 1,535 words; Direct answer blocks; 11 internal links; §51 gate passed | `git revert` |
+
+**§53 gate compliance:** 6 new pages this batch (2 comparison + 1 hub + 3 family pages). All are graph-surfacing, not keyword-filler articles. Zero fabrication: chemistry named only where already published on entity pages; representative entities drawn from `aroma.json` membership; 0 new domains (data-site links only).
