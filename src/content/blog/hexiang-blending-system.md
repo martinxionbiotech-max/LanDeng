@@ -112,7 +112,7 @@ A **modern** formula, not an ancient text — it is from **陈云君 (Chen Yunju
 |---|---|---|
 | 君 (chief) | 沉香 agarwood | The deep, quiet skeleton — the "old desk" of the study |
 | 臣 (minister) | 檀香 sandalwood | Warms and supports the agarwood so it is not cold |
-| 佐 (assistant) | 乳香 frankincense + 琥珀 amber | Frankincense adds a bright, resinous lift; amber adds stillness and depth |
+| 佐 (assistant) | 乳香 frankincense + 琥珀 [amber](/ingredients/amber/) | Frankincense adds a bright, resinous lift; amber adds stillness and depth |
 | 使 (guide) | 蜂蜜 honey + 茉莉花 jasmine | Honey binds the pills; the jasmine coat opens a bright floral window at the top |
 
 Here the 佐 role is **split in two** (frankincense + amber) doing opposite jobs — one opens, one settles — a clean illustration that "assistant" is a *function*, not a count.
@@ -145,7 +145,7 @@ A 合香 blend pulls from the same families as the wider incense tradition, each
 | Spices | clove 丁香, cassia 桂皮, fennel 茴香 | Assistant or guide — warmth and lift |
 | Herbs/roots | spikenard 甘松, angelica 白芷, cyperus 香附子 | Minister or assistant — herbal middle tones |
 | Florals/fruits | jasmine 茉莉, plum 白梅, pear 鹅梨 | Assistant — the signature top note or accord |
-| Binders/fixatives | honey 蜂蜜, makko 抹香, musk 麝香, 甲香 operculum | Guide — binds the powder and fixes the scent |
+| Binders/fixatives | honey 蜂蜜, makko 抹香, musk 麝香, 甲香 [operculum](/ingredients/onycha/) | Guide — binds the powder and fixes the scent |
 
 The point of the table is not completeness but the pattern: the chief is almost always a wood, and the binder is almost never a scent. The materials are chosen for function first, fragrance second.
 

@@ -28,7 +28,7 @@ author: "LanDeng Editorial Team"
 |---|---|---|
 | 君 (chief) | 沉香 agarwood | The deep, quiet skeleton — the "old desk" of the study |
 | 臣 (minister) | 檀香 sandalwood | Warms and supports the agarwood so it is not cold |
-| 佐 (assistant) | 乳香 frankincense + 琥珀 amber | Frankincense opens and lifts; amber settles and deepens |
+| 佐 (assistant) | 乳香 frankincense + 琥珀 [amber](/ingredients/amber/) | Frankincense opens and lifts; amber settles and deepens |
 | 使 (guide) | 蜂蜜 honey + 茉莉花 jasmine | Honey binds the pills; the jasmine coat opens a bright floral top |
 
 ---

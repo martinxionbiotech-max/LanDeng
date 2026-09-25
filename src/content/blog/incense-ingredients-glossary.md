@@ -111,7 +111,7 @@ This is the practical reason a good incense is rarely one ingredient: no single 
 
 ## Ingredients in the Classical Manuals
 
-The classical incense manuals (香谱, 香乘) name a working palette that overlaps heavily with this glossary: 沉香 (agarwood), 檀香 (sandalwood), 乳香 (frankincense), 龙脑 (borneol), 麝香 (musk), 丁香 (clove), 甘松 (spikenard), 零陵香 (tonka/mellilot), 甲香 (operculum), and honey as a binder. Two of these are worth flagging: 麝香 (musk) is animal-derived and largely restricted today, and 甲香 (operculum) is shellfish-derived and rarely used in modern reproductions. The manuals are recipes for a specific historical palette, not a checklist for the modern kitchen — see the [recipe library](/blog/chinese-incense-recipes/) and the [manuals page](/blog/xiangpu-incense-manuals/).
+The classical incense manuals (香谱, 香乘) name a working palette that overlaps heavily with this glossary: 沉香 (agarwood), 檀香 (sandalwood), 乳香 (frankincense), 龙脑 (borneol), 麝香 (musk), 丁香 (clove), 甘松 (spikenard), 零陵香 (tonka/mellilot), 甲香 (operculum), and honey as a binder. Two of these are worth flagging: 麝香 (musk) is animal-derived and largely restricted today, and 甲香 ([operculum](/ingredients/onycha/)) is shellfish-derived and rarely used in modern reproductions. The manuals are recipes for a specific historical palette, not a checklist for the modern kitchen — see the [recipe library](/blog/chinese-incense-recipes/) and the [manuals page](/blog/xiangpu-incense-manuals/).
 
 ## Reading an Ingredient Label
 

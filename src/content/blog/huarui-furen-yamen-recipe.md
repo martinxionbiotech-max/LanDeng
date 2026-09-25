@@ -44,7 +44,7 @@ The recorded proportions (香乘):
 | 檀香 (sandalwood) | 一两 (1 liǎng) |
 | 乳香 (frankincense) | 一两 (1 liǎng) |
 | 龙脑 (borneol) | 半钱 (0.5 qián) |
-| 甲香 (operculum) | 一两 (1 liǎng, 法制 treated) |
+| 甲香 ([onycha](/ingredients/onycha/)) | 一两 (1 liǎng, 法制 treated) |
 | 麝香 (musk) | 一钱 (1 qián) |
 | 炭皮末 (charcoal-bark powder) | 一钱 (1 qián) |
 | 朴硝 (saltpetre) | 一钱 (1 qián) |
