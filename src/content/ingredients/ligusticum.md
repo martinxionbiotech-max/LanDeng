@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is ligusticum root"
 search_intent: informational
 aroma: ["herbal", "aromatic", "spicy", "woody"]
-status: draft
+status: published
 related: ["spikenard-nardostachys", "angelica"]
 ---
 

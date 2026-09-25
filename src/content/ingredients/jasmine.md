@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is jasmine"
 search_intent: informational
 aroma: ["sweet", "floral", "heady"]
-status: draft
+status: published
 related: ["rose", "osmanthus"]
 ---
 

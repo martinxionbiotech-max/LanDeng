@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is clove"
 search_intent: informational
 aroma: ["spicy", "warm", "aromatic"]
-status: draft
+status: published
 related: ["cinnamon"]
 ---
 

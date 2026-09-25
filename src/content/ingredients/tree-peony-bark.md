@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is mudanpi tree peony root bark"
 search_intent: informational
 aroma: ["rooty", "earthy", "woody", "faintly floral"]
-status: draft
+status: published
 related: ["tree-peony", "peony", "orris-root"]
 ---
 

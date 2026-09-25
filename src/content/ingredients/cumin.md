@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is cumin ziran spice"
 search_intent: informational
 aroma: ["warm", "spicy", "earthy", "slightly bitter"]
-status: draft
+status: published
 related: ["coriander-seed", "fennel"]
 ---
 

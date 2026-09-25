@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is citron xiangyuan"
 search_intent: informational
 aroma: ["citrus", "floral", "sweet", "slightly bitter"]
-status: draft
+status: published
 related: ["finger-citron", "orange-peel"]
 ---
 

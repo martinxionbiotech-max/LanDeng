@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is apricot kernel xingren seed"
 search_intent: informational
 aroma: ["sweet", "nutty", "almondy", "bitter"]
-status: draft
+status: published
 related: ["plum-blossom", "peony", "licorice"]
 ---
 

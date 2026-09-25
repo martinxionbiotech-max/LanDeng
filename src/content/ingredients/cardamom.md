@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is white cardamom"
 search_intent: informational
 aroma: ["camphoraceous", "spicy", "eucalyptus", "warm"]
-status: draft
+status: published
 related: ["clove", "cinnamon"]
 ---
 

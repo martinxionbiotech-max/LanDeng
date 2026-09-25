@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is banana shrub michelia figo"
 search_intent: informational
 aroma: ["sweet", "fruity", "floral", "banana"]
-status: draft
+status: published
 related: ["champaca", "yulan-magnolia"]
 ---
 

@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is peony shaoyao flower"
 search_intent: informational
 aroma: ["floral", "rosy", "sweet", "green"]
-status: draft
+status: published
 related: ["rose", "plum-blossom"]
 ---
 

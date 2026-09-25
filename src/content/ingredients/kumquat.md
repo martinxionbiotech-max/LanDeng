@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is kumquat jinju citrus"
 search_intent: informational
 aroma: ["citrus", "sweet", "floral", "bright"]
-status: draft
+status: published
 related: ["citron", "finger-citron"]
 ---
 

@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is schizonepeta jingjie herb"
 search_intent: informational
 aroma: ["herbal", "minty", "spicy", "fresh"]
-status: draft
+status: published
 related: ["artemisia-annua", "agastache-rugosa", "perilla"]
 ---
 

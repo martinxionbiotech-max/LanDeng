@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "star anise incense"
 search_intent: informational
 aroma: ["sweet", "licorice", "warm", "spicy"]
-status: draft
+status: published
 related: ["cinnamon", "clove"]
 ---
 

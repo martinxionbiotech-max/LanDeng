@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is jiangzhenxiang"
 search_intent: informational
 aroma: ["woody", "sweet", "resinous", "subtle"]
-status: draft
+status: published
 related: ["agarwood", "sandalwood"]
 ---
 

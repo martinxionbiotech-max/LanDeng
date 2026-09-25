@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is spearmint liulanxiang mint"
 search_intent: informational
 aroma: ["cooling", "minty", "sweet", "fresh", "green"]
-status: draft
+status: published
 related: ["mint", "peppermint"]
 ---
 

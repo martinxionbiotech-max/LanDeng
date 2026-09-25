@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is chamomile yangganju flower"
 search_intent: informational
 aroma: ["sweet", "apple-like", "floral", "hay-like"]
-status: draft
+status: published
 related: ["lavender", "rose", "bergamot"]
 ---
 

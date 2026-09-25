@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is wintersweet chimonanthus"
 search_intent: informational
 aroma: ["sweet", "floral", "honeyed", "waxy"]
-status: draft
+status: published
 related: ["plum-blossom", "osmanthus", "magnolia-flower"]
 ---
 

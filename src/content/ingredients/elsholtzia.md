@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is elsholtzia xiangru herb"
 search_intent: informational
 aroma: ["minty", "herbal", "spicy", "slightly sweet"]
-status: draft
+status: published
 related: ["agastache-rugosa", "perilla"]
 ---
 

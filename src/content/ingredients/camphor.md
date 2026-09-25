@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is camphor wood"
 search_intent: informational
 aroma: ["camphoraceous", "cooling", "woody", "fresh"]
-status: draft
+status: published
 related: ["borneol", "cinnamon"]
 ---
 

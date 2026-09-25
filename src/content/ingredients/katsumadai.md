@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is katsumadai cao dou kou"
 search_intent: informational
 aroma: ["camphoraceous", "spicy", "warm", "slightly bitter"]
-status: draft
+status: published
 related: ["cardamom", "amomum-villosum"]
 ---
 

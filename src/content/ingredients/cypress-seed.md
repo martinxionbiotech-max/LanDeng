@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is cypress seed incense"
 search_intent: informational
 aroma: ["roasted", "nutty", "woody", "resinous"]
-status: draft
+status: published
 related: ["pine-resin", "cedar"]
 ---
 

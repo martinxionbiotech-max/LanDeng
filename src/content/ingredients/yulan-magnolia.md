@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is yulan magnolia flower"
 search_intent: informational
 aroma: ["floral", "fresh", "green", "slightly lemony"]
-status: draft
+status: published
 related: ["magnolia-flower", "champaca"]
 ---
 

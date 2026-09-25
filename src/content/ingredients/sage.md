@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is sage shuweicao herb"
 search_intent: informational
 aroma: ["herbal", "camphoraceous", "green", "slightly peppery"]
-status: draft
+status: published
 related: ["rosemary", "thyme", "basil"]
 ---
 

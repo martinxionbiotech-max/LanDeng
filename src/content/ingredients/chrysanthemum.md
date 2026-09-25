@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is chrysanthemum"
 search_intent: informational
 aroma: ["floral", "herbal", "bittersweet"]
-status: draft
+status: published
 related: ["mugwort", "jasmine"]
 ---
 

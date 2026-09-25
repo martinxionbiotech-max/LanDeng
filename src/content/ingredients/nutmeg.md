@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is nutmeg spice"
 search_intent: informational
 aroma: ["warm", "spicy", "sweet", "woody"]
-status: draft
+status: published
 related: ["clove", "cardamom"]
 ---
 

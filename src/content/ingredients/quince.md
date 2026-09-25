@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is quince mugua fruit"
 search_intent: informational
 aroma: ["fruity", "sweet", "floral", "tart"]
-status: draft
+status: published
 related: ["kumquat", "citron", "finger-citron"]
 ---
 

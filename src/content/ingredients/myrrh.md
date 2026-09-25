@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is myrrh"
 search_intent: informational
 aroma: ["balsamic", "earthy", "bitter", "medicinal"]
-status: draft
+status: published
 related: ["frankincense"]
 ---
 

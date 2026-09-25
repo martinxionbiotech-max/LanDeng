@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is dried ginger ganjiang"
 search_intent: informational
 aroma: ["spicy", "pungent", "warm", "slightly citrusy"]
-status: draft
+status: published
 related: ["galangal", "sand-ginger", "cinnamon"]
 ---
 

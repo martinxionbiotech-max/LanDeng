@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is grapefruit putaoyou citrus"
 search_intent: informational
 aroma: ["citrus", "fresh", "bittersweet", "green", "slightly woody"]
-status: draft
+status: published
 related: ["pomelo-peel", "citron", "lemon"]
 ---
 

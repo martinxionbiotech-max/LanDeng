@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is chenpi"
 search_intent: informational
 aroma: ["citrus", "bittersweet", "woody"]
-status: draft
+status: published
 related: ["cinnamon"]
 ---
 

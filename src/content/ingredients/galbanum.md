@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is galbanum resin"
 search_intent: informational
 aroma: ["green", "balsamic", "earthy", "sharp"]
-status: draft
+status: published
 related: ["asafoetida", "frankincense"]
 ---
 

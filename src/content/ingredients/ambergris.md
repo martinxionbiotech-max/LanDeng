@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is ambergris"
 search_intent: informational
 aroma: ["marine", "sweet", "earthy", "waxy"]
-status: draft
+status: published
 related: ["sandalwood", "agarwood"]
 ---
 

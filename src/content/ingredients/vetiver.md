@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is vetiver"
 search_intent: informational
 aroma: ["earthy", "woody", "smoky", "warm"]
-status: draft
+status: published
 related: ["cedar", "patchouli", "sandalwood"]
 ---
 

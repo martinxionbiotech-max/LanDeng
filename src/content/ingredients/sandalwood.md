@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is sandalwood"
 search_intent: informational
 aroma: ["creamy", "sweet", "soft", "woody"]
-status: draft
+status: published
 related: ["agarwood", "vetiver"]
 ---
 

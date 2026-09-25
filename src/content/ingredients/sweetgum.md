@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is sweetgum incense"
 search_intent: informational
 aroma: ["sweet", "balsamic", "resinous", "warm"]
-status: draft
+status: published
 related: ["benzoin", "borneol"]
 ---
 

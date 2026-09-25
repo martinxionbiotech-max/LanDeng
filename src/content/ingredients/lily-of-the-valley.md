@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is lily of the valley linglan"
 search_intent: informational
 aroma: ["floral", "green", "sweet", "fresh", "delicate"]
-status: draft
+status: published
 related: ["jasmine", "rose", "orris-root"]
 ---
 

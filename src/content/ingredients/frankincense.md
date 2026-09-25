@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is frankincense"
 search_intent: informational
 aroma: ["resinous", "citrus", "earthy", "creamy"]
-status: draft
+status: published
 related: ["myrrh", "agarwood"]
 ---
 

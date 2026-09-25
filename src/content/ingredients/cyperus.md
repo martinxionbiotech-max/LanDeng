@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is cyperus"
 search_intent: informational
 aroma: ["woody", "spicy", "earthy", "smoky"]
-status: draft
+status: published
 related: ["vetiver", "calamus"]
 ---
 

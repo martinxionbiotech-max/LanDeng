@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is zelan eupatorium japonicum herb"
 search_intent: informational
 aroma: ["herbal", "aromatic", "fresh", "slightly sweet"]
-status: draft
+status: published
 related: ["eupatorium", "agastache-rugosa", "mugwort"]
 ---
 

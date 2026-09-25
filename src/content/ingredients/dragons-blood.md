@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is dragon's blood resin"
 search_intent: informational
 aroma: ["resinous", "sweet", "woody", "balsamic"]
-status: draft
+status: published
 related: ["myrrh", "red-sandalwood"]
 ---
 

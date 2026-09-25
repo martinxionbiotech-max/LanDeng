@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is ylang ylang yilan flower"
 search_intent: informational
 aroma: ["floral", "sweet", "creamy", "slightly fruity"]
-status: draft
+status: published
 related: ["jasmine", "neroli", "tuberose"]
 ---
 

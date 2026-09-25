@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is peru balsam bilu xiangzhi resin"
 search_intent: informational
 aroma: ["sweet", "vanilla", "balsamic", "warm"]
-status: draft
+status: published
 related: ["benzoin", "styrax-resin", "vanilla"]
 ---
 

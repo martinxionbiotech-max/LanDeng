@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is pepper in incense"
 search_intent: informational
 aroma: ["spicy", "pungent", "warm", "woody"]
-status: draft
+status: published
 related: ["long-pepper", "cubeb", "clove"]
 ---
 

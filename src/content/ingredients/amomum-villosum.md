@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is sharen amomum villosum"
 search_intent: informational
 aroma: ["spicy", "camphoraceous", "warm", "slightly bitter"]
-status: draft
+status: published
 related: ["cardamom", "tsao-ko", "galangal"]
 ---
 

@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is spikenard"
 search_intent: informational
 aroma: ["earthy", "woody", "sweet", "musky"]
-status: draft
+status: published
 related: ["sandalwood", "vetiver"]
 ---
 

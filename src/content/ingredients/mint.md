@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is mint bohe"
 search_intent: informational
 aroma: ["cooling", "minty", "fresh", "sweet"]
-status: draft
+status: published
 related: ["perilla", "agastache-rugosa", "citronella"]
 ---
 

@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is osmanthus"
 search_intent: informational
 aroma: ["sweet", "floral", "apricot", "honey"]
-status: draft
+status: published
 related: ["jasmine", "rose"]
 ---
 

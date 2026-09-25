@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is linglingxiang"
 search_intent: informational
 aroma: ["sweet", "hay-like", "herbaceous", "coumarin"]
-status: draft
+status: published
 related: ["patchouli", "agastache-rugosa"]
 ---
 

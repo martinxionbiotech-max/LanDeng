@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "cinnamon vs cassia"
 search_intent: informational
 aroma: ["warm", "spicy", "sweet"]
-status: draft
+status: published
 related: ["clove", "orange-peel"]
 ---
 

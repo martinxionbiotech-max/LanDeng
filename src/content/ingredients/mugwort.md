@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is mugwort"
 search_intent: informational
 aroma: ["herbal", "bitter-green", "camphoraceous"]
-status: draft
+status: published
 related: ["chrysanthemum"]
 ---
 

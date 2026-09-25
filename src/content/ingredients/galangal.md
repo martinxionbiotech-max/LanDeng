@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is galangal root"
 search_intent: informational
 aroma: ["spicy", "gingery", "camphoraceous", "woody"]
-status: draft
+status: published
 related: ["sand-ginger", "cardamom"]
 ---
 

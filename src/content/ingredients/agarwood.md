@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is agarwood"
 search_intent: informational
 aroma: ["woody", "resinous", "sweet", "complex"]
-status: draft
+status: published
 related: ["sandalwood", "frankincense"]
 ---
 

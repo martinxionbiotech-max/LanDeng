@@ -4,7 +4,7 @@ entity: chinese-incense
 type: pillar
 primary_keyword: "chinese incense"
 search_intent: informational
-status: draft
+status: published
 ---
 
 

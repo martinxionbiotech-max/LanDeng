@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is benzoin"
 search_intent: informational
 aroma: ["sweet", "vanilla", "balsamic", "woody"]
-status: draft
+status: published
 related: ["frankincense", "myrrh"]
 ---
 

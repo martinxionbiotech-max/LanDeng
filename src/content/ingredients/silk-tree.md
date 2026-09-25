@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is silk tree flower hehuan hua"
 search_intent: informational
 aroma: ["sweet", "floral", "delicate", "slightly powdery"]
-status: draft
+status: published
 related: ["honeysuckle", "osmanthus", "lotus-flower"]
 ---
 

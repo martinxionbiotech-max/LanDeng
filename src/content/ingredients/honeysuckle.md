@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is honeysuckle jinyinhua"
 search_intent: informational
 aroma: ["sweet", "floral", "honeyed", "green"]
-status: draft
+status: published
 related: ["chrysanthemum", "plum-blossom"]
 ---
 

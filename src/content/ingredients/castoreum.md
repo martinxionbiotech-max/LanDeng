@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is castoreum beaver scent"
 search_intent: informational
 aroma: ["animalic", "leathery", "smoky", "sweet"]
-status: draft
+status: published
 related: ["civet", "musk"]
 ---
 

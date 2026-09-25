@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is sand ginger"
 search_intent: informational
 aroma: ["camphoraceous", "spicy", "earthy", "floral"]
-status: draft
+status: published
 related: ["cardamom", "clove"]
 ---
 

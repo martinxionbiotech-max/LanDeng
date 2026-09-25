@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is lavender xunyicao flower"
 search_intent: informational
 aroma: ["floral", "herbal", "fresh", "camphoraceous"]
-status: draft
+status: published
 related: ["rosemary", "bergamot", "chamomile"]
 ---
 

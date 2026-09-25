@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is rosemary midiexiang"
 search_intent: informational
 aroma: ["herbal", "camphoraceous", "fresh", "woody"]
-status: draft
+status: published
 related: ["bay-leaf", "mint"]
 ---
 

@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is cedar incense"
 search_intent: informational
 aroma: ["woody", "clean", "slightly sweet"]
-status: draft
+status: published
 related: ["vetiver", "patchouli"]
 ---
 

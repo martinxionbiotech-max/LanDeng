@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is orchid lanhua incense"
 search_intent: informational
 aroma: ["floral", "sweet", "green", "delicate"]
-status: draft
+status: published
 related: ["osmanthus", "chrysanthemum"]
 ---
 

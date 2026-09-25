@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is bergamot foshougan essential oil"
 search_intent: informational
 aroma: ["citrus", "floral", "fresh", "slightly bitter"]
-status: draft
+status: published
 related: ["finger-citron", "citron", "neroli"]
 ---
 

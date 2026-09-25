@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is anise huíqín aniseed"
 search_intent: informational
 aroma: ["sweet", "licorice", "warm", "spicy"]
-status: draft
+status: published
 related: ["fennel", "star-anise"]
 ---
 

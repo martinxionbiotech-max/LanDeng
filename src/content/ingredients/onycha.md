@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is onycha in incense"
 search_intent: informational
 aroma: ["marine", "briny", "animalic", "musky"]
-status: draft
+status: published
 related: ["musk", "ambergris"]
 ---
 

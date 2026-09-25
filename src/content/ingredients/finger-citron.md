@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is finger citron buddha hand"
 search_intent: informational
 aroma: ["citrus", "floral", "sweet", "bright"]
-status: draft
+status: published
 related: ["citron", "orange-peel"]
 ---
 

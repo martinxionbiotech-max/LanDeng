@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is storax"
 search_intent: informational
 aroma: ["sweet", "balsamic", "resinous", "warm"]
-status: draft
+status: published
 related: ["sweetgum", "benzoin"]
 ---
 

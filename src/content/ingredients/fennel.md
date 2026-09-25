@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is fennel seed"
 search_intent: informational
 aroma: ["sweet", "anise", "warm", "herbaceous"]
-status: draft
+status: published
 related: ["star-anise", "clove"]
 ---
 

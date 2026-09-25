@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is musk in incense"
 search_intent: informational
 aroma: ["animalic", "musky", "sweet", "warm"]
-status: draft
+status: published
 related: ["ambergris", "sandalwood"]
 ---
 

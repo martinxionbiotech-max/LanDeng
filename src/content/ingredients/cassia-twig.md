@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is cassia twig guizhi"
 search_intent: informational
 aroma: ["warm", "spicy", "sweet", "woody"]
-status: draft
+status: published
 related: ["cinnamon", "clove", "ginger"]
 ---
 

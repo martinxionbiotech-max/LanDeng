@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is agastache"
 search_intent: informational
 aroma: ["minty", "herbal", "sweet", "anise-like"]
-status: draft
+status: published
 related: ["patchouli", "mugwort"]
 ---
 

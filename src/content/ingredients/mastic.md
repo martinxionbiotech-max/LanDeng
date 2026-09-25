@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is mastic resin"
 search_intent: informational
 aroma: ["resinous", "piney", "fresh", "balsamic"]
-status: draft
+status: published
 related: ["frankincense", "pine-resin", "myrrh"]
 ---
 

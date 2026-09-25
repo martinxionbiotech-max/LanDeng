@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is labdanum"
 search_intent: informational
 aroma: ["resinous", "balsamic", "leathery", "amber"]
-status: draft
+status: published
 related: ["frankincense", "myrrh", "benzoin"]
 ---
 

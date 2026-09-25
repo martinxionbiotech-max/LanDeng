@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is thyme bailixiang herb"
 search_intent: informational
 aroma: ["herbal", "green", "spicy", "slightly medicinal"]
-status: draft
+status: published
 related: ["rosemary", "sage", "bay-leaf"]
 ---
 

@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is lemon balm xiangfengcao herb"
 search_intent: informational
 aroma: ["lemony", "herbal", "fresh", "slightly sweet", "green"]
-status: draft
+status: published
 related: ["mint", "basil", "bergamot"]
 ---
 

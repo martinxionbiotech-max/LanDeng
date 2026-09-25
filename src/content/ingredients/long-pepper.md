@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is long pepper"
 search_intent: informational
 aroma: ["spicy", "pungent", "warm", "sweet"]
-status: draft
+status: published
 related: ["cubeb", "clove"]
 ---
 

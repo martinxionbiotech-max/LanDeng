@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is daphne odorosa ruixiang"
 search_intent: informational
 aroma: ["sweet", "floral", "spicy", "green"]
-status: draft
+status: published
 related: ["wintersweet", "plum-blossom"]
 ---
 

@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is lemon ningmeng citrus"
 search_intent: informational
 aroma: ["citrus", "bright", "zesty", "sweet", "slightly sour"]
-status: draft
+status: published
 related: ["citron", "finger-citron", "pomelo-peel"]
 ---
 

@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is mustard seed jiezi spice"
 search_intent: informational
 aroma: ["pungent", "sharp", "spicy", "green"]
-status: draft
+status: published
 related: ["pepper", "cinnamon", "ginger"]
 ---
 

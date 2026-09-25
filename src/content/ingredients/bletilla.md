@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is bletilla root"
 search_intent: informational
 aroma: ["neutral", "slightly sweet", "earthy", "starchy"]
-status: draft
+status: published
 related: ["sandalwood", "agarwood"]
 ---
 

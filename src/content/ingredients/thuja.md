@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is thuja yabai incense wood"
 search_intent: informational
 aroma: ["woody", "cedar-like", "resinous", "slightly smoky"]
-status: draft
+status: published
 related: ["cedar", "cypress-seed", "pine-resin"]
 ---
 

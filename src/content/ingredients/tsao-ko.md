@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is tsaoko black cardamom"
 search_intent: informational
 aroma: ["smoky", "spicy", "camphoraceous", "warm"]
-status: draft
+status: published
 related: ["cardamom", "amomum-villosum", "galangal"]
 ---
 

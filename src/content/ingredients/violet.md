@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is violet ziluolan flower"
 search_intent: informational
 aroma: ["floral", "sweet", "powdery", "green"]
-status: draft
+status: published
 related: ["orris-root", "rose", "jasmine"]
 ---
 

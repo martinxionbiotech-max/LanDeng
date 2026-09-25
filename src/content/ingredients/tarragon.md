@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is tarragon longhao artemisia"
 search_intent: informational
 aroma: ["herbal", "anise-like", "green", "slightly sweet"]
-status: draft
+status: published
 related: ["mugwort", "artemisia-annua"]
 ---
 

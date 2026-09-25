@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is calamus incense"
 search_intent: informational
 aroma: ["herbal", "spicy", "sweet", "earthy"]
-status: draft
+status: published
 related: ["angelica", "mugwort"]
 ---
 

@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is eupatorium herb"
 search_intent: informational
 aroma: ["herbal", "aromatic", "sweet", "fresh"]
-status: draft
+status: published
 related: ["mugwort", "agastache-rugosa"]
 ---
 

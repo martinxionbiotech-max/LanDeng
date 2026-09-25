@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is juniper dùsōng incense"
 search_intent: informational
 aroma: ["woody", "piney", "resinous", "fresh"]
-status: draft
+status: published
 related: ["cedar", "thuja"]
 ---
 

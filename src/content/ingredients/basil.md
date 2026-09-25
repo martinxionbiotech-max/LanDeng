@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is basil luole lan xiang"
 search_intent: informational
 aroma: ["sweet", "green", "spicy", "anise-like"]
-status: draft
+status: published
 related: ["perilla", "mint"]
 ---
 

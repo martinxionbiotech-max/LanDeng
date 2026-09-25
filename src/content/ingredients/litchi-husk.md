@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is litchi husk incense"
 search_intent: informational
 aroma: ["fruity", "sweet", "floral", "woody"]
-status: draft
+status: published
 related: ["orange-peel", "osmanthus"]
 ---
 

@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is chinese rose"
 search_intent: informational
 aroma: ["sweet", "floral", "romantic"]
-status: draft
+status: published
 related: ["jasmine"]
 ---
 

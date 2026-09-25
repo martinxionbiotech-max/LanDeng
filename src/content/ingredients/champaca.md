@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is champaca flower"
 search_intent: informational
 aroma: ["sweet", "floral", "fruity", "heady"]
-status: draft
+status: published
 related: ["jasmine", "gardenia"]
 ---
 

@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is red sandalwood"
 search_intent: informational
 aroma: ["woody", "sweet", "rosy", "spicy"]
-status: draft
+status: published
 related: ["sandalwood", "jiangzhenxiang"]
 ---
 

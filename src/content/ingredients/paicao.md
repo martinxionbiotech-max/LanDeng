@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is paicao herb"
 search_intent: informational
 aroma: ["herbal", "sweet", "hay-like", "woody"]
-status: draft
+status: published
 related: ["linglingxiang", "agastache-rugosa"]
 ---
 

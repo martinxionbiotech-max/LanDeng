@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is pine resin incense"
 search_intent: informational
 aroma: ["piney", "woody", "balsamic", "resinous"]
-status: draft
+status: published
 related: ["cedar", "borneol"]
 ---
 

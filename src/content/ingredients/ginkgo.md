@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is ginkgo nut yinxing seed"
 search_intent: informational
 aroma: ["nutty", "sweet", "mild", "slightly bitter"]
-status: draft
+status: published
 related: ["torreya", "cypress-seed", "kumquat"]
 ---
 

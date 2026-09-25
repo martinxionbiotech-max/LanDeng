@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is borneol oil"
 search_intent: informational
 aroma: ["camphoraceous", "cooling", "balsamic", "woody"]
-status: draft
+status: published
 related: ["borneol", "pine-resin"]
 ---
 

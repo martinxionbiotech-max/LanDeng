@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is peppermint hujiao bohe mint"
 search_intent: informational
 aroma: ["cooling", "minty", "sharp", "camphoraceous", "sweet"]
-status: draft
+status: published
 related: ["mint", "spearmint"]
 ---
 

@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is costus root"
 search_intent: informational
 aroma: ["earthy", "woody", "musky", "animalic"]
-status: draft
+status: published
 related: ["spikenard-nardostachys", "orris-root"]
 ---
 

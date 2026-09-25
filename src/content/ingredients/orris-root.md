@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is orris root"
 search_intent: informational
 aroma: ["powdery", "floral", "violet", "woody"]
-status: draft
+status: published
 related: ["vetiver", "sandalwood"]
 ---
 

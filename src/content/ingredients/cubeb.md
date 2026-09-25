@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is cubeb pepper"
 search_intent: informational
 aroma: ["spicy", "peppery", "woody", "camphoraceous"]
-status: draft
+status: published
 related: ["long-pepper", "clove"]
 ---
 

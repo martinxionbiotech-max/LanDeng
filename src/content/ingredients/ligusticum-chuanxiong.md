@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is chuanxiong ligusticum root"
 search_intent: informational
 aroma: ["herbal", "aromatic", "spicy", "slightly bitter"]
-status: draft
+status: published
 related: ["ligusticum", "angelica-sinensis", "angelica"]
 ---
 

@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is banksia rose muxianghua"
 search_intent: informational
 aroma: ["sweet", "floral", "honeyed", "green"]
-status: draft
+status: published
 related: ["costus", "rose"]
 ---
 

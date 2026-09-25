@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is tree peony mudan flower"
 search_intent: informational
 aroma: ["floral", "rosy", "sweet", "green"]
-status: draft
+status: published
 related: ["peony", "rose", "plum-blossom"]
 ---
 

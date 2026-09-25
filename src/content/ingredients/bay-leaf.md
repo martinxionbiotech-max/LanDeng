@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is bay leaf laurel"
 search_intent: informational
 aroma: ["herbal", "camphoraceous", "fresh", "slightly sweet"]
-status: draft
+status: published
 related: ["cinnamon", "rosemary"]
 ---
 

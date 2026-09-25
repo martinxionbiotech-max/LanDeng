@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is neroli chenghua orange blossom"
 search_intent: informational
 aroma: ["floral", "citrus", "sweet", "green"]
-status: draft
+status: published
 related: ["bergamot", "orange-peel", "jasmine"]
 ---
 

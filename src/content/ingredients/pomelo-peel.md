@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is pomelo peel"
 search_intent: informational
 aroma: ["citrus", "bittersweet", "floral", "woody"]
-status: draft
+status: published
 related: ["orange-peel", "litchi-husk", "cinnamon"]
 ---
 

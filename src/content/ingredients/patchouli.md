@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is patchouli"
 search_intent: informational
 aroma: ["earthy", "woody", "balsamic", "spicy"]
-status: draft
+status: published
 related: ["vetiver", "cedar"]
 ---
 

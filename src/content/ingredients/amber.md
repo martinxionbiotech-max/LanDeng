@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is amber hupo fossil resin"
 search_intent: informational
 aroma: ["resinous", "warm", "sweet", "balsamic"]
-status: draft
+status: published
 related: ["pine-resin", "styrax-resin"]
 ---
 

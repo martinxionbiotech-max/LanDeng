@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is coriander seed"
 search_intent: informational
 aroma: ["citrus", "woody", "spicy", "floral"]
-status: draft
+status: published
 related: ["fennel", "orange-peel"]
 ---
 

@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is aglaia mizailan flower"
 search_intent: informational
 aroma: ["sweet", "floral", "fruity", "delicate"]
-status: draft
+status: published
 related: ["michelia-figo", "champaca"]
 ---
 

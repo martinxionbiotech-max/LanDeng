@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is tuberose wanxiangyu flower"
 search_intent: informational
 aroma: ["sweet", "floral", "creamy", "heady"]
-status: draft
+status: published
 related: ["jasmine", "jasmine-grandiflorum", "osmanthus"]
 ---
 

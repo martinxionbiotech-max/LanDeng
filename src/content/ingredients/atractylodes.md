@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is atractylodes"
 search_intent: informational
 aroma: ["herbal", "woody", "pungent", "earthy"]
-status: draft
+status: published
 related: ["mugwort", "angelica"]
 ---
 

@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is dong quai danggui angelica sinensis"
 search_intent: informational
 aroma: ["herbal", "sweet", "warm", "slightly spicy"]
-status: draft
+status: published
 related: ["angelica", "atractylodes", "calamus"]
 ---
 

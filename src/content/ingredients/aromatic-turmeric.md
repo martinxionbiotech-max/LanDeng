@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is aromatic turmeric yujin"
 search_intent: informational
 aroma: ["earthy", "camphoraceous", "warm", "slightly bitter"]
-status: draft
+status: published
 related: ["turmeric", "zedoary"]
 ---
 

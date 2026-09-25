@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is litsea cubeba mountain pepper"
 search_intent: informational
 aroma: ["citrus", "lemony", "spicy", "floral"]
-status: draft
+status: published
 related: ["cubeb", "citronella"]
 ---
 

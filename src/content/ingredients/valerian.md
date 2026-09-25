@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is valerian xiecao root"
 search_intent: informational
 aroma: ["earthy", "musky", "woody", "rooty"]
-status: draft
+status: published
 related: ["spikenard-nardostachys", "vetiver", "patchouli"]
 ---
 

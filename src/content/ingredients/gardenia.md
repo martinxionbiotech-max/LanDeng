@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is gardenia flower"
 search_intent: informational
 aroma: ["sweet", "creamy", "white-floral", "heady"]
-status: draft
+status: published
 related: ["jasmine", "osmanthus"]
 ---
 

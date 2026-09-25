@@ -8,7 +8,7 @@ type: ingredient
 primary_keyword: "what is honey fengmi incense"
 search_intent: informational
 aroma: ["sweet", "floral", "warm", "caramel"]
-status: draft
+status: published
 related: ["musk", "ambergris"]
 ---
 
