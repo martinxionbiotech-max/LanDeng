@@ -93,3 +93,45 @@ Next phase (after this baseline is reviewed): P0 repairs first (§63 — audit �
 | 2026-09-25 | `src/content/blog/incense-ingredients-glossary.md` | Linked 甲香 (operculum) → `/ingredients/onycha/` in the classical-manuals passage | G05 | None | Build: `href` renders | `git revert` |
 
 **G05 note:** `castoreum` and `shellac` were also 0-inbound in the baseline orphan map, but grep confirmed both already carry contextual inbound links from ingredient pages (`musk`/`civet` → castoreum; `amber`/`benzoin`/`dragons-blood` → shellac). No blog prose mentions castoreum/shellac as entities, so no fabrication was made — the added links target amber (琥珀) and onycha (甲香), which are discussed in recipe/blending blog prose but were unlinked there.
+
+---
+
+## 2026-09-25 — P1 repair + content batch (phase2/P1)
+
+### G11 — Tier-1 commercial-context unification (13 entities)
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `src/content/ingredients/{agastache-rugosa,plum-blossom,orange-peel,borneol,galangal,fennel,champaca,citron,cypress-seed,rosemary,finger-citron,orris-root}.md` (12) | Added `See the [wholesale guide](/blog/wholesale-guide/)…` commercial link to the "What buyers should look for" section | G11: these 12 Tier-1 entities had the buyer section but zero commercial internal link | None (anchor = existing wholesale-guide URL, no new domain) | `grep` confirms 1 commercial link each; 31/31 Tier-1 now have buyer section + commercial link | `git revert` |
+| 2026-09-25 | `src/content/ingredients/musk.md` | Added "What buyers should look for" section (synthesized from existing provenance-honesty content) + wholesale-guide link | G11: musk was the only Tier-1 entity missing both the buyer section and a commercial link | None (all copy synthesized from existing page content, zero fabrication) | Build renders; 31/31 verified | `git revert` |
+
+**G11 note:** Before this batch, 30/31 Tier-1 entities had the "What buyers should look for" section, and 18/31 had a commercial link. The 13 fixed are the 12 with buyer-section-but-no-link plus musk (missing both). No new facts introduced — links point to the existing wholesale guide; musk's new section restates its existing "musk is a scent descriptor, not provenance" content.
+
+### G12 — Safety cross-linking (90 entity pages + /safety/ index)
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `src/content/ingredients/*.md` (90) | Added `See our [safety guide](/safety/).` to every entity Safety section (converted the 2 existing plain-text "See our safety guide." into links) | G12: safety caveats lived on entity pages but were not centrally linked | None (anchor = existing /safety/ URL) | 90/90 safety sections now link /safety/; `grep -rL "/safety/"` on safety-bearing files → 0 | `git revert` |
+| 2026-09-25 | `src/pages/safety/index.astro` | Added "Related safety caveats" section linking high-warning entities (lily-of-the-valley, calamus, asarum, apricot-kernel, star-anise, camphor, borneol) | G12 reverse path: /safety/ → entity caveats | None (links only to existing entity URLs) | Build: 7 caveat links render in `dist/safety/index.html` | `git revert` |
+
+**G12 note:** 90 entity pages carry a Safety section (grep-confirmed). The task's named examples (calamus/asarum/artemisia) were grep-verified: calamus (β-asarone) and asarum (Aristolochiaceae dosing cautions) are genuine high-warning entries, while artemisia-annua's "artemisinin caution" is a drug-fame boundary note, not a toxicity caveat — so the high-warning list uses the genuinely caveated entities (lily-of-the-valley being the strongest: cardiac glycosides).
+
+### G08 — Materials / Techniques / Forms hub page (new)
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `src/content/blog/incense-materials-techniques-forms.md` (new) | Hub page surfacing the 3 datasets (15 materials / 12 techniques / 12 forms) as readable tables + data-site JSON links + entity links | G08: no navigable main-site hub for the materials/techniques/forms taxonomies | None (new URL, no existing URL displaced) | 1,882 words; 3 tables (15/12/12 rows); 8 internal links verified; Direct answer block | `git revert` |
+
+### G10 — Terminology first-class reference page (new)
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `src/content/blog/incense-terminology-reference.md` (new) | First-class main-site entry for the 249-term terminology dataset: grouped index + dataset-usage notes + links to terminology.json and existing glossaries | G10: 249-term dataset had no first-class main-site reference page | None (new URL) | 1,575 words; 249-term grouped index (no full-text dump); links to terminology.json + both glossaries; Direct answer block | `git revert` |
+
+### G07 — Top comparison pair (new)
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-25 | `src/content/blog/agarwood-vs-frankincense.md` (new) | §14 standard comparison page (Criterion table + Direct answer + links to both entity pages and the comparison matrix) | G07: no standalone entity-vs-entity comparison for the top Tier-1 pair | None (new URL) | 2,469 words; 1 §14 Criterion table (10 rows) + 1 aroma table; links to /ingredients/agarwood/, /ingredients/frankincense/, comparison matrix; §51 gate passed | `git revert` |
+
+**§53 gate compliance:** exactly 3 new pages this batch (G08/G10/G07), the maximum allowed. All are graph-surfacing pages, not keyword-filler articles.
