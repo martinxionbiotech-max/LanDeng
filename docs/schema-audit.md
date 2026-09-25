@@ -93,3 +93,52 @@ Rationale:
 ## Bottom line
 
 Structured data is **correctly conservative and largely consistent** (single @id graph, mainEntity wiring, no fabricated ratings/reviews). The concrete defects are the homepage duplicate (F1, fixed in P0) and the `termCode` semantics asymmetry (F2, deferred). The F4 `sameAs` asymmetry is **resolved as intentional** in the G16 review (P2): `sameAs` stays identity-only; Wikisource remains a citation-layer domain.
+
+---
+
+## §43 supplement — Open Graph / Twitter card audit (phase2/P2)
+
+> Rendered-layer scan of the social-share metadata emitted by `BaseLayout.astro` across the full `dist/` build. Covers `og:title` / `og:description` / `og:image` / `og:url` / `twitter:card` (plus `og:type`, `og:site_name`, `twitter:title`, `twitter:description`, `twitter:image`).
+
+### Coverage (268 rendered HTML pages)
+
+| Tag | Missing before | Missing after |
+|---|---|---|
+| `og:title` | 0 | 0 |
+| `og:description` | 0 | 0 |
+| `og:image` | 0 | 0 |
+| `og:url` | 0 | 0 |
+| `twitter:card` | 0 | 0 |
+| `og:type` | 0 | 0 |
+| `og:site_name` | 0 | 0 |
+| `twitter:title` | 0 | 0 |
+| `twitter:description` | 0 | 0 |
+| `twitter:image` | **268** | 0 |
+
+All five required tags were already present on every page via the single `BaseLayout.astro` emission point (no per-page override, no partial templates). The audit nevertheless surfaced **three template-layer defects**, all fixed.
+
+### Defect 1 — `og:image` double-slash URL (fixed)
+
+`BaseLayout.astro` built the share image URL with `new URL('images/…', \`${SITE}/\`)`, and `SITE` (= `Astro.site.toString()`) already carries a trailing slash — producing `https://incenseherbs.com//images/og-image-…jpg` (double slash after the host).
+
+**Fix:** `new URL('images/…', SITE)` (drop the extra `/`). Rendered output is now a clean single-slash URL. The image itself (`public/images/og-image-incense-still-life-1200x630.jpg`, the existing site-default share image) is reused — no new image was created.
+
+### Defect 2 — `twitter:image` absent (fixed)
+
+The card is declared `summary_large_image` but `twitter:image` was never emitted (268/268 missing). X/Twitter falls back to `og:image`, so the card still rendered, but the explicit tag is required for a reliable large-image card and for platforms that do not read `og:*`.
+
+**Fix:** added `<meta name="twitter:image" content={ogImage} />` pointing at the same site-default share image (no new image).
+
+### Defect 3 — malformed `description` on 9 image-first blog posts (fixed)
+
+`blog/[slug].astro` derives the meta description (and therefore `og:description` + `twitter:description`) from `post.body` by stripping markdown punctuation only. Nine blog posts open their body with an `<img>` tag before any prose, so their description **began with the literal `<img src=…>` tag** (hyphens collapsed to spaces by the punctuation-strip regex). This corrupted the SERP meta description and the social-share description for those 9 pages.
+
+**Fix:** strip HTML tags (`<[^>]+>`) before punctuation-stripping in the description derivation. Verified: all 9 descriptions now start with real prose (e.g. `Quick answer: Aromatherapy works through the sense of smell…`); 0 remaining `<img` prefixes in `dist/`.
+
+### Findings table (additions)
+
+| # | Finding | Severity | Disposition |
+|---|---|---|---|
+| F6 | `og:image` URL had a double slash after the host | P2 | Fixed (BaseLayout) |
+| F7 | `twitter:image` missing on all 268 pages (card = `summary_large_image`) | P2 | Fixed (BaseLayout) |
+| F8 | Meta/OG/Twitter description began with an `<img>` tag on 9 image-first blog posts | P2 | Fixed (blog `[slug].astro`) |
