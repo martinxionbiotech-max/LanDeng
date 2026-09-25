@@ -31,7 +31,7 @@ Aspect-ratio settings per image: 16:9 → `--ar 16:9` · 1200×630 → `--ar 1.9
 4. `boshan-censer-bronze-han-1200x675.webp` (16:9)
    Ancient Chinese Boshan bronze mountain censer (博山炉), Han-dynasty style, wisps of smoke rising from the mountain-shaped lid; dark charcoal background, warm amber rim light, museum-grade editorial product photography.
 
-5. `scent-wheel-fragrance-families-800x800.png` (1:1, flat diagram)
+5. `scent-wheel-fragrance-families-800x800.webp` (1:1, flat diagram)
    Circular fragrance-wheel diagram in muted editorial palette — segments in cream, muted amber, sage and soft brown; clean flat vector style, no labels, subtle rice-paper texture background, perfectly centered.
 
 6. `agarwood-grades-sinking-floating-1200x675.webp` (16:9)
@@ -43,7 +43,7 @@ Aspect-ratio settings per image: 16:9 → `--ar 16:9` · 1200×630 → `--ar 1.9
 8. `incense-formats-lineup-sticks-coils-cones-1600x675.webp` (16:9)
    A neat editorial lineup of incense formats on warm rice paper — sticks, a spiral coil, a backflow cone, a small mound of powder — evenly spaced left to right; soft daylight, muted palette, minimalist museum-display style.
 
-9. `burn-time-matrix-chart-800x600.png` (4:3, flat diagram)
+9. `burn-time-matrix-chart-800x600.webp` (4:3, flat diagram)
    Minimalist horizontal bar infographic comparing incense burn times by format; cream background, muted amber and sage bars, clean flat style, no labels, subtle paper texture.
 
 10. `incense-seal-stamp-tools-1200x675.webp` (16:9)

@@ -38,6 +38,16 @@
 | Images >100 KB | 3 (all PNG/hero — flagged for WebP re-encode in a later asset pass) |
 | Size buckets | <20 KB: 9 · 20–50 KB: 170 · 50–100 KB: 7 · >100 KB: 3 |
 
+> **G17 supplement (phase2/P2) — image recompression pass.** The two PNG charts flagged above (scent wheel + burn-time matrix) were lossy-re-encoded to WebP q90 via `sharp` and the `.png` assets removed. Before/after:
+>
+> | Asset | Before | After | Saved |
+> |---|---|---|---|
+> | `scent-wheel-fragrance-families-800x800` | 698.6 KB (PNG) | 36.4 KB (WebP) | 94.8% |
+> | `burn-time-matrix-chart-800x600` | 353.2 KB (PNG) | 7.7 KB (WebP) | 97.8% |
+> | **`public/images/` total** | **6.61 MB** (189 files) | **5.62 MB** (189 files) | **1.01 MB (14.9%)** |
+>
+> Result: **0 PNG files remain** (188 WebP + 1 JPG); 0 files >300 KB; the only file >100 KB is the site-default `og-image-…1200x630.jpg` (102.6 KB, intentionally kept). Lazy-loading audit: 191 rendered `<img>` elements, 190 carry `loading="lazy"` + `width`/`height` + `alt`; the single exception is the homepage hero (LCP — correctly eager).
+
 ### Per-page resource count
 
 | Metric | Value |
@@ -52,7 +62,7 @@
 
 ### Headline risks (static layer only)
 
-1. **3 large images >100 KB** (2 PNG charts + 1 hero) — no `srcset`/responsive sizing; these are the dominant per-page payload on chart-bearing pages. Candidate for WebP re-encode (PNG → WebP) without visual loss.
+1. **3 large images >100 KB** (2 PNG charts + 1 hero) — no `srcset`/responsive sizing; these are the dominant per-page payload on chart-bearing pages. **→ Resolved in G17 (phase2/P2):** the 2 PNG charts were WebP-re-encoded (~1.03 MB → 44 KB); the 102 KB hero `og-image` is the site-default share image and is kept.
 2. **Render-blocking Google Fonts** — mitigated by `preconnect` + a single stylesheet request, but still on the critical path.
 3. HTML is lean (mean 32 KB) and CSS is a single hashed bundle — no JS runtime, no client-side hydration (static output).
 

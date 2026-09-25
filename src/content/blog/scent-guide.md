@@ -14,7 +14,7 @@ author: "\"LanDeng Editorial Team\""
 
 **At a glance:** Incense scents fall on a spectrum from **bright and energizing** (citrus, frankincense) through **uplifting florals** (lotus, lavender) to **calming woods** (sandalwood) and **deep, enveloping resins** (agarwood). Choosing a scent is really choosing an **atmosphere** — a fresh, focusing lift versus a warm, grounding calm.
 
-<img src="/images/scent-wheel-fragrance-families-800x800.png" alt="Circular fragrance wheel diagram in muted cream, amber, sage and soft brown segments" width="800" height="800" loading="lazy">
+<img src="/images/scent-wheel-fragrance-families-800x800.webp" alt="Circular fragrance wheel diagram in muted cream, amber, sage and soft brown segments" width="800" height="800" loading="lazy">
 
 **Key facts:** The classical Chinese incense canon is built on woods and resins (agarwood, sandalwood, frankincense); florals and citrus are largely **modern or symbolic** additions. Every scent here is a material or a fragrance evocation, and — importantly — **none of them is a medical treatment.**
 

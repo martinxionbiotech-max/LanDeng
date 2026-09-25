@@ -4,7 +4,7 @@ Image requirements for the LanDeng site. Each entry: **exact filename** (must ma
 
 ## Naming & format rules
 - Filenames are the contract — images are wired by exact filename.
-- Format: photography → `.jpg` (or `.webp` if available); charts/diagrams → `.png`.
+- Format: photography → `.jpg` (or `.webp` if available); charts/diagrams → `.png` (re-encoded to `.webp` for the >300 KB lossy-compression pass — see §45/G17).
 - Deliver files into `public/images/` (ask the operator to provide the matching files).
 - Aspect ratios: 16:9 (content/hero) · 3:2 (recipes) · 4:3 (charts) · 1:1 (wheel) · og 1.91:1.
 
@@ -16,11 +16,11 @@ Image requirements for the LanDeng site. Each entry: **exact filename** (must ma
 | 2 | `og-image-incense-still-life-1200x630.jpg` | 1200×630 | Site-wide OG/share | Incense tools + sticks still life |
 | 3 | `chinese-incense-sticks-bundle-1200x675.webp` | 1200×675 | what-is-chinese-incense | Bundle of Chinese incense sticks |
 | 4 | `boshan-censer-bronze-han-1200x675.webp` | 1200×675 | boshan-censer | Boshan mountain censer (Han style bronze) |
-| 5 | `scent-wheel-fragrance-families-800x800.png` | 800×800 | scent-guide | Fragrance wheel diagram (woody/floral/citrus/resinous…) |
+| 5 | `scent-wheel-fragrance-families-800x800.webp` | 800×800 | scent-guide | Fragrance wheel diagram (woody/floral/citrus/resinous…) |
 | 6 | `agarwood-grades-sinking-floating-1200x675.webp` | 1200×675 | agarwood-grading-guide | Agarwood pieces, sinking vs floating grades |
 | 7 | `qinan-agarwood-closeup-1200x675.webp` | 1200×675 | qinan-buying-authentication | Qinan agarwood close-up, texture |
 | 8 | `incense-formats-lineup-sticks-coils-cones-1600x675.webp` | 1600×675 | which-incense-format (hub) | Lineup: sticks, coils, cones, powder |
-| 9 | `burn-time-matrix-chart-800x600.png` | 800×600 | incense-burn-time-format-matrix | Burn-time comparison chart |
+| 9 | `burn-time-matrix-chart-800x600.webp` | 800×600 | incense-burn-time-format-matrix | Burn-time comparison chart |
 | 10 | `incense-seal-stamp-tools-1200x675.webp` | 1200×675 | incense-burners-tools | 香篆 seal + stamping tools |
 | 11 | `censer-porcelain-song-style-1200x675.webp` | 1200×675 | incense-burners-tools | Song-style porcelain censer |
 | 12 | `evening-ritual-incense-tea-desk-1200x675.webp` | 1200×675 | calming-evening-ritual | Evening desk: incense + tea + warm light |
