@@ -167,6 +167,12 @@
 
 - [Ingredient dataset](https://data.incenseherbs.com/datasets/ingredients.json): 150 ingredient entities (Schema.org Dataset / DefinedTerm).
 - [Terminology dataset](https://data.incenseherbs.com/datasets/terminology.json): 249 Chinese–English incense terms (Schema.org Dataset / DefinedTerm).
+- [Relationship dataset](https://data.incenseherbs.com/datasets/relationships.json): 150 / 450 entity records (typed edges) (Schema.org Dataset / DefinedTerm).
+- [Comparison dataset](https://data.incenseherbs.com/datasets/comparisons.json): 17 comparison profiles (Schema.org Dataset / DefinedTerm).
+- [Material dataset](https://data.incenseherbs.com/datasets/materials.json): 15 functional materials (Schema.org Dataset / DefinedTerm).
+- [Form dataset](https://data.incenseherbs.com/datasets/forms.json): 12 incense forms (Schema.org Dataset / DefinedTerm).
+- [Technique dataset](https://data.incenseherbs.com/datasets/techniques.json): 12 incense techniques (Schema.org Dataset / DefinedTerm).
+- [Aroma dataset](https://data.incenseherbs.com/datasets/aroma.json): 10 aroma families (Schema.org Dataset / DefinedTerm).
 
 
 ## AI content notes

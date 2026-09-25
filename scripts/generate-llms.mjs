@@ -2,16 +2,38 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 
 const llms = readFileSync('public/llms.txt', 'utf8');
-const ingredients = JSON.parse(readFileSync('data/ingredients.json', 'utf8'));
-const terminology = JSON.parse(readFileSync('data/terminology.json', 'utf8'));
-const nIng = ingredients.mainEntity.length;
-const nTerm = Array.isArray(terminology.mainEntity) ? terminology.mainEntity.length
-  : (Array.isArray(terminology) ? terminology.length : 0);
 
-const section = `## Machine-readable data
+const datasets = [
+  { file: 'ingredients.json', label: 'Ingredient dataset', noun: 'ingredient entities' },
+  { file: 'terminology.json', label: 'Terminology dataset', noun: 'Chinese–English incense terms' },
+  { file: 'relationships.json', label: 'Relationship dataset', noun: 'entity records (typed edges)' },
+  { file: 'comparisons.json', label: 'Comparison dataset', noun: 'comparison profiles' },
+  { file: 'materials.json', label: 'Material dataset', noun: 'functional materials' },
+  { file: 'forms.json', label: 'Form dataset', noun: 'incense forms' },
+  { file: 'techniques.json', label: 'Technique dataset', noun: 'incense techniques' },
+  { file: 'aroma.json', label: 'Aroma dataset', noun: 'aroma families' },
+];
 
-- [Ingredient dataset](https://data.incenseherbs.com/datasets/ingredients.json): ${nIng} ingredient entities (Schema.org Dataset / DefinedTerm).
-- [Terminology dataset](https://data.incenseherbs.com/datasets/terminology.json): ${nTerm} Chinese–English incense terms (Schema.org Dataset / DefinedTerm).`;
+function count(file) {
+  const d = JSON.parse(readFileSync(`data/${file}`, 'utf8'));
+  const n = Array.isArray(d.mainEntity) ? d.mainEntity.length : 0;
+  if (file === 'relationships.json') {
+    let edges = 0;
+    if (Array.isArray(d.mainEntity)) {
+      for (const rec of d.mainEntity) edges += Array.isArray(rec.relatedEntity) ? rec.relatedEntity.length : 0;
+    }
+    return { n, edges };
+  }
+  return { n };
+}
+
+const lines = datasets.map(({ file, label, noun }) => {
+  const { n, edges } = count(file);
+  const num = edges !== undefined ? `${n} / ${edges}` : `${n}`;
+  return `- [${label}](https://data.incenseherbs.com/datasets/${file}): ${num} ${noun} (Schema.org Dataset / DefinedTerm).`;
+});
+
+const section = `## Machine-readable data\n\n${lines.join('\n')}`;
 
 const SECTION_RE = /## Machine-readable data[\s\S]*?(?=\n## |\n\n## |$)/;
 if (!SECTION_RE.test(llms)) {
@@ -20,4 +42,4 @@ if (!SECTION_RE.test(llms)) {
 }
 const out = llms.replace(SECTION_RE, section.trim() + '\n');
 writeFileSync('public/llms.txt', out);
-console.log(`llms.txt 自动更新: ${nIng} ingredients / ${nTerm} terms`);
+console.log(`llms.txt 自动更新: ${lines.length} datasets`);
