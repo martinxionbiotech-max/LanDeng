@@ -14,7 +14,7 @@ related: ["cardamom", "amomum-villosum", "galangal"]
 
 <img src="/images/tsao-ko-raw-material-800x533.webp" alt="Raw Tsaoko (Amomum tsao-ko (FOC: Amomum tsaoko; syn. Lanxangia tsao-ko)) material, editorial still life" width="800" height="533" loading="lazy">
 
-> **Direct answer:** Tsaoko (草果, cǎoguǒ) is the dried fruit of *Amomum tsao-ko* (recently reclassified as *Lanxangia tsao-ko* in some databases), a ginger-family herb (Zingiberaceae) native to the mountains of Yunnan and Guangxi. It is a smoky, spicy, camphoraceous aromatic best known as the "black cardamom" of southwestern Chinese cooking, used in incense as a 香药 (aromatic-medicine) spice accent.
+> **Direct answer:** Tsaoko (草果, cǎoguǒ) is the dried fruit of *Amomum tsao-ko* (recently reclassified as *Lanxangia tsao-ko* in some databases), a ginger-family herb (Zingiberaceae) native to the mountains of Yunnan and Guangxi. It is a smoky, spicy, camphoraceous aromatic best known as the "black cardamom" of southwestern Chinese cooking, used in incense as an aromatic-medicine (香药) spice accent.
 
 ## Key facts
 
@@ -44,8 +44,8 @@ related: ["cardamom", "amomum-villosum", "galangal"]
 
 The name 草果 (cǎoguǒ) is plain — "grass fruit" — and that plainness is itself a hazard, because it sits beside 草豆蔻 (cǎodòukòu), "grass cardamom" (katsumadai). The two names share the 草 character and a ginger-family register, but name different plants:
 
-- **草果 (tsaoko)** — *Amomum tsao-ko*, the smoky "black cardamom." This entry.
-- **草豆蔻 (katsumadai)** — *Alpinia katsumadae*, a seed of the ginger family. Its own entry.
+- **tsaoko (草果)** — *Amomum tsao-ko*, the smoky "black cardamom." This entry.
+- **katsumadai (草豆蔻)** — *Alpinia katsumadae*, a seed of the ginger family. Its own entry.
 
 A buyer who conflates 草果 and 草豆蔻 — two "grass"-named ginger-family fruits — has made a genuine sourcing error, because they are different species with different characters.
 
@@ -70,7 +70,7 @@ So "black cardamom" is not a species name; it is a loose English category that �
 
 ## Why is it used in incense?
 
-> **Direct answer:** 草果 is used in incense as a 香药 (aromatic-medicine) spice accent — a dark, smoky, camphoraceous warming note that adds body and a smouldering undertone to a blend. It is a modern application of its culinary character, not a classical 香乘 incense ingredient.
+> **Direct answer:** 草果 is used in incense as an aromatic-medicine (香药) spice accent — a dark, smoky, camphoraceous warming note that adds body and a smouldering undertone to a blend. It is a modern application of its culinary character, not a classical 香乘 incense ingredient.
 
 草果's role in incense is as a 香药 spice accent — a dark, smoky, camphoraceous note that adds body and warmth. Its use in incense is a modern application of the character that made it a culinary spice: the same smoky depth that anchors a Sichuan braise can anchor a blend, lending a smouldering, resinous undertone. It is not a classical 香乘 ingredient, and its documented fame is culinary and medicinal (香药) rather than incense-specific.
 
@@ -111,7 +111,7 @@ The quality factors:
 
 > **Direct answer:** The culinary and 香药 use is well documented. Medicinal uses are traditional, not established clinical fact, and this page makes no medical claims. The documented, non-medical facts are botanical identity, the Zingiberaceae placement, and the smoky camphoraceous aromatic use.
 
-- **Traditional Use** — 草果 as a 香药 (aromatic medicine), bridging spice and traditional medicine.
+- **Traditional Use** — 草果 as an aromatic medicine (香药), bridging spice and traditional medicine.
 - **Historical Record** — its role as a signature culinary spice of southwestern Chinese cooking, and its absence from the classical 香乘 incense canon.
 - **Scientific Evidence** — the botanical identity of *Amomum tsao-ko* (*Lanxangia tsao-ko*, Zingiberaceae) is documented. We present no clinical or medical efficacy claims.
 
@@ -156,21 +156,21 @@ In our view, 草果 is a dark, smoky, warming spice whose real procurement quest
 
 ## Summary
 
-草果 (*Amomum tsao-ko*, syn. *Lanxangia tsao-ko*) is the dried fruit of a ginger-family herb of the Yunnan/Guangxi mountains — a smoky, spicy, camphoraceous aromatic best known as the "black cardamom" of southwestern Chinese cooking. That English name is a false friend: 草果 is not the Indian black cardamom (*Amomum subulatum*), not white cardamom (白豆蔻), and — in a near-homophone trap — not 草豆蔻 (katsumadai). Its incense use is a modern 香药 accent borrowed from its culinary character, not a classical 香乘 ingredient, and its medicinal uses are traditional language, not clinical evidence.
+草果 (*Amomum tsao-ko*, syn. *Lanxangia tsao-ko*) is the dried fruit of a ginger-family herb of the Yunnan/Guangxi mountains — a smoky, spicy, camphoraceous aromatic best known as the "black cardamom" of southwestern Chinese cooking. That English name is a false friend: 草果 is not the Indian black cardamom (*Amomum subulatum*), not white cardamom (白豆蔻), and — in a near-homophone trap — not katsumadai (草豆蔻). Its incense use is a modern 香药 accent borrowed from its culinary character, not a classical 香乘 ingredient, and its medicinal uses are traditional language, not clinical evidence.
 
 ## FAQ
 
-**What is 草果 (tsaoko)?** The dried fruit of *Amomum tsao-ko* (Flora of China: *Amomum tsaoko*; recently reclassified as *Lanxangia tsao-ko*), a ginger-family herb (Zingiberaceae) native to the mountains of Yunnan and Guangxi. It is a smoky, spicy, camphoraceous aromatic best known as the "black cardamom" of southwestern Chinese cooking, and used in incense as a 香药 spice accent.
+**What is tsaoko (草果)?** The dried fruit of *Amomum tsao-ko* (Flora of China: *Amomum tsaoko*; recently reclassified as *Lanxangia tsao-ko*), a ginger-family herb (Zingiberaceae) native to the mountains of Yunnan and Guangxi. It is a smoky, spicy, camphoraceous aromatic best known as the "black cardamom" of southwestern Chinese cooking, and used in incense as a 香药 spice accent.
 
-**Is 草果 the same as black cardamom?** In the Chinese context, yes — 草果 is often called "black cardamom" in English, but it is not the same as the Indian black cardamom (*Amomum subulatum*). 草果 is *Amomum tsao-ko*, a distinct species with a smoky, camphoraceous character. It is also distinct from white/round cardamom (白豆蔻, *Amomum kravanh*).
+**Is tsao-ko (草果) the same as black cardamom?** In the Chinese context, yes — 草果 is often called "black cardamom" in English, but it is not the same as the Indian black cardamom (*Amomum subulatum*). 草果 is *Amomum tsao-ko*, a distinct species with a smoky, camphoraceous character. It is also distinct from white/round cardamom (白豆蔻, *Amomum kravanh*).
 
-**What does 草果 smell like?** Smoky and spicy, with a camphoraceous, resinous warmth and an earthy-smoky depth that sets it apart from brighter, sweeter cardamom. The smokiness comes through especially in the dried whole fruit, usually cracked or bruised before use. In a blend it reads as a dark, warming spice that adds body rather than sweet lift.
+**What does tsao-ko (草果) smell like?** Smoky and spicy, with a camphoraceous, resinous warmth and an earthy-smoky depth that sets it apart from brighter, sweeter cardamom. The smokiness comes through especially in the dried whole fruit, usually cracked or bruised before use. In a blend it reads as a dark, warming spice that adds body rather than sweet lift.
 
-**How is 草果 used in Chinese cooking?** It is a signature spice of southwestern Chinese cuisine — the dark, smoky "black cardamom" of braised and stewed dishes, where whole fruits are cracked or bruised to release their aromatic seeds. Its smoky warmth is central to many Sichuan and Yunnan braises and stews, and it also serves as a 香药 (aromatic medicine).
+**How is tsao-ko (草果) used in Chinese cooking?** It is a signature spice of southwestern Chinese cuisine — the dark, smoky "black cardamom" of braised and stewed dishes, where whole fruits are cracked or bruised to release their aromatic seeds. Its smoky warmth is central to many Sichuan and Yunnan braises and stews, and it also serves as an aromatic medicine (香药).
 
-**Is 草果 a classical incense ingredient?** Not in the 香乘 canon — 草果 does not appear in the classical incense compendium 香乘. Its documented role is culinary and medicinal (香药) rather than as a canonical incense ingredient. Its use in incense is a modern application of its smoky aromatic character.
+**Is tsao-ko (草果) a classical incense ingredient?** Not in the 香乘 canon — 草果 does not appear in the classical incense compendium 香乘. Its documented role is culinary and medicinal (香药) rather than as a canonical incense ingredient. Its use in incense is a modern application of its smoky aromatic character.
 
-**What is the difference between 草果 and 草豆蔻?** They are different ginger-family fruits with near-homophone names. 草果 (tsaoko) is *Amomum tsao-ko*, the smoky "black cardamom" fruit; 草豆蔻 (katsumadai) is *Alpinia katsumadae*, a distinct "grass cardamom" seed. The shared 草 character and the shared "cardamom" register blur them, but they are different species with different characters.
+**What is the difference between tsao-ko (草果) and katsumadai (草豆蔻)?** They are different ginger-family fruits with near-homophone names. tsaoko (草果) is *Amomum tsao-ko*, the smoky "black cardamom" fruit; katsumadai (草豆蔻) is *Alpinia katsumadae*, a distinct "grass cardamom" seed. The shared 草 character and the shared "cardamom" register blur them, but they are different species with different characters.
 
 See also: [cardamom](/ingredients/cardamom/), [amomum-villosum](/ingredients/amomum-villosum/), [katsumadai](/ingredients/katsumadai/), [galangal](/ingredients/galangal/), and the full [scent guide](/blog/scent-guide/).
 
