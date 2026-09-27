@@ -9,7 +9,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "prebuild": "node scripts/generate-llms.mjs"
+    "prebuild": "node scripts/generate-llms.mjs",
+    "sync:datasets": "node scripts/sync-datasets.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.4.0",

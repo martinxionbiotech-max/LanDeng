@@ -6,9 +6,14 @@
   "description": "Machine-readable definitions of Chinese botanical incense forms — sticks, coils, cones, powder, resin, pills, beads, and the prepared low-smoke / smokeless categories. Extracted from the LanDeng (澜灯) incense encyclopedia; every fact is traceable to a source page, and unverified facts are marked unverified.",
   "url": "https://data.incenseherbs.com/datasets/forms.json",
   "publisher": {
-    "@id": "https://incenseherbs.com/#organization"
+    "@type": "Organization",
+    "@id": "https://incenseherbs.com/#organization",
+    "name": "Zhangjiakou Landeng Technology Co., Ltd."
   },
-  "dateModified": "2026-09-20",
+  "dateModified": "2026-09-27",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "version": "1.1",
+  "changelog": "Added evidenceLevel (Evidence Tier) to 14 source citations; added license, version, and changelog governance fields. Publisher set to Zhangjiakou Landeng Technology Co., Ltd..",
   "inLanguage": [
     "en",
     "zh"
@@ -61,13 +66,15 @@
           "type": "traditional",
           "title": "Incense Sticks: The Everyday Format, Explained",
           "url": "https://incenseherbs.com/blog/incense-sticks/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         },
         {
           "type": "traditional",
           "title": "Which Incense Format Is Right for You?",
           "url": "https://incenseherbs.com/blog/which-incense-format/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -112,13 +119,15 @@
           "type": "traditional",
           "title": "Which Incense Format Is Right for You?",
           "url": "https://incenseherbs.com/blog/which-incense-format/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         },
         {
           "type": "traditional",
           "title": "Incense Burn Time Format Matrix: Stick to Powder",
           "url": "https://incenseherbs.com/blog/incense-burn-time-format-matrix/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -163,13 +172,15 @@
           "type": "traditional",
           "title": "Which Incense Format Is Right for You?",
           "url": "https://incenseherbs.com/blog/which-incense-format/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         },
         {
           "type": "traditional",
           "title": "Incense Burn Time Format Matrix: Stick to Powder",
           "url": "https://incenseherbs.com/blog/incense-burn-time-format-matrix/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -214,7 +225,8 @@
           "type": "traditional",
           "title": "Backflow Incense Cones: The Waterfall Effect",
           "url": "https://incenseherbs.com/blog/backflow-cones/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -259,13 +271,15 @@
           "type": "traditional",
           "title": "Incense Powder & Resin: Smoke-Light Format",
           "url": "https://incenseherbs.com/blog/incense-powder-resin/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         },
         {
           "type": "traditional",
           "title": "Incense Burn Time Format Matrix: Stick to Powder",
           "url": "https://incenseherbs.com/blog/incense-burn-time-format-matrix/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -310,7 +324,8 @@
           "type": "traditional",
           "title": "The 合香 Blending System: Composed Like a Formula",
           "url": "https://incenseherbs.com/blog/hexiang-blending-system/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -429,7 +444,8 @@
           "type": "traditional",
           "title": "Aromatherapy Beads & Bracelets: Worn, Not Burned",
           "url": "https://incenseherbs.com/blog/aromatherapy-beads/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -474,7 +490,8 @@
           "type": "traditional",
           "title": "Incense Sticks: The Everyday Format, Explained",
           "url": "https://incenseherbs.com/blog/incense-sticks/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -519,7 +536,8 @@
           "type": "traditional",
           "title": "Incense Sticks: The Everyday Format, Explained",
           "url": "https://incenseherbs.com/blog/incense-sticks/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -564,7 +582,8 @@
           "type": "traditional",
           "title": "Which Incense Format Is Right for You?",
           "url": "https://incenseherbs.com/blog/which-incense-format/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     }

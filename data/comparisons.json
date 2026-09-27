@@ -6,9 +6,14 @@
   "description": "Machine-readable comparison profiles for Chinese botanical incense formats and materials — aroma, smoke, burn characteristics, traditional context, common uses, and quality factors. Extracted from the LanDeng (澜灯) incense encyclopedia comparison tables; every value is traceable to a source page and nothing is fabricated.",
   "url": "https://data.incenseherbs.com/datasets/comparisons.json",
   "publisher": {
-    "@id": "https://incenseherbs.com/#organization"
+    "@type": "Organization",
+    "@id": "https://incenseherbs.com/#organization",
+    "name": "Zhangjiakou Landeng Technology Co., Ltd."
   },
-  "dateModified": "2026-09-20",
+  "dateModified": "2026-09-27",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "version": "1.1",
+  "changelog": "Added evidenceLevel (Evidence Tier) to 12 source citations; added license, version, and changelog governance fields. Publisher set to Zhangjiakou Landeng Technology Co., Ltd..",
   "inLanguage": [
     "en",
     "zh"
@@ -60,7 +65,8 @@
           "type": "traditional",
           "title": "History of Chinese Incense: Shang to Revival",
           "url": "https://incenseherbs.com/blog/history-of-chinese-incense/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -101,7 +107,8 @@
           "type": "traditional",
           "title": "What Is Chinese Incense? 香 (Xiāng)",
           "url": "https://incenseherbs.com/blog/what-is-chinese-incense/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -281,7 +288,8 @@
           "type": "traditional",
           "title": "Incense Powder & Resin: Smoke-Light Format",
           "url": "https://incenseherbs.com/blog/incense-powder-resin/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -376,7 +384,8 @@
           "type": "traditional",
           "title": "Agarwood Incense (沉香): Grading & Spotting Fakes",
           "url": "https://incenseherbs.com/blog/agarwood-incense/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -425,7 +434,8 @@
           "type": "traditional",
           "title": "Sandalwood Incense (檀香): Reading the Claims",
           "url": "https://incenseherbs.com/blog/sandalwood-incense/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -479,7 +489,8 @@
           "type": "botanical",
           "title": "Frankincense (乳香) — Ritual Resin",
           "url": "https://incenseherbs.com/ingredients/frankincense/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -523,7 +534,8 @@
           "type": "botanical",
           "title": "Borneol (龙脑) — Dragon Brain Aromatic",
           "url": "https://incenseherbs.com/ingredients/borneol/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -577,7 +589,8 @@
           "type": "botanical",
           "title": "Benzoin (安息香) — Sweet Resin",
           "url": "https://incenseherbs.com/ingredients/benzoin/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -631,7 +644,8 @@
           "type": "botanical",
           "title": "Myrrh (没药) — Bitter Resin",
           "url": "https://incenseherbs.com/ingredients/myrrh/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -675,7 +689,8 @@
           "type": "botanical",
           "title": "Clove (丁香) — Warm Spice Note",
           "url": "https://incenseherbs.com/ingredients/clove/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -720,7 +735,8 @@
           "type": "traditional",
           "title": "The 合香 Blending System: Composed Like a Formula",
           "url": "https://incenseherbs.com/blog/hexiang-blending-system/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -766,7 +782,8 @@
           "type": "traditional",
           "title": "香篆 (Seal Incense): Powder Pressed Into Patterns",
           "url": "https://incenseherbs.com/blog/incense-seal-zhuanxiang/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     }
