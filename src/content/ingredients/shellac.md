@@ -41,7 +41,7 @@ The material's aromatic weakness is exactly the point: 紫草茸 was prized in t
 紫草茸 must be understood for what it is: **the resinous secretion of a scale insect, not a plant material.** The classical sources understood this clearly:
 
 - The *Bencao Gangmu* (本草纲目), in its insect section (虫之一), records lac under 紫鉚, noting "蚁于海畔树藤皮中为之……正如蜂造蜜也" — insects make it on the bark of trees and vines by the sea, just as bees make honey.
-- The *Xiangcheng* (香乘) lists 紫矿 (lac) in incense formulas — for example the 宝金香 formula, which calls for "沉香一两、檀香一两、乳香一钱、紫矿二钱、安息香一钱" (agarwood, sandalwood, frankincense, lac, benzoin) — as a minor ingredient ground and blended with the aromatics.
+- The *Xiangcheng* (香乘) lists lac (紫矿) in incense formulas — for example the 宝金香 formula, which calls for "沉香一两、檀香一两、乳香一钱、紫矿二钱、安息香一钱" (agarwood, sandalwood, frankincense, lac, benzoin) — as a minor ingredient ground and blended with the aromatics.
 
 **This page describes 紫草茸 = lac resin = shellac.** It is insect-derived, and we state that plainly rather than filing it under a living plant. The modern term "shellac" refers to the purified form used as a varnish, and it is the same material.
 
@@ -63,7 +63,7 @@ In classical Chinese usage, lac was known under several names: 紫鉚 and 紫矿
 
 > **Direct answer:** In classical Chinese incense, lac was a minor supporting ingredient — a dye and a fixative-binder ground into formulas like 宝金香 — not a lead fragrance. Its role was functional: to color, bind, and support the aromatic core of agarwood, sandalwood, frankincense, and benzoin.
 
-Lac's place in classical incense was **supporting, not leading**. In the 香乘 formula 宝金香, it appears as 紫矿二钱 (two *qian* of lac) alongside the aromatics — a minor dose that served to color and bind rather than to scent. This reveals something about how classical 合香 formulas were engineered: they were built from an aromatic core (agarwood, sandalwood, frankincense, benzoin) plus functional non-aromatics (binders, dyes, fixative-support materials), and 紫草茸 belonged to the functional layer. It is the same logic by which 白及 (bletilla) appears as a binder — see [bletilla](/ingredients/bletilla/) and [how the 合香 blending system works](/blog/hexiang-blending-system/).
+Lac's place in classical incense was **supporting, not leading**. In the 香乘 formula 宝金香, it appears as 紫矿二钱 (two *qian* of lac) alongside the aromatics — a minor dose that served to color and bind rather than to scent. This reveals something about how classical 合香 formulas were engineered: they were built from an aromatic core (agarwood, sandalwood, frankincense, benzoin) plus functional non-aromatics (binders, dyes, fixative-support materials), and 紫草茸 belonged to the functional layer. It is the same logic by which bletilla (白及) appears as a binder — see [bletilla](/ingredients/bletilla/) and [how the 合香 blending system works](/blog/hexiang-blending-system/).
 
 ## How is it processed?
 
