@@ -40,7 +40,7 @@ Myrrh has a warm, balsamic, earthy aroma with a bitter, slightly medicinal edge 
 
 ## Chinese name and terminology
 
-> **Direct answer:** 没药 (mòyào) is the Chinese name for myrrh, classically paired with 乳香 (frankincense) in Chinese materia medica — a pairing that also runs through Western religious and perfumery tradition. The two are habitually named together as a matched pair of resins.
+> **Direct answer:** 没药 (mòyào) is the Chinese name for myrrh, classically paired with frankincense (乳香) in Chinese materia medica — a pairing that also runs through Western religious and perfumery tradition. The two are habitually named together as a matched pair of resins.
 
 In Chinese materia medica, 没药 (mòyào, myrrh) is classically paired with **乳香 (rǔxiāng, frankincense)**, and the two are habitually mentioned together. The pairing is not a Chinese invention alone: frankincense and myrrh travel together through Western religious and perfumery tradition as well, because both are gum-resins from the same plant family (Burseraceae) and complement each other's aroma — myrrh's bitter-balsamic depth against frankincense's fresh, citrus brightness. See [frankincense (乳香)](/ingredients/frankincense/).
 
@@ -54,7 +54,7 @@ The producing belt runs through the Horn of Africa (Somalia, Ethiopia) and the s
 
 > **Direct answer:** Myrrh is used in incense for its bitter-balsamic, grounding depth, almost always blended rather than burned alone. As a resin it melts and releases aroma under gentle heat, so it is typically warmed, not burned in a flame.
 
-Myrrh's role follows from its physical form and its scent: as a resin it **melts and volatilizes under gentle heat**, and its bitter-balsamic character makes it a depth note rather than a lead. In Chinese 合香 (blended incense) it is matched with frankincense, whose brighter, fresher note prevents the myrrh from feeling too heavy or medicinal. Its long ritual and funerary history — myrrh is one of the oldest traded resins — adds a cultural weight that matches its aroma. See the [frankincense incense guide](/blog/frankincense-incense/).
+Myrrh's role follows from its physical form and its scent: as a resin it **melts and volatilizes under gentle heat**, and its bitter-balsamic character makes it a depth note rather than a lead. In Chinese blended incense (合香) it is matched with frankincense, whose brighter, fresher note prevents the myrrh from feeling too heavy or medicinal. Its long ritual and funerary history — myrrh is one of the oldest traded resins — adds a cultural weight that matches its aroma. See the [frankincense incense guide](/blog/frankincense-incense/).
 
 ## Harvest & processing
 
@@ -162,7 +162,7 @@ Myrrh (没药) is the bitter-balsamic gum-resin of *Commiphora* trees, harvested
 
 ## FAQ
 
-**What is the difference between myrrh and frankincense?** Both are aromatic gum-resins from trees in the Burseraceae family, but they come from different genera and smell quite different. Myrrh is the resin of *Commiphora* trees, and it reads darker, bitter, and balsamic with a slightly medicinal edge. Frankincense is the resin of *Boswellia* trees, and it reads fresher, citrus, and creamy. In use they are classically paired — in Chinese materia medica, 没药 (myrrh) is traditionally matched with 乳香 (frankincense), and in incense the two are blended so frankincense brightens and balances myrrh's heavier, more earthy character. They are related materials, not the same resin.
+**What is the difference between myrrh and frankincense?** Both are aromatic gum-resins from trees in the Burseraceae family, but they come from different genera and smell quite different. Myrrh is the resin of *Commiphora* trees, and it reads darker, bitter, and balsamic with a slightly medicinal edge. Frankincense is the resin of *Boswellia* trees, and it reads fresher, citrus, and creamy. In use they are classically paired — in Chinese materia medica, myrrh (没药) is traditionally matched with frankincense (乳香), and in incense the two are blended so frankincense brightens and balances myrrh's heavier, more earthy character. They are related materials, not the same resin.
 
 **What does myrrh smell like?** Myrrh has a warm, balsamic, and earthy aroma with a bitter, slightly medicinal edge — darker and heavier than frankincense. It reads resinous and grounding rather than bright or citrus, with a depth that lingers. This bitter-balsamic character is why myrrh is often blended with frankincense, which adds a fresher, brighter counterpoint and prevents the myrrh from feeling too heavy or medicinal on its own. In perfumery and incense, myrrh sits as a base or middle note, lending warmth and an earthy richness to wood-and-resin blends. The exact profile varies by *Commiphora* species and grade.
 
