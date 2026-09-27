@@ -23,7 +23,7 @@ author: "Landeng Tech Team"
 ## Key Takeaways
 
 - Chinese incense is a **material tradition** (wood, resin, botanicals) plus a **cultural practice** (ritual, aesthetics, appreciation), not just "smoke sticks."
-- The classical incense culture reached its peak in the **Song dynasty (960–1279)**, which produced the technique of 隔火焚香 (indirect-fire incense) and the manual tradition 香谱 (xiāng pǔ).
+- The classical incense culture reached its peak in the **Song dynasty (960–1279)**, which produced the technique of indirect-fire incense (隔火焚香) and the manual tradition 香谱 (xiāng pǔ).
 - A common misconception is that incense appreciation is Japanese. The historical direction is the opposite: **Japanese kōdō evolved from Song-dynasty Chinese technique.**
 - Chinese incense occupies a recognizable middle ground between India's bold agarbatti and Japan's minimalist kōh — elegant but warm, complex but not overwhelming.
 - Incense is a **wellness and ambiance practice, not a medical treatment.** (See verification notes.)
@@ -76,7 +76,7 @@ This "middle path" — richer than Japanese minimalism, cleaner than Indian bold
 
 ## The Cultural Vocabulary Worth Knowing
 
-- **四般闲事 (sì bān xián shì)** — the "Four Leisure Arts": 烧香 (incense), 点茶 (tea), 挂画 (hanging scrolls), 插花 (flower arranging). Recorded in Wu Zimu's 梦粱录 (Meng Liang Lu). Incense was considered one of the four refined pastimes.
+- **四般闲事 (sì bān xián shì)** — the "Four Leisure Arts": incense (烧香), tea (点茶), hanging scrolls (挂画), flower arranging (插花). Recorded in Wu Zimu's 梦粱录 (Meng Liang Lu). Incense was considered one of the four refined pastimes.
 - **香道 (xiāngdào)** — "the Way of Incense," the practice of preparing and appreciating incense.
 - **合香 (hé xiāng)** — blended/compound incense built on a 君臣佐使 (chief–minister–assistant–guide) principle, analogous to Chinese herbal formulation.
 - **香谱 (xiāng pǔ)** — incense manuals, the earliest and most complete body of incense literature in the world (陈氏香谱, 洪芻香谱, 香乘), still largely untranslated.
@@ -113,7 +113,7 @@ Chinese incense is not one shape. The materials are the substance; the forms are
 
 The deeper point: the classical tradition's center of gravity was the *material*, not the stick. The stick is a later, everyday delivery system.
 
-## 隔火焚香: The Refined "Scent, Not Smoke" Technique
+## indirect-fire incense (隔火焚香): The Refined "Scent, Not Smoke" Technique
 
 The technique that best defines refined Chinese incense is 隔火焚香 (gé huǒ fén xiāng), "indirect-fire incense." Instead of setting fire to the wood, you bury a small piece of hot charcoal in a bed of ash, lay a thin plate (silver or mica) over it, and rest the fragrant material on the plate. The material releases its aroma through gentle radiant heat, with almost no smoke.
 
