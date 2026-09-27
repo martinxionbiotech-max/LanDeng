@@ -51,9 +51,9 @@ None of these is a classical 香谱 (Xiang Pu) or 香乘 (Xiang Cheng) term. The
 
 ## The modern-crossover point (read this)
 
-> **Direct answer:** 岩蔷薇 (labdanum) is not a classical Chinese incense material. It comes from a Mediterranean shrub, and its documented use is in modern Western perfumery, not in the historical 香谱 or 香乘 tradition. This encyclopedia includes it for completeness and comparison — as a modern resin that Chinese-market buyers may encounter through the global fragrance trade — not as a claim of classical Chinese origin.
+> **Direct answer:** labdanum (岩蔷薇) is not a classical Chinese incense material. It comes from a Mediterranean shrub, and its documented use is in modern Western perfumery, not in the historical 香谱 or 香乘 tradition. This encyclopedia includes it for completeness and comparison — as a modern resin that Chinese-market buyers may encounter through the global fragrance trade — not as a claim of classical Chinese origin.
 
-岩蔷薇 (labdanum) is **not a classical Chinese incense material**. It comes from a Mediterranean shrub, and its documented use is in modern Western perfumery, not in the historical 香谱 (Xiang Pu) or 香乘 (Xiang Cheng) tradition of Chinese incense. This encyclopedia includes it for completeness and comparison — as a modern resin that Chinese-market buyers may encounter through the global fragrance trade — **not** as a claim of classical Chinese origin. This is a sourcing and category honesty note, and it matters because a buyer looking for an "authentic Chinese" incense material should not be sold labdanum on that basis.
+labdanum (岩蔷薇) is **not a classical Chinese incense material**. It comes from a Mediterranean shrub, and its documented use is in modern Western perfumery, not in the historical 香谱 (Xiang Pu) or 香乘 (Xiang Cheng) tradition of Chinese incense. This encyclopedia includes it for completeness and comparison — as a modern resin that Chinese-market buyers may encounter through the global fragrance trade — **not** as a claim of classical Chinese origin. This is a sourcing and category honesty note, and it matters because a buyer looking for an "authentic Chinese" incense material should not be sold labdanum on that basis.
 
 ## The amber-accord function (read this)
 
