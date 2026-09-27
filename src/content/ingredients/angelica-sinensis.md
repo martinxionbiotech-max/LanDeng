@@ -24,13 +24,13 @@ related: ["angelica", "atractylodes", "calamus"]
 | Botanical source | *Angelica sinensis* (family Apiaceae) — the dried root |
 | What it is | A famous materia-medica root, distinct from 白芷 |
 | Aroma | Herbal, sweet, warm, slightly spicy |
-| Traditional role | 当归 in materia medica; a 香囊 (sachet) herb |
+| Traditional role | 当归 in materia medica; a sachet (香囊) herb |
 
 ## Aroma profile
 
 > **Direct answer:** 当归 has a warm, sweet, herbal scent with a slightly spicy, rooty undertone — dry and earthy, more like a seasoned root than a flower. It is less sharp than its close relative 白芷, and its sweetness is fuller. As an aromatic it contributes a warm, grounding root note rather than a bright top note.
 
-当归 has a warm, sweet, herbal scent with a slightly spicy, rooty undertone — dry and earthy, more like a seasoned root than a flower. It is less sharp than its close relative 白芷 (*Angelica dahurica*), and its sweetness is fuller. As an aromatic it contributes a warm, grounding root note rather than a bright top note, which suits its traditional place in 香囊 (scented sachets) and blended preparations.
+当归 has a warm, sweet, herbal scent with a slightly spicy, rooty undertone — dry and earthy, more like a seasoned root than a flower. It is less sharp than its close relative 白芷 (*Angelica dahurica*), and its sweetness is fuller. As an aromatic it contributes a warm, grounding root note rather than a bright top note, which suits its traditional place in scented sachets (香囊) and blended preparations.
 
 ## Botanical identity
 
@@ -44,14 +44,14 @@ related: ["angelica", "atractylodes", "calamus"]
 
 The name 当归 (dāngguī) is a phrase, not a descriptive compound: 当 "ought to" + 归 "return." The *Bencao Gangmu* records the classical story behind it — a wife awaiting her husband's return — which is why the root's name reads as a proverb rather than a botanical description. The same text records three classical aliases — 乾归, 山蕲, and 文无 — a cluster of names that signals the herb's long and central place in the materia-medica canon.
 
-## The 当归 / 白芷 distinction (read this)
+## The dong quai (当归) / angelica root (白芷) distinction (read this)
 
-> **Direct answer:** 当归 and 白芷 are same genus, different species — *Angelica sinensis* versus *Angelica dahurica* — and the difference in role is as large as the difference in plant. 当归 is the warm, sweet "women's herb" of materia medica and a 香囊 sachet root; 白芷 is the sharper aromatic root used in 合香 (blended incense). The shared English word "angelica" hides a real botanical and functional difference.
+> **Direct answer:** 当归 and 白芷 are same genus, different species — *Angelica sinensis* versus *Angelica dahurica* — and the difference in role is as large as the difference in plant. 当归 is the warm, sweet "women's herb" of materia medica and a 香囊 sachet root; 白芷 is the sharper aromatic root used in blended incense (合香). The shared English word "angelica" hides a real botanical and functional difference.
 
 当归 and 白芷 are **same genus, different species** — and the difference matters:
 
-- **当归 (dong quai)** — *Angelica sinensis*. The "women's herb" of materia medica; a warm, sweet root. This entry.
-- **白芷 (angelica)** — *Angelica dahurica*. The aromatic root used in 合香 (blended incense). Its own entry.
+- **dong quai (当归)** — *Angelica sinensis*. The "women's herb" of materia medica; a warm, sweet root. This entry.
+- **angelica (白芷)** — *Angelica dahurica*. The aromatic root used in blended incense (合香). Its own entry.
 
 The *Bencao Gangmu* (本草纲目), herb section (草之三), records 当归 with the classical names 乾归, 山蕲, and 文无, and quotes the *Bencao Jingshu* tradition calling it 女人要药 ("the essential herb for women"). **This page describes 当归 = *Angelica sinensis*, not 白芷 = *Angelica dahurica*.** See [angelica (白芷)](/ingredients/angelica/).
 
@@ -61,7 +61,7 @@ The *Bencao Gangmu* (本草纲目), herb section (草之三), records 当归 wit
 
 A reader might reasonably ask why a famous medicine root appears in an incense encyclopedia at all. The answer is a category boundary worth stating plainly:
 
-- **当归 is a sachet herb, not a burn material.** Its place in Chinese aromatics is the 香囊 (scented sachet) — a small cloth pouch of fragrant herbs worn or hung so the scent is carried by proximity. It is not a classical 香乘 incense staple and is not burned as a 香材.
+- **当归 is a sachet herb, not a burn material.** Its place in Chinese aromatics is the scented sachet (香囊) — a small cloth pouch of fragrant herbs worn or hung so the scent is carried by proximity. It is not a classical 香乘 incense staple and is not burned as a 香材.
 - **Its fame is medicinal, not aromatic.** 当归 is one of the best-known roots in Chinese materia medica, but that renown is a medicinal tradition, not a fragrance one. The warm, sweet root note it contributes is quiet and grounding — useful in a blend, but not the reason the root is famous.
 - **The aromatic role and the medicinal role must not be run together.** This page records the sachet and aromatic use; the medicinal reputation is traditional language, not something to import into an incense claim.
 
@@ -143,7 +143,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 |---|---|---|
 | Botanical source | *Angelica sinensis* | *Angelica dahurica* |
 | Aroma | Warm, sweet, herbal, slightly spicy | Herbal, aromatic, sweet-bitter, slightly spicy |
-| Role | Materia medica ("women's herb"); sachet (香囊) | Aromatic root in 合香 (blended incense) |
+| Role | Materia medica ("women's herb"); sachet (香囊) | Aromatic root in blended incense (合香) |
 | Key point | Sachet herb, not a burn material | The incense-use *Angelica* |
 
 See [angelica (白芷)](/ingredients/angelica/), [atractylodes](/ingredients/atractylodes/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
@@ -166,17 +166,17 @@ In our view, 当归 is a warm, sweet sachet root whose commercial value sits in 
 
 ## FAQ
 
-**What is 当归 (dong quai)?** The dried root of *Angelica sinensis*, a herb of the carrot family (Apiaceae) native to China. It is one of the most famous roots in Chinese materia medica, recorded in the *Bencao Gangmu* (本草纲目) as 女人要药 ("the essential herb for women"), with a warm, sweet, herbal scent.
+**What is dong quai (当归)?** The dried root of *Angelica sinensis*, a herb of the carrot family (Apiaceae) native to China. It is one of the most famous roots in Chinese materia medica, recorded in the *Bencao Gangmu* (本草纲目) as 女人要药 ("the essential herb for women"), with a warm, sweet, herbal scent.
 
-**Is 当归 the same as 白芷 (angelica)?** No. 当归 is *Angelica sinensis* and 白芷 is *Angelica dahurica* — same genus, different species, different roles. 当归 is the warm, sweet "women's herb" of materia medica and a 香囊 sachet root, while 白芷 is the sharper aromatic root used in 合香 (blended incense). The shared English word "angelica" hides a real botanical difference.
+**Is dong quai (当归) the same as angelica (白芷)?** No. 当归 is *Angelica sinensis* and 白芷 is *Angelica dahurica* — same genus, different species, different roles. 当归 is the warm, sweet "women's herb" of materia medica and a 香囊 sachet root, while 白芷 is the sharper aromatic root used in blended incense (合香). The shared English word "angelica" hides a real botanical difference.
 
-**What does 当归 smell like?** Warm, sweet, and herbal, with a slightly spicy, rooty undertone — dry and earthy, more like a seasoned root than a flower. It is less sharp and fuller-sweet than its relative 白芷 (*Angelica dahurica*), contributing a warm, grounding root note rather than a bright top note.
+**What does dong quai (当归) smell like?** Warm, sweet, and herbal, with a slightly spicy, rooty undertone — dry and earthy, more like a seasoned root than a flower. It is less sharp and fuller-sweet than its relative 白芷 (*Angelica dahurica*), contributing a warm, grounding root note rather than a bright top note.
 
-**Does 当归 appear in the Bencao Gangmu?** Yes. The *Bencao Gangmu* (本草纲目), herb section (草之三), records 当归 with the classical names 乾归, 山蕲, and 文无, and describes it as 女人要药. The name 当归 ("ought to return") carries a classical story of a wife awaiting her husband's return. Medicinal uses are traditional, not established clinical fact.
+**Does dong quai (当归) appear in the Bencao Gangmu?** Yes. The *Bencao Gangmu* (本草纲目), herb section (草之三), records 当归 with the classical names 乾归, 山蕲, and 文无, and describes it as 女人要药. The name 当归 ("ought to return") carries a classical story of a wife awaiting her husband's return. Medicinal uses are traditional, not established clinical fact.
 
-**Is 当归 used in incense?** Not as a classical burned material. 当归 is a materia-medica root and a 香囊 (scented sachet) herb — its scent is carried by proximity in a cloth sachet rather than by burning. Its role in aromatics is a warm root note in sachets and blends, not a 香乘 incense staple.
+**Is dong quai (当归) used in incense?** Not as a classical burned material. 当归 is a materia-medica root and a scented sachet (香囊) herb — its scent is carried by proximity in a cloth sachet rather than by burning. Its role in aromatics is a warm root note in sachets and blends, not a 香乘 incense staple.
 
-**How should I buy 当归 for aromatic use?** Confirm the species (*Angelica sinensis*, not *Angelica dahurica*), check for a warm, sweet, herbal aroma and clean, well-dried root, and match the form to the use — whole or sliced root for sachets, powder for blending. Price it as a sachet herb, not by its medicinal fame, and keep the two roles apart.
+**How should I buy dong quai (当归) for aromatic use?** Confirm the species (*Angelica sinensis*, not *Angelica dahurica*), check for a warm, sweet, herbal aroma and clean, well-dried root, and match the form to the use — whole or sliced root for sachets, powder for blending. Price it as a sachet herb, not by its medicinal fame, and keep the two roles apart.
 
 See also: [angelica (白芷)](/ingredients/angelica/), [atractylodes](/ingredients/atractylodes/), [calamus](/ingredients/calamus/), and the full [scent guide](/blog/scent-guide/).
 
