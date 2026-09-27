@@ -102,7 +102,7 @@ For the buyer-facing decision of which form fits which session, see [which incen
 
 The classic example runs through all three layers at once:
 
-- **柏子香 (cypress-seed incense)** — the *material* is cypress seed (柏子), the *technique* is honey-binding and (historically) forming, and the *form* is a loose material or a pellet. See the [cypress seed entity](/ingredients/cypress-seed/) and the [baizi recipe](/blog/baizi-incense-recipe/).
+- **cypress-seed incense (柏子香)** — the *material* is cypress seed (柏子), the *technique* is honey-binding and (historically) forming, and the *form* is a loose material or a pellet. See the [cypress seed entity](/ingredients/cypress-seed/) and the [baizi recipe](/blog/baizi-incense-recipe/).
 
 A stick of natural sandalwood is the same logic: sandalwood wood powder (material) → ground and bound with makko (technique) → a coreless stick (form).
 
