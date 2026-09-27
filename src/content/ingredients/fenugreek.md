@@ -57,7 +57,7 @@ This provenance note is unusual and valuable: the *Bencao Gangmu* itself perform
 
 > **Direct answer:** The name 葫芦巴 (húlúbā, also 胡芦巴) is a phonetic loanword, and its 胡 element marks foreign origin — the same 胡 prefix that labels "barbarian"/western imports across the Chinese materia-medica vocabulary. The *Bencao Gangmu* itself notes the seed "came from overseas" (種出海南諸番).
 
-The name 葫芦巴 (also written 胡芦巴) is a phonetic loanword, and its 胡 element is the classical marker of foreign origin — the same 胡 prefix in 胡荽 (coriander) and 胡椒 (pepper) that labels western or "barbarian" imports. The *Bencao Gangmu* reinforces this with "種出海南諸番" (the seed came from overseas regions). For a reader, the 胡 prefix is itself a provenance signal: a material with a 胡 name is a foreign-origin import, and in the case of 葫芦巴, the source text confirms it came late and from outside.
+The name 葫芦巴 (also written 胡芦巴) is a phonetic loanword, and its 胡 element is the classical marker of foreign origin — the same 胡 prefix in coriander (胡荽) and pepper (胡椒) that labels western or "barbarian" imports. The *Bencao Gangmu* reinforces this with "種出海南諸番" (the seed came from overseas regions). For a reader, the 胡 prefix is itself a provenance signal: a material with a 胡 name is a foreign-origin import, and in the case of 葫芦巴, the source text confirms it came late and from outside.
 
 ## Why is it used in fragrance and food?
 
@@ -133,7 +133,7 @@ The three are routinely grouped as "seed spices" but are different families and 
 From a sourcing and editorial perspective, fenugreek is most interesting for the rare precision of its own record. Three points follow:
 
 - **The source dates itself.** The *Bencao Gangmu* does not merely list 葫芦巴; it flags it as absent from pre-Tang formulas and the older bencao, calling it "蓋是近出" (recent). Few materials carry such an explicit in-source statement of their own lateness. For a knowledge resource built on the classical-vs-later distinction, this is gold: the "later arrival" classification is not our editorial inference but the source's own claim.
-- **The 胡 prefix is a provenance marker, not decoration.** 葫芦巴 shares the 胡 foreign-origin prefix with 胡荽 (coriander) and 胡椒 (pepper). Across the materia-medica vocabulary, 胡 labels a western/foreign import, and the *Bencao Gangmu* confirms it with "種出海南諸番." A reader who learns to read 胡 as "import" gains a portable disambiguation tool for the whole aromatic canon.
+- **The 胡 prefix is a provenance marker, not decoration.** 葫芦巴 shares the 胡 foreign-origin prefix with coriander (胡荽) and pepper (胡椒). Across the materia-medica vocabulary, 胡 labels a western/foreign import, and the *Bencao Gangmu* confirms it with "種出海南諸番." A reader who learns to read 胡 as "import" gains a portable disambiguation tool for the whole aromatic canon.
 - **The maple note is a modern register, and that is the real tell.** Sotolone's maple-caramel sweetness is a gourmand value that classical Chinese incense did not pursue. This is the same structural gap the [peru balsam](/ingredients/peru-balsam/) entry identifies — the sweet-gourmand register arrived with later imports, not with the classical palette. Fenugreek's maple note marks it as part of that modern crossover.
 
 In our view, fenugreek is best understood as a **self-dated, foreign-origin latercomer whose maple-sweet note belongs to the modern gourmand register** — a legume seed that the *Bencao Gangmu* itself marks as recent, and whose sourcing story is therefore one of honest lateness rather than classical recovery.
@@ -144,17 +144,17 @@ Fenugreek (葫芦巴) is the small, hard seed of *Trigonella foenum-graecum*, a 
 
 ## FAQ
 
-**What is 葫芦巴 (fenugreek)?** The small, hard seed of *Trigonella foenum-graecum*, a legume (Fabaceae) native to the Mediterranean and western Asia. Roasted, it has a warm, sweet, maple-like, faintly nutty-bitter aroma, and it entered Chinese materia medica as a late, "recent" arrival rather than a classical 香材.
+**What is fenugreek (葫芦巴)?** The small, hard seed of *Trigonella foenum-graecum*, a legume (Fabaceae) native to the Mediterranean and western Asia. Roasted, it has a warm, sweet, maple-like, faintly nutty-bitter aroma, and it entered Chinese materia medica as a late, "recent" arrival rather than a classical 香材.
 
 **Is fenugreek a classical Chinese incense ingredient?** No. The *Bencao Gangmu* (本草纲目) records 葫芦巴 as a relatively recent addition — it appears in later materia medica but not in pre-Tang formulas, and its name points to a foreign ("番") origin. It is a later aromatic and food-spice crossover, not part of the classical incense canon.
 
 **Why does fenugreek smell like maple?** The characteristic sweet, maple-like note comes from sotolone, an aroma compound in the roasted seed. The raw seed is more bitter; roasting develops the warm, sweet, maple-syrup character with a nutty, faintly celery-like edge.
 
-**What does 葫芦巴 smell like?** Warm, sweet, and maple-like, with a nutty, faintly bitter edge — a gourmand, food-spice profile rather than a woodsy or resinous one. It reads sweet and comforting, closer to a flavoring than to a classical incense resin.
+**What does fenugreek (葫芦巴) smell like?** Warm, sweet, and maple-like, with a nutty, faintly bitter edge — a gourmand, food-spice profile rather than a woodsy or resinous one. It reads sweet and comforting, closer to a flavoring than to a classical incense resin.
 
 **How is fenugreek used in fragrance?** As a warm, sweet, gourmand accent. It is a food spice first, and in fragrance it lends a maple-like warmth rather than a resinous or floral note. It is a later crossover into the Chinese record, not a lead 香材.
 
-**What does the 胡 in 葫芦巴 mean?** It is the classical foreign-origin prefix, the same 胡 in 胡荽 (coriander) and 胡椒 (pepper), labeling a western or "barbarian" import. The *Bencao Gangmu* confirms the foreign origin with "種出海南諸番" (the seed came from overseas regions).
+**What does the 胡 in fenugreek (葫芦巴) mean?** It is the classical foreign-origin prefix, the same 胡 in coriander (胡荽) and pepper (胡椒), labeling a western or "barbarian" import. The *Bencao Gangmu* confirms the foreign origin with "種出海南諸番" (the seed came from overseas regions).
 
 See also: [cumin](/ingredients/cumin/), [fennel](/ingredients/fennel/), [coriander seed](/ingredients/coriander-seed/), and the full [scent guide](/blog/scent-guide/).
 
