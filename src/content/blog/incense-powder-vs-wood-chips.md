@@ -166,7 +166,7 @@ The question is not really about burn time — the two forms are used differentl
 Powder. Making a stick, cone, coil, or seal pattern requires a fine, blendable material that packs and burns evenly — and only a powder can be distributed uniformly through a paste with a binder. The grind size matters: it changes how the material packs, draws air, and burns, and the correct target depends on your binder and production line. If you buy chips for making, you will grind them to powder yourself, moving the material from one form to the other. See [how incense is made](/blog/how-incense-is-made/).
 
 ### Q: Which form is better for appreciating a single material?
-Chips. Warming a chip whole — on charcoal buried in ash or on an electric heater — releases the material's aroma in stages as heat penetrates, without any binder or other ingredient in the way. This is the 品香 (appreciation) practice, and it is why chips are the classic form for enjoying [agarwood](/ingredients/agarwood/) and [sandalwood](/ingredients/sandalwood/). Powder, by contrast, is already prepared for blending, so it is less suited to tasting a single material on its own.
+Chips. Warming a chip whole — on charcoal buried in ash or on an electric heater — releases the material's aroma in stages as heat penetrates, without any binder or other ingredient in the way. This is the appreciation (品香) practice, and it is why chips are the classic form for enjoying [agarwood](/ingredients/agarwood/) and [sandalwood](/ingredients/sandalwood/). Powder, by contrast, is already prepared for blending, so it is less suited to tasting a single material on its own.
 
 ---
 
