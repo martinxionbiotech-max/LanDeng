@@ -184,7 +184,7 @@ Pine resin (松香) is the hardened oleoresin of *Pinus* trees, the same materia
 
 **How do you burn pine resin?** Like other resins — on a lit charcoal disc (in sand or ash on a heatproof surface) or more gently on an electric incense heater. Use small pieces; it melts and releases fragrant smoke. The charcoal method is hotter and produces more smoke, while the electric heater is slower, lower in smoke, and often preferred indoors. Keep it in a ventilated space and store unused resin away from flame, since it is flammable.
 
-**What is the difference between 松香 and 松脂?** Both are pine resin at different stages. 松脂 (sōngzhī) is the raw oleoresin as it comes from the tree — the sticky gum. 松香 (sōngxiāng) is the refined rosin/colophony left after the volatile turpentine is distilled off. They are the same material, raw versus refined, and they serve different uses — the raw gum for incense aroma, the refined solid for binder and industrial roles.
+**What is the difference between pine resin (松香) and pine resin (松脂)?** Both are pine resin at different stages. 松脂 (sōngzhī) is the raw oleoresin as it comes from the tree — the sticky gum. 松香 (sōngxiāng) is the refined rosin/colophony left after the volatile turpentine is distilled off. They are the same material, raw versus refined, and they serve different uses — the raw gum for incense aroma, the refined solid for binder and industrial roles.
 
 See also: [pine needles (松针)](/ingredients/pine-needles/), [cedar](/ingredients/cedar/), [borneol](/ingredients/borneol/), [amber](/ingredients/amber/) and the full [scent guide](/blog/scent-guide/).
 
