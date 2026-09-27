@@ -24,7 +24,7 @@ related: ["cinnamon", "clove", "ginger"]
 | Botanical source | *Cinnamomum cassia* (syn. *C. aromaticum*), family Lauraceae — the young twig |
 | What it is | The young branch of the cassia tree, distinct from its bark |
 | Aroma | Warm, spicy, sweet, woody |
-| Traditional role | Materia medica; same tree as 桂皮 (cinnamon bark) |
+| Traditional role | Materia medica; same tree as cinnamon bark (桂皮) |
 
 ## Aroma profile
 
@@ -34,14 +34,14 @@ related: ["cinnamon", "clove", "ginger"]
 
 The aroma difference is a *part* difference: the bark concentrates the tree's pungent aromatic oils at their densest, while the young twig carries the same warmth more lightly, with a greener, woodier character. This is the same "same tree, different part" logic that separates 桂皮 from 桂枝 — and it is the whole reason the two are distinguished in the classical record.
 
-## The 桂枝 / 桂皮 distinction (read this)
+## The Cassia Twig (桂枝) / cinnamon bark (桂皮) distinction (read this)
 
 > **Direct answer:** 桂枝 and 桂皮 come from the same tree, different parts: 桂枝 is the young, slender branch, lighter and woodier; 桂皮 is the mature bark, denser and more pungent. The *Bencao Gangmu* records the tree under 桂 and distinguishes its parts.
 
 桂枝 and 桂皮 come from the **same tree, different parts**:
 
-- **桂枝 (cassia twig)** — the young, slender branch of *Cinnamomum cassia*. This entry.
-- **桂皮 (cinnamon bark)** — the mature bark of the same tree. Its own entry (the "cinnamon" entry on this site).
+- **cassia twig (桂枝)** — the young, slender branch of *Cinnamomum cassia*. This entry.
+- **cinnamon bark (桂皮)** — the mature bark of the same tree. Its own entry (the "cinnamon" entry on this site).
 
 The *Bencao Gangmu* (本草纲目), 木之一, records the tree under 桂, distinguishing its parts — the bark (桂皮/肉桂) and the young twig (桂枝) — with the classical note "桂枝之下無雜木" (no other wood grows beneath the cassia twig), from the *Lüshi Chunqiu*. **This page describes 桂枝 = the young twig, not the bark.** See [cinnamon (桂皮)](/ingredients/cinnamon/).
 
@@ -61,7 +61,7 @@ There is a naming point worth pinning down:
 
 - **桂 (the tree)** — *Cinnamomum cassia* (syn. *C. aromaticum*), the Chinese cassia, one tree supplying both bark and twig.
 - **桂皮 (cinnamon bark / cassia)** — the mature bark, the pungent spice, this site's "cinnamon" entry.
-- **桂枝 (cassia twig)** — the young twig, the materia-medica part, this entry.
+- **cassia twig (桂枝)** — the young twig, the materia-medica part, this entry.
 
 In much Western spice usage, "cinnamon" loosely covers both true cinnamon (*C. verum*) and cassia (*C. cassia*); the tree here is the Chinese cassia, and its twig (桂枝) is a distinct part from its bark (桂皮). The two entries on this site record that part split. See [cinnamon](/ingredients/cinnamon/).
 
@@ -107,7 +107,7 @@ There is no distillation or extraction step; cassia twig is a whole dried branch
 
 The quality factors:
 
-1. **Part** — the decisive factor; 桂枝 (young twig) vs 桂皮 (bark) are different materials with different characters.
+1. **Part** — the decisive factor; young twig (桂枝) vs 桂皮 (bark) are different materials with different characters.
 2. **Condition** — clean, dry, intact twigs without mold or damage.
 3. **Aroma** — a warm, spicy, woody-cinnamon scent, lighter and greener than the bark.
 
@@ -158,11 +158,11 @@ Cassia twig (桂枝) is the young, slender branch of *Cinnamomum cassia* (syn. *
 
 ## FAQ
 
-**What is 桂枝 (cassia twig)?** The young, slender branch of the cassia tree, *Cinnamomum cassia* (syn. *C. aromaticum*), the same tree that yields cinnamon bark (桂皮). It has a warm, spicy, sweet, woody-cinnamon scent and is a classical Chinese materia-medica part.
+**What is cassia twig (桂枝)?** The young, slender branch of the cassia tree, *Cinnamomum cassia* (syn. *C. aromaticum*), the same tree that yields cinnamon bark (桂皮). It has a warm, spicy, sweet, woody-cinnamon scent and is a classical Chinese materia-medica part.
 
-**Is 桂枝 the same as 桂皮 (cinnamon bark)?** No — same tree, different parts. 桂枝 is the young twig, lighter and woodier; 桂皮 is the mature bark, denser and more pungent. The *Bencao Gangmu* (本草纲目) records the tree under 桂 and distinguishes its parts — the bark (桂皮) and the young twig (桂枝).
+**Is Cassia Twig (桂枝) the same as cinnamon bark (桂皮)?** No — same tree, different parts. 桂枝 is the young twig, lighter and woodier; 桂皮 is the mature bark, denser and more pungent. The *Bencao Gangmu* (本草纲目) records the tree under 桂 and distinguishes its parts — the bark (桂皮) and the young twig (桂枝).
 
-**What does 桂枝 smell like?** Warm, spicy, sweet, and woody-cinnamon — the familiar cassia aroma, but from the young twig rather than the bark. It is lighter and more woody-green than the dense, pungent bark (桂皮), carrying the same warmth with a fresher, branch-like edge.
+**What does Cassia Twig (桂枝) smell like?** Warm, spicy, sweet, and woody-cinnamon — the familiar cassia aroma, but from the young twig rather than the bark. It is lighter and more woody-green than the dense, pungent bark (桂皮), carrying the same warmth with a fresher, branch-like edge.
 
 **Is cassia twig an incense ingredient?** It is primarily a materia-medica part. Its warm cassia scent can lend a woody-spicy accent, and it is the twig of the same tree as the incense spice cassia (桂皮), but its classical role is in materia medica rather than as a lead 香材.
 
