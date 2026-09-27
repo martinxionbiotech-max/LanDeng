@@ -49,7 +49,7 @@ The name 玉兰 means "jade orchid": 玉 (jade) for the white flowers, 兰 (orch
 
 The line is further blurred because 辛夷 may in practice be sourced from the buds of related magnolias including *M. denudata*. **This page describes 玉兰 = *Magnolia denudata*.**
 
-## The 玉兰 / 辛夷 distinction (read this)
+## The yulan magnolia (玉兰) / magnolia flower bud (辛夷) distinction (read this)
 
 > **Direct answer:** Two magnolia-family materials share the "magnolia" name but differ in species and, crucially, plant part: 玉兰 is the open white flower of *Magnolia denudata*, while 辛夷 is the dried, unopened bud of *Magnolia biondii* and relatives. Flower vs bud is the key distinction — an open flower is fresh and green-lemony, while a closed bud is spicy and camphoraceous.
 
@@ -144,17 +144,17 @@ In our view, 玉兰 is a delicate fresh white-floral top note — buy it by plan
 
 ## FAQ
 
-**What is 玉兰 (yulan magnolia)?** The flower of *Magnolia denudata*, a deciduous tree of the magnolia family (Magnoliaceae) native to central and eastern China. Its large, white, fragrant flowers open on bare branches in late winter and early spring, and the flower is used in Chinese incense and fragrance as a fresh white-floral note. Flora of China treats it as *Yulania denudata*.
+**What is yulan magnolia (玉兰)?** The flower of *Magnolia denudata*, a deciduous tree of the magnolia family (Magnoliaceae) native to central and eastern China. Its large, white, fragrant flowers open on bare branches in late winter and early spring, and the flower is used in Chinese incense and fragrance as a fresh white-floral note. Flora of China treats it as *Yulania denudata*.
 
-**How does 玉兰 differ from 辛夷 (magnolia flower bud)?** They are related magnolia-family materials but distinct, chiefly by plant part. 玉兰 is the open white flower of *Magnolia denudata* — fresh, green, and slightly lemony. 辛夷 is the dried, unopened bud of *Magnolia biondii* (and sometimes related magnolias including *M. denudata*) — spicy and camphoraceous. Each has its own entry in this encyclopedia.
+**How does yulan magnolia (玉兰) differ from magnolia flower bud (辛夷)?** They are related magnolia-family materials but distinct, chiefly by plant part. 玉兰 is the open white flower of *Magnolia denudata* — fresh, green, and slightly lemony. 辛夷 is the dried, unopened bud of *Magnolia biondii* (and sometimes related magnolias including *M. denudata*) — spicy and camphoraceous. Each has its own entry in this encyclopedia.
 
-**What does 玉兰 smell like?** A fresh, clear white floral with a green, slightly lemony brightness — lighter and more open than a bud, with none of jasmine's heavy indole or 辛夷's spicy camphor. In a blend it works as a fresh floral top note that lifts rather than deepens, closer in spirit to a delicate white flower.
+**What does yulan magnolia (玉兰) smell like?** A fresh, clear white floral with a green, slightly lemony brightness — lighter and more open than a bud, with none of jasmine's heavy indole or 辛夷's spicy camphor. In a blend it works as a fresh floral top note that lifts rather than deepens, closer in spirit to a delicate white flower.
 
-**Is 玉兰 in the classical incense record?** Not as a canonical ingredient — 玉兰 does not appear in the classical incense compendium 香乘. Its documented classical role is ornamental and cultural: a celebrated garden tree and early-spring symbol. Its use in incense is a lighter, modern floral application rather than a 香道 heritage material.
+**Is yulan magnolia (玉兰) in the classical incense record?** Not as a canonical ingredient — 玉兰 does not appear in the classical incense compendium 香乘. Its documented classical role is ornamental and cultural: a celebrated garden tree and early-spring symbol. Its use in incense is a lighter, modern floral application rather than a 香道 heritage material.
 
 **Where does the yulan magnolia grow?** *Magnolia denudata* is native to central and eastern China (Anhui, Chongqing, northern Guangdong, Guizhou, Hubei, Hunan, Jiangxi, Shaanxi, Yunnan, Zhejiang) and has been widely cultivated as an ornamental and timber tree across temperate parts of the world. It belongs to the magnolia family (Magnoliaceae), the same family as 辛夷 (*Magnolia biondii*).
 
-**What part of the plant is used for 玉兰?** The open flower — the large white bloom of *Magnolia denudata* — is the part used. This distinguishes it from 辛夷, which uses the closed, unopened bud. The open flower is fresh and green-lemony; the closed bud is spicy and camphoraceous, so the plant part is the key specification.
+**What part of the plant is used for yulan magnolia (玉兰)?** The open flower — the large white bloom of *Magnolia denudata* — is the part used. This distinguishes it from 辛夷, which uses the closed, unopened bud. The open flower is fresh and green-lemony; the closed bud is spicy and camphoraceous, so the plant part is the key specification.
 
 See also: [magnolia-flower](/ingredients/magnolia-flower/), [champaca](/ingredients/champaca/), and the full [scent guide](/blog/scent-guide/).
 
