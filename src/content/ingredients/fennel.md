@@ -14,13 +14,13 @@ related: ["star-anise", "clove"]
 
 <img src="/images/fennel-raw-material-800x533.webp" alt="Raw Fennel (Foeniculum vulgare) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Fennel — *xiǎohuíxiāng* (小茴香) in Chinese — is the dried seed-like fruit of *Foeniculum vulgare*, a herbaceous plant of the carrot family (Apiaceae). It is best known as a sweet, anise-like culinary spice, and it appears in Chinese incense as a warm, sweet supporting note in classical 合香 (blended incense) formulas — including the famous 寿阳公主梅花香 (Shouyang princess's plum incense), where it is listed as 茴香. It is distinct from the larger, star-shaped 八角 (star anise, *Illicium verum*), which Chinese usage sometimes also calls 大茴香.
+**Technical answer:** Fennel — *xiǎohuíxiāng* (小茴香) in Chinese — is the dried seed-like fruit of *Foeniculum vulgare*, a herbaceous plant of the carrot family (Apiaceae). It is best known as a sweet, anise-like culinary spice, and it appears in Chinese incense as a warm, sweet supporting note in classical blended incense (合香) formulas — including the famous Shouyang princess's plum incense (寿阳公主梅花香), where it is listed as 茴香. It is distinct from the larger, star-shaped 八角 (star anise, *Illicium verum*), which Chinese usage sometimes also calls 大茴香.
 
 ## Key facts
 
 | | |
 |---|---|
-| Chinese | 小茴香 (xiǎohuíxiāng), also 茴香; cf. 大茴香/八角 (star anise) |
+| Chinese | 小茴香 (xiǎohuíxiāng), also 茴香; cf. 大茴香/star anise (八角) |
 | Botanical source | *Foeniculum vulgare* (family Apiaceae) — the dried fruit |
 | What it is | A dried aromatic seed-fruit, a spice |
 | Aroma | Sweet, anise-like, warm, slightly herbaceous |
@@ -40,7 +40,7 @@ Flora of China records *Foeniculum vulgare* as a plant **0.4–2 m tall**, with 
 
 ## Chinese name and terminology
 
-> **Direct answer:** 小茴香 (xiǎohuíxiāng) means "small fennel," and 茴香 (huíxiāng) is its shorter form. The name overlaps with 大茴香/八角 (star anise) — a different plant — because both carry the anethole sweetness; classical recipes listing 茴香 are usually read as fennel, but the ambiguity is real.
+> **Direct answer:** 小茴香 (xiǎohuíxiāng) means "small fennel," and 茴香 (huíxiāng) is its shorter form. The name overlaps with 大茴香/star anise (八角) — a different plant — because both carry the anethole sweetness; classical recipes listing 茴香 are usually read as fennel, but the ambiguity is real.
 
 The 茴香 name is the central naming trap in this entry:
 
@@ -63,11 +63,11 @@ Fennel is sweet and anise-like — warm, herbaceous, and softly licorice-scented
 
 ## Why is it used in incense?
 
-> **Direct answer:** Fennel is used in incense as a warm, sweet supporting note in classical 合香 blends — most famously in 寿阳公主梅花香 (Shouyang princess's plum incense), where it is listed as 茴香 alongside clove bark and rosewood. Its role is to round and sweeten, not to carry a formula.
+> **Direct answer:** Fennel is used in incense as a warm, sweet supporting note in classical 合香 blends — most famously in Shouyang princess's plum incense (寿阳公主梅花香), where it is listed as 茴香 alongside clove bark and rosewood. Its role is to round and sweeten, not to carry a formula.
 
 Fennel's incense role is documented through classical formula rather than solo use:
 
-- **合香 supporting note:** 茴香 is listed in classical blended-incense formulas — most notably the 寿阳公主梅花香 (Shouyang princess's plum incense), where it contributes warm spice-and-sweetness alongside clove bark and rosewood.
+- **合香 supporting note:** 茴香 is listed in classical blended-incense formulas — most notably the Shouyang princess's plum incense (寿阳公主梅花香), where it contributes warm spice-and-sweetness alongside clove bark and rosewood.
 - **Never a lead material:** fennel is a food-adjacent sweetener of blends, not a base or a self-sufficient fragrance.
 
 See the [Shouyang princess plum recipe](/blog/shouyang-princess-plum-recipe/) for the formula context.
@@ -104,7 +104,7 @@ The distinction is functional, not a quality statement — though whole fruit ke
 
 - **Culinary spice:** 小茴香 is a staple of Chinese braising and spice blends, valued for its warm, sweet, anise-like character. **Historical Record** — documented culinary use.
 - **Materia medica:** 小茴香 appears in traditional Chinese medicine as a warming aromatic; Flora of China notes the stem, leaves, and fruit are used as the dietary herb "xiao hui xiang" to aid digestion. **Traditional Use** — traditional materia-medica language, not modern clinical evidence.
-- **Incense context:** 茴香 is listed as an ingredient in classical 合香 formulas — most notably the 寿阳公主梅花香 (Shouyang princess's plum incense), where it acts as a warm spice-and-sweetness note alongside clove bark and rosewood. **Historical Record** — documented formula use.
+- **Incense context:** 茴香 is listed as an ingredient in classical 合香 formulas — most notably the Shouyang princess's plum incense (寿阳公主梅花香), where it acts as a warm spice-and-sweetness note alongside clove bark and rosewood. **Historical Record** — documented formula use.
 
 ## Traditional use vs modern evidence
 
@@ -168,7 +168,7 @@ Fennel (小茴香) is the dried ridged fruit of *Foeniculum vulgare*, an Apiacea
 
 **What does fennel smell like?** Sweet and anise-like — warm, herbaceous, and softly licorice-scented. The anethole molecule it shares with anise and star anise drives the sweetness. Fennel is a gentler, greener note than star anise, and in incense it adds a warm, food-adjacent sweetness that supports a blend rather than dominating it.
 
-**Is fennel a Chinese incense ingredient?** Yes, as a supporting note. 茴香 is listed in classical 合香 (blended incense) formulas, most famously the 寿阳公主梅花香 (Shouyang princess's plum incense), where it contributes warm spice-and-sweetness alongside clove bark and rosewood. It is a blended-formula ingredient, not a material burned alone, and its role is aromatic rather than anything this page would describe as medical.
+**Is fennel a Chinese incense ingredient?** Yes, as a supporting note. 茴香 is listed in classical blended incense (合香) formulas, most famously the Shouyang princess's plum incense (寿阳公主梅花香), where it contributes warm spice-and-sweetness alongside clove bark and rosewood. It is a blended-formula ingredient, not a material burned alone, and its role is aromatic rather than anything this page would describe as medical.
 
 **What part of the fennel plant is used?** The small, ridged, seed-like fruit — commonly called "fennel seed." It is used whole or ground, both as a culinary spice and as an incense ingredient. The plant's foliage is also aromatic, but the fruit is the material of trade and the part named 小茴香.
 
@@ -206,4 +206,4 @@ See also: [star-anise](/ingredients/star-anise/), [anise](/ingredients/anise/), 
 - [Foeniculum vulgare in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015555)
 - [Foeniculum vulgare on GBIF](https://www.gbif.org/species/3034922)
 
-*Sources: botanical references on *Foeniculum vulgare* and the 小茴香/大茴香 (fennel vs star anise) and 茴芹 (anise) distinctions. Fennel is recorded as a culinary spice and a 合香 supporting note; medicinal uses are treated as traditional, not established clinical fact. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Foeniculum vulgare* and the 小茴香/大茴香 (fennel vs star anise) and anise (茴芹) distinctions. Fennel is recorded as a culinary spice and a 合香 supporting note; medicinal uses are treated as traditional, not established clinical fact. This is editorial knowledge content, not medical advice.*
