@@ -30,7 +30,7 @@ related: ["jasmine", "rose", "orris-root"]
 
 > **Direct answer:** Lily of the valley is poisonous. All parts of *Convallaria majalis* contain cardiac glycosides (including convallatoxin and convalloside), which are toxic if ingested and can be harmful through the skin or eyes. Do not ingest any part, do not burn it as incense, and keep it away from children and pets.
 
-铃兰 (lily of the valley) is **poisonous**, and this fact comes before everything else on this page:
+lily of the valley (铃兰) is **poisonous**, and this fact comes before everything else on this page:
 
 - All parts of *Convallaria majalis* contain **cardiac glycosides** (including convallatoxin and convalloside), which are toxic if ingested and can be harmful through the skin or eyes.
 - **Do not ingest any part of the plant, and do not burn it as incense.** Combustion does not make it safe and can release harmful smoke.
@@ -42,15 +42,15 @@ This page describes it as an ornamental and perfume flower only. It is **not** a
 
 > **Direct answer:** Lily of the valley has a delicate, green, sweet, fresh floral scent — the airy, almost soapy-clean "muguet" note of fine perfumery, with a dewy greenness and a whisper of jasmine-like sweetness. Because the natural flower's scent is hard to capture, perfumery almost always renders the note with synthetic materials such as hydroxycitronellal.
 
-铃兰 (lily of the valley) has a delicate, green, sweet, fresh floral scent — the airy, almost soapy-clean "muguet" note of fine perfumery, with a dewy greenness and a whisper of jasmine-like sweetness. The natural flower's scent is famously hard to capture, so modern perfumery almost always renders the note with synthetic materials such as **hydroxycitronellal** and **lilial**.
+lily of the valley (铃兰) has a delicate, green, sweet, fresh floral scent — the airy, almost soapy-clean "muguet" note of fine perfumery, with a dewy greenness and a whisper of jasmine-like sweetness. The natural flower's scent is famously hard to capture, so modern perfumery almost always renders the note with synthetic materials such as **hydroxycitronellal** and **lilial**.
 
 The defining contrast is between the beloved *note* and the dangerous *plant*: the muguet accord is one of perfumery's most popular fresh florals, yet the flower that inspires it is a cardiac-glycoside poison. The note and the plant have, in practice, almost nothing to do with each other — which is exactly why the safety separation on this page is so important.
 
 ## A provenance note (read this)
 
-> **Direct answer:** 铃兰 (lily of the valley) is a modern fragrance flower, not a classical Chinese 香材. The plant is native across the northern temperate zone including northern China, but its use as a fragrance note is a modern European perfumery tradition (the "muguet" note), and it is never burned — the whole plant is poisonous.
+> **Direct answer:** lily of the valley (铃兰) is a modern fragrance flower, not a classical Chinese 香材. The plant is native across the northern temperate zone including northern China, but its use as a fragrance note is a modern European perfumery tradition (the "muguet" note), and it is never burned — the whole plant is poisonous.
 
-铃兰 (lily of the valley) is a **modern fragrance flower**, not a classical Chinese 香材:
+lily of the valley (铃兰) is a **modern fragrance flower**, not a classical Chinese 香材:
 
 - *Convallaria majalis* is a northern-temperate woodland species; Flora of China records it in northern China, so the plant is not foreign to China. But its use as a **fragrance note is a modern European perfumery tradition** — the "muguet" note — absent from the classical 香材 canon.
 - It is **not burned**: the whole plant is poisonous, and burning it is not a classical or modern Chinese incense practice.
@@ -102,13 +102,13 @@ For a buyer, "muguet" quality is judged at the accord level: the checks are **pu
 - **Historical Record** — no classical Chinese incense record exists for *Convallaria majalis*; the muguet note is a modern European perfumery tradition.
 - **Scientific Evidence** — the botanical identity (*Convallaria majalis*, Asparagaceae) and its toxicity (cardiac glycosides) are established. No clinical or medical efficacy claims are presented; the toxicity is a documented safety fact, not a medical claim.
 
-There is **no classical Chinese incense record** for 铃兰 (lily of the valley); its fragrance role is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Asparagaceae placement, its toxicity, and its modern perfumery role.
+There is **no classical Chinese incense record** for lily of the valley (铃兰); its fragrance role is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Asparagaceae placement, its toxicity, and its modern perfumery role.
 
 ## Quality and sourcing notes
 
 Practical points for buyers:
 
-- 铃兰 (lily of the valley) here is *Convallaria majalis*; its note in fragrance is almost always a synthetic "muguet" accord, not the natural flower.
+- lily of the valley (铃兰) here is *Convallaria majalis*; its note in fragrance is almost always a synthetic "muguet" accord, not the natural flower.
 - It is poisonous — all parts — and is **not** an incense material; do not burn it.
 - If sourcing a "lily of the valley" fragrance, it is a synthetic perfumery note, not a botanical incense ingredient.
 
@@ -143,7 +143,7 @@ Lily of the valley (铃兰) is the flower of *Convallaria majalis* (Asparagaceae
 
 ## FAQ
 
-**What is 铃兰 (lily of the valley)?** The flower of *Convallaria majalis*, a small woodland perennial of the asparagus family (Asparagaceae), native across the northern temperate zone including northern China. Its bell-shaped flowers carry a delicate, green, sweet, fresh floral scent. It is a modern perfume flower, not a classical Chinese incense ingredient, and it is poisonous.
+**What is lily of the valley (铃兰)?** The flower of *Convallaria majalis*, a small woodland perennial of the asparagus family (Asparagaceae), native across the northern temperate zone including northern China. Its bell-shaped flowers carry a delicate, green, sweet, fresh floral scent. It is a modern perfume flower, not a classical Chinese incense ingredient, and it is poisonous.
 
 **Is lily of the valley poisonous?** Yes. All parts of *Convallaria majalis* contain cardiac glycosides (including convallatoxin and convalloside), which are toxic if ingested and can be harmful through the skin or eyes. It should never be ingested or burned as incense, and it should be kept away from children and pets.
 
@@ -186,4 +186,4 @@ See also: [jasmine (茉莉)](/ingredients/jasmine/), [rose (玫瑰)](/ingredient
 - [Convallaria majalis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200027600)
 - [Convallaria majalis on GBIF](https://www.gbif.org/species/7459480)
 
-*Sources: botanical references on *Convallaria majalis*. 铃兰 (lily of the valley) is a modern perfume flower with no classical Chinese incense record; no such origin is claimed. The plant is poisonous and is not an incense material. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Convallaria majalis*. lily of the valley (铃兰) is a modern perfume flower with no classical Chinese incense record; no such origin is claimed. The plant is poisonous and is not an incense material. This is editorial knowledge content, not medical advice.*
