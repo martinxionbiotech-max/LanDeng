@@ -14,7 +14,7 @@ related: ["cardamom", "tsao-ko", "galangal"]
 
 <img src="/images/amomum-villosum-raw-material-800x533.webp" alt="Raw Amomum villosum (Amomum villosum (syn. Wurfbainia villosa)) material, editorial still life" width="800" height="533" loading="lazy">
 
-> **Direct answer:** Amomum villosum (砂仁, shārén) is the dried fruit and seeds of *Amomum villosum* (recently reclassified as *Wurfbainia villosa*), a ginger-family herb (Zingiberaceae) native to southern China. It is a spicy, camphoraceous, warm aromatic used in Chinese incense as a 香药 (aromatic-medicine) spice accent, recorded in the classical compendium 香乘.
+> **Direct answer:** Amomum villosum (砂仁, shārén) is the dried fruit and seeds of *Amomum villosum* (recently reclassified as *Wurfbainia villosa*), a ginger-family herb (Zingiberaceae) native to southern China. It is a spicy, camphoraceous, warm aromatic used in Chinese incense as an aromatic-medicine (香药) spice accent, recorded in the classical compendium 香乘.
 
 ## Key facts
 
@@ -38,27 +38,27 @@ related: ["cardamom", "tsao-ko", "galangal"]
 
 *Amomum villosum* is a ginger-family (Zingiberaceae) herb native to southern China (Guangdong, Guangxi, Yunnan) and neighbouring parts of Southeast Asia. The part used is the dried, spiny-shelled fruit, whose aromatic seeds are the source of the spice. Flora of China records it as *Amomum villosum*; GBIF has recently transferred the name to *Wurfbainia villosa* — a reclassification worth noting, since older and Chinese materia-medica sources retain *Amomum villosum*. See [Amomum villosum in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028347) and [Wurfbainia villosa on GBIF](https://www.gbif.org/species/11082522).
 
-The ginger family also includes 白豆蔻 (*Amomum kravanh*), 草果 (*Amomum tsao-ko*), and 高良姜 (galangal) — a cluster of related aromatic spices that share a family but not a character, and that a buyer must keep distinct.
+The ginger family also includes 白豆蔻 (*Amomum kravanh*), 草果 (*Amomum tsao-ko*), and galangal (高良姜) — a cluster of related aromatic spices that share a family but not a character, and that a buyer must keep distinct.
 
 ## Chinese name and terminology
 
-> **Direct answer:** 砂仁 (shārén) names the dried fruit of *Amomum villosum* — a 香药 (aromatic-medicine), the Chinese category for aromatic materials used both as spice and in medicine. The name is the materia-medica and general term, and it identifies this specific *Amomum* species within the ginger family.
+> **Direct answer:** 砂仁 (shārén) names the dried fruit of *Amomum villosum* — an aromatic-medicine (香药), the Chinese category for aromatic materials used both as spice and in medicine. The name is the materia-medica and general term, and it identifies this specific *Amomum* species within the ginger family.
 
 The name 砂仁 (shārén) is the standard Chinese name for *Amomum villosum*, and it belongs to a specific category — 香药 (xiāngyào), "aromatic-medicine." 香药 is the useful umbrella term for the ginger-family and related aromatics that served both as spices and as materia medica, and 砂仁 is a classic member. The category matters for understanding its role: 砂仁 was not merely a fragrance note but an aromatic valued across culinary, medicinal, and incense contexts — a triple-use material whose name carries that standing.
 
-## The 砂仁 / 白豆蔻 / 草果 distinction (read this)
+## The sharen (砂仁) / white cardamom (白豆蔻) / tsao-ko (草果) distinction (read this)
 
-> **Direct answer:** 砂仁, 白豆蔻 (cardamom), and 草果 (tsaoko) are all ginger-family *Amomum* fruits, but distinct species with different characters. 砂仁 is *Amomum villosum* — warm, camphoraceous, slightly bitter; 白豆蔻 is *Amomum kravanh* — sweeter, eucalyptus-bright; 草果 is *Amomum tsao-ko* — smoky and dark. Each is a separate 香药 ingredient.
+> **Direct answer:** 砂仁, cardamom (白豆蔻), and tsaoko (草果) are all ginger-family *Amomum* fruits, but distinct species with different characters. 砂仁 is *Amomum villosum* — warm, camphoraceous, slightly bitter; 白豆蔻 is *Amomum kravanh* — sweeter, eucalyptus-bright; 草果 is *Amomum tsao-ko* — smoky and dark. Each is a separate 香药 ingredient.
 
 The *Amomum* cluster is a classic identification trap — three similar fruits, three different spices:
 
 - **砂仁 (this page)** — *Amomum villosum* (*Wurfbainia villosa*): warm, camphoraceous, slightly bitter.
-- **白豆蔻 (cardamom)** — *Amomum kravanh*: sweeter, more eucalyptus-bright. See [cardamom](/ingredients/cardamom/).
-- **草果 (tsaoko)** — *Amomum tsao-ko* (*Lanxangia tsao-ko*): smoky, dark, "black cardamom" false friend. See [tsao-ko](/ingredients/tsao-ko/).
+- **cardamom (白豆蔻)** — *Amomum kravanh*: sweeter, more eucalyptus-bright. See [cardamom](/ingredients/cardamom/).
+- **tsaoko (草果)** — *Amomum tsao-ko* (*Lanxangia tsao-ko*): smoky, dark, "black cardamom" false friend. See [tsao-ko](/ingredients/tsao-ko/).
 
 The three share a genus and a family but are genuinely different aromatic materials. A buyer specifying "Amomum" or even "cardamom-like spice" has not specified a material; the specific species (砂仁 / 白豆蔻 / 草果) is the spec. The bitterness of 砂仁 is the quickest sensory separator from the sweeter 白豆蔻.
 
-## Where does 砂仁 come from?
+## Where does sharen (砂仁) come from?
 
 > **Direct answer:** 砂仁 is native to southern China — Guangdong, Guangxi, and Yunnan — with neighbouring Southeast Asian distribution, where it grows as a shade-loving ginger-family herb. Its spiny-shelled fruit, whose seeds carry the spice, is the harvested part.
 
@@ -68,7 +68,7 @@ The three share a genus and a family but are genuinely different aromatic materi
 
 > **Direct answer:** 砂仁 is used in incense as a 香药 spice accent — a warming, camphoraceous note recorded in the classical 香乘 as an ingredient in blended incense (e.g., the 南阳公主熏衣香 recipe). It is a blending spice, part of mixed 合香 recipes rather than a solo note.
 
-砂仁's incense role is documented in the classical record: it appears in 香乘 (Xiang Cheng) as an ingredient in blended incense, for example in the 南阳公主熏衣香 (Nanyang Princess's clothes-scenting incense) recipe. As a 香药 it served both as a spice and an aromatic-medicine, and this dual standing carried into incense — it lends a warm, camphoraceous, slightly bitter spice accent to a 合香 formula. It is a *blending spice*, usually part of a mixed recipe rather than a material burned alone. See [how incense is made](/blog/how-incense-is-made/) for how such spice accents function within a formula.
+砂仁's incense role is documented in the classical record: it appears in 香乘 (Xiang Cheng) as an ingredient in blended incense, for example in the Nanyang Princess's clothes-scenting incense (南阳公主熏衣香) recipe. As a 香药 it served both as a spice and an aromatic-medicine, and this dual standing carried into incense — it lends a warm, camphoraceous, slightly bitter spice accent to a 合香 formula. It is a *blending spice*, usually part of a mixed recipe rather than a material burned alone. See [how incense is made](/blog/how-incense-is-made/) for how such spice accents function within a formula.
 
 ## How is it processed?
 
@@ -103,7 +103,7 @@ The forms are states of the same fruit-to-seed material. For incense blending, t
 
 ## In Chinese tradition
 
-- **香药 (aromatic medicine):** 砂仁 is a classic 香药, an aromatic used both as a spice and in traditional medicine, and it appears in incense recipes.
+- **aromatic medicine (香药):** 砂仁 is a classic 香药, an aromatic used both as a spice and in traditional medicine, and it appears in incense recipes.
 - **Incense recipes:** 砂仁 is recorded in 香乘 as an ingredient in blended incense (for example, in the 南阳公主熏衣香 recipe).
 - **Materia medica:** 砂仁 is recorded in traditional Chinese medicine. This is **traditional materia-medica language, not modern clinical evidence.**
 
@@ -111,7 +111,7 @@ The forms are states of the same fruit-to-seed material. For incense blending, t
 
 > **Direct answer:** The 香药 and incense-recipe use is documented in the classical record (香乘). Medicinal uses are traditional, not established clinical fact, and no medical claims are made. The documented, non-medical facts are botanical identity, the Zingiberaceae placement, and the spicy camphoraceous aromatic use.
 
-- **Traditional Use** — 砂仁 as a 香药 (aromatic-medicine) in traditional Chinese medicine. Traditional materia-medica language, not modern clinical evidence.
+- **Traditional Use** — 砂仁 as an aromatic-medicine (香药) in traditional Chinese medicine. Traditional materia-medica language, not modern clinical evidence.
 - **Historical Record** — 砂仁 recorded in 香乘 (Xiang Cheng) as an ingredient in blended incense (南阳公主熏衣香), a documented incense-recipe role.
 - **Scientific Evidence** — botanical identity is established (*Amomum villosum*, Zingiberaceae; syn. *Wurfbainia villosa* in recent databases). No clinical or medical efficacy claims are presented.
 
@@ -140,7 +140,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 From a sourcing perspective, 砂仁 illustrates two compounding identification challenges. Three points follow:
 
-- **The genus is not the spec.** The *Amomum* cluster — 砂仁, 白豆蔻 (cardamom), 草果 (tsaoko) — is a textbook case of similar-looking, different-tasting spices. 砂仁's slightly bitter, camphoraceous warmth is not interchangeable with cardamom's sweet brightness or tsaoko's smoky darkness. A buyer who specifies "Amomum" has specified a genus, not a material; the species name (and the Chinese drug name) is the actual spec.
+- **The genus is not the spec.** The *Amomum* cluster — 砂仁, cardamom (白豆蔻), tsaoko (草果) — is a textbook case of similar-looking, different-tasting spices. 砂仁's slightly bitter, camphoraceous warmth is not interchangeable with cardamom's sweet brightness or tsaoko's smoky darkness. A buyer who specifies "Amomum" has specified a genus, not a material; the species name (and the Chinese drug name) is the actual spec.
 - **Reclassification splits the record.** Flora of China keeps *Amomum villosum*; GBIF has moved the name to *Wurfbainia villosa*. This nomenclatural split means a buyer checking two databases will see two names for the same fruit — and should recognize them as the same material, not two different ones. It is the same "pin the drug name" discipline the encyclopedia applies wherever taxonomy is in motion.
 - **Triple-use standing is a sourcing signal.** 砂仁's role as a 香药 — spice, medicine, and incense ingredient at once — is documented, which is a reminder that a material's classical standing can span categories. A buyer should read that triple use as context for why 砂仁 appears in incense recipes at all, and as a cue to verify which use the current supplier is selling against.
 
@@ -154,15 +154,15 @@ Amomum villosum (砂仁) is the dried fruit and seeds of *Amomum villosum* (Zing
 
 **What is 砂仁 (sharen)?** The dried fruit and seeds of *Amomum villosum* (recently reclassified as *Wurfbainia villosa* in some databases), a ginger-family herb (Zingiberaceae) native to southern China. It is a spicy, camphoraceous, warm aromatic used in Chinese incense as a 香药 spice accent, and it is recorded in the classical compendium 香乘 as an incense-recipe ingredient.
 
-**What is the difference between 砂仁 and cardamom (白豆蔻)?** Both are ginger-family *Amomum* fruits, but distinct species with different characters. 砂仁 is *Amomum villosum* — warm, camphoraceous, and slightly bitter. 白豆蔻 (cardamom) is *Amomum kravanh* — sweeter, more eucalyptus-bright. They are separate 香药 ingredients, each with its own entry.
+**What is the difference between sharen (砂仁) and cardamom (白豆蔻)?** Both are ginger-family *Amomum* fruits, but distinct species with different characters. 砂仁 is *Amomum villosum* — warm, camphoraceous, and slightly bitter. cardamom (白豆蔻) is *Amomum kravanh* — sweeter, more eucalyptus-bright. They are separate 香药 ingredients, each with its own entry.
 
-**What does 砂仁 smell like?** Spicy and camphoraceous, with a warm, slightly bitter depth that recalls cardamom but with a more medicinal, eucalyptus-like edge. It is a warming spice rather than a sweet one. In a blend it adds camphoraceous warmth and subtle bitterness, and it is usually part of a mixed 合香 recipe rather than burned alone.
+**What does sharen (砂仁) smell like?** Spicy and camphoraceous, with a warm, slightly bitter depth that recalls cardamom but with a more medicinal, eucalyptus-like edge. It is a warming spice rather than a sweet one. In a blend it adds camphoraceous warmth and subtle bitterness, and it is usually part of a mixed 合香 recipe rather than burned alone.
 
-**Is 砂仁 in the classical incense record?** Yes — it is recorded in 香乘 as an ingredient in blended incense recipes (for example, 南阳公主熏衣香). As a 香药 it served both as a spice and an aromatic medicine, and its incense use is documented in the classical record rather than being a modern invention.
+**Is sharen (砂仁) in the classical incense record?** Yes — it is recorded in 香乘 as an ingredient in blended incense recipes (for example, 南阳公主熏衣香). As a 香药 it served both as a spice and an aromatic medicine, and its incense use is documented in the classical record rather than being a modern invention.
 
-**Is 砂仁 a medicine?** It is recorded in traditional Chinese medicine as a 香药 (aromatic medicine). That is **traditional materia-medica language, not modern clinical evidence**, and this encyclopedia makes no medical claims. Its documented non-medical uses are the spicy aromatic and incense-recipe roles described here.
+**Is sharen (砂仁) a medicine?** It is recorded in traditional Chinese medicine as an aromatic medicine (香药). That is **traditional materia-medica language, not modern clinical evidence**, and this encyclopedia makes no medical claims. Its documented non-medical uses are the spicy aromatic and incense-recipe roles described here.
 
-**Why does 砂仁 have two botanical names?** Because of a recent reclassification. Flora of China records it as *Amomum villosum*, while GBIF has transferred the name to *Wurfbainia villosa*. Both names point to the same fruit, so a buyer seeing either should recognize them as one material — a nomenclatural split worth knowing when checking sources.
+**Why does sharen (砂仁) have two botanical names?** Because of a recent reclassification. Flora of China records it as *Amomum villosum*, while GBIF has transferred the name to *Wurfbainia villosa*. Both names point to the same fruit, so a buyer seeing either should recognize them as one material — a nomenclatural split worth knowing when checking sources.
 
 See also: [cardamom (白豆蔻)](/ingredients/cardamom/), [tsao-ko (草果)](/ingredients/tsao-ko/), [galangal (高良姜)](/ingredients/galangal/), [how incense is made](/blog/how-incense-is-made/) and the full [scent guide](/blog/scent-guide/).
 
