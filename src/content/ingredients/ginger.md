@@ -40,7 +40,7 @@ Flora of China records *Zingiber officinale* as a rhizomatous perennial with **p
 
 ## Chinese name and terminology
 
-> **Direct answer:** 干姜 (gānjiāng, "dried ginger") and 生姜 (shēngjiāng, "fresh ginger") are the same *Zingiber officinale* rhizome, dried versus fresh. The 姜 element links ginger to the wider ginger family — 高良姜 (galangal) and 山柰 (sand ginger) — which are distinct species, not grades of the same plant.
+> **Direct answer:** 干姜 (gānjiāng, "dried ginger") and 生姜 (shēngjiāng, "fresh ginger") are the same *Zingiber officinale* rhizome, dried versus fresh. The 姜 element links ginger to the wider ginger family — galangal (高良姜) and sand ginger (山柰) — which are distinct species, not grades of the same plant.
 
 The naming task here is two-fold:
 
@@ -99,7 +99,7 @@ The distinction is functional, not a quality statement. See [incense powder & re
 
 ## In Chinese tradition
 
-- **合香 (blended incense):** 干姜 is a warming spice accent, used in small quantities to add a dry, penetrating heat to spice-forward blends. **Historical Record** — documented formula use.
+- **blended incense (合香):** 干姜 is a warming spice accent, used in small quantities to add a dry, penetrating heat to spice-forward blends. **Historical Record** — documented formula use.
 - **Culinary staple:** ginger is a foundational spice of Chinese cooking, used fresh and dried across a vast range of dishes. **Historical Record** — documented culinary use.
 - **Materia medica:** 干姜 is recorded in traditional Chinese medicine (本草綱目, 菜部) with described uses. **Traditional Use** — traditional materia-medica language, not modern clinical evidence.
 
@@ -158,11 +158,11 @@ Dried ginger (干姜) is the dried rhizome of *Zingiber officinale*, a Zingibera
 
 ## FAQ
 
-**What is 干姜 (dried ginger)?** The dried rhizome of *Zingiber officinale*, the common ginger of the ginger family (Zingiberaceae), native to tropical Asia and cultivated worldwide. It is a warming, pungent spice with a sharp, slightly citrusy warmth from gingerol and the volatile essential oil. In Chinese incense it is used sparingly as a warming spice accent in 合香 blends.
+**What is dried ginger (干姜)?** The dried rhizome of *Zingiber officinale*, the common ginger of the ginger family (Zingiberaceae), native to tropical Asia and cultivated worldwide. It is a warming, pungent spice with a sharp, slightly citrusy warmth from gingerol and the volatile essential oil. In Chinese incense it is used sparingly as a warming spice accent in 合香 blends.
 
 **What is the difference between 干姜 (dried) and 生姜 (fresh) ginger?** They are the same rhizome, *Zingiber officinale*, processed two ways. 生姜 (shēngjiāng) is the fresh rhizome; 干姜 (gānjiāng) is the dried rhizome. Drying partly converts the heat compound gingerol into the sharper shogaol, so dried ginger is hotter and more penetrating than fresh. They are one species with two different characters, not two plants.
 
-**How does 干姜 relate to galangal and sand ginger?** They are related but distinct gingers. 干姜 is *Zingiber officinale*; 高良姜 (galangal) is *Alpinia officinarum*; and 山柰 (sand ginger) is *Kaempferia galanga*. They share a warm, camphoraceous family character from the ginger family (Zingiberaceae), but each is a separate material with its own entry in this encyclopedia.
+**How does dried ginger (干姜) relate to galangal and sand ginger?** They are related but distinct gingers. 干姜 is *Zingiber officinale*; galangal (高良姜) is *Alpinia officinarum*; and sand ginger (山柰) is *Kaempferia galanga*. They share a warm, camphoraceous family character from the ginger family (Zingiberaceae), but each is a separate material with its own entry in this encyclopedia.
 
 **What does dried ginger smell like?** Spicy and pungent, with a warm, dry heat over a faintly citrusy, resinous base. Its heat comes from gingerol, which partly converts to the sharper shogaol on drying — making dried ginger hotter than fresh. In a blend it reads as a warming spice that adds dry, aromatic heat without the sweetness of cinnamon or clove.
 
@@ -181,7 +181,7 @@ See also: [galangal](/ingredients/galangal/), [sand-ginger](/ingredients/sand-gi
 **Source:** 干姜 as a warming spice accent and culinary staple, recorded in the 本草綱目 菜部. **Evidence type:** Historically documented — aromatic and culinary use; medicinal uses are traditional, not modern clinical evidence.
 
 ### Authenticity / disambiguation
-**Source:** 干姜 (dried) vs 生姜 (fresh) as one species two ways; distinct from 高良姜 (galangal) and 山柰 (sand ginger). **Evidence type:** Practical screening.
+**Source:** 干姜 (dried) vs 生姜 (fresh) as one species two ways; distinct from galangal (高良姜) and sand ginger (山柰). **Evidence type:** Practical screening.
 
 ### Safety
 **Source:** incense combustion produces smoke and particulate matter; burn in a well-ventilated space. **Evidence type:** Established.
