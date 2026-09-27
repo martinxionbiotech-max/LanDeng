@@ -160,11 +160,11 @@ Ginkgo (银杏) is the seed of *Ginkgo biloba*, the "living fossil" tree that is
 
 ## FAQ
 
-**What is 银杏 (ginkgo nut)?** The seed of the ginkgo, *Ginkgo biloba*, a "living fossil" tree that is the sole surviving species of its entire division and is native to China. The seed, called 白果 ("white fruit"), is a mild, nutty, faintly bitter food seed eaten roasted or boiled, and recorded in traditional materia medica.
+**What is ginkgo nut (银杏)?** The seed of the ginkgo, *Ginkgo biloba*, a "living fossil" tree that is the sole surviving species of its entire division and is native to China. The seed, called 白果 ("white fruit"), is a mild, nutty, faintly bitter food seed eaten roasted or boiled, and recorded in traditional materia medica.
 
 **Why is ginkgo called a living fossil?** Because it is the only living member of the division Ginkgophyta, a lineage that predates the flowering plants and once ranged worldwide. Every other species in its group is extinct, leaving *Ginkgo biloba* as a solitary survivor of an ancient plant lineage, native to China and now widely planted for its fan-shaped leaves and edible seeds.
 
-**Does 银杏 appear in the Bencao Gangmu?** Yes. The *Bencao Gangmu* (本草纲目) records 银杏 under the names 白果 and 鸭脚子, explaining that it entered tribute in the Song dynasty and was renamed 银杏 — "silver apricot" — for its shape and white kernel. The food use is documented, while medicinal uses are traditional, not established clinical fact.
+**Does ginkgo nut (银杏) appear in the Bencao Gangmu?** Yes. The *Bencao Gangmu* (本草纲目) records 银杏 under the names 白果 and 鸭脚子, explaining that it entered tribute in the Song dynasty and was renamed 银杏 — "silver apricot" — for its shape and white kernel. The food use is documented, while medicinal uses are traditional, not established clinical fact.
 
 **What does ginkgo nut smell like?** Nutty and mild, with a faint sweetness and a slightly bitter, starchy edge — a quiet, food-like scent closer to a roasted chestnut or bean than to any spice or flower. The scent is subtle and secondary to its culinary role, which is why it is eaten far more than it is used for fragrance.
 
