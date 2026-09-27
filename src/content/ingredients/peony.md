@@ -38,14 +38,14 @@ related: ["rose", "plum-blossom"]
 
 芍药's classical name is 将离 — "about to part." The *Bencao Gangmu* (本草纲目), in its fragrant-herb section (草之三), records under 芍药 the classical name 将离, and the text glosses the origin: "芍药一名将离" (the peony is also called 将离). This name is tied to the ancient custom recorded in the *Shijing* (诗经) and later commentaries of presenting 芍药 as a parting gift — a flower of farewell and remembrance. The point for this encyclopedia: 芍药 is first a garden and cultural flower; its classical name records a social custom, not an incense role.
 
-## The 芍药 / 牡丹 distinction (read this)
+## The peony (芍药) / tree peony (牡丹) distinction (read this)
 
 > **Direct answer:** 芍药 and 牡丹 are different peonies that are often confused. 芍药 is the herbaceous peony (*Paeonia lactiflora*), which dies back to the ground each winter; 牡丹 is the tree peony (*Paeonia × suffruticosa*), a woody shrub. Both are ancient Chinese ornamentals, but they are distinct plants with different traditional roles — including different materia-medica parts (root vs bark).
 
 芍药 and 牡丹 are different peony species, and the distinction is both botanical and cultural:
 
-- **芍药 (herbaceous peony)** — *Paeonia lactiflora*, a soft-stemmed perennial that dies back each winter; the root (白芍/赤芍) is the materia-medica part. This entry.
-- **牡丹 (tree peony)** — *Paeonia × suffruticosa* (and its bark, 牡丹皮/树牡丹皮), a woody shrub that persists above ground; the bark is the materia-medica part. Its own entries ([tree-peony](/ingredients/tree-peony/) and [tree-peony-bark](/ingredients/tree-peony-bark/)).
+- **herbaceous peony (芍药)** — *Paeonia lactiflora*, a soft-stemmed perennial that dies back each winter; the root (白芍/赤芍) is the materia-medica part. This entry.
+- **tree peony (牡丹)** — *Paeonia × suffruticosa* (and its bark, 牡丹皮/树牡丹皮), a woody shrub that persists above ground; the bark is the materia-medica part. Its own entries ([tree-peony](/ingredients/tree-peony/) and [tree-peony-bark](/ingredients/tree-peony-bark/)).
 
 The two are the ancient pair of Chinese peonies, but "peony" in English covers both, which is a recurring source of confusion for buyers. The herbaceous 芍药 is the softer garden flower; the tree 牡丹 is the woody "king of flowers."
 
@@ -55,7 +55,7 @@ The two are the ancient pair of Chinese peonies, but "peony" in English covers b
 
 *Paeonia lactiflora* is a herbaceous perennial of the peony family, native to central and eastern Asia (northern China, Mongolia, Siberia, and adjacent regions) and cultivated in China for well over a thousand years, with many double-flowered garden cultivars. The fragrant part is the flower; the root (白芍/赤芍 in materia medica) is separately a traditional medicine. Flora of China records the species. The genus *Paeonia* is a family of its own (Paeoniaceae), and the split between the herbaceous and tree forms is the single most useful distinction for anyone sorting Chinese peonies.
 
-## Where does 芍药 come from?
+## Where does peony (芍药) come from?
 
 > **Direct answer:** *Paeonia lactiflora* is native to central and eastern Asia — northern China, Mongolia, Siberia, and adjacent regions — and has been cultivated in China for over a thousand years. It is a widely grown garden perennial, not a scarce wild material, and its value is ornamental and cultural rather than aromatic in the incense sense.
 
@@ -112,15 +112,15 @@ In our view, 芍药 is a **cultural flower, not an incense material**: its value
 
 ## FAQ
 
-**What is 芍药 (peony)?** The Chinese herbaceous peony, *Paeonia lactiflora*, a long-cultivated flowering perennial of the peony family (Paeoniaceae), native to central and eastern Asia. It is among China's oldest ornamental flowers, and the *Bencao Gangmu* (本草纲目) records its classical name 将离 (jiānglí).
+**What is peony (芍药)?** The Chinese herbaceous peony, *Paeonia lactiflora*, a long-cultivated flowering perennial of the peony family (Paeoniaceae), native to central and eastern Asia. It is among China's oldest ornamental flowers, and the *Bencao Gangmu* (本草纲目) records its classical name 将离 (jiānglí).
 
-**Why is 芍药 called 将离 (about to part)?** The name 将离 ties to an ancient parting custom. The *Bencao Gangmu* (本草纲目) records that "芍药一名将离" (the peony is also called 将离), and the name is connected to the classical practice of presenting 芍药 as a farewell gift — a flower of parting and remembrance.
+**Why is peony (芍药) called 将离 (about to part)?** The name 将离 ties to an ancient parting custom. The *Bencao Gangmu* (本草纲目) records that "芍药一名将离" (the peony is also called 将离), and the name is connected to the classical practice of presenting 芍药 as a farewell gift — a flower of parting and remembrance.
 
 **What does peony smell like?** Floral and rosy, sweet with a fresh green undertone. Some cultivars are nearly scentless, while others carry a clear, sweet rose-like fragrance. It is a living-plant fragrance enjoyed in the garden, less spicy than rose and less almondy than plum blossom.
 
-**Is 芍药 a classical Chinese incense material?** Not in the burned-incense sense. 芍药 is a garden and cultural flower whose classical significance is ornamental and social (the 将离 parting custom); it is not a 香乘 incense ingredient. Its aromatic value is as a living flower.
+**Is peony (芍药) a classical Chinese incense material?** Not in the burned-incense sense. 芍药 is a garden and cultural flower whose classical significance is ornamental and social (the 将离 parting custom); it is not a 香乘 incense ingredient. Its aromatic value is as a living flower.
 
-**Is 芍药 the same as 牡丹 (tree peony)?** No — they are different peony species. 芍药 is the herbaceous peony (*Paeonia lactiflora*), which dies back to the ground each winter, while 牡丹 is the tree peony (*Paeonia × suffruticosa*), a woody shrub. Both are ancient Chinese ornamentals, but they are distinct plants.
+**Is peony (芍药) the same as tree peony (牡丹)?** No — they are different peony species. 芍药 is the herbaceous peony (*Paeonia lactiflora*), which dies back to the ground each winter, while 牡丹 is the tree peony (*Paeonia × suffruticosa*), a woody shrub. Both are ancient Chinese ornamentals, but they are distinct plants.
 
 **What is the peony root used for?** In traditional Chinese medicine the root (白芍/赤芍) is a materia medica item. This is traditional materia-medica language, not modern clinical evidence, and this page makes no medical claims about it.
 
