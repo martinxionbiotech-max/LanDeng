@@ -106,7 +106,7 @@ There is no standardized grading system for 柏子香; the material is judged by
 
 ## In Chinese tradition
 
-- **柏子香 (cypress-seed incense):** 柏子 is the single humble material of the classical recipe — scald the green, unopened seeds in boiling water, soak in wine, seal with honey for about seven days, then dry in the shade. The *Xiang Cheng* (香乘) records it with no fixed quantity ("however many"), a recipe that is deliberately unmeasured. **Historical Record** — documented formula use.
+- **cypress-seed incense (柏子香):** 柏子 is the single humble material of the classical recipe — scald the green, unopened seeds in boiling water, soak in wine, seal with honey for about seven days, then dry in the shade. The *Xiang Cheng* (香乘) records it with no fixed quantity ("however many"), a recipe that is deliberately unmeasured. **Historical Record** — documented formula use.
 - **Scholar's incense:** the poet Su Shi is recorded pairing 柏子香 with a humble meal — "铜炉烧柏子，石鼎煮山药" (a bronze burner of cypress seed, a stone pot of yam) — the tradition's reminder that incense was a practice, not a luxury. **Historical Record** — documented cultural association.
 - **Materia medica:** 柏子仁 (the shelled seed) is recorded in traditional Chinese medicine. This is **traditional materia-medica language, not modern clinical evidence.** **Traditional Use** — not clinical evidence.
 
@@ -169,7 +169,7 @@ Cypress seed (柏子, *bǎizǐ*) is the seed of the oriental arborvitae, *Platyc
 
 **What is 柏子 (bǎizǐ)?** The seed of the oriental arborvitae, *Platycladus orientalis* (侧柏), a cypress-family tree native to China and Korea. It is the single humble material of 柏子香, the classical "cypress-seed incense." The seed is called 柏子, or 柏子仁 for the shelled kernel, and it is distinct from the tree's leafy branchlets (侧柏叶).
 
-**What is 柏子香 (cypress-seed incense)?** The classical scholar's incense, made from green, unopened arborvitae seeds scalded in boiling water, soaked in wine, sealed with honey for about seven days, then dried in the shade. The *Xiang Cheng* (香乘) records it with no fixed quantity — "however many" seeds — a recipe that is deliberately unmeasured. It is the tradition's everyman counterpoint to costly agarwood-and-musk blends. See our page on the [cypress-seed incense recipe](/blog/baizi-incense-recipe/).
+**What is cypress-seed incense (柏子香)?** The classical scholar's incense, made from green, unopened arborvitae seeds scalded in boiling water, soaked in wine, sealed with honey for about seven days, then dried in the shade. The *Xiang Cheng* (香乘) records it with no fixed quantity — "however many" seeds — a recipe that is deliberately unmeasured. It is the tradition's everyman counterpoint to costly agarwood-and-musk blends. See our page on the [cypress-seed incense recipe](/blog/baizi-incense-recipe/).
 
 **What does cypress seed smell like?** Roasted, nutty, and woody, with a soft resinous undertone — a gentle, comforting scent that the honey-and-wine soak of the classical recipe further softens and sweetens. It is a quiet, humble note, deliberately the opposite of a heavy or precious aroma. The simplicity of the scent is the point.
 
@@ -188,7 +188,7 @@ See also: [pine-resin](/ingredients/pine-resin/), [cedar](/ingredients/cedar/), 
 **Source:** the 柏子香 recipe in the *Xiang Cheng* (香乘) — scald, wine-soak, honey-seal, dry; and the Su Shi line "铜炉烧柏子." **Evidence type:** Historically documented — incense use; medicinal uses are traditional, not modern clinical evidence.
 
 ### Authenticity / disambiguation
-**Source:** 柏子 (seed) vs 侧柏叶 (leafy branchlets); oriental arborvitae (*Platycladus orientalis*) vs Mediterranean cypress (*Cupressus*). **Evidence type:** Practical screening.
+**Source:** 柏子 (seed) vs leafy branchlets (侧柏叶); oriental arborvitae (*Platycladus orientalis*) vs Mediterranean cypress (*Cupressus*). **Evidence type:** Practical screening.
 
 ### Safety
 **Source:** incense combustion produces smoke and particulate matter; burn in a well-ventilated space. **Evidence type:** Established.
