@@ -24,7 +24,7 @@ related: ["patchouli", "agastache-rugosa"]
 | Botanical source | *Lysimachia foenum-graecum* (family Primulaceae) — the dried herb |
 | What it is | A dried aromatic herb, not a wood or resin |
 | Aroma | Sweet, hay-like, herbaceous, with a coumarin note |
-| Traditional role | 合香 (blended incense), scenting, classical materia medica |
+| Traditional role | blended incense (合香), scenting, classical materia medica |
 
 ## Aroma profile
 
@@ -68,9 +68,9 @@ The modern identification, *Lysimachia foenum-graecum*, is native to wet mixed f
 
 ## Why is it used in incense?
 
-> **Direct answer:** 零陵香 is a classical sweet-herb ingredient in 合香 (blended incense), contributing a soft, hay-sweet note that blends smoothly with woods and resins. The classical record makes its role explicit — "和諸香" (blends with other aromatics) — and it appears alongside 甘松, 藿香, and 檀香 in standard formulas.
+> **Direct answer:** 零陵香 is a classical sweet-herb ingredient in blended incense (合香), contributing a soft, hay-sweet note that blends smoothly with woods and resins. The classical record makes its role explicit — "和諸香" (blends with other aromatics) — and it appears alongside 甘松, 藿香, and 檀香 in standard formulas.
 
-零陵香's role in incense is as a *sweet-herb blender*: a soft, hay-sweet, coumarin-like note that blends smoothly with woods and resins rather than leading with a sharp or heavy character. The *Xiangpu* states the function directly — "和諸香" (blends with the various aromatics) — and the herb appears in classical 合香 formulas alongside 甘松 (spikenard), 藿香 (agastache), 檀香 (sandalwood), and 白芷 (angelica). It was also used for scenting clothes and as a fragrant herb in its own right, and the *Xiangcheng* records that "古者烧香草以降神" — ancients burned fragrant herbs to summon the spirits, hence the name 熏 ("fumigate") and 蕙 ("harmonious").
+零陵香's role in incense is as a *sweet-herb blender*: a soft, hay-sweet, coumarin-like note that blends smoothly with woods and resins rather than leading with a sharp or heavy character. The *Xiangpu* states the function directly — "和諸香" (blends with the various aromatics) — and the herb appears in classical 合香 formulas alongside spikenard (甘松), agastache (藿香), sandalwood (檀香), and angelica (白芷). It was also used for scenting clothes and as a fragrant herb in its own right, and the *Xiangcheng* records that "古者烧香草以降神" — ancients burned fragrant herbs to summon the spirits, hence the name 熏 ("fumigate") and 蕙 ("harmonious").
 
 ## How is it processed?
 
@@ -102,7 +102,7 @@ There is no standardized commercial grading ladder; identity and aroma are the p
 
 ## In Chinese tradition
 
-- **合香 (blended incense) (Traditional Use):** 零陵香 is a classical sweet-herb ingredient in blended incense, contributing a soft, hay-sweet note alongside 甘松, 藿香, 檀香, and 白芷.
+- **blended incense (合香) (Traditional Use):** 零陵香 is a classical sweet-herb ingredient in blended incense, contributing a soft, hay-sweet note alongside 甘松, 藿香, 檀香, and 白芷.
 - **Scenting (Traditional Use):** classical texts describe it for scenting clothes and as a fragrant herb in its own right.
 - **Historical Record (香谱/香乘):** the Song *Xiangpu* (香譜) records 零陵香 under aliases 燕草/熏草 with the formula language "和諸香"; the Ming *Xiangcheng* (香乘) records the geography, the aliases 熏草/蕙草/香草/燕草/黄零草, the fire-drying standard, and the "广零陵香" naming practice.
 - **Materia medica (Traditional Use):** 零陵香 appears in traditional Chinese medicine; the *Xiangpu* records "主惡氣……下氣、令體香." This is traditional materia-medica language, not modern clinical evidence.
@@ -147,17 +147,17 @@ In our view, 零陵香 is a useful sweet-herb blender whose commercial risk live
 
 ## FAQ
 
-**What does 零陵香 smell like?** 零陵香 smells sweet and hay-like, with a coumarin note — closer to sweet grass or tonka than to a flower or a pungent herb. The species name *foenum-graecum* literally means "Greek hay," a nod to that sweet-hay fragrance, and Flora of China adds that the plant is "curry-scented when dry." It is a soft, sweet-green note that blends smoothly in incense rather than leading with a sharp or heavy character.
+**What does lingling herb (零陵香) smell like?** 零陵香 smells sweet and hay-like, with a coumarin note — closer to sweet grass or tonka than to a flower or a pungent herb. The species name *foenum-graecum* literally means "Greek hay," a nod to that sweet-hay fragrance, and Flora of China adds that the plant is "curry-scented when dry." It is a soft, sweet-green note that blends smoothly in incense rather than leading with a sharp or heavy character.
 
-**Why is 零陵香's identity confusing?** Because the name has drifted across centuries. The earliest references describe 熏草 ("fumigating herb"), said to have hemp-like leaves and a square stem, growing in the 零陵 valley. Over time the name 零陵香 and its aliases (熏草, 蕙草, 燕草) were applied to several aromatic herbs — chiefly *Lysimachia foenum-graecum* (the modern identification) and *Eupatorium fortunei* (佩兰 / 都梁香). The Song-dynasty *Xiangpu* (香譜) itself notes the confusion: "古今采用，自殊其类，各别" (what was used then and now differ in kind).
+**Why is lingling herb (零陵香)'s identity confusing?** Because the name has drifted across centuries. The earliest references describe 熏草 ("fumigating herb"), said to have hemp-like leaves and a square stem, growing in the 零陵 valley. Over time the name 零陵香 and its aliases (熏草, 蕙草, 燕草) were applied to several aromatic herbs — chiefly *Lysimachia foenum-graecum* (the modern identification) and *Eupatorium fortunei* (佩兰 / 都梁香). The Song-dynasty *Xiangpu* (香譜) itself notes the confusion: "古今采用，自殊其类，各别" (what was used then and now differ in kind).
 
-**Is 零陵香 the same as 佩兰?** They are different plants that have been historically conflated. 零陵香 is identified today as *Lysimachia foenum-graecum*, a sweet-hay-scented Primulaceae herb; 佩兰 is *Eupatorium fortunei*, a different aromatic herb in the aster family. The name 零陵香 (and the alias 熏草) has covered both across different eras, which is why the two are often treated as the same in older texts.
+**Is lingling herb (零陵香) the same as eupatorium (佩兰)?** They are different plants that have been historically conflated. 零陵香 is identified today as *Lysimachia foenum-graecum*, a sweet-hay-scented Primulaceae herb; 佩兰 is *Eupatorium fortunei*, a different aromatic herb in the aster family. The name 零陵香 (and the alias 熏草) has covered both across different eras, which is why the two are often treated as the same in older texts.
 
-**How is 零陵香 used in incense?** It is a classical sweet-herb ingredient in 合香 (blended incense), contributing a soft, hay-sweet note. The *Xiangpu* states its role as "和諸香" (blends with the various aromatics), and it appears in standard formulas alongside 甘松, 藿香, 檀香, and 白芷, and was also used for scenting clothes. It is a blender — its sweet-green character supports a formula rather than carrying one alone.
+**How is lingling herb (零陵香) used in incense?** It is a classical sweet-herb ingredient in blended incense (合香), contributing a soft, hay-sweet note. The *Xiangpu* states its role as "和諸香" (blends with the various aromatics), and it appears in standard formulas alongside 甘松, 藿香, 檀香, and 白芷, and was also used for scenting clothes. It is a blender — its sweet-green character supports a formula rather than carrying one alone.
 
 **What part of the plant is used?** The dried herb — the leafy aerial part of *Lysimachia foenum-graecum* — is the part used. The plant is moisture-loving, found in wet forests of southern China at 800–1,700 m, and the dried herb is what carries the sweet-hay fragrance. This distinguishes it from root materials (like 甘松 or 香附子) and from woods and resins.
 
-**What does the 香乘 say about processing 零陵香?** The Ming *Xiangcheng* (香乘) records that the Lingnan material was fire-dried over charcoal to a yellow color — "以火炭焙干令黄色乃佳" — a drying standard that preserved the herb and standardized its color. It also records that only the "广零陵香" (the Lingnan kind) was held to be the true 熏草, while material from other regions was considered less fragrant.
+**What does the Xiang Cheng (香乘) say about processing lingling herb (零陵香)?** The Ming *Xiangcheng* (香乘) records that the Lingnan material was fire-dried over charcoal to a yellow color — "以火炭焙干令黄色乃佳" — a drying standard that preserved the herb and standardized its color. It also records that only the "广零陵香" (the Lingnan kind) was held to be the true 熏草, while material from other regions was considered less fragrant.
 
 See also: [patchouli](/ingredients/patchouli/), [agastache](/ingredients/agastache-rugosa/), [paicao](/ingredients/paicao/), [eupatorium](/ingredients/eupatorium/) and the full [scent guide](/blog/scent-guide/).
 
