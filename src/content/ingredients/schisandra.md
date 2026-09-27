@@ -160,11 +160,11 @@ In our view, 五味子 is a materia-medica berry whose incense value is marginal
 
 ## FAQ
 
-**What is 五味子 (schisandra)?** The dried berry of *Schisandra chinensis*, a woody climbing vine (Schisandraceae) native to China and the Russian Far East. Its name means "five-flavor berry," from the berry's combined sour, sweet, salty, bitter, and pungent tastes. It is a classical Chinese materia-medica fruit with a faint, fruity, sour-berry scent.
+**What is schisandra (五味子)?** The dried berry of *Schisandra chinensis*, a woody climbing vine (Schisandraceae) native to China and the Russian Far East. Its name means "five-flavor berry," from the berry's combined sour, sweet, salty, bitter, and pungent tastes. It is a classical Chinese materia-medica fruit with a faint, fruity, sour-berry scent.
 
-**Why is it called 五味子?** The *Bencao Gangmu* (本草纲目), 草之七, explains that the berry's skin and flesh are sweet and sour, its seed is pungent and bitter, and the whole carries a salty note — "皮、肉甘、酸，核中辛、苦，都有鹹味" — so all five tastes meet in one fruit. It is a taste-name, not a scent-name, which is why the berry is a famous medicine but a faint incense note.
+**Why is it called schisandra (五味子)?** The *Bencao Gangmu* (本草纲目), 草之七, explains that the berry's skin and flesh are sweet and sour, its seed is pungent and bitter, and the whole carries a salty note — "皮、肉甘、酸，核中辛、苦，都有鹹味" — so all five tastes meet in one fruit. It is a taste-name, not a scent-name, which is why the berry is a famous medicine but a faint incense note.
 
-**What is the north-south division of 五味子?** Li Shizhen records that southern berries ripen red (南產者，色紅) and northern berries ripen black (北產者，色黑), with the northern ones preferred for tonic use (入滋補藥必用北產者，乃良). It is a classical sourcing distinction within the one species, not a different plant.
+**What is the north-south division of schisandra (五味子)?** Li Shizhen records that southern berries ripen red (南產者，色紅) and northern berries ripen black (北產者，色黑), with the northern ones preferred for tonic use (入滋補藥必用北產者，乃良). It is a classical sourcing distinction within the one species, not a different plant.
 
 **What does schisandra smell like?** Soft, fruity, and sour-berry, with a faint woody, tea-like undertone — the tart-sweet aroma of a dried red berry. Its fragrance is quiet, so it is not a driving incense note.
 
