@@ -76,10 +76,10 @@ See [Which Incense Format Is Right for You? Sticks, Cones, Coils, Powder & Beads
 
 ## FAQ
 
-### Q: What is a 宣德炉?
-The 宣德炉 (Xuande censer) is the most famous — and most copied — incense censer in Chinese history. It was cast by imperial order during the Xuande reign of the Ming dynasty (宣德, 1426–1435), using imported copper, and is known for its deliberately plain form: a simple rounded body, often with small handles, resting on short feet. Its defining feature is not ornament but patina (皮壳), the surface color that develops with age and handling. Because genuine Xuande-period pieces are extremely rare, the name now functions more as a style and reputation than as a provenance claim, and the market is full of later copies.
+### Q: What is a Xuande censer (宣德炉)?
+The Xuande censer (宣德炉) is the most famous — and most copied — incense censer in Chinese history. It was cast by imperial order during the Xuande reign of the Ming dynasty (宣德, 1426–1435), using imported copper, and is known for its deliberately plain form: a simple rounded body, often with small handles, resting on short feet. Its defining feature is not ornament but patina (皮壳), the surface color that develops with age and handling. Because genuine Xuande-period pieces are extremely rare, the name now functions more as a style and reputation than as a provenance claim, and the market is full of later copies.
 
-### Q: How do I tell a real 宣德炉?
+### Q: How do I tell a real Xuande censer (宣德炉)?
 Start from the honest assumption that genuine Xuande-period pieces are extremely rare, and that the vast majority of objects labeled "宣德炉" are later copies — some Qing, some modern, some themselves centuries old and collectible in their own right. Rather than chase authenticity, judge what is in front of you: is the casting crisp and well-proportioned, and does the patina look natural and uneven from age and handling, rather than uniform and artificial? A perfect, uniform patina is usually a red flag, since forgers imitate exactly that. Unless you have expert certification, treat "Xuande" as a style label, not a provenance claim.
 
 ### Q: What are the patina colors?
@@ -98,7 +98,7 @@ That depends on how you approach it. The sensible path is to buy a well-made bro
 
 ## Related Resources
 
-- [博山炉 (Boshan Censer)](/blog/boshan-censer/)
+- [Boshan Censer (博山炉)](/blog/boshan-censer/)
 - [Chinese Incense Burners & Tools](/blog/incense-burners-tools/)
 - [Incense Authentication Database](/blog/incense-authentication-database/)
 
