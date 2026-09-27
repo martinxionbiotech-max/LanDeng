@@ -55,9 +55,9 @@ Amber is fossilized tree resin, formed over millions of years from the resin of 
 
 Amber is best understood as part of a small, distinctive group of incense materials that are **not living botanicals**:
 
-- **琥珀 (amber)** — fossil resin, geological in origin. This entry.
-- **紫草茸 (shellac)** — lac resin, a secretion of the lac insect (*Kerria lacca*), not a plant. See [shellac](/ingredients/shellac/).
-- **龙涎香 (ambergris)** — an animal secretion from the sperm whale, not a plant. See [ambergris](/ingredients/ambergris/).
+- **amber (琥珀)** — fossil resin, geological in origin. This entry.
+- **shellac (紫草茸)** — lac resin, a secretion of the lac insect (*Kerria lacca*), not a plant. See [shellac](/ingredients/shellac/).
+- **ambergris (龙涎香)** — an animal secretion from the sperm whale, not a plant. See [ambergris](/ingredients/ambergris/).
 
 These three share a warm, resinous, sweet register in incense, but their origins — geological, insect, and animal — set them apart from the living plant resins like pine resin and frankincense. Keeping the classification explicit matters for both accuracy and sourcing.
 
@@ -137,7 +137,7 @@ Amber (琥珀) is fossilized tree resin — a geological material, not a living 
 
 ## FAQ
 
-**What is 琥珀 (amber)?** Amber, the fossilized resin of ancient trees — **a fossil resin, not a botanical material**. It appears in classical Chinese incense and materia medica, and the Ming-dynasty *Xiangcheng* (香乘) records its use alongside other aromatics. Its origin is geological, not a living plant.
+**What is amber (琥珀)?** Amber, the fossilized resin of ancient trees — **a fossil resin, not a botanical material**. It appears in classical Chinese incense and materia medica, and the Ming-dynasty *Xiangcheng* (香乘) records its use alongside other aromatics. Its origin is geological, not a living plant.
 
 **Is amber a botanical?** No. Amber is fossil resin, formed over millions of years from the resin of ancient trees. It is not a living plant material, and this encyclopedia states that plainly rather than filing it under a living species.
 
