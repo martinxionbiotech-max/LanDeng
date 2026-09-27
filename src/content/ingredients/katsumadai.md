@@ -40,9 +40,9 @@ The register is worth stating against its look-alikes: where white cardamom (白
 
 The word "豆蔻" (cardamom) covers several different spice plants, which is a standing source of confusion:
 
-- **白豆蔻 (white cardamom)** — *Amomum kravanh*, the Southeast Asian ginger-family spice. Its own entry.
+- **white cardamom (白豆蔻)** — *Amomum kravanh*, the Southeast Asian ginger-family spice. Its own entry.
 - **草豆蔻 (this page)** — *Alpinia katsumadae* (syn. *Alpinia hainanensis*), a different ginger-family seed used in materia medica.
-- **肉豆蔻 (nutmeg)** — *Myristica fragrans*, a completely different plant and family, not a cardamom at all despite the shared 豆蔻 name.
+- **nutmeg (肉豆蔻)** — *Myristica fragrans*, a completely different plant and family, not a cardamom at all despite the shared 豆蔻 name.
 - **Green cardamom** — *Elettaria cardamomum*, the familiar "cardamom" of Indian cooking, called 小豆蔻 in Chinese.
 
 **This page describes 草豆蔻 = *Alpinia katsumadae*.** When a source says 白豆蔻, 肉豆蔻, or green cardamom, it is describing a different material.
@@ -55,9 +55,9 @@ The word "豆蔻" (cardamom) covers several different spice plants, which is a s
 
 ## Chinese name and terminology
 
-> **Direct answer:** 草豆蔻 ("grass cardamom") is one member of the 豆蔻 name family, and the 草 ("grass/herb") prefix distinguishes it from 白豆蔻 (white cardamom) and 肉豆蔻 (nutmeg). The name alone does not identify the plant — the species (*Alpinia katsumadae*) is the only reliable identifier.
+> **Direct answer:** 草豆蔻 ("grass cardamom") is one member of the 豆蔻 name family, and the 草 ("grass/herb") prefix distinguishes it from white cardamom (白豆蔻) and nutmeg (肉豆蔻). The name alone does not identify the plant — the species (*Alpinia katsumadae*) is the only reliable identifier.
 
-The name 草豆蔻 is a compound of 草 ("grass/herb") and 豆蔻 ("cardamom"), and it is one of a cluster of Chinese names that share the 豆蔻 element while naming different plants and even different families. The 草 prefix is the distinguishing marker here — but it is a naming convention, not a botanical identifier. Because the same 豆蔻 element also appears in 白豆蔻 (a different *Amomum* spice), 肉豆蔻 (nutmeg, a different family entirely), and 小豆蔻 (green cardamom), the name alone cannot carry identity; the species must be stated.
+The name 草豆蔻 is a compound of 草 ("grass/herb") and 豆蔻 ("cardamom"), and it is one of a cluster of Chinese names that share the 豆蔻 element while naming different plants and even different families. The 草 prefix is the distinguishing marker here — but it is a naming convention, not a botanical identifier. Because the same 豆蔻 element also appears in 白豆蔻 (a different *Amomum* spice), 肉豆蔻 (nutmeg, a different family entirely), and green cardamom (小豆蔻), the name alone cannot carry identity; the species must be stated.
 
 ## Why is it used in tradition?
 
@@ -112,11 +112,11 @@ Practical points for buyers:
 - Expect a warm, camphoraceous, slightly bitter character, more medicinal than the white cardamom's sweet pungency.
 - Its primary place is materia medica and as a minor warm spice, not a leading incense material.
 
-## The 豆蔻 family vs 草果
+## The cardamom (豆蔻) family vs tsao-ko (草果)
 
-> **Direct answer:** The 豆蔻 name family (草豆蔻, 白豆蔻, 肉豆蔻, green cardamom) and 草果 (tsao-ko) are all warm ginger-family or look-alike spices, but different plants. 草果 is *Amomum tsao-ko*; 草豆蔻 is *Alpinia katsumadae*. The shared "草" prefix and warm-spice register make them easy to confuse, and only the species name separates them.
+> **Direct answer:** The 豆蔻 name family (草豆蔻, 白豆蔻, 肉豆蔻, green cardamom) and tsao-ko (草果) are all warm ginger-family or look-alike spices, but different plants. 草果 is *Amomum tsao-ko*; 草豆蔻 is *Alpinia katsumadae*. The shared "草" prefix and warm-spice register make them easy to confuse, and only the species name separates them.
 
-| | 草豆蔻 (this page) | 白豆蔻 | 草果 (tsao-ko) | 肉豆蔻 (nutmeg) |
+| | 草豆蔻 (this page) | 白豆蔻 | tsao-ko (草果) | nutmeg (肉豆蔻) |
 |---|---|---|---|---|
 | Botanical source | *Alpinia katsumadae* | *Amomum kravanh* | *Amomum tsao-ko* | *Myristica fragrans* |
 | Family | Zingiberaceae | Zingiberaceae | Zingiberaceae | Myristicaceae |
@@ -130,7 +130,7 @@ The warm-spice register is shared, but the species — and in nutmeg's case the 
 
 From a sourcing and editorial perspective, 草豆蔻 is the entry point into one of the classic Chinese spice-name confusions, and it generalizes into a broader sourcing discipline. Three points follow:
 
-- **The 豆蔻 name is a family, not a material.** 草豆蔻, 白豆蔻, 肉豆蔻, and 小豆蔻 (green cardamom) all share the 豆蔻 element, but they are different plants — and nutmeg (肉豆蔻) is not even in the ginger family, despite the name. This is a "false friend" cluster: the name invites the assumption that these are grades or varieties of one spice, when they are separate species with separate aromas, prices, and uses.
+- **The 豆蔻 name is a family, not a material.** 草豆蔻, 白豆蔻, 肉豆蔻, and green cardamom (小豆蔻) all share the 豆蔻 element, but they are different plants — and nutmeg (肉豆蔻) is not even in the ginger family, despite the name. This is a "false friend" cluster: the name invites the assumption that these are grades or varieties of one spice, when they are separate species with separate aromas, prices, and uses.
 - **The taxonomy itself is in motion, which is the second trap.** 草豆蔻 is often treated under *Alpinia hainanensis* rather than *Alpinia katsumadae* — a synonym situation that means the *same* material can appear under two botanical names. For a buyer, this doubles the identification burden: first disambiguate across the 豆蔻 family, then account for the synonym within the species.
 - **The register is the honest differentiator.** 草豆蔻's camphoraceous, slightly bitter, medicinal character is distinct from 白豆蔻's sweet pungency and 草果's smoky-cooling pungency. When a sourcing conversation turns on aroma rather than on a botanical name, these register differences do the disambiguation work that the names fail to do.
 
@@ -138,21 +138,21 @@ In our view, katsumadai is best understood as the **medicinal, camphoraceous mem
 
 ## Summary
 
-Katsumadai (草豆蔻) is the dried seed of *Alpinia katsumadae* (often treated under *Alpinia hainanensis*), a ginger-family perennial native to southern China and Hainan. It is a warm, camphoraceous, slightly bitter spice used in traditional medicine and as a minor warm spice, and it is one of several distinct plants sharing the 豆蔻 "cardamom" name — a false-friend cluster that includes 白豆蔻, 肉豆蔻 (nutmeg), and green cardamom.
+Katsumadai (草豆蔻) is the dried seed of *Alpinia katsumadae* (often treated under *Alpinia hainanensis*), a ginger-family perennial native to southern China and Hainan. It is a warm, camphoraceous, slightly bitter spice used in traditional medicine and as a minor warm spice, and it is one of several distinct plants sharing the 豆蔻 "cardamom" name — a false-friend cluster that includes 白豆蔻, nutmeg (肉豆蔻), and green cardamom.
 
 ## FAQ
 
-**What is 草豆蔻 (katsumadai)?** The dried seed of *Alpinia katsumadae* (often treated under *Alpinia hainanensis*), a ginger-family (Zingiberaceae) perennial native to southern China and Hainan. It is a warm, camphoraceous, slightly bitter spice seed used in traditional medicine and as a minor aromatic.
+**What is katsumadai (草豆蔻)?** The dried seed of *Alpinia katsumadae* (often treated under *Alpinia hainanensis*), a ginger-family (Zingiberaceae) perennial native to southern China and Hainan. It is a warm, camphoraceous, slightly bitter spice seed used in traditional medicine and as a minor aromatic.
 
-**Is 草豆蔻 the same as 白豆蔻 (white cardamom)?** No. 草豆蔻 is *Alpinia katsumadae* — a ginger-family seed used in materia medica — while 白豆蔻 is *Amomum kravanh*, a different ginger-family spice. They share the 豆蔻 name and a general warm-spice character but are distinct plants with different aromas and uses, and each has its own entry here.
+**Is katsumadai (草豆蔻) the same as white cardamom (白豆蔻)?** No. 草豆蔻 is *Alpinia katsumadae* — a ginger-family seed used in materia medica — while 白豆蔻 is *Amomum kravanh*, a different ginger-family spice. They share the 豆蔻 name and a general warm-spice character but are distinct plants with different aromas and uses, and each has its own entry here.
 
-**What does 草豆蔻 smell like?** Warm and camphoraceous with a spicy, slightly bitter edge — in the ginger-family register alongside cardamom and galangal, but more medicinal and less sweet than white cardamom. In a blend it adds a dry, warm pungency rather than a bright or sweet note.
+**What does katsumadai (草豆蔻) smell like?** Warm and camphoraceous with a spicy, slightly bitter edge — in the ginger-family register alongside cardamom and galangal, but more medicinal and less sweet than white cardamom. In a blend it adds a dry, warm pungency rather than a bright or sweet note.
 
-**Is 草豆蔻 a cardamom?** By Chinese name it is one of the "豆蔻" (cardamom) group, but it is not the white cardamom (*Amomum kravanh*) nor the green cardamom (*Elettaria cardamomum*). It is *Alpinia katsumadae*, a distinct ginger-family seed used in materia medica. The shared 豆蔻 name hides the botanical differences.
+**Is katsumadai (草豆蔻) a cardamom?** By Chinese name it is one of the "豆蔻" (cardamom) group, but it is not the white cardamom (*Amomum kravanh*) nor the green cardamom (*Elettaria cardamomum*). It is *Alpinia katsumadae*, a distinct ginger-family seed used in materia medica. The shared 豆蔻 name hides the botanical differences.
 
-**Where does 草豆蔻 come from?** From *Alpinia katsumadae*, a ginger-family perennial native to southern China and Hainan. The name is often treated under *Alpinia hainanensis*, and Flora of China records 草豆蔻 as the Chinese name for that species. The genus *Alpinia* also includes galangal (*Alpinia officinarum*) and 益智仁 (*Alpinia oxyphylla*).
+**Where does katsumadai (草豆蔻) come from?** From *Alpinia katsumadae*, a ginger-family perennial native to southern China and Hainan. The name is often treated under *Alpinia hainanensis*, and Flora of China records 草豆蔻 as the Chinese name for that species. The genus *Alpinia* also includes galangal (*Alpinia officinarum*) and 益智仁 (*Alpinia oxyphylla*).
 
-**How does 草豆蔻 relate to 草果 (tsao-ko) and nutmeg (肉豆蔻)?** They are different plants. 草豆蔻 is *Alpinia katsumadae* (Zingiberaceae); 草果 is *Amomum tsao-ko* (also Zingiberaceae but a different genus); nutmeg 肉豆蔻 is *Myristica fragrans* (Myristicaceae, a different family entirely). The shared warm-spice register and the shared 豆蔻/草 name elements make them easy to confuse, and only the species separates them.
+**How does katsumadai (草豆蔻) relate to tsao-ko (草果) and nutmeg (肉豆蔻)?** They are different plants. 草豆蔻 is *Alpinia katsumadae* (Zingiberaceae); 草果 is *Amomum tsao-ko* (also Zingiberaceae but a different genus); nutmeg 肉豆蔻 is *Myristica fragrans* (Myristicaceae, a different family entirely). The shared warm-spice register and the shared 豆蔻/草 name elements make them easy to confuse, and only the species separates them.
 
 See also: [cardamom](/ingredients/cardamom/), [amomum-villosum](/ingredients/amomum-villosum/), [sharp-leaf galangal](/ingredients/oxyphylla/), [tsao-ko](/ingredients/tsao-ko/) and the full [scent guide](/blog/scent-guide/).
 
