@@ -54,7 +54,7 @@ The source is zoological, not botanical. Civet comes from the perineal gland sec
 
 > **Direct answer:** 灵猫香 means "civet-cat fragrance" (灵猫 = civet/civet-cat, 香 = fragrance), naming the animal source directly. As with musk, the word's modern fate is that "civet" in fragrance now names a scent descriptor carried by synthetic civetone, not a claim of animal origin.
 
-The name 灵猫香 (língmāoxiāng) is precise in the same way 麝香 (musk) is: it names the animal source (灵猫, the civet) plus fragrance (香). This directness is exactly what modern usage has dissolved. In contemporary fragrance, "civet" names a *scent family* — animalic, musky, sweet-warm — now carried almost entirely by synthetic civetone (the principal odor compound of natural civet) and by musky substitutes. The word outlived the animal, as "musk" did: a modern "civet" perfume is, in the overwhelming majority of cases, a synthetic accord. For a buyer, the terminology point is the same as for musk — **"civet" on a label is a scent descriptor, not a provenance claim.**
+The name 灵猫香 (língmāoxiāng) is precise in the same way musk (麝香) is: it names the animal source (灵猫, the civet) plus fragrance (香). This directness is exactly what modern usage has dissolved. In contemporary fragrance, "civet" names a *scent family* — animalic, musky, sweet-warm — now carried almost entirely by synthetic civetone (the principal odor compound of natural civet) and by musky substitutes. The word outlived the animal, as "musk" did: a modern "civet" perfume is, in the overwhelming majority of cases, a synthetic accord. For a buyer, the terminology point is the same as for musk — **"civet" on a label is a scent descriptor, not a provenance claim.**
 
 ## The animal-musk family (read this)
 
@@ -62,9 +62,9 @@ The name 灵猫香 (língmāoxiāng) is precise in the same way 麝香 (musk) is
 
 Civet sits in a small family of classical animal fixatives, and the family itself is worth understanding — the "animal三兄弟" of traditional perfumery and incense:
 
-- **麝香 (musk)** — *Moschus* deer pod secretion; warm, sweet, skin-like, the most precious and most restricted. See [musk](/ingredients/musk/).
-- **灵猫香 (civet)** — *Viverra*/civet perineal gland secretion; sharper, more fecal-animalic, rounded by extreme dilution. This entry.
-- **海狸香 (castoreum)** — *Castor* beaver castor sac secretion; leathery, smoky, birch-tar-like. See [castoreum](/ingredients/castoreum/).
+- **musk (麝香)** — *Moschus* deer pod secretion; warm, sweet, skin-like, the most precious and most restricted. See [musk](/ingredients/musk/).
+- **civet (灵猫香)** — *Viverra*/civet perineal gland secretion; sharper, more fecal-animalic, rounded by extreme dilution. This entry.
+- **castoreum (海狸香)** — *Castor* beaver castor sac secretion; leathery, smoky, birch-tar-like. See [castoreum](/ingredients/castoreum/).
 
 The three share an animalic fixative register — warm, tenacious, "rounded" — but are different animals, different secretions, and different characters. Musk is the sweetest and most skin-like; civet is the sharpest and most fecal; castoreum is the smokiest and most leathery. In the classical canon, musk was the Chinese court's animal accent of choice, while civet and castoreum are more prominent in other perfumery traditions — a reminder that "animal fixative" is a family, not a single material. Understanding civet's place in this trio is the fastest way to place its character precisely.
 
@@ -78,7 +78,7 @@ The geographic sources are two species across different ranges: the African cive
 
 > **Direct answer:** Civet was used in incense and perfumery as a precious fixative — dosed in tiny quantities to round and extend a blend from below, the same structural logic as musk. Its classical Chinese standing parallels musk's, as a sparingly used animal accent that anchors rather than leads.
 
-Civet's role is the fixative's role: it anchors and extends a blend from below, adding warmth, depth, and tenacity, dosed in tiny quantities because its value lies in being *sub-threshold* — present without being directly smelled. In classical Chinese incense and perfumery, 灵猫香 appears as a precious animal fixative used sparingly to round and extend a blend, the same logic as 麝香 (musk). The parallel is exact: both are animal fixatives whose power is structural, not aromatic, and whose classical dosing reflects that. See [how incense is made](/blog/how-incense-is-made/) for how fixatives function within a formula.
+Civet's role is the fixative's role: it anchors and extends a blend from below, adding warmth, depth, and tenacity, dosed in tiny quantities because its value lies in being *sub-threshold* — present without being directly smelled. In classical Chinese incense and perfumery, 灵猫香 appears as a precious animal fixative used sparingly to round and extend a blend, the same logic as musk (麝香). The parallel is exact: both are animal fixatives whose power is structural, not aromatic, and whose classical dosing reflects that. See [how incense is made](/blog/how-incense-is-made/) for how fixatives function within a formula.
 
 ## How is it processed?
 
@@ -107,7 +107,7 @@ The first two are historical animal forms; the last two are the modern materials
 
 ## In Chinese tradition
 
-- **合香 (blended incense):** 灵猫香 appears in classical Chinese incense and perfumery as a precious animal fixative, used sparingly to round and extend a blend — the same logic as 麝香 (musk).
+- **blended incense (合香):** 灵猫香 appears in classical Chinese incense and perfumery as a precious animal fixative, used sparingly to round and extend a blend — the same logic as musk (麝香).
 - **Perfume and personal scent:** classical records describe civet as a lasting personal and clothing scent, valued for its fixative power.
 - **Materia medica:** 灵猫香 appears in traditional Chinese medicine with described uses. This is **traditional materia-medica language, not modern clinical evidence.**
 
@@ -116,7 +116,7 @@ The first two are historical animal forms; the last two are the modern materials
 > **Direct answer:** The classical references document civet's aromatic and fixative role and a traditional medicinal reputation. The medicinal descriptions are traditional, not established clinical fact, and no medical claims are made. The documented, non-medical facts are the animal source, the conservation status, and the historical use as a precious fixative.
 
 - **Traditional Use** — 灵猫香 in traditional Chinese medicine with described uses. Traditional materia-medica language, not modern clinical evidence.
-- **Historical Record** — civet's role as a precious animal fixative in classical 合香 and perfumery, parallel to 麝香 (musk); 灵猫 in the 本草綱目 獸部.
+- **Historical Record** — civet's role as a precious animal fixative in classical 合香 and perfumery, parallel to musk (麝香); 灵猫 in the 本草綱目 獸部.
 - **Scientific Evidence** — the animal source identity (Civettictis civetta; Viverricula indica) and their CITES Appendix III listings are established; civetone is the characterized principal odor compound. No clinical or medical efficacy claims are presented.
 
 The documented, non-medical facts are the animal source, the conservation status, and the historical use as a precious fixative. This page describes its aromatic and cultural role only.
@@ -177,7 +177,7 @@ See also: [musk](/ingredients/musk/), [ambergris](/ingredients/ambergris/), [cas
 **Source:** [Civettictis civetta (African civet) on GBIF](https://www.gbif.org/species/2434634) · [Viverricula indica (small Indian civet) on GBIF](https://www.gbif.org/species/2434600) · [Viverricula indica in the CITES species checklist](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Viverricula%20indica) — civet is an animal secretion, not botanical. **Evidence type:** Established.
 
 ### Traditional Chinese use
-**Source:** 灵猫香 recorded as a precious animal fixative in classical Chinese 合香 and perfumery, parallel to 麝香 (musk); 灵猫 in the 本草綱目 獸部. **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
+**Source:** 灵猫香 recorded as a precious animal fixative in classical Chinese 合香 and perfumery, parallel to musk (麝香); 灵猫 in the 本草綱目 獸部. **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
 ### Conservation / sourcing
 **Source:** CITES Appendix III listings (Viverricula indica — India; Civettictis civetta — Botswana) and the natural-vs-synthetic market note (civetone). **Evidence type:** Trade and regulatory terminology.
