@@ -14,7 +14,7 @@ related: ["kumquat", "citron", "finger-citron"]
 
 <img src="/images/quince-raw-material-800x533.webp" alt="Raw Quince (Pseudocydonia sinensis) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-> **Direct answer:** Chinese quince (木瓜, mùguā) is *Pseudocydonia sinensis* (long placed as *Chaenomeles sinensis*), a tree of the rose family (Rosaceae) native to China. Its large, hard, intensely fragrant fruit is a classic 清供 (scholar's-table offering) and a recorded materia-medica fruit. The *Bencao Gangmu* records 木瓜 in its fruit section, noting the finest come from Xuancheng.
+> **Direct answer:** Chinese quince (木瓜, mùguā) is *Pseudocydonia sinensis* (long placed as *Chaenomeles sinensis*), a tree of the rose family (Rosaceae) native to China. Its large, hard, intensely fragrant fruit is a classic scholar's-table offering (清供) and a recorded materia-medica fruit. The *Bencao Gangmu* records 木瓜 in its fruit section, noting the finest come from Xuancheng.
 
 ## Key facts
 
@@ -40,8 +40,8 @@ The register is worth pinning within the fragrant-fruit group: the quince's perf
 
 木瓜 is a name with a modern complication:
 
-- **木瓜 (Chinese quince)** — *Pseudocydonia sinensis* (syn. *Chaenomeles sinensis*), the fragrant hard fruit of the 清供 and materia-medica record. This entry.
-- **番木瓜 (papaya)** — *Carica papaya*, the soft, sweet tropical fruit also called 木瓜 in modern everyday Chinese, a different plant entirely.
+- **Chinese quince (木瓜)** — *Pseudocydonia sinensis* (syn. *Chaenomeles sinensis*), the fragrant hard fruit of the 清供 and materia-medica record. This entry.
+- **papaya (番木瓜)** — *Carica papaya*, the soft, sweet tropical fruit also called 木瓜 in modern everyday Chinese, a different plant entirely.
 
 The *Bencao Gangmu* (本草纲目), fruit section (果之二), records the classical 木瓜, noting 宣城 (Xuancheng) as the famous source. **This page describes 木瓜 = the Chinese quince, not the papaya.**
 
@@ -59,9 +59,9 @@ This name collision is the page's core value: the everyday modern Chinese word �
 
 The name 木瓜 is descriptive: 木 ("tree") + 瓜 ("melon/gourd"), recording the large, melon-like fruit borne on a tree — the *Bencao Gangmu* explains the name "木瓜" ("tree melon") from the fruit's melon-like form. The source also notes 宣城 (Xuancheng) as the famous producing region. But the name is now overloaded: in modern everyday Chinese, 木瓜 commonly means the papaya (*Carica papaya*), a soft, sweet tropical fruit — a drift that leaves the classical quince needing the qualifier 番木瓜's *absence* to be recognized. This page restores the classical sense: 木瓜 here is the Chinese quince.
 
-## Why is it used — 清供 and room fragrance?
+## Why is it used — scholar's-table offering (清供) and room fragrance?
 
-> **Direct answer:** The Chinese quince is used as a 清供 (scholar's-table offering) and a room-fragrance fruit, displayed for its strong, sweet perfume rather than eaten or burned. Its fragrance is one of presence and evaporation, and its materia-medica use is traditional, not clinical.
+> **Direct answer:** The Chinese quince is used as a scholar's-table offering (清供) and a room-fragrance fruit, displayed for its strong, sweet perfume rather than eaten or burned. Its fragrance is one of presence and evaporation, and its materia-medica use is traditional, not clinical.
 
 The quince's role is the 清供 role: it is displayed on the scholar's table and in the home for its strong, sweet perfume and its golden, auspicious form, experienced by *proximity and evaporation* rather than by burning or eating. This places it squarely in the "fragrance of presence" tradition of the citron, finger citron, and kumquat — a fruit that scents a room by simply being there. Its materia-medica use is a separate, traditional layer: 木瓜 is recorded in the 本草, and its medicinal reputation is **traditional**, not established clinical fact.
 
@@ -90,7 +90,7 @@ The fresh fruit is the reference form for fragrance; the cooked or preserved for
 
 ## In Chinese tradition
 
-- **清供 (scholar's-table offering):** 木瓜 is a classic 清供 fruit, displayed for its fragrance and its auspicious golden form, like the citron and finger citron.
+- **scholar's-table offering (清供):** 木瓜 is a classic 清供 fruit, displayed for its fragrance and its auspicious golden form, like the citron and finger citron.
 - **Room fragrance:** the hard fruit scents a room by evaporation — a fragrance of presence, not combustion.
 - **Materia medica:** 木瓜 appears in traditional Chinese medicine. This is **traditional materia-medica language, not modern clinical evidence.**
 
@@ -113,7 +113,7 @@ Practical points for buyers:
 - It is a 清供 offering fruit, not a burned incense material and not a 香乘 ingredient.
 - The fragrance and the golden form are the whole value — a bruised or withered fruit has lost its point.
 
-## Quince vs papaya: the 木瓜 collision
+## Quince vs papaya: the Chinese quince (木瓜) collision
 
 > **Direct answer:** The Chinese quince and the papaya are different plants that share the everyday Chinese name 木瓜. The quince (木瓜, *Pseudocydonia sinensis*, Rosaceae) is a hard, fragrant, rose-family fruit of the 清供 and 本草 record; the papaya (番木瓜, *Carica papaya*, Caricaceae) is a soft, sweet tropical fruit. The classical incense-and-清供 fruit is the quince.
 
@@ -144,13 +144,13 @@ In our view, the Chinese quince is best understood as a **rose-family 清供 fru
 
 ## FAQ
 
-**What is 木瓜 (Chinese quince)?** The Chinese quince, *Pseudocydonia sinensis* (long placed as *Chaenomeles sinensis*), a tree of the rose family (Rosaceae) native to China. Its large, hard, intensely fragrant fruit is a classic 清供 offering and a recorded materia-medica fruit, prized for its scent rather than eaten fresh.
+**What is Chinese quince (木瓜)?** The Chinese quince, *Pseudocydonia sinensis* (long placed as *Chaenomeles sinensis*), a tree of the rose family (Rosaceae) native to China. Its large, hard, intensely fragrant fruit is a classic 清供 offering and a recorded materia-medica fruit, prized for its scent rather than eaten fresh.
 
-**Is 木瓜 the same as papaya?** No. 木瓜 in the classical sense is the Chinese quince (*Pseudocydonia sinensis*), a hard, fragrant rose-family fruit, while the papaya (番木瓜, *Carica papaya*) is a soft, sweet tropical fruit that shares the everyday name 木瓜 in modern Chinese. They are different plants, and the classical incense-and-清供 fruit is the quince.
+**Is Chinese quince (木瓜) the same as papaya?** No. 木瓜 in the classical sense is the Chinese quince (*Pseudocydonia sinensis*), a hard, fragrant rose-family fruit, while the papaya (番木瓜, *Carica papaya*) is a soft, sweet tropical fruit that shares the everyday name 木瓜 in modern Chinese. They are different plants, and the classical incense-and-清供 fruit is the quince.
 
 **What does Chinese quince smell like?** Bright and fruity, with a sweet, floral, faintly tart character — the classic "quince" perfume released from the hard, yellow fruit. It is not eaten fresh but prized for fragrance, set on a table or in a room where its scent is experienced by proximity and evaporation rather than by burning.
 
-**Does 木瓜 appear in the Bencao Gangmu?** Yes. The *Bencao Gangmu* (本草纲目), fruit section (果之二), records 木瓜, noting 宣城 (Xuancheng) as the famous source and explaining the name 木瓜 ("tree melon") for its melon-like fruit. The 清供 and room-fragrance use is documented, while medicinal uses are traditional, not established clinical fact.
+**Does Chinese quince (木瓜) appear in the Bencao Gangmu?** Yes. The *Bencao Gangmu* (本草纲目), fruit section (果之二), records 木瓜, noting 宣城 (Xuancheng) as the famous source and explaining the name 木瓜 ("tree melon") for its melon-like fruit. The 清供 and room-fragrance use is documented, while medicinal uses are traditional, not established clinical fact.
 
 **Is quince a classical incense ingredient?** Not as a burned material. Like the citron and finger citron, the Chinese quince is a 清供 offering and room-fragrance fruit, scented by presence and evaporation rather than burned. It is not a 香乘 ingredient, though its sweet-fruity perfume is prized in the scholar's study.
 
