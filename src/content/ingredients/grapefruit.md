@@ -30,13 +30,13 @@ related: ["pomelo-peel", "citron", "lemon"]
 
 > **Direct answer:** Grapefruit is fresh, bright, and bittersweet, with a green, slightly woody edge that distinguishes it from the cleaner sweetness of lemon or orange. It is a top note with more body than lemon — the bittersweet, slightly sulfurous green character comes from nootkatone and the mercaptan compounds in the rind oil.
 
-葡萄柚 (grapefruit) is fresh, bright, and bittersweet, with a green, slightly woody edge that distinguishes it from the cleaner sweetness of lemon or orange. It is a top note with more body than lemon — the bittersweet, slightly sulfurous green character comes from the compound **nootkatone** and the mercaptan compounds in the rind oil. This bittersweet-green character is grapefruit's signature within the citrus family: it is less clean-sweet than lemon, less floral than bergamot, and more "green and woody" than orange — a citrus note with a distinctly dry, almost tart body.
+grapefruit (葡萄柚) is fresh, bright, and bittersweet, with a green, slightly woody edge that distinguishes it from the cleaner sweetness of lemon or orange. It is a top note with more body than lemon — the bittersweet, slightly sulfurous green character comes from the compound **nootkatone** and the mercaptan compounds in the rind oil. This bittersweet-green character is grapefruit's signature within the citrus family: it is less clean-sweet than lemon, less floral than bergamot, and more "green and woody" than orange — a citrus note with a distinctly dry, almost tart body.
 
 ## A provenance note (read this)
 
-> **Direct answer:** 葡萄柚 (grapefruit) is a modern essential-oil material, not a classical Chinese 香材: *Citrus × paradisi* is a recent cultivated hybrid (pomelo × sweet orange) first described from the Caribbean in the 18th century, and its Chinese name 葡萄柚 is a modern literal rendering. It is not the same as 柚皮 (pomelo peel), its larger ancestor, and no classical Chinese origin is claimed.
+> **Direct answer:** grapefruit (葡萄柚) is a modern essential-oil material, not a classical Chinese 香材: *Citrus × paradisi* is a recent cultivated hybrid (pomelo × sweet orange) first described from the Caribbean in the 18th century, and its Chinese name 葡萄柚 is a modern literal rendering. It is not the same as pomelo peel (柚皮), its larger ancestor, and no classical Chinese origin is claimed.
 
-葡萄柚 (grapefruit) is a **modern essential-oil material**, not a classical Chinese 香材:
+grapefruit (葡萄柚) is a **modern essential-oil material**, not a classical Chinese 香材:
 
 - *Citrus × paradisi* is a recent cultivated hybrid — botanically a pomelo (柚, *Citrus maxima*) crossed with the sweet orange (*Citrus sinensis*) — first described from the Caribbean in the 18th century. Flora of China does not record it as a native species.
 - The Chinese name 葡萄柚 is modern, a literal rendering of "grapefruit"; the grapefruit as a fragrance note is a **modern essential-oil and Western-perfumery tradition**, absent from the classical 香材 canon.
@@ -54,7 +54,7 @@ The hybrid identity is the whole story of its provenance: because the grapefruit
 
 ## Chinese name and terminology
 
-> **Direct answer:** 葡萄柚 (pútáoyòu) is a modern Chinese rendering of "grapefruit" — 葡萄 (grape) + 柚 (pomelo) — a descriptive name for a recent Western-introduced hybrid. It is not a classical term, and it must be distinguished from 柚 (pomelo, *Citrus maxima*), its older ancestor.
+> **Direct answer:** 葡萄柚 (pútáoyòu) is a modern Chinese rendering of "grapefruit" — grape (葡萄) + 柚 (pomelo) — a descriptive name for a recent Western-introduced hybrid. It is not a classical term, and it must be distinguished from 柚 (pomelo, *Citrus maxima*), its older ancestor.
 
 The name 葡萄柚 is modern and descriptive: 葡萄 "grape" + 柚 "pomelo" — a name for the hybrid that arose outside China and entered Chinese as a literal rendering of the English "grapefruit." This is a different naming situation from the classical citrus materials (citron 香橼, finger citron 佛手, pomelo peel 柚皮), which carry long Chinese aromatic histories. The name 葡萄柚 signals its status: a modern, introduced material named descriptively, not a term inherited from the classical canon. The disambiguation against 柚 (pomelo) is the key terminology point — "grapefruit" contains "pomelo" in its very name (葡萄**柚**), which invites exactly the confusion this page resolves.
 
@@ -64,7 +64,7 @@ The name 葡萄柚 is modern and descriptive: 葡萄 "grape" + 柚 "pomelo" — 
 
 葡萄柚 and 柚 are closely related but distinct:
 
-- **葡萄柚 (grapefruit)** — *Citrus × paradisi*, a small modern hybrid (pomelo × sweet orange), used for essential oil. This entry.
+- **grapefruit (葡萄柚)** — *Citrus × paradisi*, a small modern hybrid (pomelo × sweet orange), used for essential oil. This entry.
 - **柚 / 柚皮 (pomelo / pomelo peel)** — *Citrus maxima*, the largest citrus, a native Southeast Asian species long grown in southern China; its peel is a traditional citrus note. Its own entry, at [pomelo-peel](/ingredients/pomelo-peel/).
 
 The grapefruit is a modern descendant of the pomelo, but they are different materials, different sizes, and different Chinese identities. Specify the species when sourcing. The relationship is genuinely ancestral — the pomelo is one of the grapefruit's two parents — but ancestry is not identity, and a traditional Chinese citrus note (pomelo peel) is a different thing from a modern Western hybrid (grapefruit).
@@ -119,13 +119,13 @@ The forms reflect the supply chain: the fruit is a food crop, and the rind oil i
 
 ## Traditional use vs modern evidence
 
-> **Direct answer:** There is no classical Chinese incense record for 葡萄柚 (grapefruit); its position is entirely modern. No medical claims are made. The documented facts are botanical identity, the Rutaceae placement, and its modern essential-oil role.
+> **Direct answer:** There is no classical Chinese incense record for grapefruit (葡萄柚); its position is entirely modern. No medical claims are made. The documented facts are botanical identity, the Rutaceae placement, and its modern essential-oil role.
 
 - **Traditional Use** — none in the classical Chinese 香材 canon; grapefruit is a modern Western-introduced hybrid.
 - **Historical Record** — the hybrid's modern origin (18th-century West Indies, pomelo × sweet orange) is a documented provenance fact, explaining its absence from the classical record.
 - **Scientific Evidence** — botanical identity is established (*Citrus × paradisi*, Rutaceae); the oil's nootkatone and sulfur-compound chemistry is characterized. No clinical or medical efficacy claims are presented.
 
-There is **no classical Chinese incense record** for 葡萄柚 (grapefruit); its position is entirely modern.
+There is **no classical Chinese incense record** for grapefruit (葡萄柚); its position is entirely modern.
 
 ## What buyers should look for
 
@@ -162,7 +162,7 @@ Grapefruit (葡萄柚) is the fruit and rind of *Citrus × paradisi* (Rutaceae),
 
 ## FAQ
 
-**What is 葡萄柚 (grapefruit)?** The fruit and rind of *Citrus × paradisi*, a modern cultivated citrus hybrid in the rue family (Rutaceae), a cross of the pomelo (柚) and the sweet orange. Its peel carries a fresh, bittersweet, green-slightly-woody citrus scent from its essential oil. It is a modern essential-oil fragrance material, not a classical Chinese incense ingredient.
+**What is grapefruit (葡萄柚)?** The fruit and rind of *Citrus × paradisi*, a modern cultivated citrus hybrid in the rue family (Rutaceae), a cross of the pomelo (柚) and the sweet orange. Its peel carries a fresh, bittersweet, green-slightly-woody citrus scent from its essential oil. It is a modern essential-oil fragrance material, not a classical Chinese incense ingredient.
 
 **Is grapefruit a classical Chinese incense ingredient?** No. Grapefruit is a recent hybrid first described from the Caribbean in the 18th century, and it has no place in the classical 香材 canon. Its Chinese name 葡萄柚 is modern, and its fragrance use is a modern essential-oil tradition. The classical Chinese citrus fragrance fruits are citron, finger citron, and pomelo peel.
 
@@ -203,4 +203,4 @@ See also: [pomelo peel (柚皮)](/ingredients/pomelo-peel/), [citron (香橼)](/
 
 - [Citrus × paradisi on GBIF](https://www.gbif.org/species/7469645)
 
-*Sources: botanical references on *Citrus × paradisi*. 葡萄柚 (grapefruit) is a modern citrus essential oil with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Citrus × paradisi*. grapefruit (葡萄柚) is a modern citrus essential oil with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
