@@ -51,7 +51,7 @@ A "holder" catches ash; a "censer" (香炉) is a covered vessel that can also sh
 | Coils | Coil stand / plate | A lidded censer for long burns |
 | Resin / powder | Charcoal + ash + plate, or an electric heater | The full 隔火焚香 tool set |
 
-Two famous censers are worth knowing — but they are **aesthetic and collectible, not a functional requirement** for beginners: the Han-dynasty [博山炉 (mountain censer)](/blog/boshan-censer/) and the Ming [宣德炉 (Xuande censer)](/blog/xuande-censer/). For the smoke-free method, see [隔火焚香](/blog/gehuo-fenxiang-setup/) and the [tool set (香具)](/blog/incense-tools-utensils/).
+Two famous censers are worth knowing — but they are **aesthetic and collectible, not a functional requirement** for beginners: the Han-dynasty [mountain censer (博山炉)](/blog/boshan-censer/) and the Ming [Xuande censer (宣德炉)](/blog/xuande-censer/). For the smoke-free method, see [隔火焚香](/blog/gehuo-fenxiang-setup/) and the [tool set (香具)](/blog/incense-tools-utensils/).
 
 ## The One Rule
 
@@ -129,8 +129,8 @@ Put a bed of sand or ash inside a heatproof burner, beneath the charcoal disc. T
 
 - [Which Incense Format Is Right for You?](/blog/which-incense-format/)
 - [Chinese Incense Burners & Tools](/blog/incense-burners-tools/)
-- [博山炉 (Boshan Censer)](/blog/boshan-censer/)
-- [宣德炉 (Xuande Censer)](/blog/xuande-censer/)
+- [Boshan Censer (博山炉)](/blog/boshan-censer/)
+- [Xuande Censer (宣德炉)](/blog/xuande-censer/)
 - [Incense Safety](/safety/)
 - [Backflow Cones](/blog/backflow-cones/)
 - [Incense Coils](/blog/incense-coils/)
