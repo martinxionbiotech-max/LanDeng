@@ -18,7 +18,7 @@ author: "Landeng Tech Team"
 
 ---
 
-## What 奇楠 Is (and Is Not)
+## What qinan (奇楠) Is (and Is Not)
 
 | Question | Answer |
 |---|---|
@@ -71,7 +71,7 @@ See [The Complete Incense Scent Guide: Choosing a Scent by Atmosphere](/blog/sce
 ### Q: What is 奇楠 (qinan / kyara)?
 The top grade of agarwood — resin-soaked to the point of being soft, pliable, and aromatic at room temperature. It is the most resin-saturated state of *Aquilaria* wood, so thoroughly impregnated that the piece can be kneaded into pellets or shaved into curls. The traditional description is "oil wraps wood" (油包木), the reverse of ordinary agarwood's "wood wraps oil" (木包油): in 奇楠 the resin has filled the fiber so completely it is fragrant even unheated. It is the rarest and most expensive material in the incense world, and that scarcity is why it is so heavily faked. See the [grading guide](/blog/agarwood-grading-guide/) for the full system.
 
-### Q: Is 奇楠 a different plant from agarwood?
+### Q: Is qinan (奇楠) a different plant from agarwood?
 No — it is the top material state of *Aquilaria* agarwood, distinguished by "oil wraps wood" (油包木). It is not a separate species; it is a different material state of the same *Aquilaria* agarwood, distinguished only by how completely the resin has saturated the wood. The traditional framing is "oil wraps wood" (油包木) for 奇楠 versus "wood wraps oil" (木包油) for ordinary agarwood: in 奇楠 the resin fills the fiber so thoroughly the piece is soft and kneadable, while ordinary agarwood keeps its woody structure around the resin. Because it is a grade rather than a plant, the difference is one of degree — resin concentration and quality — not a botanical distinction.
 
 ### Q: Why is it called "kyara" in English?
