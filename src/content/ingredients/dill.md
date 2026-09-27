@@ -38,9 +38,9 @@ Dill is herbal and fresh, with a clean, anise-like sweetness and a faint green s
 
 莳萝 sits among several anise-like aromatics and should not be confused with them:
 
-- **莳萝 (dill)** — *Anethum graveolens*, a fresh, anise-like herb. This entry.
-- **小茴香 (fennel)** — *Foeniculum vulgare*, a sweeter, warmer anise-like seed, a distinct plant with its own entry.
-- **茴芹 (anise)** — *Pimpinella anisum*, the licorice-sweet spice, again distinct.
+- **dill (莳萝)** — *Anethum graveolens*, a fresh, anise-like herb. This entry.
+- **fennel (小茴香)** — *Foeniculum vulgare*, a sweeter, warmer anise-like seed, a distinct plant with its own entry.
+- **anise (茴芹)** — *Pimpinella anisum*, the licorice-sweet spice, again distinct.
 
 The *Bencao Gangmu* (本草纲目) complicates the picture by giving 莳萝 the alternate name 小茴香 — the same name the fennel seed also carries — so the two are historically entangled even though the plants differ. This is the central sourcing hazard: a name that points at two different plants.
 
@@ -60,7 +60,7 @@ The Chinese terminology is where dill's sourcing risk lives:
 - **慈谋勒 (címóulè)** — an alternate name recorded in the *Bencao Gangmu*.
 - **小茴香 (xiǎohuíxiāng)** — an alternate name that is **also the standard name for fennel** (*Foeniculum vulgare*).
 
-The alias 小茴香 is the trap: the *Bencao Gangmu* records it for both 莳萝 (dill) and 小茴香 (fennel), so the same name has pointed at two different Apiaceae plants across history. This is why a buyer must check the plant, not just the name.
+The alias 小茴香 is the trap: the *Bencao Gangmu* records it for both dill (莳萝) and fennel (小茴香), so the same name has pointed at two different Apiaceae plants across history. This is why a buyer must check the plant, not just the name.
 
 ## The 茴 family entanglement (read this)
 
@@ -68,9 +68,9 @@ The alias 小茴香 is the trap: the *Bencao Gangmu* records it for both 莳萝 
 
 The anise-like aromatics form a genuine family — and a genuine naming tangle:
 
-- **莳萝 (dill)** — *Anethum graveolens*; fresh, anise-like, driven by carvone and dill ether.
-- **小茴香 (fennel)** — *Foeniculum vulgare*; sweeter, warmer, anise-like, driven by anethole.
-- **茴芹 (anise)** — *Pimpinella anisum*; the purest licorice-sweet note, driven almost entirely by anethole.
+- **dill (莳萝)** — *Anethum graveolens*; fresh, anise-like, driven by carvone and dill ether.
+- **fennel (小茴香)** — *Foeniculum vulgare*; sweeter, warmer, anise-like, driven by anethole.
+- **anise (茴芹)** — *Pimpinella anisum*; the purest licorice-sweet note, driven almost entirely by anethole.
 
 The three are **different plants**, and their chemistry differs: dill's character is more carvone-driven, while fennel and anise are anethole-driven. But the *Bencao Gangmu*'s reuse of 小茴香 across dill and fennel means the name cannot be trusted alone. See [fennel (小茴香)](/ingredients/fennel/) and [anise (茴芹)](/ingredients/anise/).
 
@@ -182,15 +182,15 @@ Dill (莳萝) is the seed (and leaf) of *Anethum graveolens*, an annual Apiaceae
 
 ## FAQ
 
-**What is 莳萝 (dill)?** Dill, *Anethum graveolens*, an annual herb of the carrot family (Apiaceae) native to the Mediterranean and Southwest Asia. Its seed and feathery leaf carry a fresh, herbal, anise-like scent, and it is used chiefly as a culinary spice — a 香药 — rather than a burned incense material.
+**What is dill (莳萝)?** Dill, *Anethum graveolens*, an annual herb of the carrot family (Apiaceae) native to the Mediterranean and Southwest Asia. Its seed and feathery leaf carry a fresh, herbal, anise-like scent, and it is used chiefly as a culinary spice — a 香药 — rather than a burned incense material.
 
-**Does 莳萝 appear in the Bencao Gangmu?** Yes. The *Bencao Gangmu* (本草纲目) records 莳萝 with the alternate names 慈谋勒 and 小茴香, noting "今人多用和五味" — people now use it mainly to blend and season food. The culinary use is the documented role, while medicinal uses are traditional, not established clinical fact.
+**Does dill (莳萝) appear in the Bencao Gangmu?** Yes. The *Bencao Gangmu* (本草纲目) records 莳萝 with the alternate names 慈谋勒 and 小茴香, noting "今人多用和五味" — people now use it mainly to blend and season food. The culinary use is the documented role, while medicinal uses are traditional, not established clinical fact.
 
 **Is dill the same as fennel?** No. Dill (莳萝, *Anethum graveolens*) and fennel (小茴香, *Foeniculum vulgare*) are different plants, though both are anise-like Apiaceae aromatics. The *Bencao Gangmu* complicates this by giving 莳萝 the alternate name 小茴香 — a name the fennel seed also carries — so the two are historically entangled and should be checked by plant, not by name alone.
 
 **What does dill smell like?** Herbal and fresh, with a clean, anise-like sweetness and a faint green sharpness. The seed is warmer and more aromatic, the feathery leaf greener and more delicate. The scent reads closer to a kitchen seasoning than to a flower or resin, matching its traditional role as a 香药 used to flavor and correct other foods.
 
-**Is dill a classical incense ingredient?** Not in the burned-incense tradition. Dill's role is culinary — a seasoning 香药 — rather than a material of 合香 (blended incense) or the 香乘 canon. Its value in aromatics is as a fresh, anise-like kitchen note, not as a lead fragrance.
+**Is dill a classical incense ingredient?** Not in the burned-incense tradition. Dill's role is culinary — a seasoning 香药 — rather than a material of blended incense (合香) or the 香乘 canon. Its value in aromatics is as a fresh, anise-like kitchen note, not as a lead fragrance.
 
 **Why is dill confused with fennel?** Because the *Bencao Gangmu* records the name 小茴香 for both dill (莳萝) and fennel, so the same classical name has pointed at two different Apiaceae plants across history. The two differ in chemistry — dill is more carvone-driven, fennel more anethole-driven — but the shared name is the trap, which is why the scientific name is the reliable key.
 
