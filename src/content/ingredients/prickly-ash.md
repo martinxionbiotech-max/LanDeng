@@ -38,15 +38,15 @@ The numbing quality is the defining trait and the one that most needs pinning do
 
 > **Direct answer:** The single character 椒 (pepper/pepper-tree) appears at the very start of the Chinese aromatic record. The *Xiangcheng* (香乘) notes that "before the Qin and Han, only 兰蕙椒桂 were spoken of" — orchid, melilot, pepper, and cinnamon as the four earliest named aromatics. The 椒 in this classical formula is the pepper-tree (*Zanthoxylum*), not the black pepper (*Piper nigrum*) that later entered China from abroad.
 
-The single character 椒 (pepper/pepper-tree) appears at the very start of the Chinese aromatic record. The *Xiangcheng* (香乘), opening its discussion of 香品 (aromatic materials), notes that "before the Qin and Han, only 兰蕙椒桂 were spoken of" (秦漢已前未聞惟稱蘭蕙椒桂而已) — orchid, melilot, pepper, and cinnamon as the four earliest named aromatics. The 椒 in this classical formula is the pepper-tree (*Zanthoxylum*), the ancestor of today's Sichuan pepper, not the black pepper (*Piper nigrum*) that later entered China from abroad.
+The single character 椒 (pepper/pepper-tree) appears at the very start of the Chinese aromatic record. The *Xiangcheng* (香乘), opening its discussion of aromatic materials (香品), notes that "before the Qin and Han, only 兰蕙椒桂 were spoken of" (秦漢已前未聞惟稱蘭蕙椒桂而已) — orchid, melilot, pepper, and cinnamon as the four earliest named aromatics. The 椒 in this classical formula is the pepper-tree (*Zanthoxylum*), the ancestor of today's Sichuan pepper, not the black pepper (*Piper nigrum*) that later entered China from abroad.
 
 This single fact reorganizes the whole pepper question in Chinese aromatics: the earliest Chinese "椒" is a *native* tree (Rutaceae), not the imported *Piper* vine (Piperaceae). The black pepper we now call 胡椒 is a later arrival, and its name — with the 胡 foreign-origin prefix — records that lateness. So when a classical text says 椒, it means the prickly ash, the pepper-tree, the native Sichuan pepper — and this page is that 椒.
 
 ## Botanical source and origin
 
-> **Direct answer:** *Zanthoxylum bungeanum* is a prickly-ash tree or shrub of the rue family (Rutaceae), native to central and western China and long cultivated there. The part used is the dried fruit husk, which carries the aromatic oil and the numbing hydroxy-α-sanshool. It is the classical 蜀椒 and the principal source of 花椒 (Sichuan pepper).
+> **Direct answer:** *Zanthoxylum bungeanum* is a prickly-ash tree or shrub of the rue family (Rutaceae), native to central and western China and long cultivated there. The part used is the dried fruit husk, which carries the aromatic oil and the numbing hydroxy-α-sanshool. It is the classical 蜀椒 and the principal source of Sichuan pepper (花椒).
 
-*Zanthoxylum bungeanum* is a prickly-ash tree or shrub of the rue family (Rutaceae), native to central and western China and long cultivated there. The part used is the dried fruit husk, which carries the aromatic oil and the numbing hydroxy-α-sanshool. Flora of China records it as a deciduous tree 3–7 m tall, with prickles on the stems and branchlets and purplish-red fruit follicles — the "prickly ash" of the English common name. It is the classical 蜀椒, and the broader 花椒 (Sichuan pepper) of cooking is largely this species. Note the distinction from true pepper (*Piper nigrum*), which belongs to a different family (Piperaceae).
+*Zanthoxylum bungeanum* is a prickly-ash tree or shrub of the rue family (Rutaceae), native to central and western China and long cultivated there. The part used is the dried fruit husk, which carries the aromatic oil and the numbing hydroxy-α-sanshool. Flora of China records it as a deciduous tree 3–7 m tall, with prickles on the stems and branchlets and purplish-red fruit follicles — the "prickly ash" of the English common name. It is the classical 蜀椒, and the broader Sichuan pepper (花椒) of cooking is largely this species. Note the distinction from true pepper (*Piper nigrum*), which belongs to a different family (Piperaceae).
 
 ## Chinese name and terminology
 
@@ -109,11 +109,11 @@ Practical points for buyers:
 - The husk is the aromatic part; the seeds are usually sifted out in culinary use.
 - Freshness is the primary quality driver — stale husks lose both their citrus lift and their numbing bite.
 
-## 蜀椒 vs black pepper: the 椒 disambiguation
+## Sichuan Pepper (蜀椒) vs black pepper: the 椒 disambiguation
 
 > **Direct answer:** 蜀椒 and black pepper are different plants in different families. 蜀椒 is the prickly ash (*Zanthoxylum bungeanum*, Rutaceae), the native pepper-tree of the classical 椒 record; black pepper is *Piper nigrum* (Piperaceae), a later foreign import named 胡椒. One is citrusy-numbing, the other hot-pungent.
 
-| | 蜀椒 (prickly ash) | Black pepper (胡椒) |
+| | prickly ash (蜀椒) | Black pepper (胡椒) |
 |---|---|---|
 | Botanical source | *Zanthoxylum bungeanum* (Rutaceae) | *Piper nigrum* (Piperaceae) |
 | Family | Rue family | Pepper family |
@@ -141,17 +141,17 @@ In our view, 蜀椒 is best understood as the **original, native Chinese pepper 
 
 ## FAQ
 
-**What is 蜀椒 (Sichuan pepper)?** The dried fruit husk of *Zanthoxylum bungeanum*, a prickly-ash tree of the rue family (Rutaceae) native to central and western China. It is the Sichuan pepper (花椒) of cooking, with a citrusy, woody aroma and the distinctive numbing sensation of hydroxy-α-sanshool.
+**What is Sichuan pepper (蜀椒)?** The dried fruit husk of *Zanthoxylum bungeanum*, a prickly-ash tree of the rue family (Rutaceae) native to central and western China. It is the Sichuan pepper (花椒) of cooking, with a citrusy, woody aroma and the distinctive numbing sensation of hydroxy-α-sanshool.
 
-**Is 蜀椒 the same as black pepper?** No. 蜀椒 is the prickly ash (*Zanthoxylum bungeanum*, Rutaceae), while black pepper is *Piper nigrum* (Piperaceae). Different families and different plants — 蜀椒 is citrusy and numbing, black pepper is hot and pungent. The single character 椒 in classical Chinese refers to the pepper-tree, not to the later-imported black pepper.
+**Is Sichuan Pepper (蜀椒) the same as black pepper?** No. 蜀椒 is the prickly ash (*Zanthoxylum bungeanum*, Rutaceae), while black pepper is *Piper nigrum* (Piperaceae). Different families and different plants — 蜀椒 is citrusy and numbing, black pepper is hot and pungent. The single character 椒 in classical Chinese refers to the pepper-tree, not to the later-imported black pepper.
 
-**What does 蜀椒 smell like?** Spicy and citrusy with a woody undertone and a distinctive numbing, tingling quality — bright and warm rather than hot. The numbing sensation is a mouth-feel from hydroxy-α-sanshool, not a scent; in incense the husk contributes a warm, citrus-spicy lift.
+**What does Sichuan Pepper (蜀椒) smell like?** Spicy and citrusy with a woody undertone and a distinctive numbing, tingling quality — bright and warm rather than hot. The numbing sensation is a mouth-feel from hydroxy-α-sanshool, not a scent; in incense the husk contributes a warm, citrus-spicy lift.
 
-**Was 蜀椒 used in classical Chinese incense?** Yes, as one of the earliest aromatics. The Ming-dynasty *Xiangcheng* (香乘) records that "before the Qin and Han, only 兰蕙椒桂 were spoken of" (秦漢已前未聞惟稱蘭蕙椒桂而已) — pepper among the four earliest named aromatics of Chinese antiquity, alongside orchid, melilot, and cinnamon.
+**Was Sichuan Pepper (蜀椒) used in classical Chinese incense?** Yes, as one of the earliest aromatics. The Ming-dynasty *Xiangcheng* (香乘) records that "before the Qin and Han, only 兰蕙椒桂 were spoken of" (秦漢已前未聞惟稱蘭蕙椒桂而已) — pepper among the four earliest named aromatics of Chinese antiquity, alongside orchid, melilot, and cinnamon.
 
 **Where does Sichuan pepper come from?** From *Zanthoxylum bungeanum*, a prickly-ash tree or shrub native to central and western China. The part used is the dried fruit husk, which carries the aromatic oil and the numbing compound. The broader 花椒 of Sichuan cooking is largely this species.
 
-**What part of 蜀椒 is used — husk or seed?** The husk. The dried fruit husk carries the citrus-spicy oil and the numbing compound, while the glossy black seeds are largely scentless and are usually sifted out in culinary use. The "Sichuan pepper" of commerce is the husk, not the whole fruit.
+**What part of Sichuan Pepper (蜀椒) is used — husk or seed?** The husk. The dried fruit husk carries the citrus-spicy oil and the numbing compound, while the glossy black seeds are largely scentless and are usually sifted out in culinary use. The "Sichuan pepper" of commerce is the husk, not the whole fruit.
 
 See also: [pepper](/ingredients/pepper/), [long-pepper](/ingredients/long-pepper/), and the full [scent guide](/blog/scent-guide/).
 
