@@ -14,7 +14,7 @@ related: ["finger-citron", "orange-peel"]
 
 <img src="/images/citron-raw-material-800x533.webp" alt="Raw Citron (Citrus medica) material, editorial still life" width="800" height="533" loading="lazy">
 
-> **Direct answer:** Citron (香橼, xiāngyuán) is *Citrus medica*, one of the oldest cultivated citrus, in the rue family (Rutaceae). It is a thick-rinded, intensely fragrant fruit grown for its aromatic rind rather than its juice, used in Chinese culture as a 清供 (scholar's-table offering) and room-fragrance fruit. It is the parent species of the finger citron (佛手), and the two must be kept distinct.
+> **Direct answer:** Citron (香橼, xiāngyuán) is *Citrus medica*, one of the oldest cultivated citrus, in the rue family (Rutaceae). It is a thick-rinded, intensely fragrant fruit grown for its aromatic rind rather than its juice, used in Chinese culture as a scholar's-table offering (清供) and room-fragrance fruit. It is the parent species of the finger citron (佛手), and the two must be kept distinct.
 
 ## Key facts
 
@@ -34,14 +34,14 @@ related: ["finger-citron", "orange-peel"]
 
 Like the finger citron, the citron is a "fragrance of presence" material — its rind slowly releases volatile oil, scenting a room by evaporation. But where the finger citron's floral lift is exuberant, the citron's is more reserved, with a slightly bitter, perfumed-complex edge that reads as more mature and less sweet.
 
-## The 香橼 / 佛手 relationship (read this)
+## The citron (香橼) / finger citron (佛手) relationship (read this)
 
 > **Direct answer:** 香橼 and 佛手 are the same species in different forms: 香橼 is *Citrus medica*, the parent species with a solid, fragrant fruit; 佛手 is *Citrus medica* var. *sarcodactylis*, whose fruit splits into finger-like segments. Both are grown for fragrant rind, not juice.
 
 香橼 and 佛手 are the same species in different forms:
 
-- **香橼 (citron)** — *Citrus medica*, the parent species, a fragrant, thick-rinded, lemon-like fruit. This entry.
-- **佛手 (finger citron)** — *Citrus medica* var. *sarcodactylis*, a variety whose fruit splits into finger-like segments. Its own entry.
+- **citron (香橼)** — *Citrus medica*, the parent species, a fragrant, thick-rinded, lemon-like fruit. This entry.
+- **finger citron (佛手)** — *Citrus medica* var. *sarcodactylis*, a variety whose fruit splits into finger-like segments. Its own entry.
 
 Both are grown for fragrant rind rather than juice, and both serve as 清供 and room-fragrance fruits. **This page describes 香橼 = *Citrus medica*.** When a source means the fingered form, it is describing 佛手. See [finger citron](/ingredients/finger-citron/).
 
@@ -59,16 +59,16 @@ This ancestral status is the citron's quiet distinction: it is one of the "paren
 
 The citrus family is crowded, and the citron is its root:
 
-- **香橼 (citron)** — *Citrus medica*, the ancient parent species. This entry.
-- **佛手 (finger citron)** — *Citrus medica* var. *sarcodactylis*, its fingered variety.
-- **柠檬 (lemon)** — *Citrus × limon*, a modern hybrid of the citron with the bitter orange. See [lemon](/ingredients/lemon/).
-- **佛手柑 (bergamot)** — *Citrus bergamia*, a different citrus whose Chinese name borrows 佛手. See [bergamot](/ingredients/bergamot/).
+- **citron (香橼)** — *Citrus medica*, the ancient parent species. This entry.
+- **finger citron (佛手)** — *Citrus medica* var. *sarcodactylis*, its fingered variety.
+- **lemon (柠檬)** — *Citrus × limon*, a modern hybrid of the citron with the bitter orange. See [lemon](/ingredients/lemon/).
+- **bergamot (佛手柑)** — *Citrus bergamia*, a different citrus whose Chinese name borrows 佛手. See [bergamot](/ingredients/bergamot/).
 
 The citron is the botanical anchor: the finger citron is its variety, and the lemon descends partly from it. But the names cross in confusing ways (佛手柑 ≠ 佛手), so a buyer must specify the species, not rely on the name.
 
 ## In Chinese tradition
 
-- **清供 (scholar's-table offering):** 香橼 is a classic 清供 fruit, displayed for its fragrance and auspicious form.
+- **scholar's-table offering (清供):** 香橼 is a classic 清供 fruit, displayed for its fragrance and auspicious form.
 - **Room fragrance:** its oil-rich rind scents a room by evaporation — a fragrance of presence, not combustion.
 - **Not a 香乘 incense ingredient:** 香橼 does not appear in the classical incense compendium 香乘; its role is as a displayed fragrance fruit, not a burned incense material.
 
@@ -77,7 +77,7 @@ The citron is the botanical anchor: the finger citron is its variety, and the le
 > **Direct answer:** The 清供 and room-fragrance use is well documented. We make no medical claims. The documented, non-medical facts are botanical identity, the Rutaceae placement, and the fragrant offering-fruit use.
 
 - **Traditional Use** — 香橼 has described uses in traditional materia medica. Traditional materia-medica language, not modern clinical evidence.
-- **Historical Record** — 香橼 as a 清供 (scholar's-table offering) and room-fragrance fruit, documented as a cultural use.
+- **Historical Record** — 香橼 as a scholar's-table offering (清供) and room-fragrance fruit, documented as a cultural use.
 - **Scientific Evidence** — the botanical identity (*Citrus medica*, Rutaceae) and its status as an ancestral citrus species are established. We present no clinical or medical efficacy claims.
 
 The 清供 and room-fragrance use is well documented. We make **no medical claims**. The documented, non-medical facts are botanical identity, the Rutaceae placement, and the fragrant offering-fruit use.
@@ -86,7 +86,7 @@ The 清供 and room-fragrance use is well documented. We make **no medical claim
 
 > **Direct answer:** The citron scents a room by evaporation from its thick, oil-rich rind — a "fragrance of presence" requiring no burning. It is displayed as a 清供 offering, where its clear, elegant citrus scent and its auspicious form are the point.
 
-The citron's role is the same as the finger citron's: **presence, not combustion.** Its thick, oil-rich rind slowly releases volatile fragrance, scenting a room for days simply by sitting on a scholar's table. It is a 清供 (offering) fruit, displayed for its fragrance and its form — and, like the finger citron, it is a non-combustible fragrance material, smelled in place rather than burned. The difference from the finger citron is subtle but real: the citron's scent is more reserved and slightly bitter, where the finger citron's is more exuberantly floral.
+The citron's role is the same as the finger citron's: **presence, not combustion.** Its thick, oil-rich rind slowly releases volatile fragrance, scenting a room for days simply by sitting on a scholar's table. It is a offering (清供) fruit, displayed for its fragrance and its form — and, like the finger citron, it is a non-combustible fragrance material, smelled in place rather than burned. The difference from the finger citron is subtle but real: the citron's scent is more reserved and slightly bitter, where the finger citron's is more exuberantly floral.
 
 ## How is it used / processed?
 
@@ -130,7 +130,7 @@ The whole fresh fruit is the fragrance form; the others are food or secondary us
 
 For a buyer or sourcing reader:
 
-- **Identity** — confirm 香橼 is *Citrus medica*, distinct from 佛手 (its fingered variety) and from 佛手柑 (bergamot).
+- **Identity** — confirm 香橼 is *Citrus medica*, distinct from 佛手 (its fingered variety) and from bergamot (佛手柑).
 - **Freshness and fragrance** — a fresh, thick, oil-rich rind with a clear, slightly bitter citrus scent; the fragrance fades with drying.
 - **Role** — expect a 清供 display fruit and room fragrance, not a burned incense material or an oil.
 
@@ -150,25 +150,25 @@ From a manufacturing and sourcing perspective, the citron illustrates something 
 
 - **An ancestor that stayed modest.** The citron is one of the parent species of the entire citrus genus, so a large share of the world's citrus — lemons, limes, oranges, grapefruits — carries its lineage. Yet in Chinese fragrance it remained a 清供 display fruit, never entering the burned-incense canon (香乘). This is a useful corrective to the assumption that "ancient" or "foundational" means "commercially central."
 - **The fragrance-of-presence logic.** Like the finger citron, the citron scents a room by evaporation, not combustion — a category modern incense commerce barely serves. Its value is volatile rind oil, and freshness is the whole specification, because that oil fades with time.
-- **The name is the trap.** The citron anchors a naming tangle: its variety is 佛手 (finger citron), and the bergamot's name 佛手柑 borrows 佛手. A buyer who does not pin down the species can easily end up with the wrong citrus. Disambiguation, not quality, is the practical risk.
+- **The name is the trap.** The citron anchors a naming tangle: its variety is finger citron (佛手), and the bergamot's name 佛手柑 borrows 佛手. A buyer who does not pin down the species can easily end up with the wrong citrus. Disambiguation, not quality, is the practical risk.
 
 In our view, the professional framing for the citron is a **fresh, correctly identified, ancestral 清供 fruit** — a material whose lesson is that pedigree is not the same as commercial value, and whose chief risk is a name shared across three different citrus.
 
 ## Summary
 
-Citron (香橼) is *Citrus medica*, one of the oldest cultivated citrus and one of the ancestral species of the whole citrus family, grown for its thick, oil-rich, intensely fragrant rind rather than its scant juice. It is the parent species of the finger citron (佛手) and a classical 清供 (scholar's-table offering) room-fragrance fruit, scenting a space by evaporation, never by burning. Its commercial value is fresh, fragrant rind and honest non-combustion framing; its chief risk is a name shared across the citron, finger citron, and bergamot.
+Citron (香橼) is *Citrus medica*, one of the oldest cultivated citrus and one of the ancestral species of the whole citrus family, grown for its thick, oil-rich, intensely fragrant rind rather than its scant juice. It is the parent species of the finger citron (佛手) and a classical scholar's-table offering (清供) room-fragrance fruit, scenting a space by evaporation, never by burning. Its commercial value is fresh, fragrant rind and honest non-combustion framing; its chief risk is a name shared across the citron, finger citron, and bergamot.
 
 ## FAQ
 
-**What is 香橼 (citron)?** The citron, *Citrus medica*, one of the oldest cultivated citrus, in the rue family (Rutaceae). It is a thick-rinded, intensely fragrant fruit grown for its aromatic rind rather than its juice, and used in Chinese culture as a 清供 offering and room-fragrance fruit. It is the parent species of the finger citron (佛手).
+**What is citron (香橼)?** The citron, *Citrus medica*, one of the oldest cultivated citrus, in the rue family (Rutaceae). It is a thick-rinded, intensely fragrant fruit grown for its aromatic rind rather than its juice, and used in Chinese culture as a 清供 offering and room-fragrance fruit. It is the parent species of the finger citron (佛手).
 
-**Is 香橼 the same as 佛手 (finger citron)?** They are the same species in different forms. 香橼 is the plain citron (*Citrus medica*), and 佛手 is its fingered variety (*Citrus medica* var. *sarcodactylis*). Both are grown for fragrant rind rather than juice, and both serve as 清供 and room-fragrance fruits. Each has its own entry here.
+**Is citron (香橼) the same as finger citron (佛手)?** They are the same species in different forms. 香橼 is the plain citron (*Citrus medica*), and 佛手 is its fingered variety (*Citrus medica* var. *sarcodactylis*). Both are grown for fragrant rind rather than juice, and both serve as 清供 and room-fragrance fruits. Each has its own entry here.
 
 **What does citron smell like?** Citrus and floral, with a sweet, lemony, slightly bitter rind scent that is more perfumed and complex than an orange, and more reserved than the finger citron's exuberant floral lift. The fragrance lives in the thick, oil-rich rind rather than the scant juice, and it scents a room by evaporation rather than by burning.
 
 **Is the citron related to the lemon?** Yes — the lemon (*Citrus × limon*) is a cultivated hybrid descended partly from the citron (*Citrus medica*), crossed with the bitter orange. The citron is thus one of the lemon's ancestors, along with the pomelo and the mandarin for other citrus. They are distinct materials, but the citron is the older parent species. See [lemon](/ingredients/lemon/).
 
-**How is 香橼 used in Chinese culture?** As a 清供 (scholar's-table offering) fruit, displayed for its fragrance and auspicious form. Its oil-rich rind scents a room by presence and evaporation — a fragrance of display, not combustion. It does not appear in the classical incense compendium 香乘, so its role is as a displayed fragrance fruit rather than a burned incense material.
+**How is citron (香橼) used in Chinese culture?** As a scholar's-table offering (清供) fruit, displayed for its fragrance and auspicious form. Its oil-rich rind scents a room by presence and evaporation — a fragrance of display, not combustion. It does not appear in the classical incense compendium 香乘, so its role is as a displayed fragrance fruit rather than a burned incense material.
 
 **Is the citron eaten?** Its fruit flesh is scant and not the point — the citron is grown for its thick, fragrant rind, which may be candied or used to perfume spaces, and the whole fruit is displayed for scent and symbolism. As one of the most ancient cultivated citrus, it is also an ancestor of much of the modern citrus family alongside pomelo and mandarin.
 
