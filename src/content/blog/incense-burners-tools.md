@@ -26,10 +26,10 @@ author: "Landeng Tech Team"
 
 | Page | What it covers |
 |---|---|
-| [博山炉 (Boshan Censer)](/blog/boshan-censer/) | The Han-dynasty mountain censer — history & form |
-| [宣德炉 (Xuande Censer)](/blog/xuande-censer/) | The Ming collectible — history & what to look for |
-| [隔火焚香 (Indirect-Fire Setup)](/blog/gehuo-fenxiang-setup/) | How to heat incense without smoke |
-| [香篆 (Seal Incense)](/blog/incense-seal-zhuanxiang/) | Powder pressed into patterns, used as a timer |
+| [Boshan Censer (博山炉)](/blog/boshan-censer/) | The Han-dynasty mountain censer — history & form |
+| [Xuande Censer (宣德炉)](/blog/xuande-censer/) | The Ming collectible — history & what to look for |
+| [Indirect-Fire Setup (隔火焚香)](/blog/gehuo-fenxiang-setup/) | How to heat incense without smoke |
+| [Seal Incense (香篆)](/blog/incense-seal-zhuanxiang/) | Powder pressed into patterns, used as a timer |
 | [香具 (The Tool Set)](/blog/incense-tools-utensils/) | Chopsticks, spoons, spatulas, and the 炉瓶三事 |
 | [Burner Buying Guide](/blog/incense-holder-burner-guide/) | How to choose a burner for each format |
 
