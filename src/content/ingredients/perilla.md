@@ -92,7 +92,7 @@ Perilla carries no standardized commercial grading ladder — it is an abundant 
 | Powder | Incense sticks and cones |
 | Essential oil | Fragrance; a separate, concentrated product |
 
-## 紫苏 vs 白苏: a labeling problem (read this)
+## perilla (紫苏) vs 白苏: a labeling problem (read this)
 
 > **Direct answer:** 紫苏 (purple) and 白苏 (green) are the same species, *Perilla frutescens*, in two leaf-color forms — not different plants. A label that says only "perilla" does not tell you the color form, and color matters less than freshness. Both forms are distinct from mint (薄荷) and agastache (藿香).
 
@@ -147,15 +147,15 @@ Perilla (紫苏) is the aerial herb of *Perilla frutescens*, a mint-family annua
 
 ## FAQ
 
-**What is 紫苏 (perilla)?** The aerial herb of *Perilla frutescens*, an annual of the mint family (Lamiaceae) native to East Asia and long cultivated across China, Japan, and Korea. It is a fragrant, minty-basil herb with a sweet, anise-like character, used in Chinese incense as a green herbal note and as a culinary herb. The name 紫苏 refers to the purple-leaved form.
+**What is perilla (紫苏)?** The aerial herb of *Perilla frutescens*, an annual of the mint family (Lamiaceae) native to East Asia and long cultivated across China, Japan, and Korea. It is a fragrant, minty-basil herb with a sweet, anise-like character, used in Chinese incense as a green herbal note and as a culinary herb. The name 紫苏 refers to the purple-leaved form.
 
-**What is the difference between 紫苏 and 白苏?** They are the same species, *Perilla frutescens*, in two color forms: 紫苏 (zǐsū) is the purple-leaved form and 白苏 (báisū) is the green-leaved form. They differ in leaf pigment but are botanically one species — a labeling point, not two different plants. Both are distinct from true mint and agastache.
+**What is the difference between perilla (紫苏) and 白苏?** They are the same species, *Perilla frutescens*, in two color forms: 紫苏 (zǐsū) is the purple-leaved form and 白苏 (báisū) is the green-leaved form. They differ in leaf pigment but are botanically one species — a labeling point, not two different plants. Both are distinct from true mint and agastache.
 
 **What does perilla smell like?** Herbal and minty, with a sweet, anise-like warmth and a faint basil edge — a fresh, green-sweet scent typical of the aromatic mint family. It is lighter and sweeter than true mint, and warmer than a plain green herb. In a blend it reads as a green herbal note, adding freshness and a soft, anise-sweet lift.
 
 **Is perilla the same as shiso?** Yes — shiso is the Japanese name for the same species, *Perilla frutescens*. The purple form is 紫苏 (shiso / zǐsū) and the green form is 白苏 (green shiso / báisū). In Korea the same plant is called deulkkae, with kkaennip naming the leaf. They are one species cultivated across East Asia under different regional names, not different plants.
 
-**How is 紫苏 used in Chinese tradition?** Primarily as a staple culinary herb — used fresh and dried in cooking, pickling, and tea — and as a light, green herbal note in incense. It is also recorded in traditional Chinese medicine (本草綱目, 草部). The medicinal uses are traditional language, not modern clinical evidence, and this encyclopedia makes no medical claims.
+**How is perilla (紫苏) used in Chinese tradition?** Primarily as a staple culinary herb — used fresh and dried in cooking, pickling, and tea — and as a light, green herbal note in incense. It is also recorded in traditional Chinese medicine (本草綱目, 草部). The medicinal uses are traditional language, not modern clinical evidence, and this encyclopedia makes no medical claims.
 
 **Is perilla a wood or a resin?** Neither — it is a leafy aerial herb, the dried leaves and flowering tops of *Perilla frutescens*. As a leafy herb it behaves differently from woods and resins in incense: it is light, burns quickly, and releases its green top note early, so it is usually blended as an accent rather than burned alone or used as a base.
 
@@ -170,7 +170,7 @@ See also: [mint](/ingredients/mint/), [agastache-rugosa](/ingredients/agastache-
 **Source:** 紫苏 as a culinary herb and green herbal note, recorded in the 本草綱目 草部. **Evidence type:** Historically documented — aromatic and culinary use; medicinal uses are traditional, not modern clinical evidence.
 
 ### Authenticity / disambiguation
-**Source:** 紫苏 vs 白苏 as two color forms of one species; distinct from 薄荷 (mint) and 藿香 (agastache). **Evidence type:** Practical screening.
+**Source:** 紫苏 vs 白苏 as two color forms of one species; distinct from mint (薄荷) and agastache (藿香). **Evidence type:** Practical screening.
 
 ### Safety
 **Source:** incense combustion produces smoke and particulate matter; burn in a well-ventilated space. **Evidence type:** Established.
