@@ -70,7 +70,7 @@ See [Which Incense Format Is Right for You? Sticks, Cones, Coils, Powder & Beads
 
 ## FAQ
 
-### Q: What is a 博山炉?
+### Q: What is a Boshan censer (博山炉)?
 The 博山炉 (Boshan censer, "universal-mountain burner") is the iconic bronze incense burner of the Han dynasty. Its lid is cast as a miniature mountain range — layered peaks, figures, and animals — pierced with small holes so that when incense burned inside, the smoke rose through the openings and appeared as mist drifting over the peaks. The effect was deliberately theatrical: a small sacred mountain on the scholar's desk, with the smoke completing the illusion of cloud and mist. Unlike later low-smoke methods, the 博山炉 was about spectacle, making the smoke itself part of the object's meaning.
 
 ### Q: What does "博山" mean?
@@ -94,6 +94,6 @@ The mountain shape is meaningful because it represents the Daoist immortals' wor
 
 - [Chinese Incense Burners & Tools](/blog/incense-burners-tools/)
 - [History of Chinese Incense Culture](/blog/history-of-chinese-incense/)
-- [宣德炉 (Xuande Censer)](/blog/xuande-censer/)
+- [Xuande Censer (宣德炉)](/blog/xuande-censer/)
 
-**Natural next step:** see the later, plainer aesthetic in [宣德炉 (Xuande censer)](/blog/xuande-censer/).
+**Natural next step:** see the later, plainer aesthetic in [Xuande censer (宣德炉)](/blog/xuande-censer/).
