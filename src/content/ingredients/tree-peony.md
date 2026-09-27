@@ -34,24 +34,24 @@ related: ["peony", "rose", "plum-blossom"]
 
 This is the key to the tree peony: its *fame* vastly outweighs its *scent*. It is the "king of flowers" (花王) of Chinese horticulture — a central subject of art, poetry, and garden culture for over a millennium — yet its soft, rosy note is a quiet one, and it is prized for its beauty rather than its aromatic power. In incense, it appears as an elegant floral accent, not a lead note.
 
-## The 牡丹 / 芍药 distinction (read this)
+## The tree peony (牡丹) / peony (芍药) distinction (read this)
 
 > **Direct answer:** 牡丹 and 芍药 are closely related but distinct peonies: 牡丹 is *Paeonia suffruticosa*, the woody-stemmed shrub peony ("king of flowers"), and 芍药 is *Paeonia lactiflora*, the herbaceous peony ("minister of flowers"). The *Bencao Gangmu* records both, explaining the Tang name 木芍药 ("woody peony") for 牡丹.
 
 牡丹 and 芍药 are **closely related but distinct peonies**:
 
-- **牡丹 (tree peony)** — *Paeonia suffruticosa*, the woody-stemmed shrub peony, the "king of flowers" (花王). This entry.
-- **芍药 (herbaceous peony)** — *Paeonia lactiflora*, the herbaceous peony, the "minister of flowers" (花相). Its own entry.
+- **tree peony (牡丹)** — *Paeonia suffruticosa*, the woody-stemmed shrub peony, the "king of flowers" (花王). This entry.
+- **herbaceous peony (芍药)** — *Paeonia lactiflora*, the herbaceous peony, the "minister of flowers" (花相). Its own entry.
 
 The *Bencao Gangmu* (本草纲目), 草之三, records both, explaining that 牡丹 was called 木芍药 ("woody peony") in the Tang because its flower resembles 芍药 but its stem is woody: "唐人謂之木芍藥，以其花似芍藥，而宿幹似木也" — and that among flowers, 牡丹 ranks first and 芍药 second. **This page describes 牡丹 = *Paeonia suffruticosa*, the shrub peony, not 芍药.** See [peony (芍药)](/ingredients/peony/).
 
-## The 牡丹 / 牡丹皮 distinction (read this)
+## The tree peony (牡丹) / tree peony bark (牡丹皮) distinction (read this)
 
-> **Direct answer:** 牡丹 (the flower) and 牡丹皮 (the root bark) are different parts of the same plant: 牡丹 is the ornamental flower, prized for beauty, while 牡丹皮 (moutan bark) is the root bark, the materia-medica part. This page describes the flower; the bark has its own entry.
+> **Direct answer:** 牡丹 (the flower) and 牡丹皮 (the root bark) are different parts of the same plant: 牡丹 is the ornamental flower, prized for beauty, while moutan bark (牡丹皮) is the root bark, the materia-medica part. This page describes the flower; the bark has its own entry.
 
 牡丹 supplies two different parts with two different roles:
 
-- **牡丹 (tree peony flower)** — the ornamental flower, the "king of flowers." This entry.
+- **tree peony flower (牡丹)** — the ornamental flower, the "king of flowers." This entry.
 - **牡丹皮 (tree peony bark / moutan)** — the root bark, a classical materia-medica part. Its own entry.
 
 The flower is the celebrated ornamental; the root bark is the materia-medica part. They are the same plant, different parts — the same "one plant, multiple parts" logic that separates 桂枝 from 桂皮. See [tree peony bark](/ingredients/tree-peony-bark/).
@@ -67,7 +67,7 @@ The woody stem is the whole distinction: it is why the plant is called the *tree
 ## In Chinese tradition
 
 - **Ornamental:** 牡丹 is the "king of flowers" (花王), a central subject of Chinese art, poetry, and garden culture for over a millennium.
-- **Naming:** the *Bencao Gangmu* (本草纲目) records the Tang alias 木芍药 (woody peony), from its peony-like flower on a woody stem.
+- **Naming:** the *Bencao Gangmu* (本草纲目) records the Tang alias woody peony (木芍药), from its peony-like flower on a woody stem.
 - **Materia medica:** the root bark (牡丹皮) appears in traditional materia medica. This is **traditional materia-medica language, not modern clinical evidence.**
 
 ## Traditional use vs modern evidence
@@ -158,17 +158,17 @@ Tree peony (牡丹) is *Paeonia suffruticosa*, the woody-stemmed shrub peony of 
 
 ## FAQ
 
-**What is 牡丹 (tree peony)?** The woody-stemmed shrub peony, *Paeonia suffruticosa* (Paeoniaceae), native to China — the celebrated "king of flowers" (花王). It has a soft, rosy, sweet floral scent and is a central subject of Chinese art and garden culture.
+**What is tree peony (牡丹)?** The woody-stemmed shrub peony, *Paeonia suffruticosa* (Paeoniaceae), native to China — the celebrated "king of flowers" (花王). It has a soft, rosy, sweet floral scent and is a central subject of Chinese art and garden culture.
 
-**Is 牡丹 the same as 芍药 (peony)?** No — closely related but distinct peonies. 牡丹 is *Paeonia suffruticosa*, the woody-stemmed shrub peony ("king of flowers"); 芍药 is *Paeonia lactiflora*, the herbaceous peony ("minister of flowers"). The *Bencao Gangmu* (本草纲目) records both, explaining the Tang name 木芍药 ("woody peony") for 牡丹.
+**Is tree peony (牡丹) the same as peony (芍药)?** No — closely related but distinct peonies. 牡丹 is *Paeonia suffruticosa*, the woody-stemmed shrub peony ("king of flowers"); 芍药 is *Paeonia lactiflora*, the herbaceous peony ("minister of flowers"). The *Bencao Gangmu* (本草纲目) records both, explaining the Tang name 木芍药 ("woody peony") for 牡丹.
 
-**Why is 牡丹 called 木芍药 (woody peony)?** The *Bencao Gangmu* (本草纲目) explains: "唐人謂之木芍藥，以其花似芍藥，而宿幹似木也" — in the Tang it was called 木芍药 because its flower resembles the peony (芍药) but its stem is woody. The name marks the tree peony as the woody-stemmed relative of the herbaceous peony.
+**Why is tree peony (牡丹) called woody peony (木芍药)?** The *Bencao Gangmu* (本草纲目) explains: "唐人謂之木芍藥，以其花似芍藥，而宿幹似木也" — in the Tang it was called 木芍药 because its flower resembles the peony (芍药) but its stem is woody. The name marks the tree peony as the woody-stemmed relative of the herbaceous peony.
 
-**What does 牡丹 smell like?** Soft, rosy, and sweet, with a fresh green undertone — a gentle, garden-rose-like character, lighter and less heady than true rose. It is a quiet, elegant floral accent, prized more for its beauty than its scent.
+**What does tree peony (牡丹) smell like?** Soft, rosy, and sweet, with a fresh green undertone — a gentle, garden-rose-like character, lighter and less heady than true rose. It is a quiet, elegant floral accent, prized more for its beauty than its scent.
 
 **Is tree peony an incense ingredient?** Not a lead one. Its fame is ornamental and cultural — it is the "king of flowers" — and it can lend a soft floral accent, but the classical incense florals are jasmine, osmanthus, and rose. The tree peony's root bark (牡丹皮) is a separate materia-medica part.
 
-**What is the difference between 牡丹 and 牡丹皮?** They are different parts of the same plant. 牡丹 is the ornamental flower, valued for its beauty; 牡丹皮 (moutan bark) is the root bark, a classical materia-medica part. One plant, two distinct products. See [tree peony bark](/ingredients/tree-peony-bark/).
+**What is the difference between tree peony (牡丹) and tree peony bark (牡丹皮)?** They are different parts of the same plant. 牡丹 is the ornamental flower, valued for its beauty; moutan bark (牡丹皮) is the root bark, a classical materia-medica part. One plant, two distinct products. See [tree peony bark](/ingredients/tree-peony-bark/).
 
 See also: [peony (芍药)](/ingredients/peony/), [tree peony bark (牡丹皮)](/ingredients/tree-peony-bark/), [rose](/ingredients/rose/), [plum-blossom](/ingredients/plum-blossom/), and the full [scent guide](/blog/scent-guide/).
 
