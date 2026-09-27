@@ -172,7 +172,7 @@ Citronella (香茅) is the citral-rich leaf of *Cymbopogon citratus* — lemongr
 
 **What does lemongrass smell like?** Bright, clean, and lemony — a citrusy, slightly green-grassy scent driven by the aromatic citral. It is a top note: the fresh, lively lift that arrives first and fades fastest in a blend. In incense it adds a zesty, modern brightness rather than a heavy classical wood or resin character.
 
-**Is 香茅 a Chinese incense ingredient?** It is used in incense as a fresh, clean, citrussy top note, most common in modern and insect-repelling incense rather than the heavy classical 合香 blends of woods and resins. Its defining identity is culinary — lemongrass is a staple of Southeast Asian cooking — and its incense use is a fresh, modern crossover of that bright lemony character.
+**Is citronella (香茅) a Chinese incense ingredient?** It is used in incense as a fresh, clean, citrussy top note, most common in modern and insect-repelling incense rather than the heavy classical 合香 blends of woods and resins. Its defining identity is culinary — lemongrass is a staple of Southeast Asian cooking — and its incense use is a fresh, modern crossover of that bright lemony character.
 
 **Why is lemongrass used to repel insects?** Because of its strong citral-rich lemony scent, which is why citronella grasses are distilled into insect-repelling oils. Lemongrass (*Cymbopogon citratus*) shares this practical role with the citronella grasses (*C. nardus*, *C. winterianus*) used for citronella oil. The repellent role is a practical aromatic use, not a medical claim.
 
