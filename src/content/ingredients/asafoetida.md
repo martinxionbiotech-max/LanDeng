@@ -119,17 +119,17 @@ Asafoetida (阿魏) is the pungent, sulfurous resin of *Ferula assa-foetida* (Ap
 
 ## FAQ
 
-**What is 阿魏 (asafoetida)?** The dried resin of *Ferula assa-foetida*, a giant perennial herb of the carrot family (Apiaceae) native to Central Asia and the Iranian plateau. It is a fiercely pungent, sulfurous resin famous for its raw garlic-onion odor, which mellows dramatically on heating into a savory, allium-like depth. In classical Chinese incense and medicine it is a pungent aromatic resin that entered China through the Silk Road.
+**What is asafoetida (阿魏)?** The dried resin of *Ferula assa-foetida*, a giant perennial herb of the carrot family (Apiaceae) native to Central Asia and the Iranian plateau. It is a fiercely pungent, sulfurous resin famous for its raw garlic-onion odor, which mellows dramatically on heating into a savory, allium-like depth. In classical Chinese incense and medicine it is a pungent aromatic resin that entered China through the Silk Road.
 
 **Why does asafoetida smell so strong?** Because of its sulfur compounds — including disulfides and ferulic acid derivatives — which give the raw resin its sharp, garlic-onion, sulfurous odor. The defining trait is transformation: when heated or cooked, the harsh raw smell mellows into a deep, savory, allium-like warmth. This is why it is used in tiny amounts as a pungent accent rather than a base.
 
-**Is 阿魏 the same as 新疆阿魏?** Closely related, but distinct. 阿魏 is the imported classical resin of *Ferula assa-foetida*; 新疆阿魏 is *Ferula sinkiangensis*, a native Xinjiang relative recognized in Chinese materia medica as a regional source. They are both *Ferula* resins with a pungent character, but this page describes the classical imported 阿魏 = *Ferula assa-foetida*.
+**Is asafoetida (阿魏) the same as 新疆阿魏?** Closely related, but distinct. 阿魏 is the imported classical resin of *Ferula assa-foetida*; 新疆阿魏 is *Ferula sinkiangensis*, a native Xinjiang relative recognized in Chinese materia medica as a regional source. They are both *Ferula* resins with a pungent character, but this page describes the classical imported 阿魏 = *Ferula assa-foetida*.
 
 **What does asafoetida smell like after heating?** It transforms from a sharp, sulfurous, garlic-onion raw odor into a deep, savory, allium-like warmth — the same transformation that makes it a prized culinary ingredient in Indian and Middle Eastern cooking. In a blend this makes it a pungent accent that adds an umami-like, savory depth entirely unlike sweet woods and resins.
 
-**How is 阿魏 used in Chinese tradition?** As one of the "foreign aromatics" (香药) of classical Chinese incense, entering through the Silk Road and appearing in 合香 contexts for its pungent, fixative character, and in traditional medicine for its penetrating, warming quality. The medicinal uses are traditional language, not modern clinical evidence, and this encyclopedia makes no medical claims.
+**How is asafoetida (阿魏) used in Chinese tradition?** As one of the "foreign aromatics" (香药) of classical Chinese incense, entering through the Silk Road and appearing in 合香 contexts for its pungent, fixative character, and in traditional medicine for its penetrating, warming quality. The medicinal uses are traditional language, not modern clinical evidence, and this encyclopedia makes no medical claims.
 
-**Why is the name 阿魏 significant?** It is a phonetic loanword, not a descriptive Chinese name — it records the material's foreign (Central Asian / Iranian) origin. This flags it as one of the Silk Road "foreign aromatics" (香药), a category distinct from the native Chinese 香材, and it is a reminder to pin the specific *Ferula* species when sourcing.
+**Why is the name asafoetida (阿魏) significant?** It is a phonetic loanword, not a descriptive Chinese name — it records the material's foreign (Central Asian / Iranian) origin. This flags it as one of the Silk Road "foreign aromatics" (香药), a category distinct from the native Chinese 香材, and it is a reminder to pin the specific *Ferula* species when sourcing.
 
 See also: [galangal](/ingredients/galangal/), [frankincense](/ingredients/frankincense/), [costus](/ingredients/costus/), [galbanum](/ingredients/galbanum/) and the full [scent guide](/blog/scent-guide/).
 
@@ -139,7 +139,7 @@ See also: [galangal](/ingredients/galangal/), [frankincense](/ingredients/franki
 **Source:** [Ferula assa-foetida on GBIF](https://www.gbif.org/species/8113074) · [Ferula sinkiangensis (新疆阿魏) on GBIF](https://www.gbif.org/species/3636475). **Evidence type:** Established.
 
 ### Traditional Chinese use
-**Source:** 阿魏 as a classical 香药 (foreign aromatic) entering via the Silk Road, recorded in the 本草綱目 木部. **Evidence type:** Historically documented — aromatic use; medicinal uses are traditional, not modern clinical evidence.
+**Source:** 阿魏 as a classical foreign aromatic (香药) entering via the Silk Road, recorded in the 本草綱目 木部. **Evidence type:** Historically documented — aromatic use; medicinal uses are traditional, not modern clinical evidence.
 
 ### Authenticity / disambiguation
 **Source:** 阿魏 (*Ferula assa-foetida*) vs 新疆阿魏 (*Ferula sinkiangensis*) — related *Ferula* resins. **Evidence type:** Practical screening.
