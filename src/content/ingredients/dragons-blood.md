@@ -44,7 +44,7 @@ Dragon's blood is resinous and sweet, with a woody, balsamic warmth and a faintl
 
 The name 血竭 (literally "blood-exhausted" or "dried blood") records the resin's vivid red color. The English name "dragon's blood" is a shared name across unrelated plants:
 
-- **血竭 (dragon's blood)** — the rattan-palm fruit resin, *Daemonorops draco* (syn. *Calamus draco*). This entry.
+- **dragon's blood (血竭)** — the rattan-palm fruit resin, *Daemonorops draco* (syn. *Calamus draco*). This entry.
 - **Dragon-tree resin** — *Dracaena* species, a different plant group whose red resin also carries the "dragon's blood" name.
 
 They share a name and a red color but are different materials from different plant groups, so the source species should be confirmed.
@@ -55,7 +55,7 @@ They share a name and a red color but are different materials from different pla
 
 "Dragon's blood" is a shared name for several unrelated red resins, and that shared name is the material's defining risk:
 
-- **血竭 (rattan-palm resin)** — *Daemonorops draco* (syn. *Calamus draco*), the classical incense and pigment material of the Chinese trade. This entry.
+- **rattan-palm resin (血竭)** — *Daemonorops draco* (syn. *Calamus draco*), the classical incense and pigment material of the Chinese trade. This entry.
 - **Dragon-tree resin** — *Dracaena* species (such as *Dracaena cinnabari*), a different plant group whose red resin is also called "dragon's blood."
 
 The two are told apart by botanical source — one is a palm fruit resin, the other a tree resin — not by the shared name or the shared red color. A buyer should confirm the source species when the name appears.
@@ -157,7 +157,7 @@ Dragon's blood (血竭) is the bright red resin of the fruit of *Daemonorops dra
 
 **Why is it called "dragon's blood"?** Because of its vivid red color, which resembles blood. The name is applied to several red resins across different cultures — the rattan-palm resin and the dragon-tree resin among them — reflecting their shared appearance rather than a shared botanical source. In Chinese it is 血竭, literally "blood-exhausted" or "dried blood."
 
-**What is 血竭 used for in Chinese tradition?** 血竭 (dragon's blood) is used as a red resin in incense and as a traditional red pigment and dye in lacquer and crafts, and it is recorded in traditional Chinese medicine (本草綱目, 木部). Its medicinal uses are traditional, not established clinical fact. In incense it serves as a warm, balsamic resin note, usually blended.
+**What is dragon's blood (血竭) used for in Chinese tradition?** dragon's blood (血竭) is used as a red resin in incense and as a traditional red pigment and dye in lacquer and crafts, and it is recorded in traditional Chinese medicine (本草綱目, 木部). Its medicinal uses are traditional, not established clinical fact. In incense it serves as a warm, balsamic resin note, usually blended.
 
 **Is dragon's blood a wood?** No — it is a resin exuded on the surface of the fruit of a climbing rattan palm (*Daemonorops draco*), not a wood. The source plant is a palm (Arecaceae), and the material is the dried red resin scraped from the fruit, sold as lumps or powder.
 
