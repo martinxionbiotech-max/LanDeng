@@ -14,7 +14,7 @@ related: ["osmanthus", "chrysanthemum"]
 
 <img src="/images/orchid-raw-material-800x533.webp" alt="Raw Orchid (Cymbidium ensifolium) material, editorial still life" width="800" height="533" loading="lazy">
 
-> **Direct answer:** Orchid (兰花, lánhuā) is the flower of the *Cymbidium* orchids, principally *Cymbidium ensifolium*, an orchid (Orchidaceae) cultivated in China for its delicate, refined fragrance. In Chinese culture the orchid is one of the Four Gentlemen (四君子) and its scent is the classical model of the refined, understated floral. In incense it is a delicate floral reference and a 清供 (scholar's-table offering) flower.
+> **Direct answer:** Orchid (兰花, lánhuā) is the flower of the *Cymbidium* orchids, principally *Cymbidium ensifolium*, an orchid (Orchidaceae) cultivated in China for its delicate, refined fragrance. In Chinese culture the orchid is one of the Four Gentlemen (四君子) and its scent is the classical model of the refined, understated floral. In incense it is a delicate floral reference and a scholar's-table offering (清供) flower.
 
 ## Key facts
 
@@ -34,14 +34,14 @@ Orchid is a delicate, refined floral — sweet and green with a quiet, understat
 
 ## A naming caution (read this)
 
-> **Direct answer:** 兰花 (orchid) must be kept distinct from the other plants that share the 兰 character. 兰花 is the *Cymbidium* orchid flower (Orchidaceae); 白兰花 is the white champaca (*Michelia alba*, Magnoliaceae); 玉兰 is the yulan magnolia (*Magnolia denudata*); and 佩兰 is eupatorium (*Eupatorium fortunei*, Asteraceae). The shared 兰 character connects unrelated plants.
+> **Direct answer:** orchid (兰花) must be kept distinct from the other plants that share the 兰 character. 兰花 is the *Cymbidium* orchid flower (Orchidaceae); 白兰花 is the white champaca (*Michelia alba*, Magnoliaceae); 玉兰 is the yulan magnolia (*Magnolia denudata*); and 佩兰 is eupatorium (*Eupatorium fortunei*, Asteraceae). The shared 兰 character connects unrelated plants.
 
-兰花 (orchid) must be kept distinct from the other plants that share the 兰 character in Chinese fragrance:
+orchid (兰花) must be kept distinct from the other plants that share the 兰 character in Chinese fragrance:
 
-- **兰花 (orchid)** — *Cymbidium ensifolium* (Orchidaceae), the refined orchid flower. This entry.
-- **白兰花 (champaca)** — *Michelia alba* (syn. *Magnolia × alba*, Magnoliaceae), the white champaca, a different, heady flower that also carries 兰 in its name. Its own entry.
-- **玉兰 (yulan magnolia)** — *Magnolia denudata* (Magnoliaceae), another white magnolia. Its own entry.
-- **佩兰 (eupatorium)** — *Eupatorium fortunei* (Asteraceae), a herb whose 兰 name is unrelated to the orchid flower. Its own entry.
+- **orchid (兰花)** — *Cymbidium ensifolium* (Orchidaceae), the refined orchid flower. This entry.
+- **champaca (白兰花)** — *Michelia alba* (syn. *Magnolia × alba*, Magnoliaceae), the white champaca, a different, heady flower that also carries 兰 in its name. Its own entry.
+- **yulan magnolia (玉兰)** — *Magnolia denudata* (Magnoliaceae), another white magnolia. Its own entry.
+- **eupatorium (佩兰)** — *Eupatorium fortunei* (Asteraceae), a herb whose 兰 name is unrelated to the orchid flower. Its own entry.
 
 **This page describes 兰花 = the *Cymbidium* orchid flower.** The shared 兰 character connects unrelated plants, and each has its own entry. Note that here 兰花 is the *true* orchid (Orchidaceae), unlike 含笑花, 白兰花, 玉兰, and 米仔兰, which borrow the character without being orchids.
 
@@ -59,10 +59,10 @@ The *Cymbidium* orchids range across East and Southeast Asia, and *Cymbidium ens
 
 ## In Chinese tradition
 
-> **Direct answer:** 兰花 is a classical 清供 (scholar's-table offering) flower and one of the Four Gentlemen (四君子) — the classical symbols of the cultivated scholar — and the Ming *Xiangcheng* (香乘) records the orchid–incense pairing (兰宜四絶), matching the orchid with refined incenses rather than burning the flower itself.
+> **Direct answer:** 兰花 is a classical scholar's-table offering (清供) flower and one of the Four Gentlemen (四君子) — the classical symbols of the cultivated scholar — and the Ming *Xiangcheng* (香乘) records the orchid–incense pairing (兰宜四絶), matching the orchid with refined incenses rather than burning the flower itself.
 
-- **清供 (scholar's-table offering):** 兰花 is a classical 清供 flower, displayed for its refined fragrance and cultural meaning.
-- **Four Gentlemen:** the orchid is one of the 四君子 (plum, orchid, bamboo, chrysanthemum), the classical symbols of the cultivated scholar.
+- **scholar's-table offering (清供):** 兰花 is a classical 清供 flower, displayed for its refined fragrance and cultural meaning.
+- **Four Gentlemen:** the orchid is one of the plum, orchid, bamboo, chrysanthemum (四君子), the classical symbols of the cultivated scholar.
 - **Incense pairing:** the Ming-dynasty *Xiangcheng* (香乘) records 韩熙载's observation that orchid pairs with specific refined incenses — "兰花 is suited to 四絶 [incense]" (兰宜四絶) — a flower-to-incense pairing, not a burned orchid material.
 
 ## Traditional use vs modern evidence
@@ -81,11 +81,11 @@ The orchid's incense role is a *reference*, not a material. Its delicate, unders
 
 ## What buyers should look for
 
-> **Direct answer:** A buyer should distinguish 兰花 (the *Cymbidium* orchid, Orchidaceae) from 白兰花 (champaca) and 玉兰 (yulan magnolia), which share the 兰 character but are magnolias. The orchid's scent is subtle and up-close; in incense it is a delicate floral reference, not a heavy burned material, and it is a cultural symbol first, a fragrance ingredient second.
+> **Direct answer:** A buyer should distinguish 兰花 (the *Cymbidium* orchid, Orchidaceae) from champaca (白兰花) and yulan magnolia (玉兰), which share the 兰 character but are magnolias. The orchid's scent is subtle and up-close; in incense it is a delicate floral reference, not a heavy burned material, and it is a cultural symbol first, a fragrance ingredient second.
 
 For a sourcing buyer, the checks are:
 
-- **Species** — confirm *Cymbidium ensifolium* (Orchidaceae), the true orchid; distinguish it from 白兰花 (champaca) and 玉兰 (yulan magnolia), which are magnolias despite the shared 兰 character.
+- **Species** — confirm *Cymbidium ensifolium* (Orchidaceae), the true orchid; distinguish it from champaca (白兰花) and yulan magnolia (玉兰), which are magnolias despite the shared 兰 character.
 - **Aroma** — expect a delicate, refined, sweet-green floral, subtle and up-close rather than room-filling.
 - **Role** — it is a 清供 flower and a cultural symbol first, a fragrance ingredient second; in incense it is a reference, not a burned material.
 - **Format** — for modern fragrance, "orchid" usually names a synthetic accord; the living flower's scent is a garden and cultural matter.
@@ -108,17 +108,17 @@ In our view, orchid is best understood as a **cultural and olfactory reference**
 
 ## FAQ
 
-**What is 兰花 (orchid)?** The flower of the *Cymbidium* orchids, principally *Cymbidium ensifolium*, an orchid (Orchidaceae) cultivated in China for its delicate, refined fragrance. It is one of the Four Gentlemen (四君子) and its scent is the classical model of the refined, understated floral — a 清供 offering flower and a delicate incense reference rather than a heavy burned material.
+**What is orchid (兰花)?** The flower of the *Cymbidium* orchids, principally *Cymbidium ensifolium*, an orchid (Orchidaceae) cultivated in China for its delicate, refined fragrance. It is one of the Four Gentlemen (四君子) and its scent is the classical model of the refined, understated floral — a 清供 offering flower and a delicate incense reference rather than a heavy burned material.
 
-**Is 兰花 the same as 白兰花 (champaca)?** No. 兰花 is the *Cymbidium* orchid flower (Orchidaceae), while 白兰花 is the white champaca (*Michelia alba*, Magnoliaceae), a different, heady flower that also carries 兰 in its name. The shared 兰 character connects unrelated plants, and each has its own entry here.
+**Is orchid (兰花) the same as champaca (白兰花)?** No. 兰花 is the *Cymbidium* orchid flower (Orchidaceae), while 白兰花 is the white champaca (*Michelia alba*, Magnoliaceae), a different, heady flower that also carries 兰 in its name. The shared 兰 character connects unrelated plants, and each has its own entry here.
 
 **What does orchid smell like?** Delicate and refined — sweet and green with a quiet, understated character, the opposite of a heady white-floral. The *Cymbidium* scent is subtle and needs proximity; it is a cultured fragrance experienced up close rather than filling a room.
 
-**How is orchid used in Chinese culture?** As a 清供 (scholar's-table offering) flower, displayed for its refined fragrance; as one of the Four Gentlemen (四君子), the classical symbols of the cultivated scholar; and in classical flower-to-incense pairing — the Ming-dynasty *Xiangcheng* (香乘) records that orchid is suited to specific refined incenses (兰宜四絶).
+**How is orchid used in Chinese culture?** As a scholar's-table offering (清供) flower, displayed for its refined fragrance; as one of the Four Gentlemen (四君子), the classical symbols of the cultivated scholar; and in classical flower-to-incense pairing — the Ming-dynasty *Xiangcheng* (香乘) records that orchid is suited to specific refined incenses (兰宜四絶).
 
 **Is orchid burned as incense?** Not heavily. The orchid is a delicate floral reference and a 清供 flower, not a material burned in its own right. In the classical record it appears in flower-to-incense pairings rather than as a dominant burned ingredient.
 
-**Is 兰花 the only true orchid among the 兰-named flowers?** In this encyclopedia's 兰-named set, yes. 兰花 (*Cymbidium ensifolium*) is the botanical orchid (Orchidaceae), while 白兰花 (champaca), 玉兰 (yulan magnolia), and 米仔兰 (aglaia) all carry the 兰 character but belong to other families. The character is a fragrance honorific; the species is the botanical truth.
+**Is orchid (兰花) the only true orchid among the 兰-named flowers?** In this encyclopedia's 兰-named set, yes. 兰花 (*Cymbidium ensifolium*) is the botanical orchid (Orchidaceae), while champaca (白兰花), yulan magnolia (玉兰), and aglaia (米仔兰) all carry the 兰 character but belong to other families. The character is a fragrance honorific; the species is the botanical truth.
 
 See also: [champaca](/ingredients/champaca/), [osmanthus](/ingredients/osmanthus/), [chrysanthemum](/ingredients/chrysanthemum/), [yulan-magnolia](/ingredients/yulan-magnolia/), [eupatorium](/ingredients/eupatorium/) and the full [scent guide](/blog/scent-guide/).
 
