@@ -71,7 +71,7 @@ Every source is assigned one of six evidence tiers, from **Tier 1 (Scientific / 
 
 ### Terminology policy
 
-Chinese is the source of truth; English is the agreed translation. One Chinese word does not always map to one English word, so each term records pinyin, literal meaning, preferred English, and alternates. The canonical Chinese–English glossary is the terminology dataset (<!-- AUTO:dataset-counts:terminology-terms -->249<!-- /AUTO:dataset-counts:terminology-terms --> terms).
+Chinese is the source of truth; English is the agreed translation. One Chinese word does not always map to one English word, so each term records pinyin, literal meaning, preferred English, and alternates. The canonical Chinese–English glossary is the terminology dataset (<!-- AUTO:dataset-counts:terminology-terms -->249<!-- /AUTO:dataset-counts:terminology-terms --> terms); the human-readable entry point to that vocabulary is the [Chinese incense terminology reference](/blog/incense-terminology-reference/).
 
 ### Update policy
 

@@ -104,7 +104,7 @@ For a sourcing buyer, the checks are:
 - **"Peony" is a synthetic-accord term in practice.** In modern fragrance, "peony" almost always names a synthetic floral accord, not a natural peony extract. A buyer who orders "peony" should know which they are getting — a modern note, not a botanical product.
 - **The herbaceous/tree split is the useful distinction.** 芍药 (herbaceous, root medicine) and 牡丹 (tree, bark medicine) are both "peony" in English, but they are different plants with different parts used. Naming the species and the form is the discipline that resolves the confusion.
 
-In our view, 芍药 is a **cultural flower, not an incense material**: its value is ornamental, symbolic, and materia-medica, and its honest characterization is a garden and parting-flower record — not a 香材 claim it has never supported.
+In our view, 芍药 is a **cultural flower, not an incense material**: its value is ornamental, symbolic, and materia-medica, and its honest characterization is a garden and parting-flower record — not a 香材 claim it has never supported. The same gap between fame and fragrance appears with [schisandra (五味子)](/ingredients/schisandra/) — a five-flavor materia-medica berry famous for taste rather than scent.
 
 ## Summary
 

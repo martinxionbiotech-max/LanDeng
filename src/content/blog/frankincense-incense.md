@@ -49,7 +49,7 @@ Frankincense's defining trait is that it is **fresh and warm at the same time**:
 
 This brightness is why frankincense is so often described with words like "clearing" and "focusing." It is the opposite of a heavy, smoky, "sleepy" scent — which is exactly why it tends to be chosen for **morning, study, meditation, or space-clearing** rituals rather than bedtime.
 
-**A useful contrast:** agarwood and sandalwood are deep and enveloping; frankincense is **uplifting and clarifying**. If you want a scent that feels like a clean, well-lit room, frankincense is the reference point.
+**A useful contrast:** agarwood and sandalwood are deep and enveloping; frankincense is **uplifting and clarifying**. If you want a scent that feels like a clean, well-lit room, frankincense is the reference point. For the side-by-side botanical and sourcing differences, see [agarwood vs frankincense](/blog/agarwood-vs-frankincense/) and [sandalwood vs frankincense](/blog/sandalwood-vs-frankincense/).
 
 ---
 

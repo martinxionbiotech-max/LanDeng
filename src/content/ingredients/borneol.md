@@ -122,7 +122,7 @@ These are trade distinctions rather than a single standardized grading system.
 
 > **Direct answer:** Borneol and camphor are related but distinct monoterpenes. Borneol is cooling and minty-woody; camphor is sharper and more pungent. Borneol can slowly oxidize toward camphor, so aged borneol may smell more camphoraceous.
 
-Borneol and camphor are chemically related monoterpenes, and the two are easily confused — both come from the camphor tree and both smell sharp and medicinal. Borneol reads cooling and minty-woody; camphor reads sharper and more pungent. The link is real: borneol can slowly oxidize toward camphor over time, which is why aged borneol may smell more camphoraceous. See [camphor](/ingredients/camphor/) for the full distinction.
+Borneol and camphor are chemically related monoterpenes, and the two are easily confused — both come from the camphor tree and both smell sharp and medicinal. Borneol reads cooling and minty-woody; camphor reads sharper and more pungent. The link is real: borneol can slowly oxidize toward camphor over time, which is why aged borneol may smell more camphoraceous. See [camphor](/ingredients/camphor/) for the full distinction, or the side-by-side [borneol vs camphor](/blog/borneol-vs-camphor/) comparison.
 
 ## Traditional use vs modern evidence
 

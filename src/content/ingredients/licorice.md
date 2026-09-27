@@ -124,7 +124,7 @@ For an incense maker or sourcing buyer:
 - **Aroma** — a deep, dry sweetness, not a floral or spicy note.
 - **Consistency** — as a minor supporting ingredient, batch-to-batch consistency is what makes it reliable.
 
-A related aromatic root in the 合香 supporting cast is [spikenard (甘松)](/ingredients/spikenard-nardostachys/), and a warming spice accent with its own entry is [galangal (高良姜)](/ingredients/galangal/); they are different functions in the same blending vocabulary.
+A related aromatic root in the 合香 supporting cast is [spikenard (甘松)](/ingredients/spikenard-nardostachys/), and a warming spice accent with its own entry is [galangal (高良姜)](/ingredients/galangal/); they are different functions in the same blending vocabulary. A different case is the five-flavor berry [schisandra (五味子)](/ingredients/schisandra/) — a materia-medica fruit whose fame is taste, not fragrance, at the edge of the incense canon.
 
 ## Safety
 

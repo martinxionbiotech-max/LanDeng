@@ -147,7 +147,7 @@ Incense combustion produces smoke and particulate matter; burn in a well-ventila
 | Character | Sharp, cool, penetrating, medicinal-fresh | Camphoraceous, cooling, minty, woody |
 | Wood product | 樟木 — aromatic wood used in incense | Aromatica wood (see borneol entry) |
 
-See [borneol](/ingredients/borneol/), [cinnamon](/ingredients/cinnamon/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
+See [borneol](/ingredients/borneol/), [cinnamon](/ingredients/cinnamon/), the [borneol vs camphor](/blog/borneol-vs-camphor/) comparison, and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
 
 ## Our Industry View
 

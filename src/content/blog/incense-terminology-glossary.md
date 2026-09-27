@@ -14,7 +14,7 @@ author: "Landeng Tech Team"
 
 **Data summary:** Incense comes in several **forms** — stick (线香), coil (盘香), cone, resin (香脂/香片), and powder (香粉) — plus prepared styles like backflow cones and coreless sticks. The form determines how it burns, how long it lasts, and what holder it needs.
 
-**Key facts:** This glossary covers **form** terminology. For **ingredient** terms (sandalwood, frankincense, makko), see the [ingredients glossary](/blog/incense-ingredients-glossary/).
+**Key facts:** This glossary covers **form** terminology. For **ingredient** terms (sandalwood, frankincense, makko), see the [ingredients glossary](/blog/incense-ingredients-glossary/). For the full 249-term Chinese–English vocabulary, see the [terminology reference](/blog/incense-terminology-reference/).
 
 ---
 
