@@ -48,13 +48,13 @@ The Chinese term is straightforward but worth pinning down: 柚 (yòu) is the po
 
 ## The citrus-peel family (read this)
 
-> **Direct answer:** 柚皮 sits in a small Chinese family of citrus-peel materials alongside 陈皮 (aged mandarin peel) and the fruit-peel context of 荔枝壳. They share a citrus-peel register but differ by species, pith, and processing — the pomelo's thick pith, the mandarin's aging, and the litchi's sweetness.
+> **Direct answer:** 柚皮 sits in a small Chinese family of citrus-peel materials alongside aged mandarin peel (陈皮) and the fruit-peel context of 荔枝壳. They share a citrus-peel register but differ by species, pith, and processing — the pomelo's thick pith, the mandarin's aging, and the litchi's sweetness.
 
 The citrus-peel materials form a small but real family, and the distinctions are the point:
 
-- **柚皮 (pomelo peel)** — *Citrus maxima*, bittersweet-floral with a thick white pith; this entry.
-- **陈皮 (tangerine/mandarin peel)** — *Citrus reticulata*, the *aged* peel with a warm, mellow, tea-like depth.
-- **荔枝壳 (litchi husk)** — *Litchi chinensis*, a soapberry-family pericarp, sweet and floral — a fruit-peel note outside the citrus family proper.
+- **pomelo peel (柚皮)** — *Citrus maxima*, bittersweet-floral with a thick white pith; this entry.
+- **tangerine/mandarin peel (陈皮)** — *Citrus reticulata*, the *aged* peel with a warm, mellow, tea-like depth.
+- **litchi husk (荔枝壳)** — *Litchi chinensis*, a soapberry-family pericarp, sweet and floral — a fruit-peel note outside the citrus family proper.
 
 The family shares a citrus-peel register, but each member is a **different species with a different material logic**: the pomelo is defined by its thick pith, the mandarin by its aging, and the litchi by its delicate sweetness. See [orange-peel (陈皮)](/ingredients/orange-peel/) and [litchi husk (荔枝壳)](/ingredients/litchi-husk/).
 
@@ -135,7 +135,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 ## Pomelo peel vs chenpi
 
-> **Direct answer:** 柚皮 (pomelo peel) and 陈皮 (chenpi) are different peels from different citrus species. 柚皮 is the pomelo peel (*Citrus maxima*) with a thick pith and a bittersweet, floral-woody character; 陈皮 is the *aged* mandarin peel (*Citrus reticulata*) with a warm, mellow, tea-like depth from aging. Both are citrus peels, but they are not interchangeable.
+> **Direct answer:** pomelo peel (柚皮) and 陈皮 (chenpi) are different peels from different citrus species. 柚皮 is the pomelo peel (*Citrus maxima*) with a thick pith and a bittersweet, floral-woody character; 陈皮 is the *aged* mandarin peel (*Citrus reticulata*) with a warm, mellow, tea-like depth from aging. Both are citrus peels, but they are not interchangeable.
 
 | | Pomelo peel (柚皮) | Chenpi (陈皮) |
 |---|---|---|
@@ -165,15 +165,15 @@ Pomelo peel (柚皮) is the peel of the pomelo, *Citrus maxima*, the largest cit
 
 ## FAQ
 
-**What is 柚皮 (pomelo peel)?** The peel of the pomelo (*Citrus maxima*), the largest citrus fruit, a tree of the rue family (Rutaceae) native to Southeast Asia and long cultivated in southern China. It is a bittersweet, floral-woody citrus peel used in Chinese incense as a citrus peel note and in cooking and tea. It is distinct from the aged mandarin peel 陈皮.
+**What is pomelo peel (柚皮)?** The peel of the pomelo (*Citrus maxima*), the largest citrus fruit, a tree of the rue family (Rutaceae) native to Southeast Asia and long cultivated in southern China. It is a bittersweet, floral-woody citrus peel used in Chinese incense as a citrus peel note and in cooking and tea. It is distinct from the aged mandarin peel 陈皮.
 
-**How does 柚皮 differ from 陈皮?** They are different peels from different citrus species. 柚皮 is the pomelo peel (*Citrus maxima*), with a bittersweet, floral-woody character and a thick white pith. 陈皮 is the aged mandarin/tangerine peel (*Citrus reticulata*), prized from Xinhui, Guangdong, with a warm, mellow, tea-like depth from aging. Both are citrus peels, but they are not interchangeable, and each has its own entry in this encyclopedia.
+**How does pomelo peel (柚皮) differ from aged mandarin peel (陈皮)?** They are different peels from different citrus species. 柚皮 is the pomelo peel (*Citrus maxima*), with a bittersweet, floral-woody character and a thick white pith. 陈皮 is the aged mandarin/tangerine peel (*Citrus reticulata*), prized from Xinhui, Guangdong, with a warm, mellow, tea-like depth from aging. Both are citrus peels, but they are not interchangeable, and each has its own entry in this encyclopedia.
 
 **What does pomelo peel smell like?** Citrus and bittersweet, with a floral, faintly woody depth and less of the sharp acidity of orange or mandarin. Its thick white pith gives a mild bitterness that balances the bright citrus oil of the outer rind. In a blend it reads as a soft citrus note — the brightness of citrus rounded by a bitter-floral, slightly woody undertone.
 
 **What part of the pomelo is used?** The fruit peel — the outer rind and the thick white pith — used fresh or dried. The pith is what gives pomelo peel its characteristic mild bitterness, balancing the bright citrus oil of the rind. This distinguishes it from thinner-peeled citrus such as mandarin, whose peel is the source of 陈皮.
 
-**How is 柚皮 used in Chinese tradition?** Primarily in southern Chinese cooking and tea for its bittersweet citrus depth, and as a soft citrus peel note in incense blends. It is also recorded in traditional Chinese medicine (本草綱目, 果部). The medicinal uses are traditional language, not modern clinical evidence, and this encyclopedia makes no medical claims.
+**How is pomelo peel (柚皮) used in Chinese tradition?** Primarily in southern Chinese cooking and tea for its bittersweet citrus depth, and as a soft citrus peel note in incense blends. It is also recorded in traditional Chinese medicine (本草綱目, 果部). The medicinal uses are traditional language, not modern clinical evidence, and this encyclopedia makes no medical claims.
 
 **What makes the pomelo's peel special among citrus?** Its thickness. The pomelo is the largest citrus fruit, with a rind-and-pith proportionally far heavier than a mandarin's, and it is that thick pith that gives 柚皮 its bittersweet, floral-woody character. Where the mandarin's value comes from *aging* (陈皮), the pomelo's comes from its *pith* — two different answers to the same question of how to turn a citrus peel into a distinct 香材.
 
