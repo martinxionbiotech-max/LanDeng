@@ -64,7 +64,7 @@ The tuberose is a Mexican native that became a global horticultural and perfume 
 
 - **Floristry and garden:** 晚香玉 is grown as a fragrant cut flower and garden bulb in modern China.
 - **Perfumery:** tuberose absolute is a classic Western white-floral note, used in fine fragrance; the scent is extracted by solvent or enfleurage.
-- **Not a classical incense material:** it has no role in 合香 (blended incense) or the classical 香材 canon.
+- **Not a classical incense material:** it has no role in blended incense (合香) or the classical 香材 canon.
 
 ## Traditional use vs modern evidence
 
@@ -111,9 +111,9 @@ Tuberose (晚香玉, "night-fragrant jade") is the flower of *Agave amica* (syn.
 
 ## FAQ
 
-**What is 晚香玉 (tuberose)?** The tuberose, *Agave amica* (long known as *Polianthes tuberosa*), a bulbous perennial of the asparagus family (Asparagaceae) native to Mexico. Its Chinese name means "night-fragrant jade," and it is prized for a rich, sweet, creamy, heady white-floral scent that deepens after dark.
+**What is tuberose (晚香玉)?** The tuberose, *Agave amica* (long known as *Polianthes tuberosa*), a bulbous perennial of the asparagus family (Asparagaceae) native to Mexico. Its Chinese name means "night-fragrant jade," and it is prized for a rich, sweet, creamy, heady white-floral scent that deepens after dark.
 
-**Is 晚香玉 a classical Chinese incense ingredient?** No. The tuberose is native to Mexico and entered Chinese use through Western horticulture; the name 晚香玉 is a modern descriptive coinage. It does not appear in the classical 香材 canon, the 香乘, or the *Bencao Gangmu* (本草纲目). Its position in Chinese contexts is modern floristry, garden fragrance, and Western-style perfumery — no classical origin is claimed.
+**Is tuberose (晚香玉) a classical Chinese incense ingredient?** No. The tuberose is native to Mexico and entered Chinese use through Western horticulture; the name 晚香玉 is a modern descriptive coinage. It does not appear in the classical 香材 canon, the 香乘, or the *Bencao Gangmu* (本草纲目). Its position in Chinese contexts is modern floristry, garden fragrance, and Western-style perfumery — no classical origin is claimed.
 
 **What does tuberose smell like?** Sweet, creamy, and intensely heady — one of the most powerful white florals in perfumery, with a rich, almost fruity density that intensifies at night. It reads as narcotic and dense rather than fresh or green, which is why it became a prized enfleurage flower in Western fine fragrance.
 
