@@ -14,7 +14,7 @@ related: ["chrysanthemum", "artemisia-annua"]
 
 <img src="/images/mugwort-raw-material-800x533.webp" alt="Loose dried mugwort leaves tied in a small bundle." width="800" height="533" loading="lazy">
 
-**Technical answer:** Mugwort — *aicǎo* (艾草) in Chinese — is a herb in the *Artemisia* genus with a distinctive herbal, bitter-green, slightly camphoraceous aroma. It is one of the most versatile herbs in Chinese tradition, used fresh or dried, for incense, purification, and (in a separate medical context) moxibustion. It is one of several *Artemisia* herbs on this site and must be distinguished from its close relatives 青蒿 (sweet wormwood) and 龙蒿 (tarragon).
+**Technical answer:** Mugwort — *aicǎo* (艾草) in Chinese — is a herb in the *Artemisia* genus with a distinctive herbal, bitter-green, slightly camphoraceous aroma. It is one of the most versatile herbs in Chinese tradition, used fresh or dried, for incense, purification, and (in a separate medical context) moxibustion. It is one of several *Artemisia* herbs on this site and must be distinguished from its close relatives sweet wormwood (青蒿) and tarragon (龙蒿).
 
 ## Key facts
 
@@ -40,7 +40,7 @@ Mugwort's aroma is herbaceous and slightly bitter-green, with a camphoraceous ed
 
 ## Chinese name and terminology
 
-> **Direct answer:** The names 艾草 and 艾 (ài) mean mugwort, and 艾叶 (àiyè) is "mugwort leaf." The name overlaps with related *Artemisia* herbs — 青蒿 (sweet wormwood) and 龙蒿 (tarragon) — so a label that says only "艾" should be checked against species.
+> **Direct answer:** The names 艾草 and 艾 (ài) mean mugwort, and 艾叶 (àiyè) is "mugwort leaf." The name overlaps with related *Artemisia* herbs — sweet wormwood (青蒿) and tarragon (龙蒿) — so a label that says only "艾" should be checked against species.
 
 - **艾草 / 艾 (àicǎo / ài)** — mugwort in general; the herb of purification and moxibustion.
 - **艾叶 (àiyè)** — "mugwort leaf," the specific part most often used.
@@ -58,7 +58,7 @@ Because *Artemisia* contains several herbs, a label that names only "艾" withou
 
 > **Direct answer:** Mugwort is used in incense for its cleansing, protective association and its bitter-green, slightly camphoraceous aroma. It is usually a supporting note in 合香, adding an earthy, cleansing edge to wood-and-resin blends, and it is also burned as a single herb for purification and seasonal use.
 
-In Chinese incense, mugwort's role follows its cultural meaning as much as its scent: it is associated with clearing a space and warding off insects and — in folk tradition — negative influence. Because its aroma is herbal rather than sweet, it is more often a **supporting note** in 合香 (blended incense) than a solo fragrance, adding an earthy, cleansing edge to wood-and-resin blends. It is also burned as a single herb for purification and seasonal use (端午节). See the [scent guide](/blog/scent-guide/) for where herbal notes sit in a blend.
+In Chinese incense, mugwort's role follows its cultural meaning as much as its scent: it is associated with clearing a space and warding off insects and — in folk tradition — negative influence. Because its aroma is herbal rather than sweet, it is more often a **supporting note** in blended incense (合香) than a solo fragrance, adding an earthy, cleansing edge to wood-and-resin blends. It is also burned as a single herb for purification and seasonal use (端午节). See the [scent guide](/blog/scent-guide/) for where herbal notes sit in a blend.
 
 ## How is mugwort processed?
 
@@ -93,7 +93,7 @@ These are trade distinctions, not a single standardized grading system.
 |---|---|
 | Dried leaf | Burned or hung for purification |
 | Tied bundles | Dragon Boat Festival (端午节) hanging |
-| Ground powder | Blended into 合香 (incense compounds) |
+| Ground powder | Blended into incense compounds (合香) |
 
 Moxa floss (艾绒) is a further-processed form used in moxibustion — a medical application kept separate from incense use on this page. See [incense powder & resin](/blog/incense-powder-resin/).
 
