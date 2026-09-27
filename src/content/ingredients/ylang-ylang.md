@@ -28,17 +28,17 @@ related: ["jasmine", "neroli", "tuberose"]
 
 ## Aroma profile
 
-> **Direct answer:** 依兰 (ylang-ylang) has a rich, heady, sweet floral scent with a creamy, slightly fruity, almost banana-like warmth — the lush, tropical bloom note of classic perfumery. It is fuller and more exotic than jasmine or neroli, with a deep, almost narcotic sweetness.
+> **Direct answer:** ylang-ylang (依兰) has a rich, heady, sweet floral scent with a creamy, slightly fruity, almost banana-like warmth — the lush, tropical bloom note of classic perfumery. It is fuller and more exotic than jasmine or neroli, with a deep, almost narcotic sweetness.
 
-依兰 (ylang-ylang) has a rich, heady, sweet floral scent with a creamy, slightly fruity, almost banana-like warmth — the lush, tropical bloom note of classic perfumery. It is fuller and more exotic than jasmine or neroli, with a deep, almost narcotic sweetness.
+ylang-ylang (依兰) has a rich, heady, sweet floral scent with a creamy, slightly fruity, almost banana-like warmth — the lush, tropical bloom note of classic perfumery. It is fuller and more exotic than jasmine or neroli, with a deep, almost narcotic sweetness.
 
 The tropical fullness is ylang-ylang's signature: it is a *heavy* floral, creamy and sweet, in contrast to the brighter, greener white florals like jasmine and neroli. This weight is why it functions as a heart-to-base note in perfumery — it lends richness and depth to a floral accord, rather than the bright top-note sparkle of a lighter flower.
 
 ## A provenance note (read this)
 
-> **Direct answer:** 依兰 (ylang-ylang) is a modern fragrance crossover, not a classical Chinese 香材: *Cananga odorata* is native to Southeast Asia, Indonesia, and the western Pacific — not a native Chinese species. The name 依兰 is modern and phonetic, and its oil is a tropical-perfumery material.
+> **Direct answer:** ylang-ylang (依兰) is a modern fragrance crossover, not a classical Chinese 香材: *Cananga odorata* is native to Southeast Asia, Indonesia, and the western Pacific — not a native Chinese species. The name 依兰 is modern and phonetic, and its oil is a tropical-perfumery material.
 
-依兰 (ylang-ylang) is a **modern fragrance crossover**, not a classical Chinese 香材:
+ylang-ylang (依兰) is a **modern fragrance crossover**, not a classical Chinese 香材:
 
 - *Cananga odorata* is native to Southeast Asia, Indonesia, and the western Pacific — not a native Chinese species, and Flora of China does not record it as native.
 - In Chinese, 依兰 (also 依兰香) is a modern, phonetic name for the flower; it has no classical materia-medica or 香材 standing.
@@ -52,9 +52,9 @@ This page records it honestly as a modern tropical fragrance flower — **no cla
 
 The name 依兰 (yīlán) is worth a note because it is a *different kind of foreign name* than, say, lavender's:
 
-- **薰衣草 (lavender)** — a *descriptive* name ("clothes-scenting herb") that describes the plant's use.
-- **洋甘菊 (chamomile)** — a *prefixed* name ("foreign sweet-chrysanthemum") that marks the plant as non-native.
-- **依兰 (ylang-ylang)** — a *phonetic* name, a pure transcription of the flower's Southeast Asian name, with no Chinese meaning at all.
+- **lavender (薰衣草)** — a *descriptive* name ("clothes-scenting herb") that describes the plant's use.
+- **chamomile (洋甘菊)** — a *prefixed* name ("foreign sweet-chrysanthemum") that marks the plant as non-native.
+- **ylang-ylang (依兰)** — a *phonetic* name, a pure transcription of the flower's Southeast Asian name, with no Chinese meaning at all.
 
 The phonetic name is the strongest marker of foreignness: it borrows the sound, not the meaning, and carries no Chinese history. 依兰 tells the reader, in its very form, that this is a tropical import with no classical standing.
 
@@ -72,10 +72,10 @@ The Annonaceae placement is significant for provenance: it is the custard-apple 
 
 The white florals are a crowded perfumery family, and ylang-ylang is the heaviest member:
 
-- **依兰 (ylang-ylang)** — *Cananga odorata*, sweet, creamy, tropical, almost banana-like. This entry.
-- **茉莉 (jasmine)** — *Jasminum*, fresh, green, intensely floral. See [jasmine](/ingredients/jasmine/).
-- **橙花 (neroli)** — *Citrus aurantium* flower, bright, citrusy, clean. See [neroli](/ingredients/neroli/).
-- **晚香玉 (tuberose)** — *Polianthes tuberosa*, creamy, indolic, opulent. See [tuberose](/ingredients/tuberose/).
+- **ylang-ylang (依兰)** — *Cananga odorata*, sweet, creamy, tropical, almost banana-like. This entry.
+- **jasmine (茉莉)** — *Jasminum*, fresh, green, intensely floral. See [jasmine](/ingredients/jasmine/).
+- **neroli (橙花)** — *Citrus aurantium* flower, bright, citrusy, clean. See [neroli](/ingredients/neroli/).
+- **tuberose (晚香玉)** — *Polianthes tuberosa*, creamy, indolic, opulent. See [tuberose](/ingredients/tuberose/).
 
 All are sweet white-floral notes, but they differ sharply in weight and character: jasmine is green and fresh, neroli bright and citrus, tuberose creamy and heady, ylang-ylang sweet and tropical. A buyer specifying a "white floral" must name the species, because the four are not interchangeable.
 
@@ -87,9 +87,9 @@ All are sweet white-floral notes, but they differ sharply in weight and characte
 
 ## Traditional use vs modern evidence
 
-> **Direct answer:** There is no classical Chinese incense record for 依兰 (ylang-ylang); its position is entirely modern. We make no medical claims. The documented facts are botanical identity, the Annonaceae placement, and its modern perfumery role.
+> **Direct answer:** There is no classical Chinese incense record for ylang-ylang (依兰); its position is entirely modern. We make no medical claims. The documented facts are botanical identity, the Annonaceae placement, and its modern perfumery role.
 
-There is **no classical Chinese incense record** for 依兰 (ylang-ylang); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Annonaceae placement, and its modern perfumery role.
+There is **no classical Chinese incense record** for ylang-ylang (依兰); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Annonaceae placement, and its modern perfumery role.
 
 ## Why is ylang-ylang used in perfumery?
 
@@ -167,15 +167,15 @@ Ylang-ylang (依兰) is the flower of *Cananga odorata*, a tropical tree of the 
 
 ## FAQ
 
-**What is 依兰 (ylang-ylang)?** The flower of *Cananga odorata*, a tropical tree of the custard-apple family (Annonaceae) native to Southeast Asia and the western Pacific. Its flowers yield a rich, sweet, creamy, slightly fruity essential oil, a classic of tropical perfumery.
+**What is ylang-ylang (依兰)?** The flower of *Cananga odorata*, a tropical tree of the custard-apple family (Annonaceae) native to Southeast Asia and the western Pacific. Its flowers yield a rich, sweet, creamy, slightly fruity essential oil, a classic of tropical perfumery.
 
-**Is 依兰 a classical Chinese incense ingredient?** No. Ylang-ylang is a tropical Southeast Asian species, not native to China, and it has no place in the classical 香材 canon. Its Chinese name 依兰 is modern and phonetic, and its oil is a modern tropical-perfumery material.
+**Is ylang-ylang (依兰) a classical Chinese incense ingredient?** No. Ylang-ylang is a tropical Southeast Asian species, not native to China, and it has no place in the classical 香材 canon. Its Chinese name 依兰 is modern and phonetic, and its oil is a modern tropical-perfumery material.
 
 **What does ylang-ylang smell like?** Rich, heady, and sweet-floral, with a creamy, slightly fruity, almost banana-like warmth — the lush, tropical bloom note of classic perfumery. It is fuller and more exotic than jasmine or neroli.
 
 **Is ylang-ylang the same as jasmine?** No. Ylang-ylang is *Cananga odorata* (Annonaceae); jasmine is *Jasminum* (Oleaceae). Both are sweet white-floral notes, but ylang-ylang is creamier and more tropical, while jasmine is fresher and greener.
 
-**What does the name 依兰 mean?** Nothing in Chinese — it is a phonetic transcription of the flower's Southeast Asian name, borrowed by sound alone. This contrasts with descriptive names like 薰衣草 ("clothes-scenting herb") and prefixed names like 洋甘菊 ("foreign chrysanthemum"): the phonetic name is the strongest marker that the plant is foreign with no Chinese roots.
+**What does the name ylang-ylang (依兰) mean?** Nothing in Chinese — it is a phonetic transcription of the flower's Southeast Asian name, borrowed by sound alone. This contrasts with descriptive names like 薰衣草 ("clothes-scenting herb") and prefixed names like 洋甘菊 ("foreign chrysanthemum"): the phonetic name is the strongest marker that the plant is foreign with no Chinese roots.
 
 **How is ylang-ylang used in incense?** As a rich floral note from ylang-ylang essential oil, usually in modern blends — a modern perfumery addition, not a classical 香材. It lends a heady, sweet, tropical character.
 
@@ -210,4 +210,4 @@ See also: [jasmine (茉莉)](/ingredients/jasmine/), [neroli (橙花)](/ingredie
 
 - [Cananga odorata on GBIF](https://www.gbif.org/species/5407583)
 
-*Sources: botanical references on *Cananga odorata*. 依兰 (ylang-ylang) is a modern tropical fragrance flower with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Cananga odorata*. ylang-ylang (依兰) is a modern tropical fragrance flower with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
