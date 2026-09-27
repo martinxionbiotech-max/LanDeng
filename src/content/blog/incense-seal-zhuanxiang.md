@@ -18,7 +18,7 @@ author: "Landeng Tech Team"
 
 ---
 
-## What a 香篆 Is
+## What a seal incense (香篆) Is
 
 A 香篆 is a **powder incense** laid in a continuous line using a metal mold (香篆模 / 香印) — often shaped into an auspicious character, a spiral, or a seal-script design. When lit at one end, the flame travels along the powder line, burning the whole pattern in sequence.
 
@@ -79,7 +79,7 @@ See [Which Incense Format Is Right for You? Sticks, Cones, Coils, Powder & Beads
 
 ## FAQ
 
-### Q: What is 香篆?
+### Q: What is seal incense (香篆)?
 香篆 (xiāng zhuàn), also called 打香印 ("stamping incense"), is powder incense pressed into a carved pattern using a metal mold (香篆模 or 香印). The mold's channels are filled with powder over a level ash bed, the mold is lifted cleanly, and one end of the resulting line is lit so the flame travels along the pattern and burns it in sequence. Traditionally the patterns take the form of auspicious characters, spirals, or seal-script designs. The practice serves two purposes at once: the visual beauty of the burning pattern, and timekeeping, since a known pattern length corresponds to a known burn duration.
 
 ### Q: Why is it called an incense "clock"?
