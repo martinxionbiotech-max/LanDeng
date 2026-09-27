@@ -44,14 +44,14 @@ Wintersweet is sweet and honeyed, with a waxy, almost creamy floral character th
 
 The name 蜡梅 ("wax plum") refers to the flower's waxy, almost artificial-looking petals, while the variant 腊梅 ties the plant to 腊月, the twelfth lunar month of deep winter when it blooms. Both spellings record the same plant. The "梅" in the name is a *descriptive convenience*, not a botanical claim: 蜡梅 (*Chimonanthus praecox*) sits in the wintersweet family (Calycanthaceae), while the true plum blossom 梅花 (*Prunus mume*) sits in the rose family (Rosaceae).
 
-## 蜡梅 vs 梅花: unrelated plants (read this)
+## wintersweet (蜡梅) vs plum blossom (梅花): unrelated plants (read this)
 
-> **Direct answer:** 蜡梅 (wintersweet) and 梅花 (plum blossom) are unrelated plants that share a winter-blooming season and a "梅" in their names. 蜡梅 is *Chimonanthus praecox* (Calycanthaceae), with a honeyed, waxy scent; 梅花 is *Prunus mume* (Rosaceae), with a delicate, almondy scent. Different families, different characters.
+> **Direct answer:** wintersweet (蜡梅) and plum blossom (梅花) are unrelated plants that share a winter-blooming season and a "梅" in their names. 蜡梅 is *Chimonanthus praecox* (Calycanthaceae), with a honeyed, waxy scent; 梅花 is *Prunus mume* (Rosaceae), with a delicate, almondy scent. Different families, different characters.
 
 This is the key disambiguation for the material:
 
-- **蜡梅 (wintersweet)** — *Chimonanthus praecox*, wintersweet family (Calycanthaceae). A honeyed, waxy winter floral. This entry.
-- **梅花 (plum blossom)** — *Prunus mume*, rose family (Rosaceae). A delicate, almondy, early-spring floral. See [plum-blossom](/ingredients/plum-blossom/).
+- **wintersweet (蜡梅)** — *Chimonanthus praecox*, wintersweet family (Calycanthaceae). A honeyed, waxy winter floral. This entry.
+- **plum blossom (梅花)** — *Prunus mume*, rose family (Rosaceae). A delicate, almondy, early-spring floral. See [plum-blossom](/ingredients/plum-blossom/).
 
 They share a cold-season bloom and the "梅" character, but they are unrelated plants with different scent characters — and each has its own entry in this encyclopedia. The confusion is reinforced by the fact that both are celebrated winter/early-spring garden flowers, but a buyer or reader should not let the shared character blur their separate botanical identities.
 
@@ -143,9 +143,9 @@ Wintersweet (蜡梅) is the flower of *Chimonanthus praecox*, a wintersweet-fami
 
 ## FAQ
 
-**What is 蜡梅 (wintersweet)?** The flower of *Chimonanthus praecox*, a winter-flowering shrub of the wintersweet family (Calycanthaceae) native to central China. It is a sweet, honeyed, waxy floral that blooms in deep winter and is prized in Chinese gardens. Despite its name, it is not a plum — it belongs to a different family from the true plum blossom.
+**What is wintersweet (蜡梅)?** The flower of *Chimonanthus praecox*, a winter-flowering shrub of the wintersweet family (Calycanthaceae) native to central China. It is a sweet, honeyed, waxy floral that blooms in deep winter and is prized in Chinese gardens. Despite its name, it is not a plum — it belongs to a different family from the true plum blossom.
 
-**Is 蜡梅 the same as 梅花 (plum blossom)?** No. 蜡梅 (wintersweet) is *Chimonanthus praecox* in the wintersweet family (Calycanthaceae), while 梅花 (plum blossom) is *Prunus mume* in the rose family (Rosaceae). They share a winter-blooming season and a "梅" in their names, but they are unrelated plants with different scent characters, and each has its own entry in this encyclopedia.
+**Is wintersweet (蜡梅) the same as plum blossom (梅花)?** No. wintersweet (蜡梅) is *Chimonanthus praecox* in the wintersweet family (Calycanthaceae), while plum blossom (梅花) is *Prunus mume* in the rose family (Rosaceae). They share a winter-blooming season and a "梅" in their names, but they are unrelated plants with different scent characters, and each has its own entry in this encyclopedia.
 
 **What does wintersweet smell like?** Sweet and honeyed, with a waxy, almost creamy floral character that carries unusually well in cold air — a trait that makes its deep-winter bloom memorable. It is warmer and rounder than the delicate, almondy plum blossom, closer to a honeyed floral than a green one. In a blend it reads as a soft winter floral.
 
