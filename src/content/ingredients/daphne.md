@@ -38,7 +38,7 @@ related: ["wintersweet", "plum-blossom"]
 
 *Daphne odora* is an evergreen shrub of the mezereum family (Thymelaeaceae), native to China and long cultivated for its fragrant winter flowers. The genus *Daphne* is named for the mythological nymph, and several species bear fragrant flowers, but *Daphne odora* is the classical Chinese 瑞香. The part valued is the flower, which blooms in late winter when few other fragrant plants are in flower. Note that the bark and other parts of *Daphne* contain irritant compounds and are not used for fragrance — a safety boundary that matters as much as the aroma.
 
-## Where does 瑞香 come from?
+## Where does daphne (瑞香) come from?
 
 > **Direct answer:** *Daphne odora* is native to China, where it has long been cultivated as a fragrant winter-flowering shrub. It is a garden and cultivated plant, not a scarce wild harvest, and its value lies in its sweet, spicy winter bloom rather than in any rarity or regulatory status.
 
@@ -60,7 +60,7 @@ The plant is a Chinese native, long grown as a garden shrub for its winter flowe
 - **Historical Record** — the Ming *Xiangcheng* (香乘) lists 瑞香 among the fragrant southern blossoms and includes it in the flower-steaming (花熏香) technique, a documented classical method; this is a documented record.
 - **Scientific Evidence** — botanical identity (Thymelaeaceae, *Daphne odora*) is established, including the fact that parts other than the flower contain irritant compounds; no medical claims are made.
 
-## How is 瑞香 used in flower-scenting?
+## How is daphne (瑞香) used in flower-scenting?
 
 > **Direct answer:** 瑞香's classical incense role is flower-scenting (花熏香), not burning: the *Xiangcheng* includes it among flowers that can be steamed — along with plum blossom, jasmine, and osmanthus — to transfer their scent onto incense material. This is a steam-transfer technique, distinct from burning the flower itself.
 
@@ -95,11 +95,11 @@ In our view, 瑞香 is best understood as a **winter garden flower whose classic
 
 ## FAQ
 
-**What is 瑞香 (daphne)?** The flower of *Daphne odora*, an evergreen shrub of the mezereum family (Thymelaeaceae) native to China, prized as a classical winter-blooming flower with a sweet, spicy, heady scent. Its name means "auspicious fragrance," and it is a defining scent of the late-winter garden in Chinese culture.
+**What is daphne (瑞香)?** The flower of *Daphne odora*, an evergreen shrub of the mezereum family (Thymelaeaceae) native to China, prized as a classical winter-blooming flower with a sweet, spicy, heady scent. Its name means "auspicious fragrance," and it is a defining scent of the late-winter garden in Chinese culture.
 
-**What does 瑞香 smell like?** Sweet and heady-floral with a spicy, green edge — a rich winter fragrance stronger than its small clustered flowers suggest. It sits between a sweet white-floral and a warm spice note, and its scent carries well in cool air, which is why it is valued as a winter garden and cut flower.
+**What does daphne (瑞香) smell like?** Sweet and heady-floral with a spicy, green edge — a rich winter fragrance stronger than its small clustered flowers suggest. It sits between a sweet white-floral and a warm spice note, and its scent carries well in cool air, which is why it is valued as a winter garden and cut flower.
 
-**Is 瑞香 burned as incense?** Not as a primary material. 瑞香 appears in the classical record as a flower-scenting reference — the Ming-dynasty *Xiangcheng* (香乘) includes it in the flower-steaming (花熏香) technique — rather than as a material burned in its own right. Its role is garden and cut-flower fragrance.
+**Is daphne (瑞香) burned as incense?** Not as a primary material. 瑞香 appears in the classical record as a flower-scenting reference — the Ming-dynasty *Xiangcheng* (香乘) includes it in the flower-steaming (花熏香) technique — rather than as a material burned in its own right. Its role is garden and cut-flower fragrance.
 
 **Why is it called "auspicious fragrance"?** The name 瑞香 means "auspicious fragrance" (瑞 = auspicious, 香 = fragrance), reflecting its value as a pleasant winter flower whose rich scent and early bloom were culturally welcomed. The 香乘 lists it among the fragrant blossoms of the south (瑞香称胜士).
 
