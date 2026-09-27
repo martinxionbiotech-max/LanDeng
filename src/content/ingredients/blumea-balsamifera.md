@@ -32,15 +32,15 @@ related: ["borneol", "borneol-oil", "camphor"]
 
 艾纳香 is camphoraceous and herbal, with a cooling, slightly sweet undertone — the scent of a strongly aromatic leaf rather than a flower or resin. The material of value is the leaf-borne volatile oil, from which l-borneol is isolated as a crystalline "cooling" aromatic. In a blend it reads as a bright, penetrating, medicinal-herbal note close to camphor, used to sharpen and "open" heavier compositions. This is a *functional* aromatic character — borneol's cooling, clarifying edge — rather than a sweet or decorative one, which is exactly why the classical record frames it as a blender and harmonizer rather than a lead scent.
 
-## The 龙脑 / borneol relationship (read this)
+## The borneol (龙脑) / borneol relationship (read this)
 
-> **Direct answer:** 艾纳香 is a specific plant source within the borneol family, not the compound itself. Borneol (龙脑) is the aromatic compound; 艾片 (l-borneol) is the leaf-distilled form from *Blumea balsamifera* (this plant), distinct from tree-resin d-borneol (*Dryobalanops aromatica*) and from synthetic borneol. The three differ in isomer, purity, and price.
+> **Direct answer:** 艾纳香 is a specific plant source within the borneol family, not the compound itself. Borneol (龙脑) is the aromatic compound; l-borneol (艾片) is the leaf-distilled form from *Blumea balsamifera* (this plant), distinct from tree-resin d-borneol (*Dryobalanops aromatica*) and from synthetic borneol. The three differ in isomer, purity, and price.
 
 艾纳香 belongs to the broader borneol family, but is a distinct plant source:
 
-- **龙脑 (borneol)** — the compound borneol, classically crystallized from *Dryobalanops aromatica* resin (d-borneol) or distilled from camphor-tree leaves, plus synthetic forms. Its own entry.
-- **龙脑油 (borneol oil)** — the aromatic oil associated with the Borneo camphor tree and camphor tree. Its own entry.
-- **艾片 (l-borneol)** — l-borneol distilled from the leaves of *Blumea balsamifera* (this plant).
+- **borneol (龙脑)** — the compound borneol, classically crystallized from *Dryobalanops aromatica* resin (d-borneol) or distilled from camphor-tree leaves, plus synthetic forms. Its own entry.
+- **borneol oil (龙脑油)** — the aromatic oil associated with the Borneo camphor tree and camphor tree. Its own entry.
+- **l-borneol (艾片)** — l-borneol distilled from the leaves of *Blumea balsamifera* (this plant).
 
 The *Bencao Gangmu* (本草纲目), in its herb section (草之三), records 艾纳香, citing the *Guangzhi* (广志): "艾纳出西国，似细艾" — 艾纳 comes from the western regions and resembles fine mugwort — and adding that it "可以和合诸香，烧之能聚其烟" (can blend the many aromatics; burned, it gathers and holds the smoke). **This page describes 艾纳香 = the leaf herb and its l-borneol**, not the tree-resin borneol.
 
@@ -50,7 +50,7 @@ The *Bencao Gangmu* (本草纲目), in its herb section (草之三), records 艾
 
 *Blumea balsamifera* is a coarse, aromatic shrub of the daisy family (Asteraceae), native to tropical and subtropical South and Southeast Asia and long naturalized across southern China. Its leaves are the material of value, yielding a camphoraceous volatile oil rich in borneol and related compounds. Flora of China records the species; the leaf is the source of the l-borneol crystal called 艾片. The plant is also widely known across tropical Asia as sambong or Ngai camphor, a regional medicinal and aromatic leaf with a long folk record outside the Chinese incense canon.
 
-## Where does 艾纳香 come from?
+## Where does Blumea Balsamifera (艾纳香) come from?
 
 > **Direct answer:** *Blumea balsamifera* is native to tropical and subtropical South and Southeast Asia and has naturalized across southern China. It grows as a common aromatic shrub rather than a scarce wild harvest, which is why its leaf-distilled borneol (艾片) has long been the more accessible of the natural borneol forms.
 
@@ -58,7 +58,7 @@ The plant ranges across tropical and subtropical Asia — South and Southeast As
 
 ## In Chinese tradition
 
-> **Direct answer:** 艾纳香 appears in the classical record as a blending leaf aromatic — the *Bencao Gangmu* records its use 和合诸香 (to blend the many aromatics) and to gather smoke — and as the source of 艾片 (l-borneol), one of the three classical borneol forms. Its materia-medica use is traditional, not modern clinical evidence.
+> **Direct answer:** 艾纳香 appears in the classical record as a blending leaf aromatic — the *Bencao Gangmu* records its use 和合诸香 (to blend the many aromatics) and to gather smoke — and as the source of l-borneol (艾片), one of the three classical borneol forms. Its materia-medica use is traditional, not modern clinical evidence.
 
 - **和合诸香 (blending the aromatics):** the *Bencao Gangmu* (本草纲目) records 艾纳香 for blending — a leaf aromatic used to bind and harmonize a fragrance and to gather its smoke.
 - **艾片 (ài piàn):** l-borneol, the leaf-distilled crystal from *Blumea balsamifera*, is one of the three classical borneol sources alongside tree-resin and synthetic borneol.
@@ -109,15 +109,15 @@ In our view, the commercial sweet spot is a **well-crystallized, source-identifi
 
 **What is 艾纳香 (blumea balsamifera)?** The sambong or Ngai camphor plant, *Blumea balsamifera*, an aromatic shrub of the daisy family (Asteraceae) native to South and Southeast Asia. Its leaves yield a camphoraceous volatile oil from which l-borneol — called 艾片 (*ài piàn*) — is isolated, making it one of the plant sources of borneol in the classical 龙脑/冰片 family.
 
-**What is the difference between 艾纳香 and 龙脑 (borneol)?** 艾纳香 is a specific leaf herb, *Blumea balsamifera*, while 龙脑 (borneol) is the aromatic compound it partly supplies. Classical borneol was crystallized from the resin of *Dryobalanops aromatica* or distilled from camphor-tree leaves; 艾纳香 contributes the leaf-distilled l-borneol called 艾片. The plant is the source, the compound is the product, and the three borneol forms differ in isomer, purity, and price.
+**What is the difference between Blumea Balsamifera (艾纳香) and borneol (龙脑)?** 艾纳香 is a specific leaf herb, *Blumea balsamifera*, while borneol (龙脑) is the aromatic compound it partly supplies. Classical borneol was crystallized from the resin of *Dryobalanops aromatica* or distilled from camphor-tree leaves; 艾纳香 contributes the leaf-distilled l-borneol called 艾片. The plant is the source, the compound is the product, and the three borneol forms differ in isomer, purity, and price.
 
-**What does 艾纳香 smell like?** Camphoraceous and herbal, with a cooling, slightly sweet undertone — the scent of a strongly aromatic leaf rather than a flower or resin. The borneol-rich oil reads as a bright, penetrating, medicinal-herbal note close to camphor, used to sharpen and "open" heavier blends and, per the classical record, to gather and hold the smoke.
+**What does Blumea Balsamifera (艾纳香) smell like?** Camphoraceous and herbal, with a cooling, slightly sweet undertone — the scent of a strongly aromatic leaf rather than a flower or resin. The borneol-rich oil reads as a bright, penetrating, medicinal-herbal note close to camphor, used to sharpen and "open" heavier blends and, per the classical record, to gather and hold the smoke.
 
-**Does 艾纳香 appear in classical Chinese records?** Yes. The *Bencao Gangmu* (本草纲目), herb section (草之三), records 艾纳香 and cites the *Guangzhi* (广志): "艾纳出西国，似细艾" (艾纳 comes from the western regions, resembling fine mugwort), adding that it "可以和合诸香，烧之能聚其烟" — can blend the many aromatics, and burned, gathers the smoke.
+**Does Blumea Balsamifera (艾纳香) appear in classical Chinese records?** Yes. The *Bencao Gangmu* (本草纲目), herb section (草之三), records 艾纳香 and cites the *Guangzhi* (广志): "艾纳出西国，似细艾" (艾纳 comes from the western regions, resembling fine mugwort), adding that it "可以和合诸香，烧之能聚其烟" — can blend the many aromatics, and burned, gathers the smoke.
 
-**Is 艾片 the same as 冰片?** Not exactly. 艾片 (ài piàn) is l-borneol distilled from the leaves of *Blumea balsamifera*, one of three borneol forms. 冰片 (bīngpiàn) more often names the refined crystal generally, covering natural tree-resin d-borneol, leaf-distilled l-borneol, and synthetic borneol. The name alone does not specify the source, so buyers should check which form they are getting.
+**Is 艾片 the same as borneol crystal (冰片)?** Not exactly. 艾片 (ài piàn) is l-borneol distilled from the leaves of *Blumea balsamifera*, one of three borneol forms. 冰片 (bīngpiàn) more often names the refined crystal generally, covering natural tree-resin d-borneol, leaf-distilled l-borneol, and synthetic borneol. The name alone does not specify the source, so buyers should check which form they are getting.
 
-**How is 艾片 (l-borneol) made?** By distilling the aromatic leaves of *Blumea balsamifera* to obtain a borneol-rich volatile oil, from which the l-borneol is crystallized. The result is a refined crystalline material — distinct from the crude leaf and from tree-resin or synthetic borneol — and it is the crystal, not the raw leaf, that is the classical incense material.
+**How is l-borneol (艾片) made?** By distilling the aromatic leaves of *Blumea balsamifera* to obtain a borneol-rich volatile oil, from which the l-borneol is crystallized. The result is a refined crystalline material — distinct from the crude leaf and from tree-resin or synthetic borneol — and it is the crystal, not the raw leaf, that is the classical incense material.
 
 See also: [borneol](/ingredients/borneol/), [borneol oil](/ingredients/borneol-oil/), [camphor](/ingredients/camphor/), and the full [scent guide](/blog/scent-guide/).
 
