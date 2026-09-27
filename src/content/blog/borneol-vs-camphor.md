@@ -73,7 +73,7 @@ Because the two are chemically related, **aged borneol can drift toward camphor*
 This is the procurement heart of the comparison:
 
 - **Camphor source** — natural camphor is steam-distilled from *Cinnamomum camphora* wood; synthetic camphor is cheaper and chemically similar, and labels do not always distinguish them. Within camphor, the wood (樟木) and the crystal (樟脑) are **two different purchase decisions**.
-- **Borneol source** — natural d-borneol (single enantiomer), l-borneol / 艾片 (single enantiomer), or synthetic (typically an isomer mixture). Isomer composition changes the material's behavior, so swapping natural for synthetic — or d- for l- — is not a like-for-like substitution.
+- **Borneol source** — natural d-borneol (single enantiomer), l-borneol / single enantiomer (艾片), or synthetic (typically an isomer mixture). Isomer composition changes the material's behavior, so swapping natural for synthetic — or d- for l- — is not a like-for-like substitution.
 
 For both, the buyer's real question is **source and purity**, not the name. See the [wholesale guide](/blog/wholesale-guide/) for the sourcing framework and the [substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general pattern.
 
@@ -90,7 +90,7 @@ Both, like all incense, produce smoke and particulate matter when burned — bur
 
 ## Traditional Use and Context
 
-> **Direct answer:** Borneol is the classic cool, sharp top note of Chinese 合香 (blended incense) and appears in materia medica as 冰片. Camphor is a fresh, cooling top note used sparingly, with a durable non-incense role as an insect repellent. Both are accents, not bases.
+> **Direct answer:** Borneol is the classic cool, sharp top note of Chinese blended incense (合香) and appears in materia medica as 冰片. Camphor is a fresh, cooling top note used sparingly, with a durable non-incense role as an insect repellent. Both are accents, not bases.
 
 - **Borneol** — a classic 使 (messenger/opening) note in 合香, used to brighten and "open" heavier blends; 冰片 appears in traditional Chinese medicine described for a cooling sensation and as a "carrier." These are traditional or preliminary descriptions, not established clinical fact.
 - **Camphor** — a fresh, cooling top note in incense; classical manuals treat intense camphoraceous materials as accents, not bases. Its most durable use is insect repellent — camphor wood and crystals have long been placed with clothing and books.
@@ -155,7 +155,7 @@ Most "borneol vs camphor" content either treats them as synonyms or drifts into 
 ### Q: Is borneol the same as camphor?
 No. Borneol (龙脑) and camphor (樟脑) are related but distinct monoterpenes from different plants. Borneol is cooling and minty-woody; camphor is sharper and more pungent. They are chemically related — borneol can slowly oxidize toward camphor, which is why aged borneol smells more camphoraceous — but they are not the same compound, and "borneol" on a label can also hide synthetic material or an isomer mixture. See [borneol](/ingredients/borneol/) and [camphor](/ingredients/camphor/).
 
-### Q: What is the difference between 樟木 and 樟脑?
+### Q: What is the difference between camphor wood (樟木) and camphor (樟脑)?
 They are the same tree, different materials. 樟木 is the aromatic camphor wood itself, used in incense, carving, and furniture. 樟脑 is the white crystalline camphor distilled from that wood — the concentrated, purified, far more intense form. A buyer should know which one they want, because they are different commercial objects with different uses and potencies.
 
 ### Q: Why do borneol and camphor both smell "camphoraceous"?
