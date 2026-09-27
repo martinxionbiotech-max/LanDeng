@@ -44,9 +44,9 @@ Bay leaf is herbal and camphoraceous, with a fresh, slightly sweet and eucalyptu
 
 The Chinese name 月桂叶 ("bay laurel leaf") is precise, but the 桂 character it shares with other aromatics is a standing source of confusion:
 
-- **月桂叶 (bay leaf)** — *Laurus nobilis* (Lauraceae), the Mediterranean bay laurel. This entry.
-- **月桂 / 桂花 (osmanthus)** — *Osmanthus fragrans* (Oleaceae), the sweet osmanthus. See [osmanthus](/ingredients/osmanthus/).
-- **桂皮 (cinnamon)** — *Cinnamomum cassia* (Lauraceae), a bark. See [cinnamon](/ingredients/cinnamon/).
+- **bay leaf (月桂叶)** — *Laurus nobilis* (Lauraceae), the Mediterranean bay laurel. This entry.
+- **月桂 / osmanthus (桂花)** — *Osmanthus fragrans* (Oleaceae), the sweet osmanthus. See [osmanthus](/ingredients/osmanthus/).
+- **cinnamon (桂皮)** — *Cinnamomum cassia* (Lauraceae), a bark. See [cinnamon](/ingredients/cinnamon/).
 
 The shared 桂 is a Chinese-character coincidence, not a botanical relationship — bay leaf and osmanthus are in different families entirely.
 
@@ -56,9 +56,9 @@ The shared 桂 is a Chinese-character coincidence, not a botanical relationship 
 
 The Chinese name 月桂 is shared across unrelated plants, which is a real source of confusion:
 
-- **月桂叶 (bay leaf)** — *Laurus nobilis* (Lauraceae), the Mediterranean bay laurel. This entry.
-- **月桂 / 桂花 (osmanthus)** — *Osmanthus fragrans* (Oleaceae), the sweet osmanthus, which classical Chinese texts sometimes call 月桂 (and whose fruit, 月桂子, appears in 香乘). Its own entry.
-- **桂皮 (cinnamon)** — *Cinnamomum cassia* (Lauraceae), a different laurel-family bark. Its own entry.
+- **bay leaf (月桂叶)** — *Laurus nobilis* (Lauraceae), the Mediterranean bay laurel. This entry.
+- **月桂 / osmanthus (桂花)** — *Osmanthus fragrans* (Oleaceae), the sweet osmanthus, which classical Chinese texts sometimes call 月桂 (and whose fruit, 月桂子, appears in 香乘). Its own entry.
+- **cinnamon (桂皮)** — *Cinnamomum cassia* (Lauraceae), a different laurel-family bark. Its own entry.
 
 **This page describes 月桂叶 = *Laurus nobilis* = bay leaf.** When a classical source says 月桂 or 月桂子, it is usually describing osmanthus, not the bay laurel. This is a reading discipline, not a botanical subtlety: an English-speaking reader who sees "月桂" and reaches for the bay leaf will misread the classical record.
 
@@ -144,7 +144,7 @@ For an incense maker or sourcing buyer:
 From a manufacturing perspective, bay leaf is a minor but instructive material. Its aromatic value — a dry, camphoraceous, eucalyptus-like lift — is modest and easily sourced, which makes it a cheap accent rather than a pillar. Two points follow:
 
 - **Provenance is part of the specification.** Bay leaf is a Western herb imported into Chinese incense, not a classical material; treating it as a 香道 heritage ingredient would misstate its history. For content and labeling, the honest framing is "modern crossover," which is also what a buyer should understand before paying any premium for a "月桂" label.
-- **The 桂 character is a trap, not a clue.** 月桂叶 (bay), 桂花 (osmanthus), and 桂皮 (cinnamon) are unrelated aromatics sharing one character. In sourcing, the only reliable identifier is the Latin species name — *Laurus nobilis* — because the Chinese characters will not keep the three apart.
+- **The 桂 character is a trap, not a clue.** bay (月桂叶), osmanthus (桂花), and cinnamon (桂皮) are unrelated aromatics sharing one character. In sourcing, the only reliable identifier is the Latin species name — *Laurus nobilis* — because the Chinese characters will not keep the three apart.
 
 In our view, bay leaf is a clean, low-cost herbal accent worth having for its fresh lift — but buy it by species name, and do not let the shared 桂 character blur the difference between a Mediterranean leaf, a sweet Chinese flower, and a warm bark.
 
@@ -154,9 +154,9 @@ Bay leaf (月桂叶) is the leaf of *Laurus nobilis*, a Mediterranean laurel-fam
 
 ## FAQ
 
-**What is 月桂叶 (bay leaf)?** The leaf of *Laurus nobilis*, the bay laurel or sweet bay, an evergreen tree of the laurel family (Lauraceae) native to the Mediterranean. It is a herbal, camphoraceous, slightly sweet culinary and fragrance herb — the "bay leaf" of Western kitchens — used in Chinese incense as a herbal accent and as a modern crossover.
+**What is bay leaf (月桂叶)?** The leaf of *Laurus nobilis*, the bay laurel or sweet bay, an evergreen tree of the laurel family (Lauraceae) native to the Mediterranean. It is a herbal, camphoraceous, slightly sweet culinary and fragrance herb — the "bay leaf" of Western kitchens — used in Chinese incense as a herbal accent and as a modern crossover.
 
-**Is 月桂叶 the same as osmanthus (桂花)?** No. 月桂叶 is the leaf of *Laurus nobilis* (Lauraceae), the Mediterranean bay laurel. But in classical Chinese, 月桂 usually refers to the osmanthus (*Osmanthus fragrans*, Oleaceae) — whose fruit, 月桂子, appears in 香乘. The shared 月桂 name connects unrelated plants, and each has its own entry here.
+**Is bay leaf (月桂叶) the same as osmanthus (桂花)?** No. 月桂叶 is the leaf of *Laurus nobilis* (Lauraceae), the Mediterranean bay laurel. But in classical Chinese, 月桂 usually refers to the osmanthus (*Osmanthus fragrans*, Oleaceae) — whose fruit, 月桂子, appears in 香乘. The shared 月桂 name connects unrelated plants, and each has its own entry here.
 
 **What does bay leaf smell like?** Herbal and camphoraceous, with a fresh, slightly sweet, eucalyptus-like character that intensifies when the leaf is bruised or gently heated. It is more aromatic and green than a true spice, sitting between mint and clove in register. In a blend it reads as a dry herbal accent, adding a clean aromatic lift.
 
@@ -174,7 +174,7 @@ See also: [cinnamon](/ingredients/cinnamon/), [rosemary](/ingredients/rosemary/)
 **Source:** [Laurus nobilis on GBIF](https://www.gbif.org/species/3034015). **Evidence type:** Established.
 
 ### Traditional Chinese use
-**Source:** 月桂叶 (bay leaf) — not a 香乘 ingredient; the 月桂 name in classical Chinese usually denotes osmanthus, not bay laurel. **Evidence type:** Historically documented (Western culinary); name disambiguation recorded honestly.
+**Source:** bay leaf (月桂叶) — not a 香乘 ingredient; the 月桂 name in classical Chinese usually denotes osmanthus, not bay laurel. **Evidence type:** Historically documented (Western culinary); name disambiguation recorded honestly.
 
 ### Authenticity / disambiguation
 **Source:** 月桂叶 (*Laurus nobilis*) vs 月桂/桂花 (*Osmanthus fragrans*) vs 桂皮 (*Cinnamomum cassia*). **Evidence type:** Practical screening.
