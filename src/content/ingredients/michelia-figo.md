@@ -32,15 +32,15 @@ related: ["champaca", "yulan-magnolia"]
 
 含笑花 is sweet and fruity-floral with a distinctive banana-like undertone — a warm, confectionary scent quite unlike the heady white-floral of champaca. It is a smaller, more delicate flower, and its fragrance reads as *sweet and fruity* rather than rich and enveloping. In Chinese fragrance culture it is one of the aromatic blossoms of the south, valued for the garden and as a cut flower rather than as a burned incense material. The banana note is the diagnostic: it is what separates 含笑花 at once from the magnolia-floral champaca and from the cleaner white yulan.
 
-## The 含笑花 / 白兰花 distinction (read this)
+## The banana shrub (含笑花) / champaca (白兰花) distinction (read this)
 
 > **Direct answer:** 含笑花 and 白兰花 are closely related magnolia-family flowers that share the 兰 character and are sometimes confused. 含笑花 is *Michelia figo* — a small shrub with cream-yellow, banana-scented flowers — while 白兰花 is *Michelia alba* (champaca), a tree with larger, heady white flowers. 玉兰 (*Magnolia denudata*) is a third white magnolia.
 
 含笑花 and 白兰花 are closely related magnolia-family flowers that share the 兰 character and are sometimes confused:
 
-- **含笑花 (banana shrub)** — *Michelia figo* (syn. *Magnolia figo*), a small shrub with cream-yellow, banana-scented flowers. This entry.
-- **白兰花 (white champaca)** — *Michelia alba* (syn. *Magnolia × alba*), a tree with larger, heady white flowers. Its own entry.
-- **玉兰 (yulan magnolia)** — *Magnolia denudata*, another white magnolia. Its own entry.
+- **banana shrub (含笑花)** — *Michelia figo* (syn. *Magnolia figo*), a small shrub with cream-yellow, banana-scented flowers. This entry.
+- **white champaca (白兰花)** — *Michelia alba* (syn. *Magnolia × alba*), a tree with larger, heady white flowers. Its own entry.
+- **yulan magnolia (玉兰)** — *Magnolia denudata*, another white magnolia. Its own entry.
 
 **This page describes 含笑花 = *Michelia figo* = banana shrub.** When a source says 白兰花 or 玉兰, it is describing a different magnolia-family flower. The 兰 character is a fragrance honorific shared across these unrelated-to-orchid flowers, not a claim of orchid identity.
 
@@ -50,7 +50,7 @@ related: ["champaca", "yulan-magnolia"]
 
 *Michelia figo* is a small evergreen shrub of the magnolia family (Magnoliaceae), native to southern China and cultivated for its fragrant, cream-yellow flowers. Taxonomy has moved the species between *Michelia* and *Magnolia*; the currently accepted name is *Magnolia figo*, with *Michelia figo* widely used as a synonym. The flower is small, often edged with purple, and opens only partway — hence the name "smiling flower." This partway opening is the botanical root of the name: the blossom never fully unfurls, looking always half-smiling.
 
-## Where does 含笑花 come from?
+## Where does banana shrub (含笑花) come from?
 
 > **Direct answer:** 含笑花 is native to southern China, where it grows and is cultivated as a fragrant garden shrub. It is a regional southern aromatic — part of the same magnolia-family group as the champaca and yulan — rather than a scarce wild harvest or a modern imported flower.
 
@@ -107,15 +107,15 @@ In our view, 含笑花 is best understood as a **southern garden aromatic with a
 
 ## FAQ
 
-**What is 含笑花 (banana shrub)?** The flower of *Michelia figo* (now often *Magnolia figo*), a magnolia-family (Magnoliaceae) shrub native to southern China, prized for a sweet, fruity, banana-like fragrance. Its Chinese name means "the smiling flower," from the way the small blossoms open partway like a half-smile.
+**What is banana shrub (含笑花)?** The flower of *Michelia figo* (now often *Magnolia figo*), a magnolia-family (Magnoliaceae) shrub native to southern China, prized for a sweet, fruity, banana-like fragrance. Its Chinese name means "the smiling flower," from the way the small blossoms open partway like a half-smile.
 
-**Is 含笑花 the same as 白兰花 (champaca)?** No, though they are closely related. 含笑花 is *Michelia figo* — a small shrub with cream-yellow, banana-scented flowers — while 白兰花 is *Michelia alba* (champaca), a tree with larger, heady white flowers. Both are magnolia-family flowers, which is the source of the confusion, and each has its own entry here.
+**Is banana shrub (含笑花) the same as champaca (白兰花)?** No, though they are closely related. 含笑花 is *Michelia figo* — a small shrub with cream-yellow, banana-scented flowers — while 白兰花 is *Michelia alba* (champaca), a tree with larger, heady white flowers. Both are magnolia-family flowers, which is the source of the confusion, and each has its own entry here.
 
-**What does 含笑花 smell like?** Sweet and fruity-floral with a distinctive banana-like undertone — a warm, confectionary scent quite unlike the heady white-floral of champaca. It is a smaller, more delicate flower, and its fragrance reads as sweet and fruity rather than rich and enveloping.
+**What does banana shrub (含笑花) smell like?** Sweet and fruity-floral with a distinctive banana-like undertone — a warm, confectionary scent quite unlike the heady white-floral of champaca. It is a smaller, more delicate flower, and its fragrance reads as sweet and fruity rather than rich and enveloping.
 
-**How is 含笑花 used in Chinese culture?** As a garden and cut flower valued for its sweet, fruity scent, and as a classical flower-to-incense reference — the Ming-dynasty *Xiangcheng* (香乘) records that "含笑 is suited to musk" (含笑宜麝), pairing it with specific incenses rather than burning it as a material.
+**How is banana shrub (含笑花) used in Chinese culture?** As a garden and cut flower valued for its sweet, fruity scent, and as a classical flower-to-incense reference — the Ming-dynasty *Xiangcheng* (香乘) records that "含笑 is suited to musk" (含笑宜麝), pairing it with specific incenses rather than burning it as a material.
 
-**What is the botanical name for 含笑花?** *Michelia figo*, now often treated as *Magnolia figo* in the magnolia family (Magnoliaceae). Taxonomy has moved the species between *Michelia* and *Magnolia*, so both names appear. The flower — small, cream-yellow, partway-open — is the part used for fragrance.
+**What is the botanical name for banana shrub (含笑花)?** *Michelia figo*, now often treated as *Magnolia figo* in the magnolia family (Magnoliaceae). Taxonomy has moved the species between *Michelia* and *Magnolia*, so both names appear. The flower — small, cream-yellow, partway-open — is the part used for fragrance.
 
 **Why is it called the "smiling flower"?** Because the blossoms open only partway and never fully unfurl, giving them the look of a half-smile — the botanical root of the name 含笑 ("holding a smile"). The small, cream-yellow, often purple-edged flowers are the fragrant part.
 
