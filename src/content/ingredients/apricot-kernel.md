@@ -163,15 +163,15 @@ Apricot kernel (杏仁) is the kernel of the apricot, *Prunus armeniaca*, a Rosa
 
 ## FAQ
 
-**What is 杏仁 (apricot kernel)?** The kernel of the apricot, *Prunus armeniaca*, a stone fruit of the rose family (Rosaceae) long cultivated in China and Central Asia. It has a sweet, nutty, almondy scent with a bitter edge, and it is recorded as a food and materia-medica seed rather than a classical incense staple.
+**What is apricot kernel (杏仁)?** The kernel of the apricot, *Prunus armeniaca*, a stone fruit of the rose family (Rosaceae) long cultivated in China and Central Asia. It has a sweet, nutty, almondy scent with a bitter edge, and it is recorded as a food and materia-medica seed rather than a classical incense staple.
 
-**Does 杏仁 appear in the Bencao Gangmu?** Yes. The *Bencao Gangmu* (本草纲目), fruit section (果之一), records 杏 with the kernel 杏仁 and the classical alternative name 甜梅 ("sweet plum"), describing the fruit and kernel as food and medicine. Its classical role is food and materia medica, not a lead incense ingredient.
+**Does apricot kernel (杏仁) appear in the Bencao Gangmu?** Yes. The *Bencao Gangmu* (本草纲目), fruit section (果之一), records 杏 with the kernel 杏仁 and the classical alternative name 甜梅 ("sweet plum"), describing the fruit and kernel as food and medicine. Its classical role is food and materia medica, not a lead incense ingredient.
 
 **Why does apricot kernel smell of almond?** Because both are *Prunus* kernels sharing a common chemistry. The kernel's amygdalin, a cyanogenic glycoside, releases benzaldehyde when the kernel is crushed or moistened, and benzaldehyde is the compound behind the marzipan-like almond note. The bitter edge reflects the kernel's amygdalin content.
 
 **Are bitter apricot kernels safe?** They are a documented safety concern, not a casual food. Bitter kernels are higher in amygdalin than sweet ones, and amygdalin can release cyanide in the body. This is a safety fact about the kernel's chemistry, not a medical claim, and bitter kernels are not recommended for consumption.
 
-**Is 杏仁 a classical incense ingredient?** Not as a lead material. 杏仁 is a documented food and materia-medica seed with a genuine classical record (甜梅 in the *Bencao Gangmu*), but it is not a staple of the 香乘 incense canon. Its sweet-bitter marzipan note is used as a supporting nuance rather than a lead 香材.
+**Is apricot kernel (杏仁) a classical incense ingredient?** Not as a lead material. 杏仁 is a documented food and materia-medica seed with a genuine classical record (甜梅 in the *Bencao Gangmu*), but it is not a staple of the 香乘 incense canon. Its sweet-bitter marzipan note is used as a supporting nuance rather than a lead 香材.
 
 **What is the difference between sweet and bitter apricot kernels?** They are two forms of the same kernel distinguished by amygdalin content. Sweet kernels are the food-grade material with a milder marzipan note; bitter kernels are higher in amygdalin — the cyanide precursor — and are treated as a safety concern rather than a casual food. The distinction matters for both aroma and safety.
 
