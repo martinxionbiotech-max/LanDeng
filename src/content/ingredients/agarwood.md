@@ -31,7 +31,7 @@ related: ["sandalwood", "frankincense"]
 
 > **Direct answer:** Agarwood is woody and resinous at its base, with a sweetness that varies by origin and grade. Its defining trait is that it develops in stages as it warms — top note, body, dry-down — rather than presenting a single flat scent.
 
-Agarwood's scent is woody and resinous at its base, with a sweetness that varies by origin and grade. Unlike a simple floral or wood note, it **develops in stages** as it warms — a quality described in Chinese practice as 头香 (top note), 本香 (body), and 尾香 (dry-down). High-grade material is aromatic even unheated; ordinary material needs gentle heat to release its scent.
+Agarwood's scent is woody and resinous at its base, with a sweetness that varies by origin and grade. Unlike a simple floral or wood note, it **develops in stages** as it warms — a quality described in Chinese practice as top note (头香), body (本香), and dry-down (尾香). High-grade material is aromatic even unheated; ordinary material needs gentle heat to release its scent.
 
 ## Botanical identity
 
@@ -97,7 +97,7 @@ Beyond density, Chinese trade also distinguishes material by **origin** (Hainan 
 
 > **Direct answer:** Agarwood is used in incense for its layered, evolving aroma and its cultural status as the most prized of aromatic woods. It is typically warmed rather than burned, so its top note, body, and dry-down unfold in sequence instead of charring into a single note.
 
-Agarwood's role in incense is inseparable from its aroma behavior: because it develops in stages, it rewards **gentle, indirect heat** rather than open flame. The refined method is 隔火焚香 (géhuǒ fénxiāng) — resting the material above charcoal buried in ash, so it releases scent without a charred note. Agarwood also serves as the premium anchor in 合香 (blended incense), where a small amount lifts and deepens an entire formula. Its cultural weight is at least as important as its chemistry: agarwood (沉香) and sandalwood (檀香) are the two reference woods of Chinese incense, and agarwood is the more rare and reverenced of the pair. See the [agarwood incense guide](/blog/agarwood-incense/).
+Agarwood's role in incense is inseparable from its aroma behavior: because it develops in stages, it rewards **gentle, indirect heat** rather than open flame. The refined method is 隔火焚香 (géhuǒ fénxiāng) — resting the material above charcoal buried in ash, so it releases scent without a charred note. Agarwood also serves as the premium anchor in blended incense (合香), where a small amount lifts and deepens an entire formula. Its cultural weight is at least as important as its chemistry: agarwood (沉香) and sandalwood (檀香) are the two reference woods of Chinese incense, and agarwood is the more rare and reverenced of the pair. See the [agarwood incense guide](/blog/agarwood-incense/).
 
 ## How is agarwood processed?
 
@@ -237,7 +237,7 @@ Agarwood (沉香) is resin-impregnated *Aquilaria* heartwood formed by injury, g
 
 ## FAQ
 
-**What is the difference between agarwood and 奇楠?** 奇楠 (qínán) is the highest grade of agarwood, not a separate plant. The difference is structural: ordinary agarwood shows a "wood wraps oil" (木包油) pattern, where hard wood carries resin veins, while 奇楠 shows "oil wraps wood" (油包木) — the fiber is so thoroughly saturated with resin that it turns soft and pliable, aromatic even at room temperature. A good piece shaves into curls and kneads into pellets. 奇楠 is further divided into color grades, though the hierarchy among those is disputed and treated here as market terminology.
+**What is the difference between agarwood and qinan (奇楠)?** 奇楠 (qínán) is the highest grade of agarwood, not a separate plant. The difference is structural: ordinary agarwood shows a "wood wraps oil" (木包油) pattern, where hard wood carries resin veins, while 奇楠 shows "oil wraps wood" (油包木) — the fiber is so thoroughly saturated with resin that it turns soft and pliable, aromatic even at room temperature. A good piece shaves into curls and kneads into pellets. 奇楠 is further divided into color grades, though the hierarchy among those is disputed and treated here as market terminology.
 
 **Is agarwood a type of tree?** No — agarwood is not a species; it is a condition of the wood. It forms inside *Aquilaria* trees when the tree responds to wounding or fungal infection by saturating its heartwood with resin. Healthy *Aquilaria* wood is pale, light, and nearly scentless; only after years of injury and resin accumulation does it darken, densify, and become fragrant. Because several *Aquilaria* species can produce it, the material sold as agarwood may come from different species, which is a key point for buyers checking authenticity.
 
