@@ -54,7 +54,7 @@ The largest direction: ingredient names (沉香 agarwood, 檀香 sandalwood, 乳
 
 ### Aroma and burn behavior (~28 terms)
 
-The descriptors and behavior terms: 甜 sweet, 辛 pungent, 清 clear, 凉 cooling, 醇 mellow, 雅 refined, plus the note structure 前调/中调/后调 (top/middle/base note), 发烟量 smoke output, 燃烧速率 burn rate, 留香 longevity, 定香剂 fixative.
+The descriptors and behavior terms: 甜 sweet, 辛 pungent, 清 clear, 凉 cooling, 醇 mellow, 雅 refined, plus the note structure 前调/中调/top/middle/base note (后调), 发烟量 smoke output, 燃烧速率 burn rate, 留香 longevity, 定香剂 fixative.
 
 ### Forms and formats (~25 terms)
 
@@ -132,11 +132,11 @@ In two places: the machine-readable [terminology.json](https://data.incenseherbs
 ### Q: What does 沉香 (chénxiāng) mean?
 沉香 means "sinking fragrance" — agarwood. The name records the classical density test: the most resin-saturated pieces sink in water. The preferred English translation is "agarwood." See the [agarwood entity page](/ingredients/agarwood/) for the full treatment.
 
-### Q: What is 隔火焚香?
+### Q: What is indirect-fire incense (隔火焚香)?
 隔火焚香 (gé huǒ fén xiāng) means "incense across fire" — the indirect-fire method of warming material over buried charcoal so it releases aroma without combusting. It is the direct ancestor of Japanese kōdō. See the [gehuo fenxiang setup](/blog/gehuo-fenxiang-setup/) and the [terminology glossary](/blog/incense-terminology-glossary/).
 
 ### Q: What is the difference between 单方 and 复方?
-单方 (dān fāng) is single-material appreciation — one wood or resin on its own. 复方 (fù fāng) is compound formula — 合香 proper, multiple materials composed on the 君臣佐使 (chief–minister–assistant–guide) principle. Traditional Chinese incense is usually 复方. See the [hexiang blending system](/blog/hexiang-blending-system/).
+单方 (dān fāng) is single-material appreciation — one wood or resin on its own. 复方 (fù fāng) is compound formula — blended incense (合香) proper, multiple materials composed on the 君臣佐使 (chief–minister–assistant–guide) principle. Traditional Chinese incense is usually 复方. See the [hexiang blending system](/blog/hexiang-blending-system/).
 
 ---
 
