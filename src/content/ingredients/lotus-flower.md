@@ -67,7 +67,7 @@ True lotus flower has a **subtle, fresh, sweet, mildly aquatic** scent that is t
 
 Lotus occupies a distinctive double role:
 
-- **The lotus accord:** classical incense built a "lotus" scent *without the flower*. The 香乘's 芙药衣香 (lotus clothes incense) is assembled entirely from clove, sandalwood, spikenard, tonka, peony bark, and fennel — explicitly described as smelling "like a freshly opened lotus" (其香如新开莲花) — with no lotus in it at all.
+- **The lotus accord:** classical incense built a "lotus" scent *without the flower*. The 香乘's lotus clothes incense (芙药衣香) is assembled entirely from clove, sandalwood, spikenard, tonka, peony bark, and fennel — explicitly described as smelling "like a freshly opened lotus" (其香如新开莲花) — with no lotus in it at all.
 - **Real-material lotus:** later and contemporary manuals use the actual flower. The 燕居香语 (Yànjū Xiāngyǔ) pairs fresh lotus petals with saffron, agarwood, and dendrobium.
 
 See the [lotus incense recipe](/blog/lotus-incense-recipe/) and the [lotus incense](/blog/lotus-incense/) page for the full formula treatment.
@@ -103,7 +103,7 @@ The distinction is fundamental, not cosmetic: most "lotus" incense contains no l
 ## In Chinese tradition
 
 - **Symbol of purity:** 莲花 carries deep symbolism — 出淤泥而不染, "emerges from the mud unstained" — more than a classical incense material. It is the Buddhist lotus throne and a mark of purity. **Historical Record** — documented cultural symbolism.
-- **The lotus accord:** classical incense built a "lotus" scent *without the flower*. The 香乘's 芙药衣香 (lotus clothes incense) is assembled entirely from clove, sandalwood, spikenard, tonka, peony bark, and fennel — explicitly described as smelling "like a freshly opened lotus" (其香如新开莲花). **Historical Record** — documented formula use.
+- **The lotus accord:** classical incense built a "lotus" scent *without the flower*. The 香乘's lotus clothes incense (芙药衣香) is assembled entirely from clove, sandalwood, spikenard, tonka, peony bark, and fennel — explicitly described as smelling "like a freshly opened lotus" (其香如新开莲花). **Historical Record** — documented formula use.
 - **Real-material lotus:** later and contemporary manuals use the actual flower. The 燕居香语 (Yànjū Xiāngyǔ) pairs fresh lotus petals with saffron, agarwood, and dendrobium. **Historical Record** — documented formula use.
 
 ## Traditional use vs modern evidence
@@ -174,7 +174,7 @@ Lotus flower (莲花, *Nelumbo nucifera*) is the blossom of the sacred lotus, an
 
 **What part of the lotus plant is used?** The flower (petals), but also, in broader tradition, the seed, the root (rhizome, 莲藕), the leaf, and the seed pod — nearly every part of *Nelumbo nucifera* has a use. In incense specifically, it is the flower that matters, whether as a real material (petals) or as the accord that evokes it. The flower's own scent is the most delicate part, which is why it is usually evoked rather than burned.
 
-**What is the 芙药衣香 (lotus clothes incense)?** A classical 香乘 formula that builds a "lotus" scent without any lotus: it is assembled from clove, sandalwood, spikenard, tonka, peony bark, and fennel, and explicitly described as smelling "like a freshly opened lotus" (其香如新开莲花). It is the clearest classical demonstration that "lotus" in incense was an accord, not a material. See the [lotus incense recipe](/blog/lotus-incense-recipe/).
+**What is the lotus clothes incense (芙药衣香)?** A classical 香乘 formula that builds a "lotus" scent without any lotus: it is assembled from clove, sandalwood, spikenard, tonka, peony bark, and fennel, and explicitly described as smelling "like a freshly opened lotus" (其香如新开莲花). It is the clearest classical demonstration that "lotus" in incense was an accord, not a material. See the [lotus incense recipe](/blog/lotus-incense-recipe/).
 
 See also: [plum-blossom](/ingredients/plum-blossom/), [osmanthus](/ingredients/osmanthus/), the [lotus incense recipe](/blog/lotus-incense-recipe/), the [lotus incense](/blog/lotus-incense/) page, and the full [scent guide](/blog/scent-guide/).
 
