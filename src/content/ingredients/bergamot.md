@@ -30,7 +30,7 @@ related: ["finger-citron", "citron", "neroli"]
 
 > **Direct answer:** Bergamot has a bright, sparkling citrus scent with a distinct floral-green, slightly bitter, almost tea-like edge — more complex and less sweet than lemon, with a delicate neroli-like lift. It is a classic top note in modern perfumery and the signature flavor of Earl Grey tea.
 
-佛手柑 (bergamot) has a bright, sparkling citrus scent with a distinct floral-green, slightly bitter, almost tea-like edge — more complex and less sweet than lemon, with a delicate neroli-like lift. It is a classic top note in modern perfumery and the signature flavor of Earl Grey tea, prized for its fresh, uplifting clarity.
+bergamot (佛手柑) has a bright, sparkling citrus scent with a distinct floral-green, slightly bitter, almost tea-like edge — more complex and less sweet than lemon, with a delicate neroli-like lift. It is a classic top note in modern perfumery and the signature flavor of Earl Grey tea, prized for its fresh, uplifting clarity.
 
 The register is worth pinning against lemon and citron: bergamot is less purely sweet than lemon, and its distinctive value is the *green-floral-bitter* edge — a faint, almost tea-like bitterness that gives the oil its lift and its complexity. This bitter-green undertone is what separates bergamot from the sweeter, simpler citrus notes, and it is why bergamot reads as "elegant" rather than merely "citrusy" in fine fragrance.
 
@@ -38,7 +38,7 @@ The register is worth pinning against lemon and citron: bergamot is less purely 
 
 > **Direct answer:** Bergamot is a modern crossover, not a classical Chinese 香材. The bergamot orange is a cultivated Mediterranean citrus, not a native Chinese species, and Flora of China does not record it. In Chinese, the name 佛手柑 overlaps with — and is easily confused with — the finger citron (佛手, *Citrus medica* var. *sarcodactylis*), which *is* a classical Chinese offering fruit.
 
-佛手柑 (bergamot) is a **modern crossover**, not a classical Chinese 香材:
+bergamot (佛手柑) is a **modern crossover**, not a classical Chinese 香材:
 
 - The bergamot orange, *Citrus × bergamia*, is a cultivated Mediterranean citrus, not a native Chinese species; Flora of China does not record it.
 - In Chinese, the name 佛手柑 is shared with — and easily confused with — the finger citron (佛手, *Citrus medica* var. *sarcodactylis*), which **is** a classical Chinese offering fruit. These are different plants: bergamot is the essential-oil citrus; finger citron is the Buddha's-hand fruit.
@@ -46,7 +46,7 @@ The register is worth pinning against lemon and citron: bergamot is less purely 
 
 This page records it honestly as a modern essential-oil material — **no classical Chinese origin is claimed, and none is fabricated.**
 
-This name-collision is the page's core value: 佛手柑 (bergamot) and 佛手 (finger citron) share the 佛手 ("Buddha's hand") name element but are different plants with opposite cultural standing — one a modern Mediterranean perfume citrus, the other a classical Chinese offering fruit. The shared 佛手 name invites exactly the conflation this page exists to prevent.
+This name-collision is the page's core value: bergamot (佛手柑) and finger citron (佛手) share the 佛手 ("Buddha's hand") name element but are different plants with opposite cultural standing — one a modern Mediterranean perfume citrus, the other a classical Chinese offering fruit. The shared 佛手 name invites exactly the conflation this page exists to prevent.
 
 ## Botanical source and origin
 
@@ -103,18 +103,18 @@ Bergamot is a one-form material in practice: the cold-pressed rind oil is the pr
 - **Historical Record** — no classical Chinese incense record exists for bergamot; its documented history is Western perfumery and flavoring.
 - **Scientific Evidence** — the botanical identity (*Citrus × bergamia*, Rutaceae, now under *Citrus × limon*) is established. No clinical or medical efficacy claims are presented.
 
-There is **no classical Chinese incense record** for 佛手柑 (bergamot); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Rutaceae placement, and its modern essential-oil role — plus the name collision with the finger citron that is the page's core disambiguation.
+There is **no classical Chinese incense record** for bergamot (佛手柑); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Rutaceae placement, and its modern essential-oil role — plus the name collision with the finger citron that is the page's core disambiguation.
 
 ## Quality and sourcing notes
 
 Practical points for buyers:
 
-- 佛手柑 (bergamot) is the essential-oil citrus *Citrus × bergamia*; expect a bright, citrus-floral, fresh, slightly bitter scent.
+- bergamot (佛手柑) is the essential-oil citrus *Citrus × bergamia*; expect a bright, citrus-floral, fresh, slightly bitter scent.
 - Distinguish it from the finger citron (佛手, *Citrus medica* var. *sarcodactylis*) and the citron (香橼, *Citrus medica*) — different citrus, different uses.
 - In incense it is typically a bergamot essential-oil note, a modern addition rather than a classical 香材.
 - The value is as a fresh top note, so freshness of the cold-pressed oil is the primary quality driver.
 
-## Bergamot vs finger citron: the 佛手 collision
+## Bergamot vs finger citron: the finger citron (佛手) collision
 
 > **Direct answer:** Bergamot and finger citron share the 佛手 ("Buddha's hand") name element but are different plants with opposite cultural standing. Bergamot (佛手柑, *Citrus × bergamia*) is a modern Mediterranean perfume citrus; finger citron (佛手, *Citrus medica* var. *sarcodactylis*) is a classical Chinese offering fruit. The shared name invites the conflation this page prevents.
 
@@ -133,7 +133,7 @@ The collision is in the name, not the plant: 佛手柑 and 佛手 are different 
 
 From a sourcing and editorial perspective, bergamot is most interesting for the collision its own Chinese name creates. Three points follow:
 
-- **The 佛手 name is overloaded, and the overload is meaningful.** 佛手 means "Buddha's hand," and it fits the finger citron — whose fingered fruit looks like a hand — far better than it fits the bergamot orange. Yet 佛手柑 (bergamot) borrowed the element. This is not a trivial mix-up: the finger citron is a classical offering fruit, and the bergamot is a modern perfume citrus, so the shared 佛手 name drags a classical association onto a modern import. The buyer's job is to strip the association and pin the species.
+- **The 佛手 name is overloaded, and the overload is meaningful.** 佛手 means "Buddha's hand," and it fits the finger citron — whose fingered fruit looks like a hand — far better than it fits the bergamot orange. Yet bergamot (佛手柑) borrowed the element. This is not a trivial mix-up: the finger citron is a classical offering fruit, and the bergamot is a modern perfume citrus, so the shared 佛手 name drags a classical association onto a modern import. The buyer's job is to strip the association and pin the species.
 - **The classical/modern divide runs through the citrus family here.** The finger citron and citron belong to the classical 清供 tradition (fragrance by presence, not combustion), while bergamot belongs to modern Western perfumery (fragrance as extracted oil). This is the same structural divide the [kumquat](/ingredients/kumquat/) and [quince](/ingredients/quince/) entries mark — classical citrus were *displayed and smelled*, modern citrus are *extracted and dosed*. Bergamot sits firmly on the modern side.
 - **Freshness is the deliverable, not the name.** Because bergamot's value is a volatile top note, the sourcing conversation turns on the freshness and character of the cold-pressed oil — not on the 佛手柑 label. A buyer who chases the name rather than the oil's freshness has already made the classic mistake the collision invites.
 
@@ -145,11 +145,11 @@ Bergamot (佛手柑) is the bergamot orange, *Citrus × bergamia*, a cultivated 
 
 ## FAQ
 
-**What is 佛手柑 (bergamot)?** The bergamot orange, *Citrus × bergamia*, a cultivated Mediterranean citrus (Rutaceae) grown chiefly in southern Italy. Its rind yields bergamot essential oil, with a bright, citrus-floral, fresh, faintly bitter scent — the note in Earl Grey tea and modern perfumery.
+**What is bergamot (佛手柑)?** The bergamot orange, *Citrus × bergamia*, a cultivated Mediterranean citrus (Rutaceae) grown chiefly in southern Italy. Its rind yields bergamot essential oil, with a bright, citrus-floral, fresh, faintly bitter scent — the note in Earl Grey tea and modern perfumery.
 
-**Is 佛手柑 a classical Chinese incense ingredient?** No. Bergamot is a modern Mediterranean citrus, not a native Chinese species, and it has no place in the classical 香材 canon. Its Chinese use is modern essential oil and flavor. The name 佛手柑 overlaps with the finger citron (佛手), which is a classical offering fruit — but they are different plants.
+**Is bergamot (佛手柑) a classical Chinese incense ingredient?** No. Bergamot is a modern Mediterranean citrus, not a native Chinese species, and it has no place in the classical 香材 canon. Its Chinese use is modern essential oil and flavor. The name 佛手柑 overlaps with the finger citron (佛手), which is a classical offering fruit — but they are different plants.
 
-**Is 佛手柑 the same as 佛手 (finger citron)?** No. 佛手柑 here is bergamot (*Citrus × bergamia*), the essential-oil citrus; 佛手 (finger citron) is *Citrus medica* var. *sarcodactylis*, the Buddha's-hand offering fruit. The shared name causes confusion, but the plants and their uses differ: one is a modern perfume citrus, the other a classical Chinese fragrant fruit.
+**Is bergamot (佛手柑) the same as finger citron (佛手)?** No. 佛手柑 here is bergamot (*Citrus × bergamia*), the essential-oil citrus; finger citron (佛手) is *Citrus medica* var. *sarcodactylis*, the Buddha's-hand offering fruit. The shared name causes confusion, but the plants and their uses differ: one is a modern perfume citrus, the other a classical Chinese fragrant fruit.
 
 **What does bergamot smell like?** Bright, sparkling citrus with a distinct floral-green, slightly bitter, almost tea-like edge — more complex and less sweet than lemon, with a delicate neroli-like lift. It is a classic top note in perfumery and the signature scent of Earl Grey tea.
 
@@ -186,4 +186,4 @@ See also: [finger-citron (佛手)](/ingredients/finger-citron/), [citron (香橼
 
 - [Citrus bergamia on GBIF](https://www.gbif.org/species/6433772)
 
-*Sources: botanical references on *Citrus × bergamia*. 佛手柑 (bergamot) is a modern essential-oil material with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Citrus × bergamia*. bergamot (佛手柑) is a modern essential-oil material with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
