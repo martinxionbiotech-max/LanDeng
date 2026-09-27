@@ -50,13 +50,13 @@ The herb was moved by Li Shizhen from the vegetable section into the fragrant-he
 
 ## The Lamiaceae green-aromatic triangle
 
-> **Direct answer:** 香薷 (elsholtzia), 藿香 (agastache), and 紫苏 (perilla) are three mint-family herbs whose green notes overlap closely enough that a buyer must distinguish them by species. Elsholtzia is minty-spicy and slightly sweet, agastache is minty-anise, and perilla is shiso-like and anise-leaning — three genera, one aromatic family.
+> **Direct answer:** elsholtzia (香薷), agastache (藿香), and perilla (紫苏) are three mint-family herbs whose green notes overlap closely enough that a buyer must distinguish them by species. Elsholtzia is minty-spicy and slightly sweet, agastache is minty-anise, and perilla is shiso-like and anise-leaning — three genera, one aromatic family.
 
 The mint family (Lamiaceae) contributes a cluster of green aromatics to Chinese incense, and three of them — 香薷, 藿香, and 紫苏 — sit close enough in profile that their names are worth pinning to species:
 
-- **香薷 (elsholtzia)** — *Elsholtzia ciliata*; minty-spicy, slightly sweet, camphor-adjacent. This entry.
-- **藿香 (agastache)** — *Agastache rugosa*; minty-anise, with its own same-name tangles (see [agastache-rugosa](/ingredients/agastache-rugosa/)).
-- **紫苏 (perilla)** — *Perilla frutescens*; anise-leaning with a shiso character (see [perilla](/ingredients/perilla/)).
+- **elsholtzia (香薷)** — *Elsholtzia ciliata*; minty-spicy, slightly sweet, camphor-adjacent. This entry.
+- **agastache (藿香)** — *Agastache rugosa*; minty-anise, with its own same-name tangles (see [agastache-rugosa](/ingredients/agastache-rugosa/)).
+- **perilla (紫苏)** — *Perilla frutescens*; anise-leaning with a shiso character (see [perilla](/ingredients/perilla/)).
 
 The family relationship is the trap: three different genera share the "minty green herb" register, so a label that says only "aromatic herb" does not identify the material. This is a species question, not a stylistic detail.
 
@@ -104,7 +104,7 @@ The distinction is one of physical preparation (whole vs cut vs ground), not of 
 
 ## In Chinese tradition
 
-- **Aromatic herb (Traditional Use):** 香薷 is a classical aromatic herb, grouped by the *Bencao Gangmu* among the 芳草 (fragrant herbs) and used for its fresh, minty-spicy green scent.
+- **Aromatic herb (Traditional Use):** 香薷 is a classical aromatic herb, grouped by the *Bencao Gangmu* among the fragrant herbs (芳草) and used for its fresh, minty-spicy green scent.
 - **香乘 listing (Historical Record):** the Ming-dynasty *Xiangcheng* (香乘) lists 香薷 among aromatics, placing it in the classical fragrance vocabulary; the *Bencao Gangmu* 草之三 records the name 香薷 with the aliases 香柔, 香茸, and 蜜蜂草 and explains the name ("其氣香，其葉柔，故以名之").
 - **Materia medica (Traditional Use):** 香薷 appears in traditional Chinese medicine. This is traditional materia-medica language, not modern clinical evidence.
 
@@ -146,19 +146,19 @@ Elsholtzia (香薷) is the dried aerial herb of *Elsholtzia ciliata*, an annual 
 
 ## FAQ
 
-**What is 香薷 (elsholtzia)?** A leafy aromatic herb of the mint family (Lamiaceae), chiefly *Elsholtzia ciliata*, native to East and Southeast Asia. Flora of China describes an erect herb 30–50 cm tall with purplish flowers from July to October. It is a classical Chinese aromatic-medicinal herb, recorded in the *Bencao Gangmu* as 香薷 (also 香柔, 香茸), and listed among aromatics in the Ming *Xiangcheng* (香乘).
+**What is elsholtzia (香薷)?** A leafy aromatic herb of the mint family (Lamiaceae), chiefly *Elsholtzia ciliata*, native to East and Southeast Asia. Flora of China describes an erect herb 30–50 cm tall with purplish flowers from July to October. It is a classical Chinese aromatic-medicinal herb, recorded in the *Bencao Gangmu* as 香薷 (also 香柔, 香茸), and listed among aromatics in the Ming *Xiangcheng* (香乘).
 
-**What does the name 香薷 mean?** It means "fragrant-soft." The *Bencao Gangmu* records that the character 薷 is originally 葇, and that "its smell is fragrant and its leaves soft, hence the name" (其氣香，其葉柔，故以名之). Li Shizhen moved the herb into the fragrant-herb (芳草) section, a classification that signals its standing as an aromatic rather than a mere vegetable.
+**What does the name elsholtzia (香薷) mean?** It means "fragrant-soft." The *Bencao Gangmu* records that the character 薷 is originally 葇, and that "its smell is fragrant and its leaves soft, hence the name" (其氣香，其葉柔，故以名之). Li Shizhen moved the herb into the fragrant-herb (芳草) section, a classification that signals its standing as an aromatic rather than a mere vegetable.
 
 **What does elsholtzia smell like?** Minty and herbal, with a spicy, faintly sweet, camphor-adjacent lift. It is a fresh green note close to mint and perilla but softer and warmer, and in incense it reads as a clean green aromatic that freshens a blend rather than leading it.
 
-**Is 香薷 used in classical Chinese incense?** It appears among the aromatics listed in the Ming-dynasty *Xiangcheng* (香乘), and the *Bencao Gangmu* groups it with the 芳草 (fragrant herbs). Its documented role is as an aromatic herb — a fresh green note in blends — rather than as a self-sufficient burned incense material or fixative.
+**Is elsholtzia (香薷) used in classical Chinese incense?** It appears among the aromatics listed in the Ming-dynasty *Xiangcheng* (香乘), and the *Bencao Gangmu* groups it with the fragrant herbs (芳草). Its documented role is as an aromatic herb — a fresh green note in blends — rather than as a self-sufficient burned incense material or fixative.
 
 **Is elsholtzia the same as mint or perilla?** No — they are related Lamiaceae herbs with distinct profiles. Elsholtzia (香薷) is minty-spicy and slightly sweet; mint (薄荷, *Mentha*) is sharply cooling; perilla (紫苏, *Perilla frutescens*) is more anise-like with a shiso character. They are different genera in the same family, and agastache (藿香) is a fourth distinct green aromatic in the same register.
 
 **What part of the plant is used?** The aerial herb — leaves and flowering tops — which carry the volatile oils responsible for the fresh, minty-spicy scent. The whole dried herb is the material of use, and freshness is the key quality factor because the volatile note fades with age and heat.
 
-**How should I judge 香薷 quality?** By fresh aroma on gentle warming: it should smell minty-spicy and slightly sweet, not musty or faded. Confirm the species (*Elsholtzia ciliata* and relatives) and the condition (clean, well-dried, minimal stem and foreign matter). There is no standardized grading ladder, so aroma is the practical signal.
+**How should I judge elsholtzia (香薷) quality?** By fresh aroma on gentle warming: it should smell minty-spicy and slightly sweet, not musty or faded. Confirm the species (*Elsholtzia ciliata* and relatives) and the condition (clean, well-dried, minimal stem and foreign matter). There is no standardized grading ladder, so aroma is the practical signal.
 
 See also: [agastache-rugosa](/ingredients/agastache-rugosa/), [perilla](/ingredients/perilla/), [mint](/ingredients/mint/), and the full [scent guide](/blog/scent-guide/).
 
