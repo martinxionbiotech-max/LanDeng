@@ -155,15 +155,15 @@ In our view, 槐花 is a light, honey-sweet floral accent with a culturally weig
 
 ## FAQ
 
-**What is 槐花 (sophora flower)?** The blossom of the pagoda tree, *Styphnolobium japonicum* (formerly *Sophora japonica*), a large legume tree (Fabaceae) cultivated throughout China, with a native range given by Flora of China as Japan and Korea. Its flowers have a light, sweet, honey-like floral scent and are used in traditional materia medica and as a fragrant flower.
+**What is sophora flower (槐花)?** The blossom of the pagoda tree, *Styphnolobium japonicum* (formerly *Sophora japonica*), a large legume tree (Fabaceae) cultivated throughout China, with a native range given by Flora of China as Japan and Korea. Its flowers have a light, sweet, honey-like floral scent and are used in traditional materia medica and as a fragrant flower.
 
-**What tree does 槐花 come from?** The pagoda tree (槐, *Styphnolobium japonicum*), long recorded as *Sophora japonica*. Flora of China describes a tree to 25 m tall with 9–15 leaflets per leaf and terminal panicles to 30 cm of white or creamy-yellow flowers. The *Bencao Gangmu* (本草纲目) records the tree under 槐 in its tree section (木之二), folding in the flower (槐花) among its parts.
+**What tree does sophora flower (槐花) come from?** The pagoda tree (槐, *Styphnolobium japonicum*), long recorded as *Sophora japonica*. Flora of China describes a tree to 25 m tall with 9–15 leaflets per leaf and terminal panicles to 30 cm of white or creamy-yellow flowers. The *Bencao Gangmu* (本草纲目) records the tree under 槐 in its tree section (木之二), folding in the flower (槐花) among its parts.
 
-**What does 槐花 smell like?** Light, sweet, and delicate, with a honey-like, slightly green edge — a soft, pollen-like sweetness rather than the heady richness of jasmine or rose. It reads as a gentle garden flower and lends a quiet floral accent.
+**What does sophora flower (槐花) smell like?** Light, sweet, and delicate, with a honey-like, slightly green edge — a soft, pollen-like sweetness rather than the heady richness of jasmine or rose. It reads as a gentle garden flower and lends a quiet floral accent.
 
 **Is sophora flower an incense ingredient?** Not a lead one. Its traditional role is chiefly in materia medica, with a light fragrant-flower use. It can lend a soft, sweet floral accent, but it does not carry the intensity of the classical floral 香材 like jasmine or osmanthus.
 
-**Is 槐花 the same as the 槐 fruit?** No — different parts of the same tree. 槐花 is the flower; 槐实 (or 槐角) is the fruit. The *Bencao Gangmu* (本草纲目) records both under the tree 槐, but they are distinct parts with distinct uses.
+**Is sophora flower (槐花) the same as the 槐 fruit?** No — different parts of the same tree. 槐花 is the flower; 槐实 (or 槐角) is the fruit. The *Bencao Gangmu* (本草纲目) records both under the tree 槐, but they are distinct parts with distinct uses.
 
 **Why is the pagoda tree culturally significant?** Because of its association with officialdom: the *Bencao Gangmu* records "面三槐，三公位焉" — the three pagoda trees marked the seats of the three highest ministers of state. This made the tree a symbol of high office and courtly rank, a cultural meaning separate from its flower's modest fragrance.
 
