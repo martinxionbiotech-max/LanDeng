@@ -45,13 +45,13 @@ The part used is the **dried fruit**, whose seeds carry the aroma. This is a spi
 
 ## Chinese name and terminology
 
-> **Direct answer:** The name 豆蔻 (cardamom) is underspecified — it covers several different plants. 白豆蔻 (white cardamom) is *Amomum kravanh*; 草豆蔻 (katsumadai) is *Alpinia katsumadae*; 肉豆蔻 is nutmeg (*Myristica fragrans*); green cardamom is *Elettaria cardamomum*. The 豆蔻 name alone does not identify the plant.
+> **Direct answer:** The name cardamom (豆蔻) is underspecified — it covers several different plants. white cardamom (白豆蔻) is *Amomum kravanh*; katsumadai (草豆蔻) is *Alpinia katsumadae*; 肉豆蔻 is nutmeg (*Myristica fragrans*); green cardamom is *Elettaria cardamomum*. The 豆蔻 name alone does not identify the plant.
 
 The word "豆蔻" (cardamom) covers several different spice plants, which is a standing source of confusion:
 
 - **白豆蔻 (this page)** — *Amomum kravanh*, white/round cardamom, the Southeast Asian ginger-family spice.
-- **草豆蔻 (katsumadai)** — *Alpinia katsumadae* (and relatives), a different ginger-family seed used in materia medica. See [katsumadai](/ingredients/katsumadai/).
-- **肉豆蔻 (nutmeg)** — *Myristica fragrans*, a completely different plant and family, not a cardamom at all despite the shared 豆蔻 name.
+- **katsumadai (草豆蔻)** — *Alpinia katsumadae* (and relatives), a different ginger-family seed used in materia medica. See [katsumadai](/ingredients/katsumadai/).
+- **nutmeg (肉豆蔻)** — *Myristica fragrans*, a completely different plant and family, not a cardamom at all despite the shared 豆蔻 name.
 - **Green cardamom** — *Elettaria cardamomum*, the familiar "cardamom" of Indian and Middle Eastern cooking, called 小豆蔻 in Chinese.
 
 A label that says only "cardamom" or "豆蔻" is underspecified — these are different plants with different scents and uses.
@@ -64,7 +64,7 @@ White cardamom is a Southeast Asian spice. *Amomum kravanh* is native to mainlan
 
 ## Why is it used in incense?
 
-> **Direct answer:** White cardamom (白豆蔻) is used in incense as a blending spice — it adds a warm, pungent lift to a formula, but the classical manuals specify it is not burned alone. Its role is 和香 (blending), not a solo burn.
+> **Direct answer:** White cardamom (白豆蔻) is used in incense as a blending spice — it adds a warm, pungent lift to a formula, but the classical manuals specify it is not burned alone. Its role is blending (和香), not a solo burn.
 
 Cardamom's incense role is explicitly a **blending** one. The Ming-dynasty *Xiangcheng* (香乘) is specific: cardamom "is not a burning incense material — its seed and root are pungent and can only be used for blending" (豆蔻非焚爇香具…止可用以和香). So it appears in *huxiang* (合香) formulas as a warm, pungent supporting note — its warmth supports a formula rather than carrying one alone.
 
@@ -101,7 +101,7 @@ The distinction between whole fruit, seed, and powder is functional, not a quali
 
 ## In Chinese tradition
 
-- **合香 (blended incense):** 白豆蔻 is a classical *blending* spice in incense formulas, contributing a warm, pungent lift — but specifically as a 和香 ingredient, not a solo burn.
+- **blended incense (合香):** 白豆蔻 is a classical *blending* spice in incense formulas, contributing a warm, pungent lift — but specifically as a 和香 ingredient, not a solo burn.
 - **Culinary:** 白豆蔻 is a warming spice in Chinese cooking and spiced-broth traditions.
 - **Materia medica:** 白豆蔻 is a traditional-medicine herb, classically described for "transforming dampness and moving qi" (化湿行气) and related uses. This is **traditional materia-medica language, not modern clinical evidence.**
 
@@ -115,16 +115,16 @@ The classical records are specific about cardamom's *blending* role in incense, 
 
 | Spice | Botanical source | Character |
 |---|---|---|
-| 白豆蔻 (white cardamom) | *Amomum kravanh* | Warm, camphoraceous, eucalyptus-like |
-| 草豆蔻 (katsumadai) | *Alpinia katsumadae* | Warm, camphoraceous, more bitter |
-| 草果 (tsaoko) | *Amomum tsao-ko* | Smoky, spicy, "black cardamom" |
-| 肉豆蔻 (nutmeg) | *Myristica fragrans* | Sweet, warm, an unrelated family |
+| white cardamom (白豆蔻) | *Amomum kravanh* | Warm, camphoraceous, eucalyptus-like |
+| katsumadai (草豆蔻) | *Alpinia katsumadae* | Warm, camphoraceous, more bitter |
+| tsaoko (草果) | *Amomum tsao-ko* | Smoky, spicy, "black cardamom" |
+| nutmeg (肉豆蔻) | *Myristica fragrans* | Sweet, warm, an unrelated family |
 
 The 豆蔻 name and the ginger family both hide real botanical differences. See [katsumadai](/ingredients/katsumadai/), [tsao-ko](/ingredients/tsao-ko/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
 
 ## Adulteration & misidentification
 
-> **Direct answer:** The main risk is misidentification under the shared 豆蔻 name: 白豆蔻, 草豆蔻, 肉豆蔻 (nutmeg), and green cardamom are different plants. The Chinese name and botanical name on the label resolve which is meant.
+> **Direct answer:** The main risk is misidentification under the shared 豆蔻 name: 白豆蔻, 草豆蔻, nutmeg (肉豆蔻), and green cardamom are different plants. The Chinese name and botanical name on the label resolve which is meant.
 
 Cardamom is not a heavily faked, expensive aromatic; its risk is the **shared 豆蔻 name**. A buyer who wants the white cardamom (*Amomum kravanh*) should not unknowingly receive 草豆蔻 (*Alpinia*), nutmeg (肉豆蔻, *Myristica fragrans*), or green cardamom (*Elettaria*) — all different plants with different scents and uses. The Chinese name (白豆蔻 vs 草豆蔻 vs 肉豆蔻) or the botanical name resolves the matter. See the [incense substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general screening logic.
 
@@ -176,21 +176,21 @@ In our view, the commercial sweet spot is a **correctly identified, consistently
 
 ## Summary
 
-White cardamom (白豆蔻, *báidòukòu*) is the dried fruit of *Amomum kravanh*, a ginger-family (Zingiberaceae) spice of Southeast Asia. It is valued for a warm, camphoraceous, eucalyptus-like aroma, and the classical *Xiangcheng* (香乘) specifies its incense role as a blending spice (和香), not a solo burn. Its quality rests on seed fullness, aroma, and freshness rather than a formal grade, and its naming risk is confusion with 草豆蔻 (katsumadai), nutmeg (肉豆蔻), and green cardamom — all different plants. In incense it is a blending accent, not a lead; commercially, identity and batch consistency outweigh volume.
+White cardamom (白豆蔻, *báidòukòu*) is the dried fruit of *Amomum kravanh*, a ginger-family (Zingiberaceae) spice of Southeast Asia. It is valued for a warm, camphoraceous, eucalyptus-like aroma, and the classical *Xiangcheng* (香乘) specifies its incense role as a blending spice (和香), not a solo burn. Its quality rests on seed fullness, aroma, and freshness rather than a formal grade, and its naming risk is confusion with katsumadai (草豆蔻), nutmeg (肉豆蔻), and green cardamom — all different plants. In incense it is a blending accent, not a lead; commercially, identity and batch consistency outweigh volume.
 
 ## FAQ
 
-**Is cardamom the same as nutmeg?** No. The Chinese name 豆蔻 covers both, which is the source of the confusion, but they are different plants and families. 白豆蔻 (white cardamom) is *Amomum kravanh*, a ginger-family spice; 肉豆蔻 ("meat 豆蔻") is *Myristica fragrans*, nutmeg, a completely different plant. The shared 豆蔻 name hides the difference, so a label should specify which is meant.
+**Is cardamom the same as nutmeg?** No. The Chinese name 豆蔻 covers both, which is the source of the confusion, but they are different plants and families. white cardamom (白豆蔻) is *Amomum kravanh*, a ginger-family spice; 肉豆蔻 ("meat 豆蔻") is *Myristica fragrans*, nutmeg, a completely different plant. The shared 豆蔻 name hides the difference, so a label should specify which is meant.
 
 **What does white cardamom smell like?** White cardamom has a warm, camphoraceous, slightly eucalyptus-like aroma — more "medicinal-spicy" than sweet. It belongs to a cluster of ginger-family spice scents. In Chinese incense it adds a warm, pungent lift, and the classical manuals specify that this is a *blending* role rather than a solo fragrance.
 
 **Is cardamom used in Chinese incense?** Yes, but as a blender. The Ming-dynasty *Xiangcheng* (香乘) is explicit that cardamom "is not a burning incense material — its seed and root are pungent and can only be used for blending" (豆蔻非焚爇香具…止可用以和香). So it appears in *huxiang* (合香) formulas as a warm, pungent supporting note, not as a material burned alone.
 
-**What is the difference between 白豆蔻 and 草豆蔻?** They are different ginger-family (Zingiberaceae) seeds. 白豆蔻 is *Amomum kravanh* (white/round cardamom), the Southeast Asian spice; 草豆蔻 is *Alpinia katsumadae* (and relatives), used in materia medica. They share the 豆蔻 name and a general warm-spice character but are distinct plants with different aromas and uses.
+**What is the difference between white cardamom (白豆蔻) and katsumadai (草豆蔻)?** They are different ginger-family (Zingiberaceae) seeds. 白豆蔻 is *Amomum kravanh* (white/round cardamom), the Southeast Asian spice; 草豆蔻 is *Alpinia katsumadae* (and relatives), used in materia medica. They share the 豆蔻 name and a general warm-spice character but are distinct plants with different aromas and uses.
 
 **What is green cardamom?** Green cardamom is *Elettaria cardamomum*, the familiar "cardamom" of Indian and Middle Eastern cooking, called 小豆蔻 in Chinese. It is yet another distinct plant — not 白豆蔻 (*Amomum kravanh*), 草豆蔻 (*Alpinia*), or nutmeg (肉豆蔻). The English word "cardamom" usually means the green one, while 白豆蔻 is the white/round variety, which is a useful distinction to keep straight.
 
-**Is 白豆蔻 the same as 草果 (tsaoko)?** No. 白豆蔻 is *Amomum kravanh* (white/round cardamom); 草果 is *Amomum tsao-ko*, the smoky "black cardamom" of southwestern Chinese cooking. They are both ginger-family (Zingiberaceae) spices in the *Amomum* group, but distinct species with different aromas — white cardamom is warm and camphoraceous, while tsaoko is smoky and earthy.
+**Is white cardamom (白豆蔻) the same as tsaoko (草果)?** No. 白豆蔻 is *Amomum kravanh* (white/round cardamom); 草果 is *Amomum tsao-ko*, the smoky "black cardamom" of southwestern Chinese cooking. They are both ginger-family (Zingiberaceae) spices in the *Amomum* group, but distinct species with different aromas — white cardamom is warm and camphoraceous, while tsaoko is smoky and earthy.
 
 See also: [katsumadai (草豆蔻)](/ingredients/katsumadai/), [tsao-ko (草果)](/ingredients/tsao-ko/), [clove](/ingredients/clove/), [cinnamon](/ingredients/cinnamon/), [nutmeg](/ingredients/nutmeg/) and the full [scent guide](/blog/scent-guide/).
 
@@ -222,4 +222,4 @@ See also: [katsumadai (草豆蔻)](/ingredients/katsumadai/), [tsao-ko (草果)]
 - [Amomum kravanh on GBIF](https://www.gbif.org/species/7963176)
 - [Amomum compactum in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028314)
 
-*Sources: botanical references on *Amomum kravanh* (white cardamom) and the Ming-dynasty *Xiangcheng* (香乘) record of 豆蔻香. The 白豆蔻 / 草豆蔻 / 肉豆蔻 (nutmeg) / green-cardamom disambiguation is recorded as practical screening. Medicinal uses are treated as traditional, not established clinical fact. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Amomum kravanh* (white cardamom) and the Ming-dynasty *Xiangcheng* (香乘) record of 豆蔻香. The 白豆蔻 / 草豆蔻 / nutmeg (肉豆蔻) / green-cardamom disambiguation is recorded as practical screening. Medicinal uses are treated as traditional, not established clinical fact. This is editorial knowledge content, not medical advice.*
