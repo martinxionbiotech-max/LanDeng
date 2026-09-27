@@ -30,13 +30,13 @@ related: ["mint", "peppermint"]
 
 > **Direct answer:** Spearmint is sweet and cooling, with a fresh, green, gently minty character — softer and sweeter than peppermint's sharp camphoraceous bite. Its sweetness comes chiefly from the compound carvone rather than the menthol that dominates peppermint, which is why it reads as sweet-mint rather than hot-mint.
 
-留兰香 (spearmint) is sweet and cooling, with the fresh, green, gently minty character of the culinary herb — softer and sweeter than the sharp, camphoraceous bite of peppermint. Its sweetness comes chiefly from the compound **carvone**, rather than the menthol that dominates peppermint, which is why it reads as sweet-mint rather than hot-mint. This single chemical difference — carvone versus menthol — is the whole story of how two green mints end up smelling so differently, and it is the most reliable way to tell them apart at the organ.
+spearmint (留兰香) is sweet and cooling, with the fresh, green, gently minty character of the culinary herb — softer and sweeter than the sharp, camphoraceous bite of peppermint. Its sweetness comes chiefly from the compound **carvone**, rather than the menthol that dominates peppermint, which is why it reads as sweet-mint rather than hot-mint. This single chemical difference — carvone versus menthol — is the whole story of how two green mints end up smelling so differently, and it is the most reliable way to tell them apart at the organ.
 
 ## A provenance note (read this)
 
 > **Direct answer:** Spearmint is a modern culinary and fragrance crossover, not a classical Chinese 香材. The species is European and Asian and recorded by Flora of China largely as cultivated or naturalized, but "spearmint" as a named herb is a European and modern tradition. The Chinese pharmacopoeial mint is the separate species 薄荷 (*Mentha haplocalyx*).
 
-留兰香 (spearmint) is a **modern culinary and fragrance crossover**, not a classical Chinese 香材:
+spearmint (留兰香) is a **modern culinary and fragrance crossover**, not a classical Chinese 香材:
 
 - *Mentha spicata* is a European and Asian species recorded by Flora of China (largely cultivated/naturalized in China). But "spearmint" as a named culinary and fragrance herb is a **European and modern tradition**.
 - The Chinese pharmacopoeial mint is 薄荷 (*Mentha haplocalyx*, syn. *M. canadensis*), a different species with its own entry; 留兰香 is a separate, sweeter mint.
@@ -50,9 +50,9 @@ This page records it honestly as a modern culinary and fragrance herb — **no c
 
 The *Mentha* genus supplies three distinct mints in this encyclopedia:
 
-- **薄荷 (mint)** — *Mentha haplocalyx* (syn. *M. canadensis*), the East Asian pharmacopoeial mint, the "mint" of Chinese tradition. Its own entry.
-- **留兰香 (spearmint)** — *Mentha spicata*, the sweet, carvone-dominant mint. This entry.
-- **胡椒薄荷 (peppermint)** — *Mentha × piperita*, the sharp, menthol-dominant hybrid mint. Its own entry.
+- **mint (薄荷)** — *Mentha haplocalyx* (syn. *M. canadensis*), the East Asian pharmacopoeial mint, the "mint" of Chinese tradition. Its own entry.
+- **spearmint (留兰香)** — *Mentha spicata*, the sweet, carvone-dominant mint. This entry.
+- **peppermint (胡椒薄荷)** — *Mentha × piperita*, the sharp, menthol-dominant hybrid mint. Its own entry.
 
 All three share a minty family character, but they are different species (or a hybrid) with different aromas and chemistry. Spearmint is a true species; peppermint is a hybrid of spearmint and watermint, which is a detail that matters for understanding why their chemistry diverged.
 
@@ -86,7 +86,7 @@ Spearmint is a robust, widely cultivated herb whose natural range has been massi
 - **Historical Record** — the botanical record places *Mentha spicata* as a European and Asian mint recorded by Flora of China largely as cultivated or naturalized; the "spearmint" culinary tradition is modern and European, not a Chinese classical record.
 - **Scientific Evidence** — botanical identity (Lamiaceae) and the carvone-dominant essential oil are established; no medical claims are made.
 
-There is **no classical Chinese incense record** for 留兰香 (spearmint) as a distinct 香材; its position is modern. We make **no medical claims**. The documented facts are botanical identity, the Lamiaceae placement, and its modern culinary and fragrance role.
+There is **no classical Chinese incense record** for spearmint (留兰香) as a distinct 香材; its position is modern. We make **no medical claims**. The documented facts are botanical identity, the Lamiaceae placement, and its modern culinary and fragrance role.
 
 ## How is spearmint used in incense?
 
@@ -123,9 +123,9 @@ Spearmint (留兰香) is the perennial mint *Mentha spicata*, a sweet, cooling, 
 
 ## FAQ
 
-**What is 留兰香 (spearmint)?** The herb *Mentha spicata*, a perennial of the mint family (Lamiaceae) native to Europe and temperate Asia and widely cultivated. Its leaves carry a sweet, cooling, minty-fresh scent. It is a modern culinary and fragrance crossover, not a classical Chinese incense ingredient.
+**What is spearmint (留兰香)?** The herb *Mentha spicata*, a perennial of the mint family (Lamiaceae) native to Europe and temperate Asia and widely cultivated. Its leaves carry a sweet, cooling, minty-fresh scent. It is a modern culinary and fragrance crossover, not a classical Chinese incense ingredient.
 
-**How is spearmint different from 薄荷 (mint)?** They are different species of the same mint family. 留兰香 is *Mentha spicata*, the sweet, carvone-dominant mint; 薄荷 is *Mentha haplocalyx* (syn. *M. canadensis*), the East Asian pharmacopoeial mint of Chinese tradition. Both are mints, but they are distinct plants with different aromas and identities.
+**How is spearmint different from mint (薄荷)?** They are different species of the same mint family. 留兰香 is *Mentha spicata*, the sweet, carvone-dominant mint; 薄荷 is *Mentha haplocalyx* (syn. *M. canadensis*), the East Asian pharmacopoeial mint of Chinese tradition. Both are mints, but they are distinct plants with different aromas and identities.
 
 **How is spearmint different from peppermint?** Spearmint (*Mentha spicata*) is sweet and cooling, dominated by carvone; peppermint (*Mentha × piperita*) is sharp and camphoraceous, dominated by menthol. Spearmint is a species; peppermint is a hybrid of spearmint and watermint. Spearmint reads sweet-mint, peppermint reads hot-mint.
 
@@ -165,4 +165,4 @@ See also: [mint (薄荷)](/ingredients/mint/), [peppermint (胡椒薄荷)](/ingr
 - [Mentha spicata in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019821)
 - [Mentha spicata on GBIF](https://www.gbif.org/species/2927175)
 
-*Sources: botanical references on *Mentha spicata* and the spearmint-vs-mint-vs-peppermint distinction. 留兰香 (spearmint) is a modern culinary and fragrance herb with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Mentha spicata* and the spearmint-vs-mint-vs-peppermint distinction. spearmint (留兰香) is a modern culinary and fragrance herb with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
