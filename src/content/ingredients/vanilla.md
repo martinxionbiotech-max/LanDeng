@@ -173,9 +173,9 @@ Vanilla (香草荚) is the cured seed pod of the vanilla orchid, *Vanilla planif
 
 ## FAQ
 
-**What is 香草荚 (vanilla bean)?** The cured seed pod of the vanilla orchid, *Vanilla planifolia*, a climbing orchid (Orchidaceae) native to Mexico and Central America. Its sweet, creamy, warm scent — developed through curing — is one of the most recognizable gourmand notes in flavor and fragrance, and a modern crossover into Chinese use.
+**What is vanilla bean (香草荚)?** The cured seed pod of the vanilla orchid, *Vanilla planifolia*, a climbing orchid (Orchidaceae) native to Mexico and Central America. Its sweet, creamy, warm scent — developed through curing — is one of the most recognizable gourmand notes in flavor and fragrance, and a modern crossover into Chinese use.
 
-**Is 香草荚 a classical Chinese incense ingredient?** No. The vanilla orchid is native to Mexico and Central America, and the name 香草荚 is a modern descriptive coinage. It does not appear in the 香乘 (Xiang Cheng) or the *Bencao Gangmu* (本草纲目), and its Chinese use is modern flavor, fragrance, and some modern incense — no classical origin is claimed.
+**Is vanilla bean (香草荚) a classical Chinese incense ingredient?** No. The vanilla orchid is native to Mexico and Central America, and the name 香草荚 is a modern descriptive coinage. It does not appear in the 香乘 (Xiang Cheng) or the *Bencao Gangmu* (本草纲目), and its Chinese use is modern flavor, fragrance, and some modern incense — no classical origin is claimed.
 
 **Why does a green vanilla pod have little scent?** Because the vanillin behind vanilla's aroma develops during curing, not on the vine. The green pods are harvested and cured through scalding, sweating, and drying, and it is this enzymatic process that releases vanillin and produces the characteristic sweet, creamy scent.
 
