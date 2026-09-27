@@ -45,7 +45,7 @@ Flora of China records *Eupatorium fortunei* as a **perennial herb 40–100 cm t
 The name is a small etymology lesson that explains the herb's whole role. 佩兰 combines 佩 (pèi, "to wear at the belt") with 兰 (lán, "orchid"), and it belongs to a broad Chinese convention of calling many fragrant plants 兰 regardless of family. Two naming cautions follow:
 
 - **佩兰 is not an orchid.** Despite the 兰 in its name, it is an Asteraceae herb, in the same tradition where 兰 names fragrance rather than taxonomy.
-- **佩兰 ≠ 泽兰.** 泽兰 is the same-genus *Eupatorium japonicum* — a distinct species with a fresh, herbaceous scent, treated on its own page — and, in classical materia medica, 泽兰 often refers instead to the mint-family *Lycopus lucidus*. See [泽兰 (eupatorium-japonicum)](/ingredients/eupatorium-japonicum/).
+- **佩兰 ≠ 泽兰.** 泽兰 is the same-genus *Eupatorium japonicum* — a distinct species with a fresh, herbaceous scent, treated on its own page — and, in classical materia medica, 泽兰 often refers instead to the mint-family *Lycopus lucidus*. See [eupatorium-japonicum (泽兰)](/ingredients/eupatorium-japonicum/).
 
 ## Where does eupatorium come from?
 
@@ -108,7 +108,7 @@ The distinction is functional, not a quality statement. See [incense powder & re
 
 The aromatic, sachet-and-clothing role is well documented. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**. The documented, non-medical facts are botanical identity and the plant's long use as a fresh, herbaceous fragrance.
 
-## Eupatorium vs 泽兰 (related species)
+## Eupatorium vs related species (泽兰)
 
 > **Direct answer:** 佩兰 (*Eupatorium fortunei*) and 泽兰 (*Eupatorium japonicum*) are closely related but distinct species of the same daisy-family genus. Both are fresh, herbaceous aromatics; 佩兰 is the classical "worn orchid" sachet herb, while 泽兰 is a separate species — and the name 泽兰 is itself contested with the mint-family *Lycopus lucidus*.
 
@@ -117,7 +117,7 @@ The aromatic, sachet-and-clothing role is well documented. Medicinal uses are **
 | 佩兰 (pèilán) | *Eupatorium fortunei*, Asteraceae | Fresh, herbaceous, mildly sweet |
 | 泽兰 (zélán) | *Eupatorium japonicum*, Asteraceae | Fresh, herbaceous, lightly aromatic |
 
-The two are the same genus and both read as green, fresh herbs, but they are distinct species that must be kept separate in sourcing. See [泽兰 (eupatorium-japonicum)](/ingredients/eupatorium-japonicum/) and the [substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general disambiguation logic.
+The two are the same genus and both read as green, fresh herbs, but they are distinct species that must be kept separate in sourcing. See [eupatorium-japonicum (泽兰)](/ingredients/eupatorium-japonicum/) and the [substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general disambiguation logic.
 
 ## Adulteration & misidentification
 
@@ -161,7 +161,7 @@ Eupatorium (佩兰, "worn orchid") is the dried aerial herb of *Eupatorium fortu
 
 **What is 佩兰 (pèilán)?** A classical Chinese fragrant herb — the dried aerial part of *Eupatorium fortunei*, a daisy-family plant native to East Asia. The name literally means "worn orchid" (佩 "wear," 兰 "orchid"), reflecting its traditional role: the fragrant herb was worn in sachets and used to scent clothing. It is a fresh, herbaceous, mildly sweet aromatic, not an orchid and not a wood or resin.
 
-**Is 佩兰 an orchid?** No. Despite the 兰 ("orchid") in its name, 佩兰 is *Eupatorium fortunei*, a herb of the Asteraceae (daisy) family. Chinese uses 兰 to name many fragrant plants beyond true orchids, and 佩兰 belongs to the classical "fragrant herb" (香草) tradition rather than to the orchid family. It is also distinct from 泽兰 (*Eupatorium japonicum*), a different aromatic herb.
+**Is eupatorium (佩兰) an orchid?** No. Despite the 兰 ("orchid") in its name, 佩兰 is *Eupatorium fortunei*, a herb of the Asteraceae (daisy) family. Chinese uses 兰 to name many fragrant plants beyond true orchids, and 佩兰 belongs to the classical "fragrant herb" (香草) tradition rather than to the orchid family. It is also distinct from 泽兰 (*Eupatorium japonicum*), a different aromatic herb.
 
 **What does eupatorium smell like?** Fresh and herbaceous, with a gentle sweetness and a clean, lightly aromatic lift — a "green" scent closer to a fragrant leaf than to a flower or wood. In traditional use it scents sachets and garments rather than burning as a dominant note, and in incense blends it reads as a light, fresh accent.
 
@@ -169,7 +169,7 @@ Eupatorium (佩兰, "worn orchid") is the dried aerial herb of *Eupatorium fortu
 
 **What part of the plant is used?** The above-ground herb — the leaves and stems — harvested and dried. The aromatic character comes from the whole aerial herb rather than a root, wood, or seed. The dried material should be clean and green, with a fresh scent when rubbed, and is usually blended rather than burned alone.
 
-**What is the difference between 佩兰 and 泽兰?** They are closely related but distinct species of the same daisy-family genus *Eupatorium*: 佩兰 is *Eupatorium fortunei*, the classical "worn orchid" sachet herb, while 泽兰 is *Eupatorium japonicum*. Both are fresh, herbaceous aromatics, but they are separate species — and the classical materia-medica 泽兰 often refers instead to the mint-family *Lycopus lucidus*.
+**What is the difference between eupatorium (佩兰) and eupatorium-japonicum (泽兰)?** They are closely related but distinct species of the same daisy-family genus *Eupatorium*: 佩兰 is *Eupatorium fortunei*, the classical "worn orchid" sachet herb, while 泽兰 is *Eupatorium japonicum*. Both are fresh, herbaceous aromatics, but they are separate species — and the classical materia-medica 泽兰 often refers instead to the mint-family *Lycopus lucidus*.
 
 See also: [mugwort](/ingredients/mugwort/), [agastache-rugosa](/ingredients/agastache-rugosa/), [eupatorium-japonicum (泽兰)](/ingredients/eupatorium-japonicum/), and the full [scent guide](/blog/scent-guide/).
 
