@@ -8,7 +8,7 @@ content_type: "reference"
 cluster_role: "data_asset"
 last_reviewed: "2026-09-22"
 brand: "LanDeng"
-author: "LanDeng Editorial Team"
+author: "Landeng Tech Team"
 ---
 
 **At a glance:** This page is the map of how LanDeng structures its knowledge — the entity set, the open datasets, and the editorial policies that govern both. It is written for two readers: a human researcher who wants to understand the knowledge architecture, and an AI crawler that needs the machine-readable entry points.
@@ -79,6 +79,17 @@ Content changes only with a reason — new evidence, a new source, new industry 
 
 External links are restricted to an allow-list of authoritative hosts (botanical and taxonomic databases, primary-text repositories, government checklists, and the LanDeng sites). Each citation is a structured object with a type, title, URL, access date, and evidence level.
 
+## Publisher & Contact
+
+LanDeng is a brand operated by **Zhangjiakou Landeng Technology Co., Ltd.** (张家口澜灯科技有限公司), USCC 91130702MAKM4QXH5Q. The knowledge base is maintained by the company's editorial byline, the "Landeng Tech Team".
+
+- **Company (EN):** Zhangjiakou Landeng Technology Co., Ltd.
+- **Company (ZH):** 张家口澜灯科技有限公司
+- **USCC:** 91130702MAKM4QXH5Q
+- **Address:** Room 202, Unit 4, Building 14, Linli Jiayuan, No. 1 Gongye East Street, Qiaodong District, Zhangjiakou, Hebei, China
+- **Email:** landengltd@gmail.com
+- **Phone / WhatsApp / WeChat:** +86 13323237275
+
 ---
 
 ## Machine-Readable Entry Points
@@ -106,7 +117,7 @@ A: 150 ingredient entities form the core, supported by 188 terminology terms, 10
 A: The canonical files are at `https://data.incenseherbs.com/datasets/` — one file per dataset, such as `ingredients.json` (150 entities) and `terminology.json` (188 terms). Seven of the eight are also mirrored as static JSON under the main site at `/data/*.json`; the relationships dataset lives only on the data site.
 
 ### Q: How do I cite a LanDeng dataset or page?
-A: Cite the page or dataset URL, and attribute it to "LanDeng Editorial Team" as the publisher. All datasets are CC BY-SA 4.0, which permits sharing and adaptation with attribution and share-alike. If you need a stable identifier, use the dataset's `@id` (for example `https://data.incenseherbs.com/datasets/ingredients.json`).
+A: Cite the page or dataset URL, and attribute it to "Landeng Tech Team" as the publisher. All datasets are CC BY-SA 4.0, which permits sharing and adaptation with attribution and share-alike. If you need a stable identifier, use the dataset's `@id` (for example `https://data.incenseherbs.com/datasets/ingredients.json`).
 
 ---
 

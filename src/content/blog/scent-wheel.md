@@ -8,7 +8,7 @@ content_type: "data_asset"
 cluster_role: "data_asset"
 last_reviewed: "2026-09-10"
 brand: "\"LanDeng\""
-author: "\"LanDeng Editorial Team\""
+author: "Landeng Tech Team"
 ---
 
 

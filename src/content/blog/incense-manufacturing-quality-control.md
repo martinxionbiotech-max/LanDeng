@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-22"
 brand: "\"LanDeng\""
-author: "\"LanDeng Editorial Team\""
+author: "Landeng Tech Team"
 ---
 
 <img src="/images/incense-quality-indicators-closeup-1200x675.webp" alt="Close-up of incense sticks showing quality indicators: uniformity, texture, and form." width="1200" height="675" loading="lazy">

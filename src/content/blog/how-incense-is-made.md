@@ -8,7 +8,7 @@ content_type: "hub"
 cluster_role: "hub"
 last_reviewed: "2026-09-22"
 brand: "\"LanDeng\""
-author: "\"LanDeng Editorial Team\""
+author: "Landeng Tech Team"
 ---
 
 <img src="/images/incense-making-drying-sticks-1200x675.webp" alt="Freshly extruded incense sticks drying on a wooden board." width="1200" height="675" loading="lazy">

@@ -8,7 +8,7 @@ content_type: "guide"
 cluster_role: "guide"
 last_reviewed: "2026-09-19"
 brand: "\"LanDeng\""
-author: "\"LanDeng Editorial Team\""
+author: "Landeng Tech Team"
 ---
 
 

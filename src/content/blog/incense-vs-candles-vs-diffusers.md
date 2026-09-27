@@ -8,7 +8,7 @@ content_type: "hub"
 cluster_role: "hub"
 last_reviewed: "2026-09-10"
 brand: "\"LanDeng\""
-author: "\"LanDeng Editorial Team\""
+author: "Landeng Tech Team"
 ---
 
 <img src="/images/incense-candle-diffuser-comparison-1200x675.webp" alt="An incense stick, a candle, and a reed diffuser arranged side by side." width="1200" height="675" loading="lazy">

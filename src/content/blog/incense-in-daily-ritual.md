@@ -8,7 +8,7 @@ content_type: "hub"
 cluster_role: "hub"
 last_reviewed: "2026-09-10"
 brand: "\"LanDeng\""
-author: "\"LanDeng Editorial Team\""
+author: "Landeng Tech Team"
 ---
 
 <img src="/images/incense-daily-ritual-morning-1200x675.webp" alt="Tea and a thin line of incense smoke on a table in soft morning light." width="1200" height="675" loading="lazy">

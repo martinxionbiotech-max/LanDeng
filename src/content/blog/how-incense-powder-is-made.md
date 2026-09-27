@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-22"
 brand: "\"LanDeng\""
-author: "\"LanDeng Editorial Team\""
+author: "Landeng Tech Team"
 ---
 
 <img src="/images/sandalwood-powder-wood-1200x675.webp" alt="Fine sandalwood powder and wood pieces on a neutral surface." width="1200" height="675" loading="lazy">
