@@ -152,7 +152,7 @@ See also: [sandalwood](/ingredients/sandalwood/), [beeswax](/ingredients/beeswax
 **Source:** [Bletilla striata in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028535) · [Bletilla striata on GBIF](https://www.gbif.org/species/2808791). **Evidence type:** Established.
 
 ### Traditional Chinese use
-**Source:** 白及 as the 合香 binder — 白芨作糊 (bletilla paste) specified in 香乘 (Xiang Cheng) recipes to form incense into cakes; 白及 in the 本草綱目 草部. **Evidence type:** Historically documented — binder use; medicinal uses are traditional, not modern clinical evidence.
+**Source:** 白及 as the 合香 binder — bletilla paste (白芨作糊) specified in 香乘 (Xiang Cheng) recipes to form incense into cakes; 白及 in the 本草綱目 草部. **Evidence type:** Historically documented — binder use; medicinal uses are traditional, not modern clinical evidence.
 
 ### Authenticity / disambiguation
 **Source:** 白及 (*Bletilla striata*, orchid tuber binder) as a functional binder, not a fragrance — distinct from fragrant woods, roots, and resins. **Evidence type:** Practical screening.
