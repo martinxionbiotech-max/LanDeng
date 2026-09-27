@@ -24,7 +24,7 @@ related: ["tree-peony", "peony", "orris-root"]
 | Botanical source | *Paeonia suffruticosa* (family Paeoniaceae) — the root bark |
 | What it is | The dried root bark of the tree peony, distinct from its flower |
 | Aroma | Rooty, earthy, woody, faintly floral |
-| Traditional role | Materia medica; same tree as 牡丹 (tree peony flower) |
+| Traditional role | Materia medica; same tree as tree peony flower (牡丹) |
 
 ## Aroma profile
 
@@ -42,18 +42,18 @@ The "same species, different part" structure is the whole story of this entry. I
 
 ## Chinese name and terminology
 
-> **Direct answer:** 牡丹皮 means "tree peony bark" — 牡丹 (tree peony) + 皮 (bark/skin). The name is literal and functional: it specifies the *part* (the bark) of a *specific plant* (the tree peony). The *Bencao Gangmu* records the root as "肉白皮丹" — white flesh, red bark — which is exactly what gives 牡丹皮 its name.
+> **Direct answer:** 牡丹皮 means "tree peony bark" — tree peony (牡丹) + 皮 (bark/skin). The name is literal and functional: it specifies the *part* (the bark) of a *specific plant* (the tree peony). The *Bencao Gangmu* records the root as "肉白皮丹" — white flesh, red bark — which is exactly what gives 牡丹皮 its name.
 
 The name 牡丹皮 (mǔdānpí) is a two-part specification: 牡丹 names the tree peony, and 皮 names the part — the bark. This is a clean example of how Chinese naming encodes both plant and part, which is precisely what prevents confusion with the flower. The *Bencao Gangmu* (本草纲目), 草之三, records the root as "肉白皮丹" — white flesh, red bark — and that red (丹) bark of the 牡丹 is the source of the name 牡丹皮. The name, then, is a part-specifier, and it does the disambiguation work that the shared species name alone cannot.
 
-## The 牡丹皮 / 牡丹 distinction (read this)
+## The tree peony bark (牡丹皮) / tree peony (牡丹) distinction (read this)
 
 > **Direct answer:** 牡丹皮 and 牡丹 come from the same tree, different parts: 牡丹皮 is the root bark, 牡丹 is the flower — the celebrated "king of flowers" (花王). The *Bencao Gangmu* records the tree under 牡丹 with the root bark as its materia-medica part, noting only the red single-petaled mountain flower's root bark was preferred for medicine.
 
 牡丹皮 and 牡丹 come from the **same tree, different parts**:
 
-- **牡丹皮 (tree peony bark)** — the dried root bark of *Paeonia suffruticosa*. This entry.
-- **牡丹 (tree peony)** — the flower of the same tree, the celebrated "king of flowers" (花王). Its own entry, at [tree-peony](/ingredients/tree-peony/).
+- **tree peony bark (牡丹皮)** — the dried root bark of *Paeonia suffruticosa*. This entry.
+- **tree peony (牡丹)** — the flower of the same tree, the celebrated "king of flowers" (花王). Its own entry, at [tree-peony](/ingredients/tree-peony/).
 
 The *Bencao Gangmu* (本草纲目), 草之三, records the tree under 牡丹, with the root bark as its materia-medica part — "根似芍藥，肉白皮丹" (the root resembles the peony's, white flesh, red bark) — and notes that "惟山中單葉花紅者，根皮入藥爲佳" (only the red single-petaled mountain flower's root bark is good for medicine). **This page describes 牡丹皮 = the root bark, not the flower.** The distinction is functional: the flower is a fragrance and ornamental subject, the bark is a quiet medicinal part.
 
@@ -149,11 +149,11 @@ Tree peony bark (牡丹皮, "tree peony bark") is the dried root bark of *Paeoni
 
 ## FAQ
 
-**What is 牡丹皮 (tree peony bark)?** The dried root bark of *Paeonia suffruticosa*, the tree peony (Paeoniaceae) native to China. It has a faint, rooty, earthy, woody scent and is a classical Chinese materia-medica part — the root bark of the same tree whose flower is 牡丹.
+**What is tree peony bark (牡丹皮)?** The dried root bark of *Paeonia suffruticosa*, the tree peony (Paeoniaceae) native to China. It has a faint, rooty, earthy, woody scent and is a classical Chinese materia-medica part — the root bark of the same tree whose flower is 牡丹.
 
-**Is 牡丹皮 the same as 牡丹?** No — same tree, different parts. 牡丹皮 is the root bark; 牡丹 is the flower, the "king of flowers" (花王). The *Bencao Gangmu* (本草纲目), 草之三, records the tree under 牡丹 with the root bark (根皮) as its materia-medica part.
+**Is tree peony bark (牡丹皮) the same as tree peony (牡丹)?** No — same tree, different parts. 牡丹皮 is the root bark; 牡丹 is the flower, the "king of flowers" (花王). The *Bencao Gangmu* (本草纲目), 草之三, records the tree under 牡丹 with the root bark (根皮) as its materia-medica part.
 
-**Why is it called 牡丹皮?** The *Bencao Gangmu* records the root as "肉白皮丹" — white flesh, red bark. The red (丹) bark of the 牡丹 gives 牡丹皮 its name. Classical texts also note that the red single-petaled mountain flower's root bark was preferred for medicine.
+**Why is it called tree peony bark (牡丹皮)?** The *Bencao Gangmu* records the root as "肉白皮丹" — white flesh, red bark. The red (丹) bark of the 牡丹 gives 牡丹皮 its name. Classical texts also note that the red single-petaled mountain flower's root bark was preferred for medicine.
 
 **What does tree peony bark smell like?** Quiet, rooty, earthy, and woody, with a faint, dry floral undertone — the muted aroma of a dried root bark. It is far less fragrant than the tree peony flower and reads as a subtle earthy-woody accent in a blend.
 
