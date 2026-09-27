@@ -87,7 +87,7 @@ Benzoin is collected by making incisions in the bark of *Styrax* trees; the tree
 > **Direct answer:** Benzoin is a staple sweet base and fixative across traditions — church incense, Chinese 合香, Japanese and Indian stick incense, and Arabic bakhoor. Its Chinese name records its import origin ("fragrance of Parthia").
 
 - **Church incense:** benzoin is a staple of Christian incense (Eastern Orthodox, Catholic), often blended with frankincense and myrrh.
-- **Chinese incense (安息香):** benzoin appears as a sweet base in 合香 (blended incense), adding warmth and roundness.
+- **Chinese incense (安息香):** benzoin appears as a sweet base in blended incense (合香), adding warmth and roundness.
 - **Japanese and Indian incense** also use benzoin as a sweetener/fixative.
 - **Bakhoor:** the Arabic tradition of prepared wood chips sometimes includes benzoin in the fragrance blend.
 
@@ -196,7 +196,7 @@ See also: [frankincense](/ingredients/frankincense/) and [myrrh](/ingredients/my
 **Source:** [Styrax in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017762) · [Styrax on GBIF](https://www.gbif.org/species/5371676). **Evidence type:** Established.
 
 ### Traditional Chinese use
-**Source:** this page records 安息香 as a sweet base in 合香 (blended incense), with the name glossed as "the fragrance of Parthia (安息)." **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
+**Source:** this page records 安息香 as a sweet base in blended incense (合香), with the name glossed as "the fragrance of Parthia (安息)." **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
 ### Commercial grading
 **Source:** the Siam (*Styrax tonkinensis*) vs Sumatra (*S. benzoin* / *S. paralleloneurus*) distinction and their benzoic/cinnamic acid profiles. **Evidence type:** Trade terminology.
