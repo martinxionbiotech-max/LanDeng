@@ -174,7 +174,7 @@ Gardenia (栀子花) is the fragrant white flower of *Gardenia jasminoides*, an 
 
 ## FAQ
 
-**What is the difference between 栀子花 and 栀子?** They come from the same plant, *Gardenia jasminoides*, but are different materials. 栀子花 (zhīzihuā) is the fragrant white flower, used for its scent in floral incense and tea scenting. 栀子 (zhīzi) is the fruit, used as a yellow dye and in traditional materia medica. A label saying 栀子 usually means the fruit; 栀子花 means the flower.
+**What is the difference between gardenia flower (栀子花) and gardenia (栀子)?** They come from the same plant, *Gardenia jasminoides*, but are different materials. 栀子花 (zhīzihuā) is the fragrant white flower, used for its scent in floral incense and tea scenting. 栀子 (zhīzi) is the fruit, used as a yellow dye and in traditional materia medica. A label saying 栀子 usually means the fruit; 栀子花 means the flower.
 
 **What does gardenia smell like?** Rich, sweet, creamy, and heady — a white-floral in the family of jasmine and tuberose, but heavier and more indolic. It is an intensely floral note, strongest in the fresh flower. The dried flower is far subtler, which is why gardenia in incense is usually a delicate accent or a theme rather than a dominant burned material.
 
