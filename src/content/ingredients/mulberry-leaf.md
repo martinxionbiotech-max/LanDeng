@@ -55,9 +55,9 @@ The part-precision matters: 桑叶 is the leaf, not the fruit, and not the root 
 
 > **Direct answer:** Mulberry leaf belongs to a distinct Chinese aromatic register — "茶香" (tea-fragrance) — the mild, green, leaf-like scent of brewed tea, distinct from woods, resins, and florals. This register is a real category in Chinese fragrance, and mulberry leaf sits in it alongside other quiet, leafy materials.
 
-桑叶's scent belongs to a register worth naming explicitly: **茶香 (tea-fragrance)**, the mild, green, leaf-like character of brewed tea. This is a distinct aromatic register in Chinese practice, separate from the woods, resins, and florals that dominate the 香材 canon:
+桑叶's scent belongs to a register worth naming explicitly: **tea-fragrance (茶香)**, the mild, green, leaf-like character of brewed tea. This is a distinct aromatic register in Chinese practice, separate from the woods, resins, and florals that dominate the 香材 canon:
 
-- **茶香 (tea-fragrance)** — the soft, green, slightly sweet note of brewed leaf; mulberry leaf, and materials like tea leaves and other leafy greens, sit here.
+- **tea-fragrance (茶香)** — the soft, green, slightly sweet note of brewed leaf; mulberry leaf, and materials like tea leaves and other leafy greens, sit here.
 - **Not a wood, resin, or floral** — the register is deliberately quiet and leafy, used as a subtle accent rather than a dominant note.
 
 Understanding mulberry leaf means understanding that its value is as a **tea-fragrance accent** — a mild, green, food-adjacent note — not as a strong aromatic. See [bamboo leaves (竹叶)](/ingredients/bamboo-leaves/) for another leafy material in a similar register.
@@ -160,19 +160,19 @@ In our view, the useful takeaway is procedural: **understand the tea-fragrance r
 
 ## Summary
 
-Mulberry leaf (桑叶) is the leaf of the white mulberry, *Morus alba*, a Moraceae shrub or small tree originally endemic to central and northern China and now cultivated throughout China as the food plant of the silkworm. Its mild, green, tea-like scent belongs to the 茶香 (tea-fragrance) register, and it enters Chinese tradition as a fragrant tea and a materia-medica leaf rather than a lead incense material. It is one of several parts of the mulberry tree — leaf, fruit (桑葚), and root bark — that must be distinguished, and its value is a quiet green accent, not intensity. Medicinal uses are traditional language, not clinical evidence.
+Mulberry leaf (桑叶) is the leaf of the white mulberry, *Morus alba*, a Moraceae shrub or small tree originally endemic to central and northern China and now cultivated throughout China as the food plant of the silkworm. Its mild, green, tea-like scent belongs to the tea-fragrance (茶香) register, and it enters Chinese tradition as a fragrant tea and a materia-medica leaf rather than a lead incense material. It is one of several parts of the mulberry tree — leaf, fruit (桑葚), and root bark — that must be distinguished, and its value is a quiet green accent, not intensity. Medicinal uses are traditional language, not clinical evidence.
 
 ## FAQ
 
-**What is 桑叶 (mulberry leaf)?** The leaf of the white mulberry, *Morus alba* (Moraceae), a tree cultivated across China for its silkworm-feeding leaves. It has a mild, green, tea-like, slightly sweet scent and is used chiefly as a fragrant tea and a materia-medica leaf.
+**What is mulberry leaf (桑叶)?** The leaf of the white mulberry, *Morus alba* (Moraceae), a tree cultivated across China for its silkworm-feeding leaves. It has a mild, green, tea-like, slightly sweet scent and is used chiefly as a fragrant tea and a materia-medica leaf.
 
-**What tree does 桑叶 come from?** The white mulberry (桑, *Morus alba*), the food plant of the silkworm, native to China. The *Bencao Gangmu* (本草纲目) records the tree under 桑 in its tree section (木之三), with the leaf (桑叶) among its parts alongside the fruit (桑葚) and root bark.
+**What tree does mulberry leaf (桑叶) come from?** The white mulberry (桑, *Morus alba*), the food plant of the silkworm, native to China. The *Bencao Gangmu* (本草纲目) records the tree under 桑 in its tree section (木之三), with the leaf (桑叶) among its parts alongside the fruit (桑葚) and root bark.
 
-**What does 桑叶 smell like?** Mild, clean, green, and tea-like, with a faint sweetness — the gentle aroma of brewed mulberry-leaf tea. It is a quiet, leafy-green note, closer to green tea than to a strong aromatic, best used as a subtle accent.
+**What does mulberry leaf (桑叶) smell like?** Mild, clean, green, and tea-like, with a faint sweetness — the gentle aroma of brewed mulberry-leaf tea. It is a quiet, leafy-green note, closer to green tea than to a strong aromatic, best used as a subtle accent.
 
 **Is mulberry leaf an incense ingredient?** Not a lead one. Its traditional role is in tea (桑叶茶) and materia medica, in the "tea-fragrance" context, and it can lend a quiet green accent to a sachet or blend, but it does not carry the intensity of the resins and woods.
 
-**Is 桑叶 the same as 桑葚 (mulberry fruit)?** No — different parts of the same tree. 桑叶 is the leaf; 桑葚 is the fruit. The *Bencao Gangmu* (本草纲目) records both under the tree 桑, but they are distinct parts with distinct uses, alongside the root bark (桑白皮).
+**Is mulberry leaf (桑叶) the same as mulberry fruit (桑葚)?** No — different parts of the same tree. 桑叶 is the leaf; 桑葚 is the fruit. The *Bencao Gangmu* (本草纲目) records both under the tree 桑, but they are distinct parts with distinct uses, alongside the root bark (桑白皮).
 
 **Why is the mulberry culturally important in China?** Because it is the food plant of the silkworm, the foundation of China's sericulture industry for thousands of years. Flora of China records that the leaves feed silkworms, the bark fiber is used for textiles and paper, and the bark is also used for medicine — making the mulberry one of the most economically central trees in Chinese history.
 
