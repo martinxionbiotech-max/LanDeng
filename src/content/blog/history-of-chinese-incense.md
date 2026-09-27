@@ -16,7 +16,7 @@ author: "Landeng Tech Team"
 
 <img src="/images/incense-history-timeline-artifacts-1600x675.webp" alt="Wide banner of incense artifacts across eras on a dark museum shelf" width="1600" height="675" loading="lazy">
 
-**Key facts:** The first clear written mark is the character 香 on Shang oracle bones. Incense shifted from ritual offering to aesthetic enjoyment around the Han dynasty with the 博山炉 (Boshan censer). The Song dynasty is the cultural peak — the era of 四般闲事, 隔火焚香, and the great 香谱 manuals.
+**Key facts:** The first clear written mark is the character 香 on Shang oracle bones. Incense shifted from ritual offering to aesthetic enjoyment around the Han dynasty with the Boshan censer (博山炉). The Song dynasty is the cultural peak — the era of 四般闲事, 隔火焚香, and the great 香谱 manuals.
 
 ---
 
@@ -37,9 +37,9 @@ author: "Landeng Tech Team"
 | Shang | 1600–1046 BCE | 香 appears on oracle bones; aromatic plants burned as offerings |
 | Han | 206 BCE–220 CE | 博山炉 Boshan censer — incense moves from ritual to aesthetics |
 | Wei–Jin & Northern/Southern | 220–589 | Buddhism + Silk Road/maritime trade import agarwood, sandalwood, borneol, frankincense, myrrh, clove |
-| Sui–Tang | 581–907 | First golden age; court luxury; 合香 (blended incense) matures |
+| Sui–Tang | 581–907 | First golden age; court luxury; blended incense (合香) matures |
 | **Song** | **960–1279** | **Peak**: 四般闲事, 隔火焚香, 篆香, 香谱 manuals |
-| Ming | 1368–1644 | Codification; 宣德炉 censers; 线香 (stick incense) perfected |
+| Ming | 1368–1644 | Codification; 宣德炉 censers; stick incense (线香) perfected |
 | Qing → 20th c. | 1644–1912 → | Decline: sumptuary laws, Western perfume, Cultural Revolution ("four olds") |
 | 2000s– | — | Modern revival: studios, museums, and DTC brands |
 
@@ -57,17 +57,17 @@ The Han dynasty marks the pivot. The **博山炉 (Bóshān lú, "Boshan censer")
 
 The Song dynasty (960–1279) is the single most important era for understanding Chinese incense. Three things crystallized:
 
-1. **四般闲事 (the Four Leisure Arts).** Wu Zimu's 梦粱录 lists 烧香 (incense) alongside 点茶 (tea), 挂画 (hanging scrolls), and 插花 (flower arranging) as the four refined pastimes — "不宜累家" ("not to be treated as chores").
-2. **隔火焚香 (indirect-fire incense).** Instead of burning material directly, practitioners buried hot charcoal in ash, placed a thin mica or silver plate above, and rested the fragrant wood on top — releasing pure aroma with little smoke. This technique is the recognized ancestor of Japanese kōdō.
-3. **香谱 (incense manuals).** Works like 陈氏香谱 (Chen's Incense Manual), 洪芻香谱, and the encyclopedic 香乘 by Zhou Jiazhou codified formulas and lore — the world's most complete ancient incense literature, still largely untranslated.
+1. **四般闲事 (the Four Leisure Arts).** Wu Zimu's 梦粱录 lists incense (烧香) alongside tea (点茶), hanging scrolls (挂画), and flower arranging (插花) as the four refined pastimes — "不宜累家" ("not to be treated as chores").
+2. **indirect-fire incense (隔火焚香).** Instead of burning material directly, practitioners buried hot charcoal in ash, placed a thin mica or silver plate above, and rested the fragrant wood on top — releasing pure aroma with little smoke. This technique is the recognized ancestor of Japanese kōdō.
+3. **incense manuals (香谱).** Works like 陈氏香谱 (Chen's Incense Manual), 洪芻香谱, and the encyclopedic 香乘 by Zhou Jiazhou codified formulas and lore — the world's most complete ancient incense literature, still largely untranslated.
 
-The Song also developed 篆香 (seal incense): powder pressed into a patterned stamp that burned along a timed path, doubling as a timekeeping device.
+The Song also developed seal incense (篆香): powder pressed into a patterned stamp that burned along a timed path, doubling as a timekeeping device.
 
 ---
 
 ## Ming and Qing: Codification, Then Decline
 
-The **Ming dynasty** perfected the everyday stick (线香) and produced the renowned 宣德炉 (Xuande-period) censers — a high point for incense vessels.
+The **Ming dynasty** perfected the everyday stick (线香) and produced the renowned Xuande-period (宣德炉) censers — a high point for incense vessels.
 
 From the **Qing dynasty** onward, the tradition gradually contracted: sumptuary restrictions, the rise of Western perfume, and — in the 20th century — the Cultural Revolution's targeting of "four olds" (old customs) pushed classical incense practice to near-extinction. For much of the 20th century it survived mainly in temples and marginal studios.
 
