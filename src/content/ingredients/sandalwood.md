@@ -40,7 +40,7 @@ Sandalwood's scent is warm, creamy, and sweet with a soft woody base. The best m
 
 ## Chinese name and terminology
 
-> **Direct answer:** 檀香 (tánxiāng) means "sandalwood fragrance." Two naming traps recur: 紫檀 (red sandalwood) is a different plant, *Pterocarpus santalinus*; and 白檀 / 印度檀香 usually specify *Santalum album* among the *Santalum* species.
+> **Direct answer:** 檀香 (tánxiāng) means "sandalwood fragrance." Two naming traps recur: red sandalwood (紫檀) is a different plant, *Pterocarpus santalinus*; and 白檀 / 印度檀香 usually specify *Santalum album* among the *Santalum* species.
 
 The Chinese name 檀香 (tánxiāng) means "sandalwood fragrance." Two naming traps recur in trade:
 
