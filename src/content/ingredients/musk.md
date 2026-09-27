@@ -55,7 +55,7 @@ For a buyer, the terminology point is practical: **"musk" on a label is a scent 
 
 ## In Chinese tradition
 
-- **Court 合香 (blended incense):** 麝香 is the defining precious animal accent of court and temple blends, listed in the 香乘 (Xiang Cheng) across many formulas — most famously in 花蕊夫人衙香, where it is dosed at 一钱 (one qián) as the fixative accent over an agarwood–sandalwood core. See the [Huarui Furen court incense recipe](/blog/huarui-furen-yamen-recipe/).
+- **Court blended incense (合香):** 麝香 is the defining precious animal accent of court and temple blends, listed in the 香乘 (Xiang Cheng) across many formulas — most famously in 花蕊夫人衙香, where it is dosed at 一钱 (one qián) as the fixative accent over an agarwood–sandalwood core. See the [Huarui Furen court incense recipe](/blog/huarui-furen-yamen-recipe/).
 - **Perfume and personal scent (Historical Record):** classical texts describe musk as a personal and clothes scent, valued for its lasting power.
 - **Materia medica (Traditional Use):** 麝香 appears in traditional Chinese medicine with various described uses. This is **traditional materia-medica language, not modern clinical evidence.**
 
@@ -75,9 +75,9 @@ The documented, non-medical facts are the animal source, the conservation status
 
 Musk sits in a small family of classical animal fixatives, and the family itself is worth understanding — the "animal三兄弟" of traditional perfumery and incense:
 
-- **麝香 (musk)** — *Moschus* deer pod secretion; warm, sweet, skin-like, the most precious and the most restricted. This entry.
-- **灵猫香 (civet)** — *Viverra* civet perineal gland secretion; sharper, more fecal-animalic, rounded by extreme dilution. See [civet](/ingredients/civet/).
-- **海狸香 (castoreum)** — *Castor* beaver castor sac secretion; leathery, smoky, birch-tar-like. See [castoreum](/ingredients/castoreum/).
+- **musk (麝香)** — *Moschus* deer pod secretion; warm, sweet, skin-like, the most precious and the most restricted. This entry.
+- **civet (灵猫香)** — *Viverra* civet perineal gland secretion; sharper, more fecal-animalic, rounded by extreme dilution. See [civet](/ingredients/civet/).
+- **castoreum (海狸香)** — *Castor* beaver castor sac secretion; leathery, smoky, birch-tar-like. See [castoreum](/ingredients/castoreum/).
 
 The three share an animalic fixative register — warm, tenacious, "rounded" — but are different animals, different secretions, and different characters. Musk is the sweetest and most skin-like; civet is the sharpest and most fecal; castoreum is the smokiest and most leathery. In the classical canon, musk was the Chinese court's animal accent of choice, while civet and castoreum are more prominent in other perfumery traditions — a reminder that "animal fixative" is a family, not a single material.
 
@@ -161,7 +161,7 @@ Musk (麝香) is the dried pod secretion of the male musk deer (*Moschus*), the 
 
 **What does musk smell like?** Animalic and musky at its base, with a sweet, warm, skin-like, slightly leathery character that develops and rounds with age — and with dilution. Its role is that of a fixative: it anchors and extends a blend from below rather than leading with a bright note. This is why classical formulas use it in tiny quantities (often a single 钱, a tenth of a 两) as the precious accent that "fixes" the whole composition.
 
-**Why does musk appear in tiny amounts in classical recipes?** Because it is a fixative and a costly accent, not a body material. In the 花蕊夫人衙香 (Huarui Furen's court incense), for example, musk is dosed at 一钱 (one qián) against several 两 of agarwood and sandalwood. A little musk goes a long way: it adds warmth and longevity, and its price and rarity meant it was always used sparingly. See the [Huarui Furen court incense recipe](/blog/huarui-furen-yamen-recipe/).
+**Why does musk appear in tiny amounts in classical recipes?** Because it is a fixative and a costly accent, not a body material. In the Huarui Furen's court incense (花蕊夫人衙香), for example, musk is dosed at 一钱 (one qián) against several 两 of agarwood and sandalwood. A little musk goes a long way: it adds warmth and longevity, and its price and rarity meant it was always used sparingly. See the [Huarui Furen court incense recipe](/blog/huarui-furen-yamen-recipe/).
 
 **How is musk different from civet and castoreum?** All three are animal fixatives, but different animals and different characters. Musk (*Moschus* deer) is the sweetest and most skin-like; civet (灵猫香, *Viverra*) is sharper and more fecal-animalic; castoreum (海狸香, *Castor* beaver) is smokier and more leathery. Musk was the Chinese court's animal accent of choice, while civet and castoreum are more prominent in other perfumery traditions. See [civet](/ingredients/civet/) and [castoreum](/ingredients/castoreum/).
 
