@@ -50,7 +50,7 @@ The name 甘草 (gāncǎo) is plain and descriptive: 甘 "sweet" + 草 "herb" �
 
 > **Direct answer:** 甘草 enters classical incense not for its own fragrance but for what it does to a formula — it sweetens and harmonizes. The Ming-dynasty *Xiangcheng* (香乘) treats it as a routine preparation ingredient, added in small measured amounts (a few *qian* against *liang* of principal aromatics), confirming its role as a minor sweetening addition, not a principal scent.
 
-甘草 enters classical incense not for its own fragrance but for what it does to a formula. The Ming-dynasty *Xiangcheng* (香乘) treats 甘草 as one of the routine preparation ingredients alongside 藿香 (agastache) and 零陵香 — its sections on material preparation instruct that ingredients "such as 藿香, 甘草, 零陵香" (凡藿香甘草零陵之類) be picked clean of stems and weeds, sun-dried, and crumbled before use. Formulas in the same text list 甘草末 (powdered licorice) in small measured amounts — often a few *qian* against *liang* of the principal aromatics — confirming its role as a minor sweetening addition, not a principal scent.
+甘草 enters classical incense not for its own fragrance but for what it does to a formula. The Ming-dynasty *Xiangcheng* (香乘) treats 甘草 as one of the routine preparation ingredients alongside agastache (藿香) and 零陵香 — its sections on material preparation instruct that ingredients "such as 藿香, 甘草, 零陵香" (凡藿香甘草零陵之類) be picked clean of stems and weeds, sun-dried, and crumbled before use. Formulas in the same text list powdered licorice (甘草末) in small measured amounts — often a few *qian* against *liang* of the principal aromatics — confirming its role as a minor sweetening addition, not a principal scent.
 
 This is a documented structural role: licorice is a *harmonizer*, dosed like a seasoning rather than a substance. The pattern is worth internalizing for buyers — a material listed in small amounts against large amounts of the principal aromatics is a supporting ingredient by definition.
 
@@ -148,7 +148,7 @@ Licorice (甘草, "sweet herb") is the dried root of *Glycyrrhiza uralensis* (Fa
 
 ## FAQ
 
-**What is 甘草 (licorice)?** The dried root and rhizome of *Glycyrrhiza uralensis*, a leguminous perennial of the pea family (Fabaceae) native to northern China, Mongolia, and Siberia. It is a deeply sweet root whose glycyrrhizin is many times sweeter than sugar, used in Chinese incense as a sweetening, harmonizing binder in 合香 formulas rather than as a dominant scent.
+**What is licorice (甘草)?** The dried root and rhizome of *Glycyrrhiza uralensis*, a leguminous perennial of the pea family (Fabaceae) native to northern China, Mongolia, and Siberia. It is a deeply sweet root whose glycyrrhizin is many times sweeter than sugar, used in Chinese incense as a sweetening, harmonizing binder in 合香 formulas rather than as a dominant scent.
 
 **Is licorice burned alone as incense?** No. 甘草 is not a solo incense material; its role is to sweeten and harmonize. In the Ming-dynasty *Xiangcheng* (香乘) it appears in small measured amounts — often a few *qian* against *liang* of the principal aromatics — rounding and softening sharper notes rather than leading the fragrance.
 
