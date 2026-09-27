@@ -12,7 +12,7 @@ author: "Landeng Tech Team"
 ---
 
 
-**Key takeaway:** 寿阳公主梅花香 is a classical plum-blossom 合香 attributed to **寿阳公主 (Princess Shouyang)** of the Southern Dynasties — a legendary figure tied to the "梅花妆" (plum-blossom makeup) story. The recipe builds a **plum note from sandalwood, herbal tones, and 白梅 (white plum)**, not from the flower's scent alone.
+**Key takeaway:** 寿阳公主梅花香 is a classical plum-blossom 合香 attributed to **寿阳公主 (Princess Shouyang)** of the Southern Dynasties — a legendary figure tied to the "梅花妆" (plum-blossom makeup) story. The recipe builds a **plum note from sandalwood, herbal tones, and white plum (白梅)**, not from the flower's scent alone.
 
 <img src="/images/recipe-shouyang-plum-blossom-800x533.webp" alt="Plum blossom petals with small dishes of pale aromatic powders" width="800" height="533" loading="lazy">
 
@@ -39,15 +39,15 @@ The recorded proportions (香乘, 卷十八):
 
 | Ingredient | Quantity |
 |---|---|
-| 甘松 (spikenard) | 半两 (0.5 liǎng) |
-| 白芷 (angelica) | 半两 (0.5 liǎng) |
-| 牡丹皮 (peony bark) | 半两 (0.5 liǎng) |
-| 藁本 (lovage) | 半两 (0.5 liǎng) |
-| 茴香 (fennel) | 一两 (1 liǎng) |
-| 丁皮 (clove bark) | 一两 (1 liǎng) |
-| 檀香 (sandalwood) | 一两 (1 liǎng, 不见火 not fired) |
-| 降真香 (rosewood/lakawood) | 二钱 (2 qián) |
-| 白梅 (white plum) | 一百枚 (100 pieces) |
+| spikenard (甘松) | 半两 (0.5 liǎng) |
+| angelica (白芷) | 半两 (0.5 liǎng) |
+| peony bark (牡丹皮) | 半两 (0.5 liǎng) |
+| lovage (藁本) | 半两 (0.5 liǎng) |
+| fennel (茴香) | 一两 (1 liǎng) |
+| clove bark (丁皮) | 一两 (1 liǎng) |
+| sandalwood (檀香) | 一两 (1 liǎng, 不见火 not fired) |
+| rosewood/lakawood (降真香) | 二钱 (2 qián) |
+| white plum (白梅) | 一百枚 (100 pieces) |
 
 The ratio reads clearly: the four herbal top-and-middle ingredients run at half a 两 each, the spice-and-wood backbone at a full 两 each, the accent resin at two 钱, and the plum counted in pieces rather than weight.
 
@@ -91,8 +91,8 @@ See [Chinese Incense Recipes (香方): Translated from the Classical Manuals](/b
 
 ## FAQ
 
-### Q: What is 寿阳公主梅花香?
-A classical plum-blossom compound incense attributed, legendarily, to 寿阳公主 (Princess Shouyang) of the Southern Dynasties. The recipe builds its plum character as an accord rather than from plum flowers: sandalwood forms the warm woody body, spikenard, angelica, and lovage supply herbal middle tones, and 白梅 (white plum) with peony bark gives the tart-sweet plum signature. The 香乘 records the formula with proportions, and it exists alongside several other 梅花香 versions. The princess attribution is a romantic legend tied to the plum-blossom makeup story, not documented authorship.
+### Q: What is Princess Shouyang's plum incense (寿阳公主梅花香)?
+A classical plum-blossom compound incense attributed, legendarily, to 寿阳公主 (Princess Shouyang) of the Southern Dynasties. The recipe builds its plum character as an accord rather than from plum flowers: sandalwood forms the warm woody body, spikenard, angelica, and lovage supply herbal middle tones, and white plum (白梅) with peony bark gives the tart-sweet plum signature. The 香乘 records the formula with proportions, and it exists alongside several other 梅花香 versions. The princess attribution is a romantic legend tied to the plum-blossom makeup story, not documented authorship.
 
 ### Q: Does it use real plum flowers?
 Not as the source of the scent. The "plum" character is constructed — an accord of 白梅 (dried or pickled white plum) over warm wood and herbal tones. Plum flowers themselves are too delicate to carry a scent through burning, so the recipe reaches for the tart-sweet fruit note instead. This is the same compositional logic as a perfumer building a floral impression from materials that are not the flower. The result is recognizable as "plum" because the accord is engineered that way, which is why the page's central lesson is that a floral scent in this tradition is built, not picked.
