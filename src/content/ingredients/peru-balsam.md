@@ -30,7 +30,7 @@ related: ["benzoin", "styrax-resin", "vanilla"]
 
 > **Direct answer:** Peru balsam is deeply sweet and warm, with a rich vanilla-cinnamon balsamic character and a soft, resinous depth. It functions as a Western perfumery base note and fixative, prized for anchoring sweeter compositions and lending a gourmand, almost caramel warmth — a register classical Chinese incense rarely pursued.
 
-Peru balsam is deeply sweet and warm, with a rich vanilla-cinnamon balsamic character and a soft, resinous depth. It is a classic Western perfumery base note and fixative, prized for anchoring sweeter compositions and lending a gourmand, almost caramel warmth. This Western profile — not any Chinese classical record — is what brings 秘鲁香脂 into modern Chinese fragrance, where it overlaps with resins like 安息香 (benzoin).
+Peru balsam is deeply sweet and warm, with a rich vanilla-cinnamon balsamic character and a soft, resinous depth. It is a classic Western perfumery base note and fixative, prized for anchoring sweeter compositions and lending a gourmand, almost caramel warmth. This Western profile — not any Chinese classical record — is what brings 秘鲁香脂 into modern Chinese fragrance, where it overlaps with resins like benzoin (安息香).
 
 The defining trait is its **sweetness profile**: where classical Chinese resins such as frankincense (乳香) and benzoin (安息香) read as dry, resinous, or faintly sweet, Peru balsam leans into an almost edible vanilla-cinnamon warmth. That is a distinctly Western perfumery value — the "gourmand" sweet register — and it explains why the material appears in Chinese fragrance only as a modern import rather than as a 香材 with a history.
 
@@ -56,15 +56,15 @@ Two points of botanical precision matter for buyers. First, the modern name *Myr
 
 ## Chinese name and terminology
 
-> **Direct answer:** The name 秘鲁香脂 is a modern, literal geographic label — "Peru balsam" — not a classical term. It belongs to the modern Chinese vocabulary for imported perfumery resins, a different naming layer from the classical 香材 terms like 安息香 (benzoin) and 苏合香 (storax).
+> **Direct answer:** The name 秘鲁香脂 is a modern, literal geographic label — "Peru balsam" — not a classical term. It belongs to the modern Chinese vocabulary for imported perfumery resins, a different naming layer from the classical 香材 terms like benzoin (安息香) and storax (苏合香).
 
-The name 秘鲁香脂 (bìlǔ xiāngzhī) is transparent and modern: 秘鲁 "Peru" + 香脂 "fragrant resin / balsam." It is a trade-and-translation coinage of the modern era, not a classical term. This matters for disambiguation because Chinese has a separate, genuinely classical vocabulary for balsamic resins — 安息香 (benzoin), 苏合香 (storax), 乳香 (frankincense) — and 秘鲁香脂 sits *outside* that canon as an imported modern label. A buyer who hears "香脂" should not assume a classical 香材; the specific name must be pinned to the specific tree.
+The name 秘鲁香脂 (bìlǔ xiāngzhī) is transparent and modern: 秘鲁 "Peru" + 香脂 "fragrant resin / balsam." It is a trade-and-translation coinage of the modern era, not a classical term. This matters for disambiguation because Chinese has a separate, genuinely classical vocabulary for balsamic resins — benzoin (安息香), storax (苏合香), frankincense (乳香) — and 秘鲁香脂 sits *outside* that canon as an imported modern label. A buyer who hears "香脂" should not assume a classical 香材; the specific name must be pinned to the specific tree.
 
 ## Why is it used in fragrance?
 
 > **Direct answer:** Peru balsam is used in perfumery as a sweet base note and fixative — it anchors and warms a composition from below while adding a vanilla-cinnamon sweetness. It is not a classical Chinese incense material, so its role in Chinese fragrance is entirely modern, as a crossover sweet resin alongside benzoin and storax.
 
-Peru balsam's job is the fixative's job with a sweet signature: it anchors and extends a fragrance from below, while its vanilla-cinnamon warmth rounds the blend. In modern Chinese perfumery it appears as a sweet, balsamic resin alongside 安息香 (benzoin) and 苏合香 (storax), where the three overlap in warm, sweet, vanilla-balsamic character but differ in botanical source and precise scent. Its absence from the classical 香材 canon is the key point: in the historical Chinese system, sweet-anchoring was served by benzoin and storax; Peru balsam is the modern-era addition that brought a fuller "gourmand" sweetness.
+Peru balsam's job is the fixative's job with a sweet signature: it anchors and extends a fragrance from below, while its vanilla-cinnamon warmth rounds the blend. In modern Chinese perfumery it appears as a sweet, balsamic resin alongside benzoin (安息香) and storax (苏合香), where the three overlap in warm, sweet, vanilla-balsamic character but differ in botanical source and precise scent. Its absence from the classical 香材 canon is the key point: in the historical Chinese system, sweet-anchoring was served by benzoin and storax; Peru balsam is the modern-era addition that brought a fuller "gourmand" sweetness.
 
 ## How is it processed?
 
@@ -137,9 +137,9 @@ Peru balsam (秘鲁香脂) is the sweet, vanilla-cinnamon oleoresin of *Myroxylo
 
 ## FAQ
 
-**What is 秘鲁香脂 (Peru balsam)?** An aromatic resin from the tree *Myroxylon balsamum*, a legume (Fabaceae) native to Central America. It is sweet, vanilla-like, and balsamic, and it is used in Western perfumery as a base note and fixative. Its name is a trade label, not a Chinese classical term.
+**What is Peru balsam (秘鲁香脂)?** An aromatic resin from the tree *Myroxylon balsamum*, a legume (Fabaceae) native to Central America. It is sweet, vanilla-like, and balsamic, and it is used in Western perfumery as a base note and fixative. Its name is a trade label, not a Chinese classical term.
 
-**Is 秘鲁香脂 a classical Chinese incense ingredient?** No. The tree is native to Central America, and the resin entered Chinese use through modern perfumery. It does not appear in the 香乘 (Xiang Cheng) or the *Bencao Gangmu* (本草纲目), and the name 秘鲁香脂 is a geographic trade label. Its position is a modern crossover resin, and no classical origin is claimed.
+**Is Peru balsam (秘鲁香脂) a classical Chinese incense ingredient?** No. The tree is native to Central America, and the resin entered Chinese use through modern perfumery. It does not appear in the 香乘 (Xiang Cheng) or the *Bencao Gangmu* (本草纲目), and the name 秘鲁香脂 is a geographic trade label. Its position is a modern crossover resin, and no classical origin is claimed.
 
 **Why is it called "Peru" balsam if the tree is from Central America?** The name is a trade artifact, not a botanical origin. The resin was historically shipped through Peruvian ports, giving the material its commercial name "Peru balsam," even though the tree *Myroxylon balsamum* is native to Central America. The name stuck in trade and persists today.
 
