@@ -49,7 +49,7 @@ The *Bencao Gangmu* itself flags the 泽兰/兰草 (佩兰) confusion — "其�
 
 *Eupatorium japonicum* is a herbaceous perennial of the daisy family (Asteraceae), native to China, Japan, and Korea, where it grows in open and semi-shaded places. Flora of China records it as a **perennial herb 50–200 cm tall**, with short rhizomes, **erect, purplish-red stems**, and **opposite leaves — median stem leaves elliptic, narrowly elliptic, ovate-elliptic, or lanceolate, 6–20 × 2–6.5 cm** — with pinnate venation and yellow glandular dots. Flora of China gives the species the Chinese name **白头婆 (báitóupó)**. The part used is the aerial herb. See [Eupatorium japonicum in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023936).
 
-## The 泽兰 / 佩兰 distinction (read this)
+## The eupatorium-japonicum (泽兰) / eupatorium (佩兰) distinction (read this)
 
 > **Direct answer:** 泽兰 and 佩兰 are closely related but distinct species in the same genus *Eupatorium*: 泽兰 is *Eupatorium japonicum* (Flora of China name 白头婆), while 佩兰 is *Eupatorium fortunei*, the classical "worn-orchid" fragrant herb. Both are fresh, herbaceous Asteraceae aromatics, but they are distinct species that must be kept separate in sourcing.
 
@@ -76,7 +76,7 @@ Both are Asteraceae herbs with fresh, herbaceous scents; they differ as species 
 
 The materia-medica record is **traditional**, not established clinical fact, and we make **no medical claims**.
 
-## Why is 泽兰 catalogued here? (a framing note)
+## Why is eupatorium-japonicum (泽兰) catalogued here? (a framing note)
 
 > **Direct answer:** 泽兰 is catalogued here because it is a real aromatic herb with a documented, contested name — a worked example of how classical Chinese plant names do not map one-to-one onto modern species. Its value is not a strong aroma but a naming lesson: 泽兰 has named at least two different plants across history, and that ambiguity is itself the information.
 
@@ -128,7 +128,7 @@ For a sourcing buyer:
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## 泽兰 vs 佩兰 vs classical 泽兰
+## eupatorium-japonicum (泽兰) vs eupatorium (佩兰) vs classical eupatorium-japonicum (泽兰)
 
 > **Direct answer:** Three plants sit under the 泽兰 name: *Eupatorium japonicum* (this entry, Flora of China name 白头婆), *Eupatorium fortunei* (佩兰, a same-genus but distinct species), and the classical 泽兰 identified today as *Lycopus lucidus* (a mint-family herb). The name has covered at least two of them, and the scientific name is the only reliable key.
 
@@ -162,15 +162,15 @@ In our view, 泽兰's value is its **naming discipline** — a documented, conte
 
 **What is 泽兰 (zelan)?** This entry describes *Eupatorium japonicum*, a daisy-family (Asteraceae) aromatic herb native to East Asia — the same genus as 佩兰 (*Eupatorium fortunei*), a distinct species. Flora of China gives *E. japonicum* the Chinese name 白头婆, though it is also called 泽兰/山泽兰 in some usage.
 
-**Is 泽兰 the same as 佩兰?** No — same genus (*Eupatorium*), different species. 泽兰 here is *Eupatorium japonicum*; 佩兰 is *Eupatorium fortunei*, the classical "worn-orchid" fragrant herb. Both are fresh, herbaceous Asteraceae herbs, but they are distinct species.
+**Is eupatorium-japonicum (泽兰) the same as eupatorium (佩兰)?** No — same genus (*Eupatorium*), different species. 泽兰 here is *Eupatorium japonicum*; 佩兰 is *Eupatorium fortunei*, the classical "worn-orchid" fragrant herb. Both are fresh, herbaceous Asteraceae herbs, but they are distinct species.
 
-**Why is the name 泽兰 contested?** The *Bencao Gangmu* (本草纲目), 草之三, records a 泽兰 with "方莖紫節" (square stem, purple nodes) growing by water — which modern botanists identify as the mint-family *Lycopus lucidus* (地笋), not a *Eupatorium*. Meanwhile *Eupatorium japonicum* is also called 泽兰. The *Bencao Gangmu* itself notes the ancient 泽兰/兰草 (佩兰) confusion.
+**Why is the name eupatorium-japonicum (泽兰) contested?** The *Bencao Gangmu* (本草纲目), 草之三, records a 泽兰 with "方莖紫節" (square stem, purple nodes) growing by water — which modern botanists identify as the mint-family *Lycopus lucidus* (地笋), not a *Eupatorium*. Meanwhile *Eupatorium japonicum* is also called 泽兰. The *Bencao Gangmu* itself notes the ancient 泽兰/兰草 (佩兰) confusion.
 
-**What does 泽兰 smell like?** Fresh, herbaceous, and lightly aromatic, with a gentle sweetness — the clean "green" character of the *Eupatorium* herbs, close to 佩兰 but a touch less sweet. It works as a light, fresh accent rather than a dominant incense note.
+**What does eupatorium-japonicum (泽兰) smell like?** Fresh, herbaceous, and lightly aromatic, with a gentle sweetness — the clean "green" character of the *Eupatorium* herbs, close to 佩兰 but a touch less sweet. It works as a light, fresh accent rather than a dominant incense note.
 
-**How do I tell 泽兰 and 佩兰 apart when sourcing?** They are different species of *Eupatorium*, similar in scent but distinct plants. Specify the scientific name — *Eupatorium japonicum* for 泽兰, *Eupatorium fortunei* for 佩兰 — and be alert that "泽兰" in classical texts often means the mint-family *Lycopus lucidus* instead.
+**How do I tell eupatorium-japonicum (泽兰) and eupatorium (佩兰) apart when sourcing?** They are different species of *Eupatorium*, similar in scent but distinct plants. Specify the scientific name — *Eupatorium japonicum* for 泽兰, *Eupatorium fortunei* for 佩兰 — and be alert that "泽兰" in classical texts often means the mint-family *Lycopus lucidus* instead.
 
-**What does the *Bencao Gangmu* actually say about 泽兰?** It records a 泽兰 with "方莖紫節" (square stem, purple nodes) growing by water — a description modern botanists read as the mint-family *Lycopus lucidus*, not a *Eupatorium*. It also flags the 泽兰/兰草 (佩兰) confusion directly, showing that the name has been ambiguous since the classical period.
+**What does the *Bencao Gangmu* actually say about eupatorium-japonicum (泽兰)?** It records a 泽兰 with "方莖紫節" (square stem, purple nodes) growing by water — a description modern botanists read as the mint-family *Lycopus lucidus*, not a *Eupatorium*. It also flags the 泽兰/兰草 (佩兰) confusion directly, showing that the name has been ambiguous since the classical period.
 
 See also: [eupatorium (佩兰)](/ingredients/eupatorium/), [agastache-rugosa (藿香)](/ingredients/agastache-rugosa/), [mugwort (艾草)](/ingredients/mugwort/), and the full [scent guide](/blog/scent-guide/).
 
