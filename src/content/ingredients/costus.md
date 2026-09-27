@@ -50,7 +50,7 @@ The name 木香 ("wood fragrance") is applied to several aromatic roots in Chine
 
 A label saying only "木香" is underspecified — the classical incense root, the Sichuan root, and the aristolochia root are different materials.
 
-## 木香 vs 川木香 vs 青木香 (read this)
+## costus (木香) vs costus root (川木香) vs 青木香 (read this)
 
 > **Direct answer:** Three different roots share the "木香" name, and one carries a real safety risk. 木香 (*Saussurea costus*) is the classical incense root; 川木香 (*Vladimiria souliei*) is a different Sichuan root; 青木香 (*Aristolochia* spp.) contains aristolochic acids, a documented toxicity concern. Species identity is not a detail here — it is the buying decision.
 
@@ -165,7 +165,7 @@ Costus (木香) is the dried root of *Saussurea costus* (syn. *Dolomiaea costus*
 
 **What does costus smell like?** Earthy and woody at the base, with a musky, faintly animalic edge that deepens and lingers. It is a grounding, persistent note — closer in spirit to spikenard or orris root than to a flower or spice — and the aroma develops with gentle heat. This persistence is what made it a traditional fixative.
 
-**Is 木香 a single plant?** No — the name is used for several different aromatic roots. The classical incense and materia-medica 木香 is *Saussurea costus* (广木香 / 云木香). Other "muxiang" include 川木香 (*Vladimiria souliei*) and 青木香 (*Aristolochia* species), which are distinct plants — and 青木香 carries a specific safety concern (aristolochic acids). A label saying only 木香 does not identify the species.
+**Is costus (木香) a single plant?** No — the name is used for several different aromatic roots. The classical incense and materia-medica 木香 is *Saussurea costus* (广木香 / 云木香). Other "muxiang" include 川木香 (*Vladimiria souliei*) and 青木香 (*Aristolochia* species), which are distinct plants — and 青木香 carries a specific safety concern (aristolochic acids). A label saying only 木香 does not identify the species.
 
 **Is costus root endangered?** Yes, it is a conservation concern. *Saussurea costus* is a slow-growing Himalayan plant that has been over-harvested, and it is listed under CITES Appendix I, which heavily restricts international trade in wild-collected material. This drives cultivated material and substitutes into commerce, so species and legal origin should be confirmed when buying.
 
