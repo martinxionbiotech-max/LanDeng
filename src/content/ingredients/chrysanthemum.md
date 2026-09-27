@@ -67,7 +67,7 @@ Chrysanthemum is grown throughout China as a garden and crop plant. The wild *C.
 "菊花" covers many cultivated forms of *C. morifolium*, and the named varieties differ:
 
 - **杭白菊 (Hangzhou white)** — the classic pale "chrysanthemum tea" flower.
-- **贡菊 (tribute chrysanthemum)** — a tight, small flower from Huangshan, also drunk as tea.
+- **tribute chrysanthemum (贡菊)** — a tight, small flower from Huangshan, also drunk as tea.
 - **亳菊 / 滁菊** — medicinal-grade varieties named for their producing regions (Bozhou, Chuzhou).
 
 The aroma differences are subtle; the regional names mainly signal grade and intended use (tea vs materia medica) rather than a dramatic change in scent.
@@ -192,7 +192,7 @@ Chrysanthemum (菊花) is the dried flower of *Chrysanthemum morifolium* (with w
 
 **Is chrysanthemum incense safe?** Like all burning plant material, chrysanthemum produces smoke and particulate matter, so burn it in a well-ventilated space and avoid inhaling concentrated smoke. This is general safety guidance that applies to every incense material, not a claim about chrysanthemum specifically. Separately, people with ragweed-family (Asteraceae) allergies may wish to be cautious with chrysanthemum, though that concern is more relevant to drinking the tea than to burning the flower as incense.
 
-**What is the difference between 菊花 and 野菊?** 菊花 (júhuā) is the general name for the cultivated chrysanthemum, *Chrysanthemum morifolium*; 野菊 (yějú) is the wild chrysanthemum, *Chrysanthemum indicum*, the perennial wild herb from which the cultivated forms descend. The tea flower and the incense material are the cultivated 菊花; 野菊 names the wild relative. The two are related but distinct plants, and a label should specify which is meant.
+**What is the difference between chrysanthemum (菊花) and 野菊?** 菊花 (júhuā) is the general name for the cultivated chrysanthemum, *Chrysanthemum morifolium*; 野菊 (yějú) is the wild chrysanthemum, *Chrysanthemum indicum*, the perennial wild herb from which the cultivated forms descend. The tea flower and the incense material are the cultivated 菊花; 野菊 names the wild relative. The two are related but distinct plants, and a label should specify which is meant.
 
 See also: [mugwort](/ingredients/mugwort/), another herbal (non-sweet) Chinese incense material; [chamomile](/ingredients/chamomile/) for the Asteraceae distinction; [jasmine](/ingredients/jasmine/) and [rose](/ingredients/rose/) for the floral comparison;, [orchid](/ingredients/orchid/) and the full [scent guide](/blog/scent-guide/).
 
