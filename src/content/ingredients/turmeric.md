@@ -48,7 +48,7 @@ Turmeric is earthy and warm, with a dry, slightly bitter-spicy character and a f
 - **郁金** — *Curcuma aromatica*, a distinct rhizome, sometimes called "wild turmeric." See [aromatic-turmeric](/ingredients/aromatic-turmeric/).
 - **莪术** — *Curcuma phaeocaulis* / *Curcuma zedoaria*, another medicinal rhizome in the zedoary group. See [zedoary](/ingredients/zedoary/).
 
-## The 郁金 / 姜黄 / 莪术 confusion (read this)
+## The aromatic turmeric (郁金) / turmeric (姜黄) / zedoary (莪术) confusion (read this)
 
 > **Direct answer:** Three closely related *Curcuma* rhizomes — 姜黄 (*Curcuma longa*, turmeric), 郁金 (*Curcuma aromatica*), and 莪术 (*Curcuma phaeocaulis* / *C. zedoaria*) — share overlapping Chinese names and are routinely confused, even in some classical texts. This page describes 姜黄 = *Curcuma longa* = turmeric; the other two are separate materials.
 
@@ -150,9 +150,9 @@ Turmeric (姜黄) is the dried rhizome of *Curcuma longa*, a ginger-family peren
 
 ## FAQ
 
-**What is 姜黄 (turmeric)?** The dried rhizome of *Curcuma longa*, a perennial of the ginger family (Zingiberaceae) native to South and Southeast Asia and long cultivated in China. It is an earthy, warm, slightly bitter aromatic best known as the source of the yellow-orange pigment curcumin, and used in Chinese incense as an earthy spice accent.
+**What is turmeric (姜黄)?** The dried rhizome of *Curcuma longa*, a perennial of the ginger family (Zingiberaceae) native to South and Southeast Asia and long cultivated in China. It is an earthy, warm, slightly bitter aromatic best known as the source of the yellow-orange pigment curcumin, and used in Chinese incense as an earthy spice accent.
 
-**What is the difference between 姜黄, 郁金, and 莪术?** All three are distinct *Curcuma* rhizomes that are routinely confused. 姜黄 is *Curcuma longa* — "turmeric," the yellow-orange culinary and coloring rhizome. 郁金 is *Curcuma aromatica* — a distinct medicinal rhizome sometimes called "wild turmeric." 莪术 is *Curcuma phaeocaulis* / *Curcuma zedoaria* — another medicinal rhizome in the zedoary group. This page describes 姜黄 = *Curcuma longa*; the other two are separate materials.
+**What is the difference between turmeric (姜黄), aromatic turmeric (郁金), and zedoary (莪术)?** All three are distinct *Curcuma* rhizomes that are routinely confused. 姜黄 is *Curcuma longa* — "turmeric," the yellow-orange culinary and coloring rhizome. 郁金 is *Curcuma aromatica* — a distinct medicinal rhizome sometimes called "wild turmeric." 莪术 is *Curcuma phaeocaulis* / *Curcuma zedoaria* — another medicinal rhizome in the zedoary group. This page describes 姜黄 = *Curcuma longa*; the other two are separate materials.
 
 **What does turmeric smell like?** Earthy and warm, with a dry, slightly bitter-spicy character and a faint gingery undertone from the shared ginger family. It is more grounded and less sharply pungent than true ginger, and its defining trait is as much color as scent — the rhizome stains a deep yellow-orange from curcumin. In a blend it reads as an earthy base accent.
 
