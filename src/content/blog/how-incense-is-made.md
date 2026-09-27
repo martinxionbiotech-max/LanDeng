@@ -196,7 +196,7 @@ The end of the line is the product in your hand, and two things about it are wor
 - [Incense Authentication: How to Spot Fake Agarwood, Sandalwood, and Resin](/blog/incense-authentication-database/)
 - [Incense Ingredients Glossary: Wood, Resin, Flower, and Spice](/blog/incense-ingredients-glossary/)
 - [Makko & Natural Binders: The Wood Powder That Holds Incense Together](/blog/makko-natural-binders/)
-- [Buying 奇楠 (Qinan): What to Check Before You Pay](/blog/qinan-buying-authentication/)
+- [Buying Qinan (奇楠): What to Check Before You Pay](/blog/qinan-buying-authentication/)
 - [What Makes Incense "Natural"? Binders, Bases, and the Label Problem](/blog/what-makes-incense-natural/)
 
 ## FAQ
