@@ -164,11 +164,11 @@ Honeysuckle (金银花) is the flower of *Lonicera japonica*, a twining, semieve
 
 **What is 金银花 (jinyinhua)?** The flower of *Lonicera japonica*, the Japanese honeysuckle, a twining vine of the honeysuckle family (Caprifoliaceae) native to East Asia. Its paired white-to-yellow flowers are sweetly fragrant, and it is best known as a materia-medica flower. The vine itself is called 忍冬 (rěndōng); 金银花 is the flower material.
 
-**Is 金银花 the same as 忍冬?** They are the same species, *Lonicera japonica*. 忍冬 is the name of the vine, and 金银花 ("gold-silver flower," for its white-to-yellow colour shift) is the name of its flower. In incense and materia-medica contexts, 金银花 refers to the flower material.
+**Is honeysuckle flower (金银花) the same as honeysuckle vine (忍冬)?** They are the same species, *Lonicera japonica*. 忍冬 is the name of the vine, and 金银花 ("gold-silver flower," for its white-to-yellow colour shift) is the name of its flower. In incense and materia-medica contexts, 金银花 refers to the flower material.
 
 **What does honeysuckle smell like?** Sweet and honeyed with a green, slightly herbaceous edge — a light, airy floral like a honeysuckle hedge in bloom. It is fresher and less heady than jasmine, with a clean, dewy sweetness. In a blend it reads as a light sweet-floral top note that lifts rather than deepens.
 
-**Is 金银花 a classical incense ingredient?** No — it does not appear in the classical incense compendium 香乘. Its use in incense and fragrance is a modern crossover from its sweet aromatic and materia-medica profile. Its documented classical identity is as a materia-medica flower rather than a 香道 incense material.
+**Is honeysuckle flower (金银花) a classical incense ingredient?** No — it does not appear in the classical incense compendium 香乘. Its use in incense and fragrance is a modern crossover from its sweet aromatic and materia-medica profile. Its documented classical identity is as a materia-medica flower rather than a 香道 incense material.
 
 **What is honeysuckle used for besides incense?** It is a well-known flower in traditional Chinese medicine, where it is traditionally associated with clearing heat — traditional materia-medica language, not modern clinical evidence. It is also used in some scented teas and herbal drinks for its sweet fragrance. This encyclopedia makes no medical claims.
 
