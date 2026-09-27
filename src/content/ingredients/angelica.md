@@ -14,7 +14,7 @@ related: ["calamus", "mugwort"]
 
 <img src="/images/angelica-raw-material-800x533.webp" alt="Dried angelica root slices with a few whole root pieces." width="800" height="533" loading="lazy">
 
-**Technical answer:** Angelica — *báizhǐ* (白芷) in Chinese — is the dried root of *Angelica dahurica* (family Apiaceae), an aromatic herb with a distinctive herbal, slightly sweet-bitter scent. It is a classic ingredient in Chinese 合香 (blended incense) and in traditional materia medica.
+**Technical answer:** Angelica — *báizhǐ* (白芷) in Chinese — is the dried root of *Angelica dahurica* (family Apiaceae), an aromatic herb with a distinctive herbal, slightly sweet-bitter scent. It is a classic ingredient in Chinese blended incense (合香) and in traditional materia medica.
 
 ## Key facts
 
@@ -97,7 +97,7 @@ The distinction between slices and powder is functional, not a quality statement
 
 ## In Chinese tradition
 
-- **合香 (blended incense):** 白芷 is a classic supporting ingredient in Chinese incense formulas, contributing a warm, herbal body.
+- **blended incense (合香):** 白芷 is a classic supporting ingredient in Chinese incense formulas, contributing a warm, herbal body.
 - **Materia medica:** 白芷 appears in traditional Chinese medicine, where it is described for various uses.
 - **Cultural role:** it is one of many aromatic roots (alongside 菖蒲, 藿香, and others) that give classical 合香 its layered, herbal character.
 
@@ -109,11 +109,11 @@ Traditional Chinese medicine describes 白芷 with a range of therapeutic uses. 
 
 > **Direct answer:** 白芷 (*Angelica dahurica*) and 当归 (*Angelica sinensis*, dong quai) are the same genus, different species. 白芷 is the aromatic root of incense and blended fragrance; 当归 is the materia-medica "women's herb." The shared English name "angelica" hides the difference.
 
-| | 白芷 (Angelica) | 当归 (Dong quai) |
+| | Angelica (白芷) | Dong quai (当归) |
 |---|---|---|
 | Botanical source | *Angelica dahurica* | *Angelica sinensis* |
 | Chinese name | 白芷 (báizhǐ) | 当归 (dāngguī) |
-| Role | Aromatic root of 合香 (incense) | Materia medica "women's herb"; sachet (香囊) root |
+| Role | Aromatic root of incense (合香) | Materia medica "women's herb"; sachet (香囊) root |
 | Aroma | Warm, herbal, sweet-bitter, spicy | Warm, sweet, fuller, less sharp |
 
 The two are complements, not substitutes, in the Chinese tradition. See [angelica-sinensis](/ingredients/angelica-sinensis/) and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
@@ -122,7 +122,7 @@ The two are complements, not substitutes, in the Chinese tradition. See [angelic
 
 > **Direct answer:** The main risk is misidentification, not adulteration: "angelica" can mean 白芷, dong quai, or European angelica — three different species. The botanical name on the label resolves which is meant.
 
-Angelica is not a heavily faked, expensive aromatic in the agarwood sense; its risk is the **shared common name**. A buyer who wants the warm, herbal 白芷 for incense should not unknowingly receive 当归 (dong quai) or European angelica — related plants with different aromas and roles. The botanical name on the label resolves the matter. See the [incense substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general screening logic.
+Angelica is not a heavily faked, expensive aromatic in the agarwood sense; its risk is the **shared common name**. A buyer who wants the warm, herbal 白芷 for incense should not unknowingly receive dong quai (当归) or European angelica — related plants with different aromas and roles. The botanical name on the label resolves the matter. See the [incense substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general screening logic.
 
 ## Sustainability & sourcing
 
@@ -178,7 +178,7 @@ Angelica (白芷, *báizhǐ*) is the dried, strongly aromatic root of *Angelica 
 
 **Is angelica the same as dong quai?** No. 白芷 (*Angelica dahurica*) and 当归, known as dong quai (*Angelica sinensis*), are different species in the same genus. 白芷 is the aromatic root used in incense and blended fragrance, with a warm, herbal, slightly sweet-bitter scent, while 当归 is a materia medica herb with a different profile and role. The shared English word "angelica" hides the difference, and a third plant, European angelica (*Angelica archangelica*), is used in European liqueurs and perfumery. In an incense context, 白芷 is the relevant one.
 
-**What part of angelica is used?** The dried root of *Angelica dahurica* is the part used. The root is harvested, cleaned, dried, and then ground or sliced for use in incense and traditional practice. It is an aromatic root rather than a wood, resin, or flower, which gives it its earthy, herbal character. In Chinese 合香 (blended incense), the dried root is typically powdered and combined with other aromatics rather than burned as a whole piece.
+**What part of angelica is used?** The dried root of *Angelica dahurica* is the part used. The root is harvested, cleaned, dried, and then ground or sliced for use in incense and traditional practice. It is an aromatic root rather than a wood, resin, or flower, which gives it its earthy, herbal character. In Chinese blended incense (合香), the dried root is typically powdered and combined with other aromatics rather than burned as a whole piece.
 
 **What does angelica smell like?** Angelica root has a warm, herbal, aromatic scent with a slightly sweet-bitter edge and a subtle spicy undertone. It reads as an earthy root note — dry and seasoning-like — rather than floral or woody. The aroma is closer to a culinary spice or dried herb than to a perfume flower, which is why it works as a supporting body note in blends. It contributes depth and warmth beneath woods and resins rather than leading with a bright or sweet top note.
 
@@ -194,7 +194,7 @@ See also: [angelica-sinensis (当归)](/ingredients/angelica-sinensis/), [calamu
 **Source:** [Angelica in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015358) · [Angelica on GBIF](https://www.gbif.org/species/5537813). **Evidence type:** Established.
 
 ### Traditional Chinese use
-**Source:** this page records 白芷 (*Angelica dahurica*) as a classic supporting ingredient in 合香 (blended incense) and a materia medica herb. **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
+**Source:** this page records 白芷 (*Angelica dahurica*) as a classic supporting ingredient in blended incense (合香) and a materia medica herb. **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
 ### Authenticity / adulteration
 **Source:** the 白芷 / 当归 (*Angelica sinensis*) / European angelica (*A. archangelica*) disambiguation is the page's naming note. **Evidence type:** Practical screening.
