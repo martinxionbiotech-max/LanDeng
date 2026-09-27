@@ -28,17 +28,17 @@ related: ["rosemary", "bergamot", "chamomile"]
 
 ## Aroma profile
 
-> **Direct answer:** 薰衣草 (lavender) has a fresh, clean floral scent with a pronounced herbal, camphoraceous edge — the soft, sweet-floral lift of linalool and linalyl acetate over a green, slightly medicinal base. It is one of the most recognizable modern fragrance notes, bridging fresh herb and soft flower.
+> **Direct answer:** lavender (薰衣草) has a fresh, clean floral scent with a pronounced herbal, camphoraceous edge — the soft, sweet-floral lift of linalool and linalyl acetate over a green, slightly medicinal base. It is one of the most recognizable modern fragrance notes, bridging fresh herb and soft flower.
 
-薰衣草 (lavender) has a fresh, clean floral scent with a pronounced herbal, camphoraceous edge — the soft, sweet-floral lift of linalool and linalyl acetate over a green, slightly medicinal base. It is one of the most recognizable modern fragrance notes, bridging fresh herb and soft flower.
+lavender (薰衣草) has a fresh, clean floral scent with a pronounced herbal, camphoraceous edge — the soft, sweet-floral lift of linalool and linalyl acetate over a green, slightly medicinal base. It is one of the most recognizable modern fragrance notes, bridging fresh herb and soft flower.
 
 The herb-flower bridge is lavender's signature: it is not purely floral (like rose or jasmine) nor purely herbal (like rosemary) but sits between — a soft, clean floral over a green, camphoraceous herb. This duality is what made it the workhorse of modern aromatherapy and home fragrance, and it is what distinguishes it from both its floral and its herbal neighbors.
 
 ## A provenance note (read this)
 
-> **Direct answer:** 薰衣草 (lavender) is a modern crossover, not a classical Chinese 香材: *Lavandula angustifolia* is a western-Mediterranean shrub with no native Chinese status, and the name 薰衣草 ("clothes-scenting herb") is modern and descriptive. This page records it honestly — no classical Chinese origin is claimed.
+> **Direct answer:** lavender (薰衣草) is a modern crossover, not a classical Chinese 香材: *Lavandula angustifolia* is a western-Mediterranean shrub with no native Chinese status, and the name 薰衣草 ("clothes-scenting herb") is modern and descriptive. This page records it honestly — no classical Chinese origin is claimed.
 
-薰衣草 (lavender) is a **modern crossover**, not a classical Chinese 香材:
+lavender (薰衣草) is a **modern crossover**, not a classical Chinese 香材:
 
 - *Lavandula angustifolia* is a western-Mediterranean shrub, not a native Chinese species; Flora of China does not record it as native.
 - In Chinese, 薰衣草 ("clothes-scenting herb") is a modern, descriptive name for the plant, not a classical materia-medica or 香材 term.
@@ -72,8 +72,8 @@ The mint-family placement (Lamiaceae) is significant: lavender shares its family
 
 The two mint-family "camphoraceous" herbs are easily confused:
 
-- **薰衣草 (lavender)** — *Lavandula angustifolia*, soft, sweet, floral, with a clean camphoraceous edge. This entry.
-- **迷迭香 (rosemary)** — *Salvia rosmarinus*, greener, more savory, piney-camphoraceous. Its own entry.
+- **lavender (薰衣草)** — *Lavandula angustifolia*, soft, sweet, floral, with a clean camphoraceous edge. This entry.
+- **rosemary (迷迭香)** — *Salvia rosmarinus*, greener, more savory, piney-camphoraceous. Its own entry.
 
 Both are Lamiaceae herbs with a camphoraceous edge — hence the shared register — but lavender is sweet and floral, rosemary savory and green. They are different genera and not interchangeable. See [rosemary](/ingredients/rosemary/).
 
@@ -85,9 +85,9 @@ Both are Lamiaceae herbs with a camphoraceous edge — hence the shared register
 
 ## Traditional use vs modern evidence
 
-> **Direct answer:** There is no classical Chinese incense record for 薰衣草 (lavender); its position is entirely modern. We make no medical claims. The documented facts are botanical identity, the Lamiaceae placement, and its modern aromatherapy role.
+> **Direct answer:** There is no classical Chinese incense record for lavender (薰衣草); its position is entirely modern. We make no medical claims. The documented facts are botanical identity, the Lamiaceae placement, and its modern aromatherapy role.
 
-There is **no classical Chinese incense record** for 薰衣草 (lavender); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Lamiaceae placement, and its modern aromatherapy role.
+There is **no classical Chinese incense record** for lavender (薰衣草); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Lamiaceae placement, and its modern aromatherapy role.
 
 ## Why is lavender used in modern incense?
 
@@ -165,15 +165,15 @@ Lavender (薰衣草, "clothes-scenting herb") is *Lavandula angustifolia*, a min
 
 ## FAQ
 
-**What is 薰衣草 (lavender)?** The flowering herb *Lavandula angustifolia* (English lavender), a mint-family shrub native to the western Mediterranean. Its flowers carry a fresh, floral, herbal, camphoraceous scent, familiar from modern perfumery and aromatherapy.
+**What is lavender (薰衣草)?** The flowering herb *Lavandula angustifolia* (English lavender), a mint-family shrub native to the western Mediterranean. Its flowers carry a fresh, floral, herbal, camphoraceous scent, familiar from modern perfumery and aromatherapy.
 
-**Is 薰衣草 a classical Chinese incense ingredient?** No. Lavender is a western-Mediterranean shrub, not a native Chinese species, and it has no place in the classical 香材 canon. Its Chinese name 薰衣草 ("clothes-scenting herb") is modern and descriptive, and it entered incense through Western and modern aromatherapy practice. See our [lavender incense explainer](/blog/lavender-incense/).
+**Is lavender (薰衣草) a classical Chinese incense ingredient?** No. Lavender is a western-Mediterranean shrub, not a native Chinese species, and it has no place in the classical 香材 canon. Its Chinese name 薰衣草 ("clothes-scenting herb") is modern and descriptive, and it entered incense through Western and modern aromatherapy practice. See our [lavender incense explainer](/blog/lavender-incense/).
 
 **What does lavender smell like?** Fresh and clean-floral with a pronounced herbal, camphoraceous edge — the soft, sweet lift of linalool and linalyl acetate over a green, slightly medicinal base. It bridges fresh herb and soft flower.
 
 **Is lavender the same as rosemary?** No. Lavender is *Lavandula angustifolia*; rosemary is *Salvia rosmarinus*. Both are mint-family herbs with a camphoraceous edge, but lavender is soft and sweet-floral, while rosemary is greener and more savory. See [rosemary](/ingredients/rosemary/).
 
-**What does the name 薰衣草 mean?** "Clothes-scenting herb" — 薰 (to scent), 衣 (clothes), 草 (herb). It is a functional, descriptive name that records lavender's Western use of perfuming linen and sachets, not a classical Chinese history. The name itself is a provenance note: it marks lavender as a foreign, useful herb.
+**What does the name lavender (薰衣草) mean?** "Clothes-scenting herb" — 薰 (to scent), 衣 (clothes), 草 (herb). It is a functional, descriptive name that records lavender's Western use of perfuming linen and sachets, not a classical Chinese history. The name itself is a provenance note: it marks lavender as a foreign, useful herb.
 
 **How is lavender used in incense?** Mostly as a fragrance-oil note or dried flowers in modern incense — a Western addition, not a classical 香材. The honest framing is a soft, floral signal for an unwinding routine, not a treatment; see [lavender incense](/blog/lavender-incense/) for the full picture.
 
@@ -209,4 +209,4 @@ See also: [lavender incense (薰衣草线香)](/blog/lavender-incense/), [rosema
 - [Lavandula angustifolia on GBIF](https://www.gbif.org/species/2927305)
 - [Lavender incense (LanDeng)](/blog/lavender-incense/)
 
-*Sources: botanical references on *Lavandula angustifolia*. 薰衣草 (lavender) is a modern fragrant herb with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Lavandula angustifolia*. lavender (薰衣草) is a modern fragrant herb with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
