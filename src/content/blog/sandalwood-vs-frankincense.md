@@ -49,7 +49,7 @@ The botanical gap is the deepest difference:
 - **Sandalwood** — genus *Santalum*, family Santalaceae; hemiparasitic trees. The reference species is *Santalum album*; the main legal commercial substitute is Australian *S. spicatum*, with smaller supplies from New Caledonia (*S. austrocaledonicum*) and Hawaii (*S. paniculatum*).
 - **Frankincense** — genus *Boswellia*, family Burseraceae; small trees and shrubs of northeastern Africa, the Arabian Peninsula, and India. The main commercial species are *B. sacra* (Arabia), *B. carterii* (the Horn of Africa), and *B. serrata* (India).
 
-In Chinese, the names record their nature: 檀香 (tánxiāng) means "sandalwood fragrance," and 乳香 (rǔxiāng) means "milk fragrance" — a description of the milky resin. One naming trap worth flagging: 檀香 (sandalwood) is easily confused with 紫檀 ("red sandalwood"), a different plant entirely — *Pterocarpus santalinus*, a crimson dye wood, not the creamy sandalwood aroma. See [red sandalwood](/ingredients/red-sandalwood/).
+In Chinese, the names record their nature: 檀香 (tánxiāng) means "sandalwood fragrance," and 乳香 (rǔxiāng) means "milk fragrance" — a description of the milky resin. One naming trap worth flagging: sandalwood (檀香) is easily confused with 紫檀 ("red sandalwood"), a different plant entirely — *Pterocarpus santalinus*, a crimson dye wood, not the creamy sandalwood aroma. See [red sandalwood](/ingredients/red-sandalwood/).
 
 ## Aroma: Creamy Wood vs Bright Resin
 
@@ -128,7 +128,7 @@ Neither column is "better." The table describes what each material is and how it
 1. **Assuming both are "resins" or "aromatics" and therefore similar.** Sandalwood is wood; frankincense *is* resin. Different materials, different behavior.
 2. **Burning frankincense on open flame.** That wastes its appeal — it should be melted under gentle heat for the clean, bright release.
 3. **Skipping the species check on sandalwood.** Frankincense you can mostly trust; sandalwood you must verify — species substitution and oil-for-wood are the norm at the cheap end.
-4. **Conflating 檀香 (sandalwood) with 紫檀 (red sandalwood).** They are different plants; the shared 檀 character causes persistent confusion.
+4. **Conflating sandalwood (檀香) with red sandalwood (紫檀).** They are different plants; the shared 檀 character causes persistent confusion.
 
 ## Why This Page Reads Different
 
