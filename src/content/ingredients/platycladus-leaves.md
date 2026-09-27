@@ -50,8 +50,8 @@ The name 侧柏 (cèbǎi) is a growth-form name: 侧 "side/sideways" + 柏, the 
 
 侧柏叶 and 柏子 come from the **same tree, different parts**:
 
-- **侧柏叶 (arborvitae leaves)** — the flat, sideways-growing leafy branchlets of *Platycladus orientalis*. This entry.
-- **柏子 (cypress seed)** — the seed of the same tree, the material of the classical 柏子香 incense. Its own entry.
+- **arborvitae leaves (侧柏叶)** — the flat, sideways-growing leafy branchlets of *Platycladus orientalis*. This entry.
+- **cypress seed (柏子)** — the seed of the same tree, the material of the classical 柏子香 incense. Its own entry.
 
 The *Bencao Gangmu* (本草纲目), tree section (木之一), records the tree under 柏, explaining "入药惟取叶扁而侧生者，故曰侧柏" — only the flat, side-growing leaves are taken, hence 侧柏 — while the seed (柏实/柏子仁) is treated as its own materia-medica part. This is a clean illustration of how one plant can produce two distinct encyclopedia entries: **same botanical identity, different parts, different uses, different entries.** The leaf is a fresh, green materia-medica part; the seed is a roasted, nutty incense material. **This page describes 侧柏叶 = the leafy branchlets, not the seed.** See [cypress-seed](/ingredients/cypress-seed/).
 
@@ -161,17 +161,17 @@ In our view, 侧柏叶 is a fresh, green, supporting leaf whose real lesson is s
 
 ## Summary
 
-侧柏叶 (arborvitae leaves) is the flat, sideways-growing leafy branchlet of *Platycladus orientalis*, the oriental arborvitae — the same tree that yields the classical incense seed 柏子, but a different part with a different role. The *Bencao Gangmu* (木之一) records the tree under 柏 and explains the name 侧柏 from the flat, side-oriented leaves, while the seed (柏子) is treated as its own materia-medica part. The leaf is a fresh, green, slightly resinous conifer part used chiefly in materia medica; the seed is the roasted, nutty material of 柏子香. The two entries are a worked example of part-level disambiguation — same botanical identity, different materials. Its medicinal uses are traditional language, not clinical evidence.
+arborvitae leaves (侧柏叶) is the flat, sideways-growing leafy branchlet of *Platycladus orientalis*, the oriental arborvitae — the same tree that yields the classical incense seed 柏子, but a different part with a different role. The *Bencao Gangmu* (木之一) records the tree under 柏 and explains the name 侧柏 from the flat, side-oriented leaves, while the seed (柏子) is treated as its own materia-medica part. The leaf is a fresh, green, slightly resinous conifer part used chiefly in materia medica; the seed is the roasted, nutty material of 柏子香. The two entries are a worked example of part-level disambiguation — same botanical identity, different materials. Its medicinal uses are traditional language, not clinical evidence.
 
 ## FAQ
 
-**What is 侧柏叶 (arborvitae leaves)?** The flat, leafy branchlet of the oriental arborvitae, *Platycladus orientalis* (侧柏), a cypress-family tree native to China and Korea. It is the leafy part of the same tree that yields the cypress seed (柏子), but a distinct part with its own use, chiefly in materia medica.
+**What is arborvitae leaves (侧柏叶)?** The flat, leafy branchlet of the oriental arborvitae, *Platycladus orientalis* (侧柏), a cypress-family tree native to China and Korea. It is the leafy part of the same tree that yields the cypress seed (柏子), but a distinct part with its own use, chiefly in materia medica.
 
-**Is 侧柏叶 the same as 柏子 (cypress seed)?** No — same tree, different parts. 侧柏叶 is the leafy branchlet, fresh, woody, and green, used in materia medica; 柏子 is the seed, roasted and nutty, and is the material of the classical 柏子香 incense. The *Bencao Gangmu* (本草纲目) treats the leaf and the seed as separate materia-medica parts.
+**Is arborvitae leaves (侧柏叶) the same as cypress seed (柏子)?** No — same tree, different parts. 侧柏叶 is the leafy branchlet, fresh, woody, and green, used in materia medica; 柏子 is the seed, roasted and nutty, and is the material of the classical 柏子香 incense. The *Bencao Gangmu* (本草纲目) treats the leaf and the seed as separate materia-medica parts.
 
-**Why is it called 侧柏 (sideways cypress)?** The *Bencao Gangmu* (本草纲目) explains: "入药惟取叶扁而侧生者，故曰侧柏" — only the flat, sideways-growing leaves are taken for use, hence the name 侧柏. The name describes the leaf's flat, side-oriented growth, distinguishing the medicinal leaf from the tree's other parts.
+**Why is it called sideways cypress (侧柏)?** The *Bencao Gangmu* (本草纲目) explains: "入药惟取叶扁而侧生者，故曰侧柏" — only the flat, sideways-growing leaves are taken for use, hence the name 侧柏. The name describes the leaf's flat, side-oriented growth, distinguishing the medicinal leaf from the tree's other parts.
 
-**What does 侧柏叶 smell like?** Fresh, woody, and green, with a slightly resinous edge — the crisp conifer note of crushed arborvitae foliage. It is lighter and greener than the roasted, nutty warmth of the tree's seed (柏子), reading more like a fresh evergreen branch than a food.
+**What does arborvitae leaves (侧柏叶) smell like?** Fresh, woody, and green, with a slightly resinous edge — the crisp conifer note of crushed arborvitae foliage. It is lighter and greener than the roasted, nutty warmth of the tree's seed (柏子), reading more like a fresh evergreen branch than a food.
 
 **Is arborvitae leaf a classical incense ingredient?** Not as a lead material. The classical fame of *Platycladus orientalis* belongs to its seed (柏子), the material of 柏子香; the leaf (侧柏叶) is chiefly a materia-medica part. The tree links the two entries, but the incense material is the seed, not the leaf.
 
@@ -188,7 +188,7 @@ See also: [cypress-seed (柏子)](/ingredients/cypress-seed/), [cedar](/ingredie
 **Source:** the *Bencao Gangmu* (本草纲目), 木之一, records 柏, explaining "入药惟取叶扁而侧生者，故曰侧柏". **Evidence type:** Historically documented — materia medica; medicinal uses are traditional, not modern clinical evidence.
 
 ### Authenticity / disambiguation
-**Source:** 侧柏叶 (leafy branchlets) vs 柏子 (seed) — same tree, *Platycladus orientalis*, different parts. **Evidence type:** Practical screening.
+**Source:** leafy branchlets (侧柏叶) vs 柏子 (seed) — same tree, *Platycladus orientalis*, different parts. **Evidence type:** Practical screening.
 
 ### Safety
 **Source:** incense combustion produces smoke and particulate matter; burn in a well-ventilated space. **Evidence type:** Established.
