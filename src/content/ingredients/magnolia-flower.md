@@ -40,15 +40,15 @@ The classical source is *Magnolia biondii*, a small deciduous tree of the magnol
 
 ## Chinese name and terminology
 
-> **Direct answer:** 辛夷 (xīnyí) names the dried magnolia flower bud — the "辛" pointing to its pungent, spicy aromatic quality. The name covers the buds of closely related spring magnolias, so it is a material name rather than a single-species label. It is distinct from 玉兰 (the open white magnolia flower) and 白兰花 (champaca).
+> **Direct answer:** 辛夷 (xīnyí) names the dried magnolia flower bud — the "辛" pointing to its pungent, spicy aromatic quality. The name covers the buds of closely related spring magnolias, so it is a material name rather than a single-species label. It is distinct from 玉兰 (the open white magnolia flower) and champaca (白兰花).
 
 辛夷 (xīnyí) is the classical name for the magnolia bud, with 辛 ("pungent/spicy") recording its aromatic bite. The terminology matters because the name is a *material* name, not a rigid single-species label:
 
 - **辛夷** — the dried bud, most classically *Magnolia biondii* (*Yulania biondii*), but also *M. denudata* and related spring magnolias. This entry.
 - **玉兰 (yulan)** — *Magnolia denudata*, the white magnolia; its open flower is the ornamental, while its bud can also supply 辛夷. See [yulan-magnolia](/ingredients/yulan-magnolia/).
-- **白兰花 (champaca)** — *Michelia alba*, a headier, sweeter magnolia-family flower. See [champaca](/ingredients/champaca/).
+- **champaca (白兰花)** — *Michelia alba*, a headier, sweeter magnolia-family flower. See [champaca](/ingredients/champaca/).
 
-## 辛夷 vs 玉兰: same family, different parts (read this)
+## magnolia flower bud (辛夷) vs yulan magnolia (玉兰): same family, different parts (read this)
 
 > **Direct answer:** 辛夷 and 玉兰 belong to the same magnolia family, and their buds can even overlap in source, but they name different things in practice: 辛夷 is the dried unopened bud used as an aromatic, while 玉兰 is the open ornamental flower. The two are related materials, not one plant with two unrelated names.
 
@@ -144,21 +144,21 @@ In our view, 辛夷 is a light, spicy floral top note worth having for its fresh
 
 ## Summary
 
-辛夷 (magnolia flower bud) is the dried unopened bud of *Magnolia biondii* (Flora of China: *Yulania biondii*) and related central-Chinese magnolias such as *M. denudata* (玉兰). It is a floral-spicy aromatic with a green, camphoraceous edge, used as a light top note and scenting material. Its value rests on bud integrity and harvest stage rather than rarity, it sits in the same family as 玉兰 and 白兰花 (champaca) but is distinct from them, and its medicinal uses are traditional language, not clinical evidence.
+magnolia flower bud (辛夷) is the dried unopened bud of *Magnolia biondii* (Flora of China: *Yulania biondii*) and related central-Chinese magnolias such as *M. denudata* (玉兰). It is a floral-spicy aromatic with a green, camphoraceous edge, used as a light top note and scenting material. Its value rests on bud integrity and harvest stage rather than rarity, it sits in the same family as 玉兰 and champaca (白兰花) but is distinct from them, and its medicinal uses are traditional language, not clinical evidence.
 
 ## FAQ
 
 **What is 辛夷 (xinyi)?** The dried, unopened flower bud of the magnolia tree, most classically *Magnolia biondii* (Flora of China: *Yulania biondii*), a small tree of the magnolia family native to central China. It is a floral-spicy aromatic with a green, slightly camphoraceous edge, used in Chinese incense as a floral top note. The name is also applied to the buds of related magnolias such as the white magnolia *Magnolia denudata* (玉兰).
 
-**What does 辛夷 smell like?** Floral and spicy at once — a soft magnolia bloom crossed with a green, slightly camphoraceous sharpness from its essential oil. It is lighter and spicier than creamy, heady florals like jasmine or gardenia, sitting closer to a "green floral" register. In a blend it adds lift and a fresh, slightly aromatic edge rather than deep sweetness.
+**What does magnolia flower bud (辛夷) smell like?** Floral and spicy at once — a soft magnolia bloom crossed with a green, slightly camphoraceous sharpness from its essential oil. It is lighter and spicier than creamy, heady florals like jasmine or gardenia, sitting closer to a "green floral" register. In a blend it adds lift and a fresh, slightly aromatic edge rather than deep sweetness.
 
-**How does 辛夷 differ from 玉兰 (yulan)?** They are the same magnolia family and can overlap in source, but they name different things in practice. 辛夷 is the dried *unopened bud* used as an aromatic; 玉兰 is the *open flower* of *Magnolia denudata*, the ornamental. A single tree can supply both names, but a buyer should know whether they are asking for the bud (辛夷) or the flower (玉兰).
+**How does magnolia flower bud (辛夷) differ from 玉兰 (yulan)?** They are the same magnolia family and can overlap in source, but they name different things in practice. 辛夷 is the dried *unopened bud* used as an aromatic; 玉兰 is the *open flower* of *Magnolia denudata*, the ornamental. A single tree can supply both names, but a buyer should know whether they are asking for the bud (辛夷) or the flower (玉兰).
 
-**How does 辛夷 differ from 白兰花 (champaca)?** They are both magnolia-family flowers but distinct materials. 辛夷 is the flower bud of *Magnolia biondii* and related spring magnolias, with a green, spicy-floral character. 白兰花 (white champaca) is *Michelia alba*, a headier, sweeter, more fruity white floral. And 梅花 (plum blossom, *Prunus mume*) is in an entirely different family. Each has its own entry in this encyclopedia.
+**How does magnolia flower bud (辛夷) differ from champaca (白兰花)?** They are both magnolia-family flowers but distinct materials. 辛夷 is the flower bud of *Magnolia biondii* and related spring magnolias, with a green, spicy-floral character. white champaca (白兰花) is *Michelia alba*, a headier, sweeter, more fruity white floral. And 梅花 (plum blossom, *Prunus mume*) is in an entirely different family. Each has its own entry in this encyclopedia.
 
 **What part of the plant is used?** The dried, unopened flower bud, gathered in late winter or early spring before the flower opens. The bud, not the open flower, is the traditional material — it concentrates the plant's spicy-floral essential oil at its freshest. In practice 辛夷 may come from *Magnolia biondii* or a closely related magnolia such as *M. denudata*.
 
-**Is 辛夷 only used in incense?** No — it is also recorded in traditional Chinese medicine, where it is classically associated with the nose and nasal passages (本草綱目, 木部). That medicinal association is **traditional language, not modern clinical evidence**, and this encyclopedia makes no medical claims. Its documented non-medical uses are the aromatic and scenting roles described here.
+**Is magnolia flower bud (辛夷) only used in incense?** No — it is also recorded in traditional Chinese medicine, where it is classically associated with the nose and nasal passages (本草綱目, 木部). That medicinal association is **traditional language, not modern clinical evidence**, and this encyclopedia makes no medical claims. Its documented non-medical uses are the aromatic and scenting roles described here.
 
 See also: [champaca](/ingredients/champaca/), [plum-blossom](/ingredients/plum-blossom/), [gardenia](/ingredients/gardenia/), [yulan-magnolia](/ingredients/yulan-magnolia/), and the full [scent guide](/blog/scent-guide/).
 
@@ -171,7 +171,7 @@ See also: [champaca](/ingredients/champaca/), [plum-blossom](/ingredients/plum-b
 **Source:** 辛夷 as a floral top note and scenting material, and its traditional nasal association, recorded in the 本草綱目 木部. **Evidence type:** Historically documented — aromatic use; medicinal uses are traditional, not modern clinical evidence.
 
 ### Authenticity / disambiguation
-**Source:** 辛夷 (*Magnolia biondii* / *Yulania biondii*) vs 白兰花 (*Michelia alba*) vs 梅花 (*Prunus mume*); and the 辛夷 (bud) vs 玉兰 (open flower) same-family distinction. **Evidence type:** Practical screening.
+**Source:** 辛夷 (*Magnolia biondii* / *Yulania biondii*) vs 白兰花 (*Michelia alba*) vs 梅花 (*Prunus mume*); and the 辛夷 (bud) vs open flower (玉兰) same-family distinction. **Evidence type:** Practical screening.
 
 ### Safety
 **Source:** incense combustion produces smoke and particulate matter; burn in a well-ventilated space. **Evidence type:** Established.
