@@ -32,10 +32,10 @@ author: "Landeng Tech Team"
 
 | Layer | Material | Job |
 |---|---|---|
-| Censer | 香炉 (bowl) | Holds everything |
+| Censer | bowl (香炉) | Holds everything |
 | Ash | 香灰 | Insulates and controls heat transfer |
-| Charcoal | 香炭 (small, dense) | The heat source, buried in ash |
-| Plate | 银叶 (silver leaf) / 云母片 (mica) | Separates material from the coal; evens the heat |
+| Charcoal | small, dense (香炭) | The heat source, buried in ash |
+| Plate | silver leaf (银叶) / mica (云母片) | Separates material from the coal; evens the heat |
 | Material | resin chip or powder | The scent — warmed, not burned |
 
 ---
@@ -54,7 +54,7 @@ The goal is **below-combustion heat** — hot enough to volatilize the aroma com
 
 ## Why It Matters (Beyond Tradition)
 
-隔火焚香 is not just a historical technique — it is the **lowest-smoke method** available, which makes it the practical recommendation for:
+indirect-fire incense (隔火焚香) is not just a historical technique — it is the **lowest-smoke method** available, which makes it the practical recommendation for:
 
 - **Small rooms** and people sensitive to smoke
 - **Deep-breathing or meditation** use (least particulate while breathing deeply)
@@ -96,7 +96,7 @@ See [Which Incense Format Is Right for You? Sticks, Cones, Coils, Powder & Beads
 Use 隔火焚香 (gé huǒ fén xiāng), the classical indirect-fire method. A small, dense charcoal is lit until it glows and then buried in a level bed of ash, with a thin plate — traditionally silver leaf or mica — placed on top. The incense material sits on the plate and is warmed by the rising heat rather than burned, so it releases aroma with almost no smoke. The goal is below-combustion heat: hot enough to volatilize the aromatic compounds, cool enough that nothing scorches. An electric incense heater achieves the same result without charcoal or ash and is the accessible modern equivalent.
 
 ### Q: What is the plate made of?
-Traditionally the plate is made of 银叶 (silver leaf) or 云母片 (mica), two materials chosen because they are thin, heat-conductive, and chemically inert. The thinness lets heat pass through quickly, the conductivity spreads it evenly across the surface, and the inertness means the plate does not add its own odor to the material. Silver leaf is a thin sheet of silver; mica is a natural mineral that splits into thin, heat-resistant flakes. Either one sits over the buried charcoal and holds the resin chip or powder, separating it from the heat source so the material warms without burning.
+Traditionally the plate is made of silver leaf (银叶) or mica (云母片), two materials chosen because they are thin, heat-conductive, and chemically inert. The thinness lets heat pass through quickly, the conductivity spreads it evenly across the surface, and the inertness means the plate does not add its own odor to the material. Silver leaf is a thin sheet of silver; mica is a natural mineral that splits into thin, heat-resistant flakes. Either one sits over the buried charcoal and holds the resin chip or powder, separating it from the heat source so the material warms without burning.
 
 ### Q: Why bury the charcoal in ash?
 The ash does two jobs: it insulates the charcoal, and it gives you a way to control how much heat reaches the material. Burying the coal means only its stored heat rises slowly through the ash rather than hitting the plate directly, which would scorch the incense. By adding ash you lower the temperature; by moving the plate closer or the coal nearer the surface you raise it. This fine control is what lets you hold the material just below its combustion point — warm enough to release aroma, cool enough to produce almost no smoke. The ash bed is therefore not just a container but the temperature regulator of the whole setup.
