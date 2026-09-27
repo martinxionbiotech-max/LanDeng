@@ -76,7 +76,7 @@ Choose the form to match the session, not just the scent. See [which incense for
 ### Q: What are the main forms of incense?
 A: The main forms are stick (线香), coil (盘香), cone (塔香), resin (香脂 or 香片), and powder (香粉), plus prepared styles such as backflow cones (倒流香). A stick is the everyday format, usually built on a bamboo core or pressed coreless; a coil is a spiral that burns for hours; a cone is self-supporting and burns down completely; resin is dried gum-resin or wood chips burned on charcoal or an electric heater; and powder is loose ground material burned on charcoal or pressed into seal patterns. The form determines how the incense burns, how long it lasts, and what holder it needs.
 
-### Q: What is 隔火焚香?
+### Q: What is indirect-fire incense (隔火焚香)?
 A: 隔火焚香 (gé huǒ fén xiāng) means "incense across fire" and describes the indirect-fire method of warming material rather than burning it. A hot charcoal is buried in ash, a thin plate (silver leaf or mica) is placed over it, and the incense chip or powder sits on the plate, releasing its aroma through gentle heat with very little smoke. Because the material never combusts, the scent is cleaner and the particulate output is low. This Song-dynasty technique is the direct ancestor of Japanese kōdō, which formalized the same "listening to fragrance" approach into its own art.
 
 ### Q: What is the difference between a stick and a coil?
@@ -92,7 +92,7 @@ A: A backflow cone (倒流香) is a hollow cone designed to channel its smoke do
 ### Q: What is 香道 (xiāngdào)?
 "The Way of Incense" — the broader Chinese and Japanese practice of preparing, burning, and appreciating incense as a cultivated art rather than a mere household habit. It involves attention to the materials, the tools, the setting, and the act of smelling itself. In Japan the practice was formalized into kōdō, a codified art of "listening" to fragrance, while in China it remains closely tied to the literati culture of tea, painting, and the Four Leisure Arts. The refined technique behind both traditions is Song-dynasty 隔火焚香, the low-smoke indirect-fire method. See [Japanese kōdō](/blog/japanese-incense-kodo/).
 
-### Q: What is the difference between 合香 and a single-material incense?
+### Q: What is the difference between blended incense (合香) and a single-material incense?
 合香 (hé xiāng) is a blended or compound incense composed on a formula principle, typically the 君臣佐使 (chief–minister–assistant–guide) structure, where several materials are combined in set proportions to build a layered scent. A single-material incense, by contrast, is just one wood or resin — sandalwood, agarwood, or frankincense on its own. Traditional Chinese incense is usually 合香: the manuals record hundreds of named blends rather than individual ingredients. The difference matters because a 合香 has structure and intent behind it, whereas a single material is appreciated for its own character. See [the blending system](/blog/hexiang-blending-system/).
 
 ### Q: What is a coreless stick?
