@@ -14,7 +14,7 @@ related: ["spikenard-nardostachys", "angelica"]
 
 <img src="/images/ligusticum-raw-material-800x533.webp" alt="Raw Ligusticum (Ligusticum sinense) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Ligusticum — *gǎoběn* (藁本) in Chinese — is the dried root and rhizome of *Ligusticum sinense*, an aromatic herb of the carrot family (Apiaceae) native to China. It is a classical Chinese incense ingredient with a herbal, slightly spicy, aromatic root character, best known in the incense record as one of the named ingredients of the 寿阳公主梅花香 (Shouyang princess's plum incense) formula, where it supplies a herbal middle tone alongside spikenard and angelica.
+**Technical answer:** Ligusticum — *gǎoběn* (藁本) in Chinese — is the dried root and rhizome of *Ligusticum sinense*, an aromatic herb of the carrot family (Apiaceae) native to China. It is a classical Chinese incense ingredient with a herbal, slightly spicy, aromatic root character, best known in the incense record as one of the named ingredients of the Shouyang princess's plum incense (寿阳公主梅花香) formula, where it supplies a herbal middle tone alongside spikenard and angelica.
 
 ## Key facts
 
@@ -59,7 +59,7 @@ Flora of China places *Ligusticum sinense* across central and western China — 
 
 ## Why is it used in incense?
 
-> **Direct answer:** Ligusticum (藁本) is used in incense as a herbal middle note — it supplies a herbal, slightly medicinal middle register beneath the plum and wood notes of classical formulas, most famously the 寿阳公主梅花香 (Shouyang princess's plum incense).
+> **Direct answer:** Ligusticum (藁本) is used in incense as a herbal middle note — it supplies a herbal, slightly medicinal middle register beneath the plum and wood notes of classical formulas, most famously the Shouyang princess's plum incense (寿阳公主梅花香).
 
 Ligusticum's incense role is best understood through its classical formula appearances. In the plum-incense accord it sits with spikenard (甘松) and angelica (白芷) as the herbal, slightly medicinal **middle register** beneath the plum and wood notes — it supplies the blend's herbal body and depth rather than leading with a bright or sweet note. It is a supporting ingredient, used for its grounding herbal character. See the [Shouyang princess plum recipe](/blog/shouyang-princess-plum-recipe/).
 
@@ -95,7 +95,7 @@ The distinction between whole root and powder is functional, not a quality state
 
 ## In Chinese tradition
 
-- **合香 (blended incense):** 藁本 is a named ingredient in classical 合香 formulas, most famously the 寿阳公主梅花香 (Shouyang princess's plum incense), recorded in the Ming-dynasty *Xiang Cheng* (香乘) with 藁本 at 半两. It supplies a herbal middle tone in the blend.
+- **blended incense (合香):** 藁本 is a named ingredient in classical 合香 formulas, most famously the Shouyang princess's plum incense (寿阳公主梅花香), recorded in the Ming-dynasty *Xiang Cheng* (香乘) with 藁本 at 半两. It supplies a herbal middle tone in the blend.
 - **Herbal middle note:** in the plum-incense accord, 藁本 sits with spikenard and angelica as the herbal, slightly medicinal middle register beneath the plum and wood notes.
 - **Materia medica:** 藁本 is recorded in traditional Chinese medicine. This is **traditional materia-medica language, not modern clinical evidence.**
 
@@ -107,7 +107,7 @@ The incense use is documented in the classical recipe record. Medicinal uses are
 
 > **Direct answer:** 藁本 (*Ligusticum sinense*) and 川芎 (*Ligusticum chuanxiong*) are closely related but distinct roots in the same genus. 藁本 is the herbal middle-note root of classical incense formulas; 川芎 is the materia-medica rhizome of Sichuan. The *Bencao Gangmu* keeps them as separate entries.
 
-| | 藁本 (Ligusticum) | 川芎 (Chuanxiong) |
+| | Ligusticum (藁本) | Chuanxiong (川芎) |
 |---|---|---|
 | Botanical source | *Ligusticum sinense* | *Ligusticum chuanxiong* (syn. *Conioselinum anthriscoides*) |
 | Chinese name | 藁本 (gǎoběn) | 川芎 (chuānxiōng) |
@@ -174,19 +174,19 @@ In our view, the commercial sweet spot is a **consistent, correctly identified �
 
 ## Summary
 
-Ligusticum (藁本, *gǎoběn*) is the dried root and rhizome of *Ligusticum sinense*, an Apiaceae herb of central and western China. It is a classical herbal middle note in Chinese 合香 — best known as a named ingredient of the 寿阳公主梅花香 (Shouyang princess's plum incense) — valued for a herbal, slightly spicy, faintly woody root character. Its quality rests on aromatic intensity, soundness, and consistency rather than a formal grade, and its naming risks are confusion with true lovage and with chuanxiong (川芎, *Ligusticum chuanxiong*). In incense it is a niche supporting note; commercially, species verification and batch consistency outweigh volume.
+Ligusticum (藁本, *gǎoběn*) is the dried root and rhizome of *Ligusticum sinense*, an Apiaceae herb of central and western China. It is a classical herbal middle note in Chinese 合香 — best known as a named ingredient of the Shouyang princess's plum incense (寿阳公主梅花香) — valued for a herbal, slightly spicy, faintly woody root character. Its quality rests on aromatic intensity, soundness, and consistency rather than a formal grade, and its naming risks are confusion with true lovage and with chuanxiong (川芎, *Ligusticum chuanxiong*). In incense it is a niche supporting note; commercially, species verification and batch consistency outweigh volume.
 
 ## FAQ
 
-**What is 藁本 (gǎoběn)?** The dried root and rhizome of *Ligusticum sinense*, an aromatic herb of the carrot family native to China. It is a classical Chinese incense ingredient with a herbal, slightly spicy, faintly woody root character. In the incense record it is best known as a named ingredient of the 寿阳公主梅花香 (Shouyang princess's plum incense) formula, recorded in the *Xiang Cheng* (香乘).
+**What is 藁本 (gǎoběn)?** The dried root and rhizome of *Ligusticum sinense*, an aromatic herb of the carrot family native to China. It is a classical Chinese incense ingredient with a herbal, slightly spicy, faintly woody root character. In the incense record it is best known as a named ingredient of the Shouyang princess's plum incense (寿阳公主梅花香) formula, recorded in the *Xiang Cheng* (香乘).
 
-**Is 藁本 the same as lovage?** Not exactly. The English "lovage" usually names *Levisticum officinale*, while 藁本 is *Ligusticum sinense* — a related but distinct carrot-family aromatic root. The two are sometimes conflated on English labels for Chinese incense ingredients, so the species should be confirmed when "lovage" is used for a 藁本 material.
+**Is ligusticum (藁本) the same as lovage?** Not exactly. The English "lovage" usually names *Levisticum officinale*, while 藁本 is *Ligusticum sinense* — a related but distinct carrot-family aromatic root. The two are sometimes conflated on English labels for Chinese incense ingredients, so the species should be confirmed when "lovage" is used for a 藁本 material.
 
-**Is 藁本 the same as 川芎 (chuanxiong)?** No — closely related but distinct roots in the same genus. 藁本 is *Ligusticum sinense*; 川芎 is *Ligusticum chuanxiong* (syn. *Conioselinum anthriscoides*). The *Bencao Gangmu* lists them as separate entries, and Chinese materia medica keeps them distinct even though modern taxonomy shifts both toward *Conioselinum anthriscoides*.
+**Is ligusticum (藁本) the same as 川芎 (chuanxiong)?** No — closely related but distinct roots in the same genus. 藁本 is *Ligusticum sinense*; 川芎 is *Ligusticum chuanxiong* (syn. *Conioselinum anthriscoides*). The *Bencao Gangmu* lists them as separate entries, and Chinese materia medica keeps them distinct even though modern taxonomy shifts both toward *Conioselinum anthriscoides*.
 
 **What does ligusticum smell like?** Herbal and aromatic, with a slightly spicy, warming, faintly woody character typical of carrot-family roots. It is a middle note that sits in the herbal register of a blend, supporting and grounding brighter or sweeter ingredients, rather than leading with a bright or floral scent.
 
-**Where does 藁本 appear in classical incense?** Most famously in the 寿阳公主梅花香 (Shouyang princess's plum incense), recorded in the Ming-dynasty *Xiang Cheng* (香乘), where 藁本 is listed at 半两. There it supplies a herbal middle tone alongside spikenard (甘松) and angelica (白芷), beneath the plum and wood notes that give the accord its name. See our page on the [Shouyang princess plum recipe](/blog/shouyang-princess-plum-recipe/).
+**Where does ligusticum (藁本) appear in classical incense?** Most famously in the Shouyang princess's plum incense (寿阳公主梅花香), recorded in the Ming-dynasty *Xiang Cheng* (香乘), where 藁本 is listed at 半两. There it supplies a herbal middle tone alongside spikenard (甘松) and angelica (白芷), beneath the plum and wood notes that give the accord its name. See our page on the [Shouyang princess plum recipe](/blog/shouyang-princess-plum-recipe/).
 
 **What part of the plant is used?** The root and rhizome, harvested, cleaned, and dried. The aromatic character comes from the root rather than the leaves or seeds, and the dried root is ground for use in blended incense. It is a supporting herbal note, usually blended rather than burned alone.
 
