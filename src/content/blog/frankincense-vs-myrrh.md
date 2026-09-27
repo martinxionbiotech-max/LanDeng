@@ -47,7 +47,7 @@ Because both are gum-resins from the same plant family, they are often named tog
 - **Frankincense** — *Boswellia*, small trees and shrubs of northeastern Africa, the Arabian Peninsula, and India. The main commercial species are *B. sacra* (Oman/Yemen), *B. carterii* (Somalia), and *B. serrata* (India).
 - **Myrrh** — *Commiphora*, shrubs and small trees of the same arid belt (the Horn of Africa and southern Arabia). *Commiphora myrrha* is the classical source, with other *Commiphora* resins (opopanax, guggul, bdellium) traded under related names.
 
-In Chinese, 乳香 (frankincense) and 没药 (myrrh) are habitually named together as a matched pair — a pairing that also runs through Western religious and perfumery tradition.
+In Chinese, frankincense (乳香) and myrrh (没药) are habitually named together as a matched pair — a pairing that also runs through Western religious and perfumery tradition.
 
 ## Aroma: Bright vs Bitter
 
