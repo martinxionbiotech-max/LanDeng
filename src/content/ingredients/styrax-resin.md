@@ -38,20 +38,20 @@ Storax has a sweet, balsamic, resinous scent with a warm, faintly cinnamon-vanil
 
 *Liquidambar orientalis* is the Oriental sweetgum, native to southwestern Asia Minor, whose wounded bark yields storax balsam. It belongs to the sweetgum family (Altingiaceae, historically placed in Hamamelidaceae), and it is a **different species** from the Chinese sweetgum:
 
-- **苏合香 (storax)** — *Liquidambar orientalis*, the imported balsam of classical texts. This entry.
-- **枫香 (Chinese sweetgum)** — *Liquidambar formosana*, the native Chinese tree, treated on this site as a separate material (see [sweetgum](/ingredients/sweetgum/)).
+- **storax (苏合香)** — *Liquidambar orientalis*, the imported balsam of classical texts. This entry.
+- **Chinese sweetgum (枫香)** — *Liquidambar formosana*, the native Chinese tree, treated on this site as a separate material (see [sweetgum](/ingredients/sweetgum/)).
 
 The two are related trees with related resins, but the classical 苏合香 was specifically the *imported* storax. See [*Liquidambar orientalis* on GBIF](https://www.gbif.org/species/3152825) and [*Liquidambar formosana* (枫香) on GBIF](https://www.gbif.org/species/3702542).
 
 ## Chinese name and terminology
 
-> **Direct answer:** 苏合香 is a foreign name for an imported resin. The Song-dynasty *Xiangpu* (香譜) traces it to 苏合国 ("Sogdiana") and gives the Sanskrit name 咄鲁瑟剑 (*duruṣka*, "storax") — recording both its Central Asian trade origin and its foreign name. It is distinct from 枫香 (the native sweetgum) and from 安息香 (benzoin).
+> **Direct answer:** 苏合香 is a foreign name for an imported resin. The Song-dynasty *Xiangpu* (香譜) traces it to 苏合国 ("Sogdiana") and gives the Sanskrit name 咄鲁瑟剑 (*duruṣka*, "storax") — recording both its Central Asian trade origin and its foreign name. It is distinct from 枫香 (the native sweetgum) and from benzoin (安息香).
 
 The name 苏合香 is a loanword for an imported resin. The Song-dynasty *Xiangpu* (香譜) traces it to 苏合国 ("Sogdiana") and gives the Sanskrit name 咄鲁瑟剑 (*duruṣka*, "storax") — a record of both its Central Asian trade origin and its foreign name. The terminology requires care because three similar-sounding materials sit nearby:
 
-- **苏合香 (storax)** — *Liquidambar orientalis*, the imported balsam. This entry.
-- **枫香 (Chinese sweetgum)** — *Liquidambar formosana*, the native resin. See [sweetgum](/ingredients/sweetgum/).
-- **安息香 (benzoin)** — *Styrax* genus resin, a different family with a sweet-vanilla scent. See [benzoin](/ingredients/benzoin/).
+- **storax (苏合香)** — *Liquidambar orientalis*, the imported balsam. This entry.
+- **Chinese sweetgum (枫香)** — *Liquidambar formosana*, the native resin. See [sweetgum](/ingredients/sweetgum/).
+- **benzoin (安息香)** — *Styrax* genus resin, a different family with a sweet-vanilla scent. See [benzoin](/ingredients/benzoin/).
 
 ## Storax vs benzoin: the "styrax" trap (read this)
 
@@ -166,7 +166,7 @@ Storax (苏合香) is the balsam of *Liquidambar orientalis*, the Oriental sweet
 
 **Is storax the same as benzoin?** No, and the naming overlap is a classic trap. Storax (苏合香) comes from *Liquidambar orientalis*, the Oriental sweetgum. Benzoin (安息香) comes from trees in the *Styrax* genus — despite the confusing fact that the English word "styrax" resembles "storax." They are different resins from different plants with different scents: storax is sweet-balsamic and cinnamon-like, benzoin is sweet-vanilla. See our [benzoin](/ingredients/benzoin/) page.
 
-**What is the difference between 苏合香 and 枫香?** Both are sweetgum resins, but from different trees. 苏合香 (storax) is *Liquidambar orientalis*, the imported balsam of classical Chinese texts; 枫香 (Chinese sweetgum) is *Liquidambar formosana*, the native tree. The classical 苏合香 was specifically the imported storax, which is why the two are treated as separate materials on this site.
+**What is the difference between storax (苏合香) and sweetgum (枫香)?** Both are sweetgum resins, but from different trees. storax (苏合香) is *Liquidambar orientalis*, the imported balsam of classical Chinese texts; Chinese sweetgum (枫香) is *Liquidambar formosana*, the native tree. The classical 苏合香 was specifically the imported storax, which is why the two are treated as separate materials on this site.
 
 **What does storax smell like?** Storax is sweet, balsamic, and resinous, with a warm, faintly cinnamon-vanilla character. It is a softening resin that rounds and sweetens a blend. Classical sources emphasize that only the oily, resinous grade is genuinely aromatic — the woody, low-resin material has little scent — a distinction that still matters for buyers.
 
