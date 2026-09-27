@@ -49,9 +49,9 @@ See [Illicium verum in Flora of China](http://www.efloras.org/florataxon.aspx?fl
 
 The 茴 name element connects three unrelated plants, which is a real source of confusion:
 
-- **八角 / 大茴香 (star anise)** — *Illicium verum* (Schisandraceae), the star-shaped tree fruit. This entry.
-- **小茴香 (fennel)** — *Foeniculum vulgare* (Apiaceae), the seed-like fruit of a carrot-family herb. See [fennel](/ingredients/fennel/).
-- **茴芹 (anise)** — *Pimpinella anisum* (Apiaceae), the small Mediterranean seed-fruit. See [anise](/ingredients/anise/).
+- **八角 / star anise (大茴香)** — *Illicium verum* (Schisandraceae), the star-shaped tree fruit. This entry.
+- **fennel (小茴香)** — *Foeniculum vulgare* (Apiaceae), the seed-like fruit of a carrot-family herb. See [fennel](/ingredients/fennel/).
+- **anise (茴芹)** — *Pimpinella anisum* (Apiaceae), the small Mediterranean seed-fruit. See [anise](/ingredients/anise/).
 
 The shared 茴香 name and shared anethole sweetness explain why the three are confused. When a classical recipe lists 茴香, it is usually read as fennel; 大茴香 specifically denotes star anise.
 
