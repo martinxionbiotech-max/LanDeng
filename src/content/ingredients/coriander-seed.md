@@ -46,11 +46,11 @@ The seed-vs-leaf contrast is the defining fact: the seed is warm, citrusy, and w
 
 > **Direct answer:** 芫荽籽 (yánsuī zǐ) means "coriander seed" — 芫荽 for the coriander plant, 籽 for "seed." The older name 胡荽 (húsuī) carries the 胡 foreign-origin prefix, marking coriander as an imported aromatic. The leaf herb is separately named 香菜 ("fragrant vegetable"), reflecting its fresh culinary use.
 
-The name 芫荽籽 is a two-part label: 芫荽 (the coriander plant) + 籽 (seed), explicitly naming the seed as distinct from the leaf. The older name 胡荽 carries the 胡 foreign-origin prefix — the same marker in 胡椒 (pepper) and 葫芦巴 (fenugreek) — recording coriander's arrival as a western import. The leaf herb, meanwhile, is commonly called 香菜 ("fragrant vegetable") in everyday use. This name structure is itself a disambiguation: 芫荽籽 names the seed, 香菜/芫荽 names the leaf, and 胡荽 records the plant's imported origin.
+The name 芫荽籽 is a two-part label: 芫荽 (the coriander plant) + 籽 (seed), explicitly naming the seed as distinct from the leaf. The older name 胡荽 carries the 胡 foreign-origin prefix — the same marker in pepper (胡椒) and fenugreek (葫芦巴) — recording coriander's arrival as a western import. The leaf herb, meanwhile, is commonly called 香菜 ("fragrant vegetable") in everyday use. This name structure is itself a disambiguation: 芫荽籽 names the seed, 香菜/芫荽 names the leaf, and 胡荽 records the plant's imported origin.
 
 ## Why is it used in incense?
 
-> **Direct answer:** Coriander seed appears as a fresh, citrusy spice accent in some 合香 (blended incense) formulas, alongside fennel and citrus peels, rather than as a classical defining material. Its linalool-driven, warm-citrus character brightens heavier blends, and it is the seed — not the leaf — that serves this role.
+> **Direct answer:** Coriander seed appears as a fresh, citrusy spice accent in some blended incense (合香) formulas, alongside fennel and citrus peels, rather than as a classical defining material. Its linalool-driven, warm-citrus character brightens heavier blends, and it is the seed — not the leaf — that serves this role.
 
 Coriander seed's incense role is a **fresh spice accent**: it appears in some 合香 blends alongside fennel and citrus peels, where its warm, citrusy, linalool-driven character brightens and lifts heavier compositions. It is a supporting note, not a lead — a clean, sweet-woody citrus lift beneath the resins and woods. The critical point is that this role belongs to the *seed*, not the leaf: the seed's warm-citrus spice is the aromatic contribution, while the leaf's fresh, green, polarizing character has no place in an incense blend. The two are not interchangeable.
 
@@ -140,11 +140,11 @@ Coriander seed (芫荽籽) is the dried fruit of *Coriandrum sativum*, an annual
 
 **What does coriander seed smell like?** Warm and citrusy, with a woody, slightly spicy, faintly floral character that comes largely from the essential oil linalool. It is a fresh spice accent — it brightens heavier blends in the way that citrus and fennel do — rather than a base note. The seed's aroma is entirely unlike the fresh, green scent of the coriander leaf.
 
-**What is 芫荽 in Chinese tradition?** 芫荽 (also 胡荽 in older texts) is the coriander plant, recorded as a culinary herb and a materia-medica aromatic in the 本草綱目 菜部. The seed (芫荽籽) is the part used as a spice, and it appears as a fresh accent in some 合香 (blended incense) formulas alongside fennel and citrus peels.
+**What is coriander (芫荽) in Chinese tradition?** 芫荽 (also 胡荽 in older texts) is the coriander plant, recorded as a culinary herb and a materia-medica aromatic in the 本草綱目 菜部. The seed (芫荽籽) is the part used as a spice, and it appears as a fresh accent in some blended incense (合香) formulas alongside fennel and citrus peels.
 
 **How should coriander seed be stored for quality?** Whole, rather than ground. Whole coriander seed is round, dry, and fragrant with a warm, citrusy, slightly floral aroma, and it retains its scent far longer than pre-ground powder. The strength of the aroma when the seed is freshly crushed is the main quality indicator, and in incense it is a fresh spice accent used in blends.
 
-**What does the 胡 in 胡荽 mean?** It is the classical foreign-origin prefix, the same 胡 in 胡椒 (pepper) and 葫芦巴 (fenugreek), marking coriander as a western import. The modern 芫荽籽 adds the 籽 "seed" suffix to separate the seed from the leaf herb (芫荽/香菜).
+**What does the 胡 in coriander (胡荽) mean?** It is the classical foreign-origin prefix, the same 胡 in pepper (胡椒) and fenugreek (葫芦巴), marking coriander as a western import. The modern 芫荽籽 adds the 籽 "seed" suffix to separate the seed from the leaf herb (芫荽/香菜).
 
 See also: [fennel](/ingredients/fennel/), [orange-peel](/ingredients/orange-peel/), and the full [scent guide](/blog/scent-guide/).
 
