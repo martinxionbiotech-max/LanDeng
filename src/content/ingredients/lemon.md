@@ -28,34 +28,34 @@ related: ["citron", "finger-citron", "pomelo-peel"]
 
 ## Aroma profile
 
-> **Direct answer:** 柠檬 (lemon) is bright, zesty, and sweet-sour, with the sharp, clean, instantly recognizable scent of fresh lemon peel. It is a top note — volatile, high-pitched, and fleeting — and in a blend it adds sparkle and lift rather than body. Its character comes from the oil in the rind, chiefly the compound limonene with citral.
+> **Direct answer:** lemon (柠檬) is bright, zesty, and sweet-sour, with the sharp, clean, instantly recognizable scent of fresh lemon peel. It is a top note — volatile, high-pitched, and fleeting — and in a blend it adds sparkle and lift rather than body. Its character comes from the oil in the rind, chiefly the compound limonene with citral.
 
-柠檬 (lemon) is bright, zesty, and sweet-sour, with the sharp, clean, instantly recognizable scent of fresh lemon peel. It is a top note — volatile, high-pitched, and fleeting — and in a blend it adds sparkle and lift rather than body. Its character comes from the oil in the rind, chiefly the compound **limonene** with citral.
+lemon (柠檬) is bright, zesty, and sweet-sour, with the sharp, clean, instantly recognizable scent of fresh lemon peel. It is a top note — volatile, high-pitched, and fleeting — and in a blend it adds sparkle and lift rather than body. Its character comes from the oil in the rind, chiefly the compound **limonene** with citral.
 
 The top-note behavior is the defining practical fact: lemon's bright citrus character is volatile and short-lived, so it is experienced as a quick lift at the opening of a blend, then fades. This is why lemon is almost always blended — alone it flashes and disappears, but in a formula it "opens" the scent with a clean, zesty sparkle.
 
 ## A provenance note (read this)
 
-> **Direct answer:** 柠檬 (lemon) is a modern essential-oil material, not a classical Chinese 香材: *Citrus × limon* is a cultivated hybrid (citron crossed with bitter orange) with no native Chinese status, and the Chinese name 柠檬 is modern. This page records it honestly — no classical Chinese origin is claimed, and none is fabricated.
+> **Direct answer:** lemon (柠檬) is a modern essential-oil material, not a classical Chinese 香材: *Citrus × limon* is a cultivated hybrid (citron crossed with bitter orange) with no native Chinese status, and the Chinese name 柠檬 is modern. This page records it honestly — no classical Chinese origin is claimed, and none is fabricated.
 
-柠檬 (lemon) is a **modern essential-oil material**, not a classical Chinese 香材:
+lemon (柠檬) is a **modern essential-oil material**, not a classical Chinese 香材:
 
 - *Citrus × limon* is a cultivated hybrid — botanically the citron (香橼) crossed with the bitter orange — believed to have originated in South or Southeast Asia and long grown in the Mediterranean. Flora of China does not record it as a native species.
 - The Chinese name 柠檬 is modern; the lemon as a fragrance note is a **modern essential-oil and Western-perfumery tradition**, absent from the classical 香材 canon.
-- It is **not** the same as 香橼 (citron, *Citrus medica*), 佛手 (finger citron), or 柚皮 (pomelo peel, *Citrus maxima*) — all classical or traditional Chinese citrus fragrance fruits with their own entries.
+- It is **not** the same as 香橼 (citron, *Citrus medica*), finger citron (佛手), or 柚皮 (pomelo peel, *Citrus maxima*) — all classical or traditional Chinese citrus fragrance fruits with their own entries.
 
 This page records it honestly as a modern citrus essential oil — **no classical Chinese origin is claimed, and none is fabricated.**
 
 ## The citrus-family distinction (read this)
 
-> **Direct answer:** The citrus family is crowded in Chinese fragrance, and the names do not map one-to-one: 柠檬 (lemon) is a modern hybrid grown for essential oil; 香橼 (citron), 佛手 (finger citron), and 柚皮 (pomelo peel) are classical or traditional fragrance fruits. Lemon shares the citrus-oil chemistry but is a modern essential-oil material.
+> **Direct answer:** The citrus family is crowded in Chinese fragrance, and the names do not map one-to-one: lemon (柠檬) is a modern hybrid grown for essential oil; citron (香橼), finger citron (佛手), and pomelo peel (柚皮) are classical or traditional fragrance fruits. Lemon shares the citrus-oil chemistry but is a modern essential-oil material.
 
 The citrus family is crowded in Chinese fragrance, and the names do not map one-to-one:
 
-- **柠檬 (lemon)** — *Citrus × limon*, a modern hybrid, used for essential oil. This entry.
-- **香橼 (citron)** — *Citrus medica*, the ancient fragrance fruit, a 清供 offering fruit.
-- **佛手 (finger citron)** — *Citrus medica* var. *sarcodactylis*, the fingered form of the citron.
-- **柚皮 (pomelo peel)** — *Citrus maxima*, the pomelo peel used as a citrus peel note.
+- **lemon (柠檬)** — *Citrus × limon*, a modern hybrid, used for essential oil. This entry.
+- **citron (香橼)** — *Citrus medica*, the ancient fragrance fruit, a 清供 offering fruit.
+- **finger citron (佛手)** — *Citrus medica* var. *sarcodactylis*, the fingered form of the citron.
+- **pomelo peel (柚皮)** — *Citrus maxima*, the pomelo peel used as a citrus peel note.
 
 Lemon shares the citrus-oil chemistry but is a modern essential-oil material, not a classical Chinese fragrance fruit. Specify the species when sourcing.
 
@@ -69,12 +69,12 @@ The hybrid origin is the key to its identity and its provenance: the lemon is a 
 
 ## The lemon / lemon-balm distinction (read this)
 
-> **Direct answer:** 柠檬 (lemon) and 香蜂草 (lemon balm) are often grouped as "lemon-scented" but are entirely different plants: lemon is the citrus fruit *Citrus × limon* (Rutaceae), while lemon balm is the mint-family herb *Melissa officinalis* (Lamiaceae). They share a lemony scent from overlapping chemistry but are not related.
+> **Direct answer:** lemon (柠檬) and lemon balm (香蜂草) are often grouped as "lemon-scented" but are entirely different plants: lemon is the citrus fruit *Citrus × limon* (Rutaceae), while lemon balm is the mint-family herb *Melissa officinalis* (Lamiaceae). They share a lemony scent from overlapping chemistry but are not related.
 
 The "lemon" scent family has two common members that are easily confused:
 
-- **柠檬 (lemon)** — *Citrus × limon*, the citrus fruit and its rind oil (Rutaceae). This entry.
-- **香蜂草 (lemon balm)** — *Melissa officinalis*, a mint-family herb (Lamiaceae) with a lemony, herbaceous scent. Its own entry.
+- **lemon (柠檬)** — *Citrus × limon*, the citrus fruit and its rind oil (Rutaceae). This entry.
+- **lemon balm (香蜂草)** — *Melissa officinalis*, a mint-family herb (Lamiaceae) with a lemony, herbaceous scent. Its own entry.
 
 Both carry a "lemony" note — and there is genuine chemical overlap, since both involve the aldehyde **citral** — but they are unrelated plants from different families: one a citrus fruit, the other a leafy herb. The shared scent is convergent, not ancestral. See [lemon balm](/ingredients/lemon-balm/).
 
@@ -86,9 +86,9 @@ Both carry a "lemony" note — and there is genuine chemical overlap, since both
 
 ## Traditional use vs modern evidence
 
-> **Direct answer:** There is no classical Chinese incense record for 柠檬 (lemon); its position is entirely modern. We make no medical claims. The documented facts are botanical identity, the Rutaceae placement, and its modern essential-oil role.
+> **Direct answer:** There is no classical Chinese incense record for lemon (柠檬); its position is entirely modern. We make no medical claims. The documented facts are botanical identity, the Rutaceae placement, and its modern essential-oil role.
 
-There is **no classical Chinese incense record** for 柠檬 (lemon); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Rutaceae placement, and its modern essential-oil role.
+There is **no classical Chinese incense record** for lemon (柠檬); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Rutaceae placement, and its modern essential-oil role.
 
 ## Why is lemon used in modern fragrance?
 
@@ -138,7 +138,7 @@ The essential oil is the fragrance form; the peel and juice are food materials. 
 
 For a buyer or sourcing reader:
 
-- **Identity** — confirm 柠檬 is *Citrus × limon*, distinct from 香橼 (citron), 佛手 (finger citron), and 柚皮 (pomelo peel).
+- **Identity** — confirm 柠檬 is *Citrus × limon*, distinct from citron (香橼), finger citron (佛手), and pomelo peel (柚皮).
 - **Freshness** — the bright top note is volatile and oxidizes; a fresh oil is markedly brighter.
 - **Adulteration** — citrus oils are commonly extended; check for a clean, unadulterated oil.
 - **Role** — expect a top note, usually blended, not a body or base material.
@@ -167,7 +167,7 @@ Lemon (柠檬) is the fruit and rind of *Citrus × limon*, a cultivated hybrid o
 
 ## FAQ
 
-**What is 柠檬 (lemon)?** The fruit and rind of *Citrus × limon*, a cultivated hybrid citrus in the rue family (Rutaceae), believed to originate from crossing the citron (香橼) with the bitter orange. Its peel carries a bright, zesty, sweet-sour citrus scent from its essential oil. It is a modern essential-oil fragrance material, not a classical Chinese incense ingredient.
+**What is lemon (柠檬)?** The fruit and rind of *Citrus × limon*, a cultivated hybrid citrus in the rue family (Rutaceae), believed to originate from crossing the citron (香橼) with the bitter orange. Its peel carries a bright, zesty, sweet-sour citrus scent from its essential oil. It is a modern essential-oil fragrance material, not a classical Chinese incense ingredient.
 
 **Is lemon a classical Chinese incense ingredient?** No. Lemon is a modern essential-oil note with no place in the classical 香材 canon. The Chinese name 柠檬 is modern, and its fragrance use is a Western-perfumery and essential-oil tradition. The classical Chinese citrus fragrance fruits are citron (香橼), finger citron (佛手), and pomelo peel (柚皮), which have their own entries.
 
@@ -177,7 +177,7 @@ Lemon (柠檬) is the fruit and rind of *Citrus × limon*, a cultivated hybrid o
 
 **How is lemon used in fragrance?** As a bright top note from its cold-pressed essential oil, used in perfumery, home fragrance, and aromatherapy. It is a modern essential-oil material, not a burned classical incense ingredient, and because it fades quickly it is usually blended rather than burned alone.
 
-**Is lemon the same as lemon balm?** No. 柠檬 (lemon) is the citrus fruit *Citrus × limon* (Rutaceae); 香蜂草 (lemon balm) is the mint-family herb *Melissa officinalis* (Lamiaceae). Both have a lemony note (involving the compound citral), but they are unrelated plants from different families — the shared scent is convergent, not ancestral. See [lemon balm](/ingredients/lemon-balm/).
+**Is lemon the same as lemon balm?** No. lemon (柠檬) is the citrus fruit *Citrus × limon* (Rutaceae); lemon balm (香蜂草) is the mint-family herb *Melissa officinalis* (Lamiaceae). Both have a lemony note (involving the compound citral), but they are unrelated plants from different families — the shared scent is convergent, not ancestral. See [lemon balm](/ingredients/lemon-balm/).
 
 **Why is lemon oil usually blended?** Because its bright citrus character is a volatile top note that flashes and fades quickly. Alone, lemon oil is sharp and short-lived; in a blend it "opens" the fragrance with a clean, zesty sparkle, after which the heart and base notes carry the scent. This top-note logic is the same for all citrus oils.
 
@@ -210,4 +210,4 @@ See also: [citron (香橼)](/ingredients/citron/), [finger citron (佛手)](/ing
 
 - [Citrus × limon on GBIF](https://www.gbif.org/species/7647136)
 
-*Sources: botanical references on *Citrus × limon*. 柠檬 (lemon) is a modern citrus essential oil with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Citrus × limon*. lemon (柠檬) is a modern citrus essential oil with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
