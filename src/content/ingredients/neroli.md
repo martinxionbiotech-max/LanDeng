@@ -28,15 +28,15 @@ related: ["bergamot", "orange-peel", "jasmine"]
 
 ## Aroma profile
 
-> **Direct answer:** 橙花 (neroli) has a delicate, sweet, citrus-floral scent with a clean, green, slightly honeyed edge — the soft, luminous blossom note that sits between bright citrus and white florals like jasmine. It is lighter and more ethereal than the orange fruit or peel, and it is a classic heart note in modern fine perfumery.
+> **Direct answer:** neroli (橙花) has a delicate, sweet, citrus-floral scent with a clean, green, slightly honeyed edge — the soft, luminous blossom note that sits between bright citrus and white florals like jasmine. It is lighter and more ethereal than the orange fruit or peel, and it is a classic heart note in modern fine perfumery.
 
-橙花 (neroli) has a delicate, sweet, citrus-floral scent with a clean, green, slightly honeyed edge — the soft, luminous blossom note that sits between bright citrus and white florals like jasmine. It is lighter and more ethereal than the orange fruit or peel, and it is a classic heart note in modern fine perfumery. The key to neroli's character is that it carries both sides of its parent tree at once: a floral sweetness from the blossom and a bright, bitter-orange freshness that keeps it from turning cloying.
+neroli (橙花) has a delicate, sweet, citrus-floral scent with a clean, green, slightly honeyed edge — the soft, luminous blossom note that sits between bright citrus and white florals like jasmine. It is lighter and more ethereal than the orange fruit or peel, and it is a classic heart note in modern fine perfumery. The key to neroli's character is that it carries both sides of its parent tree at once: a floral sweetness from the blossom and a bright, bitter-orange freshness that keeps it from turning cloying.
 
 ## A provenance note (read this)
 
-> **Direct answer:** 橙花 (neroli) is a modern fragrance material, not a classical Chinese 香材. Neroli oil is distilled from bitter-orange flowers, a practice developed in European perfumery and named for the Princess of Nerola. Chinese tradition uses the bitter orange's peel and fruit, not the flower, so no classical Chinese origin is claimed.
+> **Direct answer:** neroli (橙花) is a modern fragrance material, not a classical Chinese 香材. Neroli oil is distilled from bitter-orange flowers, a practice developed in European perfumery and named for the Princess of Nerola. Chinese tradition uses the bitter orange's peel and fruit, not the flower, so no classical Chinese origin is claimed.
 
-橙花 (neroli) is a **modern fragrance material**, not a classical Chinese 香材:
+neroli (橙花) is a **modern fragrance material**, not a classical Chinese 香材:
 
 - The bitter orange, *Citrus aurantium*, is a cultivated citrus; neroli essential oil is distilled from its flowers, a practice developed in European perfumery and named for the Princess of Nerola (Italy).
 - Chinese tradition uses the bitter orange's **peel** (橙皮/陈皮) and **fruit**, not the flower, as its fragrant part; the blossom as an essential-oil material is a modern perfumery crossover.
@@ -60,7 +60,7 @@ The point for this encyclopedia is the clean separation of *parts*: neroli is sp
 
 > **Direct answer:** *Citrus aurantium*, the bitter (sour) orange, is a cultivated citrus tree (Rutaceae), the parent of several cultivated citruses. Its flowers are steam-distilled to produce neroli oil, and its peel yields bitter-orange oil. Flora of China does not treat *Citrus aurantium* as a native species; the classical Chinese citruses are the sweet orange and the mandarin (the source of 陈皮).
 
-*Citrus aurantium*, the bitter (sour) orange, is a citrus tree (Rutaceae), the parent of several cultivated citruses. Its flowers are steam-distilled to produce neroli oil, and its peel yields bitter-orange oil. Flora of China does not treat *Citrus aurantium* as a native species; the classical Chinese citrus is the sweet orange (橙, *Citrus × aurantium* / *C. sinensis*) and the mandarin (橘, *Citrus reticulata*) — the source of 陈皮 (orange peel). The bitter orange is a cultivated, largely European-managed citrus, which is why its flower oil carries a modern perfumery identity rather than a classical Chinese one.
+*Citrus aurantium*, the bitter (sour) orange, is a citrus tree (Rutaceae), the parent of several cultivated citruses. Its flowers are steam-distilled to produce neroli oil, and its peel yields bitter-orange oil. Flora of China does not treat *Citrus aurantium* as a native species; the classical Chinese citrus is the sweet orange (橙, *Citrus × aurantium* / *C. sinensis*) and the mandarin (橘, *Citrus reticulata*) — the source of orange peel (陈皮). The bitter orange is a cultivated, largely European-managed citrus, which is why its flower oil carries a modern perfumery identity rather than a classical Chinese one.
 
 ## Where does neroli come from?
 
@@ -78,13 +78,13 @@ Neroli is a cultivated-flower product of the bitter orange, a tree grown across 
 
 ## Traditional use vs modern evidence
 
-> **Direct answer:** There is no classical Chinese incense record for 橙花 (neroli); its position is entirely modern. The documented facts are botanical identity, the Rutaceae placement, and the modern perfumery role of the flower oil — distinct from the classical Chinese peel material 陈皮.
+> **Direct answer:** There is no classical Chinese incense record for neroli (橙花); its position is entirely modern. The documented facts are botanical identity, the Rutaceae placement, and the modern perfumery role of the flower oil — distinct from the classical Chinese peel material 陈皮.
 
 - **Traditional Use** — none in classical Chinese incense; the flower (neroli) has no traditional 香材 role, and the Chinese fragrant citrus tradition uses the peel, not the blossom.
 - **Historical Record** — neroli oil as a European perfumery development, named for the Princess of Nerola, is documented modern history; the botanical record places *Citrus aurantium* as a cultivated bitter orange, not a native Chinese species.
 - **Scientific Evidence** — botanical identity (Rutaceae, *Citrus aurantium*) is established; the flower-vs-peel distinction (neroli vs 陈皮) is a botanical fact. No medical claims are made.
 
-There is **no classical Chinese incense record** for 橙花 (neroli); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Rutaceae placement, and its modern perfumery role.
+There is **no classical Chinese incense record** for neroli (橙花); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Rutaceae placement, and its modern perfumery role.
 
 ## How is neroli used in incense?
 
@@ -121,9 +121,9 @@ Neroli (橙花) is the blossom of the bitter orange *Citrus aurantium*, a cultiv
 
 ## FAQ
 
-**What is 橙花 (neroli)?** The blossom of the bitter orange, *Citrus aurantium*, whose flowers are distilled into neroli essential oil. It has a delicate, sweet, citrus-floral, green scent and is a classic heart note in modern perfumery, named for the Princess of Nerola.
+**What is neroli (橙花)?** The blossom of the bitter orange, *Citrus aurantium*, whose flowers are distilled into neroli essential oil. It has a delicate, sweet, citrus-floral, green scent and is a classic heart note in modern perfumery, named for the Princess of Nerola.
 
-**Is 橙花 a classical Chinese incense ingredient?** No. Chinese tradition uses the bitter orange's peel (橙皮/陈皮) and fruit, not the flower; neroli as an essential-oil material is a modern European-perfumery development. It has no place in the classical 香材 canon, and no classical origin is claimed.
+**Is neroli (橙花) a classical Chinese incense ingredient?** No. Chinese tradition uses the bitter orange's peel (橙皮/陈皮) and fruit, not the flower; neroli as an essential-oil material is a modern European-perfumery development. It has no place in the classical 香材 canon, and no classical origin is claimed.
 
 **What is the difference between neroli and orange peel?** Different parts, different citruses. Neroli (橙花) is the flower of the bitter orange (*Citrus aurantium*), used as a modern essential oil; orange peel (陈皮) is the dried peel of the mandarin orange (*Citrus reticulata*), a classical Chinese fragrant and materia-medica part. The flower is a modern perfumery note; the peel is a classical material.
 
@@ -162,4 +162,4 @@ See also: [bergamot (佛手柑)](/ingredients/bergamot/), [orange-peel (陈皮)]
 
 - [Citrus aurantium on GBIF](https://www.gbif.org/species/8077391)
 
-*Sources: botanical references on *Citrus aurantium*. 橙花 (neroli) is a modern fragrance material with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Citrus aurantium*. neroli (橙花) is a modern fragrance material with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
