@@ -79,7 +79,7 @@ See [Chinese Incense Recipes (香方): Translated from the Classical Manuals](/b
 
 ## FAQ
 
-### Q: What is 柏子香?
+### Q: What is cypress-seed incense (柏子香)?
 柏子香 (bǎi zǐ xiāng, "cypress-seed incense") is the humble, deliberately simple incense of the Chinese tradition, made from the seeds of the oriental arborvitae (Platycladus orientalis, 侧柏). The classical recipe scalds the green, unopened seeds in boiling water, soaks them in wine, seals them with honey for about seven days, and then dries them in the shade before burning. It is the scholar's counterpoint to the court's expensive 沉檀麝 blends — a single, cheap material transformed by patience and process. Su Shi famously paired it with a simple meal: "铜炉烧柏子，石鼎煮山药" (a bronze burner of cypress seed, a stone pot of yam).
 
 ### Q: Is it a single-material incense?
