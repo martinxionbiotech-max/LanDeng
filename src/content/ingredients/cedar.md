@@ -49,9 +49,9 @@ The Chinese name 雪松 (xuěsōng, "snow cedar") specifically denotes true *Ced
 
 雪松 (xuěsōng) is not the only Chinese conifer name a buyer will meet. Three conifers with overlapping, woody-clean aromas carry distinct names:
 
-- **雪松 (cedar)** — true *Cedrus* (Pinaceae). This entry.
-- **杜松 (juniper)** — common juniper *Juniperus communis* (Cupressaceae); brighter and drier than cedar. See [juniper](/ingredients/juniper/).
-- **崖柏 (thuja)** — *Thuja sutchuenensis* (Cupressaceae), a rare, protected Sichuan/Chongqing conifer with a cedar-like, faintly smoky note. See [thuja](/ingredients/thuja/).
+- **cedar (雪松)** — true *Cedrus* (Pinaceae). This entry.
+- **juniper (杜松)** — common juniper *Juniperus communis* (Cupressaceae); brighter and drier than cedar. See [juniper](/ingredients/juniper/).
+- **thuja (崖柏)** — *Thuja sutchuenensis* (Cupressaceae), a rare, protected Sichuan/Chongqing conifer with a cedar-like, faintly smoky note. See [thuja](/ingredients/thuja/).
 
 Where English lumps several of these under "cedarwood," the Chinese terms separate them by species, which is a useful guard against a mislabeled product.
 
@@ -206,7 +206,7 @@ In our view, the commercial sweet spot is a **named genus, bought in a consisten
 
 ## Summary
 
-Cedar is a dry, clean, slightly sweet-resinous wood note that appears in incense under a confusing common name: true cedar (*Cedrus*, pine family) versus "cedarwood" often meaning red cedar (*Juniperus virginiana*, a juniper). Chinese 雪松 (xuěsōng) denotes the true *Cedrus*, and it is distinct from 杜松 (juniper) and 崖柏 (thuja). Its value rests on genus, heartwood content, and consistency rather than rarity, and its "calming" reputation is traditional language, not clinical evidence. In incense it is a light base or background note; commercially, naming the genus is the first requirement.
+Cedar is a dry, clean, slightly sweet-resinous wood note that appears in incense under a confusing common name: true cedar (*Cedrus*, pine family) versus "cedarwood" often meaning red cedar (*Juniperus virginiana*, a juniper). Chinese 雪松 (xuěsōng) denotes the true *Cedrus*, and it is distinct from juniper (杜松) and thuja (崖柏). Its value rests on genus, heartwood content, and consistency rather than rarity, and its "calming" reputation is traditional language, not clinical evidence. In incense it is a light base or background note; commercially, naming the genus is the first requirement.
 
 ## FAQ
 
@@ -230,7 +230,7 @@ See also: [thuja](/ingredients/thuja/), [juniper](/ingredients/juniper/), [sanda
 **Source:** [Cedrus in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005268) · [Cedrus on GBIF](https://www.gbif.org/species/5284698). **Evidence type:** Established.
 
 ### Traditional Chinese use
-**Source:** this page records cedar's clean, dry wood note in incense blends and meditation settings, with the 雪松 (true cedar) naming note. **Evidence type:** Historically documented — traditional use, not modern clinical evidence.
+**Source:** this page records cedar's clean, dry wood note in incense blends and meditation settings, with the true cedar (雪松) naming note. **Evidence type:** Historically documented — traditional use, not modern clinical evidence.
 
 ### Authenticity / adulteration
 **Source:** the naming problem — commercial "cedarwood" oil is often *Juniperus virginiana* (red cedar), not true *Cedrus*. **Evidence type:** Practical screening.
