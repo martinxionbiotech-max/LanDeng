@@ -58,7 +58,7 @@ Onycha is not a plant — it is the operculum, the hard, horn-like disc on the f
 
 > **Direct answer:** 甲香 (jiǎxiāng) means "shell fragrance" — 甲 for the shell or the hard covering, 香 for "fragrance." The name records the material's origin in the snail's hard operculum and its use as a fragrance fixative, not as a scent in its own right.
 
-The name 甲香 is transparent: 甲 (shell/hard covering) + 香 (fragrance), naming the snail's hard operculum as a "fragrance" material. The name is a fixative-name, not a scent-name — it records the material's use in 合香 (blended incense) as a functional binder and stabilizer, not as an aromatic showcase. This is consistent with the classical treatment: onycha appears in formulas dosed as a fixative, specified to be 法制 (treated) before use, and its name reflects its role rather than any scent it carries.
+The name 甲香 is transparent: 甲 (shell/hard covering) + 香 (fragrance), naming the snail's hard operculum as a "fragrance" material. The name is a fixative-name, not a scent-name — it records the material's use in blended incense (合香) as a functional binder and stabilizer, not as an aromatic showcase. This is consistent with the classical treatment: onycha appears in formulas dosed as a fixative, specified to be 法制 (treated) before use, and its name reflects its role rather than any scent it carries.
 
 ## Why is it used in incense?
 
@@ -90,7 +90,7 @@ There is no modern traded form: onycha is a historical ingredient, and the treat
 
 ## In Chinese tradition
 
-- **Classical 合香 (blended incense):** 甲香 appears in the 香乘 (Xiang Cheng) and 香譜 (Xiangpu) as a fixative in court and temple blends, most famously in the 花蕊夫人衙香 (Huarui Furen's court incense), where it is dosed at 一两 (one liǎng) alongside frankincense and borneol, and is specified to be 法制 (treated) before use.
+- **Classical blended incense (合香):** 甲香 appears in the 香乘 (Xiang Cheng) and 香譜 (Xiangpu) as a fixative in court and temple blends, most famously in the Huarui Furen's court incense (花蕊夫人衙香), where it is dosed at 一两 (one liǎng) alongside frankincense and borneol, and is specified to be 法制 (treated) before use.
 - **Materia medica:** 甲香 is recorded in traditional Chinese medicine (本草綱目, 介部) with various described uses. This is **traditional materia-medica language, not modern clinical evidence.**
 
 ## Traditional use vs modern evidence
@@ -142,13 +142,13 @@ In our view, onycha is best understood as the **functional, now-obsolete shellfi
 
 ## FAQ
 
-**What is 甲香 (onycha)?** It is the operculum — the hard, shell-like disc that seals the opening of certain marine gastropods, or sea snails. In classical Chinese incense it was used as a fixative to bind and stabilize a blend's scent, adding a faint marine, animalic undertone. It is animal-derived, not botanical, and is recorded in the 香乘 (Xiang Cheng) and 香譜 (Xiangpu) as a court and temple blend ingredient.
+**What is onycha (甲香)?** It is the operculum — the hard, shell-like disc that seals the opening of certain marine gastropods, or sea snails. In classical Chinese incense it was used as a fixative to bind and stabilize a blend's scent, adding a faint marine, animalic undertone. It is animal-derived, not botanical, and is recorded in the 香乘 (Xiang Cheng) and 香譜 (Xiangpu) as a court and temple blend ingredient.
 
 **Is onycha still used today?** Largely no. 甲香 is a **historical formula ingredient** — it is rarely sourced or used in modern incense, and reproductions of classical blends typically substitute or omit it. Its animal origin also makes it unsuitable for vegetarian or cruelty-conscious makers. When you see 甲香 in an old formula, read it as a functional fixative from the shellfish tradition rather than a scent note.
 
 **What part of the animal is onycha?** The operculum — the hard, horn-like disc on the foot of certain sea snails that seals the shell opening when the animal withdraws. It is a mollusc structure, distinct from the shell itself. In classical incense the operculum was treated (法制) before use, then added to blends as a fixative rather than for its own aroma.
 
-**Where does onycha appear in classical recipes?** Most famously in the 花蕊夫人衙香 (Huarui Furen's court incense), recorded in the 香乘 (Xiang Cheng), where 甲香 is dosed at 一两 (one liǎng) alongside frankincense and borneol and specified to be treated before use. There it serves as the fixative in an agarwood–sandalwood–musk court blend. See the [Huarui Furen court incense recipe](/blog/huarui-furen-yamen-recipe/).
+**Where does onycha appear in classical recipes?** Most famously in the Huarui Furen's court incense (花蕊夫人衙香), recorded in the 香乘 (Xiang Cheng), where 甲香 is dosed at 一两 (one liǎng) alongside frankincense and borneol and specified to be treated before use. There it serves as the fixative in an agarwood–sandalwood–musk court blend. See the [Huarui Furen court incense recipe](/blog/huarui-furen-yamen-recipe/).
 
 **Why is onycha an animal product, and why does that matter?** Because it comes from sea snails rather than a plant, wood, or resin. This matters for category (it is animal-derived, not botanical), for suitability (it is unsuitable for vegetarian or cruelty-conscious products), and for modern sourcing (it is now largely a historical ingredient). The page documents it as historical and connoisseurship context only.
 
