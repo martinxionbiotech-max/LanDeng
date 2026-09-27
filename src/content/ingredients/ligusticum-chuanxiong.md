@@ -46,7 +46,7 @@ This nomenclatural instability is a real sourcing issue, not an academic footnot
 
 The classical name for the lovage group is 芎藭 (xiōngqióng), under which the *Bencao Gangmu* (本草纲目), 草之三, records 川芎 as the Sichuan form: "出蜀中者，為川芎" — the one produced in Sichuan (蜀) is called 川芎. The name therefore encodes provenance, not just plant identity: it tells you *where* the root was grown, which in classical pharmacology was part of the identity claim. This is the same naming logic seen in other place-tagged Chinese aromatics, and it is why "chuanxiong" and "lovage" are not interchangeable in a sourcing conversation — the former carries the Sichuan-cultivation claim.
 
-## The 川芎 / 藁本 distinction (read this)
+## The chuanxiong (川芎) / ligusticum (藁本) distinction (read this)
 
 > **Direct answer:** 川芎 and 藁本 are closely related but distinct roots in the same lovage genus. 川芎 is *Ligusticum chuanxiong* (Sichuan lovage); 藁本 is *Ligusticum sinense* (Chinese lovage). They are recorded as separate adjacent entries in the *Bencao Gangmu*, and the distinction survives even though modern taxonomy shifts both toward *Conioselinum anthriscoides*.
 
@@ -67,7 +67,7 @@ The *Bencao Gangmu* (本草纲目), 草之三, records them as **separate adjace
 
 > **Direct answer:** Chuanxiong is used in incense not as a lead scent but as a medicinal-aromatic bridge — its pungent, spicy root character adds an earthy, herbal middle that supports sweeter or woodier aromatics. Its primary classical standing is in materia medica, so its incense role is secondary and structural rather than a defining 香材.
 
-In the incense context, 川芎 occupies an interesting intermediate position. It is **primarily a materia-medica root**, not a lead 香材 (incense material) in the way agarwood or sandalwood are. But its strong aromatic character — pungent, herbal, spicy — gives it a genuine supporting role: it can lend an earthy, aromatic middle that anchors a blend and bridges sharper or sweeter materials. The key distinction to hold is that its incense use is *derived from* its medicinal-aromatic character, not from a classical incense-manual prominence. It is a root you might add for its herbal spine, not one you would build a formula around. For how such supporting aromatics function inside a blend, see [hexiang (合香) blending](/blog/hexiang-blending-system/).
+In the incense context, 川芎 occupies an interesting intermediate position. It is **primarily a materia-medica root**, not a lead incense material (香材) in the way agarwood or sandalwood are. But its strong aromatic character — pungent, herbal, spicy — gives it a genuine supporting role: it can lend an earthy, aromatic middle that anchors a blend and bridges sharper or sweeter materials. The key distinction to hold is that its incense use is *derived from* its medicinal-aromatic character, not from a classical incense-manual prominence. It is a root you might add for its herbal spine, not one you would build a formula around. For how such supporting aromatics function inside a blend, see [hexiang (合香) blending](/blog/hexiang-blending-system/).
 
 ## How is it processed?
 
@@ -153,11 +153,11 @@ Chuanxiong (川芎) is the Sichuan-cultivated rhizome of *Ligusticum chuanxiong*
 
 **What is 川芎 (chuanxiong)?** The aromatic rhizome of *Ligusticum chuanxiong* (syn. *Conioselinum anthriscoides*), an herb of the carrot family (Apiaceae) cultivated in Sichuan. It has a strong, herbal, spicy, slightly bitter root aroma and is a major aromatic root in Chinese materia medica.
 
-**Is 川芎 the same as 藁本 (gaoben)?** No — closely related but distinct roots in the same lovage group. 川芎 is *Ligusticum chuanxiong* (Sichuan lovage); 藁本 is *Ligusticum sinense* (Chinese lovage). The *Bencao Gangmu* (本草纲目) lists them as separate adjacent entries, and Chinese materia medica keeps them distinct even though modern taxonomy shifts both toward *Conioselinum anthriscoides*.
+**Is chuanxiong (川芎) the same as 藁本 (gaoben)?** No — closely related but distinct roots in the same lovage group. 川芎 is *Ligusticum chuanxiong* (Sichuan lovage); 藁本 is *Ligusticum sinense* (Chinese lovage). The *Bencao Gangmu* (本草纲目) lists them as separate adjacent entries, and Chinese materia medica keeps them distinct even though modern taxonomy shifts both toward *Conioselinum anthriscoides*.
 
-**Why is it called 川芎 (Sichuan lovage)?** The *Bencao Gangmu* (本草纲目) explains: "出蜀中者，為川芎" — the one produced in Sichuan (蜀) is called 川芎. The name records its place of cultivation, distinguishing the Sichuan root from lovage grown elsewhere.
+**Why is it called Sichuan lovage (川芎)?** The *Bencao Gangmu* (本草纲目) explains: "出蜀中者，為川芎" — the one produced in Sichuan (蜀) is called 川芎. The name records its place of cultivation, distinguishing the Sichuan root from lovage grown elsewhere.
 
-**What does 川芎 smell like?** Strong, penetrating, herbal-spicy, and slightly bitter, with a warm edge — the pungent-sweet character of the lovage/carrot-family roots. It is more medicinal and sharp than the softer, sweeter angelica (当归) note, and it anchors a blend with an earthy, aromatic middle.
+**What does chuanxiong (川芎) smell like?** Strong, penetrating, herbal-spicy, and slightly bitter, with a warm edge — the pungent-sweet character of the lovage/carrot-family roots. It is more medicinal and sharp than the softer, sweeter angelica (当归) note, and it anchors a blend with an earthy, aromatic middle.
 
 **Is chuanxiong an incense ingredient?** Primarily a materia-medica root. Its strong aromatic character can lend an earthy, herbal middle to a blend, but its classical role is in materia medica rather than as a lead 香材. It is documented separately from the related 藁本, which has its own incense formula appearances.
 
