@@ -1,7 +1,6 @@
 # Phase 2 Change Log
 
 > Change-management ledger (§56). Every modification to the site/repos is recorded here before/after implementation.
-> **This batch is audit-only** — no content, URL, schema, or navigation changes were made.
 
 ## Format
 
@@ -234,3 +233,35 @@ Next phase (after this baseline is reviewed): P0 repairs first (§63 — audit �
 | §43 OG/Twitter audit | 3 defects fixed (og:image double-slash, missing twitter:image, malformed description ×9) | BaseLayout + blog `[slug].astro` |
 | §44/§45 images | 2 PNG charts → WebP (−95.9% combined); 6.61→5.62 MB; lazy-loading verified clean (hero LCP correctly eager) | 2 `.webp` added, 2 `.png` removed, 2 `.md` refs |
 | §50 freshness | Policy doc written; no date changes | none (doc) |
+
+---
+
+## 2026-09-27 — E-E-A-T entity wiring batch (phase2/33 · §21/§27/§29 · §56)
+
+### §21/§27/§29 — Organization/WebSite schema + contact + footer legal identity
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-27 | `src/layouts/BaseLayout.astro` | Organization schema: added `legalName` (Zhangjiakou Landeng Technology Co., Ltd.), `email` (landengltd@gmail.com), `telephone` (+86 13323237275), `address` (PostalAddress: streetAddress/addressLocality/addressRegion/addressCountry CN), `vatID` + `identifier` (PropertyValue propertyID=CN-USCC, value=91130702MAKM4QXH5Q); brand `name` stays "LanDeng" | §21/§27: attach real legal entity to Organization schema at the single BaseLayout emission point | None (no URL/content/rank change) | `npm run build` passes; rendered JSON-LD carries all new fields; brand name unchanged | `git revert` |
+| 2026-09-27 | `src/layouts/BaseLayout.astro` | Footer: added company legal name + address + USCC small-print line (`.footer-legal`) | §21: legal identity visible site-wide | None | Build passes; footer renders legal line on all pages | `git revert` |
+| 2026-09-27 | `src/pages/contact/index.astro` | Replaced TODO `contact@incenseherbs.com` → `landengltd@gmail.com`; added phone +86 13323237275 (WhatsApp/WeChat), company EN name, address, USCC; removed TODO comment | §21/§29: real contact identity, no placeholder | None (no URL change) | grep: 0 `TODO`/`contact@incenseherbs.com` remaining | `git revert` |
+| 2026-09-27 | `src/pages/request-a-quote/index.astro` | Same contact replacement as above | §21/§29 | None | grep clean | `git revert` |
+
+### §21 — author entity + editorial identity
+
+| Date | File | Change | Reason | Risk | Validation | Rollback |
+|---|---|---|---|---|---|---|
+| 2026-09-27 | `src/content/**/*.md` (108 files) | frontmatter `author` "LanDeng Editorial Team" → "Landeng Tech Team" (78 escaped-quote + 30 clean); also fixed the 78 files' stray escaped-quote author value | §21: unify author entity to Landeng Tech Team | None (author field not rendered on blog template) | grep: 0 "LanDeng Editorial Team" remaining in src/content; 108/108 blog have `author: "Landeng Tech Team"` | `git revert` |
+| 2026-09-27 | `src/content/blog/lanDeng-editorial-methodology.md` | Added "Publisher" subsection (company EN/ZH, USCC, address, email, phone); byline renamed to Landeng Tech Team | §21/§29: methodology page carries real company identity + team name + contact | None | Build passes; 5 prose occurrences renamed | `git revert` |
+| 2026-09-27 | `src/content/blog/lanDeng-knowledge-map.md` | Added "Publisher & Contact" section (company EN/ZH, USCC, address, email, phone); FAQ attribution renamed | §21/§29 | None | Build passes | `git revert` |
+| 2026-09-27 | `src/pages/index.astro` | Editorial-trust section: added sentence naming Zhangjiakou Landeng Technology Co., Ltd. as the brand's operating company | §21: homepage states brand↔legal-entity relationship | None | Build passes | `git revert` |
+
+### Batch summary
+
+| Workstream | Result | Code change |
+|---|---|---|
+| §21/§27 Organization schema | legalName/email/telephone/address/vatID/identifier added; brand name unchanged | BaseLayout |
+| §21/§29 contact identity | 2 pages de-TODO'd with real email/phone/company/address/USCC | contact + request-a-quote |
+| §21 footer legal | company name + address + USCC small print site-wide | BaseLayout |
+| §21 author entity | 108 author fields + 5 prose → "Landeng Tech Team" | 108 `.md` + methodology + knowledge-map |
+| §21 homepage trust | brand↔entity relationship sentence | index.astro |
