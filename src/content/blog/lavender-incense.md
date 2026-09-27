@@ -12,7 +12,7 @@ author: "Landeng Tech Team"
 ---
 
 
-**Definition:** Lavender incense is incense scented with lavender — most classically English lavender (*Lavandula angustifolia*), a flowering shrub in the mint family (Lamiaceae). Unlike sandalwood and agarwood, lavender is **not** part of the classical Chinese 香谱 (incense-manual) canon; it entered incense through Western and modern aromatherapy practice. It is widely used as a soft floral scent for unwinding routines.
+**Definition:** Lavender incense is incense scented with lavender — most classically English lavender (*Lavandula angustifolia*), a flowering shrub in the mint family (Lamiaceae). Unlike sandalwood and agarwood, lavender is **not** part of the classical Chinese incense-manual (香谱) canon; it entered incense through Western and modern aromatherapy practice. It is widely used as a soft floral scent for unwinding routines.
 
 **Key facts:** Lavender's characteristic compounds are **linalool** and **linalyl acetate**. It is a Western-origin botanical now common in modern incense; the honest framing is "supportive ritual, not a treatment."
 
