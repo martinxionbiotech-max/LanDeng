@@ -41,31 +41,31 @@ The 香乘 gives 雪中春信 in at least three forms. Two are cleanly legible w
 
 | Ingredient | Quantity |
 |---|---|
-| 香附子 (cyperus) | 四两 (4 liǎng) |
-| 鬱金 (turmeric) | 二两 (2 liǎng) |
-| 檀香 (sandalwood) | 一两 (1 liǎng) |
-| 麝香 (musk) | 少许 (a trace) |
-| 樟脑 (camphor) | 一钱 (1 qián) |
-| 羊脛灰 (sheep-shin-bone ash) | 四两 (4 liǎng) |
+| cyperus (香附子) | 四两 (4 liǎng) |
+| turmeric (鬱金) | 二两 (2 liǎng) |
+| sandalwood (檀香) | 一两 (1 liǎng) |
+| musk (麝香) | 少许 (a trace) |
+| camphor (樟脑) | 一钱 (1 qián) |
+| sheep-shin-bone ash (羊脛灰) | 四两 (4 liǎng) |
 
 **Version B (the agarwood-forward form):**
 
 | Ingredient | Quantity |
 |---|---|
-| 沉香 (agarwood) | 一两 (1 liǎng) |
-| 白檀 (sandalwood) | 半两 (0.5 liǎng) |
-| 丁香 (clove) | 半两 (0.5 liǎng) |
-| 木香 (costus) | 半两 (0.5 liǎng) |
-| 甘松 (spikenard) | 七钱半 (7.5 qián) |
-| 藿香 (patchouli/herb) | 七钱半 (7.5 qián) |
-| 零陵香 (tonka/mellilot) | 七钱半 (7.5 qián) |
-| 白芷 (angelica) | 二钱 (2 qián) |
-| 回鹘香附子 (Uyghur cyperus) | 二钱 (2 qián) |
-| 当归 (angelica root) | 二钱 (2 qián) |
-| 麝香 (musk) | 二钱 (2 qián) |
-| 官桂 (cassia) | 二钱 (2 qián) |
-| 槟榔 (areca nut) | 一枚 (1 piece) |
-| 荳蔻 (cardamom) | 一枚 (1 piece) |
+| agarwood (沉香) | 一两 (1 liǎng) |
+| sandalwood (白檀) | 半两 (0.5 liǎng) |
+| clove (丁香) | 半两 (0.5 liǎng) |
+| costus (木香) | 半两 (0.5 liǎng) |
+| spikenard (甘松) | 七钱半 (7.5 qián) |
+| patchouli/herb (藿香) | 七钱半 (7.5 qián) |
+| tonka/mellilot (零陵香) | 七钱半 (7.5 qián) |
+| angelica (白芷) | 二钱 (2 qián) |
+| Uyghur cyperus (回鹘香附子) | 二钱 (2 qián) |
+| angelica root (当归) | 二钱 (2 qián) |
+| musk (麝香) | 二钱 (2 qián) |
+| cassia (官桂) | 二钱 (2 qián) |
+| areca nut (槟榔) | 一枚 (1 piece) |
+| cardamom (荳蔻) | 一枚 (1 piece) |
 
 Version B shows the same logic — a wood body with a camphor note — built on a much wider herbal and spice base. The two versions are the reason this recipe has no single "correct" form: the 香乘 itself preserves the disagreement.
 
@@ -109,7 +109,7 @@ See [Chinese Incense Recipes (香方): Translated from the Classical Manuals](/b
 
 ## FAQ
 
-### Q: What does 雪中春信 mean?
+### Q: What does Snow in Spring (雪中春信) mean?
 Literally "snow in spring" (雪中春信), and the name describes what the blend is meant to evoke: the moment winter turns to spring, rendered as a cool "snow" note over warm woods. The effect comes from camphor (樟脑), a sharp, almost mentholated note set against sandalwood and herbal tones, reading as a cold snap against warmth. The name is the recipe's identity — it promises a seasonal image, and the formula delivers it through the contrast between the camphor's chill and the wood's warmth.
 
 ### Q: Did Su Shi really create it?
