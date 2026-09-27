@@ -30,15 +30,15 @@ related: ["rosemary", "sage", "bay-leaf"]
 
 > **Direct answer:** Thyme has a warm, green, herbaceous scent with a spicy, slightly medicinal, almost clove-like edge — the pungent, aromatic smell of the culinary herb rather than a flower. It is greener and warmer than sage, and more savory than the sweet-floral lavender.
 
-百里香 (thyme) has a warm, green, herbaceous scent with a spicy, slightly medicinal, almost clove-like edge — the pungent, aromatic smell of the culinary herb rather than a flower. It is greener and warmer than sage, and more savory than the sweet-floral lavender.
+thyme (百里香) has a warm, green, herbaceous scent with a spicy, slightly medicinal, almost clove-like edge — the pungent, aromatic smell of the culinary herb rather than a flower. It is greener and warmer than sage, and more savory than the sweet-floral lavender.
 
 The defining trait is the warm, phenolic-clove undertone: thyme's spiciness comes from the same aromatic-phenolic family (thymol and related compounds) that gives it a slightly medicinal, antiseptic-green character — the note that makes it read as "clean" and "herbal" in aromatherapy. This warmth distinguishes it from the drier, dustier sage and the cooler greens of the mint family.
 
 ## A provenance note (read this)
 
-> **Direct answer:** 百里香 (thyme) is a modern crossover, not a classical Chinese 香材. *Thymus vulgaris* is a Mediterranean species, the Chinese name 百里香 is broad and also covers native Chinese *Thymus* species, and thyme's incense and aromatherapy use is a modern Western practice, absent from the classical 香材 canon.
+> **Direct answer:** thyme (百里香) is a modern crossover, not a classical Chinese 香材. *Thymus vulgaris* is a Mediterranean species, the Chinese name 百里香 is broad and also covers native Chinese *Thymus* species, and thyme's incense and aromatherapy use is a modern Western practice, absent from the classical 香材 canon.
 
-百里香 (thyme) is a **modern crossover**, not a classical Chinese 香材:
+thyme (百里香) is a **modern crossover**, not a classical Chinese 香材:
 
 - *Thymus vulgaris* is a Mediterranean species, not native to China; Flora of China does not record it as native.
 - The Chinese name 百里香 ("hundred-li fragrance") is a broad term also applied to native Chinese thyme relatives (such as *Thymus mongolicus*); culinary thyme in the European sense is specifically *Thymus vulgaris*.
@@ -102,13 +102,13 @@ The dried leaf and the oil are two products of the same herb; the oil is the con
 - **Historical Record** — no classical Chinese incense record exists for *Thymus vulgaris*; its incense and aromatherapy use is modern.
 - **Scientific Evidence** — the botanical identity (*Thymus vulgaris*, Lamiaceae) is established, and the 百里香 name's coverage of multiple *Thymus* species (including native *Thymus mongolicus*) is documented. No clinical or medical efficacy claims are presented.
 
-There is **no classical Chinese incense record** for 百里香 (thyme); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Lamiaceae placement, and its modern culinary and aromatherapy role.
+There is **no classical Chinese incense record** for thyme (百里香); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Lamiaceae placement, and its modern culinary and aromatherapy role.
 
 ## Quality and sourcing notes
 
 Practical points for buyers:
 
-- 百里香 (thyme) is *Thymus vulgaris*; expect a warm, herbal, green, spicy, slightly medicinal scent.
+- thyme (百里香) is *Thymus vulgaris*; expect a warm, herbal, green, spicy, slightly medicinal scent.
 - Distinguish culinary thyme (*Thymus vulgaris*) from the native Chinese thyme relatives that share the 百里香 name — different plants, different uses.
 - In incense it is usually a dry herbal note, a modern addition rather than a classical 香材.
 
@@ -130,11 +130,11 @@ Thyme (百里香) is culinary thyme, *Thymus vulgaris*, a Mediterranean mint-fam
 
 ## FAQ
 
-**What is 百里香 (thyme)?** The culinary thyme, *Thymus vulgaris*, a low mint-family subshrub native to the Mediterranean. Its leaves carry a warm, herbal, green, spicy, slightly medicinal scent, familiar from cooking and modern aromatherapy and incense.
+**What is thyme (百里香)?** The culinary thyme, *Thymus vulgaris*, a low mint-family subshrub native to the Mediterranean. Its leaves carry a warm, herbal, green, spicy, slightly medicinal scent, familiar from cooking and modern aromatherapy and incense.
 
-**Is 百里香 a classical Chinese incense ingredient?** No. Thyme is a Mediterranean species, not native to China, and it has no place in the classical 香材 canon. Its incense and aromatherapy use is a modern Western practice, not a classical Chinese one.
+**Is thyme (百里香) a classical Chinese incense ingredient?** No. Thyme is a Mediterranean species, not native to China, and it has no place in the classical 香材 canon. Its incense and aromatherapy use is a modern Western practice, not a classical Chinese one.
 
-**Is culinary thyme the same as native Chinese 百里香?** Not exactly. The name 百里香 is broad and also covers native Chinese thyme relatives (such as *Thymus mongolicus*), but culinary thyme in the European sense is specifically *Thymus vulgaris*. Specify the species when sourcing.
+**Is culinary thyme the same as native Chinese thyme (百里香)?** Not exactly. The name 百里香 is broad and also covers native Chinese thyme relatives (such as *Thymus mongolicus*), but culinary thyme in the European sense is specifically *Thymus vulgaris*. Specify the species when sourcing.
 
 **What does thyme smell like?** Warm, green, and herbaceous, with a spicy, slightly medicinal, almost clove-like edge — the pungent, aromatic smell of the culinary herb. It is greener and warmer than sage.
 
@@ -171,4 +171,4 @@ See also: [rosemary (迷迭香)](/ingredients/rosemary/), [sage (鼠尾草)](/in
 
 - [Thymus vulgaris on GBIF](https://www.gbif.org/species/5341442)
 
-*Sources: botanical references on *Thymus vulgaris*. 百里香 (thyme) is a modern culinary and aromatherapy herb with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Thymus vulgaris*. thyme (百里香) is a modern culinary and aromatherapy herb with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
