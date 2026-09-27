@@ -30,7 +30,23 @@ const orgJsonLd = {
   '@id': `${SITE}#organization`,
   name: 'LanDeng',
   alternateName: '澜灯',
+  legalName: 'Zhangjiakou Landeng Technology Co., Ltd.',
   url: SITE,
+  email: 'landengltd@gmail.com',
+  telephone: '+86 13323237275',
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'Room 202, Unit 4, Building 14, Linli Jiayuan, No. 1 Gongye East Street, Qiaodong District',
+    addressLocality: 'Zhangjiakou',
+    addressRegion: 'Hebei',
+    addressCountry: 'CN',
+  },
+  vatID: '91130702MAKM4QXH5Q',
+  identifier: {
+    '@type': 'PropertyValue',
+    propertyID: 'CN-USCC',
+    value: '91130702MAKM4QXH5Q',
+  },
   description: 'Chinese botanical incense knowledge platform.',
 };
 
@@ -127,6 +143,9 @@ const webSiteJsonLd = {
           <a href="https://data.incenseherbs.com/datasets/terminology.json">Terminology dataset</a>
         </nav>
         <p class="copyright">© {new Date().getFullYear()} LanDeng</p>
+        <p class="footer-legal">
+          Zhangjiakou Landeng Technology Co., Ltd. · Room 202, Unit 4, Building 14, Linli Jiayuan, No. 1 Gongye East Street, Qiaodong District, Zhangjiakou, Hebei, China · USCC 91130702MAKM4QXH5Q
+        </p>
       </div>
     </footer>
   </body>
@@ -366,6 +385,15 @@ const webSiteJsonLd = {
     margin: var(--space-2) 0 0;
     color: var(--ink-soft);
     font-size: 0.82rem;
+  }
+
+  .footer-legal {
+    grid-column: 1 / -1;
+    margin: 0.35rem 0 0;
+    color: var(--ink-soft);
+    font-size: 0.72rem;
+    line-height: 1.5;
+    opacity: 0.85;
   }
 
   :focus-visible {
