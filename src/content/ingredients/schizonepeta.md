@@ -12,7 +12,7 @@ status: published
 related: ["artemisia-annua", "agastache-rugosa", "perilla"]
 ---
 
-> **Direct answer:** Schizonepeta (荆芥, jīngjiè) is the aerial herb of *Schizonepeta tenuifolia* (now often placed as *Nepeta tenuifolia*), a mint-family herb (Lamiaceae) native to East Asia. It has a fresh, minty, faintly spicy aromatic scent, and appears in classical Chinese materia medica and the 香囊 (fragrant sachet) herb tradition. The *Bencao Gangmu* records it under the classical name 假苏 (jiǎsū).
+> **Direct answer:** Schizonepeta (荆芥, jīngjiè) is the aerial herb of *Schizonepeta tenuifolia* (now often placed as *Nepeta tenuifolia*), a mint-family herb (Lamiaceae) native to East Asia. It has a fresh, minty, faintly spicy aromatic scent, and appears in classical Chinese materia medica and the fragrant sachet (香囊) herb tradition. The *Bencao Gangmu* records it under the classical name 假苏 (jiǎsū).
 
 <img src="/images/schizonepeta-raw-material-800x533.webp" alt="Raw Schizonepeta (Schizonepeta tenuifolia (syn. Nepeta tenuifolia)) material, editorial still life" width="800" height="533" loading="lazy">
 
@@ -49,7 +49,7 @@ This page records it as 荆芥 = *Schizonepeta tenuifolia* (syn. *Nepeta tenuifo
 
 *Schizonepeta tenuifolia* is an annual mint-family herb (Lamiaceae) native to East Asia, widespread in China and Korea. Modern taxonomy often places it in the genus *Nepeta* (as *Nepeta tenuifolia*); Flora of China records it under *Nepeta*. The herb is the source of 荆芥, a classical aromatic and materia-medica plant. The genus shift — from *Schizonepeta* to *Nepeta*, the catmint genus — is a modern taxonomic decision, but the classical Chinese herb 荆芥/假苏 is the same plant under either name.
 
-## Where does 荆芥 come from?
+## Where does schizonepeta (荆芥) come from?
 
 > **Direct answer:** 荆芥 is an East Asian herb, native and widespread across China and Korea, grown as a cultivated annual for its aromatic aerial parts. It is a common field and garden herb rather than a scarce wild harvest, and its supply is ordinary and renewable.
 
@@ -57,10 +57,10 @@ This page records it as 荆芥 = *Schizonepeta tenuifolia* (syn. *Nepeta tenuifo
 
 ## In Chinese tradition
 
-> **Direct answer:** 荆芥 appears in classical Chinese materia medica — recorded as 假苏 in the *Bencao Gangmu* — and its fresh, minty aromatic character places it among the herbs packed into 香囊 (fragrant sachets). It is primarily a sachet and materia-medica herb, not a lead 香材.
+> **Direct answer:** 荆芥 appears in classical Chinese materia medica — recorded as 假苏 in the *Bencao Gangmu* — and its fresh, minty aromatic character places it among the herbs packed into fragrant sachets (香囊). It is primarily a sachet and materia-medica herb, not a lead 香材.
 
 - **Materia medica:** 荆芥 appears in classical Chinese materia medica, recorded as 假苏 in the *Bencao Gangmu* (本草纲目). This is **traditional materia-medica language, not modern clinical evidence.**
-- **香囊 (sachet):** its fresh, minty aromatic character places it among the herbs packed into fragrant sachets.
+- **sachet (香囊):** its fresh, minty aromatic character places it among the herbs packed into fragrant sachets.
 - **Incense:** it is primarily a sachet and materia-medica herb, not a lead 香材.
 
 ## Traditional use vs modern evidence
@@ -73,9 +73,9 @@ This page records it as 荆芥 = *Schizonepeta tenuifolia* (syn. *Nepeta tenuifo
 
 ## How is it used in sachets and incense?
 
-> **Direct answer:** 荆芥 is used as a fresh, green sachet herb — its light minty-spicy character lends a bright top note to 香囊 (fragrant sachets) and herbal blends — rather than as a lead incense material burned on its own. Its classical role is aromatic and materia-medica, not a dominant 香材.
+> **Direct answer:** 荆芥 is used as a fresh, green sachet herb — its light minty-spicy character lends a bright top note to fragrant sachets (香囊) and herbal blends — rather than as a lead incense material burned on its own. Its classical role is aromatic and materia-medica, not a dominant 香材.
 
-荆芥's place is in the sachet tradition rather than the burner. Its fresh, green, faintly peppery-minty character makes it a brightening herb in 香囊 (fragrant sachets) and in herbal blends, where it contributes a light top note rather than a deep base. It is not a lead incense material in the classical sense — it is a supporting, freshening herb, closer in role to a culinary aromatic than to a precious wood or resin. This distinction matters for formulators: 荆芥 is an accent herb, dosed to lift and freshen, not a material to build a composition around.
+荆芥's place is in the sachet tradition rather than the burner. Its fresh, green, faintly peppery-minty character makes it a brightening herb in fragrant sachets (香囊) and in herbal blends, where it contributes a light top note rather than a deep base. It is not a lead incense material in the classical sense — it is a supporting, freshening herb, closer in role to a culinary aromatic than to a precious wood or resin. This distinction matters for formulators: 荆芥 is an accent herb, dosed to lift and freshen, not a material to build a composition around.
 
 ## What buyers should look for
 
@@ -106,15 +106,15 @@ In our view, 荆芥 is best understood as a **well-documented minor aromatic** �
 
 ## FAQ
 
-**What is 荆芥 (schizonepeta)?** The aerial herb of *Schizonepeta tenuifolia* (now often placed as *Nepeta tenuifolia*), a mint-family herb (Lamiaceae) native to East Asia. It has a fresh, minty, faintly spicy aromatic scent and is a classical materia-medica and 香囊 (sachet) herb.
+**What is schizonepeta (荆芥)?** The aerial herb of *Schizonepeta tenuifolia* (now often placed as *Nepeta tenuifolia*), a mint-family herb (Lamiaceae) native to East Asia. It has a fresh, minty, faintly spicy aromatic scent and is a classical materia-medica and sachet (香囊) herb.
 
 **What is the classical name of 荆芥?** In the *Bencao Gangmu* (本草纲目), the herb is recorded under the name 假苏 (jiǎsū), with 荆芥 listed among its names ("荊芥（《吳普》）"). The text notes a historical debate over whether 假苏 and 荆芥 were one plant or two; modern usage treats 荆芥 as *Schizonepeta tenuifolia*.
 
-**What does 荆芥 smell like?** Fresh, minty, and herbaceous, with a faintly spicy, slightly sweet edge — the clean aromatic character of the mint-family herbs, related to but lighter than peppermint. It reads as a bright, green herb.
+**What does schizonepeta (荆芥) smell like?** Fresh, minty, and herbaceous, with a faintly spicy, slightly sweet edge — the clean aromatic character of the mint-family herbs, related to but lighter than peppermint. It reads as a bright, green herb.
 
 **Is schizonepeta an incense ingredient?** Primarily a sachet (香囊) and materia-medica herb. Its fresh minty character lends a bright green top note to a sachet, but it is not a lead 香材, and its classical role is in materia medica.
 
-**Is 荆芥 the same as mint?** Related but distinct. 荆芥 is *Schizonepeta tenuifolia* (syn. *Nepeta tenuifolia*), a mint-family (Lamiaceae) relative of the true mints (*Mentha*), but a different genus with its own classical name (假苏) and use.
+**Is schizonepeta (荆芥) the same as mint?** Related but distinct. 荆芥 is *Schizonepeta tenuifolia* (syn. *Nepeta tenuifolia*), a mint-family (Lamiaceae) relative of the true mints (*Mentha*), but a different genus with its own classical name (假苏) and use.
 
 **Why is the botanical name shifting?** Modern taxonomy has moved *Schizonepeta tenuifolia* into the genus *Nepeta* (as *Nepeta tenuifolia*), the catmint genus, and Flora of China records it under *Nepeta*. The classical Chinese herb 荆芥/假苏 is the same plant under either name, but buyers may encounter both scientific names.
 
