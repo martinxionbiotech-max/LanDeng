@@ -14,7 +14,7 @@ related: ["sand-ginger", "cardamom"]
 
 <img src="/images/galangal-raw-material-800x533.webp" alt="Raw Galangal (Alpinia officinarum) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Galangal — *gāoliángjiāng* (高良姜) in Chinese — is the dried rhizome of *Alpinia officinarum*, a perennial herb of the ginger family (Zingiberaceae) native to southern China and Hainan. It is a warm, gingery spice with a sharp, slightly camphoraceous, woody bite, used in Chinese incense as a warming spice accent in some 合香 (blended incense) contexts. It is the "lesser galangal," distinct from the larger "greater galangal" (*Alpinia galanga*).
+**Technical answer:** Galangal — *gāoliángjiāng* (高良姜) in Chinese — is the dried rhizome of *Alpinia officinarum*, a perennial herb of the ginger family (Zingiberaceae) native to southern China and Hainan. It is a warm, gingery spice with a sharp, slightly camphoraceous, woody bite, used in Chinese incense as a warming spice accent in some blended incense (合香) contexts. It is the "lesser galangal," distinct from the larger "greater galangal" (*Alpinia galanga*).
 
 ## Key facts
 
@@ -115,7 +115,7 @@ The culinary role is well documented. Medicinal uses are **traditional**, not es
 
 | Ginger | Botanical source | Aroma |
 |---|---|---|
-| Galangal 高良姜 (lesser) | *Alpinia officinarum*, Zingiberaceae | Sharp, camphoraceous, woody |
+| Galangal lesser (高良姜) | *Alpinia officinarum*, Zingiberaceae | Sharp, camphoraceous, woody |
 | Greater galangal 大高良姜 | *Alpinia galanga*, Zingiberaceae | Larger, milder, culinary |
 | Ginger 干姜 | *Zingiber officinale*, Zingiberaceae | Warm, pungent, slightly citrusy |
 | Sand ginger 山柰 | *Kaempferia galanga*, Zingiberaceae | Milder, more aromatic |
