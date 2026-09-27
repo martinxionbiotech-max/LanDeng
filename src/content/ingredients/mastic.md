@@ -48,16 +48,16 @@ The name 玛蹄脂 is a phonetic loanword for a foreign resin, and its alternate
 - **乳香脂 (rǔxiāngzhī)** — "frankincense-resin," inviting confusion with frankincense.
 - **洋乳香 (yángrǔxiāng)** — "foreign frankincense," where the 洋 ("foreign") marks it as an imported Western resin.
 
-The 洋 prefix is the useful disambiguation signal: it flags mastic as a foreign, imported resin, distinct from the classic Chinese 乳香 (frankincense). But because two of its names share the "乳香" element, the mastic/frankincense confusion is built into the terminology itself.
+The 洋 prefix is the useful disambiguation signal: it flags mastic as a foreign, imported resin, distinct from the classic Chinese frankincense (乳香). But because two of its names share the "乳香" element, the mastic/frankincense confusion is built into the terminology itself.
 
 ## The mastic / frankincense confusion (read this)
 
-> **Direct answer:** Mastic (玛蹄脂, *Pistacia lentiscus*) and frankincense (乳香, *Boswellia* species) are different resins from different plant families — Anacardiaceae vs Burseraceae — but their Chinese names overlap. 乳香 (frankincense) is a sweet, citrus, earthy resin; mastic is a fresh, piney, balsamic one. When a source means 乳香, it is describing frankincense, not mastic.
+> **Direct answer:** Mastic (玛蹄脂, *Pistacia lentiscus*) and frankincense (乳香, *Boswellia* species) are different resins from different plant families — Anacardiaceae vs Burseraceae — but their Chinese names overlap. frankincense (乳香) is a sweet, citrus, earthy resin; mastic is a fresh, piney, balsamic one. When a source means 乳香, it is describing frankincense, not mastic.
 
 Mastic (玛蹄脂, *Pistacia lentiscus*) and frankincense (乳香, *Boswellia* species) are **different resins from different plant families**, but their Chinese names invite confusion:
 
-- **乳香 (frankincense)** — *Boswellia* species (family Burseraceae), a sweet, citrus, earthy resin. This is the classic 乳香 of Chinese incense, with its own entry (see [frankincense](/ingredients/frankincense/)).
-- **玛蹄脂 / 洋乳香 (mastic)** — *Pistacia lentiscus* (family Anacardiaceae), a fresh, piney, balsamic resin. Some sources call mastic "乳香脂" or "洋乳香" ("foreign mastic"), which is where the confusion arises.
+- **frankincense (乳香)** — *Boswellia* species (family Burseraceae), a sweet, citrus, earthy resin. This is the classic 乳香 of Chinese incense, with its own entry (see [frankincense](/ingredients/frankincense/)).
+- **玛蹄脂 / mastic (洋乳香)** — *Pistacia lentiscus* (family Anacardiaceae), a fresh, piney, balsamic resin. Some sources call mastic "乳香脂" or "洋乳香" ("foreign mastic"), which is where the confusion arises.
 
 **This page describes 玛蹄脂 = *Pistacia lentiscus* = mastic.** When a source means 乳香, it is describing frankincense (*Boswellia*), a different material. The botanical families — Anacardiaceae for mastic, Burseraceae for frankincense — settle the question.
 
@@ -161,7 +161,7 @@ Mastic (玛蹄脂) is the tapped resin of *Pistacia lentiscus*, a Mediterranean 
 
 **Where does mastic come from?** From *Pistacia lentiscus*, a small evergreen Mediterranean shrub whose resin is tapped from incisions in the bark and hardens into pale, translucent "tears." The most famous source is the Greek island of Chios, whose mastic has protected designation-of-origin status. The plant's family, Anacardiaceae, also includes pistachio — a different family from the frankincense-bearing Burseraceae.
 
-**What does the "洋" in 洋乳香 mean?** "Foreign" — it marks mastic as an imported (Western) aromatic resin, as opposed to a native Chinese material. This is the source of the name confusion with 乳香 (frankincense): both can carry a "乳香"-like name in Chinese, but 洋乳香 (mastic) and 乳香 (frankincense) are different resins. The "洋" prefix is a useful disambiguation signal in classical sources.
+**What does the "洋" in mastic (洋乳香) mean?** "Foreign" — it marks mastic as an imported (Western) aromatic resin, as opposed to a native Chinese material. This is the source of the name confusion with frankincense (乳香): both can carry a "乳香"-like name in Chinese, but mastic (洋乳香) and frankincense (乳香) are different resins. The "洋" prefix is a useful disambiguation signal in classical sources.
 
 **Why is Chios mastic special?** Chios mastic is a protected designation-of-origin (PDO) product: the resin is produced only on Chios, using a specific traditional method of scoring the *Pistacia lentiscus* shrubs and collecting the hardened tears. This ties the resin's quality to a place and a method, making Chios mastic the benchmark — and making provenance itself a quality signal, a rare and instructive case for an aromatic resin.
 
