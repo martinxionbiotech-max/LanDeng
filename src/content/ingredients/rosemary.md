@@ -44,7 +44,7 @@ Rosemary is an evergreen shrub of the mint family (Lamiaceae), native to the Med
 
 迷迭香 (mídiéxiāng) is best read as a phonetic transcription of a foreign name, marking rosemary as an import. The classical sources treat it as such — 广志 says 出西域 ("from the Western Regions") and 魏略 says 出大秦国 ("from the Roman sphere"). The dual scientific name is a separate matter: *Rosmarinus officinalis* is the older name, *Salvia rosmarinus* the current one after genetic reclassification. Either may appear on a label; they name one plant.
 
-## The 迷迭香 classical record (read this)
+## The rosemary (迷迭香) classical record (read this)
 
 > **Direct answer:** Rosemary has a genuine but narrow classical Chinese footprint. The 香乘 records 迷迭香, quoting 广志 (出西域) and 魏略 (出大秦国), noting it was transplanted to the 魏文帝 (Cao Pi) court — an imported aromatic worn to scent clothing, not a native incense-canon material.
 
@@ -150,7 +150,7 @@ Rosemary (迷迭香) is *Salvia rosmarinus* (syn. *Rosmarinus officinalis*), a M
 
 ## FAQ
 
-**What is 迷迭香 (rosemary)?** The aromatic herb *Salvia rosmarinus* (long known as *Rosmarinus officinalis*), an evergreen shrub of the mint family (Lamiaceae) native to the Mediterranean. It is a herbal, camphoraceous, fresh aromatic used in cooking and fragrance, and in Chinese incense as a herbal accent. 香乘 records it as an exotic Western import introduced in the third century.
+**What is rosemary (迷迭香)?** The aromatic herb *Salvia rosmarinus* (long known as *Rosmarinus officinalis*), an evergreen shrub of the mint family (Lamiaceae) native to the Mediterranean. It is a herbal, camphoraceous, fresh aromatic used in cooking and fragrance, and in Chinese incense as a herbal accent. 香乘 records it as an exotic Western import introduced in the third century.
 
 **Is rosemary in the classical Chinese record?** Yes, but narrowly. 香乘 records 迷迭香, quoting 广志 (出西域) and 魏略 (出大秦国), and notes it was transplanted to the 魏文帝 (Cao Pi) court as an aromatic worn to scent clothing. It is framed as an exotic Western import, not a native core 香道 ingredient — so its classical footprint is real but specific.
 
