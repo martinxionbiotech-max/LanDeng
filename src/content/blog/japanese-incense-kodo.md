@@ -12,7 +12,7 @@ author: "Landeng Tech Team"
 ---
 
 
-**At a glance:** Kōdō (香道, "the Way of Fragrance") is Japan's formal art of appreciating incense, counted alongside the tea ceremony (sadō) and flower arranging (kadō) as one of the three classical arts of refinement. It centers on "listening" to fragrant woods — chiefly agarwood (jinkō 沈香) — through codified ritual and incense-comparing games. Crucially, **kōdō is not the origin of the art: it descended from Chinese incense culture, specifically the Song-dynasty technique of 隔火焚香 (indirect-fire incense), which reached Japan with Buddhism and tea.**
+**At a glance:** Kōdō (香道, "the Way of Fragrance") is Japan's formal art of appreciating incense, counted alongside the tea ceremony (sadō) and flower arranging (kadō) as one of the three classical arts of refinement. It centers on "listening" to fragrant woods — chiefly agarwood (jinkō 沈香) — through codified ritual and incense-comparing games. Crucially, **kōdō is not the origin of the art: it descended from Chinese incense culture, specifically the Song-dynasty technique of indirect-fire incense (隔火焚香), which reached Japan with Buddhism and tea.**
 
 <img src="/images/japanese-kodo-ceremony-1200x675.webp" alt="Japanese kodo ceremony utensils: koro burner, mica plate and tools on tatami" width="1200" height="675" loading="lazy">
 
@@ -60,7 +60,7 @@ English-language writing frequently treats incense appreciation as an essentiall
 - **聞香 (monkō)** — "listening to incense." The verb is 聞 (hear/listen), not 嗅 (smell): you attend to the fragrance the way you would attend to a piece of music.
 - **組香 (kumikō)** — incense-comparing games, where participants distinguish between several woods according to set rules.
 - **源氏香 (genjikō)** — a famous kumikō game based on *The Tale of Genji*, distinguishing five fragrant woods into fifty-two possible patterns.
-- **沈香 (jinkō)** — agarwood, the central material; 白檀 (byakudan) is sandalwood, the secondary wood.
+- **沈香 (jinkō)** — agarwood, the central material; byakudan (白檀) is sandalwood, the secondary wood.
 - **香道具 (kōdōgu)** — the specialized tools (ash press, charcoal, mica plate, chopsticks) used to prepare the flameless heat.
 
 ---
