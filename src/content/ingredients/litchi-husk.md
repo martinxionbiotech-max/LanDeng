@@ -52,15 +52,15 @@ The Chinese term is helpfully specific: 荔枝 (lìzhī) is the litchi, and 壳 
 
 Litchi husk sits in a small family of Chinese **fruit-peel** materials, and the family itself is worth understanding:
 
-- **荔枝壳 (litchi husk)** — *Litchi chinensis*, the sweet, floral, most delicate of the peels; this entry.
-- **陈皮 (tangerine peel)** — *Citrus reticulata*, the *aged* mandarin peel with a warm, mellow, tea-like depth.
-- **柚皮 (pomelo peel)** — *Citrus maxima*, the bittersweet, floral-woody citrus peel with a thick white pith.
+- **litchi husk (荔枝壳)** — *Litchi chinensis*, the sweet, floral, most delicate of the peels; this entry.
+- **tangerine peel (陈皮)** — *Citrus reticulata*, the *aged* mandarin peel with a warm, mellow, tea-like depth.
+- **pomelo peel (柚皮)** — *Citrus maxima*, the bittersweet, floral-woody citrus peel with a thick white pith.
 
 The three share a "fruit-peel" register — light, sweet, fresh, food-adjacent — but they are **different plant families and different characters**. Litchi husk is a soapberry-family pericarp, sweet and floral; 陈皮 and 柚皮 are rue-family (*Rutaceae*) citrus peels, one mellowed by age and the other by a bitter pith. They are not interchangeable, and each has its own entry: [orange-peel (陈皮)](/ingredients/orange-peel/) and [pomelo peel (柚皮)](/ingredients/pomelo-peel/).
 
 ## In Chinese tradition
 
-- **荔枝香 (litchi incense) (Historical Record):** the 香乘 (Xiang Cheng) records 荔枝香 — an incense made from the litchi husk — quoting the 香谱: "取其壳合香最清馥" ("taking its husk to blend incense, it is the freshest and most refined"). It is a classical fruit-peel specialty.
+- **litchi incense (荔枝香) (Historical Record):** the 香乘 (Xiang Cheng) records 荔枝香 — an incense made from the litchi husk — quoting the 香谱: "取其壳合香最清馥" ("taking its husk to blend incense, it is the freshest and most refined"). It is a classical fruit-peel specialty.
 - **A distinctly Chinese material (Historical Record):** litchi husk is a rare example of a fruit peel that became a named incense material in its own right, tied to the litchi's southern-Chinese origin and its long cultivation.
 - **Materia medica (Traditional Use):** 荔枝 is recorded in traditional Chinese medicine (本草綱目, 果部) with various described uses. This is **traditional materia-medica language, not modern clinical evidence.**
 
@@ -161,7 +161,7 @@ In our view, the commercial sweet spot is a **clean, freshly dried, correctly id
 
 ## Summary
 
-Litchi husk (荔枝壳) is the dried pericarp of the litchi fruit, *Litchi chinensis*, a Sapindaceae tree native to southwestern Guangdong and Hainan and long cultivated in southern China. It is a rare example of a fruit *peel* becoming a named classical incense material — the 香乘 records 荔枝香 ("取其壳合香最清馥") as the freshest, most refined of the fruit peels. Its sweet, fruity, faintly floral note is a delicate top-note accent, almost always blended, and it sits in a small Chinese family of fruit-peel materials alongside 陈皮 (aged mandarin peel) and 柚皮 (pomelo peel), all different species. Commercially its value is freshness and clean handling, not rarity — a byproduct 香材 whose condition is the real specification.
+Litchi husk (荔枝壳) is the dried pericarp of the litchi fruit, *Litchi chinensis*, a Sapindaceae tree native to southwestern Guangdong and Hainan and long cultivated in southern China. It is a rare example of a fruit *peel* becoming a named classical incense material — the 香乘 records 荔枝香 ("取其壳合香最清馥") as the freshest, most refined of the fruit peels. Its sweet, fruity, faintly floral note is a delicate top-note accent, almost always blended, and it sits in a small Chinese family of fruit-peel materials alongside aged mandarin peel (陈皮) and pomelo peel (柚皮), all different species. Commercially its value is freshness and clean handling, not rarity — a byproduct 香材 whose condition is the real specification.
 
 ## FAQ
 
