@@ -34,7 +34,7 @@ related: ["jasmine", "osmanthus"]
 
 The register is worth pinning against 茉莉: 素馨's heady, indolic depth is the difference between the "perfumery" jasmine and the "tea" jasmine. The indolic note — a warm, animalic, almost narcotic undertone — is what gives 素馨 its opulent richness, and it is the very note that commercial perfumery often tames or brightens. This is the sensory core of the 素馨/茉莉 distinction, and it is why the two flowers, though both sweet white jasmines, serve different fragrance registers.
 
-## The 素馨 / 茉莉 distinction (read this)
+## The Spanish jasmine (素馨) / jasmine (茉莉) distinction (read this)
 
 > **Direct answer:** Two *Jasminum* species sit at the centre of Chinese and global jasmine: 素馨 (*Jasminum grandiflorum*), the headier Western perfumery jasmine, and 茉莉 (*Jasminum sambac*), the fresher tea-scented jasmine. They are distinct species, and 香乘 lists them together as separate flowers.
 
@@ -114,7 +114,7 @@ Practical points for buyers:
 - Expect a headier, more opulent white-floral character from 素馨 than from the tea-fresh 茉莉.
 - The indolic depth is the tell — a flat or merely "clean" jasmine is likely the wrong material or a thinned product.
 
-## 素馨 vs 茉莉: the jasmine species distinction
+## Spanish jasmine (素馨) vs jasmine (茉莉): the jasmine species distinction
 
 > **Direct answer:** 素馨 and 茉莉 are two distinct *Jasminum* species with different scent character. 素馨 (*Jasminum grandiflorum*) is the headier, larger-flowered perfumery jasmine; 茉莉 (*Jasminum sambac*) is the fresher, tea-scented jasmine. 香乘 lists them separately, and each has its own entry here.
 
@@ -147,13 +147,13 @@ In our view, 素馨 is best understood as the **heady, indolic perfumery jasmine
 
 **What is 素馨 (suxin)?** The flower of *Jasminum grandiflorum*, the Spanish or royal jasmine, a climbing shrub of the olive family (Oleaceae) with large, intensely fragrant white flowers. It is the classic Western perfumery jasmine and a principal source of jasmine absolute. It is recorded in the Chinese incense compendium 香乘 alongside its close relative 茉莉 (*Jasminum sambac*).
 
-**How does 素馨 differ from 茉莉 (jasmine)?** Both are *Jasminum* species, but distinct. 素馨 is *Jasminum grandiflorum* — larger flowers, headier and more opulent, the classic perfumery jasmine. 茉莉 is *Jasminum sambac* — the tea-scented jasmine used for jasmine tea. 香乘 lists them as separate flowers (for example, in 心字香 and 逗情香), and each has its own entry here.
+**How does Spanish jasmine (素馨) differ from jasmine (茉莉)?** Both are *Jasminum* species, but distinct. 素馨 is *Jasminum grandiflorum* — larger flowers, headier and more opulent, the classic perfumery jasmine. 茉莉 is *Jasminum sambac* — the tea-scented jasmine used for jasmine tea. 香乘 lists them as separate flowers (for example, in 心字香 and 逗情香), and each has its own entry here.
 
-**What does 素馨 smell like?** Intensely sweet and white-floral, with a heady, almost indolic depth richer than 茉莉's tea-like sweetness. In natural absolute form it carries a warm, animalic undercurrent beneath a green-floral top; commercial jasmine notes are usually rendered cleaner and brighter. In a blend it reads opulent and romantic.
+**What does Spanish jasmine (素馨) smell like?** Intensely sweet and white-floral, with a heady, almost indolic depth richer than 茉莉's tea-like sweetness. In natural absolute form it carries a warm, animalic undercurrent beneath a green-floral top; commercial jasmine notes are usually rendered cleaner and brighter. In a blend it reads opulent and romantic.
 
-**Is 素馨 used in perfumery?** Yes — it is the archetypal jasmine of Western fine fragrance and the principal source of commercial jasmine absolute and concrete. Its large, night-opening white flowers are picked for their intense scent and processed into absolute and concrete. In Chinese incense it appears as a flower material in 香乘, often paired with 茉莉.
+**Is Spanish jasmine (素馨) used in perfumery?** Yes — it is the archetypal jasmine of Western fine fragrance and the principal source of commercial jasmine absolute and concrete. Its large, night-opening white flowers are picked for their intense scent and processed into absolute and concrete. In Chinese incense it appears as a flower material in 香乘, often paired with 茉莉.
 
-**What does the name 素馨 refer to?** The flower of *Jasminum grandiflorum* (also 素馨花). It is distinct from 茉莉 (*Jasminum sambac*), the tea jasmine. Both are olive-family (*Jasminum*) climbers with sweet white flowers, but 素馨 is the headier, larger-flowered perfumery species, while 茉莉 is the fresher tea-scented species.
+**What does the name Spanish jasmine (素馨) refer to?** The flower of *Jasminum grandiflorum* (also 素馨花). It is distinct from 茉莉 (*Jasminum sambac*), the tea jasmine. Both are olive-family (*Jasminum*) climbers with sweet white flowers, but 素馨 is the headier, larger-flowered perfumery species, while 茉莉 is the fresher tea-scented species.
 
 **Why should I specify the jasmine species when sourcing?** Because "jasmine" names a genus, not a material. 素馨 (*Jasminum grandiflorum*) and 茉莉 (*Jasminum sambac*) are different species with different scent characters — heady and indolic versus fresh and tea-like — and they are not interchangeable. A spec that names the species avoids the underspecification the word "jasmine" invites.
 
