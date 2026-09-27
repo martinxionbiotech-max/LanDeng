@@ -49,9 +49,9 @@ The name 郁金 (yùjīn) is a praise-name: 郁 "fragrant, lush" + 金 "gold" �
 
 The two senses meet only in the characters, not in botany. A label that says 郁金 names a rhizome; a label that says 郁金香 names a flower.
 
-## The 郁金香 / 郁金 collision and the three-way *Curcuma* confusion (read this)
+## The tulip (郁金香) / aromatic turmeric (郁金) collision and the three-way *Curcuma* confusion (read this)
 
-> **Direct answer:** Two confusions sit inside 郁金. First, 郁金香 (tulip) is not 郁金 (the rhizome) — the shared characters name a flower and a rhizome that are unrelated. Second, 郁金 is one of three closely related *Curcuma* rhizomes — 姜黄 (turmeric), 郁金 (aromatic turmeric), 莪术 (zedoary) — that historical sources have not always kept apart.
+> **Direct answer:** Two confusions sit inside 郁金. First, tulip (郁金香) is not 郁金 (the rhizome) — the shared characters name a flower and a rhizome that are unrelated. Second, 郁金 is one of three closely related *Curcuma* rhizomes — turmeric (姜黄), aromatic turmeric (郁金), zedoary (莪术) — that historical sources have not always kept apart.
 
 Two separate confusions live in 郁金, and both matter:
 
@@ -65,11 +65,11 @@ The confusion arises because all three are *Curcuma* rhizomes with warm, earthy,
 
 ## The imported oil record (香乘考据)
 
-> **Direct answer:** The Ming *Xiangcheng* (香乘) records 郁金油 (aromatic-turmeric oil) and 郁金香, and notes that "in India people anoint the body with various aromatics, namely sandalwood and 郁金" (印度之人身塗諸香所謂旃檀鬱金也) — an imported aromatic-oil use, distinct from the culinary turmeric and from the tulip.
+> **Direct answer:** The Ming *Xiangcheng* (香乘) records aromatic-turmeric oil (郁金油) and 郁金香, and notes that "in India people anoint the body with various aromatics, namely sandalwood and 郁金" (印度之人身塗諸香所謂旃檀鬱金也) — an imported aromatic-oil use, distinct from the culinary turmeric and from the tulip.
 
 The *Xiangcheng* (香乘) preserves a distinctive record of 郁金 as an *imported aromatic*, not a domestic cooking spice:
 
-- **郁金油 (aromatic-turmeric oil)** — the text records 郁金油, the aromatic oil of the rhizome, as a fragrance material.
+- **aromatic-turmeric oil (郁金油)** — the text records 郁金油, the aromatic oil of the rhizome, as a fragrance material.
 - **The body-anointing note** — the text observes that "in India people anoint the body with various aromatics, namely sandalwood and 郁金" (印度之人身塗諸香所謂旃檀鬱金也), placing 郁金 beside sandalwood as an anointing aromatic.
 
 This is a meaningful distinction: it records 郁金 in its *aromatic* register — an oil and an anointing material — rather than as the culinary coloring spice that turmeric (姜黄) became. The imported, fragrant-oil identity is what separates 郁金 from its genus-mates in the classical record.
@@ -94,7 +94,7 @@ As a rhizome aromatic, 郁金 is handled by drying: the rhizome is harvested, cl
 
 ## What determines aromatic turmeric quality?
 
-> **Direct answer:** Quality turns on species identity and rhizome condition. The buyer's first job is to distinguish 郁金 (*Curcuma aromatica*) from 姜黄 (turmeric) and 莪术 (zedoary); then to judge a clean, well-dried rhizome with the warm, earthy, camphoraceous character — more medicinal than culinary turmeric.
+> **Direct answer:** Quality turns on species identity and rhizome condition. The buyer's first job is to distinguish 郁金 (*Curcuma aromatica*) from turmeric (姜黄) and zedoary (莪术); then to judge a clean, well-dried rhizome with the warm, earthy, camphoraceous character — more medicinal than culinary turmeric.
 
 The quality factors:
 
@@ -116,7 +116,7 @@ The quality factors:
 ## In Chinese tradition
 
 - **Materia medica (Traditional Use):** 郁金 is recorded in traditional Chinese medicine, classically described as a warming aromatic. This is **traditional materia-medica language, not modern clinical evidence.**
-- **Classical aromatic (Historical Record):** the name 郁金 appears in classical fragrance texts — the Ming-dynasty *Xiangcheng* (香乘) records 郁金油 (aromatic-turmeric oil) and 郁金香, and notes that "in India people anoint the body with various aromatics, namely sandalwood and 郁金" (印度之人身塗諸香所謂旃檀鬱金也), an imported aromatic-oil use.
+- **Classical aromatic (Historical Record):** the name 郁金 appears in classical fragrance texts — the Ming-dynasty *Xiangcheng* (香乘) records aromatic-turmeric oil (郁金油) and 郁金香, and notes that "in India people anoint the body with various aromatics, namely sandalwood and 郁金" (印度之人身塗諸香所謂旃檀鬱金也), an imported aromatic-oil use.
 - **Not a culinary turmeric (Historical Record):** unlike 姜黄, 郁金 is not the standard culinary turmeric, though the two are closely related.
 
 ## Traditional use vs modern evidence
@@ -129,7 +129,7 @@ The quality factors:
 
 ## What buyers should look for
 
-> **Direct answer:** Buyers should first distinguish 郁金 (*Curcuma aromatica*) from 姜黄 (turmeric) and 莪术 (zedoary), then confirm a clean, well-dried rhizome with an earthy, camphoraceous, warm character — more medicinal than culinary turmeric. In incense it is a grounded, warm base accent, not a dominant scent.
+> **Direct answer:** Buyers should first distinguish 郁金 (*Curcuma aromatica*) from turmeric (姜黄) and zedoary (莪术), then confirm a clean, well-dried rhizome with an earthy, camphoraceous, warm character — more medicinal than culinary turmeric. In incense it is a grounded, warm base accent, not a dominant scent.
 
 For a buyer or formulator:
 
@@ -144,14 +144,14 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 ## Aromatic turmeric vs turmeric vs zedoary
 
-> **Direct answer:** These are three distinct *Curcuma* rhizomes. 郁金 (*Curcuma aromatica*) is "wild turmeric," a medicinal aromatic with a classical oil record; 姜黄 (*Curcuma longa*) is culinary turmeric, the yellow-orange coloring rhizome; 莪术 (zedoary) is the most medicinal of the three. They share a warm, earthy register but are different species.
+> **Direct answer:** These are three distinct *Curcuma* rhizomes. 郁金 (*Curcuma aromatica*) is "wild turmeric," a medicinal aromatic with a classical oil record; 姜黄 (*Curcuma longa*) is culinary turmeric, the yellow-orange coloring rhizome; zedoary (莪术) is the most medicinal of the three. They share a warm, earthy register but are different species.
 
 | | Aromatic turmeric (郁金) | Turmeric (姜黄) | Zedoary (莪术) |
 |---|---|---|---|
 | Botanical source | *Curcuma aromatica* | *Curcuma longa* | *Curcuma zedoaria* / *C. phaeocaulis* |
 | Name meaning | "Aromatic gold" | "Ginger-yellow" | (plain medicinal name) |
 | Character | Earthy, camphoraceous, aromatic | Earthy, warm, culinary | Earthy, camphoraceous, strongly medicinal |
-| Classical note | 郁金油 (aromatic oil), body-anointing | Coloring rhizome | Prepared (vinegar + salt) |
+| Classical note | aromatic oil (郁金油), body-anointing | Coloring rhizome | Prepared (vinegar + salt) |
 
 See [turmeric](/ingredients/turmeric/), [zedoary](/ingredients/zedoary/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
 
@@ -173,17 +173,17 @@ In our view, 郁金 is a warm, earthy, camphoraceous base accent whose real proc
 
 ## FAQ
 
-**What is 郁金 (aromatic turmeric)?** The dried rhizome of *Curcuma aromatica*, a ginger-family (Zingiberaceae) perennial native to South and Southeast Asia and cultivated in southern China. It is a warm, camphoraceous, earthy rhizome sometimes called "wild turmeric," and its name 郁金 literally means "aromatic gold." It is one of three closely related *Curcuma* rhizomes that are routinely confused.
+**What is aromatic turmeric (郁金)?** The dried rhizome of *Curcuma aromatica*, a ginger-family (Zingiberaceae) perennial native to South and Southeast Asia and cultivated in southern China. It is a warm, camphoraceous, earthy rhizome sometimes called "wild turmeric," and its name 郁金 literally means "aromatic gold." It is one of three closely related *Curcuma* rhizomes that are routinely confused.
 
-**What is the difference between 郁金, 姜黄, and 莪术?** All three are distinct *Curcuma* rhizomes. 姜黄 is *Curcuma longa* — "turmeric," the yellow-orange culinary and coloring rhizome. 郁金 is *Curcuma aromatica* — a distinct medicinal rhizome sometimes called "wild turmeric." 莪术 is the zedoary group (*Curcuma zedoaria* / *C. phaeocaulis*). This page describes 郁金 = *Curcuma aromatica*; the other two are separate materials.
+**What is the difference between aromatic turmeric (郁金), turmeric (姜黄), and zedoary (莪术)?** All three are distinct *Curcuma* rhizomes. 姜黄 is *Curcuma longa* — "turmeric," the yellow-orange culinary and coloring rhizome. 郁金 is *Curcuma aromatica* — a distinct medicinal rhizome sometimes called "wild turmeric." 莪术 is the zedoary group (*Curcuma zedoaria* / *C. phaeocaulis*). This page describes 郁金 = *Curcuma aromatica*; the other two are separate materials.
 
-**Is 郁金 the same as turmeric?** Not exactly. 郁金 (*Curcuma aromatica*) is closely related to turmeric (*Curcuma longa*) — both are *Curcuma* rhizomes — but they are different species. 郁金 is sometimes called "wild turmeric" and is used in traditional medicine, while 姜黄 is the standard culinary turmeric and coloring material. The shared *Curcuma* genus is the source of the confusion.
+**Is aromatic turmeric (郁金) the same as turmeric?** Not exactly. 郁金 (*Curcuma aromatica*) is closely related to turmeric (*Curcuma longa*) — both are *Curcuma* rhizomes — but they are different species. 郁金 is sometimes called "wild turmeric" and is used in traditional medicine, while 姜黄 is the standard culinary turmeric and coloring material. The shared *Curcuma* genus is the source of the confusion.
 
-**What does 郁金 smell like?** Earthy and camphoraceous, warm with a slightly bitter edge — close to turmeric but less brightly earthy and more medicinal-camphoraceous. In incense it reads as a grounded, warm base accent in the ginger-family register, not a dominant scent.
+**What does aromatic turmeric (郁金) smell like?** Earthy and camphoraceous, warm with a slightly bitter edge — close to turmeric but less brightly earthy and more medicinal-camphoraceous. In incense it reads as a grounded, warm base accent in the ginger-family register, not a dominant scent.
 
-**Does 郁金 appear in classical texts?** Yes. The Ming-dynasty *Xiangcheng* (香乘) records 郁金油 (aromatic-turmeric oil) and 郁金香, and notes that "in India people anoint the body with various aromatics, namely sandalwood and 郁金" (印度之人身塗諸香所謂旃檀鬱金也) — an imported aromatic-oil use distinct from the culinary turmeric.
+**Does aromatic turmeric (郁金) appear in classical texts?** Yes. The Ming-dynasty *Xiangcheng* (香乘) records aromatic-turmeric oil (郁金油) and 郁金香, and notes that "in India people anoint the body with various aromatics, namely sandalwood and 郁金" (印度之人身塗諸香所謂旃檀鬱金也) — an imported aromatic-oil use distinct from the culinary turmeric.
 
-**Is 郁金 the same as the tulip (郁金香)?** No — this is a naming collision. 郁金 names the rhizome *Curcuma aromatica*; 郁金香 names the tulip (*Tulipa*), an unrelated flower. The shared characters 郁金 mean "aromatic gold," but they name two different plants — a rhizome and a flower — that are unrelated botanically.
+**Is aromatic turmeric (郁金) the same as the tulip (郁金香)?** No — this is a naming collision. 郁金 names the rhizome *Curcuma aromatica*; 郁金香 names the tulip (*Tulipa*), an unrelated flower. The shared characters 郁金 mean "aromatic gold," but they name two different plants — a rhizome and a flower — that are unrelated botanically.
 
 See also: [turmeric](/ingredients/turmeric/), [zedoary](/ingredients/zedoary/), and the full [scent guide](/blog/scent-guide/).
 
