@@ -30,15 +30,15 @@ related: ["peru-balsam", "benzoin", "labdanum"]
 
 > **Direct answer:** Copaiba has a soft, woody, balsamic, resinous scent with a gentle, slightly sweet, almost creamy warmth — a mild, honeyed-wood balsam rather than a sharp pine or smoke. It is smoother and lighter than the heavier, vanilla-sweet Peru balsam.
 
-古巴香脂 (copaiba) has a soft, woody, balsamic, resinous scent with a gentle, slightly sweet, almost creamy warmth — a mild, honeyed-wood balsam rather than a sharp pine or smoke. It is smoother and lighter than the heavier, vanilla-sweet Peru balsam.
+copaiba (古巴香脂) has a soft, woody, balsamic, resinous scent with a gentle, slightly sweet, almost creamy warmth — a mild, honeyed-wood balsam rather than a sharp pine or smoke. It is smoother and lighter than the heavier, vanilla-sweet Peru balsam.
 
 The defining contrast is against its better-known cousin, Peru balsam: where Peru balsam is dense, dark, and vanilla-cinnamon sweet, copaiba is lighter, more fluid, and woody-creamy. This is a *mild* balsam — the kind of note that recedes into a blend rather than asserting itself — which is precisely why it functions as a quiet fixative in modern aromatherapy and perfumery rather than as a lead fragrance.
 
 ## A provenance note (read this)
 
-> **Direct answer:** 古巴香脂 (copaiba) is a modern crossover, not a classical Chinese 香材. *Copaifera* is a tropical South American genus (Fabaceae), the Chinese name is a modern trade label, and the balsam entered fragrance through modern Western practice — absent from the classical 香材 canon.
+> **Direct answer:** copaiba (古巴香脂) is a modern crossover, not a classical Chinese 香材. *Copaifera* is a tropical South American genus (Fabaceae), the Chinese name is a modern trade label, and the balsam entered fragrance through modern Western practice — absent from the classical 香材 canon.
 
-古巴香脂 (copaiba) is a **modern crossover**, not a classical Chinese 香材:
+copaiba (古巴香脂) is a **modern crossover**, not a classical Chinese 香材:
 
 - *Copaifera* is a tropical South American genus (Fabaceae), not native to China, and Flora of China does not record it.
 - The Chinese name 古巴香脂 ("Cuba balsam") is a modern trade name; the balsam is tapped mainly from South American *Copaifera* species, not from Cuba specifically.
@@ -89,13 +89,13 @@ The distinction between balsam and oil is a processing choice, not a quality sta
 - **Historical Record** — no classical Chinese incense record exists for copaiba; the name and use are modern trade-and-aromatherapy additions.
 - **Scientific Evidence** — the botanical identity (*Copaifera* spp., Fabaceae) is established at genus level; the documented facts are botanical identity and the modern aromatherapy role, with no medical claims.
 
-There is **no classical Chinese incense record** for 古巴香脂 (copaiba); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Fabaceae placement, and its modern aromatherapy role.
+There is **no classical Chinese incense record** for copaiba (古巴香脂); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Fabaceae placement, and its modern aromatherapy role.
 
 ## Quality and sourcing notes
 
 Practical points for buyers:
 
-- 古巴香脂 (copaiba) is the tapped oleoresin of *Copaifera* spp.; expect a soft, woody, balsamic, resinous, slightly sweet scent.
+- copaiba (古巴香脂) is the tapped oleoresin of *Copaifera* spp.; expect a soft, woody, balsamic, resinous, slightly sweet scent.
 - Distinguish it from Peru balsam (*Myroxylon balsamum*) — another South American balsam, but denser and vanilla-sweet.
 - It is a modern balsam note, not a classical Chinese 香脂 (such as 安息香 or 乳香).
 
@@ -130,11 +130,11 @@ Copaiba (古巴香脂) is the oleoresin of *Copaifera* trees (Fabaceae), a tropi
 
 ## FAQ
 
-**What is 古巴香脂 (copaiba)?** The oleoresin tapped from trees of the genus *Copaifera*, a legume-family (Fabaceae) group native to tropical South America. It yields a soft, woody, balsamic, resinous, slightly sweet balsam used in modern perfumery and aromatherapy.
+**What is copaiba (古巴香脂)?** The oleoresin tapped from trees of the genus *Copaifera*, a legume-family (Fabaceae) group native to tropical South America. It yields a soft, woody, balsamic, resinous, slightly sweet balsam used in modern perfumery and aromatherapy.
 
-**Is 古巴香脂 a classical Chinese incense ingredient?** No. *Copaifera* is a South American genus, not native to China, and it has no place in the classical 香材 canon. Its Chinese name 古巴香脂 is a modern trade name, and its use entered fragrance through modern Western practice.
+**Is copaiba (古巴香脂) a classical Chinese incense ingredient?** No. *Copaifera* is a South American genus, not native to China, and it has no place in the classical 香材 canon. Its Chinese name 古巴香脂 is a modern trade name, and its use entered fragrance through modern Western practice.
 
-**Where does the name 古巴香脂 come from?** It is a modern Chinese trade name meaning "Cuba balsam," though the balsam is tapped mainly from South American *Copaifera* species rather than from Cuba specifically. The name reflects trade, not botanical origin.
+**Where does the name copaiba (古巴香脂) come from?** It is a modern Chinese trade name meaning "Cuba balsam," though the balsam is tapped mainly from South American *Copaifera* species rather than from Cuba specifically. The name reflects trade, not botanical origin.
 
 **What does copaiba smell like?** Soft, woody, balsamic, and resinous, with a gentle, slightly sweet, almost creamy warmth — a mild, honeyed-wood balsam. It is smoother and lighter than the heavier, vanilla-sweet Peru balsam.
 
@@ -171,4 +171,4 @@ See also: [peru-balsam (秘鲁香脂)](/ingredients/peru-balsam/), [benzoin (安
 
 - [Copaifera on GBIF](https://www.gbif.org/species/2978115)
 
-*Sources: botanical references on the genus *Copaifera*. 古巴香脂 (copaiba) is a modern South American balsam with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on the genus *Copaifera*. copaiba (古巴香脂) is a modern South American balsam with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
