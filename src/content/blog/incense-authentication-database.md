@@ -20,7 +20,7 @@ author: "Landeng Tech Team"
 
 ## Key Takeaways
 
-- The three common fakes: **煮油 (oil-boiling), 高压灌油 (oil-injection), 泡药水 (chemical/dye soaking).**
+- The three common fakes: **oil-boiling (煮油), oil-injection (高压灌油), chemical/dye soaking (泡药水).**
 - Signals: **white smoke + oil seepage** (real agarwood) vs **black smoke** (many fakes).
 - A **complex, sweet aroma on gentle heat** is the hallmark; "perfume" or "burnt wood" is a red flag.
 - The **sink test** works for agarwood density (沉香 = "sinking fragrance").
