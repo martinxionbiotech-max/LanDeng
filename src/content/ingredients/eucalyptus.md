@@ -28,15 +28,15 @@ related: ["camphor", "rosemary", "pine-needles"]
 
 ## Aroma profile
 
-> **Direct answer:** 桉叶 (eucalyptus) is sharp, clean, and camphoraceous, with a fresh, slightly medicinal, cooling character — the crisp, penetrating smell of crushed eucalyptus leaf. It is dominated by the compound eucalyptol (1,8-cineole), which gives it its distinctive fresh-clearing quality, and it reads as a clean, invigorating green note rather than a sweet one.
+> **Direct answer:** eucalyptus (桉叶) is sharp, clean, and camphoraceous, with a fresh, slightly medicinal, cooling character — the crisp, penetrating smell of crushed eucalyptus leaf. It is dominated by the compound eucalyptol (1,8-cineole), which gives it its distinctive fresh-clearing quality, and it reads as a clean, invigorating green note rather than a sweet one.
 
-桉叶 (eucalyptus) is sharp, clean, and camphoraceous, with a fresh, slightly medicinal, cooling character — the crisp, penetrating smell of crushed eucalyptus leaf. It is dominated by the compound **eucalyptol** (1,8-cineole), which gives it its distinctive fresh-clearing quality. It reads as a clean, invigorating green note rather than a sweet one. This "camphoraceous" register — sharp, cool, medicinal-fresh — is a *chemistry family*, and eucalyptus shares it with camphor and borneol, which is why the three are so often compared (and confused).
+eucalyptus (桉叶) is sharp, clean, and camphoraceous, with a fresh, slightly medicinal, cooling character — the crisp, penetrating smell of crushed eucalyptus leaf. It is dominated by the compound **eucalyptol** (1,8-cineole), which gives it its distinctive fresh-clearing quality. It reads as a clean, invigorating green note rather than a sweet one. This "camphoraceous" register — sharp, cool, medicinal-fresh — is a *chemistry family*, and eucalyptus shares it with camphor and borneol, which is why the three are so often compared (and confused).
 
 ## A provenance note (read this)
 
-> **Direct answer:** 桉叶 (eucalyptus) is a modern crossover, not a classical Chinese 香材. *Eucalyptus globulus* is native to southeastern Australia and Tasmania, introduced to China in the 19th century as a plantation timber, and recorded by Flora of China as a cultivated/introduced tree. Its fragrance use is a modern Western tradition, absent from the classical canon.
+> **Direct answer:** eucalyptus (桉叶) is a modern crossover, not a classical Chinese 香材. *Eucalyptus globulus* is native to southeastern Australia and Tasmania, introduced to China in the 19th century as a plantation timber, and recorded by Flora of China as a cultivated/introduced tree. Its fragrance use is a modern Western tradition, absent from the classical canon.
 
-桉叶 (eucalyptus) is a **modern crossover**, not a classical Chinese 香材:
+eucalyptus (桉叶) is a **modern crossover**, not a classical Chinese 香材:
 
 - *Eucalyptus globulus* is native to southeastern Australia and Tasmania. It was introduced to China in the 19th century as a fast-growing plantation timber, and Flora of China records it as a cultivated/introduced tree, not a native wild species.
 - The Chinese name 桉叶 is modern; eucalyptus as a fragrance and aromatherapy material is a **modern Western tradition**, absent from the classical 香材 canon.
@@ -62,9 +62,9 @@ The Chinese terminology is modern and part-precise: 桉 (ān) is the eucalyptus 
 
 The word "camphoraceous" names a *chemistry family*, not a plant, and it hides a real split:
 
-- **桉叶 (eucalyptus)** — *Eucalyptus globulus*, an Australian leaf whose note is dominated by **eucalyptol (1,8-cineole)**. This entry.
-- **樟脑 (camphor)** — *Cinnamomum camphora*, the camphor laurel, whose **camphor crystal** is steam-distilled from the wood.
-- **龙脑 (borneol)** — *Dryobalanops aromatica* or *Blumea balsamifera*, a **borneol crystal** from a different plant.
+- **eucalyptus (桉叶)** — *Eucalyptus globulus*, an Australian leaf whose note is dominated by **eucalyptol (1,8-cineole)**. This entry.
+- **camphor (樟脑)** — *Cinnamomum camphora*, the camphor laurel, whose **camphor crystal** is steam-distilled from the wood.
+- **borneol (龙脑)** — *Dryobalanops aromatica* or *Blumea balsamifera*, a **borneol crystal** from a different plant.
 
 All three read "camphoraceous," but they are different materials with different sources and chemistries. The shared adjective is a false-friend, exactly like the camphor-vs-borneol confusion within the camphor entry itself. See [camphor (樟木)](/ingredients/camphor/) and [borneol (龙脑)](/ingredients/borneol/).
 
@@ -76,13 +76,13 @@ All three read "camphoraceous," but they are different materials with different 
 
 ## Traditional use vs modern evidence
 
-> **Direct answer:** There is no classical Chinese incense record for 桉叶 (eucalyptus); its position is entirely modern. The documented facts are botanical identity, the Myrtaceae placement, its modern aromatic role, and the established chemistry of its eucalyptol-rich oil.
+> **Direct answer:** There is no classical Chinese incense record for eucalyptus (桉叶); its position is entirely modern. The documented facts are botanical identity, the Myrtaceae placement, its modern aromatic role, and the established chemistry of its eucalyptol-rich oil.
 
 - **Traditional Use** — none in classical Chinese incense; eucalyptus is not a 香材, and no traditional aromatic or materia-medica role is claimed for 桉叶 here.
 - **Historical Record** — the introduction of *Eucalyptus globulus* to China as a 19th-century plantation timber (recorded by Flora of China as cultivated/introduced) is documented; this is a horticultural history, not a Chinese classical record.
 - **Scientific Evidence** — the botanical identity of *Eucalyptus globulus* (Myrtaceae) and the eucalyptol (1,8-cineole)-dominated essential oil are established. We present no medical claims.
 
-There is **no classical Chinese incense record** for 桉叶 (eucalyptus); its position is entirely modern. We make **no medical claims**.
+There is **no classical Chinese incense record** for eucalyptus (桉叶); its position is entirely modern. We make **no medical claims**.
 
 ## How is eucalyptus used in incense?
 
@@ -171,7 +171,7 @@ Eucalyptus (桉叶) is the leaf of *Eucalyptus globulus*, the blue gum, a myrtle
 
 ## FAQ
 
-**What is 桉叶 (eucalyptus)?** The leaf of *Eucalyptus globulus*, the blue gum, a tall evergreen tree of the myrtle family (Myrtaceae) native to Australia and introduced to China as a plantation timber. Its leaves carry a sharp, camphoraceous, fresh, slightly medicinal scent. It is a modern crossover, not a classical Chinese incense ingredient.
+**What is eucalyptus (桉叶)?** The leaf of *Eucalyptus globulus*, the blue gum, a tall evergreen tree of the myrtle family (Myrtaceae) native to Australia and introduced to China as a plantation timber. Its leaves carry a sharp, camphoraceous, fresh, slightly medicinal scent. It is a modern crossover, not a classical Chinese incense ingredient.
 
 **Is eucalyptus a classical Chinese incense ingredient?** No. Eucalyptus is native to Australia and was introduced to China only in the 19th century. It has no place in the classical 香材 canon, and its fragrance use is a modern Western aromatherapy tradition, not a classical Chinese one.
 
@@ -213,4 +213,4 @@ See also: [camphor (樟木)](/ingredients/camphor/), [borneol (龙脑)](/ingredi
 - [Eucalyptus globulus in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014782)
 - [Eucalyptus globulus on GBIF](https://www.gbif.org/species/3176787)
 
-*Sources: botanical references on *Eucalyptus globulus*. 桉叶 (eucalyptus) is a modern aromatic leaf with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Eucalyptus globulus*. eucalyptus (桉叶) is a modern aromatic leaf with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
