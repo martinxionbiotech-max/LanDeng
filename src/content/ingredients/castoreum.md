@@ -63,9 +63,9 @@ The name 海狸香 (hǎilíxiāng) is a modern, descriptive coinage — 海狸 "
 
 Castoreum completes the animal-fixative trio, but with a crucial difference:
 
-- **麝香 (musk)** — *Moschus* deer pod secretion; warm, sweet, skin-like; the Chinese court's animal accent. See [musk](/ingredients/musk/).
-- **灵猫香 (civet)** — *Viverra*/civet gland secretion; sharp, fecal-animalic; CITES Appendix III. See [civet](/ingredients/civet/).
-- **海狸香 (castoreum)** — *Castor* beaver castor sac secretion; smoky, leathery; Western classical, **not** Chinese. This entry.
+- **musk (麝香)** — *Moschus* deer pod secretion; warm, sweet, skin-like; the Chinese court's animal accent. See [musk](/ingredients/musk/).
+- **civet (灵猫香)** — *Viverra*/civet gland secretion; sharp, fecal-animalic; CITES Appendix III. See [civet](/ingredients/civet/).
+- **castoreum (海狸香)** — *Castor* beaver castor sac secretion; smoky, leathery; Western classical, **not** Chinese. This entry.
 
 The three share an animalic fixative register, but castoreum stands apart in two ways: it is the smokiest and most leathery in character, and it is the *only* one of the three with no Chinese incense pedigree — a Western material whose Chinese name is a modern coinage. This distinction matters for the encyclopedia's honesty about provenance: "animal fixative" is a family, but the three members do not all belong to the Chinese tradition.
 
@@ -149,7 +149,7 @@ Castoreum (海狸香, "beaver scent") is the historical scent secretion of beave
 
 ## FAQ
 
-**What is 海狸香 (castoreum)?** The historical scent secretion of beavers — the Eurasian beaver *Castor fiber* and the North American beaver *Castor canadensis* — drawn from the castor sacs near the base of the tail. It was used in Western perfumery as a fixative, and its Chinese name is a modern descriptive term.
+**What is castoreum (海狸香)?** The historical scent secretion of beavers — the Eurasian beaver *Castor fiber* and the North American beaver *Castor canadensis* — drawn from the castor sacs near the base of the tail. It was used in Western perfumery as a fixative, and its Chinese name is a modern descriptive term.
 
 **Is castoreum a Chinese incense material?** No. Castoreum is a Western classical perfumery material, absent from the Ming-dynasty *Xiangcheng* (香乘) and the Chinese incense tradition. Its Chinese name 海狸香 ("beaver scent") is modern and descriptive, not a classical ingredient.
 
