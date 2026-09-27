@@ -14,7 +14,7 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Chinese and Japanese incense share a name (香道) and a common root, but they developed into **different arts**. Chinese incense centers on **合香 (hé xiāng)** — the compositional art of blending multiple materials into a structured formula — while Japanese incense centers on **kōdō**, the codified, minimalist art of "listening" to a single precious wood, chiefly agarwood. China is the historical source; Japan systematized and preserved a refined slice of it. Neither is "better"; they are two different answers to the same question.
 
-**Key facts:** The refined technique at kōdō's heart — 隔火焚香 (indirect-fire incense) — is a Song-dynasty Chinese technique. Historical evidence indicates it reached Japan with Buddhism and tea, where it was later formalized as kōdō during the Muromachi period. Chinese incense is warmer, layered, and compositional; Japanese kōdō is minimalist, meditative, and codified.
+**Key facts:** The refined technique at kōdō's heart — indirect-fire incense (隔火焚香) — is a Song-dynasty Chinese technique. Historical evidence indicates it reached Japan with Buddhism and tea, where it was later formalized as kōdō during the Muromachi period. Chinese incense is warmer, layered, and compositional; Japanese kōdō is minimalist, meditative, and codified.
 
 ---
 
@@ -33,7 +33,7 @@ author: "Landeng Tech Team"
 
 The first distinction is philosophical: what each tradition is *about*.
 
-- **Chinese incense (香)** is a **material-and-practice tradition**. Its center of gravity is the *blend*: 合香 (compound incense), built on a 君臣佐使 (chief–minister–assistant–guide) principle analogous to Chinese herbal formulation, where each ingredient has a role. The material — agarwood, sandalwood, resins, botanicals — is the substance, and the stick (线香) is only one later delivery form. See [what Chinese incense is](/blog/what-is-chinese-incense/).
+- **Chinese incense (香)** is a **material-and-practice tradition**. Its center of gravity is the *blend*: compound incense (合香), built on a 君臣佐使 (chief–minister–assistant–guide) principle analogous to Chinese herbal formulation, where each ingredient has a role. The material — agarwood, sandalwood, resins, botanicals — is the substance, and the stick (线香) is only one later delivery form. See [what Chinese incense is](/blog/what-is-chinese-incense/).
 - **Japanese kōdō (香道)** is a **codified appreciation art**. It centers on "listening" (聞, kiku) to a single precious wood — chiefly agarwood (jinkō 沈香) — through ritual and incense-comparing games. See [Japanese incense & kōdō](/blog/japanese-incense-kodo/).
 
 The shared name 香道 is doing two different jobs: in China it names the broad practice of the Way of Incense; in Japan it names a specific, formalized art with lineages and a precise vocabulary.
@@ -42,7 +42,7 @@ The shared name 香道 is doing two different jobs: in China it names the broad 
 
 ## The Historical Relationship (Stated Carefully)
 
-> **Direct answer:** Historical evidence indicates that kōdō descended from the Song-dynasty Chinese technique 隔火焚香 (indirect-fire incense), which reached Japan with Buddhism and tea and was later formalized as kōdō during the Muromachi period. China is the historical source; Japan systematized and preserved the form.
+> **Direct answer:** Historical evidence indicates that kōdō descended from the Song-dynasty Chinese technique indirect-fire incense (隔火焚香), which reached Japan with Buddhism and tea and was later formalized as kōdō during the Muromachi period. China is the historical source; Japan systematized and preserved the form.
 
 This is the correction that matters, and it is stated carefully:
 
@@ -54,7 +54,7 @@ This is the correction that matters, and it is stated carefully:
 
 The honest framing is **shared origin, divergent development** — not "Japan invented incense appreciation," and not a simple "China invented kōdō" either. See the [history of Chinese incense](/blog/history-of-chinese-incense/) for the full timeline.
 
-## Technique: 隔火焚香 vs Monkō
+## Technique: indirect-fire incense (隔火焚香) vs Monkō
 
 > **Direct answer:** Both traditions share the refined low-smoke technique of warming wood over buried charcoal, but they use it differently. In China it is one technique among many (隔火焚香); in Japan it became the ritualized core of monkō ("listening to fragrance") with specialized tools and codified procedure.
 
@@ -87,7 +87,7 @@ The mindset gap is why kōdō reads as meditation and Chinese incense reads as c
 
 > **Direct answer:** Each tradition built its own vocabulary. Chinese incense grades agarwood by resin density (沉水 sinking test) and the 奇楠 distinction; kōdō classifies agarwood by the rikkoku gomi ("six countries, five tastes") framework. Both are traditional, not modern provenance systems.
 
-- **Chinese vocabulary** — 沉香 ("sinking fragrance"), the 沉水 grading system, 奇楠 (the top grade), 合香 (blending), 香谱 (incense manuals). See the [agarwood grading guide](/blog/agarwood-grading-guide/).
+- **Chinese vocabulary** — 沉香 ("sinking fragrance"), the 沉水 grading system, 奇楠 (the top grade), blending (合香), incense manuals (香谱). See the [agarwood grading guide](/blog/agarwood-grading-guide/).
 - **Japanese vocabulary** — monkō (聞香), kumikō (組香, incense-comparing games), genjikō (源氏香), and rikkoku gomi (六国五味) — six traditional "countries" and five "tastes" for agarwood, where "kyara" names the top grade (cognate with Chinese 奇楠).
 
 Honest caveat: both systems' "origins" and "colors" are traditional labels, not verified geography or settled taxonomy. They are descriptive frameworks, each valuable within its own tradition.
@@ -160,7 +160,7 @@ Because the core verb is 聞 (kiku, "listen/hear"), not 嗅 (kagu, "smell"). Mon
 ### Q: Which is more expensive, Chinese or Japanese incense?
 It depends on the material, not the tradition. Both traditions reach their highest prices through agarwood — 奇楠 in the Chinese system, kyara in the Japanese — and both include inexpensive everyday forms (sticks in China, low-end sticks in Japan). Kōdō as a *practice* is cost-constrained because its central material is premium agarwood, while Chinese incense ranges from cheap to precious. There is no clean "which is more expensive" answer; it turns on the specific material and grade.
 
-### Q: What is the difference between 奇楠 and kyara?
+### Q: What is the difference between qinan (奇楠) and kyara?
 They are the same idea in two vocabularies. 奇楠 (qínán) is the Chinese name for the top grade of agarwood — "oil-wraps-wood" material, soft and aromatic at room temperature. Kyara (伽羅) is the Japanese reading of the same characters, and it sits at the top of the rikkoku gomi classification. Both carry the same ambiguity about ultimate origin. See [qínán / kyara](/blog/qinan-kyara/) and the [agarwood grading guide](/blog/agarwood-grading-guide/).
 
 ---
