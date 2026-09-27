@@ -42,7 +42,7 @@ The part used is the aerial herb — leaves and flowering tops — fresh or drie
 
 ## Chinese name and terminology
 
-> **Direct answer:** 薄荷 (bòhé) is the Chinese name for the East Asian mint of the pharmacopoeia; it is distinct in Chinese terminology from 留兰香 (spearmint) and 胡椒薄荷 (peppermint). The three mints carry separate Chinese names precisely because they are different plants.
+> **Direct answer:** 薄荷 (bòhé) is the Chinese name for the East Asian mint of the pharmacopoeia; it is distinct in Chinese terminology from spearmint (留兰香) and peppermint (胡椒薄荷). The three mints carry separate Chinese names precisely because they are different plants.
 
 The *Mentha* genus supplies three distinct mints, each with its own Chinese name:
 
@@ -62,7 +62,7 @@ Where English tends to lump these under "mint," Chinese keeps them separate — 
 
 > **Direct answer:** Mint is used in incense as a cooling top note — it adds lift, freshness, and a clean minty character that cuts through heavier, warmer notes. It is used sparingly and usually blended, because its bright top note can dominate a formula if over-dosed.
 
-Mint's role in incense follows directly from its aroma: as a bright, volatile top note it **lifts and cools** a blend, cutting through the weight of woods and resins. This is why it is used **sparingly and usually blended** — a small amount freshens a formula, while too much overpowers it. It is a classical cooling element in 合香 (blended incense) rather than a material burned alone.
+Mint's role in incense follows directly from its aroma: as a bright, volatile top note it **lifts and cools** a blend, cutting through the weight of woods and resins. This is why it is used **sparingly and usually blended** — a small amount freshens a formula, while too much overpowers it. It is a classical cooling element in blended incense (合香) rather than a material burned alone.
 
 ## How is it processed?
 
@@ -116,9 +116,9 @@ The culinary and aromatic use is well documented. Medicinal uses are **tradition
 
 | Mint | Botanical source | Aroma character |
 |---|---|---|
-| 薄荷 (mint) | *Mentha haplocalyx* (syn. *M. canadensis*) | Cooling, fresh, sweet-green; the Chinese pharmacopoeial mint |
-| 留兰香 (spearmint) | *Mentha spicata* | Sweet, soft, carvone-dominant |
-| 胡椒薄荷 (peppermint) | *Mentha × piperita* | Sharp, camphoraceous, menthol-dominant |
+| mint (薄荷) | *Mentha haplocalyx* (syn. *M. canadensis*) | Cooling, fresh, sweet-green; the Chinese pharmacopoeial mint |
+| spearmint (留兰香) | *Mentha spicata* | Sweet, soft, carvone-dominant |
+| peppermint (胡椒薄荷) | *Mentha × piperita* | Sharp, camphoraceous, menthol-dominant |
 
 All three share a minty, menthol-adjacent character from the common family and chemistry, but they are distinct plants with distinct aromas. See [spearmint](/ingredients/spearmint/) and [peppermint](/ingredients/peppermint/).
 
@@ -180,15 +180,15 @@ Mint (薄荷, *bòhé*) is the aerial herb of *Mentha haplocalyx* (syn. *Mentha 
 
 ## FAQ
 
-**What is 薄荷 (mint)?** The aerial herb of *Mentha haplocalyx*, a perennial of the mint family (Lamiaceae) native to East Asia; modern botanical databases treat the name as a synonym of *Mentha canadensis*. It is a cooling, minty, fresh aromatic from its menthol-rich essential oil, used in Chinese incense as a cooling top note and as a culinary herb. It is the "mint" of the Chinese pharmacopoeia.
+**What is mint (薄荷)?** The aerial herb of *Mentha haplocalyx*, a perennial of the mint family (Lamiaceae) native to East Asia; modern botanical databases treat the name as a synonym of *Mentha canadensis*. It is a cooling, minty, fresh aromatic from its menthol-rich essential oil, used in Chinese incense as a cooling top note and as a culinary herb. It is the "mint" of the Chinese pharmacopoeia.
 
-**How does 薄荷 differ from peppermint or spearmint?** 薄荷 is *Mentha haplocalyx* (syn. *Mentha canadensis*), the East Asian mint of the Chinese pharmacopoeia. Peppermint is *Mentha × piperita* and spearmint is *Mentha spicata* — different mints of the same family. They share a minty, menthol character, but 薄荷 is the source used in the Chinese tradition. The shared character reflects the common family and chemistry, not the same plant.
+**How does mint (薄荷) differ from peppermint or spearmint?** 薄荷 is *Mentha haplocalyx* (syn. *Mentha canadensis*), the East Asian mint of the Chinese pharmacopoeia. Peppermint is *Mentha × piperita* and spearmint is *Mentha spicata* — different mints of the same family. They share a minty, menthol character, but 薄荷 is the source used in the Chinese tradition. The shared character reflects the common family and chemistry, not the same plant.
 
 **What does mint smell like?** Cooling and fresh, with the unmistakable menthol character that gives it a crisp, penetrating, slightly sweet-green scent. It is a true top note — bright, volatile, and instantly recognizable. In a blend it adds a cooling lift and freshness, cutting through heavier, warmer notes rather than adding body.
 
 **Why is mint described as "cooling"?** Because of menthol, the dominant compound in its essential oil, which triggers the sensation of coolness on skin and mucous membranes. This cooling character is sensory — a perception, not a temperature change — and it is what gives mint its crisp, fresh, penetrating quality in both flavor and fragrance.
 
-**How is 薄荷 used in Chinese tradition?** Primarily as a staple culinary herb — fresh and dried in teas, soups, and as a garnish — and as a cooling, fresh top note in incense. It is also recorded in traditional Chinese medicine (本草綱目, 草部). The medicinal uses are traditional language, not modern clinical evidence, and this encyclopedia makes no medical claims.
+**How is mint (薄荷) used in Chinese tradition?** Primarily as a staple culinary herb — fresh and dried in teas, soups, and as a garnish — and as a cooling, fresh top note in incense. It is also recorded in traditional Chinese medicine (本草綱目, 草部). The medicinal uses are traditional language, not modern clinical evidence, and this encyclopedia makes no medical claims.
 
 **Why does dried mint fade in scent?** Because mint's aroma is carried by volatile compounds — chiefly menthol and related constituents — that evaporate and oxidize over time once the herb is dried and exposed to air. Freshness is therefore the decisive quality variable for mint: a recently dried lot keeps its crisp top note, while an old one loses exactly the character the buyer is paying for.
 
