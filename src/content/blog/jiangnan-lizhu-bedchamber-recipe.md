@@ -43,10 +43,10 @@ The 香乘 records several 帐中香 recipes. The goose-pear version above is th
 
 | Ingredient | Quantity |
 |---|---|
-| 沉香 (agarwood) | 四两 (4 liǎng) |
-| 檀香 (sandalwood) | 一两 (1 liǎng) |
-| 麝香 (musk) | 一两 (1 liǎng) |
-| 龙脑 (borneol) | 半两 (0.5 liǎng) |
+| agarwood (沉香) | 四两 (4 liǎng) |
+| sandalwood (檀香) | 一两 (1 liǎng) |
+| musk (麝香) | 一两 (1 liǎng) |
+| borneol (龙脑) | 半两 (0.5 liǎng) |
 | 马牙香 (a resin/aromatic) | 一分 (1 fēn) |
 
 Cut fine without sieving, bind with refined honey, and burn. A further 香乘 entry **soaks agarwood in storax oil (苏合油) for a hundred days** and finishes it with rose water (蔷薇水).
@@ -93,7 +93,7 @@ See [Chinese Incense Recipes (香方): Translated from the Classical Manuals](/b
 
 ## FAQ
 
-### Q: What is 江南李主帐中香?
+### Q: What is Jiangnan Li Zhu bedchamber incense (江南李主帐中香)?
 A bedchamber incense attributed to 李煜 (Li Yu), the last ruler of the Southern Tang — "江南李主" means "the Lord of Jiangnan." Its most famous version steams agarwood powder and a trace of sandalwood inside hollowed goose pears, so the wood absorbs a clean, sweet fruit note before it is burned. The 香乘 records several versions of the formula, which is why it is one of the best-documented classical recipes. The Li Yu attribution is traditional and widely repeated, but not a signed historical document, so the page treats it as a label rather than verified authorship.
 
 ### Q: Why use a pear?
