@@ -16,13 +16,13 @@ author: "Landeng Tech Team"
 
 <img src="/images/recipe-huarui-yamen-800x533.webp" alt="Refined agarwood pieces and a small gold-accented dish on dark silk" width="800" height="533" loading="lazy">
 
-**Key facts:** 衙香 (yamen incense) was a *category* of court/office incense, not a single scent — and the 花蕊夫人 version is the most famous named one. It is a lesson in the **rich, layered court blend** as distinct from the leaner scholar blends.
+**Key facts:** yamen incense (衙香) was a *category* of court/office incense, not a single scent — and the 花蕊夫人 version is the most famous named one. It is a lesson in the **rich, layered court blend** as distinct from the leaner scholar blends.
 
 ---
 
 ## The Recipe (香乘 version)
 
-> **沉香三两、栈香三两、檀香一两、乳香一两、龙脑半钱、甲香一两、麝香一钱** — three liǎng agarwood (沉香), three liǎng 栈香 (a non-sinking agarwood grade), one liǎng sandalwood (檀香), one liǎng frankincense (乳香), half a qián borneol (龙脑), one liǎng 甲香 (operculum), and one qián musk (麝香). Except the borneol, grind together; add 炭皮末 (charcoal-bark powder) and 朴硝 (saltpetre) one qián each; blend with raw honey; warm in a sealed vessel over boiling water (重汤) ten or so times; age (窨) seven days; form into cakes and burn.
+> **沉香三两、栈香三两、檀香一两、乳香一两、龙脑半钱、甲香一两、麝香一钱** — three liǎng agarwood (沉香), three liǎng 栈香 (a non-sinking agarwood grade), one liǎng sandalwood (檀香), one liǎng frankincense (乳香), half a qián borneol (龙脑), one liǎng operculum (甲香), and one qián musk (麝香). Except the borneol, grind together; add charcoal-bark powder (炭皮末) and saltpetre (朴硝) one qián each; blend with raw honey; warm in a sealed vessel over boiling water (重汤) ten or so times; age (窨) seven days; form into cakes and burn.
 
 | Role | Ingredient | Job in the blend |
 |---|---|---|
@@ -39,15 +39,15 @@ The recorded proportions (香乘):
 
 | Ingredient | Quantity |
 |---|---|
-| 沉香 (agarwood) | 三两 (3 liǎng) |
+| agarwood (沉香) | 三两 (3 liǎng) |
 | 栈香 (non-sinking agarwood grade) | 三两 (3 liǎng) |
-| 檀香 (sandalwood) | 一两 (1 liǎng) |
-| 乳香 (frankincense) | 一两 (1 liǎng) |
-| 龙脑 (borneol) | 半钱 (0.5 qián) |
+| sandalwood (檀香) | 一两 (1 liǎng) |
+| frankincense (乳香) | 一两 (1 liǎng) |
+| borneol (龙脑) | 半钱 (0.5 qián) |
 | 甲香 ([onycha](/ingredients/onycha/)) | 一两 (1 liǎng, 法制 treated) |
-| 麝香 (musk) | 一钱 (1 qián) |
-| 炭皮末 (charcoal-bark powder) | 一钱 (1 qián) |
-| 朴硝 (saltpetre) | 一钱 (1 qián) |
+| musk (麝香) | 一钱 (1 qián) |
+| charcoal-bark powder (炭皮末) | 一钱 (1 qián) |
+| saltpetre (朴硝) | 一钱 (1 qián) |
 
 The ratio shows the court blend's structure: the two agarwood grades together form the dominant body (six liǎng combined), with sandalwood, frankincense, and operculum each at one liǎng as the support, and borneol, musk, and the two combustion aids as the small accents measured in qián.
 
@@ -89,13 +89,13 @@ See [Chinese Incense Recipes (香方): Translated from the Classical Manuals](/b
 
 ## FAQ
 
-### Q: What is 花蕊夫人衙香?
+### Q: What is Huarui Furen's Court Incense (花蕊夫人衙香)?
 A rich court compound incense (合香) attributed to Lady Huarui, built on the classic agarwood–sandalwood–musk core with frankincense, borneol, and operculum (甲香) for depth. It is the most famous named example of the 衙香 category, and its proportions — six liǎng of the two agarwood grades combined against one-liǎng support materials — mark it as an opulent status blend rather than a leaner scholar incense. The attribution to Lady Huarui is traditional and widely repeated, not a signed historical document, so the page treats the identity as a label rather than verified authorship.
 
-### Q: What is 衙香?
-衙香 (yamen incense) is a category of court and official-office compound incense, not a single fixed scent. The name comes from the yamen, or government office, where such incense was burned. The 陈氏香谱 alone lists fifteen distinct 衙香 recipes, all sharing the same agarwood–sandalwood–musk core. The common thread is expense: these were courtly blends made from costly materials, the opposite of a humble seed-based incense like 柏子香. So the label tells you about the blend's social register and material profile, not one specific fragrance.
+### Q: What is yamen incense (衙香)?
+yamen incense (衙香) is a category of court and official-office compound incense, not a single fixed scent. The name comes from the yamen, or government office, where such incense was burned. The 陈氏香谱 alone lists fifteen distinct 衙香 recipes, all sharing the same agarwood–sandalwood–musk core. The common thread is expense: these were courtly blends made from costly materials, the opposite of a humble seed-based incense like 柏子香. So the label tells you about the blend's social register and material profile, not one specific fragrance.
 
-### Q: What is 甲香?
+### Q: What is operculum (甲香)?
 甲香 is operculum — the hard, shell-like disc that seals the opening of certain sea snails. In classical incense it was used as a fixative to bind and stabilize a blend's scent, and the 香乘 versions of this recipe call for it to be treated (法制) before use. It is rarely used in modern reproduction: the material is uncommon and often replaced or omitted, and its animal origin makes it unsuitable for vegetarian or cruelty-conscious makers. When it appears in old formulas, read it as a functional fixative from the shellfish tradition, not a fragrance note in its own right.
 
 ### Q: Who was 花蕊夫人?
@@ -115,4 +115,4 @@ A rich court compound incense (合香) attributed to Lady Huarui, built on the c
 - [Agarwood Incense Guide](/blog/agarwood-incense/)
 - [Frankincense Incense Guide](/blog/frankincense-incense/)
 
-**Natural next step:** see the humble counterpoint in [柏子香 (cypress-seed incense)](/blog/baizi-incense-recipe/).
+**Natural next step:** see the humble counterpoint in [cypress-seed incense (柏子香)](/blog/baizi-incense-recipe/).
