@@ -14,7 +14,7 @@ related: ["clove", "cardamom"]
 
 <img src="/images/nutmeg-raw-material-800x533.webp" alt="Raw Nutmeg (Myristica fragrans) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Nutmeg — *ròudòukòu* (肉豆蔻) in Chinese — is the dried seed of *Myristica fragrans*, an evergreen tree of the nutmeg family (Myristicaceae) native to the Moluccas (Spice Islands) of Indonesia. It is a warm, spicy, sweet spice, familiar from cooking and baking, and it appears in Chinese incense as a warm spice note in some 合香 (blended incense) contexts. Its lacy red covering — *mace* — is a separate, closely related spice.
+**Technical answer:** Nutmeg — *ròudòukòu* (肉豆蔻) in Chinese — is the dried seed of *Myristica fragrans*, an evergreen tree of the nutmeg family (Myristicaceae) native to the Moluccas (Spice Islands) of Indonesia. It is a warm, spicy, sweet spice, familiar from cooking and baking, and it appears in Chinese incense as a warm spice note in some blended incense (合香) contexts. Its lacy red covering — *mace* — is a separate, closely related spice.
 
 ## Key facts
 
@@ -30,7 +30,7 @@ related: ["clove", "cardamom"]
 
 > **Direct answer:** Nutmeg (肉豆蔻, *ròudòukòu*) is the dried seed of *Myristica fragrans*, an evergreen tree of the nutmeg family (Myristicaceae) native to the Moluccas of Indonesia. It is a warm, spicy, sweet spice whose lacy red covering — mace (肉豆蔻衣) — is a separate spice from the same fruit.
 
-Nutmeg is a **seed spice with a double identity**: one fruit of *Myristica fragrans* yields two distinct spices — the seed (nutmeg, 肉豆蔻) and the lacy red aril that wraps it (mace, 肉豆蔻衣). It is familiar from baking and braising, and in Chinese incense it appears as a warm, food-adjacent spice accent in some 合香 (blended incense) contexts, rather than as a classical defining material. Its Chinese name shares the 豆蔻 element with cardamom, which is a different plant — a naming trap worth reading.
+Nutmeg is a **seed spice with a double identity**: one fruit of *Myristica fragrans* yields two distinct spices — the seed (nutmeg, 肉豆蔻) and the lacy red aril that wraps it (mace, 肉豆蔻衣). It is familiar from baking and braising, and in Chinese incense it appears as a warm, food-adjacent spice accent in some blended incense (合香) contexts, rather than as a classical defining material. Its Chinese name shares the 豆蔻 element with cardamom, which is a different plant — a naming trap worth reading.
 
 ## Botanical identity
 
@@ -65,7 +65,7 @@ Nutmeg is warm, spicy, and sweet, with a woody, slightly penetrating edge from i
 
 > **Direct answer:** Nutmeg is used in incense as a warm, sweet spice accent that adds food-adjacent warmth to a 合香 blend, usually alongside clove and cardamom, rather than as a lead or defining material.
 
-Nutmeg's incense role follows its culinary character: a warm, sweet, slightly woody spice note that lends a comforting, food-adjacent warmth. It is a **supporting accent** in 合香 (blended incense) — used alongside clove and cardamom to build a sweet-spice layer — rather than a classical defining material burned on its own. Because its scent fades after grinding, the whole seed (grated fresh) is the practical form for a blend.
+Nutmeg's incense role follows its culinary character: a warm, sweet, slightly woody spice note that lends a comforting, food-adjacent warmth. It is a **supporting accent** in blended incense (合香) — used alongside clove and cardamom to build a sweet-spice layer — rather than a classical defining material burned on its own. Because its scent fades after grinding, the whole seed (grated fresh) is the practical form for a blend.
 
 ## How is it processed?
 
@@ -130,7 +130,7 @@ Nutmeg sits in the nutmeg family (Myristicaceae), while cardamom and sand ginger
 Practical points for buyers:
 
 - Whole nutmeg should be dense, oily, and strongly aromatic; the seed loses scent once ground, so whole is preferred.
-- Distinguish 肉豆蔻 (nutmeg) from 白豆蔻 (cardamom) — different spices with a shared 豆蔻 name.
+- Distinguish nutmeg (肉豆蔻) from cardamom (白豆蔻) — different spices with a shared 豆蔻 name.
 - In incense, nutmeg is a warm spice accent, usually blended, not burned alone.
 
 ## What buyers should look for
@@ -141,7 +141,7 @@ For a cooking or blending buyer:
 
 - **Form** — whole seed over pre-ground, for aroma retention.
 - **Aroma** — strong, warm, spicy-sweet when freshly broken or grated.
-- **Identity** — 肉豆蔻 (nutmeg, Myristicaceae), not 白豆蔻 (cardamom) or 山柰 (sand ginger).
+- **Identity** — nutmeg, Myristicaceae (肉豆蔻), not cardamom (白豆蔻) or sand ginger (山柰).
 - **Mace** — if mace (肉豆蔻衣) is wanted, it is a separate, more delicate spice.
 
 ## Safety
@@ -167,7 +167,7 @@ Nutmeg (肉豆蔻, *ròudòukòu*) is the dried seed of *Myristica fragrans* (My
 
 **What is the difference between nutmeg and mace?** They come from the same fruit of *Myristica fragrans*. Nutmeg (肉豆蔻) is the seed, and mace (肉豆蔻衣) is the lacy red aril that wraps around it. Both are warm, sweet spices, but mace is more delicate and slightly brighter. One tree yields two distinct spices from a single fruit.
 
-**Is 肉豆蔻 the same as cardamom?** No. 肉豆蔻 (nutmeg) is *Myristica fragrans*; cardamom (白豆蔻) is *Amomum kravanh*, a different spice from the ginger family. They share the 豆蔻 name element in Chinese, which reflects historical grouping rather than the same plant. They have different aromas, sources, and uses, and cardamom has its own entry in this encyclopedia.
+**Is nutmeg (肉豆蔻) the same as cardamom?** No. nutmeg (肉豆蔻) is *Myristica fragrans*; cardamom (白豆蔻) is *Amomum kravanh*, a different spice from the ginger family. They share the 豆蔻 name element in Chinese, which reflects historical grouping rather than the same plant. They have different aromas, sources, and uses, and cardamom has its own entry in this encyclopedia.
 
 **What does nutmeg smell like?** Warm, spicy, and sweet, with a woody, slightly penetrating edge from its essential oil. It is a "sweet-spice" note in the family of clove and cardamom, familiar from baking and braising. In incense it adds a warm, food-adjacent spiciness as an accent rather than a base note.
 
@@ -186,7 +186,7 @@ See also: [clove](/ingredients/clove/), [cardamom](/ingredients/cardamom/), [san
 **Source:** 肉豆蔻 as a culinary spice and materia-medica aromatic. **Evidence type:** Historically documented — culinary use; medicinal uses are traditional, not modern clinical evidence.
 
 ### Authenticity / disambiguation
-**Source:** 肉豆蔻 (nutmeg) vs 白豆蔻 (cardamom) — different spices with a shared 豆蔻 name. **Evidence type:** Practical screening.
+**Source:** nutmeg (肉豆蔻) vs cardamom (白豆蔻) — different spices with a shared 豆蔻 name. **Evidence type:** Practical screening.
 
 ### Safety
 **Source:** incense combustion produces smoke and particulate matter; burn in a well-ventilated space. **Evidence type:** Established.
