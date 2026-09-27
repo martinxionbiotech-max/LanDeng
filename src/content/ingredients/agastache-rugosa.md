@@ -24,7 +24,7 @@ related: ["patchouli", "mugwort"]
 | Botanical source | *Agastache rugosa* (family Lamiaceae) — the dried herb |
 | What it is | A dried aromatic herb, not a wood or resin |
 | Aroma | Minty, herbal, slightly sweet, anise-like |
-| Traditional role | 合香 (blended incense), scenting clothes, materia medica |
+| Traditional role | blended incense (合香), scenting clothes, materia medica |
 
 ## Aroma profile
 
@@ -49,7 +49,7 @@ The terminology carries real risk, because one Chinese name covers two plants:
 
 A label that says only "藿香" is underspecified: it could mean a fresh, anise-minty herb or an earthy, woody resin-note leaf — different plants, different scents, different uses.
 
-## The 藿香 / 广藿香 confusion (read this)
+## The agastache (藿香) / patchouli (广藿香) confusion (read this)
 
 > **Direct answer:** Two different mint-family plants share the name "藿香" in Chinese. 藿香 is *Agastache rugosa* (fresh, minty-anise); 广藿香 is *Pogostemon cablin*, patchouli (earthy, woody, balsamic). Because they were traded together and share the name, they have been conflated for centuries — a label saying only "藿香" does not identify the material.
 
@@ -68,7 +68,7 @@ The classical name 藿香 primarily meant *Agastache rugosa*, but because the tw
 
 ## Why is it used in incense?
 
-> **Direct answer:** Agastache is a classical fresh-herb ingredient in 合香 (blended incense), contributing a minty, green lift to a formula. It is also recorded for scenting clothing. Its role is that of a bright top-note herb — a clean, fresh lift — rather than a deep base or a solo fragrance.
+> **Direct answer:** Agastache is a classical fresh-herb ingredient in blended incense (合香), contributing a minty, green lift to a formula. It is also recorded for scenting clothing. Its role is that of a bright top-note herb — a clean, fresh lift — rather than a deep base or a solo fragrance.
 
 Agastache's role in incense is as a fresh, minty-herbal *blender*. In 合香 it lifts a formula with a clean, green, anise-sweet note, and classical sources also describe putting it in clothing to scent the fabric. It is a bright top note — not a deep or smoky base — and it is almost always blended rather than burned alone. Its Buddhist-sutra names (below) are a record of how central this fresh herb was to the incense traditions that entered China with Buddhism, which is a stronger claim to importance than its modest scent profile alone would suggest.
 
@@ -108,7 +108,7 @@ Agastache carries no standardized grading ladder — it is an abundant herb, not
 
 ## In Chinese tradition
 
-- **合香 (blended incense):** 藿香 is a classical fresh-herb ingredient in blended incense, contributing a minty, green lift.
+- **blended incense (合香):** 藿香 is a classical fresh-herb ingredient in blended incense, contributing a minty, green lift.
 - **Scenting clothes:** classical sources describe putting 藿香 in clothing to scent it — 可着衣服中.
 - **Buddhist naming:** 藿香 carries several Buddhist-sutra names — 多摩羅跋香 (*tāmalapatra*), 兜娄婆香, 钵怛罗香, 迦筭香 — a sign of its importance in Buddhist incense practice.
 - **Materia medica:** 藿香 is a major traditional-medicine herb, classically described for "transforming dampness" (化湿) and related uses. This is **traditional materia-medica language, not modern clinical evidence.**
@@ -129,7 +129,7 @@ The aromatic and cultural roles are well documented. The medicinal uses are **tr
 
 For an incense maker or sourcing buyer:
 
-- **Species** — 藿香 (agastache) vs 广藿香 (patchouli); ask, because the label often does not say, and the two scents are not interchangeable.
+- **Species** — agastache (藿香) vs patchouli (广藿香); ask, because the label often does not say, and the two scents are not interchangeable.
 - **Freshness** — the herb should smell clean and minty-anise, not musty or faded.
 - **Cleanliness** — freedom from stems and foreign material.
 - **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
@@ -153,13 +153,13 @@ Agastache (藿香) is *Agastache rugosa*, a mint-family perennial native to East
 
 ## FAQ
 
-**Is 藿香 the same as patchouli?** No. 藿香 (*Agastache rugosa*) is the native Chinese giant hyssop with a minty, anise-like aroma; patchouli is *Pogostemon cablin* (广藿香), a different mint-family plant with an earthy, woody, balsamic scent. They share the "藿香" name in Chinese, which is why they have been conflated for centuries, but they are different plants with different scents — see our [patchouli](/ingredients/patchouli/) page.
+**Is agastache (藿香) the same as patchouli?** No. 藿香 (*Agastache rugosa*) is the native Chinese giant hyssop with a minty, anise-like aroma; patchouli is *Pogostemon cablin* (广藿香), a different mint-family plant with an earthy, woody, balsamic scent. They share the "藿香" name in Chinese, which is why they have been conflated for centuries, but they are different plants with different scents — see our [patchouli](/ingredients/patchouli/) page.
 
 **What does agastache smell like?** Agastache (藿香) has a minty, herbal, slightly sweet aroma with an anise-like undertone — a fresh, green-herbal note. It is a bright blender, lifting a formula with a clean minty lift, and it is also used to scent fabric. It is quite different from the earthy, woody scent of patchouli.
 
 **What is 土藿香?** 土藿香 ("earth/native agastache") is another name for *Agastache rugosa*, the native Chinese agastache, used to distinguish it from 广藿香 (*Pogostemon cablin*, patchouli). The "土" (native) prefix marks it as the local plant rather than the imported patchouli. The two are different species despite sharing the "藿香" name.
 
-**How is agastache used in incense?** Agastache is a classical fresh-herb ingredient in 合香 (blended incense), contributing a minty, green lift. Classical sources also describe placing it in clothing to scent the fabric (可着衣服中). It carries several Buddhist-sutra names — 多摩羅跋香 (*tāmalapatra*) and others — reflecting its role in Buddhist incense practice.
+**How is agastache used in incense?** Agastache is a classical fresh-herb ingredient in blended incense (合香), contributing a minty, green lift. Classical sources also describe placing it in clothing to scent the fabric (可着衣服中). It carries several Buddhist-sutra names — 多摩羅跋香 (*tāmalapatra*) and others — reflecting its role in Buddhist incense practice.
 
 **Why does agastache have so many Buddhist names?** Because it was a valued aromatic in Buddhist incense practice, and the sutras recorded it under several transliterated names — 多摩羅跋香 (*tāmalapatra*, from the Sanskrit for a fragrant leaf), 兜娄婆香, 钵怛罗香, and 迦筭香. The proliferation of names is a record of the herb's importance across the incense traditions that entered China with Buddhism, not a sign of confusion about the plant itself.
 
@@ -195,4 +195,4 @@ See also: [patchouli](/ingredients/patchouli/), [mugwort](/ingredients/mugwort/)
 - [Agastache rugosa in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019465)
 - [Agastache rugosa on GBIF](https://www.gbif.org/species/7307327)
 
-*Sources: botanical references on *Agastache rugosa* and the Song-dynasty *Xiangpu* (香譜) / Ming *Xiangcheng* (香乘) records of 藿香. The 藿香 / 广藿香 (patchouli) distinction is recorded as practical screening. Medicinal uses are treated as traditional, not established clinical fact. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Agastache rugosa* and the Song-dynasty *Xiangpu* (香譜) / Ming *Xiangcheng* (香乘) records of 藿香. The 藿香 / patchouli (广藿香) distinction is recorded as practical screening. Medicinal uses are treated as traditional, not established clinical fact. This is editorial knowledge content, not medical advice.*
