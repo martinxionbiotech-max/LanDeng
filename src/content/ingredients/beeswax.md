@@ -40,16 +40,16 @@ The scent note is a *byproduct* of the material, not its purpose: beeswax smells
 
 蜂蜡 and 蜂蜜 are two different products of the same bees, and the classical record keeps them distinct:
 
-- **蜂蜜 (honey)** — the nectar-derived sweet, used as the 合香 *binder* (以蜜和香). Its own entry.
-- **蜂蜡 / 蜜蜡 (beeswax)** — the wax of the honeycomb, used as a molding and coating material. This entry.
+- **honey (蜂蜜)** — the nectar-derived sweet, used as the 合香 *binder* (以蜜和香). Its own entry.
+- **蜂蜡 / beeswax (蜜蜡)** — the wax of the honeycomb, used as a molding and coating material. This entry.
 
-The *Bencao Gangmu* (本草纲目), in its insect section (虫之一), lists them as separate entries — 蜂蜜 then 蜜蜡 then 蜜蜂 — and records beeswax's origin plainly: "蜂造蜜蜡" (bees make beeswax), distinguishing 白蜡 (white wax) and 黄蜡 (yellow wax) by purity. **This page describes 蜂蜡 = beeswax**, the wax, not the honey. See [honey](/ingredients/honey/).
+The *Bencao Gangmu* (本草纲目), in its insect section (虫之一), lists them as separate entries — 蜂蜜 then 蜜蜡 then 蜜蜂 — and records beeswax's origin plainly: "蜂造蜜蜡" (bees make beeswax), distinguishing white wax (白蜡) and yellow wax (黄蜡) by purity. **This page describes 蜂蜡 = beeswax**, the wax, not the honey. See [honey](/ingredients/honey/).
 
 ## Botanical source and origin
 
 > **Direct answer:** Beeswax is produced by honey bees — the Eastern honey bee *Apis cerana* and the Western honey bee *Apis mellifera* — from wax glands on the abdomen, secreted to build honeycomb. It is animal-derived, not a plant material, and is distinguished by refinement into 白蜡 (white) and 黄蜡 (yellow).
 
-Beeswax is produced by honey bees — the Eastern honey bee *Apis cerana* and the Western honey bee *Apis mellifera* — from wax glands on the abdomen, and secreted to build honeycomb. It is an animal-derived product, not a plant material. The classical manuals distinguish 生蜜 (raw honey) from 炼蜜 (refined honey) on the honey side, and 白蜡 (white wax) from 黄蜡 (yellow wax) on the wax side, the white being the more purified. Beeswax's incense-craft role is as a molding, coating, and sealing wax.
+Beeswax is produced by honey bees — the Eastern honey bee *Apis cerana* and the Western honey bee *Apis mellifera* — from wax glands on the abdomen, and secreted to build honeycomb. It is an animal-derived product, not a plant material. The classical manuals distinguish raw honey (生蜜) from refined honey (炼蜜) on the honey side, and white wax (白蜡) from yellow wax (黄蜡) on the wax side, the white being the more purified. Beeswax's incense-craft role is as a molding, coating, and sealing wax.
 
 The two bee species matter for provenance: *Apis cerana* is the Eastern honey bee long kept in China, and *Apis mellifera* the Western honey bee now widespread; both produce beeswax, and the classical Chinese record (蜂, 蜜蜡) refers to the bee of the region. The refinement distinction — white vs yellow — is the practical quality signal.
 
@@ -77,19 +77,19 @@ Beeswax's role in the incense craft is physical and protective. Where honey bind
 
 ## How is it processed?
 
-> **Direct answer:** Beeswax is processed by rendering the comb and refining the wax — melting it and separating the pure wax from residue — to produce 黄蜡 (yellow wax) and, with further purification, 白蜡 (white wax). The white is the more refined, and the refinement is the quality signal.
+> **Direct answer:** Beeswax is processed by rendering the comb and refining the wax — melting it and separating the pure wax from residue — to produce yellow wax (黄蜡) and, with further purification, white wax (白蜡). The white is the more refined, and the refinement is the quality signal.
 
 The processing is **rendering and refining**:
 
 1. **Rendering** — melt the honeycomb and separate the wax from the honey and the comb residue.
 2. **Refining** — filter and re-melt the wax to remove impurities.
-3. **Whitening / purification** — further processing yields 白蜡 (white wax), the more purified grade, from 黄蜡 (yellow wax).
+3. **Whitening / purification** — further processing yields white wax (白蜡), the more purified grade, from yellow wax (黄蜡).
 
 There is no distillation or extraction step; beeswax *is* the wax, and the craft question is how thoroughly it has been rendered and purified — yellow is the less refined, white the more refined.
 
 ## What determines quality?
 
-> **Direct answer:** Beeswax quality is a matter of purity and refinement: 白蜡 (white wax) is more purified than 黄蜡 (yellow wax), and a clean, well-rendered wax is preferred for molding and coating. The color is the practical quality signal.
+> **Direct answer:** Beeswax quality is a matter of purity and refinement: white wax (白蜡) is more purified than yellow wax (黄蜡), and a clean, well-rendered wax is preferred for molding and coating. The color is the practical quality signal.
 
 The quality factors:
 
@@ -101,23 +101,23 @@ There is no standardized grading ladder; the practical signal is color and clean
 
 ## Common forms
 
-> **Direct answer:** Beeswax is distinguished by refinement into 黄蜡 (yellow wax) and 白蜡 (white wax), the white being the purer. It is used as a solid wax that is melted for molding and coating.
+> **Direct answer:** Beeswax is distinguished by refinement into yellow wax (黄蜡) and white wax (白蜡), the white being the purer. It is used as a solid wax that is melted for molding and coating.
 
 | Form | Description |
 |---|---|
-| 黄蜡 (yellow wax) | The less-refined comb wax |
-| 白蜡 (white wax) | The more purified, bleached wax |
+| yellow wax (黄蜡) | The less-refined comb wax |
+| white wax (白蜡) | The more purified, bleached wax |
 
 The distinction is refinement, not a different product — the same comb wax, purified. For incense craft, the white is preferred where a clean, neutral wax is wanted.
 
 ## What buyers should look for
 
-> **Direct answer:** Buyers should treat beeswax as a craft wax, not a fragrance, and specify refinement — 白蜡 (white, purified) over 黄蜡 (yellow). The practical checks are purity, cleanliness, and melt consistency.
+> **Direct answer:** Buyers should treat beeswax as a craft wax, not a fragrance, and specify refinement — white, purified (白蜡) over 黄蜡 (yellow). The practical checks are purity, cleanliness, and melt consistency.
 
 For a buyer or maker:
 
 - **Role** — confirm you are buying beeswax as a *wax* (molding, coating, sealing), not a fragrance and not a binder.
-- **Refinement** — specify 白蜡 (white wax, purified) over 黄蜡 (yellow wax).
+- **Refinement** — specify white wax, purified (白蜡) over yellow wax (黄蜡).
 - **Cleanliness** — freedom from comb residue and foreign matter.
 - **Melt consistency** — an even, workable melt for the intended molding or coating.
 
@@ -141,11 +141,11 @@ In our view, the professional framing for beeswax is a **pure, well-rendered, wo
 
 ## Summary
 
-Beeswax (蜂蜡, classical 蜜蜡) is the comb wax secreted by honey bees (*Apis cerana* and *Apis mellifera*), and the classical molding, coating, and sealing wax of the incense craft — distinct from honey (蜂蜜), the same bees' nectar-derived binder. The *Bencao Gangmu* records both side by side ("蜂造蜜蜡") and distinguishes 白蜡 (white, purified) from 黄蜡 (yellow). Its value is physical — melt, mold, coat, seal — not aromatic, and commercially its quality is a matter of purity and refinement, not scent.
+Beeswax (蜂蜡, classical 蜜蜡) is the comb wax secreted by honey bees (*Apis cerana* and *Apis mellifera*), and the classical molding, coating, and sealing wax of the incense craft — distinct from honey (蜂蜜), the same bees' nectar-derived binder. The *Bencao Gangmu* records both side by side ("蜂造蜜蜡") and distinguishes white, purified (白蜡) from 黄蜡 (yellow). Its value is physical — melt, mold, coat, seal — not aromatic, and commercially its quality is a matter of purity and refinement, not scent.
 
 ## FAQ
 
-**What is 蜂蜡 (beeswax)?** The wax secreted by honey bees — *Apis cerana* and *Apis mellifera* — to build their honeycomb. It is a bee product, not a botanical, and in Chinese incense it serves as a molding, coating, and sealing wax, distinct from honey (蜂蜜), which is the 合香 binder.
+**What is beeswax (蜂蜡)?** The wax secreted by honey bees — *Apis cerana* and *Apis mellifera* — to build their honeycomb. It is a bee product, not a botanical, and in Chinese incense it serves as a molding, coating, and sealing wax, distinct from honey (蜂蜜), which is the 合香 binder.
 
 **Is beeswax the same as honey?** No. Both come from the same bees, but honey (蜂蜜) is the nectar-derived sweet used as the 合香 binder, while beeswax (蜂蜡/蜜蜡) is the wax of the honeycomb used for molding and coating. The *Bencao Gangmu* (本草纲目) keeps them as separate entries in its insect section.
 
@@ -153,11 +153,11 @@ Beeswax (蜂蜡, classical 蜜蜡) is the comb wax secreted by honey bees (*Apis
 
 **What does beeswax smell like?** Waxy and honeyed, warm and faintly sweet, with a soft, rounded character. Its scent is secondary — its function is physical, holding a form and protecting a surface, rather than contributing a distinct fragrance note.
 
-**What is 蜜蜡 in the classical record?** The classical name for beeswax. The *Bencao Gangmu* (本草纲目) records 蜜蜡 in its insect section (虫之一), noting "蜂造蜜蜡" (bees make beeswax), and distinguishes 白蜡 (white wax, purified) from 黄蜡 (yellow wax) by refinement.
+**What is beeswax (蜜蜡) in the classical record?** The classical name for beeswax. The *Bencao Gangmu* (本草纲目) records 蜜蜡 in its insect section (虫之一), noting "蜂造蜜蜡" (bees make beeswax), and distinguishes white wax, purified (白蜡) from yellow wax (黄蜡) by refinement.
 
 **How is beeswax used in incense craft?** As a molding, coating, and sealing wax — a craft material that holds a form and protects a surface. It is not a burned fragrance in the way aromatics are; its role is structural and protective, distinct from honey's binding role.
 
-**What is the difference between white and yellow beeswax?** They are the same comb wax at different stages of refinement. 黄蜡 (yellow wax) is the less-refined form; 白蜡 (white wax) is the more purified, bleached form. The classical record distinguishes them by purity, and for incense craft the white is preferred where a clean, neutral wax is wanted.
+**What is the difference between white and yellow beeswax?** They are the same comb wax at different stages of refinement. yellow wax (黄蜡) is the less-refined form; white wax (白蜡) is the more purified, bleached form. The classical record distinguishes them by purity, and for incense craft the white is preferred where a clean, neutral wax is wanted.
 
 See also: [honey](/ingredients/honey/), [musk](/ingredients/musk/), and the full [scent guide](/blog/scent-guide/).
 
