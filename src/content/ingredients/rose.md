@@ -47,7 +47,7 @@ Both are members of the rose family (Rosaceae). The fragrant part is the flower 
 
 ## Chinese name and terminology (玫瑰 vs 月季 vs 蔷薇)
 
-> **Direct answer:** Chinese distinguishes three "rose" plants that English flattens into one: 玫瑰 (*Rosa rugosa*, the tea/fragrance rose), 月季 (*Rosa chinensis*, the garden rose), and 蔷薇 (wild/climbing roses). An ingredient list saying 玫瑰 means *R. rugosa*, not the garden 月季.
+> **Direct answer:** Chinese distinguishes three "rose" plants that English flattens into one: 玫瑰 (*Rosa rugosa*, the tea/fragrance rose), 月季 (*Rosa chinensis*, the garden rose), and wild/climbing roses (蔷薇). An ingredient list saying 玫瑰 means *R. rugosa*, not the garden 月季.
 
 Chinese distinguishes several "rose" plants that English loosely calls "rose":
 
@@ -201,7 +201,7 @@ Rose (玫瑰) is the flower of *Rosa* species — most classically the Chinese r
 
 **Is rose used in Chinese incense?** Yes, as a sweet floral note, usually blended rather than burned alone. It also appears in rose tea (玫瑰花茶) and traditional materia medica. Because true rose absolute is costly, rose in incense is typically a floral accord over a wood or resin base, where it adds a romantic, sweet lift to the blend. It is more common in floral-forward and modern blends than in the classical wood-and-resin canon.
 
-**What is the difference between 玫瑰, 月季, and 蔷薇?** Three *Rosa* species in Chinese: 玫瑰 is *R. rugosa* (tea/fragrance rose), 月季 is *R. chinensis* (garden rose), and 蔷薇 covers climbing roses. They are distinct words and plants. In an ingredient list, 玫瑰 means *R. rugosa* — the tea and fragrance rose — not the ornamental garden 月季. English loosely calls all of them "rose," but the Chinese terms separate the fragrant tea rose from the ornamental and climbing types.
+**What is the difference between rose (玫瑰), 月季, and wild rose (蔷薇)?** Three *Rosa* species in Chinese: 玫瑰 is *R. rugosa* (tea/fragrance rose), 月季 is *R. chinensis* (garden rose), and 蔷薇 covers climbing roses. They are distinct words and plants. In an ingredient list, 玫瑰 means *R. rugosa* — the tea and fragrance rose — not the ornamental garden 月季. English loosely calls all of them "rose," but the Chinese terms separate the fragrant tea rose from the ornamental and climbing types.
 
 **What part of the rose is used?** The flower bud — dried rose buds (玫瑰花) are used for tea and materia medica, while the petals are distilled for rose water and rose oil. The buds are picked and dried whole; the petals are processed by steam distillation or solvent extraction to yield rose oil and absolute for perfumery. So the bud is the tea ingredient and the petal is the perfumery material, two different parts with two different uses.
 
