@@ -178,7 +178,7 @@ Champaca (白兰花) is the fragrant white flower of *Michelia alba* (syn. *Magn
 
 **What is champaca?** The intensely fragrant white flower of *Michelia alba* (now *Magnolia × alba*), a magnolia-family tree cultivated across southern China and Southeast Asia. It is a heady, sweet, slightly fruity white-floral, used to scent tea and sachets, referenced in floral incense, and worn as a fresh blossom in daily life in southern China.
 
-**Is 白兰花 an orchid?** No. Despite the 兰 in its name, 白兰花 (*Michelia alba*) is a magnolia-family tree, not an orchid. Chinese uses 兰 to name many fragrant plants, and 白兰花 belongs to the magnolia tradition. It is also distinct from the yulan magnolia (玉兰, *Magnolia denudata*), another white magnolia with a different identity.
+**Is champaca (白兰花) an orchid?** No. Despite the 兰 in its name, 白兰花 (*Michelia alba*) is a magnolia-family tree, not an orchid. Chinese uses 兰 to name many fragrant plants, and 白兰花 belongs to the magnolia tradition. It is also distinct from the yulan magnolia (玉兰, *Magnolia denudata*), another white magnolia with a different identity.
 
 **What does champaca smell like?** Sweet, heady, and white-floral, with a slightly fruity, almost tropical lift. It is a rich, enveloping floral note that sits between the creamier gardenia and the sharper jasmine. The scent is strongest in the fresh blossom, which is why the flower is worn fresh and used to scent tea rather than dried and burned heavily.
 
