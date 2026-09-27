@@ -19,18 +19,18 @@ status: published
 | Period | What happened |
 |---|---|
 | Shang (1600–1046 BCE) | Aromatic plants burned as offerings; the character 香 (incense) appears on oracle bones |
-| Han (206 BCE–220 CE) | The 博山炉 (Boshan censer) — incense moves from ritual to aesthetic |
-| Wei-Jin (220–589) | Buddhism and Silk Road/maritime trade import 沉香, 檀香, 乳香, 没药, 丁香; the 合香 (blending) system forms |
+| Han (206 BCE–220 CE) | The Boshan censer (博山炉) — incense moves from ritual to aesthetic |
+| Wei-Jin (220–589) | Buddhism and Silk Road/maritime trade import 沉香, 檀香, 乳香, 没药, 丁香; the blending (合香) system forms |
 | Sui-Tang (581–907) | First golden age; court luxury; 合香 matures |
-| **Song (960–1279)** | **The peak** — the Four Leisure Arts, 隔火焚香, refined 合香, and the writing of 香谱 (incense manuals) |
-| Ming (1368–1644) | Codification; the 宣德炉 (Xuande censer); stick incense (线香) perfected |
+| **Song (960–1279)** | **The peak** — the Four Leisure Arts, 隔火焚香, refined 合香, and the writing of incense manuals (香谱) |
+| Ming (1368–1644) | Codification; the Xuande censer (宣德炉); stick incense (线香) perfected |
 | Qing → 20th c. | Decline (sumptuary laws, Western perfume, Cultural Revolution); revival from ~2000s |
 
 ## The Four Leisure Arts (四般闲事)
 
 The Song literati canonized four refined pursuits, recorded in 吴自牧's *梦粱录*: "烧香点茶，挂画插花，四般闲事，不宜累家" — *burning incense, preparing tea, hanging scrolls, arranging flowers*. Incense sat alongside tea ceremony and painting as a cultivated daily practice — not merely a religious act.
 
-## 合香: The Art of Blending
+## blended incense (合香): The Art of Blending
 
 The refined heart of Chinese incense is **合香 (héxiāng)** — "combined fragrance" — the art of blending multiple materials into a single compound. Blends are built on a formula principle of **君臣佐使** (chief, minister, assistant, guide), analogous to the hierarchy used in classical Chinese medicine compounding:
 
@@ -81,13 +81,13 @@ Chinese incense carries a rich layer of **traditional and cultural knowledge** (
 
 **How long does a stick of Chinese incense burn?** Roughly 20–60 minutes, depending on length, thickness, and composition. Short, thin coreless sticks (common in the Japanese-influenced style) burn around 25–30 minutes, while thicker bamboo-core sticks can run 45–60 minutes. Cones typically last about 10–15 minutes, and large coils can smolder for several hours. Seal-incense trails (篆香), made from pressed powder, burn along a timed path and were historically used as a form of timekeeping. Exact burn times vary by maker and material density.
 
-**What is 隔火焚香 (indirect-fire incense)?** It is the refined Song-dynasty technique of burying a piece of hot charcoal in ash, then placing a thin mica or silver plate on top and resting the fragrant wood or resin on that plate. The material warms gently rather than burning, so it releases a pure aroma with almost no visible smoke. This "scent, not smoke" approach became the direct ancestor of Japanese kōdō, which later systematized and formalized the same practice. It remains the reference method for appreciating high-grade agarwood.
+**What is indirect-fire incense (隔火焚香)?** It is the refined Song-dynasty technique of burying a piece of hot charcoal in ash, then placing a thin mica or silver plate on top and resting the fragrant wood or resin on that plate. The material warms gently rather than burning, so it releases a pure aroma with almost no visible smoke. This "scent, not smoke" approach became the direct ancestor of Japanese kōdō, which later systematized and formalized the same practice. It remains the reference method for appreciating high-grade agarwood.
 
 **Is Chinese incense natural?** Not automatically. Natural incense is built from plant material — wood powder, resin, or dried botanicals — held together with a plant binder such as makko. Much commercial incense, by contrast, is a charcoal or sawdust base soaked in synthetic fragrance oil. The word "natural" is not legally regulated in most markets, so a label alone proves little. The reliable check is the ingredient list: named plant materials and a plant binder point toward natural, while vague "fragrance" terms point the other way. See [what makes incense natural](/blog/what-makes-incense-natural/).
 
 **What is the difference between Chinese incense and a candle?** A candle is wax built around a wick, burned primarily for light and secondarily for scent; incense is aromatic plant material — wood, resin, herbs, or flowers — burned or gently heated for its fragrance alone. Incense carries no lighting function, and its forms (sticks, coils, cones, raw material, or pressed powder) are chosen for aroma, burn time, and ritual. It is a material-and-ritual tradition that developed over two millennia, not a lighting technology.
 
-**What is 合香 (blended incense)?** It is the art of combining multiple fragrant materials into a single compound, structured on the 君臣佐使 (chief/minister/assistant/guide) principle borrowed from classical Chinese compounding. The chief (君) defines the blend's character, the minister (臣) supports it, the assistant (佐) adds nuance or tempers sharp edges, and the guide (使) harmonizes the whole. Most refined Chinese incense is therefore a recipe — a balanced blend — rather than one single scent.
+**What is blended incense (合香)?** It is the art of combining multiple fragrant materials into a single compound, structured on the chief/minister/assistant/guide (君臣佐使) principle borrowed from classical Chinese compounding. The chief (君) defines the blend's character, the minister (臣) supports it, the assistant (佐) adds nuance or tempers sharp edges, and the guide (使) harmonizes the whole. Most refined Chinese incense is therefore a recipe — a balanced blend — rather than one single scent.
 
 **Is Chinese incense the same as Japanese incense?** They share an origin — Japanese kōdō developed from the Song-dynasty 隔火焚香 technique — but the two traditions diverged. Chinese incense tends to be warmer, more complex, and tied to informal scholarly life; Japanese incense is minimalist, precise, and often extremely low-smoke, centered on high-grade agarwood and formal ritual games. Chinese incense is one of the four leisure arts, while kōdō became a standalone art. See [Japanese incense & kōdō](/blog/japanese-incense-kodo/).
 
