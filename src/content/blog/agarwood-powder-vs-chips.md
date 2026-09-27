@@ -12,7 +12,7 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** Agarwood powder and agarwood chips are the same resin-impregnated *Aquilaria* wood in two physical forms. **Chips** are cut pieces warmed whole — the classic form for 品香 (appreciation); **powder** is ground resin wood blended into sticks and cones — the form for 制香 (incense making). The form follows the use, and both carry the same authenticity risk: agarwood is one of the most heavily faked aromatics.
+**Direct answer:** Agarwood powder and agarwood chips are the same resin-impregnated *Aquilaria* wood in two physical forms. **Chips** are cut pieces warmed whole — the classic form for appreciation (品香); **powder** is ground resin wood blended into sticks and cones — the form for incense making (制香). The form follows the use, and both carry the same authenticity risk: agarwood is one of the most heavily faked aromatics.
 
 **Key facts:** Because genuine agarwood is expensive, both forms are targets for adulteration. Chips can be inspected by eye (resin veins, density, a burn test), while powder hides fillers behind a uniform grind — so the buying checks differ by form. No single "best" grind or chip size exists; the right target depends on the material and the formula.
 
@@ -23,7 +23,7 @@ author: "Landeng Tech Team"
 - **Chips = appreciation** (品香); **powder = making** (制香) — the same wood, two jobs.
 - Chips can be **inspected by eye**; powder requires **particle-size and moisture specification**.
 - Both forms are heavily faked — see [agarwood](/ingredients/agarwood/) for the adulteration map.
-- The top grade, [奇楠 (qinan)](/blog/qinan-kyara/), is almost always kept whole — grinding it away is usually a sign of fraud or low material.
+- The top grade, [qinan (奇楠)](/blog/qinan-kyara/), is almost always kept whole — grinding it away is usually a sign of fraud or low material.
 - Authenticity checks (burn test, gentle heat, water test) differ in what they reveal by form.
 
 ---
@@ -93,7 +93,7 @@ Neither form is automatically safe. A sophisticated fake exists in either — bu
 
 ---
 
-## The 奇楠 (Qinan) Question
+## The Qinan (奇楠) Question
 
 > **Direct answer:** 奇楠 (qinan / kyara), the top agarwood grade, is almost always sold and used as whole chips or pieces — not powder. Genuine 奇楠 is so resin-saturated it is soft and kneadable, and grinding it into an anonymous powder would destroy the very features that identify it, which is why "奇楠 powder" is a strong fraud signal.
 
