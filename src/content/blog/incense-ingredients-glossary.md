@@ -111,7 +111,7 @@ This is the practical reason a good incense is rarely one ingredient: no single 
 
 ## Ingredients in the Classical Manuals
 
-The classical incense manuals (香谱, 香乘) name a working palette that overlaps heavily with this glossary: 沉香 (agarwood), 檀香 (sandalwood), 乳香 (frankincense), 龙脑 (borneol), 麝香 (musk), 丁香 (clove), 甘松 (spikenard), 零陵香 (tonka/mellilot), 甲香 (operculum), and honey as a binder. Two of these are worth flagging: 麝香 (musk) is animal-derived and largely restricted today, and 甲香 ([operculum](/ingredients/onycha/)) is shellfish-derived and rarely used in modern reproductions. The manuals are recipes for a specific historical palette, not a checklist for the modern kitchen — see the [recipe library](/blog/chinese-incense-recipes/) and the [manuals page](/blog/xiangpu-incense-manuals/).
+The classical incense manuals (香谱, 香乘) name a working palette that overlaps heavily with this glossary: agarwood (沉香), sandalwood (檀香), frankincense (乳香), borneol (龙脑), musk (麝香), clove (丁香), spikenard (甘松), tonka/mellilot (零陵香), operculum (甲香), and honey as a binder. Two of these are worth flagging: musk (麝香) is animal-derived and largely restricted today, and 甲香 ([operculum](/ingredients/onycha/)) is shellfish-derived and rarely used in modern reproductions. The manuals are recipes for a specific historical palette, not a checklist for the modern kitchen — see the [recipe library](/blog/chinese-incense-recipes/) and the [manuals page](/blog/xiangpu-incense-manuals/).
 
 ## Reading an Ingredient Label
 
@@ -131,7 +131,7 @@ The terminology discipline matters because it is where buyers get misled. "Sanda
 
 ## A Note on What Is Not Listed Here
 
-This glossary is a core reference, not an exhaustive catalog. Several materials appear in the classical manuals but not in the tables above — 麝香 (musk), 甲香 (operculum), 苏合香 (storax), 零陵香 (tonka/mellilot) — because they are animal-derived, restricted, or uncommon in modern incense. Others, like spikenard (甘松) and cyperus (香附子), are specialist 合香 herbs that show up in specific recipes rather than everyday labels.
+This glossary is a core reference, not an exhaustive catalog. Several materials appear in the classical manuals but not in the tables above — musk (麝香), operculum (甲香), storax (苏合香), tonka/mellilot (零陵香) — because they are animal-derived, restricted, or uncommon in modern incense. Others, like spikenard (甘松) and cyperus (香附子), are specialist 合香 herbs that show up in specific recipes rather than everyday labels.
 
 The full ingredient database, with one entity page per material, lives in the [ingredients index](/ingredients/). Treat this page as the map of the families, and the entity pages as the detail — the glossary tells you the behavior, the entity page tells you the material.
 
