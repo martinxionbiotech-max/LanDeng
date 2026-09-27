@@ -12,7 +12,7 @@ author: "Landeng Tech Team"
 ---
 
 
-**Data summary:** 荷香 (lotus incense) is a **symbol first, a material second**. In classical incense, "lotus" was usually built as an *accord* — a fresh, clean floral impression assembled from woods and herbs — because the flower's own scent is too delicate to survive burning. Later manuals used **actual lotus** in compound blends.
+**Data summary:** lotus incense (荷香) is a **symbol first, a material second**. In classical incense, "lotus" was usually built as an *accord* — a fresh, clean floral impression assembled from woods and herbs — because the flower's own scent is too delicate to survive burning. Later manuals used **actual lotus** in compound blends.
 
 <img src="/images/recipe-lotus-summer-800x533.webp" alt="Lotus pod and summer aromatics in a ceramic dish" width="800" height="533" loading="lazy">
 
@@ -79,7 +79,7 @@ In classical incense, usually not — "lotus" was typically built as an accord, 
 ### Q: What does lotus symbolize?
 Purity, expressed in the classical phrase 出淤泥而不染 — "it grows from the mud yet is unstained." The lotus rises clean from muddy water, which made it a natural symbol for moral integrity and refinement in Chinese and Buddhist culture. In incense that symbolism often matters more than the flower itself: a "lotus" blend was valued for the idea of unstained purity it evoked, not for the flower's chemistry. That is why classical manuals could build a convincing lotus accord without any lotus — the symbol was the point, and the scent was constructed to match it.
 
-### Q: What is 芙药衣香?
+### Q: What is lotus clothes incense (芙药衣香)?
 A classical lotus-scented clothes incense recorded in the 香乘, built entirely from woods, herbs, and spices — one liǎng each of clove, sandalwood, and spikenard, half a liǎng each of tonka and peony bark, and a small amount of fennel, with a little musk and borneol — and no lotus at all. It is described as smelling "like a freshly opened lotus," which is the key insight: the tradition could produce a lotus impression by layering fresh, clean notes over a sandalwood base. As a clothes incense (衣香) it was used to perfume garments rather than a study burner.
 
 ### Q: Why does "lotus incense" rarely smell like the flower?
