@@ -36,9 +36,9 @@ The register is worth stating precisely: valerian is a *dark, earthy* base — t
 
 ## A provenance note (read this)
 
-> **Direct answer:** 缬草 (valerian) is native to China but not a classical 香材. *Valeriana officinalis* is recorded in Flora of China and grows across Eurasia, but it does not appear as a named entry in the *Bencao Gangmu* or its supplement; its documented Chinese materia-medica use is largely modern, and its stronghold as a fragrance root is European.
+> **Direct answer:** valerian (缬草) is native to China but not a classical 香材. *Valeriana officinalis* is recorded in Flora of China and grows across Eurasia, but it does not appear as a named entry in the *Bencao Gangmu* or its supplement; its documented Chinese materia-medica use is largely modern, and its stronghold as a fragrance root is European.
 
-缬草 (valerian) sits in an unusual position — **native to China, but not a classical 香材**:
+valerian (缬草) sits in an unusual position — **native to China, but not a classical 香材**:
 
 - *Valeriana officinalis* is a native Chinese species; Flora of China records it under 缬草, and it grows across Eurasia.
 - Its classical materia-medica record in China is thin: a search of the *Bencao Gangmu* (本草纲目) and its supplement (本草纲目拾遗) did not turn up 缬草 as a named entry. The plant's documented Chinese materia-medica use is largely **modern**, not classical.
@@ -54,9 +54,9 @@ This page records it honestly: a native species with a real Chinese name, but **
 
 ## Chinese name and terminology
 
-> **Direct answer:** 缬草 (xiécǎo) is the Flora of China Chinese name for *Valeriana officinalis*. The name is modern-botanical rather than classical-materia-medica — it does not carry the classical 香材 or 本草 status of a term like 甘松 (spikenard), which is part of why the plant's absence from the 本草纲目 canon matters.
+> **Direct answer:** 缬草 (xiécǎo) is the Flora of China Chinese name for *Valeriana officinalis*. The name is modern-botanical rather than classical-materia-medica — it does not carry the classical 香材 or 本草 status of a term like spikenard (甘松), which is part of why the plant's absence from the 本草纲目 canon matters.
 
-The name 缬草 is the Flora of China designation for *V. officinalis*, functioning as a modern botanical label rather than a classical 香材 term. This naming layer matters: unlike 甘松 (spikenard), which is a genuine classical 香材 with a 本草 record, 缬草's Chinese name is the modern botanical one, and the plant has no comparable classical standing. For a buyer, the terminology signal is that "缬草" points to a modern-botanical entity, not a classical Chinese incense ingredient.
+The name 缬草 is the Flora of China designation for *V. officinalis*, functioning as a modern botanical label rather than a classical 香材 term. This naming layer matters: unlike spikenard (甘松), which is a genuine classical 香材 with a 本草 record, 缬草's Chinese name is the modern botanical one, and the plant has no comparable classical standing. For a buyer, the terminology signal is that "缬草" points to a modern-botanical entity, not a classical Chinese incense ingredient.
 
 ## Why is it used in fragrance and herbalism?
 
@@ -108,7 +108,7 @@ Valerian has **no classical Chinese incense record**, and its Chinese materia-me
 
 Practical points for buyers:
 
-- 缬草 (valerian) is the dried root of *Valeriana officinalis*; expect a strong, earthy, musky, woody scent.
+- valerian (缬草) is the dried root of *Valeriana officinalis*; expect a strong, earthy, musky, woody scent.
 - It is a heavy base note, best blended rather than burned alone; the cured root smells earthier than the fresh one.
 - Distinguish it from spikenard (甘松, *Nardostachys jatamansi*) and vetiver (*Chrysopogon zizanioides*) — all earthy roots, but different species and scents.
 
@@ -131,7 +131,7 @@ The three are often grouped as "earthy roots," but they are distinct species wit
 From a sourcing and editorial perspective, 缬草 is valuable precisely because it forces a distinction that most ingredient pages blur. Three points follow:
 
 - **"Native" is not the same as "classical."** *Valeriana officinalis* grows across China and has a Flora of China name, yet it is absent from the 本草纲目 and 拾遗 canons. The classical 香材 system was a *curated cultural selection* — the materials a tradition chose to value — not a botanical census of every species on Chinese soil. Valerian's case makes that distinction explicit, and it is a distinction that applies to many "native but unclassical" plants.
-- **The name layer is the tell.** 缬草 is a modern botanical designation, not a classical 香材 term; contrast 甘松 (spikenard), which is both a species and a classical name with a 本草 record. A buyer who recognizes that the *name* is modern will correctly not assume classical standing — a quick diagnostic that works across the material families.
+- **The name layer is the tell.** 缬草 is a modern botanical designation, not a classical 香材 term; contrast spikenard (甘松), which is both a species and a classical name with a 本草 record. A buyer who recognizes that the *name* is modern will correctly not assume classical standing — a quick diagnostic that works across the material families.
 - **The European stronghold is a sourcing fact, not a footnote.** Valerian's established use is Western — European herbalism and perfumery — which means its commercial supply chain and its buyer expectations are European-shaped. For a Chinese-context sourcing conversation, the honest framing is that this is a modern crossover root, evaluated as a base note by depth and tenacity, not as a recovered classical 香材.
 
 In our view, valerian is best understood as the **"native-but-unclassical" case study** — a plant that demonstrates, more clearly than any borrowed-name exotic, that botanical presence in China and membership in the classical incense canon are two different things.
@@ -142,9 +142,9 @@ Valerian (缬草) is the cured root of *Valeriana officinalis*, a Eurasian peren
 
 ## FAQ
 
-**What is 缬草 (valerian)?** The dried root of *Valeriana officinalis*, a perennial herb of the valerian family native to Eurasia and China. It has a strong, earthy, musky, woody-root scent and is a European herbal root and modern perfumery base note, not a classical Chinese 香材.
+**What is valerian (缬草)?** The dried root of *Valeriana officinalis*, a perennial herb of the valerian family native to Eurasia and China. It has a strong, earthy, musky, woody-root scent and is a European herbal root and modern perfumery base note, not a classical Chinese 香材.
 
-**Is 缬草 a classical Chinese incense ingredient?** No. Although *Valeriana officinalis* is a native Chinese species recorded in Flora of China, it does not appear as a named entry in the *Bencao Gangmu* (本草纲目) or its supplement. Its documented Chinese use is modern, and its stronghold as a fragrance and herbal root is European.
+**Is valerian (缬草) a classical Chinese incense ingredient?** No. Although *Valeriana officinalis* is a native Chinese species recorded in Flora of China, it does not appear as a named entry in the *Bencao Gangmu* (本草纲目) or its supplement. Its documented Chinese use is modern, and its stronghold as a fragrance and herbal root is European.
 
 **What does valerian smell like?** Deep, earthy, musky, and woody-root, with a slightly animalic, wet-forest-floor edge. It is a heavy, tenacious base note — more rooty and musty than the soft, sweet-spicy spikenard (甘松).
 
