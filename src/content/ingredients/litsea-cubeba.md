@@ -46,13 +46,13 @@ The family placement is the identification crux: *Litsea cubeba* belongs to the 
 
 The name 山鸡椒 (shānjījiāo) is a descriptive common name — "mountain chicken pepper" — for the small, pepper-like fruit of *Litsea cubeba*. Its modern fragrance identity, however, is carried more by its essential oil, known as litsea cubeba oil or may chang oil, a bright lemony-citrus material. Both the botanical name and the oil name point to the same tree, but the two naming registers — a descriptive fruit name and a commercial essential-oil name — are worth keeping straight, especially because the fruit name overlaps with a different plant (see below).
 
-## The 荜澄茄 / 山鸡椒 confusion (read this)
+## The cubeb (荜澄茄) / Mountain Pepper (山鸡椒) confusion (read this)
 
 > **Direct answer:** 山鸡椒 (*Litsea cubeba*, Lauraceae) and 荜澄茄 (cubeb, *Piper cubeba*, Piperaceae) are different plants in different families, but Chinese materia medica has applied the name 荜澄茄 to both — a standing source of confusion. When a classical source says 荜澄茄, it may mean either plant; confirm which is meant.
 
 山鸡椒 (*Litsea cubeba*) and 荜澄茄 (cubeb, *Piper cubeba*) are different plants, but Chinese materia medica has applied the name 荜澄茄 to both, which is a standing source of confusion:
 
-- **荜澄茄 (cubeb)** — *Piper cubeba*, a pepper-family (Piperaceae) spice vine native to Indonesia, with a sharp, peppery, camphoraceous bite. Its own entry, at [cubeb](/ingredients/cubeb/).
+- **cubeb (荜澄茄)** — *Piper cubeba*, a pepper-family (Piperaceae) spice vine native to Indonesia, with a sharp, peppery, camphoraceous bite. Its own entry, at [cubeb](/ingredients/cubeb/).
 - **山鸡椒 (this page)** — *Litsea cubeba*, a laurel-family (Lauraceae) tree native to southern China, with a lemony-citrus aroma.
 
 **This page describes 山鸡椒 = *Litsea cubeba* = mountain pepper.** When a classical source says 荜澄茄, it may mean either plant — confirm which is meant. The two are different species in different families, and the shared name is a documented disambiguation hazard rather than a botanical relationship.
@@ -67,7 +67,7 @@ The name 山鸡椒 (shānjījiāo) is a descriptive common name — "mountain ch
 
 > **Direct answer:** Litsea cubeba is used in fragrance for its bright, lemony-citrus essential oil — a fresh, aldehydic-lemony top note in modern perfumery, home fragrance, and aromatherapy. It is a modern crossover, not a classical Chinese incense material, and it does not appear as a defining material in the 香乘 compendium.
 
-Litsea cubeba's fragrance use is entirely modern, built on its essential oil. The lemony-citrus oil is a fresh, aldehydic top note in modern perfumery, home fragrance, and aromatherapy — valued for a clean lemon character that does not come from citrus fruit. It does **not** appear as a defining material in the classical incense compendium 香乘, so its incense role is a modern addition rather than a classical one. The distinction matters for honesty of provenance: this is a *modern* fragrance material, not a *classical* 香材. See [how incense is made](/blog/how-incense-is-made/) for the classical materials versus the modern essential-oil crossovers.
+Litsea cubeba's fragrance use is entirely modern, built on its essential oil. The lemony-citrus oil is a fresh, aldehydic top note in modern perfumery, home fragrance, and aromatherapy — valued for a clean lemon character that does not come from citrus fruit. It does **not** appear as a defining material in the classical incense compendium 香乘, so its incense role is a modern addition rather than a classical one. The distinction matters for honesty of provenance: this is a *modern* fragrance material, not a *classical* incense material (香材). See [how incense is made](/blog/how-incense-is-made/) for the classical materials versus the modern essential-oil crossovers.
 
 ## How is it processed?
 
@@ -150,13 +150,13 @@ Litsea cubeba (山鸡椒, "mountain chicken pepper") is the small aromatic fruit
 
 ## FAQ
 
-**What is 山鸡椒 (mountain pepper)?** The small, aromatic fruit of *Litsea cubeba*, a laurel-family (Lauraceae) tree native to southern China and Southeast Asia. It is the source of litsea cubeba (may chang) essential oil, with a bright, lemony-citrus, slightly spicy aroma, used in modern perfumery and aromatherapy.
+**What is mountain pepper (山鸡椒)?** The small, aromatic fruit of *Litsea cubeba*, a laurel-family (Lauraceae) tree native to southern China and Southeast Asia. It is the source of litsea cubeba (may chang) essential oil, with a bright, lemony-citrus, slightly spicy aroma, used in modern perfumery and aromatherapy.
 
-**Is 山鸡椒 the same as 荜澄茄 (cubeb)?** Not always. 荜澄茄 properly refers to cubeb (*Piper cubeba*, Piperaceae), a peppery spice vine — but Chinese materia medica has also applied the name to 山鸡椒 (*Litsea cubeba*, Lauraceae). They are different plants in different families, so the material should be confirmed when the name appears. This page describes 山鸡椒 = *Litsea cubeba*.
+**Is Mountain Pepper (山鸡椒) the same as cubeb (荜澄茄)?** Not always. 荜澄茄 properly refers to cubeb (*Piper cubeba*, Piperaceae), a peppery spice vine — but Chinese materia medica has also applied the name to 山鸡椒 (*Litsea cubeba*, Lauraceae). They are different plants in different families, so the material should be confirmed when the name appears. This page describes 山鸡椒 = *Litsea cubeba*.
 
-**What does 山鸡椒 smell like?** Bright and citrusy — lemony, clean, and slightly spicy, with a faint floral lift. It is often compared to lemongrass or lemon verbena, and its essential oil is a fresh, lemony top note in modern perfumery.
+**What does Mountain Pepper (山鸡椒) smell like?** Bright and citrusy — lemony, clean, and slightly spicy, with a faint floral lift. It is often compared to lemongrass or lemon verbena, and its essential oil is a fresh, lemony top note in modern perfumery.
 
-**Is 山鸡椒 a classical incense material?** No. 山鸡椒 does not appear as a defining material in the classical compendium 香乘; its fragrance use is a modern crossover built on litsea cubeba (may chang) essential oil, a lemony-citrus top note rather than a classical burned material.
+**Is Mountain Pepper (山鸡椒) a classical incense material?** No. 山鸡椒 does not appear as a defining material in the classical compendium 香乘; its fragrance use is a modern crossover built on litsea cubeba (may chang) essential oil, a lemony-citrus top note rather than a classical burned material.
 
 **Where does litsea cubeba come from?** From *Litsea cubeba*, a small evergreen tree of the laurel family (Lauraceae) native to southern China, Southeast Asia, and parts of the eastern Himalaya. The small, black, pepper-like fruit is steam-distilled for its essential oil. The laurel family also includes cinnamon and bay laurel.
 
