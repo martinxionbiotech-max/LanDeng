@@ -38,7 +38,7 @@ Every B2B incense purchase fits one of three routes. Choosing wrong is the most 
 | OEM | Product made to your formula/spec, under your brand | High — you direct the recipe and packaging | Varies by project | Brands with a specific scent or format in mind |
 | Private label | A factory's existing product, re-branded | Medium — you control the label, not the formula | Often lower than OEM | Buyers who want a brand without product development |
 
-See [the wholesale guide](/blog/wholesale-guide/) and [the OEM & private-label guide](/blog/oem-private-label-guide/) for the full treatment of each.
+See [the wholesale guide](/blog/wholesale-guide/) and [the OEM & private-label guide](/blog/oem-private-label-guide/) for the full treatment of each. The decision between the two is broken down in the [OEM vs private label](/blog/oem-vs-private-label/) comparison.
 
 ---
 

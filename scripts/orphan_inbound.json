@@ -1402,6 +1402,10 @@
     "src/content/ingredients/dragons-blood.md",
     "src/content/ingredients/sandalwood.md"
   ],
+  "/blog/oem-vs-private-label/": [
+    "src/content/blog/incense-for-business.md",
+    "src/content/blog/oem-private-label-guide.md"
+  ],
   "/blog/custom-fragrance-development/": [
     "src/content/blog/incense-for-business.md",
     "src/content/blog/oem-private-label-guide.md",
@@ -2213,6 +2217,5 @@
   ],
   "/ingredients/tuberose/": [
     "src/content/ingredients/ylang-ylang.md"
-  ],
-  "/blog/oem-vs-private-label/": []
+  ]
 }
