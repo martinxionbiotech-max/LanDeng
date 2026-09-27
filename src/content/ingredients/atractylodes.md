@@ -112,7 +112,7 @@ The distinction is functional, not a quality statement. See [incense powder & re
 
 > **Direct answer:** 苍术 and 白术 are two closely related medicinal roots in the same genus but distinct species with different profiles and roles. 苍术 (*A. lancea*) is the pungent, fumigation-oriented root; 白术 (*A. macrocephala*) is the milder "white" medicinal root. The shared English word hides a real difference.
 
-| | 苍术 (Atractylodes) | 白术 (Bai zhu) |
+| | Atractylodes (苍术) | 白术 (Bai zhu) |
 |---|---|---|
 | Species | *Atractylodes lancea* | *Atractylodes macrocephala* |
 | Character | Pungent, dry, "brown" atractylodes | Milder, "white" atractylodes |
@@ -169,7 +169,7 @@ Atractylodes (苍术) is the dried rhizome of *Atractylodes lancea*, an Asterace
 
 **Is atractylodes an incense ingredient?** Not in the classical sense. 苍术 does not appear in the Song- and Ming-dynasty incense manuals (香譜 / 香乘) as a *huxiang* (blended-fragrance) material. Its burning role is *fumigation* — burning it, often with mugwort, as a folk custom for clearing a space and warding off "impure qi" (辟秽). That is a different tradition from fragrance-forward incense, and the two should not be conflated.
 
-**What is the difference between 苍术 and 白术?** They are two closely related medicinal roots in the same genus. 苍术 (*Atractylodes lancea*) is the pungent "brown" atractylodes used in fumigation and described for "drying dampness"; 白术 (*Atractylodes macrocephala*) is the milder "white" atractylodes, a different and widely used materia-medica root. The shared English word "atractylodes" hides the difference, so buyers should check which species a label specifies.
+**What is the difference between atractylodes (苍术) and Bai zhu (白术)?** They are two closely related medicinal roots in the same genus. 苍术 (*Atractylodes lancea*) is the pungent "brown" atractylodes used in fumigation and described for "drying dampness"; 白术 (*Atractylodes macrocephala*) is the milder "white" atractylodes, a different and widely used materia-medica root. The shared English word "atractylodes" hides the difference, so buyers should check which species a label specifies.
 
 **What does atractylodes smell like?** Atractylodes rhizome has a pungent, herbal, woody scent that reads as dry and medicinal rather than sweet or floral. It is not a perfume note in the classical sense. Its strong aroma is precisely why it has been used for *fumigation* rather than for blending into fragrance-forward incense.
 
