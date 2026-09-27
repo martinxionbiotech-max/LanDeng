@@ -35,7 +35,7 @@ In incense, "citrus" is a broad family of bright, zesty notes:
 | Note | Character |
 |---|---|
 | Orange / mandarin peel | Sweet, warm citrus |
-| 陈皮 (aged mandarin peel) | Dried, slightly sweet, deepening with age |
+| aged mandarin peel (陈皮) | Dried, slightly sweet, deepening with age |
 | Bergamot | Floral-citrus, elegant |
 | Yuzu | Sharp, aromatic, slightly floral |
 | Lemon / lime | Tart, clean, sharp |
@@ -138,7 +138,7 @@ Citrus essential oils are made of light, highly volatile molecules — chiefly l
 It is a bright, fresh, zesty scent that many people associate with focus, alertness, and energy. That is a description of its aromatic character, not a physiological effect: LanDeng makes no claim that citrus incense improves concentration or mood in any clinical sense. In fragrance terms, citrus is classified as a top note that opens a blend and reads as clean and lifting. The "energizing" language refers to how the scent is commonly perceived, not to a measurable health benefit.
 
 ### Q: Is citrus a traditional Chinese incense ingredient?
-Via 陈皮 (aged mandarin peel), yes — citrus has a real place in the Chinese material tradition, distinct from Western-origin florals like lavender. The dried, aged peel of *Citrus reticulata* has been used for centuries and is prized in its own right. In modern incense, however, "citrus" more often means a bright blend note built from orange, bergamot, yuzu, or lemon oil, layered over a wood or resin base.
+Via aged mandarin peel (陈皮), yes — citrus has a real place in the Chinese material tradition, distinct from Western-origin florals like lavender. The dried, aged peel of *Citrus reticulata* has been used for centuries and is prized in its own right. In modern incense, however, "citrus" more often means a bright blend note built from orange, bergamot, yuzu, or lemon oil, layered over a wood or resin base.
 
 ---
 
