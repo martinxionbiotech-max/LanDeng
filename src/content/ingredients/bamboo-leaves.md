@@ -36,11 +36,11 @@ The register is a *green, tea-like* freshness — the scent of a fresh leaf rath
 
 ## A botanical note (read this)
 
-> **Direct answer:** 竹叶 (bamboo leaves) and 淡竹叶 (*Lophatherum gracile*) sound alike but are different plants. 竹叶 is the leaf of bamboo (*Phyllostachys* and related genera); 淡竹叶 is a small grass-like herb that merely resembles young bamboo, with its own separate materia-medica entry.
+> **Direct answer:** bamboo leaves (竹叶) and 淡竹叶 (*Lophatherum gracile*) sound alike but are different plants. 竹叶 is the leaf of bamboo (*Phyllostachys* and related genera); 淡竹叶 is a small grass-like herb that merely resembles young bamboo, with its own separate materia-medica entry.
 
 竹叶 and 淡竹叶 sound alike but are different plants:
 
-- **竹叶 (bamboo leaves)** — the leaves of bamboo, *Phyllostachys* and related genera. This entry.
+- **bamboo leaves (竹叶)** — the leaves of bamboo, *Phyllostachys* and related genera. This entry.
 - **淡竹叶** — *Lophatherum gracile*, a small grass-like herb that merely resembles young bamboo; its own, separate materia-medica item.
 
 The *Bencao Gangmu* (本草纲目) records bamboo under 竹 (木之五), noting the leaves among its parts, while 淡竹叶 appears elsewhere as a distinct herb. **This page describes 竹叶 = bamboo leaves.**
@@ -63,7 +63,7 @@ The name 竹叶 is literal — "bamboo leaf" — but the naming landscape is not
 
 > **Direct answer:** Bamboo leaves enter Chinese tradition chiefly as a fragrant, cooling tea (竹叶茶) and as a subtle green accent in sachets, not as a lead incense material. Their role is a quiet, fresh, tea-like green note, secondary to the resins and woods that anchor classical formulas.
 
-竹叶's traditional role is in **tea and fragrant leaf** contexts: bamboo-leaf tea (竹叶茶) is a traditional fragrant, cooling drink, and the fresh-leaf scent informs its use in the 香囊 (sachet) and tea contexts. In incense, bamboo leaf is not a lead 香材; its role is a mild green accent, secondary to the resins and woods. This is a *quiet* material — its value is a fresh green lift, not a defining scent.
+竹叶's traditional role is in **tea and fragrant leaf** contexts: bamboo-leaf tea (竹叶茶) is a traditional fragrant, cooling drink, and the fresh-leaf scent informs its use in the sachet (香囊) and tea contexts. In incense, bamboo leaf is not a lead 香材; its role is a mild green accent, secondary to the resins and woods. This is a *quiet* material — its value is a fresh green lift, not a defining scent.
 
 ## How is it processed?
 
@@ -90,7 +90,7 @@ The dried leaf is the reference form for tea and sachet use; the material is a q
 
 ## In Chinese tradition
 
-- **Tea:** bamboo-leaf tea (竹叶茶) is a traditional fragrant, cooling drink, and the fresh-leaf scent informs its use in the 香囊 (sachet) and tea contexts.
+- **Tea:** bamboo-leaf tea (竹叶茶) is a traditional fragrant, cooling drink, and the fresh-leaf scent informs its use in the sachet (香囊) and tea contexts.
 - **Materia medica:** 竹叶 appears in traditional Chinese materia medica. This is **traditional materia-medica language, not modern clinical evidence.**
 - **Incense:** bamboo leaf is not a lead 香材; its role is a mild green accent, secondary to the resins and woods.
 
@@ -119,7 +119,7 @@ Practical points for buyers:
 From a sourcing and editorial perspective, 竹叶 is most useful as a reminder that even a "simple" quiet leaf carries two distinct disambiguation problems. Three points follow:
 
 - **The part is not the plant.** Bamboo is used for its culm (stem), its edible shoot, and its leaf — three materially different products from one plant. 竹叶 is the leaf only, and a buyer who says "bamboo" without specifying the part has not yet named a material. The part-versus-whole distinction is as important here as it is for any multi-use plant.
-- **The look-alike name is a real trap.** 竹叶 (bamboo leaf) and 淡竹叶 (*Lophatherum gracile*) differ by a single character but name different plants — the *Bencao Gangmu* itself keeps them in different places. This is the same look-alike pattern as the 豆蔻 and 胡椒 families elsewhere in the canon, and it means the name alone is never sufficient for sourcing.
+- **The look-alike name is a real trap.** bamboo leaf (竹叶) and 淡竹叶 (*Lophatherum gracile*) differ by a single character but name different plants — the *Bencao Gangmu* itself keeps them in different places. This is the same look-alike pattern as the 豆蔻 and 胡椒 families elsewhere in the canon, and it means the name alone is never sufficient for sourcing.
 - **A grass leaf is a category surprise worth stating.** Bamboo is a grass (Poaceae), so "bamboo leaf incense" is, botanically, a grass leaf — not a tree leaf. The material's value is a quiet, tea-like green freshness, and for a manufacturer that means it is an *accent*, not a base; it lends a clean green lift rather than carrying a formula.
 
 In our view, bamboo leaf is best understood as the **quiet green accent with two naming traps** — a grass leaf (not a tree leaf) that is one part of a multi-use plant and that must be kept apart from the look-alike 淡竹叶, and whose traditional role is tea and freshness rather than fragrance.
@@ -130,11 +130,11 @@ Bamboo leaves (竹叶) are the green leaves of bamboo (*Phyllostachys* and relat
 
 ## FAQ
 
-**What is 竹叶 (bamboo leaves)?** The narrow green leaves of bamboo (*Phyllostachys* and related genera, family Poaceae), with a mild, fresh, grassy-green, slightly sweet scent. They enter Chinese tradition chiefly as a fragrant tea and a cooling leaf, and as a subtle green accent in sachets, rather than as a prominent incense material.
+**What is bamboo leaves (竹叶)?** The narrow green leaves of bamboo (*Phyllostachys* and related genera, family Poaceae), with a mild, fresh, grassy-green, slightly sweet scent. They enter Chinese tradition chiefly as a fragrant tea and a cooling leaf, and as a subtle green accent in sachets, rather than as a prominent incense material.
 
-**Is 竹叶 the same as 淡竹叶?** No. 竹叶 is the leaf of bamboo (*Phyllostachys* spp.); 淡竹叶 is *Lophatherum gracile*, a small grass-like herb that only resembles young bamboo. The two share a similar name but are different plants with different materia-medica entries.
+**Is bamboo leaves (竹叶) the same as 淡竹叶?** No. 竹叶 is the leaf of bamboo (*Phyllostachys* spp.); 淡竹叶 is *Lophatherum gracile*, a small grass-like herb that only resembles young bamboo. The two share a similar name but are different plants with different materia-medica entries.
 
-**What does 竹叶 smell like?** Mild, clean, and grassy-green with a faint sweetness — like fresh-cut foliage or a green tea leaf. It is a quiet, subtle note, useful as a gentle green accent, not a strong aromatic base.
+**What does bamboo leaves (竹叶) smell like?** Mild, clean, and grassy-green with a faint sweetness — like fresh-cut foliage or a green tea leaf. It is a quiet, subtle note, useful as a gentle green accent, not a strong aromatic base.
 
 **Is bamboo leaf a classical incense ingredient?** Not a lead one. Bamboo leaf's traditional role is in tea and as a fragrant leaf, and it can lend a mild green accent to a sachet or blend, but it does not carry the intensity of the resins, woods, and florals that anchor classical incense formulas.
 
