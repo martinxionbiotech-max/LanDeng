@@ -14,7 +14,7 @@ related: ["linglingxiang", "agastache-rugosa"]
 
 <img src="/images/paicao-raw-material-800x533.webp" alt="Raw Paicao (Lysimachia capillipes) material, editorial still life" width="800" height="533" loading="lazy">
 
-> **Direct answer:** Paicao (排草, páicǎo) is the dried herb of *Lysimachia capillipes*, a small perennial of the primrose family (Primulaceae) native to southern China. It is an aromatic herb with a sweet, hay-like, faintly woody scent, used in Chinese incense as a supporting herbal note in 合香 (blended incense). It belongs to the same genus as linglingxiang (零陵香), *Lysimachia foenum-graecum*.
+> **Direct answer:** Paicao (排草, páicǎo) is the dried herb of *Lysimachia capillipes*, a small perennial of the primrose family (Primulaceae) native to southern China. It is an aromatic herb with a sweet, hay-like, faintly woody scent, used in Chinese incense as a supporting herbal note in blended incense (合香). It belongs to the same genus as linglingxiang (零陵香), *Lysimachia foenum-graecum*.
 
 ## Key facts
 
@@ -103,7 +103,7 @@ There is no standardized commercial grading ladder; identity, aroma, and purity 
 
 ## In Chinese tradition
 
-- **合香 (blended incense) (Traditional Use):** 排草 is a supporting aromatic herb in classical 合香 formulas, contributing a sweet, hay-like body beneath woods and resins.
+- **blended incense (合香) (Traditional Use):** 排草 is a supporting aromatic herb in classical 合香 formulas, contributing a sweet, hay-like body beneath woods and resins.
 - **Scenting herb (Traditional Use):** the whole herb is used as a scenting material for garments and spaces, in the same tradition as other aromatic herbs.
 - **Historical Record (香乘):** the Ming *Xiangcheng* (香乘) records 排草香 as a root ("白色状如细柳根") from 交址, cultivated in 岭南, often adulterated ("人多伪杂之"), grouped with 白茅香/瓶香/耕香, and used in formulas ("广排草须一两"; "排草酒浸半日，炒干").
 - **Materia medica (Traditional Use):** 排草 is recorded in traditional Chinese medicine (本草綱目, 草部). This is traditional materia-medica language, not modern clinical evidence.
@@ -148,11 +148,11 @@ In our view, 排草 is a useful sweet-herb supporting note — buy it by species
 
 ## FAQ
 
-**What is 排草 (paicao)?** The dried herb of *Lysimachia capillipes*, a small perennial of the primrose family (Primulaceae) native to southern China. It is an aromatic herb with a sweet, hay-like, faintly woody scent, used in Chinese incense as a supporting herbal note in 合香 (blended incense). It is closely related to 零陵香 (*Lysimachia foenum-graecum*).
+**What is 排草 (paicao)?** The dried herb of *Lysimachia capillipes*, a small perennial of the primrose family (Primulaceae) native to southern China. It is an aromatic herb with a sweet, hay-like, faintly woody scent, used in Chinese incense as a supporting herbal note in blended incense (合香). It is closely related to 零陵香 (*Lysimachia foenum-graecum*).
 
 **How does paicao relate to 零陵香 (linglingxiang)?** They are closely related species of the same genus, *Lysimachia* — paicao is *L. capillipes*, and 零陵香 is *L. foenum-graecum*. Both are aromatic herbs with a sweet, hay-like character and are described by Flora of China as curry-scented when dry, reflecting their common genus, but they are distinct materials, and 零陵香 has its own entry in this encyclopedia.
 
-**What does the 香乘 say about 排草?** The Ming *Xiangcheng* (香乘) records 排草香 as a root ("草根也，白色，状如细柳根" — white, like fine willow roots) from 交址 (Jiaozhi, northern Vietnam), now cultivated in 岭南 (Lingnan), and adds that it was often adulterated ("人多伪杂之"). It groups 排草香 with 白茅香, 瓶香, and 耕香 as one class, and records its use in formulas ("广排草须一两"; "排草酒浸半日，炒干").
+**What does the Xiang Cheng (香乘) say about paicao (排草)?** The Ming *Xiangcheng* (香乘) records 排草香 as a root ("草根也，白色，状如细柳根" — white, like fine willow roots) from 交址 (Jiaozhi, northern Vietnam), now cultivated in 岭南 (Lingnan), and adds that it was often adulterated ("人多伪杂之"). It groups 排草香 with 白茅香, 瓶香, and 耕香 as one class, and records its use in formulas ("广排草须一两"; "排草酒浸半日，炒干").
 
 **What does paicao smell like?** Herbal and sweet, with a hay-like, faintly woody character — a fresh, green-sweet scent that recalls coumarin-tonka notes without being heavy. Flora of China describes the plant as strongly curry-scented when dry. It is a supporting herb that fills the herbal register of a blend, softening brighter or spicier ingredients rather than leading with its own strong note.
 
