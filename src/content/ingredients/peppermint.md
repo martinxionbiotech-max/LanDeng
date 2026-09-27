@@ -30,13 +30,13 @@ related: ["mint", "spearmint"]
 
 > **Direct answer:** Peppermint is sharp and cooling, with an intense, camphoraceous, menthol-dominated character — hotter and more medicinal than spearmint's sweet softness. Its cooling character comes chiefly from the compound menthol, which produces peppermint's distinctive hot-cold sensation, a physical cooling effect as much as a scent.
 
-胡椒薄荷 (peppermint) is sharp and cooling, with the intense, camphoraceous, menthol-dominated character that gives it its penetrating bite — hotter and more medicinal than the sweet softness of spearmint. Its cooling character comes chiefly from the compound **menthol**, which gives peppermint its distinctive hot-cold sensation. That sensation is not a metaphor: menthol activates cold-sensing receptors, so peppermint's "cooling" is a physical effect layered on top of its aroma — a property that shapes both its culinary use and its occasional, sparing use as a fragrance note.
+peppermint (胡椒薄荷) is sharp and cooling, with the intense, camphoraceous, menthol-dominated character that gives it its penetrating bite — hotter and more medicinal than the sweet softness of spearmint. Its cooling character comes chiefly from the compound **menthol**, which gives peppermint its distinctive hot-cold sensation. That sensation is not a metaphor: menthol activates cold-sensing receptors, so peppermint's "cooling" is a physical effect layered on top of its aroma — a property that shapes both its culinary use and its occasional, sparing use as a fragrance note.
 
 ## A provenance note (read this)
 
 > **Direct answer:** Peppermint is a modern culinary and fragrance crossover, not a classical Chinese 香材. It is a sterile hybrid — watermint crossed with spearmint — first described in England in the 18th century, a European and modern cultivar rather than a native Chinese wild species. The Chinese pharmacopoeial mint is the separate species 薄荷 (*Mentha haplocalyx*).
 
-胡椒薄荷 (peppermint) is a **modern culinary and fragrance crossover**, not a classical Chinese 香材:
+peppermint (胡椒薄荷) is a **modern culinary and fragrance crossover**, not a classical Chinese 香材:
 
 - *Mentha × piperita* is a sterile hybrid — watermint crossed with spearmint — first described in England in the 18th century. It is a **European and modern** cultivar, not a native Chinese wild species.
 - The Chinese pharmacopoeial mint is 薄荷 (*Mentha haplocalyx*, syn. *M. canadensis*), a different species with its own entry; 胡椒薄荷 is a separate, sharper mint.
@@ -50,9 +50,9 @@ This page records it honestly as a modern culinary and fragrance herb — **no c
 
 The *Mentha* genus supplies three distinct mints in this encyclopedia:
 
-- **薄荷 (mint)** — *Mentha haplocalyx* (syn. *M. canadensis*), the East Asian pharmacopoeial mint, the "mint" of Chinese tradition. Its own entry.
-- **留兰香 (spearmint)** — *Mentha spicata*, the sweet, carvone-dominant mint. Its own entry.
-- **胡椒薄荷 (peppermint)** — *Mentha × piperita*, the sharp, menthol-dominant hybrid mint. This entry.
+- **mint (薄荷)** — *Mentha haplocalyx* (syn. *M. canadensis*), the East Asian pharmacopoeial mint, the "mint" of Chinese tradition. Its own entry.
+- **spearmint (留兰香)** — *Mentha spicata*, the sweet, carvone-dominant mint. Its own entry.
+- **peppermint (胡椒薄荷)** — *Mentha × piperita*, the sharp, menthol-dominant hybrid mint. This entry.
 
 Peppermint is a hybrid of spearmint and watermint; 薄荷 is a separate East Asian species. All share a minty family character but are distinct. The hybrid status is the root of peppermint's identity: the cross concentrated the menthol that makes it sharp and cooling.
 
@@ -86,7 +86,7 @@ Peppermint is a crop, not a wild aromatic. It originated in Europe as a garden h
 - **Historical Record** — the hybrid origin (watermint × spearmint) and its 18th-century English description are documented horticultural history, a European and modern record rather than a Chinese classical one.
 - **Scientific Evidence** — botanical identity (Lamiaceae, a sterile hybrid) and the menthol-dominant essential oil are established; no medical claims are made.
 
-There is **no classical Chinese incense record** for 胡椒薄荷 (peppermint); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Lamiaceae placement, and its modern culinary and fragrance role.
+There is **no classical Chinese incense record** for peppermint (胡椒薄荷); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Lamiaceae placement, and its modern culinary and fragrance role.
 
 ## How is peppermint used in incense?
 
@@ -123,9 +123,9 @@ Peppermint (胡椒薄荷) is the sterile hybrid mint *Mentha × piperita*, a cro
 
 ## FAQ
 
-**What is 胡椒薄荷 (peppermint)?** The herb *Mentha × piperita*, a sterile hybrid mint in the mint family (Lamiaceae), a cross of watermint and spearmint. Its leaves carry a sharp, cooling, minty-camphoraceous scent from a menthol-rich essential oil. It is a modern culinary and fragrance crossover, not a classical Chinese incense ingredient.
+**What is peppermint (胡椒薄荷)?** The herb *Mentha × piperita*, a sterile hybrid mint in the mint family (Lamiaceae), a cross of watermint and spearmint. Its leaves carry a sharp, cooling, minty-camphoraceous scent from a menthol-rich essential oil. It is a modern culinary and fragrance crossover, not a classical Chinese incense ingredient.
 
-**How is peppermint different from 薄荷 (mint)?** They are different plants. 胡椒薄荷 is *Mentha × piperita*, a sterile 18th-century European hybrid; 薄荷 is *Mentha haplocalyx* (syn. *M. canadensis*), the East Asian pharmacopoeial mint of Chinese tradition. Both are minty, but they are distinct species (a hybrid vs a species) with different aromas and identities.
+**How is peppermint different from mint (薄荷)?** They are different plants. 胡椒薄荷 is *Mentha × piperita*, a sterile 18th-century European hybrid; 薄荷 is *Mentha haplocalyx* (syn. *M. canadensis*), the East Asian pharmacopoeial mint of Chinese tradition. Both are minty, but they are distinct species (a hybrid vs a species) with different aromas and identities.
 
 **How is peppermint different from spearmint?** Peppermint (*Mentha × piperita*) is sharp and camphoraceous, dominated by menthol; spearmint (*Mentha spicata*) is sweet and soft, dominated by carvone. Peppermint is a hybrid of spearmint and watermint. Peppermint reads hot-mint, spearmint reads sweet-mint.
 
@@ -164,4 +164,4 @@ See also: [mint (薄荷)](/ingredients/mint/), [spearmint (留兰香)](/ingredie
 
 - [Mentha × piperita on GBIF](https://www.gbif.org/species/8707933)
 
-*Sources: botanical references on *Mentha × piperita* and the peppermint-vs-mint-vs-spearmint distinction. 胡椒薄荷 (peppermint) is a modern culinary and fragrance herb with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Mentha × piperita* and the peppermint-vs-mint-vs-spearmint distinction. peppermint (胡椒薄荷) is a modern culinary and fragrance herb with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
