@@ -24,7 +24,7 @@ related: ["sandalwood", "vetiver"]
 | Botanical source | *Nardostachys jatamansi* (family Caprifoliaceae) — the dried root/rhizome |
 | What it is | A dried aromatic root, not a wood or resin |
 | Aroma | Earthy, woody, sweet, with a musky, slightly animalic undertone |
-| Traditional role | 合香 (blended incense), scenting clothes (裛衣), bath |
+| Traditional role | blended incense (合香), scenting clothes (裛衣), bath |
 
 ## Aroma profile
 
@@ -92,7 +92,7 @@ The distinction between root forms and powder is functional, not a quality state
 
 ## In Chinese tradition
 
-- **合香 (blended incense):** 甘松 is a classical supporting ingredient in blended incense formulas, contributing an earthy, grounding body. The Song-dynasty manual *Xiangpu* (香譜) records 甘松香 among the standard incense materials.
+- **blended incense (合香):** 甘松 is a classical supporting ingredient in blended incense formulas, contributing an earthy, grounding body. The Song-dynasty manual *Xiangpu* (香譜) records 甘松香 among the standard incense materials.
 - **Scenting clothes (裛衣):** classical texts describe spikenard as usable to scent garments and for fragrant bathing.
 - **Materia medica:** 甘松 appears in traditional Chinese medicine, where the *Bencao Shiyi* (本草拾遗) records it for various uses and notes "bathing makes the body fragrant" (浴人身令香). This is **traditional materia-medica language, not modern clinical evidence.**
 
@@ -178,7 +178,7 @@ Spikenard (甘松, *gānsōng*) is the dried, fragrant root of *Nardostachys jat
 
 **What does spikenard smell like?** Spikenard root is earthy and woody with a sweet, slightly musky, faintly animalic undertone. It is a supporting, grounding note rather than a bright or floral one — in Chinese *huxiang* (blended incense) it deepens a formula from below, alongside woods and resins. The aroma is "rooty" and develops with gentle heat, which is why it is blended rather than burned alone for fragrance.
 
-**Is Chinese 甘松 the same as Western spikenard essential oil?** They trace to the same plant family — *Nardostachys* — but the materials are not automatically identical. Chinese 甘松 is the dried root used in incense and materia medica, while "spikenard" in Western aromatherapy is usually a steam-distilled essential oil of the same genus. A label that says only "spikenard" does not specify species or form, so buyers should check what they are getting.
+**Is Chinese spikenard (甘松) the same as Western spikenard essential oil?** They trace to the same plant family — *Nardostachys* — but the materials are not automatically identical. Chinese 甘松 is the dried root used in incense and materia medica, while "spikenard" in Western aromatherapy is usually a steam-distilled essential oil of the same genus. A label that says only "spikenard" does not specify species or form, so buyers should check what they are getting.
 
 **What part of the spikenard plant is used?** The dried root and rhizome of *Nardostachys jatamansi* are the parts used. The plant is a small Himalayan herb; its root is harvested, cleaned, and dried, then used whole, sliced, or powdered in incense and traditional practice. The name 甘松 refers to the root's sweet taste rather than its scent — an older, taste-based naming convention.
 
