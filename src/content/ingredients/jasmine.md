@@ -69,9 +69,9 @@ For tea, the flower is grown in vast fields and picked at night, just as the bud
 
 ## In Chinese tradition
 
-> **Direct answer:** Jasmine's signature use is jasmine tea (茉莉花茶), made by layering fresh flowers with tea leaves so the leaves absorb the scent — a process called 窨制 (scenting). The flower also carries associations of purity and love and appears in perfume and incense.
+> **Direct answer:** Jasmine's signature use is jasmine tea (茉莉花茶), made by layering fresh flowers with tea leaves so the leaves absorb the scent — a process called scenting (窨制). The flower also carries associations of purity and love and appears in perfume and incense.
 
-- **Jasmine tea (茉莉花茶):** traditionally said to be China's oldest scented-flower tea, developed around the Song dynasty (960–1279). The classic method layers fresh jasmine flowers with tea leaves so the leaves absorb the scent (traditionally the flowers are then removed). The technique is called 窨制 (scenting/aromatizing), and fine jasmine tea may be scented in multiple passes.
+- **Jasmine tea (茉莉花茶):** traditionally said to be China's oldest scented-flower tea, developed around the Song dynasty (960–1279). The classic method layers fresh jasmine flowers with tea leaves so the leaves absorb the scent (traditionally the flowers are then removed). The technique is called scenting/aromatizing (窨制), and fine jasmine tea may be scented in multiple passes.
 - **Symbolism:** jasmine carries associations of purity, elegance, beauty, and love; it appears in weddings and festivals.
 - **Fragrance:** used in perfume and incense.
 
@@ -121,9 +121,9 @@ The distinction between the raw flower, the extract, and the tea is functional �
 
 Three white, fragrant southern flowers are easy to blur:
 
-- **茉莉 (jasmine)** — *Jasminum sambac* (Oleaceae), the tea jasmine. This entry.
-- **素馨 (Spanish jasmine)** — *Jasminum grandiflorum* (Oleaceae), the headier perfumery jasmine. See [jasmine-grandiflorum](/ingredients/jasmine-grandiflorum/).
-- **含笑 (banana shrub)** — *Michelia figo* (Magnoliaceae), a sweet, fruity, banana-scented flower that is unrelated to jasmine despite sharing a "small white fragrant blossom" role. See [michelia-figo](/ingredients/michelia-figo/).
+- **jasmine (茉莉)** — *Jasminum sambac* (Oleaceae), the tea jasmine. This entry.
+- **Spanish jasmine (素馨)** — *Jasminum grandiflorum* (Oleaceae), the headier perfumery jasmine. See [jasmine-grandiflorum](/ingredients/jasmine-grandiflorum/).
+- **banana shrub (含笑)** — *Michelia figo* (Magnoliaceae), a sweet, fruity, banana-scented flower that is unrelated to jasmine despite sharing a "small white fragrant blossom" role. See [michelia-figo](/ingredients/michelia-figo/).
 
 The first two are the same genus; the third is a different family entirely. Chinese names keep all three separate.
 
@@ -209,7 +209,7 @@ Jasmine (茉莉) is the flower of *Jasminum* species in the olive family — mos
 
 **How is jasmine tea made?** Jasmine tea is made by scenting tea leaves with fresh jasmine flowers through a process called 窨制. Freshly picked blossoms, chosen when the buds are about to open, are layered with tea leaves — most often green tea — so the leaves absorb the flower's volatile aroma. After a scenting pass, the spent flowers are traditionally removed, leaving the tea fragranced but largely flower-free. Premium jasmine tea goes through this cycle several times, each pass deepening the scent, which is why higher grades cost more. The result is a tea whose jasmine character comes from repeated contact with the living flower, not from added flavoring.
 
-**What is the difference between jasmine and 素馨 (Spanish jasmine)?** Both are *Jasminum* species, but distinct. Jasmine (茉莉) is *Jasminum sambac* — the tea-scented jasmine used for jasmine tea, with a fresh, tea-like sweetness. 素馨 is *Jasminum grandiflorum* — the Spanish or Poet's jasmine, with larger flowers and a headier, more opulent scent, the classic Western perfumery jasmine. The incense compendium 香乘 lists them as separate flowers, and each has its own entry here. See [jasmine-grandiflorum](/ingredients/jasmine-grandiflorum/).
+**What is the difference between jasmine and Spanish jasmine (素馨)?** Both are *Jasminum* species, but distinct. Jasmine (茉莉) is *Jasminum sambac* — the tea-scented jasmine used for jasmine tea, with a fresh, tea-like sweetness. 素馨 is *Jasminum grandiflorum* — the Spanish or Poet's jasmine, with larger flowers and a headier, more opulent scent, the classic Western perfumery jasmine. The incense compendium 香乘 lists them as separate flowers, and each has its own entry here. See [jasmine-grandiflorum](/ingredients/jasmine-grandiflorum/).
 
 See also: [rose](/ingredients/rose/), [osmanthus](/ingredients/osmanthus/), [jasmine-grandiflorum](/ingredients/jasmine-grandiflorum/), [lily of the valley](/ingredients/lily-of-the-valley/) and the full [scent guide](/blog/scent-guide/).
 
