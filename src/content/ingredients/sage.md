@@ -30,15 +30,15 @@ related: ["rosemary", "thyme", "basil"]
 
 > **Direct answer:** Sage has a dry, savory, herbaceous scent with a camphoraceous, green, faintly peppery edge — the pungent, slightly dusty smell of the culinary herb rather than a sweet flower. It is warmer and more savory than lavender, and sharper than the softer green of thyme.
 
-鼠尾草 (sage) has a dry, savory, herbaceous scent with a camphoraceous, green, faintly peppery edge — the pungent, slightly dusty smell of the culinary herb rather than a sweet flower. It is warmer and more savory than lavender, and sharper than the softer green of thyme.
+sage (鼠尾草) has a dry, savory, herbaceous scent with a camphoraceous, green, faintly peppery edge — the pungent, slightly dusty smell of the culinary herb rather than a sweet flower. It is warmer and more savory than lavender, and sharper than the softer green of thyme.
 
 The register is the key: sage is a *savory, dry* herb note, closer to the kitchen than to the garden flower. Its camphoraceous edge gives it a slight medicinal-dry character that distinguishes it from the softer, greener members of the mint family — which is exactly what makes it a "cleansing" note in modern practice rather than a sweet one.
 
 ## A provenance note (read this)
 
-> **Direct answer:** 鼠尾草 (sage) is a modern crossover, not a classical Chinese 香材. *Salvia officinalis* is a Mediterranean species; the Chinese name 鼠尾草 is broad and also covers native Chinese *Salvia* species; and sage's smoke-cleansing ("smudging") use is a modern Western practice, absent from the classical 香材 canon.
+> **Direct answer:** sage (鼠尾草) is a modern crossover, not a classical Chinese 香材. *Salvia officinalis* is a Mediterranean species; the Chinese name 鼠尾草 is broad and also covers native Chinese *Salvia* species; and sage's smoke-cleansing ("smudging") use is a modern Western practice, absent from the classical 香材 canon.
 
-鼠尾草 (sage) is a **modern crossover**, not a classical Chinese 香材:
+sage (鼠尾草) is a **modern crossover**, not a classical Chinese 香材:
 
 - *Salvia officinalis* is a Mediterranean species, not native to China; Flora of China does not record it as native.
 - The Chinese name 鼠尾草 ("mouse-tail herb") is a broad term also applied to native Chinese *Salvia* species (such as *Salvia japonica*); "sage" in the culinary/perfumery sense is specifically *Salvia officinalis*.
@@ -103,13 +103,13 @@ The dried leaf is the incense-relevant form; the oil is a distilled product dist
 - **Historical Record** — no classical Chinese incense record exists for *Salvia officinalis*; the "smudging" use is a modern Western practice.
 - **Scientific Evidence** — the botanical identity (*Salvia officinalis*, Lamiaceae) is established, and the 鼠尾草 name's coverage of multiple native *Salvia* species is documented. No clinical or medical efficacy claims are presented.
 
-There is **no classical Chinese incense record** for 鼠尾草 (sage); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Lamiaceae placement, and its modern culinary and cleansing role.
+There is **no classical Chinese incense record** for sage (鼠尾草); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Lamiaceae placement, and its modern culinary and cleansing role.
 
 ## Quality and sourcing notes
 
 Practical points for buyers:
 
-- 鼠尾草 (sage) is *Salvia officinalis*; expect a savory, herbal, camphoraceous, slightly peppery scent.
+- sage (鼠尾草) is *Salvia officinalis*; expect a savory, herbal, camphoraceous, slightly peppery scent.
 - Distinguish culinary sage (*Salvia officinalis*) from the native Chinese *Salvia* species that share the 鼠尾草 name — different plants, different uses.
 - In incense it is usually a dry herbal note, a modern addition rather than a classical 香材.
 
@@ -131,17 +131,17 @@ Sage (鼠尾草) is culinary sage, *Salvia officinalis*, a Mediterranean mint-fa
 
 ## FAQ
 
-**What is 鼠尾草 (sage)?** The culinary sage, *Salvia officinalis*, a mint-family subshrub native to the Mediterranean. Its leaves carry a savory, herbal, camphoraceous, slightly peppery scent, familiar from cooking and, more recently, modern incense and cleansing rituals.
+**What is sage (鼠尾草)?** The culinary sage, *Salvia officinalis*, a mint-family subshrub native to the Mediterranean. Its leaves carry a savory, herbal, camphoraceous, slightly peppery scent, familiar from cooking and, more recently, modern incense and cleansing rituals.
 
-**Is 鼠尾草 a classical Chinese incense ingredient?** No. Sage is a Mediterranean species, not native to China, and it has no place in the classical 香材 canon. Its smoke-cleansing ("smudging") and incense use is a modern Western practice, not a classical Chinese one.
+**Is sage (鼠尾草) a classical Chinese incense ingredient?** No. Sage is a Mediterranean species, not native to China, and it has no place in the classical 香材 canon. Its smoke-cleansing ("smudging") and incense use is a modern Western practice, not a classical Chinese one.
 
-**Is culinary sage the same as native Chinese 鼠尾草?** Not exactly. The name 鼠尾草 is broad and also covers native Chinese *Salvia* species (such as *Salvia japonica* and the medicinal 丹参, *Salvia miltiorrhiza*), but "sage" in the culinary and fragrance sense is specifically *Salvia officinalis*. Specify the species when sourcing.
+**Is culinary sage the same as native Chinese sage (鼠尾草)?** Not exactly. The name 鼠尾草 is broad and also covers native Chinese *Salvia* species (such as *Salvia japonica* and the medicinal 丹参, *Salvia miltiorrhiza*), but "sage" in the culinary and fragrance sense is specifically *Salvia officinalis*. Specify the species when sourcing.
 
 **What does sage smell like?** Dry, savory, and herbaceous, with a camphoraceous, green, faintly peppery edge — the pungent, slightly dusty smell of the culinary herb. It is warmer and more savory than lavender.
 
 **How is sage used in incense?** As a dry herbal note and in modern smoke-cleansing ("smudging") rituals — a Western-influenced addition, not a classical 香材. It lends a savory, camphoraceous green character to modern blends.
 
-**Why does the 鼠尾草 name matter for sourcing?** Because 鼠尾草 is a genus-level name covering the entire *Salvia* genus, which includes many native Chinese species with different scents and uses. The name alone does not identify the plant — the species (*Salvia officinalis* versus a native *Salvia*) must be specified before sourcing.
+**Why does the sage (鼠尾草) name matter for sourcing?** Because 鼠尾草 is a genus-level name covering the entire *Salvia* genus, which includes many native Chinese species with different scents and uses. The name alone does not identify the plant — the species (*Salvia officinalis* versus a native *Salvia*) must be specified before sourcing.
 
 See also: [rosemary (迷迭香)](/ingredients/rosemary/), [thyme (百里香)](/ingredients/thyme/), [basil (罗勒)](/ingredients/basil/), and the full [scent guide](/blog/scent-guide/).
 
@@ -172,4 +172,4 @@ See also: [rosemary (迷迭香)](/ingredients/rosemary/), [thyme (百里香)](/i
 
 - [Salvia officinalis on GBIF](https://www.gbif.org/species/2927004)
 
-*Sources: botanical references on *Salvia officinalis*. 鼠尾草 (sage) is a modern culinary and cleansing herb with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Salvia officinalis*. sage (鼠尾草) is a modern culinary and cleansing herb with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
