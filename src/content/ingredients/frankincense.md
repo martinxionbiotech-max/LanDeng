@@ -40,7 +40,7 @@ Frankincense has a fresh, resinous, slightly citrus (lemony) aroma over a warm, 
 
 ## Chinese name and terminology
 
-> **Direct answer:** 乳香 (rǔxiāng) means "milk fragrance," describing the milky resin that hardens into tears. It is classically paired with 没药 (myrrh) in Chinese materia medica — a pairing that also runs through Western religious and perfumery tradition.
+> **Direct answer:** 乳香 (rǔxiāng) means "milk fragrance," describing the milky resin that hardens into tears. It is classically paired with myrrh (没药) in Chinese materia medica — a pairing that also runs through Western religious and perfumery tradition.
 
 The Chinese name 乳香 (rǔxiāng) means "milk fragrance" — a direct description of the milky resin that hardens into the aromatic tears. In Chinese materia medica, 乳香 is classically paired with **没药 (mòyào, myrrh)**, and the two are habitually named together. The pairing is not a Chinese invention alone: frankincense and myrrh travel together through Western religious and perfumery tradition as well, because both are gum-resins from the same plant family (Burseraceae) and complement each other's aroma. See [myrrh](/ingredients/myrrh/).
 
@@ -180,7 +180,7 @@ Frankincense (乳香) is the aromatic gum-resin of *Boswellia* trees, harvested 
 
 ## FAQ
 
-**What is the difference between frankincense and myrrh?** Both are resins from the same plant family, Burseraceae, but from different genera. Frankincense comes from *Boswellia* trees and has a fresh, citrusy, creamy aroma; myrrh comes from *Commiphora* trees and is bitter, balsamic, and earthy. Frankincense reads bright and clean, while myrrh is darker and heavier. The two are classically paired in Chinese tradition, where 乳香 (frankincense) and 没药 (myrrh) are used together, and in Western religious and perfumery tradition, where the pairing is equally old.
+**What is the difference between frankincense and myrrh?** Both are resins from the same plant family, Burseraceae, but from different genera. Frankincense comes from *Boswellia* trees and has a fresh, citrusy, creamy aroma; myrrh comes from *Commiphora* trees and is bitter, balsamic, and earthy. Frankincense reads bright and clean, while myrrh is darker and heavier. The two are classically paired in Chinese tradition, where frankincense (乳香) and myrrh (没药) are used together, and in Western religious and perfumery tradition, where the pairing is equally old.
 
 **Is frankincense a wood?** No — frankincense is a gum-resin, not wood. It is collected from the bark of *Boswellia* trees, which are scored so the tree exudes a milky resin that hardens into droplets called "tears." These tears are harvested by hand and graded by size, color, and clarity. The aromatic material is the hardened resin, not the wood of the tree itself. Frankincense is therefore classed as a resin incense ingredient, distinct from aromatic woods like sandalwood or agarwood.
 
