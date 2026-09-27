@@ -46,7 +46,7 @@ The *Bencao Gangmu* (本草纲目), in its fruit section (果之三), records th
 
 > "彼美玉山果，粲为金盘实。" — "That lovely jade-mountain fruit, gleaming as a dish of gold."
 
-Li Shizhen explains the name: "榧亦作棐，其木名文木，斐然章采，故谓之榧。信州玉山县者為佳" — the tree is called 文木 (patterned wood) for its handsome grain, hence 榧, and the finest come from Yushan county in Xinzhou. The point for this encyclopedia: 香榧 is a valued Chinese nut with a genuine classical record — a culinary and materia-medica seed, not a burned incense material.
+Li Shizhen explains the name: "榧亦作棐，其木名文木，斐然章采，故谓之榧。信州玉山县者為佳" — the tree is called patterned wood (文木) for its handsome grain, hence 榧, and the finest come from Yushan county in Xinzhou. The point for this encyclopedia: 香榧 is a valued Chinese nut with a genuine classical record — a culinary and materia-medica seed, not a burned incense material.
 
 ## In Chinese tradition
 
@@ -147,13 +147,13 @@ Torreya (香榧) is the large, edible, aromatic seed of the Chinese torreya, *To
 
 ## FAQ
 
-**What is 香榧 (torreya)?** The nut of the Chinese torreya, *Torreya grandis*, an evergreen conifer of the yew family (Taxaceae) native to eastern China. Its large, aromatic seed is a prized Chinese nut, and the *Bencao Gangmu* (本草纲目) records it under 榧实 with the classical name 玉山果.
+**What is torreya (香榧)?** The nut of the Chinese torreya, *Torreya grandis*, an evergreen conifer of the yew family (Taxaceae) native to eastern China. Its large, aromatic seed is a prized Chinese nut, and the *Bencao Gangmu* (本草纲目) records it under 榧实 with the classical name 玉山果.
 
-**Why is torreya called 玉山果 (jade-mountain fruit)?** The name reflects the tree's fine wood and a famous growing region. The *Bencao Gangmu* (本草纲目) records 玉山果 as a classical name and quotes Su Dongpo: "彼美玉山果，粲为金盘实" (that lovely jade-mountain fruit, gleaming as a dish of gold). Li Shizhen explains that the tree is called 文木 (patterned wood) for its handsome grain, and that the finest come from Yushan county.
+**Why is torreya called jade-mountain fruit (玉山果)?** The name reflects the tree's fine wood and a famous growing region. The *Bencao Gangmu* (本草纲目) records 玉山果 as a classical name and quotes Su Dongpo: "彼美玉山果，粲为金盘实" (that lovely jade-mountain fruit, gleaming as a dish of gold). Li Shizhen explains that the tree is called patterned wood (文木) for its handsome grain, and that the finest come from Yushan county.
 
 **What does torreya smell like?** Nutty and woody, with a resinous, slightly roasted, faintly sweet character — the scent of a rich, oily conifer nut. It is subtle and food-adjacent rather than floral or spicy, and its primary role is culinary rather than aromatic.
 
-**Is 香榧 a burned incense material?** Not in the classical tradition. Torreya is a culinary nut with a materia-medica record (榧实); it is not a burned incense ingredient. Its aromatic value is quiet — a warm conifer-nut undertone — rather than a lead fragrance. This page records it honestly as such rather than inventing an incense role.
+**Is torreya (香榧) a burned incense material?** Not in the classical tradition. Torreya is a culinary nut with a materia-medica record (榧实); it is not a burned incense ingredient. Its aromatic value is quiet — a warm conifer-nut undertone — rather than a lead fragrance. This page records it honestly as such rather than inventing an incense role.
 
 **What is the difference between torreya and cypress seed?** Both are conifer seeds, but torreya (香榧, *Torreya grandis*) is a yew-family (Taxaceae) culinary nut, while cypress seed (柏子, *Platycladus orientalis*) is a cypress-family (Cupressaceae) seed used in incense. Different families and different uses — food versus incense.
 
