@@ -66,7 +66,7 @@ The word 梅花 in an incense label can mean either the flower or the borneol gr
 
 Plum blossom's incense role is inseparable from its cultural weight:
 
-- **梅花香 (plum incense):** classical incense recipes built around the plum-blossom theme are among the most famous in the tradition, including the storied 寿阳公主梅花香 (Princess Shouyang's plum incense). The Song-dynasty *Xiangpu* (香譜) includes a 梅花香 method. See [the Shouyang princess plum recipe](/blog/shouyang-princess-plum-recipe/).
+- **plum incense (梅花香):** classical incense recipes built around the plum-blossom theme are among the most famous in the tradition, including the storied Princess Shouyang's plum incense (寿阳公主梅花香). The Song-dynasty *Xiangpu* (香譜) includes a 梅花香 method. See [the Shouyang princess plum recipe](/blog/shouyang-princess-plum-recipe/).
 - **The flower itself:** dried plum blossom is used for a gentle floral lift, though it is too delicate to carry a formula alone.
 
 The blossom's status as the "first of the four gentlemen" (梅兰竹菊) and the emblem of early spring matters as much as its scent.
@@ -103,9 +103,9 @@ The distinction is functional, not a quality statement. See [incense powder & re
 
 ## In Chinese tradition
 
-- **梅花香 (plum incense):** classical incense recipes built around the plum-blossom theme are among the most famous in the tradition, including the storied 寿阳公主梅花香 (Princess Shouyang's plum incense). The Song-dynasty *Xiangpu* (香譜) includes a 梅花香 method. **Historical Record** — documented classical recipes.
+- **plum incense (梅花香):** classical incense recipes built around the plum-blossom theme are among the most famous in the tradition, including the storied Princess Shouyang's plum incense (寿阳公主梅花香). The Song-dynasty *Xiangpu* (香譜) includes a 梅花香 method. **Historical Record** — documented classical recipes.
 - **Seasonal culture:** plum blossom is the emblem of early spring and the "first of the four gentlemen" (梅兰竹菊), woven through poetry, painting, and seasonal ritual. **Historical Record** — documented cultural motif.
-- **A naming caution:** "梅花" also names a *grade of borneol* — 梅花脑 / 梅花片, the top ice-like borneol crystal. That is 龙脑 (borneol), a completely different material. **Modern Industry Practice** — market terminology.
+- **A naming caution:** "梅花" also names a *grade of borneol* — 梅花脑 / 梅花片, the top ice-like borneol crystal. That is borneol (龙脑), a completely different material. **Modern Industry Practice** — market terminology.
 
 ## Traditional use vs modern evidence
 
@@ -179,7 +179,7 @@ Plum blossom (梅花) is the late-winter flower of *Prunus mume* (syn. *Armeniac
 
 **Is the "plum" in plum blossom the same as a European plum?** Not exactly. *Prunus mume* is a close relative of the apricot, native to East Asia and grown for its winter blossom and its fruit (乌梅), not the European plum. The English name "plum blossom" is a translation of convenience for 梅 (méi). The botanical identity that matters is *Prunus mume*, the winter-blooming "mei."
 
-**What is the difference between 梅花 and 乌梅?** Both come from the same tree, *Prunus mume*. 梅花 (méihuā) is the blossom, used dried in floral incense and tea; 乌梅 (wūméi) is the smoked, dried fruit, used in materia medica and cooking. They are different parts of the same plant with different uses, and neither should be confused with the borneol grade 梅花脑 / 梅花片.
+**What is the difference between plum blossom (梅花) and 乌梅?** Both come from the same tree, *Prunus mume*. 梅花 (méihuā) is the blossom, used dried in floral incense and tea; 乌梅 (wūméi) is the smoked, dried fruit, used in materia medica and cooking. They are different parts of the same plant with different uses, and neither should be confused with the borneol grade 梅花脑 / 梅花片.
 
 **Is plum blossom the same as wintersweet?** No. Plum blossom is the flower of *Prunus mume* (Rosaceae), while wintersweet (蜡梅) is *Chimonanthus praecox*, a shrub of a different family (Calycanthaceae) that also blooms in winter. They share the 梅 word and a winter-blooming habit, but they are unrelated plants, and neither should be confused with the borneol grade 梅花脑 / 梅花片.
 
