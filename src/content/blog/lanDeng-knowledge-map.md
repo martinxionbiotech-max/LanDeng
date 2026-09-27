@@ -44,16 +44,18 @@ The relationships dataset ties the entity classes together. It holds 150 entitie
 
 > Eight machine-readable datasets are served as stable JSON from `data.incenseherbs.com/datasets/`. All are licensed CC BY-SA 4.0, are free to access, and carry a version, a `dateModified` date, and a changelog.
 
+<!-- AUTO:dataset-counts:table -->
 | Dataset | JSON path | Entities | Version |
 |---|---|---|---|
 | Ingredient database | `https://data.incenseherbs.com/datasets/ingredients.json` | 150 | 1.1 |
-| Terminology database | `https://data.incenseherbs.com/datasets/terminology.json` | 188 | 1.1 |
+| Terminology database | `https://data.incenseherbs.com/datasets/terminology.json` | 249 | 1.4 |
 | Aroma database | `https://data.incenseherbs.com/datasets/aroma.json` | 10 | 1.0 |
 | Material database | `https://data.incenseherbs.com/datasets/materials.json` | 15 | 1.1 |
 | Comparison database | `https://data.incenseherbs.com/datasets/comparisons.json` | 17 | 1.1 |
 | Technique database | `https://data.incenseherbs.com/datasets/techniques.json` | 12 | 1.1 |
 | Form database | `https://data.incenseherbs.com/datasets/forms.json` | 12 | 1.1 |
 | Relationships database | `https://data.incenseherbs.com/datasets/relationships.json` | 150 | 1.0 |
+<!-- /AUTO:dataset-counts:table -->
 
 Seven of these are mirrored as static JSON under the main site (`/data/*.json`); the relationships dataset, which derives entity links from the other seven, lives on the data site. The relationships dataset introduces no new fact — every edge is derived from the seven source datasets. Each dataset's HTML documentation page lists its fields, entity count, version, and license, so a human can read the schema without opening the JSON.
 
@@ -69,7 +71,7 @@ Every source is assigned one of six evidence tiers, from **Tier 1 (Scientific / 
 
 ### Terminology policy
 
-Chinese is the source of truth; English is the agreed translation. One Chinese word does not always map to one English word, so each term records pinyin, literal meaning, preferred English, and alternates. The canonical Chinese–English glossary is the terminology dataset (188 terms).
+Chinese is the source of truth; English is the agreed translation. One Chinese word does not always map to one English word, so each term records pinyin, literal meaning, preferred English, and alternates. The canonical Chinese–English glossary is the terminology dataset (<!-- AUTO:dataset-counts:terminology-terms -->249<!-- /AUTO:dataset-counts:terminology-terms --> terms).
 
 ### Update policy
 
@@ -111,10 +113,10 @@ Each ingredient page also exposes structured data: a machine-readable definition
 A: It is the index of how LanDeng structures its knowledge — the 150 ingredient entities and their supporting classes, the eight open datasets with their JSON paths, and the source, evidence, terminology, update, and citation policies that govern both. It is written so a human researcher and an AI crawler reach the same understanding of where facts live and how to check them.
 
 ### Q: How many entities and datasets does LanDeng publish?
-A: 150 ingredient entities form the core, supported by 188 terminology terms, 10 aroma families, 15 materials, 17 comparison profiles, 12 techniques, and 12 forms. These are expressed through eight machine-readable datasets, all licensed CC BY-SA 4.0 and served from `data.incenseherbs.com`. The relationships dataset links the entities together without introducing new facts.
+A: 150 ingredient entities form the core, supported by <!-- AUTO:dataset-counts:terminology-terms -->249<!-- /AUTO:dataset-counts:terminology-terms --> terminology terms, 10 aroma families, 15 materials, 17 comparison profiles, 12 techniques, and 12 forms. These are expressed through eight machine-readable datasets, all licensed CC BY-SA 4.0 and served from `data.incenseherbs.com`. The relationships dataset links the entities together without introducing new facts.
 
 ### Q: Where are the JSON datasets?
-A: The canonical files are at `https://data.incenseherbs.com/datasets/` — one file per dataset, such as `ingredients.json` (150 entities) and `terminology.json` (188 terms). Seven of the eight are also mirrored as static JSON under the main site at `/data/*.json`; the relationships dataset lives only on the data site.
+A: The canonical files are at `https://data.incenseherbs.com/datasets/` — one file per dataset, such as `ingredients.json` (150 entities) and `terminology.json` (<!-- AUTO:dataset-counts:terminology-terms -->249<!-- /AUTO:dataset-counts:terminology-terms --> terms). Seven of the eight are also mirrored as static JSON under the main site at `/data/*.json`; the relationships dataset lives only on the data site.
 
 ### Q: How do I cite a LanDeng dataset or page?
 A: Cite the page or dataset URL, and attribute it to "Landeng Tech Team" as the publisher. All datasets are CC BY-SA 4.0, which permits sharing and adaptation with attribution and share-alike. If you need a stable identifier, use the dataset's `@id` (for example `https://data.incenseherbs.com/datasets/ingredients.json`).

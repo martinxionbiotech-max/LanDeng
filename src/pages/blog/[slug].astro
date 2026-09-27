@@ -81,7 +81,9 @@ if (faqMatch) {
   const re = /###\s*Q:\s*(.+?)\n([\s\S]*?)(?=\n###\s*Q:|\n##|$)/g;
   let m;
   while ((m = re.exec(faqMatch[1])) !== null) {
-    const a = m[2].trim();
+    // Strip AUTO:* injection markers (sync-datasets.mjs) from the raw answer
+    // text so they don't leak into the FAQPage structured data.
+    const a = m[2].replace(/<!--\s*\/?AUTO:[\s\S]*?-->/g, '').trim();
     if (a) qa.push({ '@type': 'Question', name: m[1].trim(), acceptedAnswer: { '@type': 'Answer', text: a } });
   }
   if (qa.length > 0) faqJsonLd = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: qa };
