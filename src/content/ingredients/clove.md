@@ -59,11 +59,11 @@ Clove's home is the Moluccas of eastern Indonesia, the original "Spice Islands,"
 
 ## Why is clove used in incense?
 
-> **Direct answer:** Clove is used in Chinese 合香 (blended incense) as a classic warm-spice accent — a pungent, aromatic lift that cuts through sweeter woods and resins. Its strength means it is always blended, usually with cinnamon, citrus peel, or the other five-spice notes.
+> **Direct answer:** Clove is used in Chinese blended incense (合香) as a classic warm-spice accent — a pungent, aromatic lift that cuts through sweeter woods and resins. Its strength means it is always blended, usually with cinnamon, citrus peel, or the other five-spice notes.
 
 In Chinese incense, clove's job is to add a bright, warm, pungent lift to a compound. Because its aroma is intense, it is a seasoning, not a base — a small proportion alongside the other warm spices. It appears in two familiar contexts:
 
-- **合香 (blended incense):** clove is a classic warm-spice ingredient, adding a pungent, aromatic lift.
+- **blended incense (合香):** clove is a classic warm-spice ingredient, adding a pungent, aromatic lift.
 - **Five-spice (五香粉):** clove is one of the traditional five-spice components (with star anise, cassia/cinnamon, Sichuan pepper, and fennel), which is why its aroma reads as familiar and food-adjacent.
 
 ## Clove vs cinnamon
@@ -175,13 +175,13 @@ Clove (丁香) is the dried, unopened flower bud of *Syzygium aromaticum*, a myr
 
 ## FAQ
 
-**Is 丁香 clove or lilac?** Both — the Chinese word 丁香 (dīngxiāng) names two different plants. In a spice or incense context, it means clove, *Syzygium aromaticum*, the dried flower bud prized for its warm, spicy aroma. In a gardening context, it means lilac, *Syringa* species, an ornamental flowering shrub sometimes called 欧丁香 ("European clove"). The two are botanically unrelated, and context distinguishes them. This is one of the classic traps in translating Chinese ingredient lists, so in an incense or spice setting 丁香 always means clove.
+**Is clove (丁香) clove or lilac?** Both — the Chinese word 丁香 (dīngxiāng) names two different plants. In a spice or incense context, it means clove, *Syzygium aromaticum*, the dried flower bud prized for its warm, spicy aroma. In a gardening context, it means lilac, *Syringa* species, an ornamental flowering shrub sometimes called 欧丁香 ("European clove"). The two are botanically unrelated, and context distinguishes them. This is one of the classic traps in translating Chinese ingredient lists, so in an incense or spice setting 丁香 always means clove.
 
 **Is clove a wood or a flower?** A flower bud. Clove is the unopened, dried flower bud of *Syzygium aromaticum*, a member of the myrtle family (Myrtaceae), not a wood or bark. The buds are harvested before they open and dried, turning from red to the familiar brown "nail" shape — the English word "clove" itself derives from the Latin *clavus*, meaning "nail." Because the aromatic part is the bud rather than wood or resin, clove has a distinctive sharp, spicy character unlike woody or resinous ingredients.
 
 **What does clove smell like?** Clove has a sharp, warm, spicy, slightly sweet aroma — one of the most penetrating spice notes. Its scent is driven by eugenol, which gives clove oil its characteristic pungency. In an incense blend, clove adds a bright, almost medicinal sharpness that cuts through sweeter woods and resins. It is useful in small doses and overwhelming in large ones, which is why it usually acts as a supporting "hot spice" note that balances a soft base like sandalwood or benzoin rather than leading the blend.
 
-**Is clove used in Chinese incense?** Yes. Clove (丁香) is a classic warm-spice ingredient in Chinese 合香 (blended incense), adding a pungent, aromatic lift. Its bright, penetrating character cuts through sweeter woods and resins, so it is used in small amounts as an accent rather than a base. Clove also appears in Chinese five-spice (五香粉), alongside star anise, cassia, Sichuan pepper, and fennel, which is why its aroma reads as familiar and food-adjacent. It is one of the traditional spice notes of classical incense formulas.
+**Is clove used in Chinese incense?** Yes. Clove (丁香) is a classic warm-spice ingredient in Chinese blended incense (合香), adding a pungent, aromatic lift. Its bright, penetrating character cuts through sweeter woods and resins, so it is used in small amounts as an accent rather than a base. Clove also appears in Chinese five-spice (五香粉), alongside star anise, cassia, Sichuan pepper, and fennel, which is why its aroma reads as familiar and food-adjacent. It is one of the traditional spice notes of classical incense formulas.
 
 **Where does clove come from?** Clove comes from the dried flower buds of *Syzygium aromaticum*, harvested before the buds open and then dried until they turn brown. Major producing regions include Indonesia — historically the Moluccas, the spice's original home — as well as Madagascar, Zanzibar, and Sri Lanka. The buds are picked by hand before flowering, which is labor-intensive and contributes to clove's value. After drying, the buds are sold whole or ground for use as a spice, in incense, and in traditional materia medica.
 
