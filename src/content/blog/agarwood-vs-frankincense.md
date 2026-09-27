@@ -64,7 +64,7 @@ The two aromas occupy opposite ends of a blend:
 | Behavior on heat | Develops in stages (头香 / 本香 / 尾香) | Releases cleanly, melts and volatilizes |
 | Role in a blend | Base note — anchors and deepens | Top note — lifts heavier woods and resins |
 
-Because agarwood is a base and frankincense a top note, the two are **complements in the same blend**, not competitors: a small amount of frankincense can lift a heavy agarwood-centered formula, which is part of why both appear in classical 合香 (compound incense).
+Because agarwood is a base and frankincense a top note, the two are **complements in the same blend**, not competitors: a small amount of frankincense can lift a heavy agarwood-centered formula, which is part of why both appear in classical compound incense (合香).
 
 ## Heating Method: Why Neither Is Usually Burned
 
