@@ -73,13 +73,13 @@ The natural and synthetic forms are chemically related but not identical — the
 
 > **Direct answer:** Borneol is used as a bright, cooling top note that cuts through heavier woods and resins, adding clarity and an "opening" lift to a blend. It is potent and used sparingly.
 
-Borneol's role in incense follows from its aroma: sharp, camphoraceous, and cooling, it sits at the **top** of a blend, where a small amount brightens and "opens" heavier materials that would otherwise feel dense or closed. In 合香 (blended incense) it is a classic 使 (messenger/opener) note, used sparingly precisely because it is potent. Its cooling feel, tied to the TRPM8 receptor, adds a sensory layer that most aromatics lack.
+Borneol's role in incense follows from its aroma: sharp, camphoraceous, and cooling, it sits at the **top** of a blend, where a small amount brightens and "opens" heavier materials that would otherwise feel dense or closed. In blended incense (合香) it is a classic 使 (messenger/opener) note, used sparingly precisely because it is potent. Its cooling feel, tied to the TRPM8 receptor, adds a sensory layer that most aromatics lack.
 
 ## In Chinese tradition
 
 > **Direct answer:** Borneol is a classic cool, sharp top note in Chinese incense (合香), and 冰片 appears in traditional Chinese medicine described for a cooling sensation and as a "carrier" that aids the penetration of other ingredients.
 
-- **Incense (香):** borneol is a classic cool, sharp top note in 合香 (blended incense), used to brighten and "open" heavier blends.
+- **Incense (香):** borneol is a classic cool, sharp top note in blended incense (合香), used to brighten and "open" heavier blends.
 - **Materia medica:** 冰片 appears in traditional Chinese medicine, where it is described for a cooling sensation and as a "carrier" that aids the penetration of other ingredients.
 - **Perfumery:** borneol and its relatives are used as a camphoraceous note and fixative.
 
@@ -176,7 +176,7 @@ Borneol (龙脑 / 冰片) is a crystalline monoterpene, not a wood or resin, obt
 
 **Is borneol the same as camphor?** No — borneol and camphor are related but distinct monoterpenes. Borneol has a cooling, minty-woody character, while camphor is sharper and more pungent. They are chemically related, and borneol can slowly oxidize toward camphor over time, which is why aged borneol may smell more camphoraceous, but they are not the same compound. The distinction matters because "borneol" on a label can also hide synthetic material or a mixture of isomers, so the source — not just the name — determines what you are actually getting.
 
-**What is the difference between 龙脑 and 冰片?** 龙脑 (lóngnǎo) is the broader name for borneol as an aromatic material, literally "dragon brain." 冰片 (bīngpiàn) most often refers to the refined crystalline form, though the two terms overlap in practice. Both names cover natural and synthetic sources: natural d-borneol from *Dryobalanops aromatica* resin or camphor-tree leaves, l-borneol (艾片) from *Blumea balsamifera*, and synthetic borneol made from turpentine or camphor. Because the name does not specify the source, buyers should check which form they are getting.
+**What is the difference between borneol (龙脑) and borneol crystal (冰片)?** 龙脑 (lóngnǎo) is the broader name for borneol as an aromatic material, literally "dragon brain." 冰片 (bīngpiàn) most often refers to the refined crystalline form, though the two terms overlap in practice. Both names cover natural and synthetic sources: natural d-borneol from *Dryobalanops aromatica* resin or camphor-tree leaves, l-borneol (艾片) from *Blumea balsamifera*, and synthetic borneol made from turpentine or camphor. Because the name does not specify the source, buyers should check which form they are getting.
 
 **What does borneol smell like?** Borneol has a sharp, camphor-like, cooling scent, often described as minty or slightly medicinal. It is a bright, penetrating top note that cuts through heavier woods and resins, adding clarity to a blend. Alongside the aroma, borneol imparts a distinct cooling sensation — it activates the same TRPM8 cold receptor as menthol, though more weakly. This combination of a piercing scent and a cooling feel is what makes borneol the classic "cooling" note in Chinese incense and materia medica.
 
