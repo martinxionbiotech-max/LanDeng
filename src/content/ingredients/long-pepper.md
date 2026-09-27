@@ -44,15 +44,15 @@ The register is worth stating against black pepper: long pepper's heat is often 
 
 ## Chinese name and terminology
 
-> **Direct answer:** 荜茇 (bìbá), also written 荜拔, is the Chinese name for *Piper longum*, recording an ancient Indian origin (Sanskrit *pippalī*). It belongs to the pepper-family name cluster alongside 胡椒 (black pepper) and 荜澄茄 (cubeb) — three different spices that share the pepper register but not the species.
+> **Direct answer:** 荜茇 (bìbá), also written 荜拔, is the Chinese name for *Piper longum*, recording an ancient Indian origin (Sanskrit *pippalī*). It belongs to the pepper-family name cluster alongside black pepper (胡椒) and cubeb (荜澄茄) — three different spices that share the pepper register but not the species.
 
-The name 荜茇 (also 荜拔) is a phonetic rendering of the ancient Indian name for the spice (cf. Sanskrit *pippalī*), recording the material's South Asian origin in the same way 阿魏 records asafoetida's Central Asian origin. It sits in the pepper-family name cluster: 胡椒 (black pepper), 荜澄茄 (cubeb), and 荜茇 (long pepper) are three distinct *Piper* species, and the names — though they share the pepper register — identify different fruit forms and different spices. For a buyer, the name alone does not separate them; the species does.
+The name 荜茇 (also 荜拔) is a phonetic rendering of the ancient Indian name for the spice (cf. Sanskrit *pippalī*), recording the material's South Asian origin in the same way 阿魏 records asafoetida's Central Asian origin. It sits in the pepper-family name cluster: black pepper (胡椒), cubeb (荜澄茄), and long pepper (荜茇) are three distinct *Piper* species, and the names — though they share the pepper register — identify different fruit forms and different spices. For a buyer, the name alone does not separate them; the species does.
 
 ## Why is it used in incense?
 
 > **Direct answer:** Long pepper appears as a warm spice accent in some 合香 blends, alongside other spices, rather than as a classical defining material. Its role is a warm, piquant depth — a pungent lift that supports the aromatic core without leading it.
 
-Long pepper's incense role is a **warm spice accent**: it appears in some 合香 (blended incense) contexts alongside other spices, contributing a warm, piquant depth rather than serving as a defining material. Its pungency is used as a supporting note — a warm lift beneath the resins and woods — rather than as a lead fragrance. This is consistent with its culinary identity as a spice, and it places long pepper in the spice-accent layer of a formula rather than the aromatic core.
+Long pepper's incense role is a **warm spice accent**: it appears in some blended incense (合香) contexts alongside other spices, contributing a warm, piquant depth rather than serving as a defining material. Its pungency is used as a supporting note — a warm lift beneath the resins and woods — rather than as a lead fragrance. This is consistent with its culinary identity as a spice, and it places long pepper in the spice-accent layer of a formula rather than the aromatic core.
 
 ## How is it processed?
 
@@ -98,7 +98,7 @@ The culinary role is well documented. Medicinal uses are **traditional**, not es
 Practical points for buyers:
 
 - Whole long pepper should be dark, dense, and strongly pungent-aromatic; the slender spike form is normal, not a defect.
-- Distinguish 荜茇 (long pepper) from black pepper and cubeb — three different pepper-family spices.
+- Distinguish long pepper (荜茇) from black pepper and cubeb — three different pepper-family spices.
 - In incense, long pepper is a warm spice accent, usually blended, not burned alone.
 
 ## The pepper family: long pepper vs black pepper vs cubeb
@@ -137,7 +137,7 @@ Long pepper (荜茇) is the dried, immature fruit spike of *Piper longum*, a cli
 
 **What does long pepper smell like?** Pungent and warm, with a sweet, lingering heat that is often described as hotter but more rounded than black pepper — a penetrating, almost resinous warmth. In incense it acts as a warm, piquant spice accent that deepens a blend rather than serving as a base note.
 
-**What is 荜茇 in Chinese tradition?** 荜茇 (long pepper) is a warm, pungent culinary spice and a recorded materia-medica warming aromatic, listed in the 本草綱目 草部. It is also used as a warm spice accent in some 合香 (blended incense) contexts alongside other spices. Its name records an ancient Indian origin, related to the Sanskrit *pippalī*.
+**What is long pepper (荜茇) in Chinese tradition?** long pepper (荜茇) is a warm, pungent culinary spice and a recorded materia-medica warming aromatic, listed in the 本草綱目 草部. It is also used as a warm spice accent in some blended incense (合香) contexts alongside other spices. Its name records an ancient Indian origin, related to the Sanskrit *pippalī*.
 
 **Where does long pepper come from?** From *Piper longum*, a climbing vine native to South and Southeast Asia — India, the Himalayan foothills, and parts of Southeast Asia — now cultivated across the tropics. The dried, immature fruit spike is the part used, and the spice has been traded for centuries, predating black pepper in many traditions.
 
@@ -154,7 +154,7 @@ See also: [cubeb](/ingredients/cubeb/), [clove](/ingredients/clove/), [pepper](/
 **Source:** 荜茇 as a culinary spice and materia-medica warming aromatic, recorded in the 本草綱目 草部. **Evidence type:** Historically documented — culinary use; medicinal uses are traditional, not modern clinical evidence.
 
 ### Authenticity / disambiguation
-**Source:** 荜茇 (long pepper) vs black pepper (*Piper nigrum*) vs cubeb (*Piper cubeba*) — three pepper-family spices. **Evidence type:** Practical screening.
+**Source:** long pepper (荜茇) vs black pepper (*Piper nigrum*) vs cubeb (*Piper cubeba*) — three pepper-family spices. **Evidence type:** Practical screening.
 
 ### Safety
 **Source:** incense combustion produces smoke and particulate matter; burn in a well-ventilated space. **Evidence type:** Established.
