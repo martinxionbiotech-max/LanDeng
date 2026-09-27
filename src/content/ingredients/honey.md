@@ -14,7 +14,7 @@ related: ["musk", "ambergris"]
 
 <img src="/images/honey-raw-material-800x533.webp" alt="Raw Honey (Apis mellifera (honey bee) — bee product, not botanical) material, editorial still life" width="800" height="533" loading="lazy">
 
-> **Direct answer:** Honey (蜂蜜, fēngmì) is the nectar-derived product of the honey bee (*Apis mellifera*), a bee product rather than a botanical. In Chinese incense it is not a fragrance in itself but the classical binder of 合香 (blended incense): the Ming *Xiangcheng* (香乘) repeatedly specifies honey as the agent that binds ground incense powders into pills and cakes — "以蜜和香" (use honey to blend the incense).
+> **Direct answer:** Honey (蜂蜜, fēngmì) is the nectar-derived product of the honey bee (*Apis mellifera*), a bee product rather than a botanical. In Chinese incense it is not a fragrance in itself but the classical binder of blended incense (合香): the Ming *Xiangcheng* (香乘) repeatedly specifies honey as the agent that binds ground incense powders into pills and cakes — "以蜜和香" (use honey to blend the incense).
 
 ## Key facts
 
@@ -24,7 +24,7 @@ related: ["musk", "ambergris"]
 | Source | *Apis mellifera* (honey bee) — a bee product, not botanical |
 | What it is | A natural binder, not a burned fragrance |
 | Aroma | Sweet, floral, warm, faintly caramel |
-| Traditional role | 合香 binder (以蜜和香); also 炼蜜 (refined honey) |
+| Traditional role | 合香 binder (以蜜和香); also refined honey (炼蜜) |
 
 ## Aroma profile
 
@@ -38,13 +38,13 @@ The scent note itself matters in a subtle way, though: honey's gentle sweetness 
 
 > **Direct answer:** Honey belongs to the process side of classical incense, not the fragrance side. In the 香乘, the compounding principle is 君臣佐使 (sovereign–minister–assistant–guide), and the guide (使) is frequently a binder — honey, makko, or musk — that fixes the powder and carries the burn.
 
-蜂蜜 belongs to the *process* side of classical incense, not the fragrance side. In the 香乘 the compounding principle is 君臣佐使 (sovereign–minister–assistant–guide), and the guide (使) is frequently a binder — honey, makko, or musk — that fixes the powder and carries the burn. The 香乘 formula for 江南李主帐中香 (Jiangnan Li Zhu bedchamber incense), for example, records the ingredients "沉香、檀香、乳香、琥珀、蜂蜜、茉莉花" — agarwood, sandalwood, frankincense, amber, honey, jasmine — with the instruction to bind the ground materials in honey, roll into pills, and coat the outside with dried jasmine. Honey is the *structural* ingredient; the scent comes from the others. See the [Jiangnan Li Zhu bedchamber recipe](/blog/jiangnan-lizhu-bedchamber-recipe/).
+蜂蜜 belongs to the *process* side of classical incense, not the fragrance side. In the 香乘 the compounding principle is 君臣佐使 (sovereign–minister–assistant–guide), and the guide (使) is frequently a binder — honey, makko, or musk — that fixes the powder and carries the burn. The 香乘 formula for Jiangnan Li Zhu bedchamber incense (江南李主帐中香), for example, records the ingredients "沉香、檀香、乳香、琥珀、蜂蜜、茉莉花" — agarwood, sandalwood, frankincense, amber, honey, jasmine — with the instruction to bind the ground materials in honey, roll into pills, and coat the outside with dried jasmine. Honey is the *structural* ingredient; the scent comes from the others. See the [Jiangnan Li Zhu bedchamber recipe](/blog/jiangnan-lizhu-bedchamber-recipe/).
 
 ## Botanical source and origin
 
 > **Direct answer:** Honey is produced by honey bees, chiefly the Western honey bee *Apis mellifera*, from flower nectar. It is an animal-derived product, not a plant material, and so sits outside the botanical encyclopedia proper — but it is indispensable to the classical incense craft precisely because it is a clean, sweet binder that does not intrude on the fragrance.
 
-Honey is produced by honey bees, chiefly the Western honey bee *Apis mellifera*, from flower nectar. It is an animal-derived product, not a plant material, and so sits outside the botanical encyclopedia proper — but it is indispensable to the classical incense craft precisely because it is not a scent: it is a clean, sweet binder that does not intrude on the fragrance. The classical manuals also distinguish 生蜜 (raw honey) from 炼蜜 (refined honey, simmered to remove foam and excess water), the latter preferred for incense because it stores and binds better.
+Honey is produced by honey bees, chiefly the Western honey bee *Apis mellifera*, from flower nectar. It is an animal-derived product, not a plant material, and so sits outside the botanical encyclopedia proper — but it is indispensable to the classical incense craft precisely because it is not a scent: it is a clean, sweet binder that does not intrude on the fragrance. The classical manuals also distinguish raw honey (生蜜) from 炼蜜 (refined honey, simmered to remove foam and excess water), the latter preferred for incense because it stores and binds better.
 
 The bee origin matters for sourcing: honey is a *bee product*, and its character — floral source, moisture content, viscosity — depends on the nectar the bees gathered and on how the honey was handled and refined. A binder's quality is not its "flavor" but its *working properties*: moisture, stickiness, and stability.
 
@@ -54,15 +54,15 @@ The bee origin matters for sourcing: honey is a *bee product*, and its character
 
 蜂蜜 and 蜂蜡 come from the **same bees, different products**, and the classical record keeps them distinct:
 
-- **蜂蜜 (honey)** — the nectar-derived sweet, used as the 合香 *binder* (以蜜和香). This entry.
-- **蜂蜡 / 蜜蜡 (beeswax)** — the wax of the honeycomb, used as a molding and coating material. Its own entry.
+- **honey (蜂蜜)** — the nectar-derived sweet, used as the 合香 *binder* (以蜜和香). This entry.
+- **蜂蜡 / beeswax (蜜蜡)** — the wax of the honeycomb, used as a molding and coating material. Its own entry.
 
 The *Bencao Gangmu* (本草纲目), in its insect section (虫之一), lists them separately — 蜂蜜 then 蜜蜡 then 蜜蜂 — treating them as distinct products with distinct uses. A buyer should not conflate them: honey binds a powder into a dough; beeswax molds and coats a formed body. See [beeswax](/ingredients/beeswax/).
 
 ## In Chinese tradition
 
 - **合香 binder (Historical Record):** honey is the classical binding agent of blended incense, recorded throughout 香乘 as the medium that forms powders into pills and cakes (以蜜和香).
-- **炼蜜 (refined honey) (Historical Record):** the manuals specify simmering honey to remove foam and water before use, producing a more stable binder.
+- **refined honey (炼蜜) (Historical Record):** the manuals specify simmering honey to remove foam and water before use, producing a more stable binder.
 - **Not a scent:** honey's role is structural; the fragrance of a 合香 formula comes from the aromatic ingredients, not from the binder.
 - **Materia medica (Traditional Use):** 蜂蜜 appears in traditional Chinese medicine with described uses. Traditional materia-medica language, not modern clinical evidence.
 
@@ -71,7 +71,7 @@ The *Bencao Gangmu* (本草纲目), in its insect section (虫之一), lists the
 > **Direct answer:** The binding use is documented in the classical manuals. We make no medical claims about honey here. The documented, non-medical facts are the bee origin, the animal-derived (non-botanical) classification, and the binder role in 合香.
 
 - **Traditional Use** — 蜂蜜 in the 本草綱目, with described medicinal uses. Traditional materia-medica language, not modern clinical evidence.
-- **Historical Record** — the 香乘 record of honey as the 合香 binder (以蜜和香), including 江南李主帐中香 and the use of 炼蜜 (refined honey).
+- **Historical Record** — the 香乘 record of honey as the 合香 binder (以蜜和香), including 江南李主帐中香 and the use of refined honey (炼蜜).
 - **Scientific Evidence** — the source identity (*Apis mellifera*, the honey bee) and honey's composition as a nectar-derived bee product are established. We present no clinical or medical efficacy claims.
 
 The binding use is documented in the classical manuals. We make **no medical claims** about honey here. The documented, non-medical facts are the bee origin, the animal-derived (non-botanical) classification, and the binder role in 合香.
@@ -84,7 +84,7 @@ Honey's role in 合香 is purely structural, and it is chosen for exactly that r
 
 ## How is it processed?
 
-> **Direct answer:** Honey's processing for incense is refinement, not extraction: raw honey (生蜜) is gently simmered to remove foam and excess water, producing 炼蜜 (refined honey), which stores better and binds more stably. This single step is the difference between a workable binder and a sticky, unstable one.
+> **Direct answer:** Honey's processing for incense is refinement, not extraction: raw honey (生蜜) is gently simmered to remove foam and excess water, producing refined honey (炼蜜), which stores better and binds more stably. This single step is the difference between a workable binder and a sticky, unstable one.
 
 The processing is a matter of **refinement**, and the classical manuals are specific about it:
 
@@ -96,7 +96,7 @@ The key step is 炼蜜: raw honey is watery and foamy, and a pill bound in raw h
 
 ## What determines quality?
 
-> **Direct answer:** For incense, honey quality is not flavor but working properties: moisture content, viscosity, and stability. 炼蜜 (refined honey) is preferred over 生蜜 (raw honey) because it is thicker and more stable. The floral source matters less than the refinement.
+> **Direct answer:** For incense, honey quality is not flavor but working properties: moisture content, viscosity, and stability. refined honey (炼蜜) is preferred over raw honey (生蜜) because it is thicker and more stable. The floral source matters less than the refinement.
 
 The quality factors for honey-as-binder:
 
@@ -109,12 +109,12 @@ There is no standardized grading ladder for incense honey; the practical signal 
 
 ## Common forms
 
-> **Direct answer:** Honey reaches incense in two working forms — 生蜜 (raw honey) and 炼蜜 (refined honey) — with refined honey the preferred binder. It is used as a liquid/dough medium, not a dried powder.
+> **Direct answer:** Honey reaches incense in two working forms — raw honey (生蜜) and refined honey (炼蜜) — with refined honey the preferred binder. It is used as a liquid/dough medium, not a dried powder.
 
 | Form | Use |
 |---|---|
-| 生蜜 (raw honey) | Rarely used as-is; too watery and unstable for binding |
-| 炼蜜 (refined honey) | The standard 合香 binder, simmered to remove foam and water |
+| raw honey (生蜜) | Rarely used as-is; too watery and unstable for binding |
+| refined honey (炼蜜) | The standard 合香 binder, simmered to remove foam and water |
 
 The distinction is one of processing, not of a different product — the same honey, refined. For a buyer or maker, the practical choice is 炼蜜.
 
@@ -125,7 +125,7 @@ The distinction is one of processing, not of a different product — the same ho
 For an incense maker or sourcing buyer:
 
 - **Role** — confirm you are buying honey as a *binder* (以蜜和香), not as a fragrance.
-- **Refinement** — specify 炼蜜 (refined honey), which binds more stably than raw 生蜜.
+- **Refinement** — specify refined honey (炼蜜), which binds more stably than raw 生蜜.
 - **Moisture and viscosity** — the binder should be thick and dry enough to hold a form; excess water invites slump and mold.
 - **Cleanliness** — freedom from foreign matter and fermentation.
 
@@ -149,17 +149,17 @@ In our view, the professional framing for honey is a **refined, stable, clean bi
 
 ## Summary
 
-Honey (蜂蜜) is the nectar-derived product of the honey bee (*Apis mellifera*), and the classical binder of 合香 — the material that turns loose incense powders into formable, storable pills and cakes (以蜜和香). It is a process ingredient, not an aromatic: its value is structural, and the classical manuals' key distinction is 炼蜜 (refined honey) over 生蜜 (raw honey) for a more stable bind. It is distinct from beeswax (蜂蜡), the same bees' comb wax used for molding and coating. Commercially, honey is bought for its working properties — refinement, moisture, stability — not its flavor.
+Honey (蜂蜜) is the nectar-derived product of the honey bee (*Apis mellifera*), and the classical binder of 合香 — the material that turns loose incense powders into formable, storable pills and cakes (以蜜和香). It is a process ingredient, not an aromatic: its value is structural, and the classical manuals' key distinction is refined honey (炼蜜) over raw honey (生蜜) for a more stable bind. It is distinct from beeswax (蜂蜡), the same bees' comb wax used for molding and coating. Commercially, honey is bought for its working properties — refinement, moisture, stability — not its flavor.
 
 ## FAQ
 
-**What is honey's role in Chinese incense?** Honey is the classical binder of 合香 (blended incense), not a fragrance. The Ming-dynasty *Xiangcheng* (香乘) specifies honey as the agent that binds ground incense powders into pills and cakes — "以蜜和香" (use honey to blend the incense) — a structural material rather than a scent.
+**What is honey's role in Chinese incense?** Honey is the classical binder of blended incense (合香), not a fragrance. The Ming-dynasty *Xiangcheng* (香乘) specifies honey as the agent that binds ground incense powders into pills and cakes — "以蜜和香" (use honey to blend the incense) — a structural material rather than a scent.
 
 **Is honey a botanical ingredient?** No. Honey is a bee product, produced by the honey bee (*Apis mellifera*) from flower nectar. It is animal-derived, not a plant material, and sits outside the botanical encyclopedia proper — though it is indispensable to the incense craft precisely as a clean, non-intrusive binder.
 
 **What does honey smell like in incense?** Sweet and floral, warm and faintly caramel, but its scent is secondary. When it registers, honey reads as a gentle, sweet warmth that softens the burn rather than adding a distinct note. Its real function is physical — binding loose powder into a workable dough.
 
-**What is 炼蜜 (refined honey)?** Refined honey, prepared by simmering raw honey (生蜜) to remove foam and excess water. The classical manuals prefer 炼蜜 for incense because it stores better and binds more stably than raw honey, producing pills and cakes that hold their form.
+**What is refined honey (炼蜜)?** Refined honey, prepared by simmering raw honey (生蜜) to remove foam and excess water. The classical manuals prefer 炼蜜 for incense because it stores better and binds more stably than raw honey, producing pills and cakes that hold their form.
 
 **How does honey fit the 君臣佐使 (sovereign–minister–assistant–guide) principle?** Honey is typically the guide (使) — the binder or fixative that holds a formula together and carries the burn. The fragrance comes from the principal and supporting aromatics; honey's job is structural. For example, the 香乘 records 江南李主帐中香 with agarwood, sandalwood, frankincense, amber, and jasmine bound in honey and coated with dried jasmine.
 
@@ -173,7 +173,7 @@ See also: [beeswax](/ingredients/beeswax/), [hexiang-blending-system](/blog/hexi
 **Source:** [Apis mellifera (Western honey bee) on GBIF](https://www.gbif.org/species/1341976). **Evidence type:** Established — animal-derived (bee product), not botanical.
 
 ### Traditional Chinese use
-**Source:** the Ming-dynasty *Xiangcheng* (香乘) records honey as the binding agent in 合香 formulas (以蜜和香), including 江南李主帐中香 (沉香、檀香、乳香、琥珀、蜂蜜、茉莉花) and the use of 炼蜜 (refined honey). **Evidence type:** Historically documented — structural/binding use.
+**Source:** the Ming-dynasty *Xiangcheng* (香乘) records honey as the binding agent in 合香 formulas (以蜜和香), including 江南李主帐中香 (沉香、檀香、乳香、琥珀、蜂蜜、茉莉花) and the use of refined honey (炼蜜). **Evidence type:** Historically documented — structural/binding use.
 
 ### Authenticity / disambiguation
 **Source:** honey as a bee product (animal-derived, not botanical) vs botanical incense materials; and honey (蜂蜜) vs beeswax (蜂蜡) as distinct bee products. **Evidence type:** Practical screening.
