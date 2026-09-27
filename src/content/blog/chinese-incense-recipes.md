@@ -32,13 +32,13 @@ The English internet almost entirely misses this. Searching for "Chinese incense
 
 | Recipe | Attributed to | Signature note |
 |---|---|---|
-| [雪中春信 (Snow in Spring)](/blog/xuezhong-chunxin-recipe/) | 苏轼 (legend) | Camphor's cool "snow" against warm woods |
-| [江南李主帐中香 (The Lord of Jiangnan's Bedchamber)](/blog/jiangnan-lizhu-bedchamber-recipe/) | 李煜 (Li Yu) | Goose-pear steamed into agarwood |
-| [寿阳公主梅花香 (Shouyang Princess's Plum)](/blog/shouyang-princess-plum-recipe/) | 寿阳公主 (legend) | Plum and herbal notes over sandalwood |
-| [花蕊夫人衙香 (Huarui Furen's Court Incense)](/blog/huarui-furen-yamen-recipe/) | 花蕊夫人 | Rich agarwood–sandalwood–musk court blend |
-| [柏子香 (Cypress-Seed Incense)](/blog/baizi-incense-recipe/) | — (folk/scholarly) | Humble roasted cypress seed |
-| [荷香 (Lotus Incense)](/blog/lotus-incense-recipe/) | 花蕊夫人 (legend) | Lotus over agarwood and sandalwood |
-| [二苏旧局 (The Two Sus' Old Gathering)](/blog/ersu-jiuju-recipe/) | 陈云君 (contemporary) | A modern revival of a scholar's study |
+| [Snow in Spring (雪中春信)](/blog/xuezhong-chunxin-recipe/) | 苏轼 (legend) | Camphor's cool "snow" against warm woods |
+| [The Lord of Jiangnan's Bedchamber (江南李主帐中香)](/blog/jiangnan-lizhu-bedchamber-recipe/) | 李煜 (Li Yu) | Goose-pear steamed into agarwood |
+| [Shouyang Princess's Plum (寿阳公主梅花香)](/blog/shouyang-princess-plum-recipe/) | 寿阳公主 (legend) | Plum and herbal notes over sandalwood |
+| [Huarui Furen's Court Incense (花蕊夫人衙香)](/blog/huarui-furen-yamen-recipe/) | 花蕊夫人 | Rich agarwood–sandalwood–musk court blend |
+| [Cypress-Seed Incense (柏子香)](/blog/baizi-incense-recipe/) | — (folk/scholarly) | Humble roasted cypress seed |
+| [Lotus Incense (荷香)](/blog/lotus-incense-recipe/) | 花蕊夫人 (legend) | Lotus over agarwood and sandalwood |
+| [The Two Sus' Old Gathering (二苏旧局)](/blog/ersu-jiuju-recipe/) | 陈云君 (contemporary) | A modern revival of a scholar's study |
 
 ---
 
@@ -66,7 +66,7 @@ Some recipes also count pieces (枚) — as in "一百枚白梅" (a hundred whit
 
 The crucial caveat: the gram value of the 两 was not constant. It varied by dynasty — roughly 31–41 g across periods — and by region and purpose, so any gram conversion is an approximation. The *ratios between ingredients* are the reliable part of a recipe: "一两沉香, 一钱檀香" is a 10:1 ratio, and that ratio — not the gram count — is the recipe's real content. Every recipe page in this cluster states its proportions (or marks them unverified) and applies this same conversion note.
 
-## How to Read the 君臣佐使 Structure
+## How to Read the chief-minister-assistant-guide (君臣佐使) Structure
 
 Every recipe here is deconstructed by role — **君 (chief), 臣 (minister), 佐 (assistant), 使 (guide)** — the same logic as a Chinese herbal formula. Four questions reveal the structure of any 合香 recipe:
 
@@ -101,13 +101,13 @@ See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incen
 
 ## Cluster directory
 
-- [柏子香 (Cypress-Seed Incense): The Humble Scholar's Incense](/blog/baizi-incense-recipe/)
-- [二苏旧局 (The Two Sus' Old Gathering): A Modern Revival Recipe](/blog/ersu-jiuju-recipe/)
-- [花蕊夫人衙香 (Huarui Furen's Court Incense): Recipe](/blog/huarui-furen-yamen-recipe/)
-- [江南李主帐中香 (The Lord of Jiangnan's Bedchamber Incense): Recipe](/blog/jiangnan-lizhu-bedchamber-recipe/)
-- [荷香 (Lotus Incense): The Symbol Over the Flower](/blog/lotus-incense-recipe/)
-- [寿阳公主梅花香 (Shouyang Princess's Plum Incense): Recipe](/blog/shouyang-princess-plum-recipe/)
-- [雪中春信 (Snow in Spring): The Recipe and Its Cool 'Snow' Note](/blog/xuezhong-chunxin-recipe/)
+- [Cypress-Seed Incense (柏子香): The Humble Scholar's Incense](/blog/baizi-incense-recipe/)
+- [The Two Sus' Old Gathering (二苏旧局): A Modern Revival Recipe](/blog/ersu-jiuju-recipe/)
+- [Huarui Furen's Court Incense (花蕊夫人衙香): Recipe](/blog/huarui-furen-yamen-recipe/)
+- [The Lord of Jiangnan's Bedchamber Incense (江南李主帐中香): Recipe](/blog/jiangnan-lizhu-bedchamber-recipe/)
+- [Lotus Incense (荷香): The Symbol Over the Flower](/blog/lotus-incense-recipe/)
+- [Shouyang Princess's Plum Incense (寿阳公主梅花香): Recipe](/blog/shouyang-princess-plum-recipe/)
+- [Snow in Spring (雪中春信): The Recipe and Its Cool 'Snow' Note](/blog/xuezhong-chunxin-recipe/)
 
 ## FAQ
 
