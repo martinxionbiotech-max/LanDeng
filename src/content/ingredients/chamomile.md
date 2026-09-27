@@ -28,17 +28,17 @@ related: ["lavender", "rose", "bergamot"]
 
 ## Aroma profile
 
-> **Direct answer:** 洋甘菊 (chamomile) has a soft, sweet, gently fruity scent with an apple-like, hay-like warmth — the mild, comforting smell of chamomile tea rather than a heady flower. It is quieter and more herbal-warm than rose or jasmine, and reads as a calm, mellow note.
+> **Direct answer:** chamomile (洋甘菊) has a soft, sweet, gently fruity scent with an apple-like, hay-like warmth — the mild, comforting smell of chamomile tea rather than a heady flower. It is quieter and more herbal-warm than rose or jasmine, and reads as a calm, mellow note.
 
-洋甘菊 (chamomile) has a soft, sweet, gently fruity scent with an apple-like, hay-like warmth — the mild, comforting smell of chamomile tea rather than a heady flower. It is quieter and more herbal-warm than rose or jasmine, and reads as a calm, mellow note.
+chamomile (洋甘菊) has a soft, sweet, gently fruity scent with an apple-like, hay-like warmth — the mild, comforting smell of chamomile tea rather than a heady flower. It is quieter and more herbal-warm than rose or jasmine, and reads as a calm, mellow note.
 
 The apple note is chamomile's signature — indeed the name "chamomile" itself descends from Greek "earth-apple" (*chamaimēlon*), recording that faint apple-like scent. It is a *quiet* flower: not heady like jasmine, not rosy like rose, but soft and hay-warm, closer to a dried herb than to an opulent bloom.
 
 ## A provenance note (read this)
 
-> **Direct answer:** 洋甘菊 (chamomile) is a modern crossover, not a classical Chinese 香材: *Matricaria chamomilla* is a European and western-Asian species with no native Chinese status. The 洋 ("foreign") prefix in its name marks it as non-native, and its use is modern aromatherapy and tea.
+> **Direct answer:** chamomile (洋甘菊) is a modern crossover, not a classical Chinese 香材: *Matricaria chamomilla* is a European and western-Asian species with no native Chinese status. The 洋 ("foreign") prefix in its name marks it as non-native, and its use is modern aromatherapy and tea.
 
-洋甘菊 (chamomile) is a **modern crossover**, not a classical Chinese 香材:
+chamomile (洋甘菊) is a **modern crossover**, not a classical Chinese 香材:
 
 - *Matricaria chamomilla* is a European and western-Asian species, not native to China; Flora of China does not record it as native.
 - The Chinese name 洋甘菊 ("foreign sweet-chrysanthemum") marks it as non-native — the "洋" (foreign) prefix distinguishes it from the native chrysanthemum (菊花, *Chrysanthemum*), which **is** a classical Chinese flower.
@@ -48,7 +48,7 @@ This page records it honestly as a modern aromatherapy flower — **no classical
 
 ## The "洋" (foreign) prefix (read this)
 
-> **Direct answer:** The 洋 (yáng, "foreign") prefix in 洋甘菊 is a systematic Chinese botanical convention for marking non-native plants: 洋甘菊 means "foreign sweet-chrysanthemum," explicitly distinguishing the European chamomile from the native 菊花 (chrysanthemum). The prefix is the provenance marker.
+> **Direct answer:** The 洋 (yáng, "foreign") prefix in 洋甘菊 is a systematic Chinese botanical convention for marking non-native plants: 洋甘菊 means "foreign sweet-chrysanthemum," explicitly distinguishing the European chamomile from the native chrysanthemum (菊花). The prefix is the provenance marker.
 
 The name 洋甘菊 (yánggānjú) is a *prefixed* foreign name, and the prefix is systematic:
 
@@ -57,14 +57,14 @@ The name 洋甘菊 (yánggānjú) is a *prefixed* foreign name, and the prefix i
 
 So 洋甘菊 means literally **"foreign sweet-chrysanthemum"** — a name that both borrows the native chrysanthemum's flower (菊花, a classical Chinese flower) and flags the chamomile as non-native via the 洋 prefix. This is the third foreign-naming pattern in this encyclopedia: descriptive (薰衣草, "clothes-scenting herb"), phonetic (依兰, sound-borrowed), and prefixed (洋甘菊, "foreign X"). The prefix is a clear, honest provenance marker — the plant is foreign, and the name says so.
 
-## The 洋甘菊 / 菊花 distinction (read this)
+## The chamomile (洋甘菊) / chrysanthemum (菊花) distinction (read this)
 
-> **Direct answer:** 洋甘菊 (chamomile) and 菊花 (chrysanthemum) are both daisy-family (Asteraceae) flowers, but 洋甘菊 is the European *Matricaria chamomilla*, while 菊花 is the native *Chrysanthemum*, a classical Chinese flower. The 洋 prefix is what separates them.
+> **Direct answer:** chamomile (洋甘菊) and chrysanthemum (菊花) are both daisy-family (Asteraceae) flowers, but 洋甘菊 is the European *Matricaria chamomilla*, while 菊花 is the native *Chrysanthemum*, a classical Chinese flower. The 洋 prefix is what separates them.
 
 The two daisy-family flowers share a family and a "chrysanthemum" name, but are different plants:
 
-- **洋甘菊 (chamomile)** — *Matricaria chamomilla*, the European "foreign sweet-chrysanthemum." This entry.
-- **菊花 (chrysanthemum)** — *Chrysanthemum*, the native Chinese flower, a classical 香材 and cultural flower. Its own entry.
+- **chamomile (洋甘菊)** — *Matricaria chamomilla*, the European "foreign sweet-chrysanthemum." This entry.
+- **chrysanthemum (菊花)** — *Chrysanthemum*, the native Chinese flower, a classical 香材 and cultural flower. Its own entry.
 
 Both are Asteraceae, hence the shared "chrysanthemum" in chamomile's Chinese name — but chamomile is European and marked 洋 (foreign), while 菊花 is native and classical. They are different genera, and the prefix is the whole distinction. See [chrysanthemum](/ingredients/chrysanthemum/).
 
@@ -84,9 +84,9 @@ The German-vs-Roman distinction is the botanical point: "chamomile" covers two d
 
 ## Traditional use vs modern evidence
 
-> **Direct answer:** There is no classical Chinese incense record for 洋甘菊 (chamomile); its position is entirely modern. We make no medical claims. The documented facts are botanical identity, the Asteraceae placement, and its modern aromatherapy role.
+> **Direct answer:** There is no classical Chinese incense record for chamomile (洋甘菊); its position is entirely modern. We make no medical claims. The documented facts are botanical identity, the Asteraceae placement, and its modern aromatherapy role.
 
-There is **no classical Chinese incense record** for 洋甘菊 (chamomile); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Asteraceae placement, and its modern aromatherapy role.
+There is **no classical Chinese incense record** for chamomile (洋甘菊); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Asteraceae placement, and its modern aromatherapy role.
 
 ## Why is chamomile used in modern aromatherapy?
 
@@ -131,12 +131,12 @@ The dried flower is the milder, simpler form; the oil is the concentrated fragra
 
 ## What buyers should look for
 
-> **Direct answer:** Buyers should confirm the species — German chamomile (*Matricaria chamomilla*) rather than Roman (*Chamaemelum nobile*) — and distinguish it from the native 菊花 (chrysanthemum). Expect a soft, mellow, apple-like note, a modern addition rather than a classical 香材.
+> **Direct answer:** Buyers should confirm the species — German chamomile (*Matricaria chamomilla*) rather than Roman (*Chamaemelum nobile*) — and distinguish it from the native chrysanthemum (菊花). Expect a soft, mellow, apple-like note, a modern addition rather than a classical 香材.
 
 For a buyer or sourcing reader:
 
 - **Species** — German chamomile (*Matricaria chamomilla*) vs Roman (*Chamaemelum nobile*); different genera.
-- **Identity** — distinguish 洋甘菊 (chamomile) from 菊花 (native chrysanthemum) — the 洋 prefix marks the foreign origin.
+- **Identity** — distinguish chamomile (洋甘菊) from native chrysanthemum (菊花) — the 洋 prefix marks the foreign origin.
 - **Form** — dried flowers vs essential oil, depending on use.
 - **Role** — expect a soft, mellow, apple-like note, a modern addition.
 
@@ -164,15 +164,15 @@ Chamomile (洋甘菊, "foreign sweet-chrysanthemum") is *Matricaria chamomilla* 
 
 ## FAQ
 
-**What is 洋甘菊 (chamomile)?** The German chamomile, *Matricaria chamomilla* (syn. *M. recutita*), a daisy-family annual native to Europe and western Asia. Its flowers carry a soft, sweet, apple-like, hay-like scent, familiar from herbal tea and modern aromatherapy.
+**What is chamomile (洋甘菊)?** The German chamomile, *Matricaria chamomilla* (syn. *M. recutita*), a daisy-family annual native to Europe and western Asia. Its flowers carry a soft, sweet, apple-like, hay-like scent, familiar from herbal tea and modern aromatherapy.
 
-**Is 洋甘菊 a classical Chinese incense ingredient?** No. Chamomile is a European species, not native to China, and it has no place in the classical 香材 canon. The 洋 ("foreign") prefix in its Chinese name marks it as non-native, in contrast to the native chrysanthemum (菊花).
+**Is chamomile (洋甘菊) a classical Chinese incense ingredient?** No. Chamomile is a European species, not native to China, and it has no place in the classical 香材 canon. The 洋 ("foreign") prefix in its Chinese name marks it as non-native, in contrast to the native chrysanthemum (菊花).
 
-**What is the difference between 洋甘菊 and 菊花?** 洋甘菊 (chamomile) is *Matricaria chamomilla*, a European daisy; 菊花 (chrysanthemum) is the native *Chrysanthemum*, a classical Chinese flower. The 洋 prefix signals the foreign origin, and the plants belong to different genera.
+**What is the difference between chamomile (洋甘菊) and chrysanthemum (菊花)?** chamomile (洋甘菊) is *Matricaria chamomilla*, a European daisy; chrysanthemum (菊花) is the native *Chrysanthemum*, a classical Chinese flower. The 洋 prefix signals the foreign origin, and the plants belong to different genera.
 
 **What does chamomile smell like?** Soft, sweet, and gently fruity, with an apple-like, hay-like warmth — the mild, comforting smell of chamomile tea. It is quieter and more herbal-warm than rose or jasmine.
 
-**What does the name 洋甘菊 mean?** "Foreign sweet-chrysanthemum" — 洋 (foreign) + 甘菊 (sweet chrysanthemum). The 洋 prefix is the Chinese botanical convention for marking non-native plants, and the "sweet chrysanthemum" links chamomile to the native 菊花. The prefix is the provenance marker.
+**What does the name chamomile (洋甘菊) mean?** "Foreign sweet-chrysanthemum" — 洋 (foreign) + sweet chrysanthemum (甘菊). The 洋 prefix is the Chinese botanical convention for marking non-native plants, and the "sweet chrysanthemum" links chamomile to the native 菊花. The prefix is the provenance marker.
 
 **What is the difference between German and Roman chamomile?** German chamomile is *Matricaria chamomilla*, the more common species for tea and oil; Roman chamomile is *Chamaemelum nobile*, a different genus with a similar apple-like scent. They are different plants — the "chamomile" name covers two genera.
 
@@ -207,4 +207,4 @@ See also: [lavender (薰衣草)](/ingredients/lavender/), [chrysanthemum (菊花
 
 - [Matricaria chamomilla on GBIF](https://www.gbif.org/species/8370958)
 
-*Sources: botanical references on *Matricaria chamomilla*. 洋甘菊 (chamomile) is a modern aromatherapy flower with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Matricaria chamomilla*. chamomile (洋甘菊) is a modern aromatherapy flower with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
