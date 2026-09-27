@@ -46,11 +46,11 @@ The white-vs-brown distinction is practical, not pedantic: white mustard (*Sinap
 
 > **Direct answer:** 芥子 (jièzǐ) means "mustard seed" — 芥 for the mustard plant, 子 for "seed." The white seed is distinguished as 白芥子 ("white mustard seed"). The term is classical, appearing in the *Bencao Gangmu* vegetable section, and belongs to the culinary and materia-medica vocabulary rather than the incense 香材 canon.
 
-The name 芥子 is transparent: 芥 (mustard) + 子 (seed). The white variety is distinguished as 白芥子 ("white mustard seed"), the form the *Bencao Gangmu* specifically calls out as "甚辛美" (very pungent and fine). The term is genuinely classical — it sits in the 本草 (materia medica) vegetable section, not in the incense compendium 香乘 — which is an important placement: 芥子 belongs to the food-and-medicine layer of the Chinese record, not to the burned-incense 香材 canon. A buyer or reader should read 芥子 as a culinary 香药 (aromatic seasoning), not as a 合香 incense ingredient.
+The name 芥子 is transparent: 芥 (mustard) + 子 (seed). The white variety is distinguished as 白芥子 ("white mustard seed"), the form the *Bencao Gangmu* specifically calls out as "甚辛美" (very pungent and fine). The term is genuinely classical — it sits in the materia medica (本草) vegetable section, not in the incense compendium 香乘 — which is an important placement: 芥子 belongs to the food-and-medicine layer of the Chinese record, not to the burned-incense 香材 canon. A buyer or reader should read 芥子 as a culinary aromatic seasoning (香药), not as a 合香 incense ingredient.
 
 ## Why is it used in seasoning and aromatics?
 
-> **Direct answer:** Mustard seed is a sharp, hot culinary seasoning — a 香药 (aromatic spice) — whose heat develops only on wetting the crushed seed. It is not a classical Chinese incense ingredient; its aromatic value is as a hot, corrective food note, and it does not belong to the burned-incense 合香 tradition.
+> **Direct answer:** Mustard seed is a sharp, hot culinary seasoning — an aromatic spice (香药) — whose heat develops only on wetting the crushed seed. It is not a classical Chinese incense ingredient; its aromatic value is as a hot, corrective food note, and it does not belong to the burned-incense 合香 tradition.
 
 Mustard's role is culinary, not incense. It is a sharp, hot seasoning — a 香药 — used to add a pungent, green, horseradish-like bite, and its heat is released only when the ground seed meets water. This makes it a *corrective* food note rather than a lead fragrance: it sharpens and cuts richness, and its value is entirely in the wet-activated pungency. There is no classical 合香 or 香乘 role for mustard seed, and we do not retrofit one — its genuine story is the culinary and materia-medica record.
 
@@ -133,15 +133,15 @@ Mustard seed (芥子) is the pungent seed of cabbages in the Brassicaceae family
 
 ## FAQ
 
-**What is 芥子 (mustard seed)?** The pungent seed of mustards in the cabbage family (Brassicaceae) — chiefly white mustard (*Sinapis alba*) and brown or leaf mustard (*Brassica juncea*). It is a sharp, spicy culinary seed whose heat is released only when the crushed seed meets water, and it is used as a seasoning 香药 rather than a burned incense material.
+**What is mustard seed (芥子)?** The pungent seed of mustards in the cabbage family (Brassicaceae) — chiefly white mustard (*Sinapis alba*) and brown or leaf mustard (*Brassica juncea*). It is a sharp, spicy culinary seed whose heat is released only when the crushed seed meets water, and it is used as a seasoning 香药 rather than a burned incense material.
 
 **Why does dry mustard seed have little smell?** Because its pungency is a chemical defense, not a stored aroma. The enzyme myrosinase reacts with glucosinolates only when the crushed seed is moistened, producing the sharp, hot, horseradish-like bite. Dry, whole seed is nearly scentless; wetting or grinding with liquid unlocks the heat.
 
-**Does 芥子 appear in the Bencao Gangmu?** Yes. The *Bencao Gangmu* (本草纲目), vegetable section (菜之一), records 芥 among the cultivated vegetables, describing several kinds, and notes the white mustard seed (白芥子) as "甚辛美" — very pungent and fine. The culinary use is the documented role, while medicinal uses are traditional, not established clinical fact.
+**Does mustard seed (芥子) appear in the Bencao Gangmu?** Yes. The *Bencao Gangmu* (本草纲目), vegetable section (菜之一), records 芥 among the cultivated vegetables, describing several kinds, and notes the white mustard seed (白芥子) as "甚辛美" — very pungent and fine. The culinary use is the documented role, while medicinal uses are traditional, not established clinical fact.
 
 **What is the difference between white and brown mustard?** White mustard (*Sinapis alba*) has a milder, more evenly pungent seed and is the source of the classic pale table mustard; brown or leaf mustard (*Brassica juncea*) is hotter and is the seed behind many Asian mustards and the leafy vegetable 芥菜. Both contribute to the name 芥子, and they differ in heat, color, and culinary use.
 
-**Is mustard a classical incense ingredient?** Not in the burned-incense tradition. Mustard's role is culinary — a sharp seasoning 香药 — rather than a material of 合香 (blended incense) or the 香乘 canon. Its aromatic value is as a hot, corrective food note, not a lead fragrance.
+**Is mustard a classical incense ingredient?** Not in the burned-incense tradition. Mustard's role is culinary — a sharp seasoning 香药 — rather than a material of blended incense (合香) or the 香乘 canon. Its aromatic value is as a hot, corrective food note, not a lead fragrance.
 
 **How do I judge mustard seed quality?** By the fresh-grind-and-wet test, not by sniffing the dry seed. Good mustard seed, when freshly ground and moistened, releases a strong, sharp, clean heat; old or stale seed gives a weak or musty bite. Because the pungency is wet-activated, the dry seed is nearly scentless and cannot be judged by smell alone.
 
