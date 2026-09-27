@@ -54,8 +54,8 @@ The Chinese naming splits into 山柰 (shānnài) and 沙姜 (shājiāng), both 
 
 The distinction matters because the English name "ginger" invites the confusion:
 
-- **山柰 (sand ginger)** — *Kaempferia galanga*, camphoraceous, earthy, faintly floral. This entry.
-- **生姜 (common ginger)** — *Zingiber officinale*, fresher, hotter, more citrusy-pungent. A different genus.
+- **sand ginger (山柰)** — *Kaempferia galanga*, camphoraceous, earthy, faintly floral. This entry.
+- **common ginger (生姜)** — *Zingiber officinale*, fresher, hotter, more citrusy-pungent. A different genus.
 
 The two are not substitutes: sand ginger's camphoraceous warmth is a different register from common ginger's hot freshness. A buyer who specifies "ginger" has not specified anything; a buyer who specifies 山柰 (*Kaempferia galanga*) has. The related galangal (*Alpinia* spp.) is a third ginger-family rhizome with yet another character — see below.
 
@@ -159,7 +159,7 @@ Sand ginger (山柰 / 沙姜) is the dried rhizome of *Kaempferia galanga* (Zing
 
 **What does sand ginger smell like?** Pungent and camphoraceous — warm, spicy, and earthy, with a faint floral undertone. It is a strong, characterful spice note, distinct from the fresher heat of common ginger. In incense it adds a warm, penetrating spice character, usually as an accent in blends rather than a material burned alone.
 
-**How is 山柰 used in cooking?** As a defining aromatic of southern-Chinese and Southeast Asian cooking, where it is called 沙姜 (shājiāng) in Cantonese contexts. Its pungent, camphoraceous warmth flavors braises, marinades, and dipping sauces. This culinary role is well documented and is separate from any medicinal claim.
+**How is sand ginger (山柰) used in cooking?** As a defining aromatic of southern-Chinese and Southeast Asian cooking, where it is called 沙姜 (shājiāng) in Cantonese contexts. Its pungent, camphoraceous warmth flavors braises, marinades, and dipping sauces. This culinary role is well documented and is separate from any medicinal claim.
 
 **What part of the plant is used?** The rhizome — the underground stem — harvested, cleaned, and dried. The name "sand ginger" reflects its cultivation in sandy soils. The dried rhizome is used whole, sliced, or ground, and the strength of its camphoraceous-spicy aroma is the main quality indicator.
 
