@@ -67,9 +67,9 @@ Because both are base notes, they are **complements rather than substitutes**: s
 - **Agarwood** — the refined method rests chips above charcoal buried in ash, releasing scent without combusting; a direct flame burns off the delicate top notes.
 - **Sandalwood** — the wood smolders steadily and slowly; its gentle, long-lasting aroma anchors a blend. It *can* be burned as a wood, unlike a resin, but rewards slow heat over a harsh flame.
 
-## Grades: 奇楠 vs 老山檀
+## Grades: qinan (奇楠) vs old-mountain sandalwood (老山檀)
 
-> **Direct answer:** Agarwood's top grade is 奇楠 (qínán), "oil-wraps-wood" material so resin-saturated it is soft and fragrant at room temperature. Sandalwood's reference is 老山檀 (old-mountain sandalwood) — aged, oil-rich Indian *S. album* heartwood. Different grading systems, different materials.
+> **Direct answer:** Agarwood's top grade is 奇楠 (qínán), "oil-wraps-wood" material so resin-saturated it is soft and fragrant at room temperature. Sandalwood's reference is old-mountain sandalwood (老山檀) — aged, oil-rich Indian *S. album* heartwood. Different grading systems, different materials.
 
 The two "top grades" are not parallel:
 
@@ -132,7 +132,7 @@ Neither column is "better." The table describes what each wood is and how it beh
 2. **Flaming agarwood.** That destroys the staged aroma the material is prized for; it should be warmed.
 3. **Conflating 奇楠 with 老山檀.** One is agarwood's top *material state*; the other is a *quality tier* of sandalwood.
 4. **Skipping the species check on both.** Agarwood you must verify as wood; sandalwood you must verify as species and as wood-vs-oil.
-5. **Conflating 檀香 (sandalwood) with 紫檀 (red sandalwood).** Different plants; the shared 檀 character causes persistent confusion.
+5. **Conflating sandalwood (檀香) with red sandalwood (紫檀).** Different plants; the shared 檀 character causes persistent confusion.
 
 ## Why This Page Reads Different
 
@@ -165,7 +165,7 @@ Agarwood, by a wide margin at the top end. Its top grade 奇楠 (qínán) sits a
 ### Q: Do agarwood and sandalwood smell the same?
 No. Agarwood is deep, woody, resinous, and sweet, and it develops in stages as it warms. Sandalwood is warm, creamy, sweet, and soft-woody, with a "buttery" smoothness in good material. Both are base notes, but agarwood is darker and more complex, while sandalwood is smoother and more soothing.
 
-### Q: What is the difference between 奇楠 and 老山檀?
+### Q: What is the difference between qinan (奇楠) and old-mountain sandalwood (老山檀)?
 They are different things entirely. 奇楠 (qínán, "kyara") is the top *grade* of agarwood — "oil-wraps-wood" material so resin-saturated it is soft, pliable, and aromatic at room temperature. 老山檀 (lǎoshān tán, "old-mountain sandalwood") is the traditional reference for aged, oil-rich Indian *Santalum album* heartwood. One is a material state within agarwood grading; the other is a quality tier within sandalwood. See [qínán / kyara](/blog/qinan-kyara/) and the [agarwood grading guide](/blog/agarwood-grading-guide/).
 
 ### Q: How do you use agarwood vs sandalwood in incense?
