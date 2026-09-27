@@ -14,7 +14,7 @@ related: ["long-pepper", "clove"]
 
 <img src="/images/cubeb-raw-material-800x533.webp" alt="Raw Cubeb (Piper cubeba) material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Cubeb — *bìchéngqié* (荜澄茄) in Chinese — is the dried, unripe fruit of *Piper cubeba*, a climbing vine of the pepper family (Piperaceae) native to Java and Sumatra in Indonesia. It is a peppery spice with a sharp, slightly woody, faintly camphoraceous bite, used in Chinese incense as a warm spice accent in some 合香 (blended incense) contexts. It belongs to the same genus as black pepper and long pepper, but is a distinct spice.
+**Technical answer:** Cubeb — *bìchéngqié* (荜澄茄) in Chinese — is the dried, unripe fruit of *Piper cubeba*, a climbing vine of the pepper family (Piperaceae) native to Java and Sumatra in Indonesia. It is a peppery spice with a sharp, slightly woody, faintly camphoraceous bite, used in Chinese incense as a warm spice accent in some blended incense (合香) contexts. It belongs to the same genus as black pepper and long pepper, but is a distinct spice.
 
 ## Key facts
 
@@ -65,7 +65,7 @@ Cubeb is sharp and peppery, with a woody, slightly resinous, faintly camphoraceo
 
 > **Direct answer:** Cubeb is used in incense as a warm, piquant spice accent that lifts heavier woods and resins, usually blended in 合香 rather than burned alone. It is not a classical defining material.
 
-Cubeb's incense role follows its peppery-camphoraceous bite: it adds a **warm, piquant lift** that cuts through heavier woods and resins, brightening a blend the way black pepper brightens a dish. It is a **supporting accent** in some 合香 (blended incense) contexts, used alongside other spices rather than as a lead or defining material burned on its own.
+Cubeb's incense role follows its peppery-camphoraceous bite: it adds a **warm, piquant lift** that cuts through heavier woods and resins, brightening a blend the way black pepper brightens a dish. It is a **supporting accent** in some blended incense (合香) contexts, used alongside other spices rather than as a lead or defining material burned on its own.
 
 ## How is it processed?
 
@@ -170,7 +170,7 @@ Cubeb (荜澄茄, *bìchéngqié*) is the dried, unripe fruit of *Piper cubeba*,
 
 **What does cubeb smell like?** Sharp and peppery, with a woody, slightly resinous, faintly camphoraceous edge — often described as a cross between black pepper and allspice, with a cooling, pine-like finish. In incense it acts as a warm, piquant spice accent that lifts heavier woods and resins rather than serving as a base note.
 
-**Is 荜澄茄 the same as 山鸡椒 (mountain pepper)?** Not always. 荜澄茄 properly refers to cubeb (*Piper cubeba*), but in Chinese materia medica the name has also been applied to *Litsea cubeba* (山鸡椒, "mountain pepper"), a laurel-family plant. They are different species, so the material should be confirmed when the name appears. Cubeb is the pepper-family spice; mountain pepper is a different plant.
+**Is cubeb (荜澄茄) the same as mountain pepper (山鸡椒)?** Not always. 荜澄茄 properly refers to cubeb (*Piper cubeba*), but in Chinese materia medica the name has also been applied to *Litsea cubeba* (山鸡椒, "mountain pepper"), a laurel-family plant. They are different species, so the material should be confirmed when the name appears. Cubeb is the pepper-family spice; mountain pepper is a different plant.
 
 **Where does cubeb come from?** From *Piper cubeba*, a climbing vine native to Java and Sumatra in Indonesia, also cultivated in parts of Southeast Asia and Africa. The fruit is gathered unripe and dried whole. Cubeb has been traded as a spice for centuries and entered Chinese cooking and materia medica as an imported aromatic.
 
