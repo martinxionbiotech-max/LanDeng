@@ -42,7 +42,7 @@ The rule: if it is very cheap and the label won't name the species, it is almost
 
 ---
 
-## 2. Agarwood (沉香): 奇楠 (kyara) vs. ordinary agarwood
+## 2. Agarwood (沉香): kyara (奇楠) vs. ordinary agarwood
 
 | Label says | What it might be | Notes |
 |---|---|---|
