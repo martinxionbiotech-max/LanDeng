@@ -50,7 +50,7 @@ This gives rise to the classic Chinese grading system (沉水 system), which is 
 
 ---
 
-## 奇楠 vs. Ordinary Agarwood (the Distinction English Misses)
+## qinan (奇楠) vs. Ordinary Agarwood (the Distinction English Misses)
 
 The single most useful thing to know about agarwood — and the point most English content omits — is the difference between ordinary 沉香 and the top grade, **奇楠 (qínán**, Japanese "kyara"**)**:
 
@@ -67,9 +67,9 @@ The single most useful thing to know about agarwood — and the point most Engli
 
 Because agarwood is so valuable, fakes are common. Common methods include:
 
-- **煮油 (oil-boiling)** — boiling ordinary wood in oil to add weight and scent.
-- **高压灌油 (high-pressure oil injection)** — forcing oil into non-resinous wood.
-- **泡药水 (chemical/dye soaking)** — dyeing and scenting non-resinous "white wood."
+- **oil-boiling (煮油)** — boiling ordinary wood in oil to add weight and scent.
+- **high-pressure oil injection (高压灌油)** — forcing oil into non-resinous wood.
+- **chemical/dye soaking (泡药水)** — dyeing and scenting non-resinous "white wood."
 - **Substitution** — using unrelated woods (Lauraceae, Burseraceae) with synthetic fragrance.
 
 **Practical authentication signals** (traditional, not laboratory-grade):
@@ -179,7 +179,7 @@ See [The Complete Incense Scent Guide: Choosing a Scent by Atmosphere](/blog/sce
 ### Q: What's the difference between agarwood and sandalwood?
 Agarwood is resin-impregnated *Aquilaria* wood — deep, resinous, and sweet — formed as a stress response over years to decades. Sandalwood is *Santalum* heartwood — creamy, sweet-woody, and smooth. They are different trees, different families, and different aromas. Agarwood is generally the more precious and more heavily faked of the two, with a whole grading system (沉水, 奇楠) built around resin density. Sandalwood's character is consistent and approachable; agarwood's is layered and develops in stages as it warms. See the [sandalwood guide](/blog/sandalwood-incense/), or the [agarwood vs frankincense](/blog/agarwood-vs-frankincense/) comparison for how the wood stacks against the resin frankincense.
 
-### Q: What is 奇楠 (kyara)?
+### Q: What is kyara (奇楠)?
 The top grade of agarwood, distinguished by "oil wraps wood" (油包木) — the fiber is so thoroughly resin-transformed that the material is soft and pliable, described as shaving into curls and kneading into pellets, and aromatic even at room temperature. Ordinary 沉香 is "wood wraps oil" (木包油): hard wood with resin veins running through it. 奇楠 is further subdivided by color into traditional grades (white, green, purple, yellow, black), a hierarchy sources treat as traditional rather than settled taxonomy. Japanese "kyara" is the cognate term.
 
 ### Q: Why does some agarwood sink and some float?
