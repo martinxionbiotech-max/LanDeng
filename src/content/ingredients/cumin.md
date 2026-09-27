@@ -54,7 +54,7 @@ This honesty is the page's core value. The temptation with a "西域" (Western-R
 
 > **Direct answer:** 孜然 (zīrán) is a phonetic loanword, not a descriptive Chinese name — it transcribes a Central/West Asian source for cumin (compare Persian *zire*, Arabic *kammūn*). The name itself is the provenance record: a spice that entered China through trade carries a trade-name, not a classical descriptive term.
 
-The name 孜然 is phonetic, not descriptive. Unlike 小茴香 ("small fennel-fragrance") or 八角 ("eight-cornered"), which describe the plant or fruit in Chinese, 孜然 transcribes a foreign source word — the tell of a trade import. This is the same pattern as 阿魏 (asafoetida) and 荜茇 (long pepper): foreign-origin aromatics entered Chinese with phonetic loanwords, and the loanword itself is a historical record of the trade route. For cumin, that route is the Central Asian overland corridor, and the name's concentration in northwest Chinese usage marks the region where the spice actually took root.
+The name 孜然 is phonetic, not descriptive. Unlike 小茴香 ("small fennel-fragrance") or 八角 ("eight-cornered"), which describe the plant or fruit in Chinese, 孜然 transcribes a foreign source word — the tell of a trade import. This is the same pattern as asafoetida (阿魏) and long pepper (荜茇): foreign-origin aromatics entered Chinese with phonetic loanwords, and the loanword itself is a historical record of the trade route. For cumin, that route is the Central Asian overland corridor, and the name's concentration in northwest Chinese usage marks the region where the spice actually took root.
 
 ## Why is it used in fragrance?
 
@@ -130,7 +130,7 @@ The three share the carrot family but not the register: fennel and coriander see
 
 From a sourcing and editorial perspective, cumin is most interesting for what its *name* — rather than any classical text — proves about its route into China. Three points follow:
 
-- **The loanword is the provenance record.** 孜然 transcribes a Central/West Asian source word, not a Chinese description. This is the same pattern as 阿魏 (asafoetida) and 荜茇 (long pepper): foreign-origin aromatics entered Chinese with phonetic names, and the name itself documents the trade route. For a knowledge resource built on the difference between classical 香材 and later imports, the 孜然 name is a clean, self-contained piece of evidence that cumin is the latter, not the former.
+- **The loanword is the provenance record.** 孜然 transcribes a Central/West Asian source word, not a Chinese description. This is the same pattern as asafoetida (阿魏) and long pepper (荜茇): foreign-origin aromatics entered Chinese with phonetic names, and the name itself documents the trade route. For a knowledge resource built on the difference between classical 香材 and later imports, the 孜然 name is a clean, self-contained piece of evidence that cumin is the latter, not the former.
 - **The savory-earthy register is a real division, not a nuance.** Within the carrot family, fennel and coriander seed read aromatic-sweet, while cumin reads savory-earthy. A formulator who treats the Apiaceae seed spices as one "family" flavor is already collapsing a genuine sensory divide. Cumin is the outlier, and that is exactly its value when a warm, food-adjacent, "grilled" depth is wanted.
 - **Absence is itself a finding.** Cumin's absence from the 香乘 and the 本草 under 孜然 is documented, not assumed. For a buyer or researcher, this matters: a Chinese-sourced material labeled 孜然 is a modern trade spice, not a classical 香材, and any claim that cumin is "traditional Chinese incense" should be treated as a retrofitted story rather than a record.
 
@@ -142,11 +142,11 @@ Cumin (孜然) is the seed-fruit of *Cuminum cyminum*, a carrot-family (Apiaceae
 
 ## FAQ
 
-**What is 孜然 (cumin)?** Cumin, *Cuminum cyminum*, an annual herb of the carrot family (Apiaceae) native to the eastern Mediterranean through southwestern Asia. Its small dried fruits carry a warm, earthy, slightly bitter spice aroma, and it is a Western-Regions (西域) spice that reached China through Central Asian trade.
+**What is cumin (孜然)?** Cumin, *Cuminum cyminum*, an annual herb of the carrot family (Apiaceae) native to the eastern Mediterranean through southwestern Asia. Its small dried fruits carry a warm, earthy, slightly bitter spice aroma, and it is a Western-Regions (西域) spice that reached China through Central Asian trade.
 
 **Is cumin a classical Chinese incense ingredient?** No. 孜然 does not appear in the Ming-dynasty *Xiangcheng* (香乘) or the *Bencao Gangmu* (本草纲目) as a named ingredient, and it is not a native Flora of China species. Its Chinese story is culinary and trade-borne — the signature spice of Xinjiang and northwest cooking — not incense.
 
-**Where does the name 孜然 come from?** It is a loanword of Western-Regions origin, transcribing a Central or West Asian source for cumin (compare Persian *zire*, Arabic *kammūn*). The name itself records the spice's arrival in China through Central Asian trade.
+**Where does the name cumin (孜然) come from?** It is a loanword of Western-Regions origin, transcribing a Central or West Asian source for cumin (compare Persian *zire*, Arabic *kammūn*). The name itself records the spice's arrival in China through Central Asian trade.
 
 **What does cumin smell like?** Warm and spicy, earthy and slightly bitter, with a penetrating, almost smoky-savory character unlike any other seed spice. It leans savory and musky rather than sweet, and it dominates a blend rather than supporting it.
 
@@ -183,4 +183,4 @@ See also: [coriander-seed](/ingredients/coriander-seed/), [fennel](/ingredients/
 
 - [Cuminum cyminum on GBIF](https://www.gbif.org/species/3034775)
 
-*Sources: botanical references on *Cuminum cyminum*. 孜然 (cumin) is documented as a Western-Regions culinary spice, not a classical Chinese incense material, and no classical incense role is claimed; no medical claims are made. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Cuminum cyminum*. cumin (孜然) is documented as a Western-Regions culinary spice, not a classical Chinese incense material, and no classical incense role is claimed; no medical claims are made. This is editorial knowledge content, not medical advice.*
