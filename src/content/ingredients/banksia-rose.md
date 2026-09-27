@@ -14,7 +14,7 @@ related: ["costus", "rose"]
 
 <img src="/images/banksia-rose-raw-material-800x533.webp" alt="Raw Banksia Rose (Rosa banksiae) material, editorial still life" width="800" height="533" loading="lazy">
 
-> **Direct answer:** Banksia rose (木香花, mùxiānghuā) is the flower of *Rosa banksiae*, a climbing rose of the rose family (Rosaceae) native to central and western China. It is a sweet, honeyed, lightly green floral used in Chinese incense and recorded as a flower material in the classical compendium 香乘. Its name is easily confused with 木香 (costus), an entirely different aromatic root.
+> **Direct answer:** Banksia rose (木香花, mùxiānghuā) is the flower of *Rosa banksiae*, a climbing rose of the rose family (Rosaceae) native to central and western China. It is a sweet, honeyed, lightly green floral used in Chinese incense and recorded as a flower material in the classical compendium 香乘. Its name is easily confused with costus (木香), an entirely different aromatic root.
 
 ## Key facts
 
@@ -40,23 +40,23 @@ Flora of China describes *Rosa banksiae* precisely: **evergreen climbing shrubs 
 
 ## Chinese name and terminology
 
-> **Direct answer:** The name 木香花 means "muxiang flower" — it shares the characters 木香 with the root 木香 (costus), which is the source of a classic confusion. The flower is 木香花 (*Rosa banksiae*, a rose); the root is 木香 (*Saussurea costus*, an Asteraceae root). The two appear as separate items in the same 香乘 recipe, which is exactly why the species must be pinned down.
+> **Direct answer:** The name 木香花 means "muxiang flower" — it shares the characters 木香 with the root costus (木香), which is the source of a classic confusion. The flower is 木香花 (*Rosa banksiae*, a rose); the root is 木香 (*Saussurea costus*, an Asteraceae root). The two appear as separate items in the same 香乘 recipe, which is exactly why the species must be pinned down.
 
 The name 木香花 means "muxiang flower," and it shares the characters 木香 with an entirely different material:
 
-- **木香花 (banksia rose)** — *Rosa banksiae*, a climbing rose flower (Rosaceae). This entry.
-- **木香 (costus)** — *Saussurea costus*, a deep, earthy, musky-animalic Asteraceae root (see [costus](/ingredients/costus/)).
+- **banksia rose (木香花)** — *Rosa banksiae*, a climbing rose flower (Rosaceae). This entry.
+- **costus (木香)** — *Saussurea costus*, a deep, earthy, musky-animalic Asteraceae root (see [costus](/ingredients/costus/)).
 
 The characters are identical (木香), and only the trailing 花 ("flower") distinguishes them — or fails to, when a label is abbreviated. The two appear as **separate items in the same classical recipe** (香乘 卷二十五, 宣庙御衣攒香 lists 木香花 and 木香 side by side), which is the clearest possible evidence that they are different materials and must not be conflated.
 
-## The 木香花 / 木香 confusion (read this)
+## The Banksia Rose (木香花) / costus (木香) confusion (read this)
 
 > **Direct answer:** 木香花 and 木香 share the characters 木香 but are different materials from different plant families: 木香花 is a rose flower (*Rosa banksiae*, Rosaceae), while 木香 is a root (*Saussurea costus*, Asteraceae). They appear side by side in the same 香乘 recipe — proof they are distinct — and a buyer must resolve the species, not rely on the shared characters.
 
 The confusion is built into the name, and the classical record resolves it:
 
-- **木香 (costus)** — the dried root of *Saussurea costus* (Asteraceae), a deep, earthy, musky-animalic root used as a fixative. Its own entry.
-- **木香花 (Banksia rose)** — the flower of *Rosa banksiae* (Rosaceae), a sweet, honeyed climbing-rose bloom. This entry.
+- **costus (木香)** — the dried root of *Saussurea costus* (Asteraceae), a deep, earthy, musky-animalic root used as a fixative. Its own entry.
+- **Banksia rose (木香花)** — the flower of *Rosa banksiae* (Rosaceae), a sweet, honeyed climbing-rose bloom. This entry.
 
 The decisive evidence is that the **香乘 (卷二十五, 宣庙御衣攒香) lists 木香花 and 木香 side by side in the same recipe** — a single formula calling for both the flower and the root, which would be impossible if they were the same material. **This page describes 木香花 = *Rosa banksiae*.** When a source means 木香, it is describing costus root, a different material.
 
@@ -104,7 +104,7 @@ There is no standardized commercial grading ladder, but "single-flowered, clean,
 
 ## Common forms
 
-> **Direct answer:** 木香花 is sold as the dried flower — the fragrant single-flowered form being the aromatic material, while the double form is ornamental and scentless. There is no meaningful wood, resin, or root form for this ingredient; the root 木香 (costus) is a different material altogether.
+> **Direct answer:** 木香花 is sold as the dried flower — the fragrant single-flowered form being the aromatic material, while the double form is ornamental and scentless. There is no meaningful wood, resin, or root form for this ingredient; the root costus (木香) is a different material altogether.
 
 | Form | Typical use |
 |---|---|
@@ -119,7 +119,7 @@ There is no standardized commercial grading ladder, but "single-flowered, clean,
 
 ## Traditional use vs modern evidence
 
-> **Direct answer:** The floral incense use is documented in the classical record (香乘). Medicinal or other uses are not the subject here, and this page makes no medical claims. The documented facts are botanical identity, the Rosaceae placement, the 香乘 record, the flower/root distinction from 木香 (costus), and the double-vs-single fragrance caveat from Flora of China.
+> **Direct answer:** The floral incense use is documented in the classical record (香乘). Medicinal or other uses are not the subject here, and this page makes no medical claims. The documented facts are botanical identity, the Rosaceae placement, the 香乘 record, the flower/root distinction from costus (木香), and the double-vs-single fragrance caveat from Flora of China.
 
 - **Traditional Use** — 木香花 as a sweet floral note in incense and scenting.
 - **Historical Record** — 木香花 recorded in 香乘 (宣庙御衣攒香, 卷二十五) as a flower material, listed alongside the root 木香.
@@ -144,28 +144,28 @@ For an incense maker or sourcing buyer:
 
 From a manufacturing perspective, 木香花 is a two-step disambiguation problem. Two points follow:
 
-- **The name collides with a root.** 木香花 shares the characters 木香 with 木香 (costus), a root from a different family, and the two are listed side by side in the same 香乘 recipe — proof they are distinct. A buyer who reads only the shared characters buys the wrong material. The first specification is plant part: flower vs root.
+- **The name collides with a root.** 木香花 shares the characters 木香 with costus (木香), a root from a different family, and the two are listed side by side in the same 香乘 recipe — proof they are distinct. A buyer who reads only the shared characters buys the wrong material. The first specification is plant part: flower vs root.
 - **The species covers both fragrant and scentless forms.** Even after resolving to the flower, *Rosa banksiae* includes the showy double forms (scentless) and the single-flowered form (fragrant). The species name alone does not guarantee a fragrant flower. The second specification is flower form: single vs double.
 
 In our view, 木香花 is a light, honeyed floral top note with a genuinely documented 香乘 record — but it must be specified twice: first as the flower (not the costus root), then as the single-flowered fragrant form (not the ornamental double). That double disambiguation is the whole commercial story of the material.
 
 ## Summary
 
-木香花 (mùxiānghuā) is the flower of *Rosa banksiae*, a climbing rose (Rosaceae) of central and western China, recorded in the 香乘 as a flower material in incense recipes and listed there alongside the root 木香 (costus) — a name collision that must be resolved to plant part. Its second disambiguation is botanical: Flora of China records that the cultivated double forms are not fragrant, while the single-flowered form may be, so the species name alone does not guarantee a fragrant flower. No medical claims are made.
+木香花 (mùxiānghuā) is the flower of *Rosa banksiae*, a climbing rose (Rosaceae) of central and western China, recorded in the 香乘 as a flower material in incense recipes and listed there alongside the root costus (木香) — a name collision that must be resolved to plant part. Its second disambiguation is botanical: Flora of China records that the cultivated double forms are not fragrant, while the single-flowered form may be, so the species name alone does not guarantee a fragrant flower. No medical claims are made.
 
 ## FAQ
 
-**What is 木香花 (Banksia rose)?** The flower of *Rosa banksiae*, a climbing rose of the rose family (Rosaceae) native to central and western China. Its small white or pale-yellow flowers are sweetly fragrant in the single-flowered form, and the yellow form is the classic "Lady Banks' rose." It is used in Chinese incense and recorded as a flower material in the classical compendium 香乘.
+**What is Banksia rose (木香花)?** The flower of *Rosa banksiae*, a climbing rose of the rose family (Rosaceae) native to central and western China. Its small white or pale-yellow flowers are sweetly fragrant in the single-flowered form, and the yellow form is the classic "Lady Banks' rose." It is used in Chinese incense and recorded as a flower material in the classical compendium 香乘.
 
-**Is 木香花 the same as 木香 (costus)?** No. 木香花 is the flower of *Rosa banksiae* (Rosaceae), while 木香 (costus) is the dried root of *Saussurea costus* (Asteraceae). They are different materials from different plant families. The confusion is real — the two appear as separate items in the same 香乘 recipe (宣庙御衣攒香, 卷二十五) — but each has its own entry here.
+**Is Banksia Rose (木香花) the same as costus (木香)?** No. 木香花 is the flower of *Rosa banksiae* (Rosaceae), while costus (木香) is the dried root of *Saussurea costus* (Asteraceae). They are different materials from different plant families. The confusion is real — the two appear as separate items in the same 香乘 recipe (宣庙御衣攒香, 卷二十五) — but each has its own entry here.
 
-**What does 木香花 smell like?** Sweet, gentle, honeyed, and lightly green — a clear rose-family scent with none of jasmine's heady indole or a dried bud's spice. It sits closer to a light rose register than to the opulent white florals. In a blend it reads as a soft floral top note, adding a clean honeyed lift rather than heavy sweetness.
+**What does Banksia Rose (木香花) smell like?** Sweet, gentle, honeyed, and lightly green — a clear rose-family scent with none of jasmine's heady indole or a dried bud's spice. It sits closer to a light rose register than to the opulent white florals. In a blend it reads as a soft floral top note, adding a clean honeyed lift rather than heavy sweetness.
 
 **Are all Banksia roses fragrant?** No. Flora of China records that the cultivated double and semi-double forms of *Rosa banksiae* are **not fragrant**, while the single-flowered form may be fragrant. The showy double "Lady Banks' rose" is grown for appearance, not scent, so a buyer seeking fragrant 木香花 should ask about flower form, not just the species name.
 
 **Where does the Banksia rose come from?** *Rosa banksiae* is native to central and western China (Gansu, Guizhou, Henan, Hubei, Jiangsu, Sichuan, Yunnan), where it grows as a vigorous, mostly thornless climbing rose with dense clusters of small flowers, and was later exported to Western gardens as the "Lady Banks' rose." Flora of China records the species across its native range.
 
-**How is 木香花 used in Chinese incense?** As a sweet floral note in blended incense and scenting. It is recorded in 香乘 as a flower material (for example, in 宣庙御衣攒香, 卷二十五, where it appears alongside 木香 the root). In practice it is a light top note, usually blended rather than burned alone — and the fragrant single-flowered form is the aromatic material.
+**How is Banksia Rose (木香花) used in Chinese incense?** As a sweet floral note in blended incense and scenting. It is recorded in 香乘 as a flower material (for example, in 宣庙御衣攒香, 卷二十五, where it appears alongside 木香 the root). In practice it is a light top note, usually blended rather than burned alone — and the fragrant single-flowered form is the aromatic material.
 
 See also: [costus](/ingredients/costus/), [rose](/ingredients/rose/), and the full [scent guide](/blog/scent-guide/).
 
