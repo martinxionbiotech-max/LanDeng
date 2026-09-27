@@ -144,15 +144,15 @@ In our view, 合欢花 is a delicate, culturally resonant floral — buy it for 
 
 ## FAQ
 
-**What is 合欢花 (silk tree flower)?** The flower of the silk tree, *Albizia julibrissin* (合欢), a legume tree (Fabaceae) native to Asia. Its pink, thread-like blossoms carry a delicate sweet scent, and the tree is famous in Chinese culture for its meaning — the name 合欢 means "collective joy." Flora of China describes a deciduous tree to 16 m tall whose pink flowers bloom May–July.
+**What is silk tree flower (合欢花)?** The flower of the silk tree, *Albizia julibrissin* (合欢), a legume tree (Fabaceae) native to Asia. Its pink, thread-like blossoms carry a delicate sweet scent, and the tree is famous in Chinese culture for its meaning — the name 合欢 means "collective joy." Flora of China describes a deciduous tree to 16 m tall whose pink flowers bloom May–July.
 
 **Why is it called 合欢 (collective joy)?** The name 合欢 means "collective joy" (also "conjoining joy"), and the tree is a symbol of harmony and reunion. The *Bencao Gangmu* (本草纲目) also records the names 合昏 and 夜合, because the leaves fold together at night. The classical line "合欢蠲忿，萱草忘忧" (合欢 dispels anger, the daylily forgets sorrow) reflects its cultural association with calming the heart.
 
-**What does 合欢花 smell like?** Delicate, sweet, and slightly powdery — a soft, light floral perfume suited to its airy, pink, thread-like blossoms. It is gentler and more diffuse than richer white florals like jasmine or osmanthus, reading as a quiet garden note rather than a strong fragrance.
+**What does silk tree flower (合欢花) smell like?** Delicate, sweet, and slightly powdery — a soft, light floral perfume suited to its airy, pink, thread-like blossoms. It is gentler and more diffuse than richer white florals like jasmine or osmanthus, reading as a quiet garden note rather than a strong fragrance.
 
 **Is silk tree flower a classical incense ingredient?** Not as a staple. 合欢's classical fame is cultural and materia-medica, not a burned-incense role, and it is not a lead material of the 香乘 (Xiang Cheng) canon. This page records it as a cultural and materia-medica flower without inventing an incense role.
 
-**Does 合欢 appear in the Bencao Gangmu?** Yes. The *Bencao Gangmu* (本草纲目), tree section (木之二), records 合欢 with the names 合昏 and 夜合 and quotes the classical line "合欢蠲忿，萱草忘忧." The record is cultural and materia-medica, and medicinal uses are traditional, not established clinical fact.
+**Does silk tree (合欢) appear in the Bencao Gangmu?** Yes. The *Bencao Gangmu* (本草纲目), tree section (木之二), records 合欢 with the names 合昏 and 夜合 and quotes the classical line "合欢蠲忿，萱草忘忧." The record is cultural and materia-medica, and medicinal uses are traditional, not established clinical fact.
 
 **What part of the plant is used?** The flower — the pink, thread-like blossom of *Albizia julibrissin* — is the part used for its delicate scent. The tree itself is the cultural and materia-medica subject, and its leaves fold at night (the source of the names 合昏 and 夜合). The flower is a gentle floral, not a strong incense material.
 
