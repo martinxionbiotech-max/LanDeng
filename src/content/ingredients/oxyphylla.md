@@ -41,8 +41,8 @@ The register is worth pinning within the ginger family: where galangal (高良�
 益智仁 belongs to the *Alpinia* genus of the ginger family (Zingiberaceae), a group that includes several warm, camphoraceous aromatics that share a family resemblance:
 
 - **益智仁 (this page)** — *Alpinia oxyphylla*, a warm spice fruit used in materia medica.
-- **高良姜 (galangal)** — *Alpinia officinarum*, the spicy galangal rhizome. Its own entry.
-- **草豆蔻 (katsumadai)** — *Alpinia katsumadae*, another ginger-family seed. Its own entry.
+- **galangal (高良姜)** — *Alpinia officinarum*, the spicy galangal rhizome. Its own entry.
+- **katsumadai (草豆蔻)** — *Alpinia katsumadae*, another ginger-family seed. Its own entry.
 
 **This page describes 益智仁 = *Alpinia oxyphylla*.** The other *Alpinia* materials are distinct species.
 
@@ -118,7 +118,7 @@ Practical points for buyers:
 
 > **Direct answer:** 益智仁, galangal, and katsumadai are three different *Alpinia* species supplying different plant parts. 益智仁 is the fruit of *A. oxyphylla*; galangal is the rhizome of *A. officinarum*; katsumadai is the seed of *A. katsumadae*. They share the ginger-family warmth but are distinct species and parts.
 
-| | 益智仁 (oxyphylla) | Galangal (高良姜) | Katsumadai (草豆蔻) |
+| | oxyphylla (益智仁) | Galangal (高良姜) | Katsumadai (草豆蔻) |
 |---|---|---|---|
 | Botanical source | *Alpinia oxyphylla* | *Alpinia officinarum* | *Alpinia katsumadae* |
 | Part used | Dried fruit | Rhizome | Seed |
@@ -145,17 +145,17 @@ In our view, 益智仁 is best understood as a **materia-medica fruit in a false
 
 ## FAQ
 
-**What is 益智仁 (sharp-leaf galangal)?** The dried fruit of *Alpinia oxyphylla*, a ginger-family (Zingiberaceae) perennial native to southern China, Hainan, and northern Vietnam. It is a warm, spicy, camphoraceous, slightly sweet seed-like fruit used in traditional medicine and recorded as a minor aromatic in classical incense formulas.
+**What is sharp-leaf galangal (益智仁)?** The dried fruit of *Alpinia oxyphylla*, a ginger-family (Zingiberaceae) perennial native to southern China, Hainan, and northern Vietnam. It is a warm, spicy, camphoraceous, slightly sweet seed-like fruit used in traditional medicine and recorded as a minor aromatic in classical incense formulas.
 
-**What does 益智仁 smell like?** Warm and spicy with a camphoraceous, slightly sweet edge — in the ginger-family register alongside galangal and the cardamoms, but gentler and more rounded. It reads as a warm spice accent, adding a soft pungency to a blend rather than leading it.
+**What does oxyphylla (益智仁) smell like?** Warm and spicy with a camphoraceous, slightly sweet edge — in the ginger-family register alongside galangal and the cardamoms, but gentler and more rounded. It reads as a warm spice accent, adding a soft pungency to a blend rather than leading it.
 
-**Is 益智仁 the same as galangal?** No, though both are in the *Alpinia* genus. 益智仁 is *Alpinia oxyphylla* (the dried fruit); galangal (高良姜) is *Alpinia officinarum* (the rhizome). They share the ginger-family warm, camphoraceous character but are distinct species used for different parts.
+**Is oxyphylla (益智仁) the same as galangal?** No, though both are in the *Alpinia* genus. 益智仁 is *Alpinia oxyphylla* (the dried fruit); galangal (高良姜) is *Alpinia officinarum* (the rhizome). They share the ginger-family warm, camphoraceous character but are distinct species used for different parts.
 
-**Does 益智仁 appear in classical incense?** Yes, as a minor ingredient. The Ming-dynasty *Xiangcheng* (香乘) lists 益智仁 among the ingredients of the inner-court sachet 内苑蕊心衣香 (藿香、益智仁、白芷…) — a wearable sachet rather than a burned material.
+**Does oxyphylla (益智仁) appear in classical incense?** Yes, as a minor ingredient. The Ming-dynasty *Xiangcheng* (香乘) lists 益智仁 among the ingredients of the inner-court sachet 内苑蕊心衣香 (藿香、益智仁、白芷…) — a wearable sachet rather than a burned material.
 
-**Where does 益智仁 come from?** From *Alpinia oxyphylla*, a ginger-family perennial native to southern China, Hainan, and northern Vietnam. The part used is the dried fruit, which contains the aromatic seed. The *Alpinia* genus also includes galangal and katsumadai.
+**Where does oxyphylla (益智仁) come from?** From *Alpinia oxyphylla*, a ginger-family perennial native to southern China, Hainan, and northern Vietnam. The part used is the dried fruit, which contains the aromatic seed. The *Alpinia* genus also includes galangal and katsumadai.
 
-**What does the name 益智仁 mean?** "Benefit-the-mind seed" — 益智 ("benefit the mind") + 仁 ("kernel/seed"). It is a materia-medica coinage reflecting the fruit's traditional reputation, and it signals that 益智仁 is primarily a medicinal material with only a minor sachet role in incense.
+**What does the name oxyphylla (益智仁) mean?** "Benefit-the-mind seed" — 益智 ("benefit the mind") + 仁 ("kernel/seed"). It is a materia-medica coinage reflecting the fruit's traditional reputation, and it signals that 益智仁 is primarily a medicinal material with only a minor sachet role in incense.
 
 See also: [galangal](/ingredients/galangal/), [katsumadai](/ingredients/katsumadai/), and the full [scent guide](/blog/scent-guide/).
 
