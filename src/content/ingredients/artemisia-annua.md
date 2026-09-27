@@ -42,17 +42,17 @@ related: ["mugwort", "agastache-rugosa", "schizonepeta"]
 
 > **Direct answer:** The name 青蒿 means "green wormwood" — 青 (green) + 蒿 (the wormwood/artemisia class). The *Bencao Gangmu* records the aliases 草蒿 ("grass wormwood") and 香蒿 ("fragrant wormwood") and explains that northerners call it 青蒿 (北人呼為青蒿). The 蒿 character names a broad class of *Artemisia* herbs.
 
-The name 青蒿 (qīnghāo) is a color-and-class name: 青 "green" + 蒿, the character for the wormwood/artemisia class. The *Bencao Gangmu* (本草纲目) records two classical aliases — 草蒿 ("grass wormwood") and 香蒿 ("fragrant wormwood") — and explains the regional naming: "北人呼為青蒿" (the northerners call it 青蒿). The 蒿 character, like 柏 and 松 for the conifers, is a *category* marker — "artemisia herb" — which is why 青蒿 (sweet wormwood), 艾草 (mugwort), and 龙蒿 (tarragon) all sit under the same register despite being different species.
+The name 青蒿 (qīnghāo) is a color-and-class name: 青 "green" + 蒿, the character for the wormwood/artemisia class. The *Bencao Gangmu* (本草纲目) records two classical aliases — 草蒿 ("grass wormwood") and 香蒿 ("fragrant wormwood") — and explains the regional naming: "北人呼為青蒿" (the northerners call it 青蒿). The 蒿 character, like 柏 and 松 for the conifers, is a *category* marker — "artemisia herb" — which is why sweet wormwood (青蒿), mugwort (艾草), and tarragon (龙蒿) all sit under the same register despite being different species.
 
-## The 青蒿 / 艾草 / 龙蒿 distinction — three Artemisias (read this)
+## The sweet wormwood (青蒿) / mugwort (艾草) / tarragon (龙蒿) distinction — three Artemisias (read this)
 
 > **Direct answer:** Three *Artemisia* herbs share a genus and a green, camphoraceous register but are distinct species with distinct uses. 青蒿 (*Artemisia annua*) is the annual sweet wormwood; 艾草 (*Artemisia argyi* / *A. vulgaris*) is the perennial mugwort of moxibustion; 龙蒿 (*Artemisia dracunculus*) is tarragon, a culinary crossover. The lifecycle (annual versus perennial) is itself a useful clue to their roles.
 
 Three *Artemisia* herbs sit close together in name and aroma, and this encyclopedia distinguishes them by species:
 
-- **青蒿 (sweet wormwood)** — *Artemisia annua*, an annual with a fresh, camphoraceous scent. This entry.
-- **艾草 (mugwort)** — *Artemisia argyi* (and *A. vulgaris*), the perennial mugwort of moxibustion and 艾 incense. Its own entry.
-- **龙蒿 (tarragon)** — *Artemisia dracunculus*, a perennial culinary herb with an anise-like note, a modern crossover. Its own entry.
+- **sweet wormwood (青蒿)** — *Artemisia annua*, an annual with a fresh, camphoraceous scent. This entry.
+- **mugwort (艾草)** — *Artemisia argyi* (and *A. vulgaris*), the perennial mugwort of moxibustion and 艾 incense. Its own entry.
+- **tarragon (龙蒿)** — *Artemisia dracunculus*, a perennial culinary herb with an anise-like note, a modern crossover. Its own entry.
 
 The *Bencao Gangmu* (本草纲目), 草之四, records 青蒿 as its own entry ("草蒿…北人呼為青蒿"), distinct from 艾 (the mugwort entry in the same section). A useful mnemonic sits in the lifecycle: 青蒿 is an **annual** — a fresh, quick-growing herb — while mugwort is a **perennial** that returns year after year and is harvested for its dense, long-fiber leaves. **This page describes 青蒿 = *Artemisia annua*, not 艾草.** See [mugwort](/ingredients/mugwort/) and [tarragon](/ingredients/tarragon/).
 
@@ -111,7 +111,7 @@ The quality factors:
 ## In Chinese tradition
 
 - **Materia medica (Traditional Use):** 青蒿 is a classical Chinese materia-medica herb, recorded in the *Bencao Gangmu* (本草纲目). This is **traditional materia-medica language, not modern clinical evidence.**
-- **Aromatic herb (Traditional Use):** its fresh, camphoraceous scent places it among the aromatic herbs of the 香囊 (sachet) tradition.
+- **Aromatic herb (Traditional Use):** its fresh, camphoraceous scent places it among the aromatic herbs of the sachet (香囊) tradition.
 - **Naming (Historical Record):** the *Bencao Gangmu* records the aliases 草蒿 and 香蒿, and explains "北人呼為青蒿" — the northerners call it 青蒿.
 
 ## Traditional use vs modern evidence
@@ -168,17 +168,17 @@ In our view, 青蒿 is a light, fresh, annual *Artemisia* herb whose real procur
 
 ## FAQ
 
-**What is 青蒿 (sweet wormwood)?** The annual herb *Artemisia annua* (Asteraceae), a classical Chinese aromatic and materia-medica herb with a fresh, herbal, camphoraceous, faintly sweet scent. It is one of many Chinese *Artemisia* herbs, distinct from mugwort.
+**What is sweet wormwood (青蒿)?** The annual herb *Artemisia annua* (Asteraceae), a classical Chinese aromatic and materia-medica herb with a fresh, herbal, camphoraceous, faintly sweet scent. It is one of many Chinese *Artemisia* herbs, distinct from mugwort.
 
-**Is 青蒿 the same as 艾草 (mugwort)?** No — closely related but distinct species in the same genus (*Artemisia*). 青蒿 is *Artemisia annua*, an annual with a fresh, camphoraceous scent; 艾草 is *Artemisia argyi* (and *A. vulgaris*), the perennial mugwort of moxibustion. The *Bencao Gangmu* (本草纲目) records them as separate entries.
+**Is sweet wormwood (青蒿) the same as mugwort (艾草)?** No — closely related but distinct species in the same genus (*Artemisia*). 青蒿 is *Artemisia annua*, an annual with a fresh, camphoraceous scent; 艾草 is *Artemisia argyi* (and *A. vulgaris*), the perennial mugwort of moxibustion. The *Bencao Gangmu* (本草纲目) records them as separate entries.
 
-**What does 青蒿 smell like?** Fresh, green, and herbaceous, with a camphoraceous, slightly medicinal edge and a faint sweetness — the clean, bitter-green aroma of the *Artemisia* herbs. It is lighter and less musky-bitter than mugwort (艾草).
+**What does sweet wormwood (青蒿) smell like?** Fresh, green, and herbaceous, with a camphoraceous, slightly medicinal edge and a faint sweetness — the clean, bitter-green aroma of the *Artemisia* herbs. It is lighter and less musky-bitter than mugwort (艾草).
 
-**Is sweet wormwood an incense ingredient?** It is a classical aromatic and materia-medica herb, and its fresh camphoraceous scent places it among the 香囊 (sachet) herbs, but it is not a lead 香材. It reads as a crisp aromatic herb rather than a resin or wood.
+**Is sweet wormwood an incense ingredient?** It is a classical aromatic and materia-medica herb, and its fresh camphoraceous scent places it among the sachet (香囊) herbs, but it is not a lead 香材. It reads as a crisp aromatic herb rather than a resin or wood.
 
-**Why is it called 青蒿?** The *Bencao Gangmu* (本草纲目) records the aliases 草蒿 and 香蒿 and explains that "北人呼為青蒿" — the northerners call it 青蒿. The name marks it among the *Artemisia* herbs, distinguished from mugwort (艾).
+**Why is it called sweet wormwood (青蒿)?** The *Bencao Gangmu* (本草纲目) records the aliases 草蒿 and 香蒿 and explains that "北人呼為青蒿" — the northerners call it 青蒿. The name marks it among the *Artemisia* herbs, distinguished from mugwort (艾).
 
-**What is the connection between 青蒿 and artemisinin?** *Artemisia annua* is the botanical source of artemisinin, a compound central to modern antimalarial therapy — a pharmaceutical fact this page records as context. That fame belongs to a purified drug and a medical context, not to the herb's incense use, and this page makes no medical claims about the herb or its aromatic role.
+**What is the connection between sweet wormwood (青蒿) and artemisinin?** *Artemisia annua* is the botanical source of artemisinin, a compound central to modern antimalarial therapy — a pharmaceutical fact this page records as context. That fame belongs to a purified drug and a medical context, not to the herb's incense use, and this page makes no medical claims about the herb or its aromatic role.
 
 See also: [mugwort (艾草)](/ingredients/mugwort/), [tarragon (龙蒿)](/ingredients/tarragon/), [agastache-rugosa (藿香)](/ingredients/agastache-rugosa/), [schizonepeta (荆芥)](/ingredients/schizonepeta/), and the full [scent guide](/blog/scent-guide/).
 
