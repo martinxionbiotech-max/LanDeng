@@ -40,9 +40,9 @@ Juniper is woody and piney, resinous and fresh, with a clean, bracing, slightly 
 
 ## Chinese name and terminology
 
-> **Direct answer:** The name 杜松 means "juniper" — 松 (the pine/conifer character) + 杜 (a qualifier). The 松 character, like 柏, names a broad conifer class, which is why 杜松 (juniper) and 雪松 (cedar) and the pines get run together in casual use despite naming different plants.
+> **Direct answer:** The name 杜松 means "juniper" — 松 (the pine/conifer character) + 杜 (a qualifier). The 松 character, like 柏, names a broad conifer class, which is why juniper (杜松) and cedar (雪松) and the pines get run together in casual use despite naming different plants.
 
-The name 杜松 (dùsōng) joins 松, the character for the pine/conifer class, with the qualifier 杜. As with 柏 in 崖柏 and 柏子, the 松 character is a *category* marker — "conifer" — not a species name. This is why 杜松 (juniper) sits confusingly near 雪松 (cedar) and the true pines in Chinese naming: they share a conifer register but are unrelated plants with different uses.
+The name 杜松 (dùsōng) joins 松, the character for the pine/conifer class, with the qualifier 杜. As with 柏 in 崖柏 and 柏子, the 松 character is a *category* marker — "conifer" — not a species name. This is why juniper (杜松) sits confusingly near cedar (雪松) and the true pines in Chinese naming: they share a conifer register but are unrelated plants with different uses.
 
 ## A modern cross-over, honestly stated (read this)
 
@@ -158,7 +158,7 @@ In our view, juniper is a clean, bright, reliable conifer whose honest framing i
 
 ## FAQ
 
-**What is 杜松 (juniper)?** The common juniper, *Juniperus communis*, an evergreen conifer of the cypress family (Cupressaceae) native across the cool-temperate Northern Hemisphere. It is the source of juniper berries — the flavor of gin — and a clean, piney aromatic wood and needle material. In Chinese incense it is a modern cross-over, not a classical ingredient.
+**What is juniper (杜松)?** The common juniper, *Juniperus communis*, an evergreen conifer of the cypress family (Cupressaceae) native across the cool-temperate Northern Hemisphere. It is the source of juniper berries — the flavor of gin — and a clean, piney aromatic wood and needle material. In Chinese incense it is a modern cross-over, not a classical ingredient.
 
 **Is juniper a classical Chinese incense material?** No. Common juniper does not appear in the Ming-dynasty *Xiangcheng* (香乘) or the *Bencao Gangmu* (本草纲目), and Flora of China does not record *Juniperus communis* among the junipers it treats. Its presence in Chinese-language incense is a contemporary borrowing from Western aromatics. Any antique 杜松 lineage claim should be treated with skepticism.
 
@@ -199,4 +199,4 @@ See also: [cedar](/ingredients/cedar/), [thuja](/ingredients/thuja/), and the fu
 
 - [Juniperus communis on GBIF](https://www.gbif.org/species/2684709)
 
-*Sources: botanical references on *Juniperus communis*. 杜松 (common juniper) is a modern cross-over aromatic, not a classical Chinese incense material, and no classical use is claimed; no medical claims are made. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Juniperus communis*. common juniper (杜松) is a modern cross-over aromatic, not a classical Chinese incense material, and no classical use is claimed; no medical claims are made. This is editorial knowledge content, not medical advice.*
