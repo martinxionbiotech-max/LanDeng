@@ -40,9 +40,9 @@ Black pepper is hot and penetrating, with a sharp, dry pungency over a warm, fai
 
 ## Chinese name and terminology
 
-> **Direct answer:** The name 胡椒 means "foreign pepper" — 胡 (foreign, from the west/northwest) + 椒 (the pepper/prickly-ash register). The 胡 prefix marks it as an introduced spice, distinguishing it from native 椒 plants such as 花椒 (Sichuan pepper). Black pepper is 黑胡椒, white pepper is 白胡椒.
+> **Direct answer:** The name 胡椒 means "foreign pepper" — 胡 (foreign, from the west/northwest) + 椒 (the pepper/prickly-ash register). The 胡 prefix marks it as an introduced spice, distinguishing it from native 椒 plants such as Sichuan pepper (花椒). Black pepper is 黑胡椒, white pepper is 白胡椒.
 
-The name 胡椒 (hújiāo) is a provenance marker: 胡 "foreign" (from the western regions) + 椒, the character for the pepper/prickly-ash class. The 胡 prefix records that pepper arrived in China as an introduced spice — distinguishing it from native 椒 plants such as 花椒 (*Zanthoxylum*, Sichuan pepper). The color forms are named plainly: 黑胡椒 (black pepper) and 白胡椒 (white pepper), the same fruit processed differently.
+The name 胡椒 (hújiāo) is a provenance marker: 胡 "foreign" (from the western regions) + 椒, the character for the pepper/prickly-ash class. The 胡 prefix records that pepper arrived in China as an introduced spice — distinguishing it from native 椒 plants such as 花椒 (*Zanthoxylum*, Sichuan pepper). The color forms are named plainly: black pepper (黑胡椒) and white pepper (白胡椒), the same fruit processed differently.
 
 ## Heat is not fragrance (read this)
 
@@ -123,7 +123,7 @@ The quality factors:
 For an incense maker or formulator:
 
 - **Freshness** — freshly processed or freshly ground pepper is markedly more aromatic; the volatile oil fades once ground.
-- **Species** — 胡椒 (*Piper nigrum*) versus 荜茇 (long pepper) and 荜澄茄 (cubeb), distinct *Piper* spices.
+- **Species** — 胡椒 (*Piper nigrum*) versus long pepper (荜茇) and cubeb (荜澄茄), distinct *Piper* spices.
 - **Color form** — black, white, or green, depending on the note wanted.
 - **Dosing** — a sparing accent; too much produces acrid smoke.
 
@@ -161,11 +161,11 @@ In our view, pepper is a bright, fresh, pungent top-note accent whose real procu
 
 ## FAQ
 
-**What is 胡椒 (pepper)?** The dried fruit of *Piper nigrum*, a climbing vine of the pepper family (Piperaceae) native to South India and long cultivated across the tropics. It is the world's most common spice, with a hot, pungent, warm-woody scent from the alkaloid piperine and the volatile essential oil. In Chinese incense it is used as a warming spice accent, sparingly, to sharpen heavier woods and resins.
+**What is pepper (胡椒)?** The dried fruit of *Piper nigrum*, a climbing vine of the pepper family (Piperaceae) native to South India and long cultivated across the tropics. It is the world's most common spice, with a hot, pungent, warm-woody scent from the alkaloid piperine and the volatile essential oil. In Chinese incense it is used as a warming spice accent, sparingly, to sharpen heavier woods and resins.
 
 **What is the difference between black, white, and green pepper?** They are all the fruit of the same plant, *Piper nigrum*, processed differently. Black pepper is the unripe fruit dried whole; white pepper is the ripe fruit with the outer husk removed; green pepper is the unripe fruit preserved fresh. The scent is broadly similar — hot and pungent — but black pepper is the most aromatic, white pepper is milder and earthier, and green pepper is fresher and more herbal.
 
-**How does 胡椒 relate to 荜茇 (long pepper) and 荜澄茄 (cubeb)?** All three are *Piper* spices with a peppery character, but they are distinct species. 胡椒 is *Piper nigrum*; 荜茇 (long pepper) is *Piper longum*; and 荜澄茄 (cubeb) is *Piper cubeba*. They share a family resemblance — pungent and warm — but each has its own entry in this encyclopedia and its own profile.
+**How does pepper (胡椒) relate to long pepper (荜茇) and cubeb (荜澄茄)?** All three are *Piper* spices with a peppery character, but they are distinct species. 胡椒 is *Piper nigrum*; long pepper (荜茇) is *Piper longum*; and cubeb (荜澄茄) is *Piper cubeba*. They share a family resemblance — pungent and warm — but each has its own entry in this encyclopedia and its own profile.
 
 **Why does fresh pepper smell stronger than pre-ground?** Because the aroma of pepper comes chiefly from its volatile essential oil, which fades quickly once the fruit is ground and exposed to air. The heat, from the alkaloid piperine, persists, but the fragrant top note does not. This is why freshly ground pepper is markedly more aromatic — and why pepper used in incense or cooking should be freshly processed.
 
