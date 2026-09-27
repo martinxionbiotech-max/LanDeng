@@ -12,7 +12,7 @@ author: "Landeng Tech Team"
 ---
 
 
-**Quick answer:** The single most important 奇楠 (qinan) buying rule is **price honesty** — 奇楠 is orders of magnitude more expensive than ordinary agarwood, so anything sold as 奇楠 at a bargain is almost certainly not 奇楠. The supporting checks are the **seller's ability to name species and grade**, and the **aroma on gentle heat**.
+**Quick answer:** The single most important qinan (奇楠) buying rule is **price honesty** — 奇楠 is orders of magnitude more expensive than ordinary agarwood, so anything sold as 奇楠 at a bargain is almost certainly not 奇楠. The supporting checks are the **seller's ability to name species and grade**, and the **aroma on gentle heat**.
 
 <img src="/images/qinan-agarwood-closeup-1200x675.webp" alt="Extreme close-up of qinan agarwood surface with rich resin veins and oily texture" width="1200" height="675" loading="lazy">
 
@@ -74,16 +74,16 @@ See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incen
 
 ## FAQ
 
-### Q: How do I know if 奇楠 is real?
+### Q: How do I know if qinan (奇楠) is real?
 Ask the seller to name the species, grade, and origin; check the gentle-heat aroma (complex and sweet); and treat too-cheap-for-奇楠 as a red flag. Start with the seller: a genuine vendor can name the *Aquilaria* species, the origin, and the grade — 沉水 versus 奇楠 — and describe how the material behaves on gentle heat. Real 奇楠 is complex, sweet, and layered, often fragrant even unheated, while a fake tends to smell flat, "perfume-like," or like burnt wood. Then apply the price test, because 奇楠 is orders of magnitude more expensive than ordinary agarwood, so any "奇楠" at a bargain is almost certainly not. Combine seller accountability, gentle-heat aroma, and price honesty rather than trusting a single trick.
 
-### Q: Is the sink test reliable for 奇楠?
+### Q: Is the sink test reliable for qinan (奇楠)?
 No — oil-injection fakes are designed to pass it. Combine any density test with aroma and seller checks. For 奇楠 the sink test is especially weak, because oil-injection fakes are engineered precisely to pass weight and density checks, so a piece that sinks proves only that it is heavy, not that it is genuine. The test can still rule out very light, low-resin wood, but it cannot confirm authenticity. Density checks should always be combined with the seller's ability to name species and grade, the aroma on gentle heat, and the price. A cheap piece that sinks and smells "perfume-like" is more likely a treated fake than a bargain 奇楠.
 
-### Q: What should I buy if I can't afford real 奇楠?
+### Q: What should I buy if I can't afford real qinan (奇楠)?
 Good 沉水-grade ordinary agarwood — most of the experience at a fraction of the risk. It delivers a deep, resinous, sweet wood at a small fraction of 奇楠's price and with far less counterfeit risk, because the huge price gap is exactly where 奇楠 fakes concentrate. Ordinary agarwood is a legitimate material with its own grading system, and a well-sourced 沉水 piece is a satisfying, honest purchase. The author's rule is simple: if you cannot comfortably afford real 奇楠, do not chase an "affordable" version; buy the best ordinary agarwood you can verify from a seller who names species and origin.
 
-### Q: Why is 奇楠 so expensive?
+### Q: Why is qinan (奇楠) so expensive?
 It is the top resin-saturated grade of agarwood, and genuine material is scarce. 奇楠 forms only when *Aquilaria* wood becomes so thoroughly impregnated with resin that it turns soft, pliable, and fragrant even at room temperature — a rare, slow process, not something every tree produces. Demand far exceeds supply, so wholesale prices sit in the thousands of RMB per gram, with top grades far higher. That enormous gap between ordinary agarwood and 奇楠 is itself a warning sign: it is the margin that counterfeiters target, which is why "cheap 奇楠" is nearly always a contradiction.
 
 ---
