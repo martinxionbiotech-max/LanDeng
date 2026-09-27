@@ -44,22 +44,22 @@ Rue is strongly bitter and herbaceous, with a green, faintly woody, penetrating 
 
 The name 芸香 carries two overlapping senses in Chinese:
 
-- **芸香 (rue)** — *Ruta graveolens*, the bitter Mediterranean herb. This entry.
+- **rue (芸香)** — *Ruta graveolens*, the bitter Mediterranean herb. This entry.
 - **芸香 (the "book herb")** — a broader, functional sense: aromatic herbs placed among books and scrolls to deter insects, so that a library or study is poetically called 芸阁 (yún'gé) or 芸台 (yúntái).
 
 The two senses are related — both are strong, protective green aromatics — but they are not the same claim. A label that says only 芸香 identifies a function and a family of herbs more than a single species.
 
-## The 芸香 / 佩兰 "兰"-name distinction (read this)
+## The rue (芸香) / eupatorium (佩兰) "兰"-name distinction (read this)
 
-> **Direct answer:** 芸香 (rue) and 佩兰 (eupatorium) are different plants from different families, but both belong to the classical roster of Chinese fragrant herbs, and the character 兰 ("orchid") in 佩兰 invites confusion with true orchids. 芸香 is a Rutaceae rue with a bitter, penetrating scent; 佩兰 is an Asteraceae herb whose name means "worn orchid." Neither is an orchid.
+> **Direct answer:** rue (芸香) and eupatorium (佩兰) are different plants from different families, but both belong to the classical roster of Chinese fragrant herbs, and the character 兰 ("orchid") in 佩兰 invites confusion with true orchids. 芸香 is a Rutaceae rue with a bitter, penetrating scent; 佩兰 is an Asteraceae herb whose name means "worn orchid." Neither is an orchid.
 
 A recurring difficulty in classical Chinese aromatic nomenclature is that the character 兰 ("orchid") names many fragrant plants that are **not** orchids, and 芸香 sits beside those names without being one of them:
 
-- **芸香 (rue)** — *Ruta graveolens*, Rutaceae; bitter, herbaceous, penetrating. This entry.
-- **佩兰 (eupatorium)** — *Eupatorium fortunei*, Asteraceae; fresh, herbaceous, mildly sweet, literally "worn orchid" (see [eupatorium](/ingredients/eupatorium/)).
+- **rue (芸香)** — *Ruta graveolens*, Rutaceae; bitter, herbaceous, penetrating. This entry.
+- **eupatorium (佩兰)** — *Eupatorium fortunei*, Asteraceae; fresh, herbaceous, mildly sweet, literally "worn orchid" (see [eupatorium](/ingredients/eupatorium/)).
 - **泽兰** — *Eupatorium japonicum*, a related but distinct herb (see [eupatorium-japonicum](/ingredients/eupatorium-japonicum/)).
 
-The point for a buyer or reader: "兰" is a name of honor in Chinese fragrant-herb culture, not a botanical family. 芸香 is a rue, 佩兰 is a eupatorium, and neither is an orchid — yet all three share the classical fragrant-herb register, which is precisely where the confusion lives.
+The point for a buyer or reader: "兰" is a name of honor in Chinese fragrant-herb culture, not a botanical family. 芸香 is a rue, 佩兰 is an eupatorium, and neither is an orchid — yet all three share the classical fragrant-herb register, which is precisely where the confusion lives.
 
 ## Rue in the classical record (香乘考据)
 
@@ -164,7 +164,7 @@ Rue (芸香) is the dried herb of *Ruta graveolens*, a Mediterranean Rutaceae sh
 
 **Why is rue associated with books?** Because 芸香 is the classical "book herb" — its strong aromatic, insect-repelling character led people to place it among books and scrolls to protect them, and a library or study is poetically called 芸阁 or 芸台 in Chinese. The Ming *Xiangcheng* (香乘) records the practice, and also records laying 芸香 leaves under a mat to drive off fleas. The association is cultural and functional, tied to the herb's intensity rather than any fragrance sweetness.
 
-**Is 芸香 (rue) the same as 佩兰 (eupatorium)?** No. 芸香 is *Ruta graveolens*, a Rutaceae rue with a bitter, penetrating scent. 佩兰 is *Eupatorium fortunei*, an Asteraceae herb whose name means "worn orchid." Both belong to the classical roster of Chinese fragrant herbs, but they are different plants from different families, and neither is an orchid — the character 兰 in 佩兰 names a fragrant herb, not an orchid species.
+**Is rue (芸香) the same as eupatorium (佩兰)?** No. 芸香 is *Ruta graveolens*, a Rutaceae rue with a bitter, penetrating scent. 佩兰 is *Eupatorium fortunei*, an Asteraceae herb whose name means "worn orchid." Both belong to the classical roster of Chinese fragrant herbs, but they are different plants from different families, and neither is an orchid — the character 兰 in 佩兰 names a fragrant herb, not an orchid species.
 
 **What does rue smell like?** Strongly bitter and herbaceous, with a green, faintly woody, penetrating scent that is unmistakably sharp — often described as acrid or medicinal to modern noses. It is a powerful accent rather than a pleasant base: a little goes a long way, and it is blended sparingly rather than burned alone.
 
