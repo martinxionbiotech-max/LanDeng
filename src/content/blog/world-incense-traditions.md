@@ -23,7 +23,7 @@ author: "Landeng Tech Team"
 ## Key Takeaways
 
 - Incense traditions differ by **form, scent, and purpose** — not just by geography.
-- **Chinese incense** is the historical root: warmer, layered, and home to the refined 隔火焚香 (indirect-fire) technique.
+- **Chinese incense** is the historical root: warmer, layered, and home to the refined indirect-fire (隔火焚香) technique.
 - **Japanese kōdō** is a formalized, minimalist art descended from that Chinese technique.
 - **Indian agarbatti** is bold and expressive, split between masala (materials) and dipped (fragrance) grades.
 - **Tibetan incense** is a thick, coreless, herbal **recipe** rooted in Sowa Rigpa and monastery ritual.
@@ -55,7 +55,7 @@ Beneath the differences, every tradition burns or gently heats **aromatic plant 
 
 ## Where Each Tradition Fits
 
-- **[Chinese incense](/blog/what-is-chinese-incense/)** — the source tradition; see it for the history, the Four Leisure Arts, and 合香 (blending).
+- **[Chinese incense](/blog/what-is-chinese-incense/)** — the source tradition; see it for the history, the Four Leisure Arts, and blending (合香).
 - **[Japanese incense & kōdō](/blog/japanese-incense-kodo/)** — the formalized, minimalist art built on the Song-dynasty 隔火焚香 technique.
 - **[Indian incense (agarbatti)](/blog/indian-incense-agarbatti/)** — bold and expressive, with the crucial masala-vs-dipped distinction.
 - **[Tibetan incense (藏香)](/blog/tibetan-incense/)** — a herbal recipe tradition tied to Tibetan medicine and monasteries.
