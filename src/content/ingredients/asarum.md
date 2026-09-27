@@ -46,14 +46,14 @@ The family placement is itself a meaningful identification point: *Asarum* belon
 
 The name 细辛 (xìxīn) is descriptive and precise: 细 "slender, thin" + 辛 "pungent, acrid." It names the plant by the two qualities that define it — the slender root and its intense pungency. The *Bencao Gangmu* (本草纲目), 草之二, records the aliases 小辛 and 少辛 and explains "華州真細辛，根細而味極辛" — the true 细辛 (from Huazhou) has a thin root and an extremely pungent taste. The name, then, is a *quality descriptor*: it tells you that the material is defined by its hot, acrid character, which is exactly the quality that separates it from sweeter, resinous fragrance materials.
 
-## The 细辛 / 杜衡 distinction (read this)
+## The asarum (细辛) / wild ginger (杜衡) distinction (read this)
 
 > **Direct answer:** 细辛 has a classical look-alike: 杜衡 (*Asarum forbesii*), a similar wild-ginger root with curved, brittle, yellow-white roots, long passed off for the slender, deep-purple, very pungent true 细辛. The *Bencao Gangmu* quotes the warning "杜衡亂細辛，自古已然矣" — 杜衡 has been confused with 细辛 since ancient times.
 
 细辛 has a classical look-alike worth knowing:
 
-- **细辛 (asarum)** — *Asarum sieboldii*, the slender, intensely pungent root. This entry.
-- **杜衡 (wild ginger)** — *Asarum forbesii* (and related *Asarum* species), a similar-looking root often passed off for 细辛.
+- **asarum (细辛)** — *Asarum sieboldii*, the slender, intensely pungent root. This entry.
+- **wild ginger (杜衡)** — *Asarum forbesii* (and related *Asarum* species), a similar-looking root often passed off for 细辛.
 
 The *Bencao Gangmu* (本草纲目), 草之二, quotes Shen Kuo's *Mengxi Bitan*: 细辛 grows on Mount Hua, "極細而直，柔韌，深紫色，味極辛" (extremely thin, straight, pliant, deep purple, very pungent), and warns that 杜衡 (with curved, brittle, yellow-white roots) was long sold in its place — "杜衡亂細辛，自古已然矣." **This page describes 细辛 = *Asarum sieboldii*.** The distinction is an ancient one, which makes it a durable sourcing point: the look-alike problem is not a modern-market invention but a documented classical hazard.
 
@@ -104,7 +104,7 @@ These are sensory and morphological checks drawn from the classical record, not 
 
 The documented, non-medical facts are botanical identity, the Aristolochiaceae placement, and the 杜衡 look-alike distinction.
 
-## A note on 香囊 (sachet) use
+## A note on sachet (香囊) use
 
 > **Direct answer:** We did not find 细辛 documented as a classical 香囊 or incense ingredient. Its classical role is materia medica, and its pungent root scent is medicinal rather than a fragrance for sachets or burning — so no sachet or incense origin is claimed.
 
@@ -147,13 +147,13 @@ Asarum (细辛, "thin and pungent") is the slender, intensely pungent root of *A
 
 ## FAQ
 
-**What is 细辛 (asarum)?** The dried root and rhizome of *Asarum sieboldii*, a low woodland herb of the birthwort family (Aristolochiaceae) native to China, Korea, and Japan. Its name means "thin [and] pungent," from the slender root's intense, spicy, camphoraceous scent. It is a classical Chinese materia-medica root.
+**What is asarum (细辛)?** The dried root and rhizome of *Asarum sieboldii*, a low woodland herb of the birthwort family (Aristolochiaceae) native to China, Korea, and Japan. Its name means "thin [and] pungent," from the slender root's intense, spicy, camphoraceous scent. It is a classical Chinese materia-medica root.
 
-**What does 细辛 mean?** 细 means "slender" and 辛 means "pungent." The *Bencao Gangmu* (本草纲目), 草之二, explains "華州真細辛，根細而味極辛" — the true 细辛 has a thin root and an extremely pungent taste. The classical aliases 小辛 and 少辛 carry the same meaning.
+**What does asarum (细辛) mean?** 细 means "slender" and 辛 means "pungent." The *Bencao Gangmu* (本草纲目), 草之二, explains "華州真細辛，根細而味極辛" — the true 细辛 has a thin root and an extremely pungent taste. The classical aliases 小辛 and 少辛 carry the same meaning.
 
-**Is 细辛 the same as 杜衡?** No. 细辛 is *Asarum sieboldii*, slender and very pungent; 杜衡 is *Asarum forbesii*, a similar wild-ginger root with curved, brittle, yellow-white roots. The *Bencao Gangmu* warns that 杜衡 was long sold in 细辛's place — "杜衡亂細辛，自古已然矣."
+**Is asarum (细辛) the same as wild ginger (杜衡)?** No. 细辛 is *Asarum sieboldii*, slender and very pungent; 杜衡 is *Asarum forbesii*, a similar wild-ginger root with curved, brittle, yellow-white roots. The *Bencao Gangmu* warns that 杜衡 was long sold in 细辛's place — "杜衡亂細辛，自古已然矣."
 
-**Is 细辛 an incense or sachet (香囊) ingredient?** We did not find it documented as a classical 香囊 or incense ingredient. Its classical role is materia medica (草之二), and its pungent root scent is medicinal rather than a fragrance for sachets or burning. No sachet or incense origin is claimed.
+**Is asarum (细辛) an incense or sachet (香囊) ingredient?** We did not find it documented as a classical 香囊 or incense ingredient. Its classical role is materia medica (草之二), and its pungent root scent is medicinal rather than a fragrance for sachets or burning. No sachet or incense origin is claimed.
 
 **What does asarum smell like?** Intense, pungent, spicy, and rooty, with a camphoraceous, almost pepper-like bite — the hot, aromatic smell of a wild-ginger root. It is far sharper and more medicinal than the sweet, resinous incense 香材.
 
