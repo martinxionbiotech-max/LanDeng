@@ -103,13 +103,13 @@ In our view, 米仔兰 is a **minor but instructive southern flower**: its inter
 
 ## FAQ
 
-**What is 米仔兰 (aglaia)?** A small evergreen tree or shrub of the mahogany family (Meliaceae), *Aglaia odorata*, native to southern China and Southeast Asia. Its tiny, yellow, bead-like flowers are sweetly and delicately fragrant, and it is grown as a garden and courtyard fragrant plant in the subtropical south.
+**What is aglaia (米仔兰)?** A small evergreen tree or shrub of the mahogany family (Meliaceae), *Aglaia odorata*, native to southern China and Southeast Asia. Its tiny, yellow, bead-like flowers are sweetly and delicately fragrant, and it is grown as a garden and courtyard fragrant plant in the subtropical south.
 
-**Is 米仔兰 an orchid?** No. Despite the 兰 ("orchid") in its common names (米仔兰, 米兰, 树兰, 珠兰), *Aglaia odorata* belongs to the mahogany family (Meliaceae), not Orchidaceae. The 兰 is a fragrance honorific shared by many unrelated sweet-scented plants.
+**Is aglaia (米仔兰) an orchid?** No. Despite the 兰 ("orchid") in its common names (米仔兰, 米兰, 树兰, 珠兰), *Aglaia odorata* belongs to the mahogany family (Meliaceae), not Orchidaceae. The 兰 is a fragrance honorific shared by many unrelated sweet-scented plants.
 
 **What does aglaia smell like?** Sweet and floral, with a delicate, slightly fruity, tea- or lemon-adjacent character, carried on tiny clusters of bead-sized yellow flowers. It is softer and less heady than jasmine or champaca, closer to a subtle garden scent, and it is enjoyed as a living plant rather than a burned material.
 
-**Is 米仔兰 a classical Chinese incense ingredient?** No. It does not appear in the Ming-dynasty *Xiangcheng* (香乘). Its use is as a southern garden and courtyard fragrant flower, not a burned incense material — an absence this entry records honestly rather than inventing a classical pedigree.
+**Is aglaia (米仔兰) a classical Chinese incense ingredient?** No. It does not appear in the Ming-dynasty *Xiangcheng* (香乘). Its use is as a southern garden and courtyard fragrant flower, not a burned incense material — an absence this entry records honestly rather than inventing a classical pedigree.
 
 **Where does aglaia grow?** In southern China and Southeast Asia, where it is long cultivated as an ornamental and fragrant plant. Its tiny yellow flowers are the fragrant part, and the name 米仔兰 ("rice-grain orchid") describes their bead-like size.
 
