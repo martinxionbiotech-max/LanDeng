@@ -38,7 +38,7 @@ related: ["agarwood", "sandalwood"]
 
 This is the core buyer-intelligence point for 降真香. Two different plants are sold under the name:
 
-- **降真香 (classical)** — *Acronychia pedunculata* (山油柑), a citrus-family (Rutaceae) tree of southern China and Southeast Asia, whose resinous heartwood is the material described in the classical manuals.
+- **classical (降真香)** — *Acronychia pedunculata* (山油柑), a citrus-family (Rutaceae) tree of southern China and Southeast Asia, whose resinous heartwood is the material described in the classical manuals.
 - **降香 (modern conflation)** — *Dalbergia odorifera* (降香黄檀, "scented rosewood"), a legume whose fragrant wood is the 降香 of the modern Chinese pharmacopoeia, and which has increasingly replaced the classical material in trade.
 
 The classical *Xiangcheng* (香乘) describes 降真香 as a tree's heartwood (树心也) with a thick white outer bark (外白皮厚八九寸) — a description that fits *Acronychia pedunculata*. But in modern commerce the name frequently refers to *Dalbergia odorifera*. The two are different plants from different families; buyers should confirm which is meant.
@@ -58,7 +58,7 @@ The name 降真香 is a **ritual name**, not a botanical one: 降 (jiàng, "to d
 ## In Chinese tradition
 
 - **Daoist ritual (Historical Record):** 降真香's name means roughly "the incense that summons the true (immortals)." Classical sources describe burning it so the smoke rises straight, invoking cranes and stars in altar rites — 伴和诸香烧烟直上感引鹤降醮星辰烧此香妙为第一.
-- **合香 (blended incense) (Historical Record):** 降真香 is prized in blends rather than alone — it "becomes especially fine mixed with other aromatics."
+- **blended incense (合香) (Historical Record):** 降真香 is prized in blends rather than alone — it "becomes especially fine mixed with other aromatics."
 - **Folk fumigation (Traditional Use):** 降真香 was also burned against "seasonal qi" and household disturbances (主天行时气宅舍怪异) — folk custom, not modern evidence.
 - **Materia medica (Traditional Use):** 降真香 / 降香 appear in traditional medicine. We treat such use as **traditional**, not established clinical fact.
 
@@ -143,7 +143,7 @@ For a sourcing buyer:
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## 降真香 vs agarwood vs sandalwood
+## jiangzhenxiang (降真香) vs agarwood vs sandalwood
 
 > **Direct answer:** 降真香, agarwood, and sandalwood are all fragrant woods, but they differ in formation and identity. Agarwood is injury-induced resin wood (*Aquilaria*); sandalwood is fragrant heartwood (*Santalum*); 降真香 is a resinous heartwood whose very species is contested (*Acronychia pedunculata* vs *Dalbergia odorifera*). They are not interchangeable.
 
@@ -173,15 +173,15 @@ In our view, the commercial sweet spot for 降真香 is a **species-confirmed, f
 
 ## FAQ
 
-**What is 降真香?** 降真香 is a fragrant, resinous heartwood best known as the incense of Daoist ritual — its name means roughly "the incense that summons the true (immortals)," and classical sources describe burning it so its smoke rises straight to invoke the spirits. It is subtle burned alone and prized in blends. Its botanical identity is contested, however: classical texts point to *Acronychia pedunculata*, while modern trade often uses *Dalbergia odorifera*.
+**What is jiangzhenxiang (降真香)?** 降真香 is a fragrant, resinous heartwood best known as the incense of Daoist ritual — its name means roughly "the incense that summons the true (immortals)," and classical sources describe burning it so its smoke rises straight to invoke the spirits. It is subtle burned alone and prized in blends. Its botanical identity is contested, however: classical texts point to *Acronychia pedunculata*, while modern trade often uses *Dalbergia odorifera*.
 
-**What is the difference between 降真香 and 降香?** In classical terms, 降真香 is the resinous heartwood of *Acronychia pedunculata* (山油柑), a citrus-family tree. In modern trade and the pharmacopoeia, 降香 most often refers to *Dalbergia odorifera* (降香黄檀, scented rosewood), a legume. The two are different woods from different families, but the names have been conflated, so the same label can mean either — a key point to check when buying.
+**What is the difference between jiangzhenxiang (降真香) and Dalbergia odorifera (降香)?** In classical terms, 降真香 is the resinous heartwood of *Acronychia pedunculata* (山油柑), a citrus-family tree. In modern trade and the pharmacopoeia, 降香 most often refers to *Dalbergia odorifera* (降香黄檀, scented rosewood), a legume. The two are different woods from different families, but the names have been conflated, so the same label can mean either — a key point to check when buying.
 
-**Why is 降真香 associated with Daoism?** Because of its ritual role. The name 降真 means "descending the true/immortals," and classical sources describe burning 降真香 in altar rites so the smoke rises straight to summon cranes and stars — 伴和诸香烧烟直上感引鹤降醮星辰. Its "straight-rising smoke" made it the classic Daoist ritual incense, which is why it carries a strong religious and cultural association beyond its scent.
+**Why is jiangzhenxiang (降真香) associated with Daoism?** Because of its ritual role. The name 降真 means "descending the true/immortals," and classical sources describe burning 降真香 in altar rites so the smoke rises straight to summon cranes and stars — 伴和诸香烧烟直上感引鹤降醮星辰. Its "straight-rising smoke" made it the classic Daoist ritual incense, which is why it carries a strong religious and cultural association beyond its scent.
 
-**What does 降真香 smell like?** Classical sources describe it as subtle on its own — 烧之初不甚香 (not very fragrant at first burning) — but excellent when blended, where it "becomes especially fine mixed with other aromatics" (得诸香和之则特美). Its smoke was prized as powerful and far-reaching (焚之气劲而远). So its reputation rests on blending behavior and ritual use rather than a bright solo fragrance.
+**What does jiangzhenxiang (降真香) smell like?** Classical sources describe it as subtle on its own — 烧之初不甚香 (not very fragrant at first burning) — but excellent when blended, where it "becomes especially fine mixed with other aromatics" (得诸香和之则特美). Its smoke was prized as powerful and far-reaching (焚之气劲而远). So its reputation rests on blending behavior and ritual use rather than a bright solo fragrance.
 
-**Is 降真香 a wood or a resin?** It is a resinous *heartwood* — the fragrant, resin-saturated inner wood of the tree, not a flowing resin like frankincense or a bark. The classical *Xiangcheng* (香乘) describes it as the tree's heartwood (树心也) beneath a thick white outer bark. This distinguishes it from resins (which are exuded) and from simple aromatic woods without the resinous character.
+**Is jiangzhenxiang (降真香) a wood or a resin?** It is a resinous *heartwood* — the fragrant, resin-saturated inner wood of the tree, not a flowing resin like frankincense or a bark. The classical *Xiangcheng* (香乘) describes it as the tree's heartwood (树心也) beneath a thick white outer bark. This distinguishes it from resins (which are exuded) and from simple aromatic woods without the resinous character.
 
 **Is the "straight-rising smoke" a real property?** It is a ritual-observational claim from the classical record, not a measurable physical property. Smoke behavior depends on material, burn method, airflow, and the blend — so the "straight-rising smoke" is best understood as 降真香's cultural and ritual meaning, faithfully recorded, rather than as a verifiable specification of one wood.
 
