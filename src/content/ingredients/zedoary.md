@@ -44,7 +44,7 @@ The zedoary group belongs to the ginger family (Zingiberaceae), native to South 
 
 The name 莪术 (ézhú) carries no aromatic or color marker — it is a plain materia-medica name for a medicinal rhizome. Contrast this with its two *Curcuma* relatives: 姜黄 ("ginger-yellow," naming the color) and 郁金 ("aromatic gold," naming the fragrance). The plainness of 莪术 is telling: it names a medicinal material, and its appearance in incense is as a minor, prepared additive rather than a named scent.
 
-## The 郁金 / 姜黄 / 莪术 confusion (read this)
+## The aromatic turmeric (郁金) / turmeric (姜黄) / zedoary (莪术) confusion (read this)
 
 > **Direct answer:** Three closely related *Curcuma* rhizomes — 姜黄 (*Curcuma longa*), 郁金 (*Curcuma aromatica*), and 莪术 (the zedoary group) — share overlapping Chinese names and warm, earthy, camphoraceous characters, and historical sources have not always kept them apart. This page describes 莪术; the other two are distinct materials.
 
@@ -155,7 +155,7 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 | Botanical source | *Curcuma zedoaria* / *C. phaeocaulis* | *Curcuma longa* | *Curcuma aromatica* |
 | Character | Earthy, camphoraceous, strongly medicinal | Earthy, warm, culinary | Earthy, camphoraceous, aromatic |
 | Primary role | Materia medica; minor incense additive | Culinary spice + coloring | Materia medica; aromatic oil |
-| Classical note | Prepared (vinegar + salt) | — | 郁金油 (aromatic-turmeric oil) |
+| Classical note | Prepared (vinegar + salt) | — | aromatic-turmeric oil (郁金油) |
 
 See [turmeric](/ingredients/turmeric/), [aromatic-turmeric](/ingredients/aromatic-turmeric/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
 
@@ -177,17 +177,17 @@ In our view, 莪术 is a minor, medicinal-flavored *Curcuma* rhizome whose value
 
 ## FAQ
 
-**What is 莪术 (zedoary)?** The dried rhizome of the zedoary group, *Curcuma zedoaria* (with *Curcuma phaeocaulis* as the Flora-of-china species most often cited for Chinese material), a ginger-family (Zingiberaceae) perennial of South and Southeast Asia. It is a warm, camphoraceous, earthy rhizome in the same genus as turmeric, used primarily in traditional medicine and recorded as a minor ingredient in classical incense.
+**What is zedoary (莪术)?** The dried rhizome of the zedoary group, *Curcuma zedoaria* (with *Curcuma phaeocaulis* as the Flora-of-china species most often cited for Chinese material), a ginger-family (Zingiberaceae) perennial of South and Southeast Asia. It is a warm, camphoraceous, earthy rhizome in the same genus as turmeric, used primarily in traditional medicine and recorded as a minor ingredient in classical incense.
 
-**What is the difference between 莪术, 姜黄, and 郁金?** All three are distinct *Curcuma* rhizomes. 姜黄 is *Curcuma longa* — "turmeric," the yellow-orange culinary and coloring rhizome. 郁金 is *Curcuma aromatica* — a distinct medicinal rhizome sometimes called "wild turmeric." 莪术 is the zedoary group (*Curcuma zedoaria* / *C. phaeocaulis*). This page describes 莪术; the other two are separate materials.
+**What is the difference between zedoary (莪术), turmeric (姜黄), and aromatic turmeric (郁金)?** All three are distinct *Curcuma* rhizomes. 姜黄 is *Curcuma longa* — "turmeric," the yellow-orange culinary and coloring rhizome. 郁金 is *Curcuma aromatica* — a distinct medicinal rhizome sometimes called "wild turmeric." 莪术 is the zedoary group (*Curcuma zedoaria* / *C. phaeocaulis*). This page describes 莪术; the other two are separate materials.
 
-**What does 莪术 smell like?** Earthy and camphoraceous, warm with a slightly bitter, medicinal edge — the most strongly medicinal of the three common *Curcuma* rhizomes. In incense it reads as a minor supporting note in the ginger-family register rather than a fragrance in its own right.
+**What does zedoary (莪术) smell like?** Earthy and camphoraceous, warm with a slightly bitter, medicinal edge — the most strongly medicinal of the three common *Curcuma* rhizomes. In incense it reads as a minor supporting note in the ginger-family register rather than a fragrance in its own right.
 
-**Is 莪术 the same as turmeric?** No. 莪术 is the zedoary group (*Curcuma zedoaria* / *C. phaeocaulis*), while turmeric is *Curcuma longa*. Both are *Curcuma* rhizomes, which is the source of the confusion, but they are different species with different uses — turmeric is the culinary coloring rhizome, 莪术 is a medicinal rhizome.
+**Is zedoary (莪术) the same as turmeric?** No. 莪术 is the zedoary group (*Curcuma zedoaria* / *C. phaeocaulis*), while turmeric is *Curcuma longa*. Both are *Curcuma* rhizomes, which is the source of the confusion, but they are different species with different uses — turmeric is the culinary coloring rhizome, 莪术 is a medicinal rhizome.
 
-**Does 莪术 appear in classical incense?** Yes, as a minor ingredient. The Ming-dynasty *Xiangcheng* (香乘) records 莪术 in a processing note — 莪术醋煮過用鹽水浸出…為末蜜和同甘草膏為餅 — indicating a prepared, minor addition rather than a principal scent. The processing (vinegar-boiling, salt-soaking, honey-and-licorice binding) is itself the evidence of its background rank.
+**Does zedoary (莪术) appear in classical incense?** Yes, as a minor ingredient. The Ming-dynasty *Xiangcheng* (香乘) records 莪术 in a processing note — 莪术醋煮過用鹽水浸出…為末蜜和同甘草膏為餅 — indicating a prepared, minor addition rather than a principal scent. The processing (vinegar-boiling, salt-soaking, honey-and-licorice binding) is itself the evidence of its background rank.
 
-**How should I buy 莪术 for incense?** Distinguish it from 姜黄 (*Curcuma longa*) and 郁金 (*Curcuma aromatica*) first, then confirm a clean, well-dried rhizome with the warm, camphoraceous, slightly bitter character. Treat it as a minor, prepared supporting note — usually processed, not burned alone.
+**How should I buy zedoary (莪术) for incense?** Distinguish it from 姜黄 (*Curcuma longa*) and 郁金 (*Curcuma aromatica*) first, then confirm a clean, well-dried rhizome with the warm, camphoraceous, slightly bitter character. Treat it as a minor, prepared supporting note — usually processed, not burned alone.
 
 See also: [turmeric](/ingredients/turmeric/), [aromatic-turmeric](/ingredients/aromatic-turmeric/), and the full [scent guide](/blog/scent-guide/).
 
