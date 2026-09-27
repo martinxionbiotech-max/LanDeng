@@ -12,7 +12,7 @@ author: "Landeng Tech Team"
 ---
 
 
-**Data summary:** 四般闲事 ("four leisurely arts") is the Song-dynasty ideal of cultivated leisure — **烧香 (burning incense), 点茶 (whisking tea), 挂画 (hanging paintings), and 插花 (arranging flowers)**. The phrase comes from 吴自牧's *梦粱录* (Meng Liang Lu): "烧香点茶，挂画插花，四般闲事，不宜累家" — four leisurely arts, not to be burdened by household cares.
+**Data summary:** 四般闲事 ("four leisurely arts") is the Song-dynasty ideal of cultivated leisure — **burning incense (烧香), whisking tea (点茶), hanging paintings (挂画), and arranging flowers (插花)**. The phrase comes from 吴自牧's *梦粱录* (Meng Liang Lu): "烧香点茶，挂画插花，四般闲事，不宜累家" — four leisurely arts, not to be burdened by household cares.
 
 <img src="/images/four-leisure-arts-ensemble-1200x675.webp" alt="The four leisure arts ensemble on a scholar's desk" width="1200" height="675" loading="lazy">
 
@@ -84,7 +84,7 @@ For how incense is actually used in a mindful context today, see [incense for me
 ## FAQ
 
 ### Q: What are the four leisure arts?
-烧香 (burning incense), 点茶 (whisking tea), 挂画 (hanging paintings), and 插花 (arranging flowers) — the Song-dynasty ideal of cultivated leisure. The phrase treats these four as a coordinated aesthetic of the scholar's life rather than isolated hobbies. Incense was one of four, not practiced alone: the point of the grouping is that these are arts of attention and pleasure, each training perception through a different sense.
+burning incense (烧香), whisking tea (点茶), hanging paintings (挂画), and arranging flowers (插花) — the Song-dynasty ideal of cultivated leisure. The phrase treats these four as a coordinated aesthetic of the scholar's life rather than isolated hobbies. Incense was one of four, not practiced alone: the point of the grouping is that these are arts of attention and pleasure, each training perception through a different sense.
 
 ### Q: Where does the phrase come from?
 吴自牧's《梦粱录》(Meng Liang Lu), a Song-dynasty memoir of daily life in the capital Hangzhou. The passage reads: "烧香点茶，挂画插花，四般闲事，不宜累家" — burning incense, whisking tea, hanging paintings, arranging flowers: four leisurely arts, not to be burdened by household cares. This single line is the canonical source for the phrase and for incense's place among the refined pastimes of the era. Because it is a cultural-historical record rather than a medical or ritual text, it is cited here as evidence of how incense was grouped with the other cultivated arts, not as a health or efficacy claim.
