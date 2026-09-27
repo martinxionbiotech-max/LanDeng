@@ -83,7 +83,7 @@ For sticks and cones, you need only a holder and an ash catcher — no tools at 
 ### Q: What is the 炉瓶三事?
 The 炉瓶三事 — "three things at the burner" — is the canonical grouping of the censer (香炉), the incense box (香盒), and the tool holder (香瓶). The censer is the burner itself; the incense box stores the incense material; and the tool holder, often a small vase, holds the chopsticks, spoon, and spatula. The three are treated as a composition rather than just equipment: arranged together on a stand they form a small still life, with the tools displayed rather than hidden away. That deliberate presentation is itself part of the aesthetic, showing that incense was a composed practice whose instruments were worth showing.
 
-### Q: What is a 香箸?
+### Q: What is an incense chopsticks (香箸)?
 香箸 (xiāng zhù) are incense chopsticks, the long, slender tongs used in the 隔火焚香 method to pick up and place the hot charcoal and the incense chips. Because the method works with a glowing coal buried in ash, you need something long and precise to position it without touching it with your fingers, and to set a resin chip or wood sliver onto the plate above it. The 香箸 are one of the core items of the 香具 tool set, alongside the spoon, spatula, and ash tamper, and they live in the tool holder (香瓶) of the 炉瓶三事 arrangement.
 
 ### Q: Do I need all these tools as a beginner?
@@ -99,7 +99,7 @@ No. If you burn sticks or cones, a simple holder and an ash catcher are all you 
 
 ## Related Resources
 
-- [隔火焚香 (Indirect-Fire Setup)](/blog/gehuo-fenxiang-setup/)
+- [Indirect-Fire Setup (隔火焚香)](/blog/gehuo-fenxiang-setup/)
 - [Chinese Incense Burners & Tools](/blog/incense-burners-tools/)
 - [Incense Powder & Resin](/blog/incense-powder-resin/)
 
