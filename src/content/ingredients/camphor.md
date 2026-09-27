@@ -14,7 +14,7 @@ related: ["borneol", "cinnamon"]
 
 <img src="/images/camphor-raw-material-800x533.webp" alt="Raw Camphor (Cinnamomum camphora) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-> **Direct answer:** Camphor (樟木 zhāngmù / 樟脑 zhāngnǎo) is the fragrant wood and crystalline extract of *Cinnamomum camphora*, the camphor laurel, a large evergreen tree native to southern China, Japan, and Taiwan. The wood is strongly aromatic with a cool, medicinal, slightly minty "camphoraceous" scent that also wards off insects. It is used in Chinese incense mainly as a fresh, cooling top note, distinct from 龙脑 (borneol).
+> **Direct answer:** Camphor (樟木 zhāngmù / 樟脑 zhāngnǎo) is the fragrant wood and crystalline extract of *Cinnamomum camphora*, the camphor laurel, a large evergreen tree native to southern China, Japan, and Taiwan. The wood is strongly aromatic with a cool, medicinal, slightly minty "camphoraceous" scent that also wards off insects. It is used in Chinese incense mainly as a fresh, cooling top note, distinct from borneol (龙脑).
 
 ## Key facts
 
@@ -56,7 +56,7 @@ This split matters for a buyer: "camphor" on a label can mean the wood, the natu
 Two confusions sit inside the word "camphor," and both matter for sourcing:
 
 - **Wood vs crystal.** The same tree yields 樟木 (wood) and 樟脑 (crystal). The wood is a usable incense material in its own right; the crystal is its concentrated, purified essence. A buyer who wants the wood's soft minty-woody note and is handed a crystal has been given a different, far more intense material.
-- **Camphor vs borneol.** 樟脑 (camphor) and 龙脑 (borneol) are different crystals from different plants — *Cinnamomum camphora* versus *Dryobalanops aromatica* and *Blumea balsamifera* — yet both are called "camphoraceous" in English. This is a genuine false-friend: the shared adjective makes two unrelated materials sound like one.
+- **Camphor vs borneol.** camphor (樟脑) and borneol (龙脑) are different crystals from different plants — *Cinnamomum camphora* versus *Dryobalanops aromatica* and *Blumea balsamifera* — yet both are called "camphoraceous" in English. This is a genuine false-friend: the shared adjective makes two unrelated materials sound like one.
 
 **This page describes 樟木/樟脑 = camphor, from *Cinnamomum camphora*.** When a source means 龙脑, it is describing borneol. See [borneol](/ingredients/borneol/).
 
@@ -177,7 +177,7 @@ Camphor (樟木/樟脑) is the aromatic wood and distilled crystal of *Cinnamomu
 
 **Is natural camphor different from synthetic camphor?** Yes. Natural camphor is distilled from *Cinnamomum camphora* wood, while synthetic camphor is manufactured and widely used as a cheaper replacement in commerce. Both are strongly aromatic, but if natural origin matters for incense or traditional use, the source should be confirmed, since the two are not always distinguished on labels.
 
-**What is the difference between 樟木 and 樟脑?** They are the same tree, different materials. 樟木 is the aromatic camphor wood itself, used in incense, carving, and furniture. 樟脑 is the white crystalline camphor distilled from that wood — the concentrated, purified, far more intense form. A buyer should know which one they want, because they are different commercial objects with different uses and potencies.
+**What is the difference between camphor wood (樟木) and camphor (樟脑)?** They are the same tree, different materials. 樟木 is the aromatic camphor wood itself, used in incense, carving, and furniture. 樟脑 is the white crystalline camphor distilled from that wood — the concentrated, purified, far more intense form. A buyer should know which one they want, because they are different commercial objects with different uses and potencies.
 
 See also: [borneol](/ingredients/borneol/), [cinnamon](/ingredients/cinnamon/), [eucalyptus](/ingredients/eucalyptus/) and the full [scent guide](/blog/scent-guide/).
 
