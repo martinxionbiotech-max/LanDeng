@@ -56,7 +56,7 @@ Because the tree and the resin share the name 枫香, a buyer should pin down wh
 
 Two *Liquidambar* resins sit side by side and are routinely conflated:
 
-- **枫香脂 (sweetgum resin)** — *Liquidambar formosana*, the native Chinese sweetgum. This entry.
+- **sweetgum resin (枫香脂)** — *Liquidambar formosana*, the native Chinese sweetgum. This entry.
 - **苏合香 / storax** — *Liquidambar orientalis*, the Oriental sweetgum of Asia Minor, the classical *imported* balsam (see [styrax-resin](/ingredients/styrax-resin/)).
 
 They are related resins from related trees in the same family (Altingiaceae), but not the same product: one is the native Chinese resin, the other the imported storax. When a label says "sweetgum" or "storax," the species matters for the exact aroma, origin, and price.
@@ -173,7 +173,7 @@ In our view, 枫香脂 is a fine sweet-balsamic resin for rounding a blend — b
 
 **How do you burn sweetgum resin?** Like other resins — on a lit charcoal disc (in sand or ash) or gently on an electric incense heater, using small pieces at a time. The charcoal method is hotter and smokier; the electric heater is slower and lower in smoke. Burn in a well-ventilated space and avoid inhaling concentrated smoke, and keep the resin stored away from flame and heat.
 
-**What is the difference between 枫香 and 白胶香?** They are the same material under different names. 白胶香 ("white gum fragrance") is the older name for 枫香脂 (sweetgum resin) recorded in the Ming *Xiangcheng* (香乘), which also notes the *Golden Light Sutra* transliteration 须萨析罗婆. The tree is 枫香, and the resin is 枫香脂 or, classically, 白胶香.
+**What is the difference between sweetgum (枫香) and 白胶香?** They are the same material under different names. 白胶香 ("white gum fragrance") is the older name for sweetgum resin (枫香脂) recorded in the Ming *Xiangcheng* (香乘), which also notes the *Golden Light Sutra* transliteration 须萨析罗婆. The tree is 枫香, and the resin is 枫香脂 or, classically, 白胶香.
 
 See also: [styrax-resin](/ingredients/styrax-resin/), [benzoin](/ingredients/benzoin/), [borneol](/ingredients/borneol/), [frankincense](/ingredients/frankincense/), and the full [scent guide](/blog/scent-guide/).
 
