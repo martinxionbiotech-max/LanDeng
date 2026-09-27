@@ -40,9 +40,9 @@ The register is worth pinning down against its two relatives. Anise's sweetness 
 
 Three unrelated plants converge on the same molecule, anethole, and their Chinese names overlap confusingly around 茴:
 
-- **茴芹 (anise)** — *Pimpinella anisum* (Apiaceae), the small Mediterranean seed-fruit. This entry. Chinese 茴芹/洋茴香 is a modern botanical term.
-- **小茴香 (fennel)** — *Foeniculum vulgare* (Apiaceae), a different carrot-family plant, the 茴香 of classical Chinese cooking and 合香 formulas. Its own entry.
-- **八角 / 大茴香 (star anise)** — *Illicium verum* (Schisandraceae), the star-shaped fruit of an evergreen tree. Its own entry.
+- **anise (茴芹)** — *Pimpinella anisum* (Apiaceae), the small Mediterranean seed-fruit. This entry. Chinese 茴芹/洋茴香 is a modern botanical term.
+- **fennel (小茴香)** — *Foeniculum vulgare* (Apiaceae), a different carrot-family plant, the 茴香 of classical Chinese cooking and 合香 formulas. Its own entry.
+- **八角 / star anise (大茴香)** — *Illicium verum* (Schisandraceae), the star-shaped fruit of an evergreen tree. Its own entry.
 
 **This page describes 茴芹 = anise, *Pimpinella anisum*.** When a classical Chinese text or formula says 茴香, it means fennel (or star anise), not this Western anise; the anethole sweetness is the shared thread.
 
@@ -54,13 +54,13 @@ This three-way convergence is the single most useful fact about anise for anyone
 
 *Pimpinella anisum* is an annual herb of the carrot family, native to the eastern Mediterranean and western Asia and cultivated since antiquity across the Mediterranean, the Middle East, and India. The part used is the small, ridged, seed-like fruit, whose anethole content gives the characteristic sweet licorice scent. Flora of China records the species as a cultivated introduction — an annual 10–50 cm tall, strongly aromatic, with small white flowers — consistent with its status as a crop plant brought into Chinese usage under the modern botanical name 茴芹 rather than through any classical incense record.
 
-The name itself is a modern coinage: 茴芹 was built to give the Western spice a Chinese botanical label, distinct from the older 茴香 (fennel) that already occupied the 茴 slot in the classical vocabulary. This is the key provenance point — anise did not enter China as a 香材 with a history; it entered as a modern botanical and culinary name attached to an imported seed.
+The name itself is a modern coinage: 茴芹 was built to give the Western spice a Chinese botanical label, distinct from the older fennel (茴香) that already occupied the 茴 slot in the classical vocabulary. This is the key provenance point — anise did not enter China as a 香材 with a history; it entered as a modern botanical and culinary name attached to an imported seed.
 
 ## Chinese name and terminology
 
-> **Direct answer:** The name 茴芹 is a modern botanical coinage — 茴 ("the anethole-scented group") + 芹 ("celery/carrot-family herb") — not a classical term. It belongs to the modern Chinese vocabulary for imported aromatics, a different naming layer from the classical 茴香 (fennel) and 大茴香 (star anise).
+> **Direct answer:** The name 茴芹 is a modern botanical coinage — 茴 ("the anethole-scented group") + 芹 ("celery/carrot-family herb") — not a classical term. It belongs to the modern Chinese vocabulary for imported aromatics, a different naming layer from the classical fennel (茴香) and star anise (大茴香).
 
-The name 茴芹 (huíqín) is transparent and modern: 茴 marks the anethole-scented group, and 芹 marks the carrot-family (celery-like) herb. It is a modern botanical term, not a classical 香材 name. This matters for disambiguation because Chinese has a separate, genuinely classical vocabulary for the same aromatic register — 茴香 (fennel) and 大茴香 (star anise) — and 茴芹 sits *outside* that canon as a modern label for the Western seed. A buyer who hears "茴" should not assume a classical 香材; the specific name must be pinned to the specific species, and for anise that species is *Pimpinella anisum*.
+The name 茴芹 (huíqín) is transparent and modern: 茴 marks the anethole-scented group, and 芹 marks the carrot-family (celery-like) herb. It is a modern botanical term, not a classical 香材 name. This matters for disambiguation because Chinese has a separate, genuinely classical vocabulary for the same aromatic register — fennel (茴香) and star anise (大茴香) — and 茴芹 sits *outside* that canon as a modern label for the Western seed. A buyer who hears "茴" should not assume a classical 香材; the specific name must be pinned to the specific species, and for anise that species is *Pimpinella anisum*.
 
 ## Why is it used in fragrance?
 
@@ -149,7 +149,7 @@ Anise (茴芹) is the seed-fruit of *Pimpinella anisum*, a carrot-family (Apiace
 
 ## FAQ
 
-**What is 茴芹 (anise)?** Anise or aniseed, *Pimpinella anisum*, an annual herb of the carrot family (Apiaceae) native to the eastern Mediterranean and western Asia. Its small dried fruits carry the sweet, licorice-like anethole note, and it is a classical Western flavoring used in liqueurs, pastries, and confectionery.
+**What is anise (茴芹)?** Anise or aniseed, *Pimpinella anisum*, an annual herb of the carrot family (Apiaceae) native to the eastern Mediterranean and western Asia. Its small dried fruits carry the sweet, licorice-like anethole note, and it is a classical Western flavoring used in liqueurs, pastries, and confectionery.
 
 **Is anise the same as fennel?** No. Anise (茴芹, *Pimpinella anisum*) and fennel (小茴香, *Foeniculum vulgare*) are different carrot-family plants. Both carry the anethole sweetness and share the 茴 name element, but anise is the Mediterranean aniseed with the purest licorice note, while fennel is the classical Chinese 茴香. Classical texts saying 茴香 usually mean fennel, not this anise.
 
