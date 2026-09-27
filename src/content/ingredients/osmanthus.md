@@ -46,11 +46,11 @@ The signature of osmanthus is its **fruity sweetness** — more apricot-and-hone
 
 The character 桂 ("guì") appears in several unrelated plant names, which is a real source of confusion:
 
-- **桂花 (osmanthus)** — *Osmanthus fragrans* (Oleaceae), the sweet apricot-honey flower. This entry.
-- **月桂叶 (bay leaf)** — *Laurus nobilis* (Lauraceae), the Mediterranean bay laurel, a herbal leaf. See [bay-leaf](/ingredients/bay-leaf/).
-- **桂皮 (cinnamon/cassia)** — *Cinnamomum cassia* (Lauraceae), a bark. See [cinnamon](/ingredients/cinnamon/).
+- **osmanthus (桂花)** — *Osmanthus fragrans* (Oleaceae), the sweet apricot-honey flower. This entry.
+- **bay leaf (月桂叶)** — *Laurus nobilis* (Lauraceae), the Mediterranean bay laurel, a herbal leaf. See [bay-leaf](/ingredients/bay-leaf/).
+- **cinnamon/cassia (桂皮)** — *Cinnamomum cassia* (Lauraceae), a bark. See [cinnamon](/ingredients/cinnamon/).
 
-The classical trap is 月桂: in old Chinese texts 月桂 usually denotes the osmanthus, not the bay laurel. When a source says 月桂子 (osmanthus fruit), it is describing osmanthus. The shared 桂 character connects three unrelated plants, and Chinese names — 桂花, 月桂叶, 桂皮 — keep them apart.
+The classical trap is 月桂: in old Chinese texts 月桂 usually denotes the osmanthus, not the bay laurel. When a source says osmanthus fruit (月桂子), it is describing osmanthus. The shared 桂 character connects three unrelated plants, and Chinese names — 桂花, 月桂叶, 桂皮 — keep them apart.
 
 ## Where does osmanthus come from?
 
@@ -80,10 +80,10 @@ Osmanthus enters incense as a bright, sweetening floral note. Its fruity-apricot
 
 *Osmanthus fragrans* has several color variants, each with a slightly different character:
 
-- **金桂 (gold osmanthus)** — golden-yellow, the richest and most fragrant.
-- **银桂 (silver osmanthus)** — pale/white, lighter scent.
-- **丹桂 (red osmanthus)** — orange-red, less fragrant.
-- **四季桂 (four-seasons osmanthus)** — a less fragrant variety that blooms repeatedly.
+- **gold osmanthus (金桂)** — golden-yellow, the richest and most fragrant.
+- **silver osmanthus (银桂)** — pale/white, lighter scent.
+- **red osmanthus (丹桂)** — orange-red, less fragrant.
+- **four-seasons osmanthus (四季桂)** — a less fragrant variety that blooms repeatedly.
 
 In fragrance and tea, the golden (金桂) type is the reference. The color names appear in Chinese sources and product labels, so they are useful to recognize.
 
@@ -100,7 +100,7 @@ Both are sweet Chinese florals, but they sit apart: osmanthus is **fruity-aprico
 Osmanthus processing is simple and mostly preserves the flower:
 
 - **Drying** — the small flowers are picked and dried whole for tea (桂花茶), desserts, and blending.
-- **Sugar and syrup** — fresh flowers are layered with sugar or steeped in syrup to make 桂花糖 (osmanthus sugar) and syrup, staples of Chinese desserts.
+- **Sugar and syrup** — fresh flowers are layered with sugar or steeped in syrup to make osmanthus sugar (桂花糖) and syrup, staples of Chinese desserts.
 - **Absolute** — for perfumery, solvent extraction yields osmanthus absolute, a costly natural extract because the tiny flowers yield little.
 
 ## What determines osmanthus quality?
@@ -144,7 +144,7 @@ Osmanthus is a gentle floral note and is commonly used in tea and food; however,
 
 Osmanthus's risks are modest but real:
 
-- **Naming** — 桂花 (osmanthus) shares the 桂 character with 月桂叶 (bay leaf) and 桂皮 (cinnamon); a classical text saying 月桂 usually means osmanthus, and the three are unrelated plants.
+- **Naming** — osmanthus (桂花) shares the 桂 character with bay leaf (月桂叶) and cinnamon (桂皮); a classical text saying 月桂 usually means osmanthus, and the three are unrelated plants.
 - **Absolute substitution** — genuine osmanthus absolute is costly, so synthetic osmanthus notes (built on ionones and related molecules) are common. This is legitimate when labeled, a problem only when sold as natural absolute.
 - **Color-variant accuracy** — a label claiming 金桂 (gold) should not deliver a lower-fragrance 丹桂 (red).
 
@@ -193,7 +193,7 @@ In our view, the commercial sweet spot is a **clearly labeled osmanthus note —
 
 ## Summary
 
-Osmanthus (桂花) is the small golden flower of *Osmanthus fragrans*, an olive-family (Oleaceae) shrub, prized for a sweet, apricot-and-honey fragrance. Its name shares the 桂 character with unrelated plants — 月桂叶 (bay leaf) and 桂皮 (cinnamon) — and classical 月桂 usually denotes osmanthus. It serves tea, desserts, and incense as a bright, fruity floral accent, with 金桂 (gold) as the fragrance reference. Its value rests on color variant, form, and — for the absolute — purity; a food-safe flower does not imply its smoke is harmless.
+Osmanthus (桂花) is the small golden flower of *Osmanthus fragrans*, an olive-family (Oleaceae) shrub, prized for a sweet, apricot-and-honey fragrance. Its name shares the 桂 character with unrelated plants — bay leaf (月桂叶) and cinnamon (桂皮) — and classical 月桂 usually denotes osmanthus. It serves tea, desserts, and incense as a bright, fruity floral accent, with 金桂 (gold) as the fragrance reference. Its value rests on color variant, form, and — for the absolute — purity; a food-safe flower does not imply its smoke is harmless.
 
 ## FAQ
 
@@ -205,7 +205,7 @@ Osmanthus (桂花) is the small golden flower of *Osmanthus fragrans*, an olive-
 
 **What is osmanthus tea?** Osmanthus flowers brewed as a floral tisane or blended with tea leaves (桂花茶). It carries the same sweet apricot-honey aroma. The dried flowers are steeped alone or mixed into green or oolong tea, giving a delicate, fruity-sweet cup that is a classic of Chinese tea culture. Because the flowers are small and fragrant, only a small amount is needed to flavor a pot.
 
-**What is the difference between 金桂 and 丹桂?** Both are *Osmanthus fragrans* color variants: 金桂 (gold) is the most fragrant, 丹桂 (red) is less so. The gold type is the reference for fragrance and tea. A third variant, 银桂 (silver), is paler with a lighter scent, and 四季桂 (four-seasons) is a less fragrant type that blooms repeatedly. Recognizing these color names is useful because they appear on Chinese product labels and indicate the likely strength and character of the scent.
+**What is the difference between gold osmanthus (金桂) and red osmanthus (丹桂)?** Both are *Osmanthus fragrans* color variants: 金桂 (gold) is the most fragrant, 丹桂 (red) is less so. The gold type is the reference for fragrance and tea. A third variant, 银桂 (silver), is paler with a lighter scent, and four-seasons (四季桂) is a less fragrant type that blooms repeatedly. Recognizing these color names is useful because they appear on Chinese product labels and indicate the likely strength and character of the scent.
 
 **Is osmanthus the same as bay leaf (月桂叶)?** No. Osmanthus (桂花) is *Osmanthus fragrans* (Oleaceae), a sweet apricot-honey flower, while bay leaf (月桂叶) is *Laurus nobilis* (Lauraceae), a Mediterranean herbal leaf. The confusion comes from the shared 桂 character — and from the fact that in classical Chinese, 月桂 usually means the osmanthus, not the bay laurel. They are unrelated plants, and each has its own entry here. See [bay-leaf](/ingredients/bay-leaf/).
 
