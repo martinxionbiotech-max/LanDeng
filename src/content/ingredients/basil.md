@@ -60,7 +60,7 @@ The naming story is the entry's central, genuine classical fact:
 - **兰香 (lánxiāng)** — "orchid fragrance," a taboo-avoidance renaming of the same herb, recorded in the *Bencao Gangmu* (菜之一).
 - **香菜 (xiāngcài)** — a further renaming by Shi Hu, also recorded.
 
-The sequence — 罗勒 → 兰香 → 香菜 — is a documented philological chain, and its lesson is that *names migrate for reasons unrelated to botany or fragrance*. A buyer or researcher encountering "兰香" in an older source should read it as 罗勒 (basil), not as a true orchid. This is a disambiguation point, not a claim that basil is an incense material.
+The sequence — 罗勒 → 兰香 → 香菜 — is a documented philological chain, and its lesson is that *names migrate for reasons unrelated to botany or fragrance*. A buyer or researcher encountering "兰香" in an older source should read it as basil (罗勒), not as a true orchid. This is a disambiguation point, not a claim that basil is an incense material.
 
 ## Where does basil come from?
 
@@ -155,11 +155,11 @@ Basil (罗勒) is sweet basil, *Ocimum basilicum* (Lamiaceae), a culinary garden
 
 ## FAQ
 
-**What is 罗勒 (basil)?** Sweet basil, *Ocimum basilicum*, an aromatic herb of the mint family (Lamiaceae), native to tropical and subtropical Asia and cultivated worldwide in many culinary varieties. It carries the older Chinese name 兰香 (lánxiāng, "orchid fragrance"), recorded in the *Bencao Gangmu* (本草纲目).
+**What is basil (罗勒)?** Sweet basil, *Ocimum basilicum*, an aromatic herb of the mint family (Lamiaceae), native to tropical and subtropical Asia and cultivated worldwide in many culinary varieties. It carries the older Chinese name 兰香 (lánxiāng, "orchid fragrance"), recorded in the *Bencao Gangmu* (本草纲目).
 
-**Why is basil called 兰香 (orchid fragrance)?** Because of a taboo-avoidance renaming. The *Bencao Gangmu* (本草纲目) records that northerners, avoiding the taboo personal name of the Later Zhao ruler Shi Le, "called 罗勒 as 兰香" (呼羅勒為蘭香), and that Shi Hu later changed it to 香菜. So 兰香 is a renaming of 罗勒, not a claim that basil is an orchid.
+**Why is basil called orchid fragrance (兰香)?** Because of a taboo-avoidance renaming. The *Bencao Gangmu* (本草纲目) records that northerners, avoiding the taboo personal name of the Later Zhao ruler Shi Le, "called 罗勒 as 兰香" (呼羅勒為蘭香), and that Shi Hu later changed it to 香菜. So 兰香 is a renaming of 罗勒, not a claim that basil is an orchid.
 
-**Is 罗勒 the same as 兰香?** Yes. They are the same herb, *Ocimum basilicum*. 罗勒 is the base name and 兰香 is a taboo-avoidance alternative recorded in the classical *Bencao Gangmu*. The two should not be treated as different plants.
+**Is basil (罗勒) the same as 兰香?** Yes. They are the same herb, *Ocimum basilicum*. 罗勒 is the base name and 兰香 is a taboo-avoidance alternative recorded in the classical *Bencao Gangmu*. The two should not be treated as different plants.
 
 **What does basil smell like?** Sweet and green, with a spicy, faintly anise-and-clove lift that varies by cultivar. It is a fresh, food-adjacent note, less minty than mint and less camphoraceous than perilla, and reads in aromatics as a bright green sweetness that supports rather than leads a blend.
 
