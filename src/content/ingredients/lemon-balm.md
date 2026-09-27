@@ -28,15 +28,15 @@ related: ["mint", "basil", "bergamot"]
 
 ## Aroma profile
 
-> **Direct answer:** 香蜂草 (lemon balm) is soft and lemony, with a fresh, green, herbaceous character and a gentle sweetness — the delicate lemon scent of the crushed leaf, quieter and more herbal than the bright zest of actual lemon. Its lemony character comes from the compounds citral and citronellal, shared with other lemon-scented herbs.
+> **Direct answer:** lemon balm (香蜂草) is soft and lemony, with a fresh, green, herbaceous character and a gentle sweetness — the delicate lemon scent of the crushed leaf, quieter and more herbal than the bright zest of actual lemon. Its lemony character comes from the compounds citral and citronellal, shared with other lemon-scented herbs.
 
-香蜂草 (lemon balm) is soft and lemony, with a fresh, green, herbaceous character and a gentle sweetness — the delicate lemon scent of the crushed leaf, quieter and more herbal than the bright zest of actual lemon. Its lemony character comes from the compounds **citral** and **citronellal**, shared with other lemon-scented herbs. The key point is that this lemon note is a **molecular convergence**, not a citrus relationship: lemon balm is a mint-family herb that smells lemony through the same citral/citronellal chemistry found in lemongrass and other unrelated plants — it is not a citrus, and its "lemon" is a soft, green-leaf lemon rather than a bright, rind-zest lemon.
+lemon balm (香蜂草) is soft and lemony, with a fresh, green, herbaceous character and a gentle sweetness — the delicate lemon scent of the crushed leaf, quieter and more herbal than the bright zest of actual lemon. Its lemony character comes from the compounds **citral** and **citronellal**, shared with other lemon-scented herbs. The key point is that this lemon note is a **molecular convergence**, not a citrus relationship: lemon balm is a mint-family herb that smells lemony through the same citral/citronellal chemistry found in lemongrass and other unrelated plants — it is not a citrus, and its "lemon" is a soft, green-leaf lemon rather than a bright, rind-zest lemon.
 
 ## A provenance note (read this)
 
-> **Direct answer:** 香蜂草 (lemon balm) is a modern crossover, not a classical Chinese 香材. *Melissa officinalis* is a southern European and Mediterranean species, not native to China; Flora of China records it as a cultivated/introduced plant. The Chinese name 香蜂草 (or 香蜂花, the Flora of China name) is modern, and its use is a modern Western tradition.
+> **Direct answer:** lemon balm (香蜂草) is a modern crossover, not a classical Chinese 香材. *Melissa officinalis* is a southern European and Mediterranean species, not native to China; Flora of China records it as a cultivated/introduced plant. The Chinese name 香蜂草 (or 香蜂花, the Flora of China name) is modern, and its use is a modern Western tradition.
 
-香蜂草 (lemon balm) is a **modern crossover**, not a classical Chinese 香材:
+lemon balm (香蜂草) is a **modern crossover**, not a classical Chinese 香材:
 
 - *Melissa officinalis* is a southern European and Mediterranean species, not native to China; Flora of China records it as a cultivated/introduced plant.
 - The Chinese name 香蜂草 (or 香蜂花, the Flora of China name) is modern; lemon balm as a fragrance and herbal material is a **modern Western tradition**, absent from the classical 香材 canon.
@@ -62,8 +62,8 @@ The Chinese name 香蜂草 is descriptive and modern: 香 (xiāng, "fragrant") +
 
 The "lemon" note is one of the clearest cases of aromatic convergence in this encyclopedia, and it matters for sourcing:
 
-- **香蜂草 (lemon balm)** — *Melissa officinalis*, a mint-family (Lamiaceae) herb; lemony via citral/citronellal. This entry.
-- **柠檬 (lemon)** — *Citrus × limon*, a rue-family (Rutaceae) citrus; lemony via limonene/citral from the rind.
+- **lemon balm (香蜂草)** — *Melissa officinalis*, a mint-family (Lamiaceae) herb; lemony via citral/citronellal. This entry.
+- **lemon (柠檬)** — *Citrus × limon*, a rue-family (Rutaceae) citrus; lemony via limonene/citral from the rind.
 - **Lemongrass** — *Cymbopogon*, a grass (Poaceae); lemony via citral.
 
 Three different plant families converge on the same "lemony" register through shared chemistry. The practical consequence: **"lemon-scented" is a molecule, not a species** — a buyer who orders "something lemony" is ordering a register, and could receive a mint herb, a citrus, or a grass depending on what the seller means. See [lemon (柠檬)](/ingredients/lemon/) and [bergamot (佛手柑)](/ingredients/bergamot/).
@@ -76,13 +76,13 @@ Three different plant families converge on the same "lemony" register through sh
 
 ## Traditional use vs modern evidence
 
-> **Direct answer:** There is no classical Chinese incense record for 香蜂草 (lemon balm); its position is entirely modern. The documented facts are botanical identity, the Lamiaceae placement, its modern herbal and fragrance role, and the citral/citronellal chemistry of its lemon note.
+> **Direct answer:** There is no classical Chinese incense record for lemon balm (香蜂草); its position is entirely modern. The documented facts are botanical identity, the Lamiaceae placement, its modern herbal and fragrance role, and the citral/citronellal chemistry of its lemon note.
 
 - **Traditional Use** — none in classical Chinese incense; lemon balm is not a 香材, and no traditional aromatic or materia-medica role is claimed for 香蜂草 here.
 - **Historical Record** — the botanical record places *Melissa officinalis* as a Mediterranean Lamiaceae herb, recorded by Flora of China as cultivated/introduced; the "lemon balm" tea and culinary tradition is European, not a Chinese classical record.
 - **Scientific Evidence** — the botanical identity of *Melissa officinalis* (Lamiaceae) and the citral/citronellal lemon-note chemistry are established. We present no medical claims.
 
-There is **no classical Chinese incense record** for 香蜂草 (lemon balm); its position is entirely modern. We make **no medical claims**.
+There is **no classical Chinese incense record** for lemon balm (香蜂草); its position is entirely modern. We make **no medical claims**.
 
 ## How is lemon balm used in incense?
 
@@ -160,7 +160,7 @@ Lemon balm (香蜂草) is the mint-family (Lamiaceae) herb *Melissa officinalis*
 
 ## FAQ
 
-**What is 香蜂草 (lemon balm)?** The herb *Melissa officinalis*, a perennial of the mint family (Lamiaceae) native to southern Europe and the Mediterranean. Its leaves carry a soft, lemony, fresh, green scent. It is a modern crossover, not a classical Chinese incense ingredient.
+**What is lemon balm (香蜂草)?** The herb *Melissa officinalis*, a perennial of the mint family (Lamiaceae) native to southern Europe and the Mediterranean. Its leaves carry a soft, lemony, fresh, green scent. It is a modern crossover, not a classical Chinese incense ingredient.
 
 **Is lemon balm a classical Chinese incense ingredient?** No. Lemon balm is a Mediterranean species, not native to China, and it has no place in the classical 香材 canon. Its Chinese name (香蜂草 or 香蜂花) is modern, and its use is a modern Western herbal and fragrance tradition.
 
@@ -202,4 +202,4 @@ See also: [mint (薄荷)](/ingredients/mint/), [lemon (柠檬)](/ingredients/lem
 - [Melissa officinalis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019809)
 - [Melissa officinalis on GBIF](https://www.gbif.org/species/5341501)
 
-*Sources: botanical references on *Melissa officinalis*. 香蜂草 (lemon balm) is a modern lemony herb with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
+*Sources: botanical references on *Melissa officinalis*. lemon balm (香蜂草) is a modern lemony herb with no classical Chinese incense record; no such origin is claimed. This is editorial knowledge content, not medical advice.*
