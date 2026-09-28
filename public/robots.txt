@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Replace with the production domain before launch.
 Sitemap: https://incenseherbs.com/sitemap-index.xml
