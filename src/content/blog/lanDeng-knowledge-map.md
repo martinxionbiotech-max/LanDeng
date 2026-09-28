@@ -38,7 +38,7 @@ Around the 150 ingredients sit the supporting entity classes, expressed through 
 
 ### Entity relationships
 
-The relationships dataset ties the entity classes together. It holds 150 entities and **450 derived edges** — links from each ingredient to its aroma families, category, comparison profiles, and techniques, each edge pointing back to the source dataset it came from. The rule is strict: every edge is derived from the seven source datasets, so no new fact is introduced by the graph itself. Where an ingredient relates to agarwood or sandalwood by shared aroma or technique, the link is a pointer, not a new claim.
+The relationships dataset ties the entity classes together. It holds 150 entities and **806 typed edges** — links from each ingredient to its aroma families, category, comparison profiles, and techniques (each pointing back to the source dataset it came from), plus 356 related-material edges mirroring the editorial "related ingredients" links on the main-site ingredient encyclopedia. The rule is strict: derived edges come from the seven source datasets and related edges from the main site's own editorial links, so no new fact is introduced by the graph itself. Where an ingredient relates to agarwood or sandalwood by shared aroma, technique, or editorial relationship, the link is a pointer, not a new claim.
 
 ## Dataset Map
 
@@ -54,10 +54,10 @@ The relationships dataset ties the entity classes together. It holds 150 entitie
 | Comparison database | `https://data.incenseherbs.com/datasets/comparisons.json` | 17 | 1.2 |
 | Technique database | `https://data.incenseherbs.com/datasets/techniques.json` | 12 | 1.1 |
 | Form database | `https://data.incenseherbs.com/datasets/forms.json` | 12 | 1.2 |
-| Relationships database | `https://data.incenseherbs.com/datasets/relationships.json` | 150 | 1.1 |
+| Relationships database | `https://data.incenseherbs.com/datasets/relationships.json` | 150 | 1.2 |
 <!-- /AUTO:dataset-counts:table -->
 
-Seven of these are mirrored as static JSON under the main site (`/data/*.json`); the relationships dataset, which derives entity links from the other seven, lives on the data site. The relationships dataset introduces no new fact — every edge is derived from the seven source datasets. Each dataset's HTML documentation page lists its fields, entity count, version, and license, so a human can read the schema without opening the JSON.
+Seven of these are mirrored as static JSON under the main site (`/data/*.json`); the relationships dataset, which derives entity links from the other seven plus the main site's editorial related-material links, lives on the data site. The relationships dataset introduces no new fact — every edge is derived from a source dataset or mirrored from an existing main-site editorial link. Each dataset's HTML documentation page lists its fields, entity count, version, and license, so a human can read the schema without opening the JSON.
 
 ## Policy Summaries
 

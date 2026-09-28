@@ -138,7 +138,7 @@ This is why a blend is composed on character, not on a single family tag. The fu
 
 - **Canonical source:** [aroma.json](https://data.incenseherbs.com/datasets/aroma.json) — ten `DefinedTerm` records, each with a `memberIngredients` list.
 - **On each entity page:** the `aroma` frontmatter field carries that material's family tags, feeding the page's meta description and `DefinedTerm`.
-- **Companion datasets:** [ingredients.json](https://data.incenseherbs.com/datasets/ingredients.json) (150 entities) and [relationships.json](https://data.incenseherbs.com/datasets/relationships.json) (450 typed edges, including aroma links).
+- **Companion datasets:** [ingredients.json](https://data.incenseherbs.com/datasets/ingredients.json) (150 entities) and [relationships.json](https://data.incenseherbs.com/datasets/relationships.json) (806 typed edges, including aroma links).
 
 The full dataset inventory is on the [knowledge map](/blog/landeng-knowledge-map/).
 
