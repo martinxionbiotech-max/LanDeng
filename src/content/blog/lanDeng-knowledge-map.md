@@ -47,7 +47,7 @@ The relationships dataset ties the entity classes together. It holds 150 entitie
 <!-- AUTO:dataset-counts:table -->
 | Dataset | JSON path | Entities | Version |
 |---|---|---|---|
-| Ingredient database | `https://data.incenseherbs.com/datasets/ingredients.json` | 150 | 1.2 |
+| Ingredient database | `https://data.incenseherbs.com/datasets/ingredients.json` | 150 | 1.3 |
 | Terminology database | `https://data.incenseherbs.com/datasets/terminology.json` | 249 | 1.4 |
 | Aroma database | `https://data.incenseherbs.com/datasets/aroma.json` | 10 | 1.1 |
 | Material database | `https://data.incenseherbs.com/datasets/materials.json` | 15 | 1.2 |
