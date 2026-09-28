@@ -54,6 +54,9 @@ function extractExternalUrls(body, hosts) {
 
 const sameAs = extractExternalUrls(ingredient.body, SAMEAS_HOSTS);
 
+// Canonical machine-readable entity record on the data subsite (stable entity ID).
+sameAs.push(`https://data.incenseherbs.com/ingredients/#${ingredient.id}`);
+
 function extractImage(body) {
   if (!body) return null;
   const img = body.match(/<img\s+src="([^"]+)"[^>]*>/);
@@ -228,6 +231,18 @@ const structuredData = [
         <Content />
       </div>
     </div>
+
+    <section class="data-record" aria-label="Structured data">
+      <div class="shell prose">
+        <p class="section-label">Structured data</p>
+        <p>
+          Machine-readable entity record (relationships + evidence):
+          <a href={`https://data.incenseherbs.com/ingredients/#${ingredient.id}`}>
+            data.incenseherbs.com/ingredients/#{ingredient.id}
+          </a>
+        </p>
+      </div>
+    </section>
 
     {related.length > 0 && (
       <section class="related" aria-labelledby="related-title">
@@ -424,6 +439,16 @@ const structuredData = [
 
   .related h2 {
     margin-top: 0;
+  }
+
+  .data-record {
+    border-top: 1px solid var(--line);
+    padding-block: var(--space-4) var(--space-5);
+    background: var(--amber-soft);
+  }
+
+  .data-record p:last-child {
+    margin-bottom: 0;
   }
 
   @media (max-width: 46rem) {

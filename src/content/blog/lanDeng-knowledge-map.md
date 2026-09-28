@@ -47,14 +47,14 @@ The relationships dataset ties the entity classes together. It holds 150 entitie
 <!-- AUTO:dataset-counts:table -->
 | Dataset | JSON path | Entities | Version |
 |---|---|---|---|
-| Ingredient database | `https://data.incenseherbs.com/datasets/ingredients.json` | 150 | 1.1 |
+| Ingredient database | `https://data.incenseherbs.com/datasets/ingredients.json` | 150 | 1.2 |
 | Terminology database | `https://data.incenseherbs.com/datasets/terminology.json` | 249 | 1.4 |
-| Aroma database | `https://data.incenseherbs.com/datasets/aroma.json` | 10 | 1.0 |
-| Material database | `https://data.incenseherbs.com/datasets/materials.json` | 15 | 1.1 |
-| Comparison database | `https://data.incenseherbs.com/datasets/comparisons.json` | 17 | 1.1 |
+| Aroma database | `https://data.incenseherbs.com/datasets/aroma.json` | 10 | 1.1 |
+| Material database | `https://data.incenseherbs.com/datasets/materials.json` | 15 | 1.2 |
+| Comparison database | `https://data.incenseherbs.com/datasets/comparisons.json` | 17 | 1.2 |
 | Technique database | `https://data.incenseherbs.com/datasets/techniques.json` | 12 | 1.1 |
-| Form database | `https://data.incenseherbs.com/datasets/forms.json` | 12 | 1.1 |
-| Relationships database | `https://data.incenseherbs.com/datasets/relationships.json` | 150 | 1.0 |
+| Form database | `https://data.incenseherbs.com/datasets/forms.json` | 12 | 1.2 |
+| Relationships database | `https://data.incenseherbs.com/datasets/relationships.json` | 150 | 1.1 |
 <!-- /AUTO:dataset-counts:table -->
 
 Seven of these are mirrored as static JSON under the main site (`/data/*.json`); the relationships dataset, which derives entity links from the other seven, lives on the data site. The relationships dataset introduces no new fact — every edge is derived from the seven source datasets. Each dataset's HTML documentation page lists its fields, entity count, version, and license, so a human can read the schema without opening the JSON.
