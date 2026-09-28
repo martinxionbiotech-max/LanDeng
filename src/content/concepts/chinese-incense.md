@@ -26,6 +26,14 @@ status: published
 | Ming (1368–1644) | Codification; the Xuande censer (宣德炉); stick incense (线香) perfected |
 | Qing → 20th c. | Decline (sumptuary laws, Western perfume, Cultural Revolution); revival from ~2000s |
 
+**Source notes (per row):** the Shang–Han rows rest on the 香 character and
+censer archaeology as summarized in 香乘's opening chapters; the Song peak and
+incense manuals (香谱) are documented in 香乘 itself (compiled 1641, quoting
+Song sources); the Ming codification and 宣德炉 are covered by later commentary
+in 香乘 and general Ming material-culture history. Rows marked with
+interpretation rather than direct quotation are labeled in the Sources section
+below.
+
 ## The Four Leisure Arts (四般闲事)
 
 The Song literati canonized four refined pursuits, recorded in 吴自牧's *梦粱录*: "烧香点茶，挂画插花，四般闲事，不宜累家" — *burning incense, preparing tea, hanging scrolls, arranging flowers*. Incense sat alongside tea ceremony and painting as a cultivated daily practice — not merely a religious act.
@@ -46,7 +54,7 @@ This is why a Chinese incense is so often a *recipe* rather than a single scent 
 - **Incense sticks (线香)** — the common modern form.
 - **Incense coils (盘香)** and **cones (塔香)** — longer- or shorter-burning forms.
 - **Raw materials (香材)** — wood and resin heated, often without flame.
-- **Indirect-fire incense (隔火焚香)** — hot charcoal buried in ash with a silver or mica plate above; material rests on the plate, releasing aroma with minimal smoke. This refined "scent, not smoke" method is the ancestor of Japanese kodo.
+- **Indirect-fire incense (隔火焚香)** — hot charcoal buried in ash with a silver or mica plate above; material rests on the plate, releasing aroma with minimal smoke. This refined "scent, not smoke" method is the ancestor of Japanese kodo. 香乘 records the technique in formula instructions — "每用薄银叶如龙涎法烧" (use a thin silver leaf, burned as in the ambergris method) and "银叶烧之火宜缓" (with a silver leaf, the fire should be kept gentle).
 - **Seal incense (篆香 / 打香印)** — powder pressed into a pattern and burned along a timed path.
 - **Blended incense (合香)** — multi-ingredient compounds built on a "chief/minister/assistant/guide" (君臣佐使) formula principle, analogous to classical Chinese compounding.
 
@@ -54,7 +62,7 @@ This is why a Chinese incense is so often a *recipe* rather than a single scent 
 
 | Term | Chinese | Meaning |
 |---|---|---|
-| Incense | 香 (xiāng) | Fragrance; incense; the character appears on Shang oracle bones |
+| Incense | 香 (xiāng) | Fragrance; incense; the character appears on Shang oracle bones. 香乘's preface notes the early character was interchangeable with 臭: "古人香臭字通，谓之臭" |
 | Stick incense | 线香 (xiànxiāng) | The common modern stick |
 | Coil | 盘香 (pánxiāng) | A coiled spiral |
 | Indirect-fire | 隔火焚香 | Charcoal + ash + plate; "scent, not smoke" |

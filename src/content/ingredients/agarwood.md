@@ -58,6 +58,8 @@ Because one material travels under many names, a buyer's first job is to pin dow
 
 Healthy *Aquilaria* wood is pale, light, and essentially scentless. Agarwood is what happens after injury: when the tree is wounded — by insects, broken branches, lightning, or deliberate wounding — it mounts a defense, gradually saturating the damaged heartwood with resin over years or decades. The wood darkens, densifies, and becomes fragrant. Resin-bearing wood is typically found in trees older than ~20 years.
 
+香乘 also records four classical formation types, matched to how the resin came to be: 「沈香入水即沉，其品凡四。曰熟结，乃膏凝结，自朽出者。曰生结，乃刀斧伐仆，膏结聚者。曰脱落，乃因木朽而结者。曰虫漏，乃因蠹隙而结者。」 — *sinking agarwood has four grades by origin: 熟结 (ripe-formed: resin condenses and the wood rots away by itself), 生结 (live-formed: resin gathers after the tree is felled or wounded by axe), 脱落 (fallen: resin forms as the wood decays), and 虫漏 (insect-bored: resin forms in insect tunnels).* These four map onto the injury narrative above — 生结 and 虫漏 are the wounding pathways, 熟结 and 脱落 the natural-decay pathways.
+
 > **Botanical vs trade identity:** "agarwood" is not a species — it is a *condition* of the wood. This matters for buyers: what is sold as agarwood may come from different *Aquilaria* species, or (fraudulently) from unrelated woods dressed up to resemble it.
 
 ## Where does agarwood come from?
@@ -79,6 +81,8 @@ Chinese practice grades agarwood primarily by resin density, using a simple wate
 | 沉水 (chénshuǐ) | "sinks in water" | Highest resin content — most valuable |
 | 半沉半浮 (bànchénbànfú) | "half-sinks" | Medium |
 | floating | — | Lower (historically 黄熟香) |
+
+The classical source for this system is 香乘 (compiled 1641, quoting earlier sources): 「木之心节，署水则沈，故名沈水，亦曰水沈。半沉者为栈香，不沉者为黄熟香……香之等凡三，曰沉、曰栈、曰黄熟是也。」 — *the knot in the wood's heart that sinks when placed in water is called "sinking water" (沉水); half-sinking is 栈香, and non-sinking is 黄熟香; the grades are three: 沉, 栈, 黄熟.*
 
 Beyond density, Chinese trade also distinguishes material by **origin** (Hainan and Vietnamese material long favored), by **color** (green, black, yellow, and other resin tones), and by **aroma character** — a layered, sweet, enduring aroma commands more than a flat or short-lived one. These are market distinctions, not a single standardized system; the full treatment is in the [agarwood grading guide](/blog/agarwood-grading-guide/).
 
@@ -260,6 +264,9 @@ See also: the [agarwood incense guide](/blog/agarwood-incense/), the [agarwood g
 ### Botanical identity
 **Source:** [Aquilaria sinensis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506) · [Aquilaria malaccensis on GBIF](https://www.gbif.org/species/5524063) · [Aquilaria malaccensis in the CITES species checklist](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Aquilaria%20malaccensis). **Evidence type:** Established.
 
+### Classical grading & formation
+**Source:** 香乘 (Xiang Cheng, 周嘉胄, Ming, compiled 1641) — the 沉水/栈香/黄熟 three-grade system and the 熟结/生结/脱落/虫漏 four formation types. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘). **Evidence type:** Historical primary source.
+
 ### Traditional Chinese use
 **Source:** this page records agarwood as traditionally described for "moving qi and relieving pain" (行气止痛) and warming the middle (温中). **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
@@ -288,5 +295,6 @@ See also: the [agarwood incense guide](/blog/agarwood-incense/), the [agarwood g
 - [Aquilaria sinensis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506)
 - [Aquilaria malaccensis on GBIF](https://www.gbif.org/species/5524063)
 - [Aquilaria in the CITES species checklist](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Aquilaria%20malaccensis)
+- [香乘 (Xiang Cheng) full text on Wikisource](https://zh.wikisource.org/wiki/香乘) — classical grading and formation terminology
 
 *Sources: this page synthesizes Chinese-language trade/specialist sources (奇楠 grading, adulteration) and botanical references (Aquilaria sinensis). Etymology of "qínán" and the 奇楠 color-grade hierarchy remain disputed and are noted as such. This is editorial knowledge content, not medical or investment advice.*

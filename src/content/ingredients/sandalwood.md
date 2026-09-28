@@ -45,7 +45,7 @@ Sandalwood's scent is warm, creamy, and sweet with a soft woody base. The best m
 The Chinese name 檀香 (tánxiāng) means "sandalwood fragrance." Two naming traps recur in trade:
 
 - **檀香 vs 紫檀.** 檀香 (tánxiāng) is sandalwood, *Santalum album*. 紫檀 (zǐtán) — "red sandalwood" — is a different plant entirely, *Pterocarpus santalinus*, valued as a crimson dye wood, not for the creamy sandalwood aroma. The shared character 檀 causes persistent confusion. See [red sandalwood](/ingredients/red-sandalwood/).
-- **白檀 / 印度檀香.** In Chinese, 白檀 (báitán, "white sandalwood") and 印度檀香 (yìndù tánxiāng, "Indian sandalwood") usually mean *Santalum album* specifically, distinguishing it from other *Santalum* species.
+- **白檀 / 印度檀香.** In Chinese, 白檀 (báitán, "white sandalwood") and 印度檀香 (yìndù tánxiāng, "Indian sandalwood") usually mean *Santalum album* specifically, distinguishing it from other *Santalum* species. The classical taxonomy already noted the variety: 香乘 quotes 苏颂 — 「檀香有数种黄白紫之异，今人盛用之」 — *sandalwood has several kinds, differing as yellow, white and purple, and people use them widely today.* 紫檀 (purple/red) here is the *Pterocarpus* dye wood of the naming trap above, not an aromatic *Santalum* — the confusion is documented, not new.
 
 Because one English word covers several *Santalum* species, the Chinese and scientific names are the reliable anchors.
 

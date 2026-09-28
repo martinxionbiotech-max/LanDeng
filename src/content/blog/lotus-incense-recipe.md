@@ -28,6 +28,8 @@ The 香乘's 芙药衣香 is a lotus-scented clothes incense built entirely from
 
 This is the key insight: the classical tradition could produce a "lotus" scent **without the flower**, by layering fresh, clean notes over a sandalwood base.
 
+**Structure in 君臣佐使 (chief/minister/assistant/guide) terms:** sandalwood (檀香) is the 君 — the backbone that carries the blend; clove (丁香) and spikenard (甘松) are the 臣 — body and lift supporting the chief; tonka (零陵香) and peony bark (牡丹皮) are the 佐 — the fresh, clean "lotus-petal" nuance that tempers the spicy base; fennel (茴香) at a mere two fēn is the 使 — the trace accent that harmonizes and directs the whole. *This role assignment is editorial interpretation of the recorded proportions, not a classical annotation.*
+
 **Proportions and unit conversion:** the recorded proportions are 丁香一两, 檀香一两, 甘松一两, 零陵香半两, 牡丹皮半两, 茴香二分, with musk and borneol each "a little" (少许). One 两 (liǎng) was on the order of 37 g in the Song–Ming period — the exact gram value varied by dynasty, roughly 31–41 g across periods — divided into 10 钱 (qián) of about 3.7 g each, each 钱 into 10 分 (fēn) of about 0.37 g. Read the *ratios*, not the grams: the three backbone ingredients run at a full liǎng each, the tonka and peony bark at half, and the fennel at a mere two fēn — a spice accent, not a body.
 
 ---
@@ -38,7 +40,7 @@ The contemporary manual 燕居香语 (陈云君) does use **actual lotus**, pair
 
 > **荷花、西红花、沉香、石斛** — fresh lotus petals, saffron, agarwood, and dendrobium — the saffron rolled inside half-dried lotus petals, pressed, and bound to agarwood slices with dendrobium juice.
 
-Here the lotus is real material, not an accord — but this is a **contemporary** recipe, not a 香谱 original. Its proportions are **unverified**: the modern source describes the method (saffron rolled inside half-dried lotus petals, pressed, and bound to agarwood with dendrobium juice) without a fixed 两/钱 ratio, so no measured proportion should be asserted here.
+Here the lotus is real material, not an accord — but this is a **contemporary** recipe, not a 香谱 original. Its structure still reads in the classical pattern: agarwood (沉香) as the 君 foundation, lotus (荷花) as the named subject working as 臣, saffron (西红花) as the 佐 accent, and dendrobium juice (石斛) as the 使 binder-and-harmonizer that literally holds the composition together. Its proportions are **unverified**: the modern source describes the method (saffron rolled inside half-dried lotus petals, pressed, and bound to agarwood with dendrobium juice) without a fixed 两/钱 ratio, so no measured proportion should be asserted here.
 
 ---
 
