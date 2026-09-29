@@ -6,7 +6,7 @@ search_intent: "commercial_investigation"
 pillar: "P10 — Incense Craft & Materials"
 content_type: "article"
 cluster_role: "article"
-last_reviewed: "2026-09-10"
+last_reviewed: "2026-09-29"
 brand: "\"LanDeng\""
 author: "Landeng Tech Team"
 ---
@@ -61,6 +61,22 @@ They usually correlate (hand-rolled usually means real materials), but they are 
 
 ---
 
+## Why the two methods behave differently in processing
+
+The visible differences between the two methods trace back to how each handles the same process variables — binder, moisture, and forming:
+
+| Variable | Hand-rolled (masala) | Machine-extruded / dipped |
+|---|---|---|
+| Binder share | Higher natural-binder ratio, because hand-forming needs a workable, forgiving dough | Can run a leaner paste or none at all when the core is dipped |
+| Moisture | Controlled by the roller's feel batch by batch | Controlled by machine settings — steadier, but only as good as the setup |
+| Forming | Variable by hand; small irregularities are inherent | Uniform extrusion; identical sticks by design |
+| Drying | Often slower, ambient drying; slight warping is normal | Often faster or forced drying for throughput |
+| Burn consistency | Stick-to-stick variation exists; part of the character | High batch uniformity — the strongest machine-made argument |
+
+The practical implication for buyers: **uniformity itself is information.** Extreme stick-to-stick sameness points to machine forming; visible variation points to hand work. Neither is "quality" on its own — hand variation can be charm or sloppiness, machine uniformity can be consistency or a synthetic dipped core. The method question and the material question still have to be asked separately, but reading the forming behavior tells you which method you are actually holding.
+
+**What this means for quality control.** For B2B orders, the two methods carry different QC expectations: hand-rolled product is specified within a tolerance band (dimension, weight, burn time as ranges), while machine product can be specified tightly. A buyer who demands tight machine tolerances from a hand-rolled product is asking the wrong method to be the wrong product — the same discipline as the [quality control](/blog/incense-manufacturing-quality-control/) and [spec sheet](/blog/incense-spec-sheet-coa/) questions.
+
 ## Common Mistakes
 
 1. **Assuming machine-made = bad.** It is cheaper and uniform — a legitimate product for a different buyer.
@@ -112,8 +128,10 @@ A: Not always. "Hand-rolled" describes the method, while "natural" describes the
 
 ## Related Resources
 
-- [How Incense Is Made](/blog/how-incense-is-made/)
+- [How Incense Is Made](/blog/how-incense-is-made/) — the shared manufacturing sequence
+- [Makko & Natural Binders](/blog/makko-natural-binders/) — the binder variable both methods manage
+- [Incense manufacturing quality control](/blog/incense-manufacturing-quality-control/) — tolerance bands vs tight specs
+- [Incense spec sheets & COAs](/blog/incense-spec-sheet-coa/) — writing method into the B2B specification
 - [What Makes Incense "Natural"](/blog/what-makes-incense-natural/)
-- [Makko & Natural Binders](/blog/makko-natural-binders/)
 
 **Natural next step:** see the natural-vs-synthetic question in full in [what makes incense "natural"](/blog/what-makes-incense-natural/), or the binder that both methods share in [makko & natural binders](/blog/makko-natural-binders/).

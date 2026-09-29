@@ -6,7 +6,7 @@ search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"
 content_type: "article"
 cluster_role: "how_to"
-last_reviewed: "2026-09-11"
+last_reviewed: "2026-09-29"
 brand: "LanDeng"
 author: "Landeng Tech Team"
 ---
@@ -49,6 +49,8 @@ See [incense in daily ritual](/blog/incense-in-daily-ritual/) and [incense for m
 5. **Light one end**; the flame travels along the line.
 
 The skill is in steps 3–4 — filling evenly and lifting without breaking the pattern. It takes practice, which is the point.
+
+**The powder matters too.** Seal incense needs a fine, uniform powder — coarse fragments clog the mold's channels and break the line, while a too-moist powder clumps and a too-dry one spills. This is the same particle-size discipline as [how incense powder is made](/blog/how-incense-powder-is-made/): the mold only works as well as the powder flows. Because the pattern must burn in a continuous line, the blend also needs a combustible binder proportion that sustains a slow, steady smolder rather than flashing — a real formulation constraint, not just a decorative choice.
 
 ---
 

@@ -6,7 +6,7 @@ search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"
 content_type: "authority_reference"
 cluster_role: "authority_reference"
-last_reviewed: "2026-09-11"
+last_reviewed: "2026-09-29"
 brand: "LanDeng"
 author: "Landeng Tech Team"
 ---
@@ -28,6 +28,14 @@ author: "Landeng Tech Team"
 | Is it aromatic unheated? | Yes — 奇楠 is fragrant even at room temperature, unlike ordinary agarwood |
 
 ---
+
+## How the grade sits on the agarwood entity
+
+奇楠 is not a parallel material to agarwood — it is agarwood's own top state, which matters for how the knowledge base organizes it:
+
+- **One entity, one grade ladder.** The [agarwood entity page](/ingredients/agarwood/) carries the full identity (species, formation, sourcing), and 奇楠 is the top rung of its grading ladder — the same relationship as 沉水 within the sinking system.
+- **Separate pages, not separate entities.** The grade gets its own pages because the buyer questions differ (authentication, price reality, terminology), but the botanical identity stays anchored to *Aquilaria* — 奇楠 has no species of its own.
+- **Evidence discipline.** The grade's defining properties (soft, kneadable, aromatic unheated) are traditional trade descriptions; the color hierarchy is disputed market terminology. Both are labeled as such on the [agarwood entity page](/ingredients/agarwood/), never as laboratory-established taxonomy.
 
 ## Why the Name Traveled as "Kyara"
 

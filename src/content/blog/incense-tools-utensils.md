@@ -47,6 +47,16 @@ The 炉瓶三事 is a **composition** — the three objects together on a stand 
 
 ---
 
+## Why the tools are made the way they are
+
+The tool set looks ceremonial, but each piece answers a real heat-handling problem:
+
+- **Metal tools (chopsticks, tongs)** handle the charcoal — they must not char or melt at ember temperature, which is why wood is never used for the coal.
+- **Wood or bamboo tools (spatula, tamper)** shape the ash bed — they are soft enough to press ash without gouging the censer, and they stay cool to the hand.
+- **The ash bed itself is a functional component, not decoration.** It insulates the hot charcoal from the censer wall, supports the mica or silver plate above the ember, and spreads the heat evenly — which is exactly why the tamper matters: a lumpy bed gives uneven heat, and uneven heat scorches the material. See [the 隔火焚香 setup](/blog/gehuo-fenxiang-setup/) for how the pieces work together.
+
+The same functional logic appears in the [seal incense](/blog/incense-seal-zhuanxiang/) tradition, where the packed, level ash bed is what carries the powder pattern — the tools are the same, the job differs.
+
 ## What You Actually Need
 
 - **Sticks, cones, coils** → a holder and an ash catcher. No tools required.

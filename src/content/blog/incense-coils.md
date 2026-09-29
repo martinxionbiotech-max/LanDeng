@@ -6,7 +6,7 @@ search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"
 content_type: "article"
 cluster_role: "article"
-last_reviewed: "2026-09-09"
+last_reviewed: "2026-09-29"
 brand: "\"LanDeng\""
 author: "Landeng Tech Team"
 ---
@@ -34,6 +34,8 @@ The coil's shape is a packaging solution: instead of a meter-long stick, the sam
 Burn time varies with the coil's **diameter and thickness** — a small coil might last a couple of hours; a large one can burn most of a day. Check the product's stated time rather than assuming.
 
 ---
+
+**Why the spiral, technically.** The spiral is the same extruded paste as a straight stick, wound before drying instead of after. This makes two process variables matter more than they do in sticks: the dough must be **pliable enough to wind without cracking** — a slightly higher moisture and a well-chosen binder (see [makko & natural binders](/blog/makko-natural-binders/)) — and drying must be even, because a coil that dries faster on one side bows and breaks. A broken coil is almost always a drying or dough problem, not a shipping accident.
 
 ## How to Burn a Coil
 

@@ -6,7 +6,7 @@ search_intent: "informational"
 pillar: "P6 — Care & Safety"
 content_type: "article"
 cluster_role: "article"
-last_reviewed: "2026-09-10"
+last_reviewed: "2026-09-29"
 brand: "\"LanDeng\""
 author: "Landeng Tech Team"
 ---
@@ -37,6 +37,8 @@ author: "Landeng Tech Team"
 | Resin / powder | Charcoal disc in sand/ash, or an electric heater | Charcoal gets very hot — the vessel must be heatproof |
 
 ---
+
+**Why ventilation comes first.** All incense — natural or synthetic — produces combustion by-products: fine particulate matter, carbon monoxide, and volatile organics. The material's "naturalness" does not remove the physics; burning any plant matter produces smoke. The practical rule follows from this: burn small amounts, ventilate the room during and after the burn, and keep combustion away from sleeping areas and enclosed spaces. This is the same evidence base as the [smoke & air quality](/blog/incense-smoke-air-quality-evidence/) page, stated here as a handling rule rather than a research summary.
 
 ## Placement Rules
 

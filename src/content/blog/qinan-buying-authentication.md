@@ -6,7 +6,7 @@ search_intent: "commercial_investigation"
 pillar: "P10 — Incense Craft & Materials"
 content_type: "reference_database"
 cluster_role: "buyer_intelligence"
-last_reviewed: "2026-09-11"
+last_reviewed: "2026-09-29"
 brand: "LanDeng"
 author: "Landeng Tech Team"
 ---
@@ -50,7 +50,19 @@ The gap between ordinary agarwood and 奇楠 is **not a few percent — it is or
 
 The reliable route is not a single trick — it is a **seller you can hold accountable** and, where the value justifies it, **laboratory testing**.
 
+**What visual identification cannot do.** Photographs, videos, and even in-person inspection cannot establish *Aquilaria* species, resin content, or natural versus synthetic aroma — the properties that actually define the grade. Visual checks can flag gross anomalies (color uniformity that looks dyed, texture that looks compressed) but cannot confirm authenticity. The practical consequence is that remote buying at 奇楠 prices without a documented, accountable seller is structurally exposed: every visible property can be imitated, while the defining properties cannot be seen.
+
 ---
+
+## For B2B buyers: what documentation can add
+
+For volume purchasing, the seller-accountability route becomes a documentation question:
+
+- **Species statement on the invoice and spec** — a written *Aquilaria* species claim turns a verbal description into a contractual term.
+- **Batch-linked documentation** — the same discipline as any high-value botanical: the COA or test report must link to the specific batch shipped, not a generic capability statement. See [spec sheets & COAs](/blog/incense-spec-sheet-coa/).
+- **CITES species-level documentation** — agarwood is CITES-listed; legitimate trade carries species-level paperwork, which also pins the material identity. See [buying agarwood for manufacturing](/blog/how-to-buy-agarwood-for-incense-manufacturing/).
+
+The same hierarchy applies at scale: price-vs-grade logic first, documented seller accountability second, laboratory testing where the value justifies it.
 
 ## The Author's Take
 
@@ -97,7 +109,10 @@ It is the top resin-saturated grade of agarwood, and genuine material is scarce.
 
 ## Related Resources
 
-- [Qinan (奇楠 / Kyara) Overview](/blog/qinan-kyara/)
+- [Agarwood ingredient page](/ingredients/agarwood/) — identity, formation, and the 奇楠 grade in context
+- [What qinan (奇楠) is](/blog/qinan-kyara/) — the grade itself, before the buying question
+- [How to buy agarwood for incense manufacturing](/blog/how-to-buy-agarwood-for-incense-manufacturing/) — the full B2B sourcing path
+- [Incense spec sheets & COAs](/blog/incense-spec-sheet-coa/) — batch-linked documentation for high-value botanicals
 - [Incense Authentication Database](/blog/incense-authentication-database/)
 - [Agarwood Grading Guide](/blog/agarwood-grading-guide/)
 

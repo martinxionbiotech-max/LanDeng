@@ -6,7 +6,7 @@ search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"
 content_type: "article"
 cluster_role: "article"
-last_reviewed: "2026-09-09"
+last_reviewed: "2026-09-29"
 brand: "\"LanDeng\""
 author: "Landeng Tech Team"
 ---
@@ -63,6 +63,17 @@ Much resin content wraps the practice in mystical language. This page describes 
 
 ---
 
+## Why the materials behave differently
+
+The practical difference between resin and wood powder is what happens to each as temperature rises:
+
+| Material | On gentle heat (~100–200°C) | On high heat (charcoal) | Failure mode |
+|---|---|---|---|
+| Resin (frankincense, myrrh) | Softens, then melts and volatilizes; rich fresh aroma | Melts fast, can smoke and turn acrid | Overheating → bitter, burnt note |
+| Wood powder / chips (agarwood, sandalwood) | Slow release of aromatic oils; no melting | Smolders, deeper and darker aroma | Too little heat → little scent; too much → burnt wood |
+
+The implication for practice: **resin rewards restraint, wood rewards patience.** Resin needs only enough heat to melt and vaporize — a small piece on an electric heater out-performs a large lump on glowing charcoal, which scorches before it releases. Wood powder develops its layered aroma gradually, so it suits the low, steady heat of 隔火焚香 or an electric heater rather than a fast flame. The same logic explains why the two are blended: a resin adds the bright top note while the wood supplies the slow, deep base — see [how incense powder is made](/blog/how-incense-powder-is-made/) for the blending stage.
+
 ## Common Mistakes
 
 1. **Burning resin directly in a flame.** Resin is meant to be heated on a charcoal disc or heater, not lit like a stick.
@@ -114,6 +125,11 @@ Not "better" — just different. Heating resin gives you the pure material with 
 ---
 
 ## Related Resources
+
+- [How Incense Powder Is Made](/blog/how-incense-powder-is-made/) — grinding, sieving, blending
+- [Incense Powder vs Wood Chips](/blog/incense-powder-vs-wood-chips/) — powder or chips for the same material
+- [How to Burn Incense Safely](/blog/how-to-burn-incense-safely/) — charcoal and electric-heater handling
+- [Natural vs Synthetic Incense](/blog/natural-vs-synthetic-incense/) — the material-vs-fragrance question
 
 - [Which Incense Format Is Right for You?](/blog/which-incense-format/)
 - [Frankincense (乳香)](/ingredients/frankincense/)
