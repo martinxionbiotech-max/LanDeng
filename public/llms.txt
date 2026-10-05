@@ -175,6 +175,24 @@
 - [Aroma dataset](https://data.incenseherbs.com/datasets/aroma.json): 10 aroma families (Schema.org Dataset / DefinedTerm).
 
 
+## Machine-readable markdown
+
+Clean markdown variants of the data-driven pages are generated at build time (`.md` endpoints) for LLMs and AI agents. Each file carries a YAML frontmatter (title, description, canonical, updated), an H1, a one-sentence definition, core data tables and source links — with no navigation, footer or JavaScript noise — and links back to its human-readable HTML page.
+
+Endpoint patterns:
+
+- `/ingredients/{slug}.md` — 150 ingredient entity pages
+- `/blog/{slug}.md` — 115 blog guides
+- `/chinese-incense.md` — Chinese incense pillar page
+
+Example URLs:
+
+- [Agarwood](https://incenseherbs.com/ingredients/agarwood.md)
+- [Sandalwood](https://incenseherbs.com/ingredients/sandalwood.md)
+- [What is Chinese incense?](https://incenseherbs.com/chinese-incense.md)
+- [Agarwood grading guide](https://incenseherbs.com/blog/agarwood-grading-guide.md)
+- [Incense safety guide](https://incenseherbs.com/blog/incense-safety-guide.md)
+
 ## AI content notes
 
 - Entity pages expose machine-readable definitions (Chinese term, pinyin, scientific name, type, aroma profile).
