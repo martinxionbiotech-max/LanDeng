@@ -97,7 +97,7 @@ const webSiteJsonLd = {
     <header class="site-header">
       <div class="shell">
         <a class="brand" href="/" aria-label="LanDeng home">
-          <img class="brand-mark" src="/images/brand/logo-mark-seal-badge.webp" alt="" width="40" height="40" aria-hidden="true" loading="eager" />
+          <img class="brand-mark" src="/images/brand/logo-mark-seal-badge-transparent-800.png" alt="" width="44" height="44" aria-hidden="true" loading="eager" />
           <span class="brand-name">LanDeng</span>
         </a>
         <nav class="site-nav" aria-label="Primary navigation">
@@ -313,22 +313,25 @@ const webSiteJsonLd = {
 
   .brand {
     display: inline-flex;
-    align-items: baseline;
-    gap: 0.65rem;
+    align-items: center;
+    gap: 0.75rem;
     color: var(--ink);
     text-decoration: none;
     font-family: var(--serif);
   }
 
   .brand-mark {
-    font-size: 1.35rem;
-    font-weight: 600;
-    letter-spacing: 0.08em;
+    width: 44px;
+    height: 44px;
+    display: block;
+    object-fit: contain;
+    flex: 0 0 auto;
   }
 
   .brand-name {
-    font-size: 1.05rem;
-    letter-spacing: 0.02em;
+    font-size: 1.45rem;
+    font-weight: 700;
+    letter-spacing: 0.01em;
   }
 
   .site-nav {
