@@ -142,7 +142,7 @@ The same "one name, several materials" problem runs through the whole incense tr
 
 > **Direct answer:** Wild *Santalum album* is depleted and CITES-listed, so the legal market runs on plantation *S. album* and Australian *S. spicatum*. Sourcing should confirm species and whether the material is plantation-grown or sustainably harvested.
 
-Indian sandalwood's wild decline, and its CITES listing, pushed the market toward two sustainable routes: **plantation *S. album*** (grown with managed host trees) and **Australian *S. spicatum***, which is harvested under regulated management and is now a large share of the legal sandalwood trade. For a buyer, the documentation question is the same as with agarwood: can the supplier name the species, the origin, and the harvest basis? A label that says only "sandalwood" answers none of these. See the [wholesale guide](/blog/wholesale-guide/) for the sourcing framework.
+Indian sandalwood's wild decline, and its CITES listing, pushed the market toward two sustainable routes: **plantation *S. album*** (grown with managed host trees) and **Australian *S. spicatum***, which is harvested under regulated management and is now a large share of the legal sandalwood trade. In China, *Santalum album* is additionally listed as a Grade II state-protected wild plant (国家重点保护野生植物二级), the same conservation concern reflected in national law. For a buyer, the documentation question is the same as with agarwood: can the supplier name the species, the origin, and the harvest basis? A label that says only "sandalwood" answers none of these. See the [wholesale guide](/blog/wholesale-guide/) for the sourcing framework.
 
 ## Modern commercial applications
 
