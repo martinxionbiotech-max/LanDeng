@@ -9,6 +9,7 @@ primary_keyword: "what is schizonepeta jingjie herb"
 search_intent: informational
 aroma: ["herbal", "minty", "spicy", "fresh"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["artemisia-annua", "agastache-rugosa", "perilla"]
 ---
 

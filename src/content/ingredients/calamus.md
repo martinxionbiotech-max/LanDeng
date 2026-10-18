@@ -9,6 +9,7 @@ primary_keyword: "what is calamus incense"
 search_intent: informational
 aroma: ["herbal", "spicy", "sweet", "earthy"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["angelica", "mugwort"]
 ---
 

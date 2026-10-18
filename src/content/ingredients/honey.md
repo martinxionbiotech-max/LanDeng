@@ -9,6 +9,7 @@ primary_keyword: "what is honey fengmi incense"
 search_intent: informational
 aroma: ["sweet", "floral", "warm", "caramel"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["musk", "ambergris"]
 ---
 

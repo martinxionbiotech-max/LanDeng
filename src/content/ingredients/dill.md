@@ -9,6 +9,7 @@ primary_keyword: "what is dill shiluo spice"
 search_intent: informational
 aroma: ["herbal", "fresh", "anise-like", "slightly sweet"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["fennel", "cumin", "coriander-seed"]
 ---
 

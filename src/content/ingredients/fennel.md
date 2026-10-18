@@ -9,6 +9,7 @@ primary_keyword: "what is fennel seed"
 search_intent: informational
 aroma: ["sweet", "anise", "warm", "herbaceous"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["star-anise", "clove"]
 ---
 

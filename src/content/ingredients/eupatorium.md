@@ -9,6 +9,7 @@ primary_keyword: "what is eupatorium herb"
 search_intent: informational
 aroma: ["herbal", "aromatic", "sweet", "fresh"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["mugwort", "agastache-rugosa"]
 ---
 

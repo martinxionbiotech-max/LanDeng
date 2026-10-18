@@ -82,12 +82,7 @@ The reliable questions are: **what is the aromatic material, what is the binder,
 
 ## Natural ≠ Smoke-Free (the Safety Boundary)
 
-A common misunderstanding is that "natural" incense is somehow "clean" or "safe" while synthetic is "toxic." This overstates things:
-
-- **All burning plant material produces smoke and particulate matter (PM2.5)** — natural or not. Agarwood and sandalwood burn with smoke too.
-- "Natural" describes the **materials**, not the **combustion byproducts**.
-
-So the honest guidance is: choose natural materials if you care about what you are smelling, but **ventilate regardless** — open a window, keep sessions short, keep it away from children and pets. This is combustion-safety guidance, not a claim about illness. See the [safety discussion in incense vs diffuser](/blog/incense-vs-essential-oil-diffuser/).
+"Natural" describes the **materials** — not the combustion byproducts. All burning plant material produces smoke and particulate matter, natural or not; the full evidence treatment lives on the [smoke & air quality evidence](/blog/incense-smoke-air-quality-evidence/) page.
 
 ---
 

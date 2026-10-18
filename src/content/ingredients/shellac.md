@@ -9,6 +9,7 @@ primary_keyword: "what is shellac zicaorong lac resin"
 search_intent: informational
 aroma: ["resinous", "waxy", "subtle", "slightly sweet"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["dragons-blood", "benzoin"]
 ---
 

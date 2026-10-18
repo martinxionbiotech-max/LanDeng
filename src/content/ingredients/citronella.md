@@ -9,6 +9,7 @@ primary_keyword: "what is citronella grass"
 search_intent: informational
 aroma: ["citrusy", "lemony", "fresh", "grassy"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["patchouli", "agastache-rugosa"]
 ---
 

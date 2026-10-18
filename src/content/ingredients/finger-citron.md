@@ -9,6 +9,7 @@ primary_keyword: "what is finger citron buddha hand"
 search_intent: informational
 aroma: ["citrus", "floral", "sweet", "bright"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["citron", "orange-peel"]
 ---
 

@@ -9,6 +9,7 @@ primary_keyword: "what is asarum xixin root"
 search_intent: informational
 aroma: ["pungent", "spicy", "rooty", "camphoraceous"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["ligusticum", "angelica", "atractylodes"]
 ---
 

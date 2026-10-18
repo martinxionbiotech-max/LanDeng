@@ -9,6 +9,7 @@ primary_keyword: "what is patchouli"
 search_intent: informational
 aroma: ["earthy", "woody", "balsamic", "spicy"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["vetiver", "cedar"]
 ---
 

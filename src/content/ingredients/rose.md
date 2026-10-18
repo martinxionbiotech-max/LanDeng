@@ -9,6 +9,7 @@ primary_keyword: "what is chinese rose"
 search_intent: informational
 aroma: ["sweet", "floral", "romantic"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["jasmine", "osmanthus"]
 ---
 

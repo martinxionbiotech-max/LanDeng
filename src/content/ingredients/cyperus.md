@@ -9,6 +9,7 @@ primary_keyword: "what is cyperus"
 search_intent: informational
 aroma: ["woody", "spicy", "earthy", "smoky"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["vetiver", "calamus"]
 ---
 

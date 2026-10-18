@@ -9,6 +9,7 @@ primary_keyword: "what is pine needles songzhen incense"
 search_intent: informational
 aroma: ["piney", "conifer", "fresh", "green"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["pine-resin", "cedar", "juniper"]
 ---
 

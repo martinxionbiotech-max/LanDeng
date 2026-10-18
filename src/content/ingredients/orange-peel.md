@@ -9,6 +9,7 @@ primary_keyword: "what is chenpi"
 search_intent: informational
 aroma: ["citrus", "bittersweet", "woody"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["cinnamon", "pomelo-peel"]
 ---
 

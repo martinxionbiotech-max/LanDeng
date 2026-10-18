@@ -9,6 +9,7 @@ primary_keyword: "what is dong quai danggui angelica sinensis"
 search_intent: informational
 aroma: ["herbal", "sweet", "warm", "slightly spicy"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["angelica", "atractylodes", "calamus"]
 ---
 

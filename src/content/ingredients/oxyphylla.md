@@ -9,6 +9,7 @@ primary_keyword: "what is yizhi ren alpinia oxyphylla"
 search_intent: informational
 aroma: ["spicy", "warm", "camphoraceous", "slightly sweet"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["galangal", "katsumadai"]
 ---
 

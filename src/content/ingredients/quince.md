@@ -9,6 +9,7 @@ primary_keyword: "what is quince mugua fruit"
 search_intent: informational
 aroma: ["fruity", "sweet", "floral", "tart"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["kumquat", "citron", "finger-citron"]
 ---
 

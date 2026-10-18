@@ -9,6 +9,7 @@ primary_keyword: "star anise incense"
 search_intent: informational
 aroma: ["sweet", "licorice", "warm", "spicy"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["cinnamon", "clove"]
 ---
 

@@ -9,6 +9,7 @@ primary_keyword: "what is white cardamom"
 search_intent: informational
 aroma: ["camphoraceous", "spicy", "eucalyptus", "warm"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["clove", "cinnamon"]
 ---
 

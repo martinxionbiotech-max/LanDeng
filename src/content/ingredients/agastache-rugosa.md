@@ -9,6 +9,7 @@ primary_keyword: "what is agastache"
 search_intent: informational
 aroma: ["minty", "herbal", "sweet", "anise-like"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["patchouli", "mugwort"]
 ---
 

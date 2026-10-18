@@ -9,6 +9,7 @@ primary_keyword: "what is costus root"
 search_intent: informational
 aroma: ["earthy", "woody", "musky", "animalic"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["spikenard-nardostachys", "orris-root"]
 ---
 

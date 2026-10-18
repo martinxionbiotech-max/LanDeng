@@ -9,6 +9,7 @@ primary_keyword: "what is nutmeg spice"
 search_intent: informational
 aroma: ["warm", "spicy", "sweet", "woody"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["clove", "cardamom"]
 ---
 

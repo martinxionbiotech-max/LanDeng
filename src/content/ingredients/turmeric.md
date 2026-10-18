@@ -9,6 +9,7 @@ primary_keyword: "what is turmeric jianghuang"
 search_intent: informational
 aroma: ["earthy", "warm", "spicy", "bitter"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["galangal", "sand-ginger", "ginger"]
 ---
 

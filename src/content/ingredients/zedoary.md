@@ -9,6 +9,7 @@ primary_keyword: "what is zedoary ezhu"
 search_intent: informational
 aroma: ["earthy", "camphoraceous", "warm", "slightly bitter"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["turmeric", "aromatic-turmeric"]
 ---
 

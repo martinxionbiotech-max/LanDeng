@@ -9,6 +9,7 @@ primary_keyword: "what is ambergris"
 search_intent: informational
 aroma: ["marine", "sweet", "earthy", "waxy"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["sandalwood", "agarwood"]
 ---
 

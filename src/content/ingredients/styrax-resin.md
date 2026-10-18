@@ -9,6 +9,7 @@ primary_keyword: "what is storax"
 search_intent: informational
 aroma: ["sweet", "balsamic", "resinous", "warm"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["sweetgum", "benzoin"]
 ---
 

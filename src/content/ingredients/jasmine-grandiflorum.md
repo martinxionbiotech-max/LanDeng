@@ -9,6 +9,7 @@ primary_keyword: "what is jasmine grandiflorum suxin"
 search_intent: informational
 aroma: ["sweet", "floral", "heady", "green"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["jasmine", "osmanthus"]
 ---
 

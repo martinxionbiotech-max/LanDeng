@@ -9,6 +9,7 @@ primary_keyword: "what is mulberry leaf sangye incense"
 search_intent: informational
 aroma: ["green", "fresh", "tea-like", "slightly sweet"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["bamboo-leaves", "platycladus-leaves", "sophora-flower"]
 ---
 

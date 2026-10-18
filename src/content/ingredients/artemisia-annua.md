@@ -9,6 +9,7 @@ primary_keyword: "what is artemisia annua qinghao"
 search_intent: informational
 aroma: ["herbal", "camphoraceous", "fresh", "slightly sweet"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["mugwort", "agastache-rugosa", "schizonepeta"]
 ---
 

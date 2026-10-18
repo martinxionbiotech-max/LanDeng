@@ -9,6 +9,7 @@ primary_keyword: "what is lily of the valley linglan"
 search_intent: informational
 aroma: ["floral", "green", "sweet", "fresh", "delicate"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["jasmine", "rose", "orris-root"]
 ---
 

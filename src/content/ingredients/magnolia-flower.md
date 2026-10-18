@@ -9,6 +9,7 @@ primary_keyword: "what is xinyi magnolia flower"
 search_intent: informational
 aroma: ["floral", "spicy", "green", "slightly camphoraceous"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["plum-blossom", "champaca", "gardenia"]
 ---
 

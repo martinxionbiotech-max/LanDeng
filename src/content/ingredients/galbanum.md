@@ -9,6 +9,7 @@ primary_keyword: "what is galbanum resin"
 search_intent: informational
 aroma: ["green", "balsamic", "earthy", "sharp"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["asafoetida", "frankincense"]
 ---
 

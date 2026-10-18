@@ -139,7 +139,7 @@ None of this requires expertise — it requires reading the label and asking two
 
 ## Safety and Ventilation
 
-Incense burns, and burning produces smoke and particulate matter (PM2.5). This is a combustion fact, not a wellness judgment. The practical guidance: burn in a ventilated room, near an open window when possible, keep sessions short, and keep incense and its smoke away from children, pets, and anyone with respiratory sensitivities. "Natural" does not mean smoke-free. The American Lung Association's [indoor-air guidance](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) and LanDeng's own [safety guide](/blog/incense-safety-guide/) carry the detail.
+Burning produces smoke and PM2.5 — "natural" does not mean smoke-free. Ventilate, keep sessions short, and keep smoke away from children, pets, and anyone with respiratory sensitivities; the evidence and the American Lung Association guidance are collected on the [smoke & air quality evidence](/blog/incense-smoke-air-quality-evidence/) page, with handling rules in the [safety guide](/blog/incense-safety-guide/).
 
 ## Common Mistakes
 

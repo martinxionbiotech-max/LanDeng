@@ -9,6 +9,7 @@ primary_keyword: "what is torreya xiangfei nut"
 search_intent: informational
 aroma: ["nutty", "woody", "resinous", "roasted"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["cypress-seed", "pine-resin"]
 ---
 

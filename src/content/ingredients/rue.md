@@ -9,6 +9,7 @@ primary_keyword: "what is rue herb"
 search_intent: informational
 aroma: ["bitter", "herbal", "green", "woody"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["mugwort", "citronella"]
 ---
 

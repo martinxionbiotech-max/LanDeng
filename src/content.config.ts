@@ -15,6 +15,7 @@ const ingredients = defineCollection({
     related: z.array(z.string()).optional(),
     primary_keyword: z.string().optional(),
     search_intent: z.string().optional(),
+    last_reviewed: z.string().optional(),
   }),
 });
 
@@ -27,6 +28,7 @@ const concepts = defineCollection({
     status: z.string(),
     primary_keyword: z.string().optional(),
     search_intent: z.string().optional(),
+    last_reviewed: z.string().optional(),
   }),
 });
 

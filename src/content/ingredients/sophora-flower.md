@@ -9,6 +9,7 @@ primary_keyword: "what is sophora flower huaihua"
 search_intent: informational
 aroma: ["sweet", "floral", "delicate", "honey-like"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["honeysuckle", "chrysanthemum", "mulberry-leaf"]
 ---
 

@@ -9,6 +9,7 @@ primary_keyword: "what is chrysanthemum"
 search_intent: informational
 aroma: ["floral", "herbal", "bittersweet"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["mugwort", "jasmine"]
 ---
 

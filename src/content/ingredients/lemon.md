@@ -9,6 +9,7 @@ primary_keyword: "what is lemon ningmeng citrus"
 search_intent: informational
 aroma: ["citrus", "bright", "zesty", "sweet", "slightly sour"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["citron", "finger-citron", "pomelo-peel"]
 ---
 

@@ -9,6 +9,7 @@ primary_keyword: "what is musk in incense"
 search_intent: informational
 aroma: ["animalic", "musky", "sweet", "warm"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["ambergris", "sandalwood"]
 ---
 

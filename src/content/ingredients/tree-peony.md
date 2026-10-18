@@ -9,6 +9,7 @@ primary_keyword: "what is tree peony mudan flower"
 search_intent: informational
 aroma: ["floral", "rosy", "sweet", "green"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["peony", "rose", "plum-blossom"]
 ---
 

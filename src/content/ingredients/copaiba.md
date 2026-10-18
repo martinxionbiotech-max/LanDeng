@@ -9,6 +9,7 @@ primary_keyword: "what is copaiba balsam guba xiangzhi"
 search_intent: informational
 aroma: ["woody", "balsamic", "resinous", "slightly sweet"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["peru-balsam", "benzoin", "labdanum"]
 ---
 

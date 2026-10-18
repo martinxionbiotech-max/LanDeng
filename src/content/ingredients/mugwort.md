@@ -9,6 +9,7 @@ primary_keyword: "what is mugwort"
 search_intent: informational
 aroma: ["herbal", "bitter-green", "camphoraceous"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["chrysanthemum", "artemisia-annua"]
 ---
 

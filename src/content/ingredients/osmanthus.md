@@ -9,6 +9,7 @@ primary_keyword: "what is osmanthus"
 search_intent: informational
 aroma: ["sweet", "floral", "apricot", "honey"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["jasmine", "rose"]
 ---
 

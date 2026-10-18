@@ -9,6 +9,7 @@ primary_keyword: "what is coriander seed"
 search_intent: informational
 aroma: ["citrus", "woody", "spicy", "floral"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["fennel", "orange-peel"]
 ---
 

@@ -12,7 +12,7 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** Incense powder is aromatic material ground to a fine, blendable particle; wood chips are solid cut pieces of aromatic wood — most often sandalwood or agarwood. The physical form decides the method: **powder** is blended into sticks and cones, pressed into seal patterns (篆香), or sprinkled over a heat source; **chips** are warmed whole on charcoal or an electric heater (隔火焚香). Neither form is better in general — each fits a different use.
+**Direct answer:** Incense powder is aromatic material ground to a fine, blendable particle; wood chips are solid cut pieces of aromatic wood — most often sandalwood or agarwood. This page covers the form difference for aromatic woods in general; for the agarwood-specific buying guide (inspection, adulteration, qinan), see [agarwood powder vs chips](/blog/agarwood-powder-vs-chips/). The physical form decides the method: **powder** is blended into sticks and cones, pressed into seal patterns (篆香), or sprinkled over a heat source; **chips** are warmed whole on charcoal or an electric heater (隔火焚香). Neither form is better in general — each fits a different use.
 
 **Key facts:** Powder maximizes surface area so it blends and burns predictably inside made incense; chips expose far less surface, releasing aroma slowly and staying closer to the raw material. The practical quality variables are **particle size and moisture** for powder, and **piece size and resin content** for chips — but the exact targets depend on the material and the formulation.
 

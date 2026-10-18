@@ -9,6 +9,7 @@ primary_keyword: "what is arborvitae leaves cebai ye"
 search_intent: informational
 aroma: ["woody", "fresh", "green", "slightly resinous"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["cypress-seed", "cedar", "thuja"]
 ---
 

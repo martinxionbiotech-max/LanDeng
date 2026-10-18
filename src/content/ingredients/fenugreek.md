@@ -9,6 +9,7 @@ primary_keyword: "what is fenugreek huluba incense"
 search_intent: informational
 aroma: ["sweet", "maple-like", "nutty", "slightly bitter"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["cumin", "fennel", "coriander-seed"]
 ---
 

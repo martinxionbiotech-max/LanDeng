@@ -9,6 +9,7 @@ primary_keyword: "what is daphne odorosa ruixiang"
 search_intent: informational
 aroma: ["sweet", "floral", "spicy", "green"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["wintersweet", "plum-blossom"]
 ---
 

@@ -9,6 +9,7 @@ primary_keyword: "what is asafoetida"
 search_intent: informational
 aroma: ["pungent", "sulfurous", "savory", "resinous"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["galangal", "frankincense", "costus"]
 ---
 

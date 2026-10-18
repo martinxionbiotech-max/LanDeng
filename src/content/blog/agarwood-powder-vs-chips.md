@@ -23,7 +23,7 @@ author: "Landeng Tech Team"
 - **Chips = appreciation** (品香); **powder = making** (制香) — the same wood, two jobs.
 - Chips can be **inspected by eye**; powder requires **particle-size and moisture specification**.
 - Both forms are heavily faked — see [agarwood](/ingredients/agarwood/) for the adulteration map.
-- The top grade, [qinan (奇楠)](/blog/qinan-kyara/), is almost always kept whole — grinding it away is usually a sign of fraud or low material.
+- The top grade, [qinan (奇楠)](/blog/qinan-kyara/), is almost always kept whole — **qinan sold as powder is a fraud signal by itself**: no seller who holds genuine qinan grinds it into powder, because the resin signature that identifies it is destroyed in the grind. Treat any "qinan powder" listing as adulterated or mislabeled until proven otherwise.
 - Authenticity checks (burn test, gentle heat, water test) differ in what they reveal by form.
 
 ---

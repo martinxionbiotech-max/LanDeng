@@ -9,6 +9,7 @@ primary_keyword: "what is eucalyptus anye leaf"
 search_intent: informational
 aroma: ["camphoraceous", "fresh", "sharp", "slightly medicinal", "clean"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["camphor", "rosemary", "pine-needles"]
 ---
 

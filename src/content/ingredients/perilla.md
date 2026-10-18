@@ -9,6 +9,7 @@ primary_keyword: "what is perilla zisu"
 search_intent: informational
 aroma: ["herbal", "minty", "sweet", "anise-like"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["mint", "agastache-rugosa", "mugwort"]
 ---
 

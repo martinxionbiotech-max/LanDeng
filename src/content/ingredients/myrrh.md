@@ -9,6 +9,7 @@ primary_keyword: "what is myrrh"
 search_intent: informational
 aroma: ["balsamic", "earthy", "bitter", "medicinal"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["frankincense", "benzoin"]
 ---
 

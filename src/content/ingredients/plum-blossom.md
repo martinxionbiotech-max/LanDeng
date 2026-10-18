@@ -9,6 +9,7 @@ primary_keyword: "plum blossom incense"
 search_intent: informational
 aroma: ["delicate", "sweet", "almondy", "green-floral"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["osmanthus", "chrysanthemum"]
 ---
 

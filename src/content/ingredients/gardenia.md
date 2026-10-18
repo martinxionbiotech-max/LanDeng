@@ -9,6 +9,7 @@ primary_keyword: "what is gardenia flower"
 search_intent: informational
 aroma: ["sweet", "creamy", "white-floral", "heady"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["jasmine", "osmanthus"]
 ---
 

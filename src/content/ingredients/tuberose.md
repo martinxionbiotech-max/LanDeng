@@ -9,6 +9,7 @@ primary_keyword: "what is tuberose wanxiangyu flower"
 search_intent: informational
 aroma: ["sweet", "floral", "creamy", "heady"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["jasmine", "jasmine-grandiflorum", "osmanthus"]
 ---
 

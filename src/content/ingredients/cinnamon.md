@@ -9,6 +9,7 @@ primary_keyword: "cinnamon vs cassia"
 search_intent: informational
 aroma: ["warm", "spicy", "sweet"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["clove", "orange-peel"]
 ---
 

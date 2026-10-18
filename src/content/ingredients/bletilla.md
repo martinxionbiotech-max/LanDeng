@@ -9,6 +9,7 @@ primary_keyword: "what is bletilla root"
 search_intent: informational
 aroma: ["neutral", "slightly sweet", "earthy", "starchy"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["sandalwood", "agarwood"]
 ---
 

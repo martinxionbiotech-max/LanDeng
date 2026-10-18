@@ -9,6 +9,7 @@ primary_keyword: "what is sichuan pepper prickly ash shujiao"
 search_intent: informational
 aroma: ["spicy", "citrus", "numbing", "woody"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["pepper", "long-pepper"]
 ---
 

@@ -9,6 +9,7 @@ primary_keyword: "what is long pepper"
 search_intent: informational
 aroma: ["spicy", "pungent", "warm", "sweet"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["cubeb", "clove"]
 ---
 

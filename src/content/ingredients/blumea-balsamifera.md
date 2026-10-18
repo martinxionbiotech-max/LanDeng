@@ -9,6 +9,7 @@ primary_keyword: "what is blumea balsamifera aina xiang"
 search_intent: informational
 aroma: ["camphoraceous", "herbal", "cooling", "slightly sweet"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["borneol", "borneol-oil", "camphor"]
 ---
 

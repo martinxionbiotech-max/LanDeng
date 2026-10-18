@@ -9,6 +9,7 @@ primary_keyword: "what is pepper in incense"
 search_intent: informational
 aroma: ["spicy", "pungent", "warm", "woody"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["long-pepper", "cubeb", "clove"]
 ---
 

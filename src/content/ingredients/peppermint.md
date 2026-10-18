@@ -9,6 +9,7 @@ primary_keyword: "what is peppermint hujiao bohe mint"
 search_intent: informational
 aroma: ["cooling", "minty", "sharp", "camphoraceous", "sweet"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["mint", "spearmint"]
 ---
 

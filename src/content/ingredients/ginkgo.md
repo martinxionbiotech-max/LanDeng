@@ -9,6 +9,7 @@ primary_keyword: "what is ginkgo nut yinxing seed"
 search_intent: informational
 aroma: ["nutty", "sweet", "mild", "slightly bitter"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["torreya", "cypress-seed", "kumquat"]
 ---
 

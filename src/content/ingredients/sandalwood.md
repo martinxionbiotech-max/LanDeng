@@ -9,6 +9,7 @@ primary_keyword: "what is sandalwood"
 search_intent: informational
 aroma: ["creamy", "sweet", "soft", "woody"]
 status: published
+last_reviewed: "2026-09-28"
 related: ["agarwood", "vetiver"]
 ---
 

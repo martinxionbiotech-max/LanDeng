@@ -9,6 +9,7 @@ primary_keyword: "what is vetiver"
 search_intent: informational
 aroma: ["earthy", "woody", "smoky", "warm"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["cedar", "patchouli", "sandalwood"]
 ---
 

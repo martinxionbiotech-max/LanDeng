@@ -9,6 +9,7 @@ primary_keyword: "what is yulan magnolia flower"
 search_intent: informational
 aroma: ["floral", "fresh", "green", "slightly lemony"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["magnolia-flower", "champaca"]
 ---
 

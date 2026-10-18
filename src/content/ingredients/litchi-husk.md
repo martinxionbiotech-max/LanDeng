@@ -9,6 +9,7 @@ primary_keyword: "what is litchi husk incense"
 search_intent: informational
 aroma: ["fruity", "sweet", "floral", "woody"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["orange-peel", "osmanthus"]
 ---
 

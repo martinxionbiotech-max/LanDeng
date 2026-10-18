@@ -9,6 +9,7 @@ primary_keyword: "what is jasmine"
 search_intent: informational
 aroma: ["sweet", "floral", "heady"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["rose", "osmanthus"]
 ---
 

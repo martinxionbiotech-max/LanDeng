@@ -9,6 +9,7 @@ primary_keyword: "what is mint bohe"
 search_intent: informational
 aroma: ["cooling", "minty", "fresh", "sweet"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["perilla", "agastache-rugosa", "citronella"]
 ---
 

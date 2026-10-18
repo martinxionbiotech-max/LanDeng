@@ -9,6 +9,7 @@ primary_keyword: "what is dragon's blood resin"
 search_intent: informational
 aroma: ["resinous", "sweet", "woody", "balsamic"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["myrrh", "red-sandalwood"]
 ---
 

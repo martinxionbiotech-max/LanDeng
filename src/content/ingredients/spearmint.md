@@ -9,6 +9,7 @@ primary_keyword: "what is spearmint liulanxiang mint"
 search_intent: informational
 aroma: ["cooling", "minty", "sweet", "fresh", "green"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["mint", "peppermint"]
 ---
 

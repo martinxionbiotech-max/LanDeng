@@ -5,6 +5,7 @@ type: pillar
 primary_keyword: "chinese incense"
 search_intent: informational
 status: published
+last_reviewed: "2026-09-28"
 ---
 
 

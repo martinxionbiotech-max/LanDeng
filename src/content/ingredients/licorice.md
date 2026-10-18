@@ -9,6 +9,7 @@ primary_keyword: "what is licorice gancao"
 search_intent: informational
 aroma: ["sweet", "woody", "earthy", "slightly bitter"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["spikenard-nardostachys", "galangal"]
 ---
 

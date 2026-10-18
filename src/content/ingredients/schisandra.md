@@ -9,6 +9,7 @@ primary_keyword: "what is schisandra wuweizi berry"
 search_intent: informational
 aroma: ["fruity", "berry", "sour", "slightly woody"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["peony", "amomum-villosum", "licorice"]
 ---
 

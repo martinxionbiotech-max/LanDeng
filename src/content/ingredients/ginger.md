@@ -9,6 +9,7 @@ primary_keyword: "what is dried ginger ganjiang"
 search_intent: informational
 aroma: ["spicy", "pungent", "warm", "slightly citrusy"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["galangal", "sand-ginger", "cinnamon"]
 ---
 

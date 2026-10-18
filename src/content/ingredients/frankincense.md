@@ -9,6 +9,7 @@ primary_keyword: "what is frankincense"
 search_intent: informational
 aroma: ["resinous", "citrus", "earthy", "creamy"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["myrrh", "agarwood"]
 ---
 

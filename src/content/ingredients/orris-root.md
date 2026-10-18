@@ -9,6 +9,7 @@ primary_keyword: "what is orris root"
 search_intent: informational
 aroma: ["powdery", "floral", "violet", "woody"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["vetiver", "sandalwood"]
 ---
 

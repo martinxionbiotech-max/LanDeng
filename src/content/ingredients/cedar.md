@@ -9,6 +9,7 @@ primary_keyword: "what is cedar incense"
 search_intent: informational
 aroma: ["woody", "clean", "slightly sweet"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["vetiver", "patchouli"]
 ---
 

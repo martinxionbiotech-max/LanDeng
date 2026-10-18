@@ -9,6 +9,7 @@ primary_keyword: "what is ylang ylang yilan flower"
 search_intent: informational
 aroma: ["floral", "sweet", "creamy", "slightly fruity"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["jasmine", "neroli", "tuberose"]
 ---
 

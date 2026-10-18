@@ -9,6 +9,7 @@ primary_keyword: "what is grapefruit putaoyou citrus"
 search_intent: informational
 aroma: ["citrus", "fresh", "bittersweet", "green", "slightly woody"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["pomelo-peel", "citron", "lemon"]
 ---
 

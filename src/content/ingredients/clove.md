@@ -9,6 +9,7 @@ primary_keyword: "what is clove"
 search_intent: informational
 aroma: ["spicy", "warm", "aromatic"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["cinnamon", "cardamom"]
 ---
 

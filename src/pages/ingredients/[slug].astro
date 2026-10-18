@@ -20,7 +20,7 @@ const related = (ingredient.data.related || [])
   .map((slug) => allIngredients.find((i) => i.id === slug))
   .filter(Boolean);
 
-const { title, chinese, pinyin, scientificName, type, aroma } = ingredient.data;
+const { title, chinese, pinyin, scientificName, type, aroma, last_reviewed } = ingredient.data;
 
 // ---- P2: species-authority sameAs (reuse only verified Sources-section links) ----
 const SAMEAS_HOSTS = ['efloras.org', 'gbif.org', 'checklist.cites.org'];
@@ -112,6 +112,7 @@ const structuredData = [
     name: title,
     url: pageUrl,
     description: directAnswer,
+    ...(last_reviewed ? { dateModified: last_reviewed } : {}),
     isPartOf: { '@id': `${Astro.site?.toString() ?? 'https://incenseherbs.com'}#website` },
     breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
     mainEntity: { '@id': `${pageUrl}#definedterm` },

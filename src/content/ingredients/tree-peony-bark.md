@@ -9,6 +9,7 @@ primary_keyword: "what is mudanpi tree peony root bark"
 search_intent: informational
 aroma: ["rooty", "earthy", "woody", "faintly floral"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["tree-peony", "peony", "orris-root"]
 ---
 

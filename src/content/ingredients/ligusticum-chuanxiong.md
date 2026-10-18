@@ -9,6 +9,7 @@ primary_keyword: "what is chuanxiong ligusticum root"
 search_intent: informational
 aroma: ["herbal", "aromatic", "spicy", "slightly bitter"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["ligusticum", "angelica-sinensis", "angelica"]
 ---
 

@@ -9,6 +9,7 @@ primary_keyword: "what is beeswax fengla incense"
 search_intent: informational
 aroma: ["waxy", "honeyed", "warm", "slightly sweet"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["honey", "musk"]
 ---
 

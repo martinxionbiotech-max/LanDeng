@@ -9,6 +9,7 @@ primary_keyword: "what is bamboo leaves zhuye incense"
 search_intent: informational
 aroma: ["green", "fresh", "grassy", "slightly sweet"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["mulberry-leaf", "platycladus-leaves", "cypress-seed"]
 ---
 

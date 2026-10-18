@@ -9,6 +9,7 @@ primary_keyword: "what is peony shaoyao flower"
 search_intent: informational
 aroma: ["floral", "rosy", "sweet", "green"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["rose", "plum-blossom"]
 ---
 

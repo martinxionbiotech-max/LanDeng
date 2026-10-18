@@ -9,6 +9,7 @@ primary_keyword: "what is vanilla bean xiangcao jia pod"
 search_intent: informational
 aroma: ["sweet", "creamy", "warm", "gourmand"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["benzoin", "peru-balsam", "labdanum"]
 ---
 

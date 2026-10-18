@@ -9,6 +9,7 @@ primary_keyword: "what is lotus flower in incense"
 search_intent: informational
 aroma: ["floral", "sweet", "aquatic", "fresh"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["plum-blossom", "osmanthus"]
 ---
 

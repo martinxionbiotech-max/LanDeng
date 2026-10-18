@@ -9,6 +9,7 @@ primary_keyword: "what is valerian xiecao root"
 search_intent: informational
 aroma: ["earthy", "musky", "woody", "rooty"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["spikenard-nardostachys", "vetiver", "patchouli"]
 ---
 

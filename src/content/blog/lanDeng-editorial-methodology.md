@@ -53,6 +53,17 @@ Claims that cannot be verified, or that rest on conflicting sources, are marked 
 
 A page is not published until it has passed a factual review: every claim is either sourced or labeled as traditional, editorial, or unverified; no statistic, certification, price, review, or customer case appears that cannot be traced; and the page satisfies a real question rather than padding a template.
 
+The pre-publication checklist is explicit:
+
+1. **Source check** — every factual claim carries a source that resolves, lives on the allow-list (botanical databases, primary text repositories, government checklists), and actually supports the sentence it sits behind.
+2. **Evidence-tier check** — traditional knowledge, modern evidence, trade terminology, and uncertain claims are each labeled with their own tier; none is presented as another.
+3. **Dataset consistency** — mirrored counts, term codes, and records match the data-site datasets (ingredients.json, terminology.json, relationships.json).
+4. **Relationship integrity** — every related[] edge points at a live slug, and reciprocity is confirmed.
+5. **Commercial-claims check** — no fabricated MOQ, capacity, pricing, certification, or customer case; anything commercial is confirmed-per-inquiry.
+6. **Date truthfulness** — last_reviewed changes only when a substantive review happened, never as a freshness stamp.
+
+Post-publication, pages are re-reviewed on the cadence in the freshness policy (T1 90 days / T2 180 days / T3 trigger-based), and every change — including a no-change review — is logged in the change ledger.
+
 ---
 
 ## Source Policy

@@ -9,6 +9,7 @@ primary_keyword: "what is borneol incense"
 search_intent: informational
 aroma: ["camphoraceous", "cooling", "minty", "woody"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["sweetgum", "pine-resin"]
 ---
 

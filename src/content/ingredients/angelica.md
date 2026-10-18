@@ -9,6 +9,7 @@ primary_keyword: "what is angelica incense"
 search_intent: informational
 aroma: ["herbal", "aromatic", "sweet-bitter", "slightly spicy"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["calamus", "mugwort"]
 ---
 

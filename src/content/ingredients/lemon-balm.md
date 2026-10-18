@@ -9,6 +9,7 @@ primary_keyword: "what is lemon balm xiangfengcao herb"
 search_intent: informational
 aroma: ["lemony", "herbal", "fresh", "slightly sweet", "green"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["mint", "basil", "bergamot"]
 ---
 

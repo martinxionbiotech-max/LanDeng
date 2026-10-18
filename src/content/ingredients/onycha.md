@@ -9,6 +9,7 @@ primary_keyword: "what is onycha in incense"
 search_intent: informational
 aroma: ["marine", "briny", "animalic", "musky"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["musk", "ambergris"]
 ---
 

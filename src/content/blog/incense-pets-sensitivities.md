@@ -51,7 +51,7 @@ author: "Landeng Tech Team"
 
 ## What "Natural" Does Not Change
 
-A common misunderstanding is that natural, plant-based incense is somehow safe for pets in a way synthetic incense is not. For **smoke exposure**, the distinction is irrelevant: natural plant material still burns to smoke and fine particles, which are the actual concern for birds and, to a lesser degree, for cats and dogs. "Natural" is about ingredients — not about the smoke a pet breathes.
+"Natural" is about ingredients — not about the smoke a pet breathes: natural plant material still burns to the same fine particles ([smoke & air quality evidence](/blog/incense-smoke-air-quality-evidence/)).
 
 ---
 

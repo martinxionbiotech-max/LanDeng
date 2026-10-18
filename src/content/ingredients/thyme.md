@@ -9,6 +9,7 @@ primary_keyword: "what is thyme bailixiang herb"
 search_intent: informational
 aroma: ["herbal", "green", "spicy", "slightly medicinal"]
 status: published
+last_reviewed: "2026-09-27"
 related: ["rosemary", "sage", "bay-leaf"]
 ---
 
