@@ -87,15 +87,24 @@ const additionalProperty = [
 ];
 
 // Extract FAQ Q&A from the markdown body to emit FAQPage structured data.
-const faqMatch = (ingredient.body || '').match(/## FAQ\s*\n([\s\S]*)$/);
+// The FAQ block is bounded at the next `##` heading so that later sections
+// (Evidence & Sources etc.) can never leak into the schema, and only bolded
+// labels that read as questions are accepted. This keeps non-question labels
+// such as `**Source:**` out of FAQPage.mainEntity, which Google treats as a
+// rich-result spam signal.
+const faqMatch = (ingredient.body || '').match(/## FAQ\s*\n([\s\S]*?)(?=\n##\s|$)/);
 let faqJsonLd = null;
 if (faqMatch) {
   const qa = [];
   const re = /\*\*([^*]+)\*\*\s*\n?([\s\S]*?)(?=\n\*\*|\n##|$)/g;
   let m;
   while ((m = re.exec(faqMatch[1])) !== null) {
+    const name = m[1].trim();
     const a = m[2].trim();
-    if (a) qa.push({ '@type': 'Question', name: m[1].trim(), acceptedAnswer: { '@type': 'Answer', text: a } });
+    // Only genuine questions: the bolded label must end with a question mark.
+    if (a && /[?？]\s*$/.test(name)) {
+      qa.push({ '@type': 'Question', name, acceptedAnswer: { '@type': 'Answer', text: a } });
+    }
   }
   if (qa.length > 0) faqJsonLd = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: qa };
 }

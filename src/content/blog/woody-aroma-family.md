@@ -6,7 +6,7 @@ search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"
 content_type: "article"
 cluster_role: "article"
-last_reviewed: "2026-09-25"
+last_reviewed: "2026-10-19"
 brand: "LanDeng"
 author: "Landeng Tech Team"
 ---
@@ -80,6 +80,7 @@ The remaining canonical members round out the family:
 - **Patchouli (广藿香)** — a leafy herb that reads woody, earthy, and balsamic. See [patchouli](/ingredients/patchouli/).
 - **Borneol (龙脑)** — a cooling, minty-woody crystal, not a wood. See [borneol](/ingredients/borneol/).
 - **Pine resin (松香)** — piney, woody, balsamic resin. See [pine resin](/ingredients/pine-resin/).
+- **Thuja (崖柏)** — a scarce, protected endemic conifer wood that reads woody and cedar-like with a faintly smoky depth; outside the nine canonical members, but squarely in the family's clean register. See [thuja](/ingredients/thuja/).
 - **Benzoin (安息香)** — sweet, vanilla, balsamic, woody resin. See [benzoin](/ingredients/benzoin/).
 - **Orange peel (陈皮)** — citrus, bittersweet, with a woody aged note. See [orange peel](/ingredients/orange-peel/).
 
@@ -138,6 +139,7 @@ Because they are long-lasting and gentle. A woody base anchors a blend and lets 
 - [Agarwood entity page](/ingredients/agarwood/)
 - [Sandalwood entity page](/ingredients/sandalwood/)
 - [Cedar entity page](/ingredients/cedar/)
+- [Thuja entity page](/ingredients/thuja/)
 - [Incense Material Comparison Matrix](/blog/incense-material-comparison-matrix/)
 
 **Natural next step:** compare the two reference woods directly in [agarwood vs sandalwood](/ingredients/agarwood/), or see the full family map on the [aroma families hub](/blog/incense-aroma-families/).
