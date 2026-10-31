@@ -49,11 +49,11 @@ Frankincense's defining trait is that it is **fresh and warm at the same time**:
 
 This brightness is why frankincense is so often described with words like "clearing" and "focusing." It is the opposite of a heavy, smoky, "sleepy" scent — which is exactly why it tends to be chosen for **morning, study, meditation, or space-clearing** rituals rather than bedtime.
 
-**A useful contrast:** agarwood and sandalwood are deep and enveloping; frankincense is **uplifting and clarifying**. If you want a scent that feels like a clean, well-lit room, frankincense is the reference point. For the side-by-side botanical and sourcing differences, see [agarwood vs frankincense](/blog/agarwood-vs-frankincense/) and [sandalwood vs frankincense](/blog/sandalwood-vs-frankincense/).
+**A useful contrast:** agarwood and sandalwood are deep and enveloping; frankincense is **uplifting and clarifying**. If you want a scent that feels like a clean, well-lit room, frankincense is the reference point. For the side-by-side botanical and provenance differences, see [agarwood vs frankincense](/blog/agarwood-vs-frankincense/) and [sandalwood vs frankincense](/blog/sandalwood-vs-frankincense/).
 
 ---
 
-## Species and Grades: A Buyer-Intelligence Point
+## Species and Grades: A Label-Reading Point
 
 Not all "frankincense" is the same material:
 
@@ -63,7 +63,7 @@ Not all "frankincense" is the same material:
 - **Boswellia serrata** — the Indian species; common in Ayurvedic and incense trade.
 - **Boswellia papyrifera** — the Ethiopian/Eritrean species.
 
-The practical signal: **origin and grade matter more than the word "frankincense" on a label.** Resin is hand-sorted into grades by size, color, and clarity; the essential-oil profile also varies by species. If precise sourcing matters to you, ask the seller for the species and origin.
+The practical signal: **origin and grade matter more than the word "frankincense" on a label.** Resin is hand-sorted into grades by size, color, and clarity; the essential-oil profile also varies by species. If precise provenance matters to you, ask the seller for the species and origin.
 
 ---
 

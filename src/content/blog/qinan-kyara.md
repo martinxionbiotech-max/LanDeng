@@ -33,8 +33,8 @@ author: "Landeng Tech Team"
 
 奇楠 is not a parallel material to agarwood — it is agarwood's own top state, which matters for how the knowledge base organizes it:
 
-- **One entity, one grade ladder.** The [agarwood entity page](/ingredients/agarwood/) carries the full identity (species, formation, sourcing), and 奇楠 is the top rung of its grading ladder — the same relationship as 沉水 within the sinking system.
-- **Separate pages, not separate entities.** The grade gets its own pages because the buyer questions differ (authentication, price reality, terminology), but the botanical identity stays anchored to *Aquilaria* — 奇楠 has no species of its own.
+- **One entity, one grade ladder.** The [agarwood entity page](/ingredients/agarwood/) carries the full identity (species, formation, provenance), and 奇楠 is the top rung of its grading ladder — the same relationship as 沉水 within the sinking system.
+- **Separate pages, not separate entities.** The grade gets its own pages because the questions differ (authentication, price reality, terminology), but the botanical identity stays anchored to *Aquilaria* — 奇楠 has no species of its own.
 - **Evidence discipline.** The grade's defining properties (soft, kneadable, aromatic unheated) are traditional trade descriptions; the color hierarchy is disputed market terminology. Both are labeled as such on the [agarwood entity page](/ingredients/agarwood/), never as laboratory-established taxonomy.
 
 ## Why the Name Traveled as "Kyara"
@@ -49,7 +49,7 @@ The etymology of 奇楠 itself is genuinely disputed — Sanskrit theories, a po
 
 - **沉水 (sinking) grading** and the **five-color 奇楠 hierarchy** (白/绿/紫/黄/黑) → [agarwood grading guide](/blog/agarwood-grading-guide/)
 - **How fakes exploit 奇楠's price** → [incense authentication database](/blog/incense-authentication-database/)
-- **What to check before buying** → [qinan buying & authentication](/blog/qinan-buying-authentication/)
+- **What to check before authenticating** → [qinan authentication](/blog/qinan-buying-authentication/)
 - **The material itself** → [agarwood incense guide](/blog/agarwood-incense/)
 
 ---
@@ -60,7 +60,7 @@ The etymology of 奇楠 itself is genuinely disputed — Sanskrit theories, a po
 
 **Reasoning:**
 - The "kyara" naming obscures a simple fact: 奇楠 is agarwood at its most resin-saturated, not a separate treasure.
-- Buyers who chase the name without understanding the grade are the ones the fakes target.
+- People who chase the name without understanding the grade are the ones the fakes target.
 
 *This is the author's editorial view and experience — not a verified fact.*
 
@@ -86,7 +86,7 @@ No — it is the top material state of *Aquilaria* agarwood, distinguished by "o
 The Japanese reading (伽羅, *kyara*) entered Western vocabulary first, through the Japanese kōdō tradition. English incense writing uses "kyara" because the Japanese term for 奇楠 — *kyara* (伽羅) — was studied and written about in English before the Chinese context was widely known, largely through Japan's kōdō (香道) incense-appreciation tradition. So the "English" name for a Chinese grade actually arrived via a Japanese intermediary. The etymology of 奇楠 itself is genuinely disputed — Sanskrit theories, a possible "tagara" mistranslation, and others — and the honest position is that it is uncertain. The [grading guide](/blog/agarwood-grading-guide/) lays out the competing theories.
 
 ### Q: Where do I learn the grading details?
-The [agarwood grading guide](/blog/agarwood-grading-guide/) covers the 沉水 system, the five-color hierarchy, and the etymology in depth. For how fakes exploit 奇楠's high price, read the [incense authentication database](/blog/incense-authentication-database/), and before buying, the [qinan buying & authentication](/blog/qinan-buying-authentication/) guide walks through what to check. For the material itself, the [agarwood incense guide](/blog/agarwood-incense/) covers the botanical and use detail. Together these give you the grade, the fakes, and the buying checks.
+The [agarwood grading guide](/blog/agarwood-grading-guide/) covers the 沉水 system, the five-color hierarchy, and the etymology in depth. For how fakes exploit 奇楠's high price, read the [incense authentication database](/blog/incense-authentication-database/), and before authenticating, the [qinan authentication](/blog/qinan-buying-authentication/) guide walks through what to check. For the material itself, the [agarwood incense guide](/blog/agarwood-incense/) covers the botanical and use detail. Together these give you the grade, the fakes, and the authentication checks.
 
 ---
 
@@ -101,7 +101,7 @@ The [agarwood grading guide](/blog/agarwood-grading-guide/) covers the 沉水 sy
 ## Related Resources
 
 - [Agarwood Grading Guide](/blog/agarwood-grading-guide/)
-- [Qinan Buying & Authentication](/blog/qinan-buying-authentication/)
+- [Qinan Authentication](/blog/qinan-buying-authentication/)
 - [Agarwood Incense Guide](/blog/agarwood-incense/)
 
-**Natural next step:** before you buy, read [qinan buying & authentication](/blog/qinan-buying-authentication/) — most "奇楠" on the market is not.
+**Natural next step:** before you authenticate, read [qinan authentication](/blog/qinan-buying-authentication/) — most "奇楠" on the market is not.

@@ -43,7 +43,7 @@ The English naming layer compounds the problem: "red sandalwood" sounds like a s
 
 **Red sandalwood** is a different character: woody and sweet rather than resinous or sharp — soft, slightly rosy, gently spicy, developing on gentle heating. It is a subtle supporting wood, not a loud top note, and its defining trait is the vivid red heartwood that doubles as dye. In incense it appears as finely-ground powder, often to add warmth and depth rather than a signature scent.
 
-## What a buyer should check
+## What to verify
 
 - **The Latin name on the spec.** *Santalum album* vs *Pterocarpus santalinus* is the entire difference. Ask for the binomial, not the English or Chinese trade name.
 - **CITES documentation for red sandalwood.** *Pterocarpus santalinus* is trade-restricted; legitimate shipments carry species-level documentation. "Red sandalwood powder" without an origin and species statement is a red flag.

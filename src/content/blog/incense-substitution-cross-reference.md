@@ -3,7 +3,7 @@ slug: "incense-substitution-cross-reference"
 title: "Incense Substitution Cross-Reference: Label Traps"
 primary_keyword: "incense substitution guide"
 search_intent: "informational"
-pillar: "P5 — Buying & Selection"
+pillar: "P2 — Scent & Ingredient Guide"
 content_type: "reference"
 cluster_role: "reference"
 last_reviewed: "2026-09-10"
@@ -24,7 +24,7 @@ author: "Landeng Tech Team"
 - The most substituted materials are the **scarce, expensive ones**: Indian sandalwood, kyara agarwood, natural ambergris.
 - The two most useful questions are always: **what species**, and **material vs. fragrance/oil**.
 - Price is a **signal**, not a proof — a suspiciously cheap "prestige" material is almost always a substitute.
-- No health claims are made here; this is buyer intelligence about materials.
+- No health claims are made here; this is material intelligence.
 
 ---
 
@@ -173,7 +173,7 @@ The same discipline applies to your own questions. When a seller answers "is thi
 **Position:** Translate every label into a question about species and material — do not trust the noun.
 
 **Reasoning:**
-- Substitution is not always dishonest — Australian sandalwood is a legitimate product — but the ambiguity is where buyers get misled.
+- Substitution is not always dishonest — Australian sandalwood is a legitimate product — but the ambiguity is where people get misled.
 - Buy an honestly labeled substitute over a fake “prestige” material; treat a very low price on a scarce material as the strongest signal.
 
 *This is the author's editorial view and experience — not a verified fact.*
@@ -189,7 +189,7 @@ The same discipline applies to your own questions. When a seller answers "is thi
 ---
 
 **Related data asset:** the <a href="/blog/incense-material-comparison-matrix/">material comparison matrix</a> complements this substitution guide with side-by-side material profiles.
-See [How to Choose Incense: A Honest Buying Guide](/blog/how-to-choose-incense/) for the full guide.
+See [How to Choose Incense](/blog/how-to-choose-incense/) for the full guide.
 
 ## FAQ
 

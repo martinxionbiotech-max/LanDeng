@@ -21,7 +21,7 @@ author: "Landeng Tech Team"
 ## Key Takeaways
 
 - Chinese incense is a **compositional art** (合香, blending many materials); Indian agarbatti is a **stick tradition** built for bold ritual presence.
-- Agarbatti splits into **two grades**: *masala* (real botanicals, hand-rolled) and *dipped* (perfume oil on a core) — the key to understanding what you are buying.
+- Agarbatti splits into **two grades**: *masala* (real botanicals, hand-rolled) and *dipped* (perfume oil on a core) — the key to understanding what you are getting.
 - Chinese incense tends to be **warm and layered, often low-smoke**; agarbatti is **bold, floral-spicy, and smoky**.
 - Both traditions use **sandalwood**, but to different ends and in different forms.
 - The purpose differs: Chinese incense serves **daily life, tea, and 香道 appreciation**; agarbatti serves **Hindu and Buddhist ritual (puja, aarti)**.
@@ -60,7 +60,7 @@ The center of gravity in India is the stick; in China it is the material, with t
 
 > **Direct answer:** Burn time depends on the specific stick and formulation, so no single figure applies across either tradition. In general, both agarbatti and Chinese sticks fall in the typical stick range of roughly 20–60 minutes, with cones shorter and coils longer — but the exact time depends on length, thickness, and how the stick is made. Agarbatti leans strong and room-filling; Chinese incense leans subtle and layered.
 
-On the two axes that buyers actually notice:
+On the two axes that users actually notice:
 
 - **Aroma intensity** — agarbatti is designed to be bold and room-filling, meant as a clear, present offering. Chinese incense, especially at the refined end, is subtle, layered, and often low-smoke. Judging agarbatti by the "quiet" standard of Chinese incense misses the point — boldness is the feature, not a defect.
 - **Burn time** — both are sticks, so both sit in the rough 20–60 minute range, but the exact time **depends on the formulation** — length, thickness, whether the stick has a core, and the binder. No single figure applies across either tradition; check the stated burn time where it is given.
@@ -92,7 +92,7 @@ In both cases, the practical signal is the same: a vague prestige name and a sus
 > **Direct answer:** Indian incense is produced at large scale and exported worldwide, with agarbatti a major export industry; Chinese incense spans everyday sticks and a revived classical, DTC segment. Both are large modern markets, but they are built on different products.
 
 - **Indian incense** — a major manufacturing and export industry centered on agarbatti, with a wide range from inexpensive dipped sticks to premium hand-rolled masala.
-- **Chinese incense** — a broad domestic market for everyday sticks plus a revived classical segment — studios, 香道 practitioners, and modern brands (including LanDeng) translating the tradition globally.
+- **Chinese incense** — a broad domestic market for everyday sticks plus a revived classical segment — studios and 香道 practitioners translating the tradition globally.
 
 Neither is "bigger" in any clean sense; they are different products serving different markets, with some overlap at the low-cost everyday-stick end.
 
@@ -124,10 +124,10 @@ Most "Chinese vs Indian incense" content ranks the two traditions against a sing
 
 ## The Author's Take
 
-**Position:** The most useful single fact in this comparison is not "which is better" — it is that each tradition has its own key label distinction the buyer must decode.
+**Position:** The most useful single fact in this comparison is not "which is better" — it is that each tradition has its own key label distinction to decode.
 
 **Reasoning:**
-- In India, the masala-vs-dipped split tells you what you are buying; in China, the material-vs-fragrance split does.
+- In India, the masala-vs-dipped split tells you what you are getting; in China, the material-vs-fragrance split does.
 - Comparing the two traditions on aroma intensity alone misses that each is built to a different purpose — one a suggestion, the other a statement.
 
 *This is the author's editorial view and experience — not a verified fact.*

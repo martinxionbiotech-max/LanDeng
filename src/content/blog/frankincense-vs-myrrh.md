@@ -98,14 +98,14 @@ This is where the two converge, because they are graded by the same logic:
 
 The shared lesson is the same one the [comparison matrix](/blog/incense-material-comparison-matrix/) makes: among the classical materials, these two sit at the low end of substitution risk.
 
-## What Buyers Should Look For
+## How to Verify Each Resin
 
 > **Direct answer:** For frankincense, pin down species and origin, look for whole pale clean tears over dust, and confirm the form. For myrrh, do the same — species, clean reddish-brown tears over dust, and form. Both reward a label that names the species.
 
-For an incense maker or sourcing buyer:
+For an authenticator or maker:
 
-- **Frankincense** — *B. sacra*, *B. carterii*, or *B. serrata*; whole, pale, clean tears over dust; form (tears for heating, powder for blending, oil for fragrance). See the [wholesale guide](/blog/wholesale-guide/) for the sourcing framework.
-- **Myrrh** — *Commiphora myrrha* and which region; whole, clean, reddish-brown tears over dust; form (tears, powder, or oil). Dosing matters in manufacturing — myrrh's bitterness means a little goes a long way.
+- **Frankincense** — *B. sacra*, *B. carterii*, or *B. serrata*; whole, pale, clean tears over dust; form (tears for heating, powder for blending, oil for fragrance). See the [frankincense entity page](/ingredients/frankincense/).
+- **Myrrh** — *Commiphora myrrha* and which region; whole, clean, reddish-brown tears over dust; form (tears, powder, or oil). Dosing matters in blending — myrrh's bitterness means a little goes a long way.
 
 ## The Standard Comparison
 
@@ -120,7 +120,7 @@ For an incense maker or sourcing buyer:
 | Quality considerations | Tear size, color, clarity, species and origin | Tear quality, color, cleanliness, species and origin |
 | Traditional role | Ritual and fumigation; paired with myrrh | Ritual and funerary; paired with frankincense |
 | Substitution risk | **Low** — usually the real resin | **Low** — usually the real resin (but *Commiphora* relatives can be confused) |
-| Sourcing considerations | Wild/semi-managed; over-tapping reported in parts of the range | Wild/semi-managed; same arid producing belt |
+| Conservation & trade | Wild/semi-managed; over-tapping reported in parts of the range | Wild/semi-managed; same arid producing belt |
 
 Neither column is "better." The table describes what each resin is and how it behaves — frankincense the bright, lifting resin; myrrh the dark, grounding resin — and why they are paired rather than pitted against each other.
 
@@ -133,7 +133,7 @@ Neither column is "better." The table describes what each resin is and how it be
 
 ## Why This Page Reads Different
 
-Most "frankincense vs myrrh" content stops at "both are biblical resins." This page treats them as what they are: two gum-resins from the same family but different genera, whose entire relationship is built on the contrast between a bright, lifting note and a bitter, grounding one. The useful question is not "which is better" but "which role do I need — lift or depth — and which *genus* am I actually buying."
+Most "frankincense vs myrrh" content stops at "both are biblical resins." This page treats them as what they are: two gum-resins from the same family but different genera, whose entire relationship is built on the contrast between a bright, lifting note and a bitter, grounding one. The useful question is not "which is better" but "which role do I need — lift or depth — and which *genus* am I actually getting."
 
 ## The Author's Take
 
@@ -141,7 +141,7 @@ Most "frankincense vs myrrh" content stops at "both are biblical resins." This p
 
 **Reasoning:**
 - Frankincense and myrrh are named together across traditions precisely because they balance each other — bright against dark.
-- The practical buyer risk is not fakes but *genus confusion*: a loose "myrrh" label can hide a different *Commiphora* resin.
+- The practical risk is not fakes but *genus confusion*: a loose "myrrh" label can hide a different *Commiphora* resin.
 
 *This is the author's editorial view and experience — not a verified fact.*
 
@@ -169,7 +169,7 @@ Both are melted under gentle heat rather than burned on open flame. Place the re
 Neither is heavily faked — both are usually the real resin. The practical questions are species and grade, not authenticity. For frankincense, which *Boswellia* species (*B. sacra*, *B. carterii*, or *B. serrata*); for myrrh, which *Commiphora* — since related resins like opopanax, guggul, and bdellium can be sold under a loose "myrrh" name. See the [material comparison matrix](/blog/incense-material-comparison-matrix/).
 
 ### Q: Why are frankincense and myrrh always mentioned together?
-Because they are the classic resin pair, named together across Chinese materia medica and Western religious and perfumery tradition. Both are gum-resins from the same plant family (Burseraceae) and the same arid producing belt, and they traveled the same trade routes. More importantly, their aromas balance each other — frankincense's fresh brightness against myrrh's bitter-balsamic depth — so they are habitually blended and named as a matched set.
+Because they are the classic resin pair, named together across Chinese materia medica and Western religious and perfumery tradition. Both are gum-resins from the same plant family (Burseraceae) and the same arid producing belt, and they traveled the same trade routes. More important, their aromas balance each other — frankincense's fresh brightness against myrrh's bitter-balsamic depth — so they are habitually blended and named as a matched set.
 
 ### Q: Is myrrh the same as opopanax?
 No. Both are resins from *Commiphora* trees, but they are distinct materials. Opopanax, sometimes called "sweet myrrh," is sweeter and more balsamic-sweet with a slightly powdery character, while myrrh proper is bitter, earthy, and medicinal. The two come from different *Commiphora* species and play different roles — opopanax leans sweet and ambery, myrrh leans dark and resinous. Because both are called "myrrh" in some older texts, the terms are easy to confuse. See [myrrh](/ingredients/myrrh/).
@@ -186,6 +186,9 @@ No. Both are resins from *Commiphora* trees, but they are distinct materials. Op
 
 - [Frankincense entity page](/ingredients/frankincense/)
 - [Myrrh entity page](/ingredients/myrrh/)
+- [Agarwood vs Frankincense](/blog/agarwood-vs-frankincense/) — wood and resin compared
+- [Sandalwood vs Frankincense](/blog/sandalwood-vs-frankincense/) — creamy wood and citrus resin compared
+- [Agarwood vs Sandalwood](/blog/agarwood-vs-sandalwood/) — the two reference woods compared
 - [Middle Eastern Incense (Bakhoor & Oud)](/blog/middle-eastern-incense/)
 - [Incense Material Comparison Matrix](/blog/incense-material-comparison-matrix/)
 

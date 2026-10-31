@@ -95,7 +95,7 @@ Price is the grading system's shadow — the 沉水 and 奇楠 tiers exist partl
 | Ordinary agarwood (中药铺 medicinal-grade chips) | ~0.4–1.4 RMB per gram — a cheap herb, not a treasure |
 | Burnable / gradeable agarwood (可品沉香) | tens to thousands of RMB per gram, scaling with resin density |
 | 沉水 (sinking) agarwood | a steep premium over floating grades of the same piece |
-| 奇楠 (qínán / "kyara") | ~3,000–8,000 RMB per gram at wholesale; top white 奇楠 can exceed 16,000 RMB/g |
+| 奇楠 (qínán / "kyara") | ~3,000–8,000 RMB per gram at market; top white 奇楠 can exceed 16,000 RMB/g |
 | India "old mountain" sandalwood (老山檀) | ~10–150 RMB per gram, by age and density |
 | Plantation sandalwood (澳洲/印尼) | well under ~3 RMB per gram |
 
@@ -129,7 +129,7 @@ The 沉水 sink test is the headline, but it is not the whole system. In practic
 - **Formation type** — 熟结 / 生结 / 虫漏 / 脱落 carry different reputations and prices.
 - **Origin** — a Hainan or Vietnamese piece and a plantation piece can carry very different prices for similar density.
 
-The honest summary: density is the most objective axis, but aroma is what buyers ultimately pay for. A dense but dull-smelling piece is not automatically worth more than a lighter but vivid one — which is why grading is partly measurement and partly tasting. In that sense agarwood grading resembles tea or wine grading: there is a measurable backbone, but the final judgment is sensory and, at the top end, unavoidably subjective.
+The honest summary: density is the most objective axis, but aroma is what collectors ultimately pay for. A dense but dull-smelling piece is not automatically worth more than a lighter but vivid one — which is why grading is partly measurement and partly tasting. In that sense agarwood grading resembles tea or wine grading: there is a measurable backbone, but the final judgment is sensory and, at the top end, unavoidably subjective.
 
 ## A Genuine Wrinkle: qinan (奇楠) and the Sink Test
 
@@ -212,7 +212,7 @@ See [The Complete Incense Scent Guide: Choosing a Scent by Atmosphere](/blog/sce
 Ordinary 沉香 is "wood wraps oil" (木包油): hard wood with resin veins running through it. 奇楠 is "oil wraps wood" (油包木): the wood fiber is so thoroughly resin-transformed that the material becomes soft and pliable — the traditional description is that it shaves into curls and kneads into pellets — and it is aromatic even at room temperature. 奇楠 is the top grade. A further, practical distinction is that the sink test is a reliable signal for ordinary 沉香, but top 奇楠 is sometimes described as half-sinking rather than fully sinking, because its resin is soft and evenly distributed rather than densely concentrated.
 
 ### Q: How is agarwood graded?
-Primarily by resin density via the 沉水 (sink-in-water) system — sinking is highest, half-sinking is medium, floating is lower — then by the 奇楠 distinction that separates "oil-wraps-wood" from ordinary "wood-wraps-oil" material, then (traditionally) by the five-color 奇楠 hierarchy. In practice grading also weighs oil content and distribution, aroma on gentle heat, formation type (熟结/生结/虫漏/脱落), and origin. Density is the most objective axis; aroma is what buyers ultimately pay for. No single test is authoritative, and the sink test in particular is weakened by oil-injection fakes built to sink.
+Primarily by resin density via the 沉水 (sink-in-water) system — sinking is highest, half-sinking is medium, floating is lower — then by the 奇楠 distinction that separates "oil-wraps-wood" from ordinary "wood-wraps-oil" material, then (traditionally) by the five-color 奇楠 hierarchy. In practice grading also weighs oil content and distribution, aroma on gentle heat, formation type (熟结/生结/虫漏/脱落), and origin. Density is the most objective axis; aroma is what collectors ultimately pay for. No single test is authoritative, and the sink test in particular is weakened by oil-injection fakes built to sink.
 
 ### Q: What does "sinking fragrance" mean?
 沉香 literally means "sinking fragrance" — the name encodes the primary grading method. Resin is denser than wood, so the most resin-saturated pieces are dense enough to sink in water, while less-resinous wood floats. The finest pieces sink, which is why "sinking" became the mark of quality. This physical test is the backbone of the classical Chinese grading system, but it grades resin concentration, not aroma or the 奇楠 transformation — so it is a useful rule of thumb rather than a complete judgment of quality.

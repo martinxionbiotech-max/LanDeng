@@ -69,7 +69,7 @@ This honesty is itself a differentiator: a trustworthy sandalwood page is rarer 
 
 ---
 
-## Species Substitution: A Buyer-Intelligence Point
+## Species Substitution: A Label-Reading Point
 
 Because true *Santalum album* is scarce and comparatively expensive, substitution is common:
 
@@ -116,7 +116,7 @@ Sandalwood reaches the user in a few forms, and they are not interchangeable:
 
 The powder and the oil are different products (see below). A stick made from wood is not the same thing as a stick scented with oil, and neither is the same as a synthetic.
 
-## Buying Sandalwood: Species and Material Checks
+## Verifying Sandalwood: Species and Material Checks
 
 1. **Name the species.** *Santalum album*, *S. spicatum*, or another — if the label will not say, assume the cheapest and price accordingly.
 2. **Wood or oil?** Sandalwood powder (heartwood) and sandalwood essential oil are different products with different aromas and prices.

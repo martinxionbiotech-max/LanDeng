@@ -2,10 +2,10 @@
 slug: "incense-authentication-database"
 title: "Incense Authentication: Fake Agarwood & Resin"
 primary_keyword: "how to tell real agarwood fake"
-search_intent: "commercial_investigation"
+search_intent: "informational"
 pillar: "P10 — Incense Craft & Materials"
 content_type: "reference_database"
-cluster_role: "buyer_intelligence"
+cluster_role: "reference_database"
 last_reviewed: "2026-09-10"
 brand: "\"LanDeng\""
 author: "Landeng Tech Team"
@@ -14,7 +14,7 @@ author: "Landeng Tech Team"
 
 **At a glance:** The most common incense fakes are **oil-boiled, oil-injected, and chemically-soaked** wood passed off as agarwood or sandalwood. The practical detection signals are burn behavior (white smoke and oil seepage vs black smoke), aroma on gentle heat (complex and sweet vs "perfume" or "burnt wood"), and the **sink test** for agarwood density.
 
-**Key facts:** This is a buyer-intelligence reference, not a laboratory method. For definitive authentication, use a reputable seller and, where it matters, laboratory testing.
+**Key facts:** This is an authentication reference, not a laboratory method. For definitive authentication, use a reputable seller and, where it matters, laboratory testing.
 
 ---
 
@@ -60,7 +60,7 @@ Because 沉香 means "sinking fragrance," the classic density test is literal: d
 
 ## The Honest Limits
 
-These are **traditional buyer heuristics**, accumulated in the Chinese agarwood market — not laboratory methods. A skilled counterfeit can defeat any single signal. The reliable route is:
+These are **traditional authentication heuristics**, accumulated in the Chinese agarwood market — not laboratory methods. A skilled counterfeit can defeat any single signal. The reliable route is:
 
 1. Buy from a **reputable seller** who names the species and origin.
 2. Use **laboratory testing** where value justifies it.
@@ -94,13 +94,13 @@ See [How Incense Is Made: From Wood and Resin to Stick and Coil](/blog/how-incen
 A: Combine several signals rather than relying on one. On burning, real agarwood tends to give white smoke with a slight oil seepage, while many fakes give black smoke. On gentle heat, real agarwood releases a complex, sweet, layered aroma, whereas a fake often smells like "perfume" or plain "burnt wood." For density, resin-rich agarwood sinks in water — the classic 沉香 "sinking fragrance" test — but this alone is not proof. Most important is the seller: buy from someone who names the species, origin, and grade. See the [grading guide](/blog/agarwood-grading-guide/).
 
 ### Q: What is "oil-injected" agarwood?
-A: Oil-injected agarwood is non-resinous, low-grade wood that has had oil forced into it under high pressure to add weight and a superficial scent, so it passes density and weight checks a buyer might use. The added oil is usually cheap, and the aroma is thin or "perfume-like" — nothing like the layered sweetness of genuine resin-rich agarwood. Because the oil sits in the wood rather than forming naturally, the piece may smell wrong on gentle heat and burn with a different smoke character. It is one of the most common fakes precisely because it defeats the sink test, so always combine it with burn and aroma checks. See the [grading guide](/blog/agarwood-grading-guide/).
+A: Oil-injected agarwood is non-resinous, low-grade wood that has had oil forced into it under high pressure to add weight and a superficial scent, so it passes density and weight checks one might use. The added oil is usually cheap, and the aroma is thin or "perfume-like" — nothing like the layered sweetness of genuine resin-rich agarwood. Because the oil sits in the wood rather than forming naturally, the piece may smell wrong on gentle heat and burn with a different smoke character. It is one of the most common fakes precisely because it defeats the sink test, so always combine it with burn and aroma checks. See the [grading guide](/blog/agarwood-grading-guide/).
 
 ### Q: Is the sink test reliable?
-A: It is a useful density signal but not proof on its own. Resin-dense agarwood genuinely sinks in water, which is where the name 沉香 ("sinking fragrance") comes from, and lower-grade wood floats — so the test can quickly rule out obvious low-resin pieces. However, oil-injection fakes are engineered specifically to pass weight and density checks, and some dyed or treated woods will sink too. A sinking piece can still be a fake, and a floating piece is not automatically worthless. Treat the sink test as one data point and always combine it with the burn smoke and the gentle-heat aroma before deciding.
+A: It is a useful density signal but not proof on its own. Resin-dense agarwood genuinely sinks in water, which is where the name 沉香 ("sinking fragrance") comes from, and lower-grade wood floats — so the test can quickly rule out obvious low-resin pieces. Oil-injection fakes are engineered specifically to pass weight and density checks, though, and some dyed or treated woods will sink too. A sinking piece can still be a fake, and a floating piece is not automatically worthless. Treat the sink test as one data point and always combine it with the burn smoke and the gentle-heat aroma before deciding.
 
 ### Q: Why is fake sandalwood common?
-A: True *Santalum album* sandalwood is scarce and expensive: the tree grows slowly, takes years to develop its heartwood oil, and has been heavily overharvested, so genuine material commands a high price. That price gap invites substitution — sellers pass off other sandalwood species, unrelated pale woods, or synthetic fragrance blends under the sandalwood name because the margin is large. Buyers who look only at the name or the low price end up with a copy. Confirming the species and origin, and accepting that real sandalwood costs more, is the practical defense. See the [sandalwood guide](/blog/sandalwood-incense/).
+A: True *Santalum album* sandalwood is scarce and expensive: the tree grows slowly, takes years to develop its heartwood oil, and has been heavily overharvested, so genuine material commands a high price. That price gap invites substitution — sellers pass off other sandalwood species, unrelated pale woods, or synthetic fragrance blends under the sandalwood name because the margin is large. People who look only at the name or the low price end up with a copy. Confirming the species and origin, and accepting that real sandalwood costs more, is the practical defense. See the [sandalwood guide](/blog/sandalwood-incense/).
 
 ---
 

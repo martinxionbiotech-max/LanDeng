@@ -23,7 +23,7 @@ author: "Landeng Tech Team"
 - Agarwood = resin-impregnated **Aquilaria** wood (Thymelaeaceae), formed over years–decades in response to wounding or infection.
 - The name **沉香 means "sinking fragrance"** — resin-dense pieces sink in water.
 - **奇楠 (qínán)** is the top grade, distinguished from ordinary 沉香 by the **"oil-wraps-wood" vs "wood-wraps-oil"** distinction (explained below) — a point English content almost entirely misses.
-- Agarwood is **heavily adulterated**; buyer-authentication knowledge is high-value.
+- Agarwood is **heavily adulterated**; authentication knowledge is high-value.
 - Traditional Chinese medicinal claims about agarwood are **historical record, not modern clinical evidence.**
 
 ---
@@ -79,7 +79,7 @@ Because agarwood is so valuable, fakes are common. Common methods include:
 - **The sink test:** resin-dense material sinks (for ordinary 沉香 grading).
 - **No perfume note:** synthetic fragrance has a one-dimensional "perfume" smell.
 
-These are traditional buyer heuristics; laboratory or reputable-seller verification is the reliable route.
+These are traditional authentication heuristics; laboratory or reputable-seller verification is the reliable route.
 
 ---
 
@@ -127,13 +127,13 @@ This staged release is why agarwood is traditionally heated (隔火焚香) rathe
 
 ## Agarwood in Chinese History and Literature
 
-沉香 is woven through Chinese written culture. The 本草纲目 records it as an aromatic material with traditional materia-medica associations (see below). In poetry and connoisseurship, agarwood appears as the benchmark of fragrance — the material that "sinks" because it is so dense with resin. The Ming compendium 香乘 devotes extensive entries to agarwood, its grades, and its substitutes. The chemistry of agarwood's scent is well documented in the specialist literature (e.g., [Naef's review of agarwood volatiles](https://doi.org/10.1002/ffj.2034)); the grading and buying side lives in the [grading guide](/blog/agarwood-grading-guide/) and the [authentication database](/blog/incense-authentication-database/).
+沉香 is woven through Chinese written culture. The 本草纲目 records it as an aromatic material with traditional materia-medica associations (see below). In poetry and connoisseurship, agarwood appears as the benchmark of fragrance — the material that "sinks" because it is so dense with resin. The Ming compendium 香乘 devotes extensive entries to agarwood, its grades, and its substitutes. The chemistry of agarwood's scent is well documented in the specialist literature (e.g., [Naef's review of agarwood volatiles](https://doi.org/10.1002/ffj.2034)); the grading and authentication side lives in the [grading guide](/blog/agarwood-grading-guide/) and the [authentication database](/blog/incense-authentication-database/).
 
 ## Sustainability and Conservation
 
-Because wild *Aquilaria* has been so heavily harvested, agarwood-producing species are listed under [CITES](https://checklist.cites.org/#/en/search/output_layout=alphabetical&level_of_listing=0&show_synonyms=1&show_author=1&show_english=1&show_spanish=1&show_french=1&scientific_name=Aquilaria), which regulates international trade in the wood. This is one reason cultivated, plantation agarwood has grown — and why a reputable seller should be able to say where the wood came from and whether it was cultivated or wild. Scarcity, regulation, and demand together drive the price; they also make provenance a real, not academic, question for a buyer.
+Because wild *Aquilaria* has been so heavily harvested, agarwood-producing species are listed under [CITES](https://checklist.cites.org/#/en/search/output_layout=alphabetical&level_of_listing=0&show_synonyms=1&show_author=1&show_english=1&show_spanish=1&show_french=1&scientific_name=Aquilaria), which regulates international trade in the wood. This is one reason cultivated, plantation agarwood has grown — and why a reputable seller should be able to say where the wood came from and whether it was cultivated or wild. Scarcity, regulation, and demand together drive the price; they also make provenance a real, not academic, question for a collector.
 
-## Buying Agarwood: A Practical Checklist
+## Authenticating Agarwood: A Practical Checklist
 
 For a first purchase, keep the checks small and concrete:
 
@@ -147,7 +147,7 @@ For a first purchase, keep the checks small and concrete:
 
 1. **Thinking all agarwood is the same.** 奇楠 and ordinary 沉香 are materially different (oil-wraps-wood vs wood-wraps-oil).
 2. **Believing the TCM phrases as proven medicine.** They are historical, not clinical.
-3. **Buying on price alone.** Cheap "agarwood" is almost certainly adulterated or substituted.
+3. **Judging on price alone.** Cheap "agarwood" is almost certainly adulterated or substituted.
 4. **Expecting a strong room-filling burn.** Top agarwood is traditionally appreciated by gentle, often flameless heating (隔火焚香), not a big smoky burn.
 
 ---

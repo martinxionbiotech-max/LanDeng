@@ -103,12 +103,12 @@ These are directional market signals, not a price list. The [material comparison
 - **Agarwood** — the premium anchor in 合香 and the material of refined appreciation; recorded in classical materia medica for "moving qi" (traditional language, not clinical evidence).
 - **Sandalwood** — a staple base wood used in sticks, blended incense, and temple ritual; recorded in classical materia medica as a standard aromatic wood.
 
-## What Buyers Should Look For
+## How to Verify Each Wood
 
 > **Direct answer:** For agarwood, pin down species, origin, density, and authenticity before price. For sandalwood, pin down which *Santalum* species, whether the label means wood or oil, and the origin and harvest basis. Both reward a label that names the species.
 
-- **Agarwood** — which *Aquilaria* species and origin; wild vs cultivated (a legal and price question); aroma on gentle heat (the decisive test); particle size and moisture for powder. See the [agarwood buying checklist](/blog/how-to-buy-agarwood-for-incense-manufacturing/).
-- **Sandalwood** — which *Santalum* species; wood versus oil (they smell different); origin and harvest basis; the "buttery" note as the authenticity marker. See the [bulk ingredient sourcing guide](/blog/bulk-incense-ingredient-sourcing/) for the framework.
+- **Agarwood** — which *Aquilaria* species and origin; wild vs cultivated (a legal and price question); aroma on gentle heat (the decisive test); particle size and moisture for powder. See the [agarwood entity page](/ingredients/agarwood/).
+- **Sandalwood** — which *Santalum* species; wood versus oil (they smell different); origin and harvest basis; the "buttery" note as the authenticity marker. See the [sandalwood entity page](/ingredients/sandalwood/) and the [substitution cross-reference](/blog/incense-substitution-cross-reference/).
 
 ## The Standard Comparison
 
@@ -122,7 +122,7 @@ These are directional market signals, not a price list. The [material comparison
 | Heating method | Warmed over indirect heat (隔火焚香) | Warmed or burned slowly |
 | Typical forms | Chips, powder, whole pieces, oud oil | Chips, powder, oil, whole wood, sticks |
 | Substitution risk | **Very high** — dyed wood, foreign woods, oil-injection | **High** — species substitution, oil-for-wood, synthetic fragrance |
-| Sourcing considerations | CITES-listed; wild depleted, mostly cultivated plantation supply | Wild *S. album* CITES-listed; plantation *S. album* + Australian *S. spicatum* dominate |
+| Conservation & trade | CITES-listed; wild depleted, mostly cultivated plantation supply | Wild *S. album* CITES-listed; plantation *S. album* + Australian *S. spicatum* dominate |
 
 Neither column is "better." The table describes what each wood is and how it behaves — agarwood the deep, scarce, heavily-faked resin wood; sandalwood the creamy, slow, frequently-substituted heartwood.
 
@@ -136,14 +136,14 @@ Neither column is "better." The table describes what each wood is and how it beh
 
 ## Why This Page Reads Different
 
-Most "agarwood vs sandalwood" content is really about which wood is "more luxurious." This page treats them as what they are: two base-note woods that formed by opposite processes and are faked in opposite ways. The useful question is not "which is better" but "which role do I need — depth or smoothness — and how do I verify what I'm actually buying."
+Most "agarwood vs sandalwood" content is really about which wood is "more luxurious." This page treats them as what they are: two base-note woods that formed by opposite processes and are faked in opposite ways. The useful question is not "which is better" but "which role do I need — depth or smoothness — and how do I verify what I'm actually getting."
 
 ## The Author's Take
 
 **Position:** The most useful single fact in this comparison is not the price gap — it is that the two woods are faked *in different ways*.
 
 **Reasoning:**
-- Agarwood is faked as wood; sandalwood is faked as species and oil. A buyer needs two different verification habits.
+- Agarwood is faked as wood; sandalwood is faked as species and oil. A collector needs two different verification habits.
 - Agarwood and sandalwood are not rivals; they are the two base notes that a single blend can carry together.
 
 *This is the author's editorial view and experience — not a verified fact.*
@@ -190,6 +190,9 @@ No. Sandalwood (檀香, *Santalum album*) is a creamy, sweet-scented incense woo
 
 - [Agarwood entity page](/ingredients/agarwood/)
 - [Sandalwood entity page](/ingredients/sandalwood/)
+- [Agarwood vs Frankincense](/blog/agarwood-vs-frankincense/) — wood and resin compared
+- [Sandalwood vs Frankincense](/blog/sandalwood-vs-frankincense/) — creamy wood and citrus resin compared
+- [Frankincense vs Myrrh](/blog/frankincense-vs-myrrh/) — the two resins compared
 - [Agarwood Grading Guide](/blog/agarwood-grading-guide/)
 - [奇楠 (Qínán / Kyara)](/blog/qinan-kyara/)
 - [Incense Material Comparison Matrix](/blog/incense-material-comparison-matrix/)

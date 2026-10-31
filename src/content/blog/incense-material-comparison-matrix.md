@@ -2,7 +2,7 @@
 slug: "incense-material-comparison-matrix"
 title: "Incense Material Comparison Matrix: 7 Classics"
 primary_keyword: "agarwood vs sandalwood vs frankincense comparison"
-search_intent: "commercial_investigation"
+search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"
 content_type: "data_asset"
 cluster_role: "data_asset"
@@ -14,7 +14,7 @@ author: "Landeng Tech Team"
 
 **At a glance:** The seven classical incense materials — **agarwood, sandalwood, frankincense, borneol, benzoin, myrrh, and clove** — differ along five axes: **aroma, botanical source, relative price, use, and substitution risk.** This matrix puts them side by side, because most English content compares only agarwood and sandalwood.
 
-**Key facts:** "Relative price" is a directional signal, not a price list. The most important column for a buyer is **substitution risk** — the chance that the label name hides a different material.
+**Key facts:** "Relative price" is a directional signal, not a price list. The most important column to read is **substitution risk** — the chance that the label name hides a different material.
 
 ---
 
@@ -48,13 +48,13 @@ This is why "resin" is not a price signal by itself: the *which* resin matters e
 1. **Agarwood** — oil-injection fakes and unrelated woods (see the [authentication database](/blog/incense-authentication-database/)).
 2. **Sandalwood** — other *Santalum* species and synthetic fragrance sold under the name (see the [sandalwood guide](/blog/sandalwood-incense/) and [substitution cross-reference](/blog/incense-substitution-cross-reference/)).
 
-Borneol deserves a note too: natural borneol (from *Dryobalanops*) and synthetic borneol (from turpentine/camphor) are chemically the *same molecule*, so the "natural" claim is a sourcing and price question, not an aroma one.
+Borneol deserves a note too: natural borneol (from *Dryobalanops*) and synthetic borneol (from turpentine/camphor) are chemically the *same molecule*, so the "natural" claim is a provenance and price question, not an aroma one.
 
 ---
 
 ## The Author's Take
 
-**Position:** The single most underrated column in any incense comparison is "substitution risk" — because most buyers compare aromas while the market profits from the label.
+**Position:** The single most underrated column in any incense comparison is "substitution risk" — because most people compare aromas while the market profits from the label.
 
 **Reasoning:**
 - Aroma is subjective and easy to describe; substitution risk is the objective thing that actually determines whether you get what you paid for.
@@ -76,16 +76,16 @@ See [The Complete Incense Scent Guide: Choosing a Scent by Atmosphere](/blog/sce
 ## FAQ
 
 ### Q: What is the most expensive incense material?
-Agarwood (沉香) is the most expensive, and its top grade kyara (奇楠) sits at the very top of the market — orders of magnitude above sandalwood, frankincense, and the other classical materials. The cost comes from how it forms: agarwood is resin-saturated heartwood that develops slowly in only some Aquilaria trees, so genuine, high-grade material is scarce. That scarcity is also why it is the most heavily faked material — oil-injected wood and unrelated substitutes are common. Price alone is not proof of authenticity; sourcing matters as much as the number on the tag.
+Agarwood (沉香) is the most expensive, and its top grade kyara (奇楠) sits at the very top of the market — orders of magnitude above sandalwood, frankincense, and the other classical materials. The cost comes from how it forms: agarwood is resin-saturated heartwood that develops slowly in only some Aquilaria trees, so genuine, high-grade material is scarce. That scarcity is also why it is the most heavily faked material — oil-injected wood and unrelated substitutes are common. Price alone is not proof of authenticity; provenance matters as much as the number on the tag.
 
 ### Q: What is the difference between frankincense and myrrh?
 Both are tapped gum resins, but they come from different trees and smell quite different. Frankincense (乳香) is fresh, bright, and citrus-woody, and is often used as a focusing, uplifting note. Myrrh (没药) is bitter, earthy, and balsamic, with a deeper, more grounding character, and has a long history of ritual use. Both are far cheaper than agarwood, because they are more abundant and easier to harvest. They are also among the least-faked materials — usually the real resin is what you get, though grades still vary.
 
 ### Q: Is borneol the same as camphor?
-No. Borneol (龙脑) and camphor are different compounds, even though both have a cool, sharp, camphor-like character. Borneol is the traditional "snow" note in Chinese blends such as 雪中春信, lending a cooling top note. Natural borneol comes from the resin distillate of Dryobalanops trees, but a chemically identical synthetic version is made from turpentine or camphor — the two are the same molecule, so the difference is sourcing and price, not aroma. That makes "natural borneol" a label to verify rather than take at face value.
+No. Borneol (龙脑) and camphor are different compounds, even though both have a cool, sharp, camphor-like character. Borneol is the traditional "snow" note in Chinese blends such as 雪中春信, lending a cooling top note. Natural borneol comes from the resin distillate of Dryobalanops trees, but a chemically identical synthetic version is made from turpentine or camphor — the two are the same molecule, so the difference is provenance and price, not aroma. That makes "natural borneol" a label to verify rather than take at face value.
 
 ### Q: Which material is most likely to be faked?
-Agarwood is the most likely to be faked, because genuine material is scarce and expensive. Common tricks include injecting oil into low-grade or unrelated wood to fake the resin content, and selling other woods under the agarwood name. Sandalwood is the second hotspot: other Santalum species and synthetic fragrance oil are routinely sold as the prized Santalum album. Borneol is a subtler case, since synthetic and natural borneol are chemically identical. For all three, the safest defense is buying from a source that names the species and method.
+Agarwood is the most likely to be faked, because genuine material is scarce and expensive. Common tricks include injecting oil into low-grade or unrelated wood to fake the resin content, and selling other woods under the agarwood name. Sandalwood is the second hotspot: other Santalum species and synthetic fragrance oil are routinely sold as the prized Santalum album. Borneol is a subtler case, since synthetic and natural borneol are chemically identical. For all three, the safest defense is getting it from a source that names the species and method.
 
 ### Q: What is the difference between Siam and Sumatra benzoin?
 Both are real benzoin resin, but they come from different Styrax species and are graded differently. Siam benzoin (from Styrax tonkinensis) is considered the finer grade — sweeter, more vanilla-like, and with a cleaner profile — so it commands a higher price. Sumatra benzoin (from Styrax benzoin) is more common and slightly earthier or smokier in character. Both work as a warm, sweet base note and fixative in blends; the choice is a matter of quality and budget rather than authenticity. Reputable sellers label which grade they are offering.

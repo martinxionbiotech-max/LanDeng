@@ -46,7 +46,7 @@ The shared word "resin" is doing two different jobs: agarwood's resin is trapped
 
 The botanical gap is the deepest difference:
 
-- **Agarwood** — genus *Aquilaria*, family Thymelaeaceae; a genus of roughly 15–20 tree species across South and Southeast Asia. The two names buyers meet most are *Aquilaria sinensis* (白木香, southern China) and *Aquilaria malaccensis* (the main Southeast Asian commercial species, CITES Appendix II).
+- **Agarwood** — genus *Aquilaria*, family Thymelaeaceae; a genus of roughly 15–20 tree species across South and Southeast Asia. The two names most often encountered are *Aquilaria sinensis* (白木香, southern China) and *Aquilaria malaccensis* (the main Southeast Asian commercial species, CITES Appendix II).
 - **Frankincense** — genus *Boswellia*, family Burseraceae; small trees and shrubs of northeastern Africa, the Arabian Peninsula, and India. The main commercial species are *B. sacra* (Arabia), *B. carterii* (the Horn of Africa), and *B. serrata* (India).
 
 In Chinese, the names record their nature: 沉香 (chénxiāng) means "sinking fragrance" (the density test), and 乳香 (rǔxiāng) means "milk fragrance" (the milky resin).
@@ -73,13 +73,13 @@ Because agarwood is a base and frankincense a top note, the two are **complement
 - **Agarwood** — the refined method rests chips above charcoal buried in ash, so the material releases scent without combusting. This preserves the top-note → body → dry-down progression that is the whole point of the material.
 - **Frankincense** — tears are placed on a lit charcoal disc or warmed on an electric heater; the resin melts and volatilizes. An electric heater gives a cleaner, lower-smoke result.
 
-The distinction matters in practice: a buyer who burns agarwood on open flame loses most of its value, while frankincense needs enough heat to melt the tear but not so much that it chars.
+The distinction matters in practice: anyone who burns agarwood on open flame loses most of its value, while frankincense needs enough heat to melt the tear but not so much that it chars.
 
 ## Grades, Quality, and Adulteration
 
 > **Direct answer:** Agarwood is graded primarily by resin density — the sinking test (沉水 → 半沉半浮 → floating) — with 奇楠 (qínán) as the structurally distinct top grade, and it is among the most heavily adulterated aromatics on the market. Frankincense is graded by tear size, color, and clarity, plus species and origin, and is comparatively rarely faked.
 
-This is where the two diverge most sharply for a buyer:
+This is where the two diverge most sharply for an authenticator:
 
 - **Agarwood quality** — resin content drives density, aroma intensity, and longevity. Origin (Hainan and Vietnamese material long favored), age, formation type, and aroma character all matter. The top grade, 奇楠, is structurally different ("oil wraps wood"). The full treatment is in the [agarwood grading guide](/blog/agarwood-grading-guide/).
 - **Agarwood adulteration** — dyed white wood, foreign woods dressed up as agarwood, and oil-injected low-grade material are all common. Screening methods (burn test, gentle heat, water test) are in the [authentication database](/blog/incense-authentication-database/).
@@ -97,14 +97,14 @@ The shared lesson is the same one the [comparison matrix](/blog/incense-material
 
 The pairing of frankincense with myrrh is the counterpart to agarwood's pairing with sandalwood — two different reference pairs in two different traditions.
 
-## What Buyers Should Look For
+## How to Verify Each Material
 
 > **Direct answer:** For agarwood, pin down species, origin, density, and authenticity before price — the material is heavily faked. For frankincense, pin down species, origin, tear quality, and form — the material is usually genuine but grades and aroma profiles differ by species.
 
-For an incense maker or sourcing buyer, the checks diverge:
+For an authenticator or maker, the checks diverge:
 
-- **Agarwood** — which *Aquilaria* species and origin; wild vs cultivated (a legal and price question); aroma on gentle heat (the decisive test); particle size and moisture for powder. See the [agarwood buying guide](/blog/how-to-buy-agarwood-for-incense-manufacturing/).
-- **Frankincense** — which *Boswellia* species and origin; tear quality (whole, pale, clean over dust); form (tears for heating, powder for blending, oil for fragrance). See the [wholesale guide](/blog/wholesale-guide/) for the sourcing framework.
+- **Agarwood** — which *Aquilaria* species and origin; wild vs cultivated (a legal and price question); aroma on gentle heat (the decisive test); particle size and moisture for powder. See the [agarwood entity page](/ingredients/agarwood/).
+- **Frankincense** — which *Boswellia* species and origin; tear quality (whole, pale, clean over dust); form (tears for heating, powder for blending, oil for fragrance). See the [frankincense entity page](/ingredients/frankincense/).
 
 ## The Standard Comparison
 
@@ -119,7 +119,7 @@ For an incense maker or sourcing buyer, the checks diverge:
 | Typical forms | Chips, powder, whole pieces, oud oil | Tears, powder, essential oil |
 | Quality considerations | Resin density (sinking test), origin, age, aroma character | Tear size, color, clarity, species and origin |
 | Substitution risk | **Very high** — dyed wood, foreign woods, oil-injection | **Low** — usually the real resin |
-| Sourcing considerations | CITES-listed; wild depleted, mostly cultivated plantation supply | Wild/semi-managed; over-tapping reported in parts of the range |
+| Conservation & trade | CITES-listed; wild depleted, mostly cultivated plantation supply | Wild/semi-managed; over-tapping reported in parts of the range |
 
 Neither column is "better." The table describes what each material is and how it behaves — agarwood the deep, scarce, heavily-faked wood; frankincense the bright, abundant, rarely-faked resin.
 
@@ -131,14 +131,14 @@ Neither column is "better." The table describes what each material is and how it
 
 ## Why This Page Reads Different
 
-Most "agarwood vs frankincense" content is really about price bragging rights — "which is more expensive." This page treats them as what they are: a wood and a resin that happen to share a loose "resin" label but differ in botanical origin, aroma role, and — critically — substitution risk. The useful question is not "which is better" but "which role do I need, and how do I verify what I'm actually buying."
+Most "agarwood vs frankincense" content is really about price bragging rights — "which is more expensive." This page treats them as what they are: a wood and a resin that happen to share a loose "resin" label but differ in botanical origin, aroma role, and — critically — substitution risk. The useful question is not "which is better" but "which role do I need, and how do I verify what I'm actually getting."
 
 ## The Author's Take
 
 **Position:** The most useful single fact in this comparison is not the price gap — it is the substitution-risk gap.
 
 **Reasoning:**
-- A buyer can rely on frankincense being roughly what the label says, but must treat agarwood as guilty until proven authentic.
+- A collector can rely on frankincense being roughly what the label says, but must treat agarwood as guilty until proven authentic.
 - Agarwood and frankincense are not substitutes; they are a base note and a top note that can coexist in one blend.
 
 *This is the author's editorial view and experience — not a verified fact.*
@@ -184,6 +184,9 @@ Frankincense and myrrh are both tapped gum-resins from the same family (Burserac
 
 - [Agarwood entity page](/ingredients/agarwood/)
 - [Frankincense entity page](/ingredients/frankincense/)
+- [Agarwood vs Sandalwood](/blog/agarwood-vs-sandalwood/) — the two reference woods compared
+- [Sandalwood vs Frankincense](/blog/sandalwood-vs-frankincense/) — creamy wood and citrus resin compared
+- [Frankincense vs Myrrh](/blog/frankincense-vs-myrrh/) — the two resins compared
 - [Incense Material Comparison Matrix](/blog/incense-material-comparison-matrix/)
 - [Agarwood Grading Guide](/blog/agarwood-grading-guide/)
 - [Incense Authentication Database](/blog/incense-authentication-database/)

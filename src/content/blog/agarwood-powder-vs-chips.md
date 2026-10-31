@@ -14,7 +14,7 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Agarwood powder and agarwood chips are the same resin-impregnated *Aquilaria* wood in two physical forms. **Chips** are cut pieces warmed whole — the classic form for appreciation (品香); **powder** is ground resin wood blended into sticks and cones — the form for incense making (制香). The form follows the use, and both carry the same authenticity risk: agarwood is one of the most heavily faked aromatics.
 
-**Key facts:** Because genuine agarwood is expensive, both forms are targets for adulteration. Chips can be inspected by eye (resin veins, density, a burn test), while powder hides fillers behind a uniform grind — so the buying checks differ by form. No single "best" grind or chip size exists; the right target depends on the material and the formula.
+**Key facts:** Because genuine agarwood is expensive, both forms are targets for adulteration. Chips can be inspected by eye (resin veins, density, a burn test), while powder hides fillers behind a uniform grind — so the authentication checks differ by form. No single "best" grind or chip size exists; the right target depends on the material and the formula.
 
 ---
 
@@ -37,7 +37,7 @@ author: "Landeng Tech Team"
 | Heating / use | Warmed whole (隔火焚香), appreciation | Blended into sticks and cones |
 | Quality check | Inspect resin content, density, burn test | Check particle size, moisture, contamination |
 | Adulteration risk | Harder to fake convincingly; inspectable | Easier to cut with fillers; hidden by the grind |
-| Typical buyer | Appreciator, collector, authenticator | Incense maker, manufacturer |
+| Typical user | Appreciator, collector, authenticator | Incense maker, manufacturer |
 
 The table is a functional map, not a ranking. The same piece of agarwood can be cut to chips or ground to powder — the choice is made at processing, according to the end use.
 
@@ -87,7 +87,7 @@ Because genuine agarwood is expensive, it is heavily adulterated. Common fakes i
 The form shifts what you can verify:
 
 - **Chips** — resin veins, density (the 沉水 water test), and the burn test are visible or practical. Genuine agarwood gives white smoke with visible oil seepage and a clean sweet aroma; a fake gives black smoke and a burnt-wood or perfume smell. These are screening checks, not laboratory proofs.
-- **Powder** — the uniform grind hides fillers and contaminants, so the checks are different: request a sample, confirm particle size and moisture, and burn a small amount against a known reference. A cheap "agarwood powder" is the easiest thing in this trade to cut with cheaper wood.
+- **Powder** — the uniform grind hides fillers and contaminants, so the checks are different: examine a sample, confirm particle size and moisture, and burn a small amount against a known reference. A cheap "agarwood powder" is the easiest thing in this trade to cut with cheaper wood.
 
 Neither form is automatically safe. A sophisticated fake exists in either — but a visible, resin-veined chip is harder to disguise than a bag of uniform brown powder.
 
@@ -99,21 +99,21 @@ Neither form is automatically safe. A sophisticated fake exists in either — bu
 
 奇楠 (qínán) is the top grade of agarwood — structurally different from ordinary agarwood: "oil wraps wood" (油包木) rather than "wood wraps oil" (木包油), so the fiber is so resin-saturated it shaves into curls and kneads into pellets, and is fragrant even unheated. See [奇楠 (qinan / kyara)](/blog/qinan-kyara/).
 
-This grade belongs in chip or whole-piece form, and for a practical reason: the features that identify 奇楠 — softness, curl-shaving, room-temperature fragrance — are only visible or testable in a whole piece. Ground to powder, those features vanish, which is why "奇楠 powder" is widely treated as a red flag in the trade. If a seller offers "qinan powder," the burden is on them to prove the grade, since the powder form strips away the checks. See [how to buy qinan without being misled](/blog/qinan-buying-authentication/).
+This grade belongs in chip or whole-piece form, and for a practical reason: the features that identify 奇楠 — softness, curl-shaving, room-temperature fragrance — are only visible or testable in a whole piece. Ground to powder, those features vanish, which is why "奇楠 powder" is widely treated as a red flag in the trade. If a seller offers "qinan powder," the burden is on them to prove the grade, since the powder form strips away the checks. See [how to authenticate qinan](/blog/qinan-buying-authentication/).
 
 ---
 
-## Quality and Sourcing by Form
+## Quality and Verification by Form
 
-> **Direct answer:** For chips, verify resin content, density, and aroma on gentle heat; for powder, verify particle size, moisture, and purity against your own formula. The sourcing question is the same for both — species, origin, and wild-vs-cultivated — but the inspection method changes.
+> **Direct answer:** For chips, verify resin content, density, and aroma on gentle heat; for powder, verify particle size, moisture, and purity against your own formula. The provenance question is the same for both — species, origin, and wild-vs-cultivated — but the inspection method changes.
 
-The buying checks split by form, while the sourcing questions stay constant:
+The verification checks split by form, while the provenance questions stay constant:
 
 - **Species and origin** — which *Aquilaria* species, and which region; a real seller can answer. See [agarwood](/ingredients/agarwood/).
 - **Wild vs cultivated** — a documentation question with legal and price implications, since *Aquilaria* is CITES-listed and wild stands are depleted.
 - **Form-specific checks** — chips: resin veins, density (沉水), aroma on gentle heat; powder: particle size, moisture, and a sample burn against your formula.
 
-For a maker, consistency is the overriding concern: a steady, well-documented powder with known particle size beats an irreproducible top grade. See the [wholesale guide](/blog/wholesale-guide/) for the sourcing framework.
+For a maker, consistency is the overriding concern: a steady, well-documented powder with known particle size beats an irreproducible top grade. The particle-size and moisture discipline is the same one any blended-formula maker applies; see the [form-and-use](/blog/incense-powder-vs-wood-chips/) reference for the general pattern.
 
 ---
 
@@ -139,7 +139,7 @@ Much agarwood content wants to crown chips as "more authentic" than powder. That
 **Reasoning:**
 - Form follows use: chips for 品香, powder for 制香, and neither is inherently better.
 - The authenticity risk is in both forms, but it is easier to hide fillers in powder and easier to spot fakes in a visible chip.
-- 奇楠 is identified by features that only survive whole — so grinding it away should make a buyer pause.
+- 奇楠 is identified by features that only survive whole — so grinding it away should make an authenticator pause.
 
 *This is the author's editorial view and experience — not a verified fact.*
 
@@ -160,10 +160,10 @@ Yes — the same resin-impregnated *Aquilaria* heartwood in two physical forms. 
 Chips. Agarwood's defining trait is that it develops in stages — top note, body, dry-down — as it warms, and a chip reveals this because only its outer surface warms at first, releasing the resin gradually. Powder exposes most of its surface at once, so it releases quickly and uniformly, which is useful for blending but does not unfold the way a whole chip does. For tasting a single material, warm a chip on charcoal buried in ash or on an electric heater.
 
 ### Q: Is agarwood powder usually fake?
-Not automatically, but powder is the easier form to adulterate. Because the uniform grind hides fillers and foreign wood, a cheap "agarwood powder" can be cut with cheaper material without being obvious to the eye. The buying check is different from chips: request a sample, confirm particle size and moisture, and burn a small amount against a known reference. Chips are harder to fake convincingly because the resin veins are visible. See [agarwood](/ingredients/agarwood/) for the full adulteration map.
+Not automatically, but powder is the easier form to adulterate. Because the uniform grind hides fillers and foreign wood, a cheap "agarwood powder" can be cut with cheaper material without being obvious to the eye. The verification check is different from chips: examine a sample, confirm particle size and moisture, and burn a small amount against a known reference. Chips are harder to fake convincingly because the resin veins are visible. See [agarwood](/ingredients/agarwood/) for the full adulteration map.
 
 ### Q: Should I buy qinan (奇楠) powder?
-Be very cautious. Genuine 奇楠 — the top agarwood grade — is identified by features that only survive whole: it is soft, shaves into curls, kneads into pellets, and is fragrant at room temperature. Ground to powder, those features vanish, so "奇楠 powder" is widely treated as a fraud signal. If a seller offers it, the burden is on them to prove the grade, which is difficult once the identifying features are gone. See [how to buy qinan](/blog/qinan-buying-authentication/) before purchasing.
+Be very cautious. Genuine 奇楠 — the top agarwood grade — is identified by features that only survive whole: it is soft, shaves into curls, kneads into pellets, and is fragrant at room temperature. Ground to powder, those features vanish, so "奇楠 powder" is widely treated as a fraud signal. If a seller offers it, the burden is on them to prove the grade, which is difficult once the identifying features are gone. See [how to authenticate qinan](/blog/qinan-buying-authentication/) before committing.
 
 ### Q: How do I use agarwood chips?
 Warm them whole, not in an open flame. The refined method is 隔火焚香: rest a chip above charcoal buried in ash, or on an electric heater, so it releases aroma below combustion. A little material goes a long way — a single chip or a few slivers, warmed gently, is enough. Avoid burning the chip directly, which chars the resin and loses the layered aroma. See [indirect-fire incense](/blog/gehuo-fenxiang-setup/) for the setup.
@@ -183,9 +183,9 @@ Warm them whole, not in an open flame. The refined method is 隔火焚香: rest 
 
 - [Agarwood (沉香)](/ingredients/agarwood/)
 - [奇楠 (Qinan / Kyara)](/blog/qinan-kyara/)
-- [Qinan Buying & Authentication](/blog/qinan-buying-authentication/)
+- [Qinan Authentication](/blog/qinan-buying-authentication/)
 - [Incense Powder & Resin](/blog/incense-powder-resin/)
 - [Indirect-Fire Incense (隔火焚香)](/blog/gehuo-fenxiang-setup/)
 - [Agarwood Incense Guide](/blog/agarwood-incense/)
 
-**Natural next step:** buying agarwood? Read [agarwood](/ingredients/agarwood/) for the grades and fakes first, then the [authentication database](/blog/incense-authentication-database/) for the screening logic.
+**Natural next step:** verifying agarwood? Read [agarwood](/ingredients/agarwood/) for the grades and fakes first, then the [authentication database](/blog/incense-authentication-database/) for the screening logic.

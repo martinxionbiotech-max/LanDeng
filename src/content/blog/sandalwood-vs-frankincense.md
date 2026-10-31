@@ -79,7 +79,7 @@ The distinction matters in practice: sandalwood *can* be burned as a wood, but f
 
 > **Direct answer:** Sandalwood quality is driven by species, heartwood content, oil content, and age — with *S. album* as the reference — and its main risk is substitution (species, and oil-for-wood). Frankincense is graded by tear size, color, and clarity, plus species and origin, and is comparatively rarely faked.
 
-This is where the two diverge most sharply for a buyer:
+This is where the two diverge most sharply for an authenticator:
 
 - **Sandalwood quality** — species (*S. album* is the reference), heartwood versus sapwood (only mature heartwood is fragrant), oil content and age, and the "buttery" aroma character. The full treatment is in the [sandalwood entity page](/ingredients/sandalwood/).
 - **Sandalwood substitution** — very cheap "sandalwood" sticks are almost always synthetic fragrance oil, not wood; oil-for-wood substitution is common; species substitution (Australian or other *Santalum* for *S. album*) is a real authenticity point. See the [substitution cross-reference](/blog/incense-substitution-cross-reference/).
@@ -97,14 +97,14 @@ The shared lesson is the same one the [comparison matrix](/blog/incense-material
 
 The pairing of frankincense with myrrh is the counterpart to sandalwood's pairing with agarwood — two different reference pairs in two different traditions.
 
-## What Buyers Should Look For
+## How to Verify Each Material
 
 > **Direct answer:** For sandalwood, pin down which *Santalum* species, whether the label means wood or oil, and the origin and harvest basis — and verify the "buttery" aroma. For frankincense, pin down species, origin, tear quality, and form. Both reward a label that names the species.
 
-For an incense maker or sourcing buyer, the checks diverge:
+For an authenticator or maker, the checks diverge:
 
-- **Sandalwood** — which *Santalum* species; wood versus oil (they smell different); origin and harvest basis (plantation vs wild, with documentation); the creamy "buttery" note as the authenticity marker. See the [wholesale guide](/blog/wholesale-guide/) for the sourcing framework.
-- **Frankincense** — which *Boswellia* species and origin; tear quality (whole, pale, clean over dust); form (tears for heating, powder for blending, oil for fragrance).
+- **Sandalwood** — which *Santalum* species; wood versus oil (they smell different); origin and harvest basis (plantation vs wild, with documentation); the creamy "buttery" note as the authenticity marker. See the [sandalwood entity page](/ingredients/sandalwood/) and the [substitution cross-reference](/blog/incense-substitution-cross-reference/).
+- **Frankincense** — which *Boswellia* species and origin; tear quality (whole, pale, clean over dust); form (tears for heating, powder for blending, oil for fragrance). See the [frankincense entity page](/ingredients/frankincense/).
 
 ## The Standard Comparison
 
@@ -119,7 +119,7 @@ For an incense maker or sourcing buyer, the checks diverge:
 | Typical forms | Chips, powder, oil, whole wood, sticks | Tears, powder, essential oil |
 | Quality considerations | Species, heartwood content, oil content, age, aroma | Tear size, color, clarity, species and origin |
 | Substitution risk | **High** — species substitution, oil-for-wood, synthetic fragrance | **Low** — usually the real resin |
-| Sourcing considerations | Wild *S. album* CITES-listed; plantation *S. album* + Australian *S. spicatum* dominate | Wild/semi-managed; over-tapping reported in parts of the range |
+| Conservation & trade | Wild *S. album* CITES-listed; plantation *S. album* + Australian *S. spicatum* dominate | Wild/semi-managed; over-tapping reported in parts of the range |
 
 Neither column is "better." The table describes what each material is and how it behaves — sandalwood the creamy, slow, frequently-substituted wood; frankincense the bright, abundant, rarely-faked resin.
 
@@ -132,15 +132,15 @@ Neither column is "better." The table describes what each material is and how it
 
 ## Why This Page Reads Different
 
-Most "sandalwood vs frankincense" content is really about which is "more luxurious" or which note you should prefer. This page treats them as what they are: a wood and a resin that differ in botanical origin, physical form, and — critically — substitution risk. The useful question is not "which is better" but "which role do I need — a creamy base or a bright top note — and how do I verify what I'm actually buying."
+Most "sandalwood vs frankincense" content is really about which is "more luxurious" or which note you should prefer. This page treats them as what they are: a wood and a resin that differ most in **physical state** — a wood that smolders slowly and a resin that melts on heat — which is why they are heated for opposite reasons and sit at opposite ends of a blend. The useful question is not "which is better" but "which physical behavior do I need — a slow, grounding wood or a bright, melting resin?"
 
 ## The Author's Take
 
-**Position:** The most useful single fact in this comparison is not the aroma gap — it is the substitution-risk gap.
+**Position:** The most useful single fact in this comparison is not the aroma gap — it is the physical-state gap: one is a wood you warm, the other a resin you melt.
 
 **Reasoning:**
-- A buyer can rely on frankincense being roughly what the label says, but must treat cheap sandalwood as a claim to verify, not a material.
-- Sandalwood and frankincense are not substitutes; they are a base note and a top note that can coexist in one blend.
+- Sandalwood's slow smolder and frankincense's melting release are the real functional difference — they are heated for opposite physical reasons, which is why they complement rather than compete in a blend.
+- Sandalwood anchors a blend as a base note; frankincense lifts it as a top note. Neither replaces the other.
 
 *This is the author's editorial view and experience — not a verified fact.*
 
@@ -184,9 +184,12 @@ Sandalwood pairs with agarwood (沉香) as the two reference woods of Chinese in
 
 - [Sandalwood entity page](/ingredients/sandalwood/)
 - [Frankincense entity page](/ingredients/frankincense/)
+- [Agarwood vs Sandalwood](/blog/agarwood-vs-sandalwood/) — the two reference woods compared
+- [Agarwood vs Frankincense](/blog/agarwood-vs-frankincense/) — wood and resin compared
+- [Frankincense vs Myrrh](/blog/frankincense-vs-myrrh/) — the two resins compared
 - [Incense Material Comparison Matrix](/blog/incense-material-comparison-matrix/)
 - [Sandalwood incense guide](/blog/sandalwood-incense/)
 - [Frankincense incense guide](/blog/frankincense-incense/)
 - [Incense Substitution Cross-Reference](/blog/incense-substitution-cross-reference/)
 
-**Natural next step:** see the full seven-material picture in the [comparison matrix](/blog/incense-material-comparison-matrix/), or compare the two reference woods directly in [agarwood vs sandalwood](/ingredients/agarwood/).
+**Natural next step:** see the full seven-material picture in the [comparison matrix](/blog/incense-material-comparison-matrix/), or compare the two reference woods directly in [agarwood vs sandalwood](/blog/agarwood-vs-sandalwood/).

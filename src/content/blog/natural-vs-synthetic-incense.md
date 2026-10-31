@@ -3,7 +3,7 @@ slug: "natural-vs-synthetic-incense"
 title: "Natural vs Synthetic Incense: Telling Them Apart"
 primary_keyword: "how to tell natural vs synthetic incense"
 search_intent: "informational"
-pillar: "P5 — Buying & Selection"
+pillar: "P2 — Scent & Ingredient Guide"
 content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-09"
@@ -60,7 +60,7 @@ The two products sit on the same shelf but are made differently. The standard cr
 | Traditional use | Material-based practice (合香, temple, kōdō) | Modern manufactured scent |
 | Typical applications | Appreciation, ritual, material-led blending | Everyday ambient scenting |
 | Quality considerations | Species, grade, particle size, moisture | Fragrance load, base quality |
-| Sourcing considerations | Price reflects scarce material; adulteration risk | Price uniform; the label says little |
+| Conservation & trade | Price reflects scarce material; adulteration risk | Price uniform; the label says little |
 
 Neither column is "better" — the table describes what each is made of and how it behaves, not which you should prefer. The practical question is **which one is actually in the product**, because the label does not reliably tell you.
 
@@ -81,7 +81,7 @@ The two materials where this distinction matters most are also the two most subs
 - **Sandalwood** — real *Santalum album* heartwood is scarce; cheap sticks are fragrance oil. See [sandalwood](/blog/sandalwood-incense/).
 - **Agarwood** — one of the most heavily adulterated materials on earth; dyed wood, oil-injected wood, and foreign woods are common. See [agarwood](/blog/agarwood-incense/).
 
-For both, the material-vs-fragrance distinction is not snobbery — it determines whether you are smelling the wood or a reconstruction of it. The distinction also plays out at the **form** level: a visible, resin-veined chip is harder to fake than a uniform powder, so the material-vs-fragrance question changes shape depending on whether you are buying [agarwood powder or chips](/blog/agarwood-powder-vs-chips/), and on [powder vs whole chips](/blog/incense-powder-vs-wood-chips/) more generally.
+For both, the material-vs-fragrance distinction is not snobbery — it determines whether you are smelling the wood or a reconstruction of it. The distinction also plays out at the **form** level: a visible, resin-veined chip is harder to fake than a uniform powder, so the material-vs-fragrance question changes shape depending on whether you are considering [agarwood powder or chips](/blog/agarwood-powder-vs-chips/), and on [powder vs whole chips](/blog/incense-powder-vs-wood-chips/) more generally.
 
 ---
 
