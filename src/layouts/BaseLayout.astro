@@ -2,11 +2,13 @@
 interface Props {
   title?: string;
   description?: string;
+  noindex?: boolean;
 }
 
 const {
   title = 'LanDeng — Chinese Botanical Incense',
   description = 'A quiet, research-led knowledge platform for Chinese botanical incense.',
+  noindex = false,
 } = Astro.props;
 
 const SITE = Astro.site?.toString() ?? 'https://incenseherbs.com';
@@ -68,6 +70,7 @@ const webSiteJsonLd = {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
     <link rel="canonical" href={canonical} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
