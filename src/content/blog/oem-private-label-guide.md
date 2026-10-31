@@ -2,8 +2,8 @@
 slug: "oem-private-label-guide"
 title: "OEM & Private Label Incense: Custom Manufacturing"
 primary_keyword: "oem private label incense manufacturing"
-search_intent: "commercial_investigation"
-pillar: "Commercial — B2B Buying & Supply"
+search_intent: "informational"
+pillar: "P10 — Incense Craft & Materials"
 content_type: "guide"
 cluster_role: "guide"
 last_reviewed: "2026-09-19"
@@ -13,8 +13,6 @@ author: "Landeng Tech Team"
 
 
 **Direct answer:** OEM and private-label incense manufacturing follows a sequence: **brief → formula/format direction → sampling → iteration → production → packaging → QC → documentation**. OEM means the factory builds product to *your* specification under your brand; private label means you re-brand a factory's *existing* product. Both routes require you to answer a short list of specification questions before any serious quote is possible — and neither has a published price list.
-
-**Key facts:** This guide covers the OEM and private-label paths: how a project flows from brief to finished product, the difference between the two routes, and the questions you must ask a manufacturer before committing. All figures — MOQ, lead time, tooling, and documentation — are stated as "on request," because every project differs.
 
 ---
 
@@ -46,12 +44,12 @@ Neither is "better" — they solve different problems. If you have a specific ar
 ## The Project Flow
 
 1. **Brief** — you state the target: aroma profile, format, quantity, packaging, and any specification. This is the single most valuable document in the project.
-2. **Formula / format direction** — the manufacturer proposes materials and a formula direction (see [custom fragrance development](/blog/custom-fragrance-development/)).
-3. **Sampling** — a development sample is produced for your approval. See [samples program](/blog/samples-program/).
+2. **Formula / format direction** — the manufacturer proposes materials and a formula direction, drawing on the [合香 blending system](/blog/hexiang-blending-system/).
+3. **Sampling** — a development sample is produced for your approval.
 4. **Iteration** — you refine against the sample; this loop, not production, is where most project time goes.
 5. **Production** — the approved formula is scaled to your order quantity.
-6. **Packaging** — your label and packaging are applied. See [packaging & shipping](/blog/packaging-shipping-guide/).
-7. **QC and documentation** — inspection plus the certificates and test documents you agreed on. See [factory vetting](/blog/factory-vetting-guide/).
+6. **Packaging** — your label and packaging are applied.
+7. **QC and documentation** — inspection plus the certificates and test documents you agreed on. See the [quality control](/blog/incense-manufacturing-quality-control/) explainer.
 
 ---
 
@@ -77,7 +75,7 @@ Before committing to an OEM or private-label manufacturer, get written answers t
 4. **What is the sampling process, and how many iterations are included?**
 5. **Who owns the packaging tooling, and what happens if I change the label later?**
 
-See [MOQ & pricing](/blog/moq-pricing-guide/) and [factory vetting](/blog/factory-vetting-guide/) for the deeper treatment.
+See [incense manufacturing quality control](/blog/incense-manufacturing-quality-control/) for the deeper treatment.
 
 ---
 
@@ -89,7 +87,7 @@ See [MOQ & pricing](/blog/moq-pricing-guide/) and [factory vetting](/blog/factor
 - Every downstream cost — sampling rounds, lead time, unit price — is set by how clearly the brief was stated at the start.
 - The buyer's leverage in OEM is not in squeezing the unit price; it's in specifying precisely enough that the factory quotes the *right* product the first time.
 
-**Disclosure:** This is the author's editorial view and experience, not a verified fact. LanDeng offers OEM and private-label development, and the framing here is how I think a buyer should approach custom manufacturing, not a sales claim.
+**Disclosure:** This is the author's editorial view and experience, not a verified fact. The framing here is how I think custom manufacturing should be approached, not a sales claim.
 
 ---
 
@@ -113,10 +111,10 @@ There is no single answer, because lead time is set by your project's developmen
 It depends on what you agree in writing, which is why you must ask before development starts. In some arrangements the developed formula belongs to the factory and you are licensed to use it; in others, the buyer owns the formula and can take it elsewhere. There is no universal default — this is a contract term. Get ownership, usage rights, and what happens if you change manufacturers stated explicitly, ideally before you invest in sampling.
 
 ### Q: What is the minimum order for OEM incense?
-There is no universal OEM minimum, because the order size depends on the format, whether the formula is new or existing, and the packaging. This is precisely why an honest manufacturer confirms MOQ per project rather than publishing a fixed number. The useful question is not "what is your MOQ" but "what is the MOQ for *this* product at *this* quantity" — and that is answered in the quotation stage. See [MOQ & pricing](/blog/moq-pricing-guide/).
+There is no universal OEM minimum, because the order size depends on the format, whether the formula is new or existing, and the packaging. This is precisely why MOQ is confirmed per project rather than published as a fixed number. The useful question is not "what is your MOQ" but "what is the MOQ for *this* product at *this* quantity" — and that is answered at the quotation stage.
 
 ### Q: Can I bring my own formula or recipe to a manufacturer?
-Yes — bringing your own formula or recipe is a standard OEM starting point, and it often shortens the development loop because the direction is already defined. The manufacturer will still need to translate that formula into a producible product, which may involve adjusting proportions for a given format or binder, and confirming the materials are actually available at the required grade. Expect a sampling round to reconcile your recipe with what can be reliably produced. See [custom fragrance development](/blog/custom-fragrance-development/) and the [blending system](/blog/hexiang-blending-system/).
+Yes — bringing your own formula or recipe is a standard OEM starting point, and it often shortens the development loop because the direction is already defined. The manufacturer will still need to translate that formula into a producible product, which may involve adjusting proportions for a given format or binder, and confirming the materials are actually available at the required grade. Expect a sampling round to reconcile your recipe with what can be reliably produced. See the [blending system](/blog/hexiang-blending-system/).
 
 ---
 
@@ -129,9 +127,8 @@ Yes — bringing your own formula or recipe is a standard OEM starting point, an
 
 ## Related Resources
 
-- [Custom fragrance development](/blog/custom-fragrance-development/)
-- [Samples program](/blog/samples-program/)
-- [Factory vetting guide](/blog/factory-vetting-guide/)
-- [Incense for business (hub)](/blog/incense-for-business/)
+- [The 合香 blending system](/blog/hexiang-blending-system/)
+- [How incense is made](/blog/how-incense-is-made/)
+- [Incense manufacturing quality control](/blog/incense-manufacturing-quality-control/)
 
-**Natural next step:** ready to develop your own product? See the [OEM inquiry](/oem/) page — or [request a quote](/request-a-quote/).
+**Natural next step:** understand the blend structure behind any custom formula in the [合香 blending system](/blog/hexiang-blending-system/).
