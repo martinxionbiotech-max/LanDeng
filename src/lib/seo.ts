@@ -17,7 +17,8 @@ export function stripMarkdown(body: string): string {
     .replace(/<[^>]+>/g, ' ')
     .replace(/^#{1,6}\s+/gm, '')
     .replace(/[*_>`]/g, ' ')
-    .replace(/^\s*Data summary:\s*/i, '')
+    .replace(/^\s*(?:(?:direct|technical|short|quick|practical|detailed)\s+answer|definition(?:s)?|data summary|key takeaways?|tl;?dr|summary|in short)\s*:\s*/i, '')
+    .replace(/\s+([,.;:])/g, '$1')
     .replace(/\s+/g, ' ')
     .trim();
 }
