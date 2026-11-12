@@ -57,6 +57,18 @@ function normalizePath(pathname) {
 
 export async function onRequest(context) {
   const { request, env } = context;
+
+  // Canonical host: www.<domain> answers 301 to the bare domain, preserving
+  // path and query. _redirects does not cover host-based rules reliably here.
+  const url = new URL(request.url);
+  if (url.hostname.startsWith('www.')) {
+    url.hostname = url.hostname.slice(4);
+    return new Response(null, {
+      status: 301,
+      headers: { Location: url.toString(), 'Cache-Control': 'public, max-age=3600' },
+    });
+  }
+
   if (request.method !== 'GET' && request.method !== 'HEAD') return context.next();
 
   if (!wantsMarkdown(request.headers.get('Accept') || '')) return context.next();
