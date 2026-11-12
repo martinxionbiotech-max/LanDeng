@@ -1,5 +1,5 @@
 ---
-title: "Banana Shrub (含笑花) — Michelia Figo"
+title: "Banana Shrub (含笑花): sweet, fruity, floral"
 entity: michelia-figo
 chinese: 含笑花
 pinyin: hánxiào huā

@@ -1,5 +1,5 @@
 ---
-title: "Cypress Seed (柏子) — Scholar's Incense"
+title: "Cypress Seed (柏子): roasted, nutty, woody"
 entity: cypress-seed
 chinese: 柏子
 pinyin: bǎizǐ

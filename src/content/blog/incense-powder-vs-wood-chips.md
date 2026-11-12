@@ -1,6 +1,6 @@
 ---
 slug: "incense-powder-vs-wood-chips"
-title: "Incense Powder vs Wood Chips: The Form Decides the Use"
+title: "Powder or Wood Chips? Choosing the Right Incense Form"
 primary_keyword: "incense powder vs wood chips"
 search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"

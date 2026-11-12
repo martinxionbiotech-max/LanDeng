@@ -1,5 +1,5 @@
 ---
-title: "Peru Balsam (秘鲁香脂) — Sweet Resin"
+title: "Peru Balsam (秘鲁香脂): sweet, vanilla, balsamic"
 entity: peru-balsam
 chinese: 秘鲁香脂
 pinyin: bìlǔ xiāngzhī

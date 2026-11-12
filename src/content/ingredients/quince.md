@@ -1,5 +1,5 @@
 ---
-title: "Quince (木瓜) — Fragrant Scholar's Fruit"
+title: "Quince (木瓜): fruity, sweet, floral"
 entity: quince
 chinese: 木瓜
 pinyin: mùguā

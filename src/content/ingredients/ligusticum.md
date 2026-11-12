@@ -1,5 +1,5 @@
 ---
-title: "Ligusticum (藁本) — Aromatic Root Herb"
+title: "Ligusticum (藁本): herbal, aromatic, spicy"
 entity: ligusticum
 chinese: 藁本
 pinyin: gǎoběn

@@ -1,6 +1,6 @@
 ---
 slug: "oem-private-label-guide"
-title: "OEM & Private Label Incense: Custom Manufacturing"
+title: "What OEM Private Label Incense Manufacturing Involves"
 primary_keyword: "oem private label incense manufacturing"
 search_intent: "informational"
 pillar: "P10 — Incense Craft & Materials"

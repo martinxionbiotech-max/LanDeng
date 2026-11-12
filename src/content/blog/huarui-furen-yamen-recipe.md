@@ -1,6 +1,6 @@
 ---
 slug: "huarui-furen-yamen-recipe"
-title: "花蕊夫人衙香 (Huarui Furen's Court Incense): Recipe"
+title: "Reconstructing 花蕊夫人衙香: Inside a Court Recipe"
 primary_keyword: "huarui furen ya xiang recipe"
 search_intent: "informational"
 pillar: "P9 — Chinese Incense Recipes (香方)"

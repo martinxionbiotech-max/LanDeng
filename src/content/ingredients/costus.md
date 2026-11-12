@@ -1,5 +1,5 @@
 ---
-title: "Costus (木香) — Earthy Root"
+title: "Costus (木香): earthy, woody, musky"
 entity: costus
 chinese: 木香
 pinyin: mùxiāng

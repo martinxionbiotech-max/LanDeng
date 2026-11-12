@@ -1,5 +1,5 @@
 ---
-title: "Pine Resin (松香) — Woody Resin"
+title: "Pine Resin (松香): piney, woody, balsamic"
 entity: pine-resin
 chinese: 松香
 pinyin: sōngxiāng

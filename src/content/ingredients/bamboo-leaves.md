@@ -1,5 +1,5 @@
 ---
-title: "Bamboo Leaves (竹叶) — Fresh Green Leaf"
+title: "Bamboo Leaves (竹叶): green, fresh, grassy"
 entity: bamboo-leaves
 chinese: 竹叶
 pinyin: zhúyè

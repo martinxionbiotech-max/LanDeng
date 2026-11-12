@@ -1,5 +1,5 @@
 ---
-title: "Mountain Pepper (山鸡椒) — Litsea Cubeba"
+title: "Mountain Pepper (山鸡椒): citrus, lemony, spicy"
 entity: litsea-cubeba
 chinese: 山鸡椒
 pinyin: shānjījiāo

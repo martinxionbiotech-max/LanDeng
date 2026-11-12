@@ -1,5 +1,5 @@
 ---
-title: "Storax (苏合香) — Imported Resin"
+title: "Storax (苏合香): sweet, balsamic, resinous"
 entity: styrax-resin
 chinese: 苏合香
 pinyin: sūhéxiāng

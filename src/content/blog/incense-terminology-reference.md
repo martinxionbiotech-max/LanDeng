@@ -1,6 +1,6 @@
 ---
 slug: "incense-terminology-reference"
-title: "Chinese Incense Terminology: The 249-Term Reference"
+title: "249 Chinese Incense Terms, Mapped in English"
 primary_keyword: "chinese incense terminology"
 search_intent: "informational"
 pillar: "P1 — Chinese Incense 101"

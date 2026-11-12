@@ -1,5 +1,5 @@
 ---
-title: "Torreya (香榧) — Fragrant Nut Seed"
+title: "Torreya (香榧): nutty, woody, resinous"
 entity: torreya
 chinese: 香榧
 pinyin: xiāngfěi

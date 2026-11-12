@@ -1,5 +1,5 @@
 ---
-title: "Shellac (紫草茸) — Lac Resin"
+title: "Shellac (紫草茸): resinous, waxy, subtle"
 entity: shellac
 chinese: 紫草茸
 pinyin: zǐcǎoróng

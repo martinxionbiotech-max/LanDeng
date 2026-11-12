@@ -1,5 +1,5 @@
 ---
-title: "Lavender (薰衣草) — Floral Herb"
+title: "Lavender (薰衣草): floral, herbal, fresh"
 entity: lavender
 chinese: 薰衣草
 pinyin: xūnyīcǎo

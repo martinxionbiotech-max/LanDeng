@@ -1,6 +1,6 @@
 ---
 slug: "agarwood-powder-vs-chips"
-title: "Agarwood Powder vs Chips: Appreciation vs Incense Making"
+title: "Powder or Chips? Choosing Agarwood for 品香 or 制香"
 primary_keyword: "agarwood powder vs chips"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

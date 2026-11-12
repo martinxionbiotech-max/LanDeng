@@ -1,6 +1,6 @@
 ---
 slug: "how-incense-powder-is-made"
-title: "How Incense Powder Is Made: Grinding, Sieving, and Blending"
+title: "Grinding, Sieving and Blending: How Incense Powder Is Made"
 primary_keyword: "how incense powder is made"
 search_intent: "informational"
 pillar: "P10 — Incense Craft & Materials"

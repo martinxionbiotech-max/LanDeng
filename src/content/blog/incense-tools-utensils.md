@@ -1,6 +1,6 @@
 ---
 slug: "incense-tools-utensils"
-title: "香具 (The Incense Tool Set): Chopsticks & Spoons"
+title: "香具 Explained: The Small Tools of Chinese Incense"
 primary_keyword: "incense tools chopsticks spoon spatula censer set"
 search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"

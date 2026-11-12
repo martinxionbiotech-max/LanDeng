@@ -1,6 +1,6 @@
 ---
 slug: "incense-coils"
-title: "Incense Coils: The Hours-Long Burn, Explained"
+title: "Why Incense Coils Burn for Hours"
 primary_keyword: "incense coils"
 search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"

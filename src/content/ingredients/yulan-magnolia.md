@@ -1,5 +1,5 @@
 ---
-title: "Yulan Magnolia (玉兰)"
+title: "Yulan Magnolia (玉兰): floral, fresh, green"
 entity: yulan-magnolia
 chinese: 玉兰
 pinyin: yùlán

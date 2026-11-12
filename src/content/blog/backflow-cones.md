@@ -1,6 +1,6 @@
 ---
 slug: "backflow-cones"
-title: "Backflow Incense Cones: The Waterfall Effect"
+title: "Why Backflow Incense Smoke Sinks Instead of Rising"
 primary_keyword: "backflow incense cones"
 search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"

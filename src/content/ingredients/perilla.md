@@ -1,5 +1,5 @@
 ---
-title: "Perilla (紫苏) — Aromatic Herb"
+title: "Perilla (紫苏): herbal, minty, sweet"
 entity: perilla
 chinese: 紫苏
 pinyin: zǐsū

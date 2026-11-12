@@ -1,6 +1,6 @@
 ---
 slug: "xuande-censer"
-title: "宣德炉 (Xuande Censer): The Ming Collector's Censer"
+title: "Why 宣德炉 (Xuande Censers) Still Define Ming Bronze"
 primary_keyword: "xuande censer xuandelu ming bronze"
 search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"

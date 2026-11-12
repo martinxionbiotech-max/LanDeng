@@ -1,5 +1,5 @@
 ---
-title: "Pine Needles (松针)"
+title: "Pine Needles (松针): piney, conifer, fresh"
 entity: pine-needles
 chinese: 松针
 pinyin: sōngzhēn

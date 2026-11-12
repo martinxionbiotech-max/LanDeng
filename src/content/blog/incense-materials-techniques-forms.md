@@ -1,6 +1,6 @@
 ---
 slug: "incense-materials-techniques-forms"
-title: "Incense Materials, Techniques & Forms: The Craft Taxonomy"
+title: "How Materials, Techniques and Forms Shape Incense"
 primary_keyword: "incense materials techniques forms"
 search_intent: "informational"
 pillar: "P10 — Incense Craft & Materials"

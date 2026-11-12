@@ -1,5 +1,5 @@
 ---
-title: "Rose (玫瑰) — Sweet Floral"
+title: "Rose (玫瑰): sweet, floral, romantic"
 entity: rose
 chinese: 玫瑰
 pinyin: méiguī

@@ -1,5 +1,5 @@
 ---
-title: "Arborvitae Leaves (侧柏叶)"
+title: "Arborvitae Leaves (侧柏叶): woody, fresh, green"
 entity: platycladus-leaves
 chinese: 侧柏叶
 pinyin: cèbǎi yè

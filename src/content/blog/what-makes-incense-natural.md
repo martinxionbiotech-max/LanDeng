@@ -1,6 +1,6 @@
 ---
 slug: "what-makes-incense-natural"
-title: "What Makes Incense \"Natural\"? The Label Problem"
+title: "When Does Incense Count as Natural?"
 primary_keyword: "what makes incense natural"
 search_intent: "informational"
 pillar: "P10 — Incense Craft & Materials"

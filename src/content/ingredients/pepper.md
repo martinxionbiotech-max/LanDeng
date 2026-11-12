@@ -1,5 +1,5 @@
 ---
-title: "Pepper (胡椒) — Warm Spice"
+title: "Pepper (胡椒): spicy, pungent, warm"
 entity: pepper
 chinese: 胡椒
 pinyin: hújiāo

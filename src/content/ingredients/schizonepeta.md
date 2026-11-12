@@ -1,5 +1,5 @@
 ---
-title: "Schizonepeta (荆芥) — Aromatic Herb"
+title: "Schizonepeta (荆芥): herbal, minty, spicy"
 entity: schizonepeta
 chinese: 荆芥
 pinyin: jīngjiè

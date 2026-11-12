@@ -1,5 +1,5 @@
 ---
-title: "Mugwort (艾草) — Chinese Tradition"
+title: "Mugwort (艾草): herbal, bitter-green, camphoraceous"
 entity: mugwort
 chinese: 艾草
 pinyin: àicǎo

@@ -1,6 +1,6 @@
 ---
 slug: "oem-vs-private-label"
-title: "OEM vs Private Label Incense: Which Route Fits Your Brand?"
+title: "OEM or Private Label? Choosing Your Incense Route"
 primary_keyword: "oem vs private label incense"
 search_intent: "informational"
 pillar: "P10 — Incense Craft & Materials"

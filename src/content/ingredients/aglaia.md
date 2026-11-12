@@ -1,5 +1,5 @@
 ---
-title: "Aglaia (米仔兰)"
+title: "Aglaia (米仔兰): sweet, floral, fruity"
 entity: aglaia
 chinese: 米仔兰
 pinyin: mǐzǎilán

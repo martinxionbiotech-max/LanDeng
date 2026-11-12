@@ -1,6 +1,6 @@
 ---
 slug: "home-ambiance"
-title: "Incense for Home Ambiance: Scent & Hospitality"
+title: "Can Incense Set a Room's Mood and Welcome Guests?"
 primary_keyword: "incense for home ambiance"
 search_intent: "informational"
 pillar: "P3 — Use Scenarios"

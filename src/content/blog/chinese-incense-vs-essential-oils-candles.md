@@ -1,6 +1,6 @@
 ---
 slug: "chinese-incense-vs-essential-oils-candles"
-title: "Chinese Incense vs Essential Oils vs Candles"
+title: "Incense, Diffuser or Candle: Three Ways to Scent a Room"
 primary_keyword: "chinese incense vs essential oils vs candles"
 search_intent: "commercial_investigation"
 pillar: "P1 — Chinese Incense 101"

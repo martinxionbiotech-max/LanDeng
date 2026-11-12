@@ -1,5 +1,5 @@
 ---
-title: "Tuberose (晚香玉) — Night-Fragrant Flower"
+title: "Tuberose (晚香玉): sweet, floral, creamy"
 entity: tuberose
 chinese: 晚香玉
 pinyin: wǎnxiāngyù

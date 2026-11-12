@@ -1,5 +1,5 @@
 ---
-title: "Valerian (缬草) — Earthy Root"
+title: "Valerian (缬草): earthy, musky, woody"
 entity: valerian
 chinese: 缬草
 pinyin: xiécǎo

@@ -1,5 +1,5 @@
 ---
-title: "Clove (丁香) — Warm Spice Note"
+title: "Clove (丁香): spicy, warm, aromatic"
 entity: clove
 chinese: 丁香
 pinyin: dīngxiāng

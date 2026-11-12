@@ -1,6 +1,6 @@
 ---
 slug: "best-incense-for-small-room"
-title: "Best Incense for a Small Room: Smoke & Burn Time"
+title: "Which Incense Suits a Small Room? Match Smoke to Space"
 primary_keyword: "best incense for small room"
 search_intent: "commercial_investigation"
 pillar: "P7 — Incense vs Alternatives"

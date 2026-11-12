@@ -1,5 +1,5 @@
 ---
-title: "Spearmint (留兰香) — Sweet Cooling Mint"
+title: "Spearmint (留兰香): cooling, minty, sweet"
 entity: spearmint
 chinese: 留兰香
 pinyin: liúlánxiāng

@@ -1,5 +1,5 @@
 ---
-title: "Kumquat (金橘) — Fragrant Citrus Fruit"
+title: "Kumquat (金橘): citrus, sweet, floral"
 entity: kumquat
 chinese: 金橘
 pinyin: jīnjú

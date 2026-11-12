@@ -1,5 +1,5 @@
 ---
-title: "Champaca (白兰花) — White Champaca"
+title: "Champaca (白兰花): sweet, floral, fruity"
 entity: champaca
 chinese: 白兰花
 pinyin: báilánhuā

@@ -1,6 +1,6 @@
 ---
 slug: "qinan-buying-authentication"
-title: "Authenticating 奇楠 (Qinan): How to Verify the Top Grade"
+title: "How to Verify 奇楠 (Qinan) Before You Buy"
 primary_keyword: "how to authenticate qinan agarwood"
 search_intent: "informational"
 pillar: "P10 — Incense Craft & Materials"

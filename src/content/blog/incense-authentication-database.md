@@ -1,6 +1,6 @@
 ---
 slug: "incense-authentication-database"
-title: "Incense Authentication: Fake Agarwood & Resin"
+title: "Spotting Fake Agarwood and Resin: An Authentication Guide"
 primary_keyword: "how to tell real agarwood fake"
 search_intent: "informational"
 pillar: "P10 — Incense Craft & Materials"

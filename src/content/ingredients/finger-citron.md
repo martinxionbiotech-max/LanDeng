@@ -1,5 +1,5 @@
 ---
-title: "Finger Citron (佛手)"
+title: "Finger Citron (佛手): citrus, floral, sweet"
 entity: finger-citron
 chinese: 佛手
 pinyin: fóshǒu

@@ -1,6 +1,6 @@
 ---
 slug: "incense-gift-guide"
-title: "Incense Gift Guide: Choosing a Thoughtful Gift"
+title: "Picking an Incense Gift That Fits the Person"
 primary_keyword: "incense gift set"
 search_intent: "transactional"
 pillar: "P5 — Buying & Selection"

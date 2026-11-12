@@ -1,5 +1,5 @@
 ---
-title: "Spanish Jasmine (素馨)"
+title: "Spanish Jasmine (素馨): sweet, floral, heady"
 entity: jasmine-grandiflorum
 chinese: 素馨
 pinyin: sùxīn

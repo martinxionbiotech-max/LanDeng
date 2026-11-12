@@ -1,5 +1,5 @@
 ---
-title: "Amomum villosum (砂仁)"
+title: "Amomum villosum (砂仁): spicy, camphoraceous, warm"
 entity: amomum-villosum
 chinese: 砂仁
 pinyin: shārén

@@ -1,5 +1,5 @@
 ---
-title: "Linglingxiang (零陵香) — Sweet Herb"
+title: "Linglingxiang (零陵香): sweet, hay-like, herbaceous"
 entity: linglingxiang
 chinese: 零陵香
 pinyin: línglíngxiāng

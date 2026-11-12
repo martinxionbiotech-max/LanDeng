@@ -1,5 +1,5 @@
 ---
-title: "Katsumadai (草豆蔻) — Alpinia Seed"
+title: "Katsumadai (草豆蔻): camphoraceous, spicy, warm"
 entity: katsumadai
 chinese: 草豆蔻
 pinyin: cǎodòukòu

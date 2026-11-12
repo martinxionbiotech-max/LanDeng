@@ -1,5 +1,5 @@
 ---
-title: "Apricot Kernel (杏仁) — Fragrant Seed"
+title: "Apricot Kernel (杏仁): sweet, nutty, almondy"
 entity: apricot-kernel
 chinese: 杏仁
 pinyin: xìngrén

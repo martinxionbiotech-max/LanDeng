@@ -1,6 +1,6 @@
 ---
 slug: "aroma-molecules-and-mood"
-title: "Aroma Molecules and Mood: What Chemistry Says"
+title: "Do Aroma Molecules Really Change Your Mood?"
 primary_keyword: "aroma molecules and mood"
 search_intent: "informational"
 pillar: "P11 — Aromatherapy & Botany"

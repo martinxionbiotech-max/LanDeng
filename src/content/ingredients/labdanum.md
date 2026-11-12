@@ -1,5 +1,5 @@
 ---
-title: "Labdanum (岩蔷薇)"
+title: "Labdanum (岩蔷薇): resinous, balsamic, leathery"
 entity: labdanum
 chinese: 岩蔷薇
 pinyin: yánqiángwēi

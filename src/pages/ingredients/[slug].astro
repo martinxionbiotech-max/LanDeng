@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+import { metaDescription as buildMetaDescription, pageTitle } from '../../lib/seo';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ingredientsDataset from '../../../data/ingredients.json';
 
@@ -112,6 +113,7 @@ if (faqMatch) {
 const pageUrl = `${Astro.site?.toString() ?? 'https://incenseherbs.com'}ingredients/${ingredient.id}/`;
 const aromaText = aroma.join(', ');
 const directAnswer = `${chinese} (${pinyin}) is an ${type} from ${scientificName}, with an aroma profile of ${aromaText}.`;
+const metaDescription = buildMetaDescription(ingredient.body || directAnswer, directAnswer);
 
 const structuredData = [
   {
@@ -120,7 +122,7 @@ const structuredData = [
     '@id': `${pageUrl}#webpage`,
     name: title,
     url: pageUrl,
-    description: directAnswer,
+    description: metaDescription,
     ...(last_reviewed ? { dateModified: last_reviewed } : {}),
     isPartOf: { '@id': `${Astro.site?.toString() ?? 'https://incenseherbs.com'}#website` },
     breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
@@ -158,7 +160,7 @@ const structuredData = [
     name: title,
     alternateName: [chinese, pinyin, scientificName],
     termCode: scientificName,
-    description: directAnswer,
+    description: metaDescription,
     ...(sameAs.length > 0 ? { sameAs } : {}),
     ...(image ? { image } : {}),
     additionalProperty,
@@ -173,8 +175,8 @@ const structuredData = [
 ---
 
 <BaseLayout
-  title={`${title} — LanDeng Ingredients`}
-  description={directAnswer}
+  title={pageTitle(title, 'LanDeng')}
+  description={metaDescription}
 >
   <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 

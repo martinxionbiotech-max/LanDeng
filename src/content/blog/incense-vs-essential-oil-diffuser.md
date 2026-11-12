@@ -1,6 +1,6 @@
 ---
 slug: "incense-vs-essential-oil-diffuser"
-title: "Incense vs Essential Oil Diffuser: Smoke & Scent"
+title: "Incense or Essential Oil Diffuser? Combustion vs Vapor"
 primary_keyword: "incense vs essential oil diffuser"
 search_intent: "comparison"
 pillar: "P7 — Incense vs Alternatives"

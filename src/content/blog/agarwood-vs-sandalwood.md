@@ -1,6 +1,6 @@
 ---
 slug: "agarwood-vs-sandalwood"
-title: "Agarwood vs Sandalwood: The Two Reference Woods Compared"
+title: "Why Agarwood Needs Injury and Sandalwood Doesn't"
 primary_keyword: "agarwood vs sandalwood"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

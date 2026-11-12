@@ -1,5 +1,5 @@
 ---
-title: "Dried Ginger (干姜) — Warming Spice"
+title: "Dried Ginger (干姜): spicy, pungent, warm"
 entity: ginger
 chinese: 干姜
 pinyin: gānjiāng

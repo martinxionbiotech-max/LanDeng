@@ -1,5 +1,5 @@
 ---
-title: "Fenugreek (葫芦巴) — Sweet Spice Seed"
+title: "Fenugreek (葫芦巴): sweet, maple-like, nutty"
 entity: fenugreek
 chinese: 葫芦巴
 pinyin: húlúbā

@@ -1,6 +1,6 @@
 ---
 slug: "makko-natural-binders"
-title: "Makko & Natural Binders: The Binding Wood Powder"
+title: "What Is Makko? The Binder Behind Stick Incense"
 primary_keyword: "what is makko powder"
 search_intent: "informational"
 pillar: "P10 — Incense Craft & Materials"

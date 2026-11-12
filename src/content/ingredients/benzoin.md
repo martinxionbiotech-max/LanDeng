@@ -1,5 +1,5 @@
 ---
-title: "Benzoin (安息香) — Sweet Resin"
+title: "Benzoin (安息香): sweet, vanilla, balsamic"
 entity: benzoin
 chinese: 安息香
 pinyin: ānxīxiāng

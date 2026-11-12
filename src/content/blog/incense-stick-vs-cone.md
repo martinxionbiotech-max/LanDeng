@@ -1,6 +1,6 @@
 ---
 slug: "incense-stick-vs-cone"
-title: "Incense Stick vs Cone: Burn Time, Smoke, and When Each Fits"
+title: "Stick or Cone? How Shape Changes Burn Time and Smoke"
 primary_keyword: "incense stick vs cone"
 search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"

@@ -1,6 +1,6 @@
 ---
 slug: "resinous-aroma-family"
-title: "The Resinous Aroma Family: Deep, Sticky, Aromatic"
+title: "What Defines the Resinous Aroma Family?"
 primary_keyword: "resinous incense aroma family"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

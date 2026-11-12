@@ -1,5 +1,5 @@
 ---
-title: "Chamomile (洋甘菊) — Apple-Scented Flower"
+title: "Chamomile (洋甘菊): sweet, apple-like, floral"
 entity: chamomile
 chinese: 洋甘菊
 pinyin: yánggānjú

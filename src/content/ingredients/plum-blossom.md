@@ -1,5 +1,5 @@
 ---
-title: "Plum Blossom (梅花) — Winter Flower"
+title: "Plum Blossom (梅花): delicate, sweet, almondy"
 entity: plum-blossom
 chinese: 梅花
 pinyin: méihuā

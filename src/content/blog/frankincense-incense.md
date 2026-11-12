@@ -1,6 +1,6 @@
 ---
 slug: "frankincense-incense"
-title: "Frankincense Incense (乳香): A Focusing Resin"
+title: "Heating 乳香: Why Frankincense Clears Rather Than Soothes"
 primary_keyword: "frankincense incense"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

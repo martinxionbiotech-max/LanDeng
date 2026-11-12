@@ -1,5 +1,5 @@
 ---
-title: "Star Anise (八角) — Culinary Spice"
+title: "Star Anise (八角): sweet, licorice, warm"
 entity: star-anise
 chinese: 八角
 pinyin: bājiǎo

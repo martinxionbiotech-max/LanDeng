@@ -1,5 +1,5 @@
 ---
-title: "Agarwood (沉香) — Grades & Fakes"
+title: "Agarwood (沉香): woody, resinous, sweet"
 entity: agarwood
 chinese: 沉香
 pinyin: chénxiāng

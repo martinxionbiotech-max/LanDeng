@@ -1,6 +1,6 @@
 ---
 slug: "lotus-incense"
-title: "Lotus Incense (莲花): Purity and Lift"
+title: "Lotus Incense (莲花): Symbol, Scent and the Real Flower"
 primary_keyword: "lotus incense"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

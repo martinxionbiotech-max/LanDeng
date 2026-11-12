@@ -1,5 +1,5 @@
 ---
-title: "Rosemary (迷迭香) — Camphoraceous Herb"
+title: "Rosemary (迷迭香): herbal, camphoraceous, fresh"
 entity: rosemary
 chinese: 迷迭香
 pinyin: mídiéxiāng

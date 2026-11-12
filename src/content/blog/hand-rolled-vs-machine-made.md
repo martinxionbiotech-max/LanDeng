@@ -1,6 +1,6 @@
 ---
 slug: "hand-rolled-vs-machine-made"
-title: "Hand-Rolled vs Machine-Made Incense"
+title: "Hand-Rolled or Machine-Made Incense: Which to Pick?"
 primary_keyword: "hand rolled vs machine made incense"
 search_intent: "commercial_investigation"
 pillar: "P10 — Incense Craft & Materials"

@@ -1,5 +1,5 @@
 ---
-title: "Zelan (泽兰) — Fragrant Eupatorium Herb"
+title: "Zelan (泽兰): herbal, aromatic, fresh"
 entity: eupatorium-japonicum
 chinese: 泽兰
 pinyin: zélán

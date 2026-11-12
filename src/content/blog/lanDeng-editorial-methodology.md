@@ -1,6 +1,6 @@
 ---
 slug: "landeng-editorial-methodology"
-title: "How LanDeng Researches Chinese Incense"
+title: "Our Eight-Step Method for Researching Chinese Incense"
 primary_keyword: "chinese incense research methodology"
 search_intent: "informational"
 pillar: "Editorial & Data"

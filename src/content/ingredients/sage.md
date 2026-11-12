@@ -1,5 +1,5 @@
 ---
-title: "Sage (鼠尾草) — Savory Herb"
+title: "Sage (鼠尾草): herbal, camphoraceous, green"
 entity: sage
 chinese: 鼠尾草
 pinyin: shǔwěicǎo

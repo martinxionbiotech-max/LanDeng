@@ -1,5 +1,5 @@
 ---
-title: "Cubeb (荜澄茄) — Peppery Spice"
+title: "Cubeb (荜澄茄): spicy, peppery, woody"
 entity: cubeb
 chinese: 荜澄茄
 pinyin: bìchéngqié

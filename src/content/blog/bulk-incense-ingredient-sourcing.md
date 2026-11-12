@@ -1,6 +1,6 @@
 ---
 slug: "bulk-incense-ingredient-sourcing"
-title: "Bulk Incense Ingredient Sourcing: Buying Raw Materials"
+title: "Sourcing Incense Materials in Bulk Without Batch Drift"
 primary_keyword: "bulk incense ingredient sourcing"
 search_intent: "commercial_investigation"
 pillar: "Commercial — B2B Buying & Supply"

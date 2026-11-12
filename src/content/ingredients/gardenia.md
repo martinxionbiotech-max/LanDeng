@@ -1,5 +1,5 @@
 ---
-title: "Gardenia (栀子花) — Creamy White Floral"
+title: "Gardenia (栀子花): sweet, creamy, white-floral"
 entity: gardenia
 chinese: 栀子花
 pinyin: zhīzihuā

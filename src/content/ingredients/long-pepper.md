@@ -1,5 +1,5 @@
 ---
-title: "Long Pepper (荜茇) — Warming Spice"
+title: "Long Pepper (荜茇): spicy, pungent, warm"
 entity: long-pepper
 chinese: 荜茇
 pinyin: bìbá

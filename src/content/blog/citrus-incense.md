@@ -1,6 +1,6 @@
 ---
 slug: "citrus-incense"
-title: "Citrus Incense (柑橘): A Bright Top Note"
+title: "Why Citrus Incense Fades Fast, and How Blends Fix It"
 primary_keyword: "citrus incense"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

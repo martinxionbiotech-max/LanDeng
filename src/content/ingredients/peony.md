@@ -1,5 +1,5 @@
 ---
-title: "Peony (芍药)"
+title: "Peony (芍药): floral, rosy, sweet"
 entity: peony
 chinese: 芍药
 pinyin: sháoyào

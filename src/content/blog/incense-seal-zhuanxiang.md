@@ -1,6 +1,6 @@
 ---
 slug: "incense-seal-zhuanxiang"
-title: "香篆 (Seal Incense): Powder Pressed Into Patterns"
+title: "香篆 Seal Incense: Pressing Powder Into a Burning Pattern"
 primary_keyword: "incense seal zhuan xiang powder pattern timer"
 search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"

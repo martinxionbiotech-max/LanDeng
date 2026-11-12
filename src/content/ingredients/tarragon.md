@@ -1,5 +1,5 @@
 ---
-title: "Tarragon (龙蒿) — Anise-Like Artemisia"
+title: "Tarragon (龙蒿): herbal, anise-like, green"
 entity: tarragon
 chinese: 龙蒿
 pinyin: lónghāo

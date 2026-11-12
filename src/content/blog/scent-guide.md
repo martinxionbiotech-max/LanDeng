@@ -1,6 +1,6 @@
 ---
 slug: "scent-guide"
-title: "Incense Scent Guide: Choosing by Atmosphere"
+title: "How to Pick an Incense Scent by Atmosphere"
 primary_keyword: "incense scent guide"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

@@ -1,5 +1,5 @@
 ---
-title: "Orchid (兰花) — Cymbidium Flower"
+title: "Orchid (兰花): floral, sweet, green"
 entity: orchid
 chinese: 兰花
 pinyin: lánhuā

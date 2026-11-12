@@ -1,5 +1,5 @@
 ---
-title: "Lotus Flower (莲花)"
+title: "Lotus Flower (莲花): floral, sweet, aquatic"
 entity: lotus-flower
 chinese: 莲花
 pinyin: liánhuā

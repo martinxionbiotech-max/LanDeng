@@ -1,5 +1,5 @@
 ---
-title: "Licorice (甘草) — Sweetening Root"
+title: "Licorice (甘草): sweet, woody, earthy"
 entity: licorice
 chinese: 甘草
 pinyin: gāncǎo

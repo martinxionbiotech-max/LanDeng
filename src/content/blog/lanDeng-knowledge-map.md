@@ -1,6 +1,6 @@
 ---
 slug: "landeng-knowledge-map"
-title: "LanDeng Knowledge Map: Entities, Datasets & Policies"
+title: "Chinese Incense Knowledge Map: Entities and Datasets"
 primary_keyword: "chinese incense knowledge graph"
 search_intent: "informational"
 pillar: "Editorial & Data"

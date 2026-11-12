@@ -1,5 +1,5 @@
 ---
-title: "Tsaoko (草果) — Smoky Aromatic Fruit"
+title: "Tsaoko (草果): smoky, spicy, camphoraceous"
 entity: tsao-ko
 chinese: 草果
 pinyin: cǎoguǒ

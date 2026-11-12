@@ -1,6 +1,6 @@
 ---
 slug: "chinese-vs-indian-incense"
-title: "Chinese vs Indian Incense: 合香 and Agarbatti Compared"
+title: "合香 vs Agarbatti: How Chinese and Indian Incense Differ"
 primary_keyword: "chinese vs indian incense"
 search_intent: "informational"
 pillar: "P8 — Regional Incense Traditions"

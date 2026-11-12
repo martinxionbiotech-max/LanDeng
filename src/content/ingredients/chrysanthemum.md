@@ -1,5 +1,5 @@
 ---
-title: "Chrysanthemum (菊花) — Herbal Floral"
+title: "Chrysanthemum (菊花): floral, herbal, bittersweet"
 entity: chrysanthemum
 chinese: 菊花
 pinyin: júhuā

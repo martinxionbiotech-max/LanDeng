@@ -1,5 +1,5 @@
 ---
-title: "Violet (紫罗兰) — Powdery Flower"
+title: "Violet (紫罗兰): floral, sweet, powdery"
 entity: violet
 chinese: 紫罗兰
 pinyin: zǐluólán

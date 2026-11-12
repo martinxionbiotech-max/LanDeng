@@ -1,5 +1,5 @@
 ---
-title: "Angelica (白芷) — Aromatic Root"
+title: "Angelica (白芷): herbal, aromatic, sweet-bitter"
 entity: angelica
 chinese: 白芷
 pinyin: báizhǐ

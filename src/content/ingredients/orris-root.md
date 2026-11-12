@@ -1,5 +1,5 @@
 ---
-title: "Orris Root (鸢尾根) — Perfume Fixative"
+title: "Orris Root (鸢尾根): powdery, floral, violet"
 entity: orris-root
 chinese: 鸢尾根
 pinyin: yuānwěi gēn

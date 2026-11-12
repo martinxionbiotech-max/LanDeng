@@ -1,6 +1,6 @@
 ---
 slug: "factory-vetting-guide"
-title: "Factory Vetting Guide: Auditing a Manufacturer"
+title: "Vetting an Incense Factory: Four Layers to Verify"
 primary_keyword: "incense factory audit vetting"
 search_intent: "commercial_investigation"
 pillar: "Commercial — B2B Buying & Supply"

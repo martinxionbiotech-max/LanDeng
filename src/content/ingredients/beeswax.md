@@ -1,5 +1,5 @@
 ---
-title: "Beeswax (蜂蜡) — Wax Binder"
+title: "Beeswax (蜂蜡): waxy, honeyed, warm"
 entity: beeswax
 chinese: 蜂蜡
 pinyin: fēnglà

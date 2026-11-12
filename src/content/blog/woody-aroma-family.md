@@ -1,6 +1,6 @@
 ---
 slug: "woody-aroma-family"
-title: "The Woody Aroma Family: Incense's Wood Backbone"
+title: "What Holds the Woody Aroma Family Together"
 primary_keyword: "woody incense aroma family"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

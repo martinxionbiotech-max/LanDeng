@@ -1,5 +1,5 @@
 ---
-title: "Juniper (杜松) — Modern Aromatic Wood"
+title: "Juniper (杜松): woody, piney, resinous"
 entity: juniper
 chinese: 杜松
 pinyin: dùsōng

@@ -1,6 +1,6 @@
 ---
 slug: "incense-terminology-glossary"
-title: "Incense Terminology Glossary: Stick to Powder"
+title: "Incense Forms Glossary: Stick, Coil, Cone, Resin, Powder"
 primary_keyword: "incense terminology"
 search_intent: "informational"
 pillar: "P1 — Chinese Incense 101"

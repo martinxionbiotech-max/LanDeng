@@ -1,5 +1,5 @@
 ---
-title: "Paicao (排草) — Aromatic Herb"
+title: "Paicao (排草): herbal, sweet, hay-like"
 entity: paicao
 chinese: 排草
 pinyin: páicǎo

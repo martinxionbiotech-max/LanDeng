@@ -1,6 +1,6 @@
 ---
 slug: "incense-aroma-families"
-title: "The 10 Incense Aroma Families: A Complete Map"
+title: "Incense Aroma Families: Mapping All Ten Profiles"
 primary_keyword: "incense aroma families"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

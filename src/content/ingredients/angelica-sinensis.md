@@ -1,5 +1,5 @@
 ---
-title: "Dong Quai (当归) — Aromatic Root"
+title: "Dong Quai (当归): herbal, sweet, warm"
 entity: angelica-sinensis
 chinese: 当归
 pinyin: dāngguī

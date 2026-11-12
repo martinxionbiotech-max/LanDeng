@@ -1,5 +1,5 @@
 ---
-title: "Galbanum (白松香) — Green Balsamic Resin"
+title: "Galbanum (白松香): green, balsamic, earthy"
 entity: galbanum
 chinese: 白松香
 pinyin: báisōngxiāng

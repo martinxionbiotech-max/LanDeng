@@ -1,5 +1,5 @@
 ---
-title: "Dill (莳萝) — Aromatic Spice Herb"
+title: "Dill (莳萝): herbal, fresh, anise-like"
 entity: dill
 chinese: 莳萝
 pinyin: shíluó

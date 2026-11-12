@@ -1,5 +1,5 @@
 ---
-title: "Schisandra (五味子) — Five-Flavor Berry"
+title: "Schisandra (五味子): fruity, berry, sour"
 entity: schisandra
 chinese: 五味子
 pinyin: wǔwèizǐ

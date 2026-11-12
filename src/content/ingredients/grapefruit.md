@@ -1,5 +1,5 @@
 ---
-title: "Grapefruit (葡萄柚)"
+title: "Grapefruit (葡萄柚): citrus, fresh, bittersweet"
 entity: grapefruit
 chinese: 葡萄柚
 pinyin: pútáoyòu

@@ -1,5 +1,5 @@
 ---
-title: "Musk (麝香) — Historical Animal Fixative"
+title: "Musk (麝香): animalic, musky, sweet"
 entity: musk
 chinese: 麝香
 pinyin: shèxiāng

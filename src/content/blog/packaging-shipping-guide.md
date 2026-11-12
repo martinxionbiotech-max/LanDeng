@@ -1,6 +1,6 @@
 ---
 slug: "packaging-shipping-guide"
-title: "Packaging & Export Guide: Packing & Shipping"
+title: "Packing Incense for Export: What Survives Freight"
 primary_keyword: "incense packaging export shipping"
 search_intent: "commercial_investigation"
 pillar: "Commercial — B2B Buying & Supply"

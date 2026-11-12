@@ -1,6 +1,6 @@
 ---
 slug: "incense-substitution-cross-reference"
-title: "Incense Substitution Cross-Reference: Label Traps"
+title: "Incense Substitutions: What One Label Term Can Hide"
 primary_keyword: "incense substitution guide"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

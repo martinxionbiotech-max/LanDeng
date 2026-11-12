@@ -1,5 +1,5 @@
 ---
-title: "Borneol Oil (龙脑油) — Aromatic Extract"
+title: "Borneol Oil (龙脑油): camphoraceous, cooling, balsamic"
 entity: borneol-oil
 chinese: 龙脑油
 pinyin: lóngnǎo yóu

@@ -1,5 +1,5 @@
 ---
-title: "Camphor (樟木) — Aromatic Laurel Wood"
+title: "Camphor (樟木): camphoraceous, cooling, woody"
 entity: camphor
 chinese: 樟木
 pinyin: zhāngmù

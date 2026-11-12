@@ -1,5 +1,5 @@
 ---
-title: "Chuanxiong (川芎) — Aromatic Root"
+title: "Chuanxiong (川芎): herbal, aromatic, spicy"
 entity: ligusticum-chuanxiong
 chinese: 川芎
 pinyin: chuānxiōng

@@ -1,5 +1,5 @@
 ---
-title: "Sandalwood (檀香) — Use vs Evidence"
+title: "Sandalwood (檀香): creamy, sweet, soft"
 entity: sandalwood
 chinese: 檀香
 pinyin: tánxiāng

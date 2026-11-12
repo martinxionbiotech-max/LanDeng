@@ -1,5 +1,5 @@
 ---
-title: "Atractylodes (苍术) — Herbal Root"
+title: "Atractylodes (苍术): herbal, woody, pungent"
 entity: atractylodes
 chinese: 苍术
 pinyin: cāngzhú

@@ -1,6 +1,6 @@
 ---
 slug: "qinan-kyara"
-title: "奇楠 (Qinan / Kyara): A Grade by Many Names"
+title: "Is 奇楠 (Qinan) the Same Grade as Kyara?"
 primary_keyword: "qinan kyara what is"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

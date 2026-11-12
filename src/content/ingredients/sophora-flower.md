@@ -1,5 +1,5 @@
 ---
-title: "Sophora Flower (槐花) — Sweet Blossom"
+title: "Sophora Flower (槐花): sweet, floral, delicate"
 entity: sophora-flower
 chinese: 槐花
 pinyin: huáihuā

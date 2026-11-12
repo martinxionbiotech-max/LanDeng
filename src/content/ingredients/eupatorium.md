@@ -1,5 +1,5 @@
 ---
-title: "Eupatorium (佩兰) — Fragrant Herb"
+title: "Eupatorium (佩兰): herbal, aromatic, sweet"
 entity: eupatorium
 chinese: 佩兰
 pinyin: pèilán

@@ -1,6 +1,6 @@
 ---
 slug: "gehuo-fenxiang-setup"
-title: "隔火焚香 (Indirect-Fire Incense): Scent, No Smoke"
+title: "Setting Up 隔火焚香 for Scent With Almost No Smoke"
 primary_keyword: "how to burn incense without smoke gehuo fenxiang"
 search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"

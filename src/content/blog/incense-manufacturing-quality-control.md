@@ -1,6 +1,6 @@
 ---
 slug: "incense-manufacturing-quality-control"
-title: "Incense Manufacturing Quality Control: What Buyers Should Check"
+title: "Quality Control in Incense Manufacturing: Buyer Checks"
 primary_keyword: "incense manufacturing quality control"
 search_intent: "commercial_investigation"
 pillar: "P10 — Incense Craft & Materials"

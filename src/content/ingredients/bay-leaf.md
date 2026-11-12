@@ -1,5 +1,5 @@
 ---
-title: "Bay Leaf (月桂叶) — Camphoraceous Herb"
+title: "Bay Leaf (月桂叶): herbal, camphoraceous, fresh"
 entity: bay-leaf
 chinese: 月桂叶
 pinyin: yuèguì yè

@@ -1,5 +1,5 @@
 ---
-title: "Magnolia Flower (辛夷) — Spicy Floral"
+title: "Magnolia Flower (辛夷): floral, spicy, green"
 entity: magnolia-flower
 chinese: 辛夷
 pinyin: xīnyí

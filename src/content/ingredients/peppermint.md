@@ -1,5 +1,5 @@
 ---
-title: "Peppermint (胡椒薄荷) — Sharp Cooling Mint"
+title: "Peppermint (胡椒薄荷): cooling, minty, sharp"
 entity: peppermint
 chinese: 胡椒薄荷
 pinyin: hújiāo bòhé

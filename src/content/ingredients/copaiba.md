@@ -1,5 +1,5 @@
 ---
-title: "Copaiba (古巴香脂) — Amazon Resin"
+title: "Copaiba (古巴香脂): woody, balsamic, resinous"
 entity: copaiba
 chinese: 古巴香脂
 pinyin: gǔbā xiāngzhī

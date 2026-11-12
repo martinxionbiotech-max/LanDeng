@@ -1,5 +1,5 @@
 ---
-title: "Osmanthus (桂花) — Sweet Floral"
+title: "Osmanthus (桂花): sweet, floral, apricot"
 entity: osmanthus
 chinese: 桂花
 pinyin: guìhuā

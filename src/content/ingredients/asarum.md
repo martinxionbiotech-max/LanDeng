@@ -1,5 +1,5 @@
 ---
-title: "Asarum (细辛) — Pungent Root"
+title: "Asarum (细辛): pungent, spicy, rooty"
 entity: asarum
 chinese: 细辛
 pinyin: xìxīn

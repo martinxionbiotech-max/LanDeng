@@ -1,5 +1,5 @@
 ---
-title: "Amber (琥珀) — Fossil Resin"
+title: "Amber (琥珀): resinous, warm, sweet"
 entity: amber
 chinese: 琥珀
 pinyin: hǔpò

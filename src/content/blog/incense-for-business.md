@@ -1,6 +1,6 @@
 ---
 slug: "incense-for-business"
-title: "Incense for Business: Buying Wholesale & OEM"
+title: "Buying Incense Wholesale: What B2B Buyers Should Ask"
 primary_keyword: "incense wholesale oem private label"
 search_intent: "commercial_investigation"
 pillar: "Commercial — B2B Buying & Supply"

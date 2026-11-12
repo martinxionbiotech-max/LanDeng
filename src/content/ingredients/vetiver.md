@@ -1,5 +1,5 @@
 ---
-title: "Vetiver (岩兰草) — Earthy Root Note"
+title: "Vetiver (岩兰草): earthy, woody, smoky"
 entity: vetiver
 chinese: 岩兰草
 pinyin: yánláncǎo

@@ -1,5 +1,5 @@
 ---
-title: "Myrrh (没药) — Bitter Resin"
+title: "Myrrh (没药): balsamic, earthy, bitter"
 entity: myrrh
 chinese: 没药
 pinyin: mòyào

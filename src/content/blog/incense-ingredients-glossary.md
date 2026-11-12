@@ -1,6 +1,6 @@
 ---
 slug: "incense-ingredients-glossary"
-title: "Incense Ingredients Glossary: Wood to Spice"
+title: "From Wood to Spice: An Incense Ingredients Glossary"
 primary_keyword: "incense ingredients glossary"
 search_intent: "informational"
 pillar: "P10 — Incense Craft & Materials"

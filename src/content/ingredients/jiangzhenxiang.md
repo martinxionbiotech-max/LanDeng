@@ -1,5 +1,5 @@
 ---
-title: "Jiangzhenxiang (降真香) — Resinous Wood"
+title: "Jiangzhenxiang (降真香): woody, sweet, resinous"
 entity: jiangzhenxiang
 chinese: 降真香
 pinyin: jiàngzhēnxiāng

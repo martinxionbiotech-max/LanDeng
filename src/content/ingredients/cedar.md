@@ -1,5 +1,5 @@
 ---
-title: "Cedar (雪松) — Woody Note"
+title: "Cedar (雪松): woody, clean, slightly sweet"
 entity: cedar
 chinese: 雪松
 pinyin: xuěsōng

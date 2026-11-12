@@ -1,6 +1,6 @@
 ---
 slug: "how-incense-is-made"
-title: "How Incense Is Made: From Raw Material to Finished Product"
+title: "From Raw Material to Finished Stick: How Incense Is Made"
 primary_keyword: "how incense is made"
 search_intent: "informational"
 pillar: "P10 — Incense Craft & Materials"

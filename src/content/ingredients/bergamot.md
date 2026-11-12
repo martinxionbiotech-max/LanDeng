@@ -1,5 +1,5 @@
 ---
-title: "Bergamot (佛手柑) — Citrus Essential Oil"
+title: "Bergamot (佛手柑): citrus, floral, fresh"
 entity: bergamot
 chinese: 佛手柑
 pinyin: fóshǒugān

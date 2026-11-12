@@ -1,5 +1,5 @@
 ---
-title: "Honey (蜂蜜) — Blending Binder"
+title: "Honey (蜂蜜): sweet, floral, warm"
 entity: honey
 chinese: 蜂蜜
 pinyin: fēngmì

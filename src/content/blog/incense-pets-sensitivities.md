@@ -1,6 +1,6 @@
 ---
 slug: "incense-pets-sensitivities"
-title: "Incense, Pets & Sensitivities: What to Watch"
+title: "Is Incense Safe Around Pets? Sensitivities to Know"
 primary_keyword: "incense pets safety"
 search_intent: "informational"
 pillar: "P6 — Care & Safety"

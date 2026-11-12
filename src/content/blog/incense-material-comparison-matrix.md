@@ -1,6 +1,6 @@
 ---
 slug: "incense-material-comparison-matrix"
-title: "Incense Material Comparison Matrix: 7 Classics"
+title: "Comparing 7 Classic Incense Materials Side by Side"
 primary_keyword: "agarwood vs sandalwood vs frankincense comparison"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

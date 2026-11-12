@@ -1,5 +1,5 @@
 ---
-title: "Ylang-Ylang (依兰) — Tropical Flower"
+title: "Ylang-Ylang (依兰): floral, sweet, creamy"
 entity: ylang-ylang
 chinese: 依兰
 pinyin: yīlán

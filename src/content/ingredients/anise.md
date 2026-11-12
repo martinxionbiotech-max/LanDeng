@@ -1,5 +1,5 @@
 ---
-title: "Anise (茴芹) — Sweet Licorice Spice"
+title: "Anise (茴芹): sweet, licorice, warm"
 entity: anise
 chinese: 茴芹
 pinyin: huíqín

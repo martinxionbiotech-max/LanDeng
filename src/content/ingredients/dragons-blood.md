@@ -1,5 +1,5 @@
 ---
-title: "Dragon's Blood (血竭) — Red Resin"
+title: "Dragon's Blood (血竭): resinous, sweet, woody"
 entity: dragons-blood
 chinese: 血竭
 pinyin: xuèjié

@@ -1,6 +1,6 @@
 ---
 slug: "wholesale-guide"
-title: "Wholesale Incense Buying Guide: Vet a Supplier"
+title: "How to Vet a Wholesale Incense Supplier"
 primary_keyword: "wholesale incense buying guide"
 search_intent: "commercial_investigation"
 pillar: "Commercial — B2B Buying & Supply"

@@ -1,6 +1,6 @@
 ---
 slug: "samples-program"
-title: "Incense Samples Program: What Samples Verify"
+title: "Requesting Incense Samples: What to Test First"
 primary_keyword: "incense sample request"
 search_intent: "commercial_investigation"
 pillar: "Commercial — B2B Buying & Supply"

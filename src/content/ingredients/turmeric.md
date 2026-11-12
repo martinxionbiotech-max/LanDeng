@@ -1,5 +1,5 @@
 ---
-title: "Turmeric (姜黄) — Earthy Rhizome"
+title: "Turmeric (姜黄): earthy, warm, spicy"
 entity: turmeric
 chinese: 姜黄
 pinyin: jiānghuáng

@@ -1,5 +1,5 @@
 ---
-title: "Mustard Seed (芥子) — Pungent Spice Seed"
+title: "Mustard Seed (芥子): pungent, sharp, spicy"
 entity: mustard
 chinese: 芥子
 pinyin: jièzǐ

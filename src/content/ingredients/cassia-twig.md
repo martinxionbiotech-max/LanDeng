@@ -1,5 +1,5 @@
 ---
-title: "Cassia Twig (桂枝) — Aromatic Branch"
+title: "Cassia Twig (桂枝): warm, spicy, sweet"
 entity: cassia-twig
 chinese: 桂枝
 pinyin: guìzhī

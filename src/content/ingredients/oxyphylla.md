@@ -1,5 +1,5 @@
 ---
-title: "Sharp-Leaf Galangal (益智仁)"
+title: "Sharp-Leaf Galangal (益智仁): spicy, warm, camphoraceous"
 entity: oxyphylla
 chinese: 益智仁
 pinyin: yìzhì rén

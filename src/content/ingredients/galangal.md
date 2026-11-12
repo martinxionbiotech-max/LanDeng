@@ -1,5 +1,5 @@
 ---
-title: "Galangal (高良姜) — Ginger Root Spice"
+title: "Galangal (高良姜): spicy, gingery, camphoraceous"
 entity: galangal
 chinese: 高良姜
 pinyin: gāoliángjiāng

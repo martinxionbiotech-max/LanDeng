@@ -1,6 +1,6 @@
 ---
 slug: "incense-for-meditation"
-title: "Incense for Meditation: Formats & Burn Times"
+title: "Which Incense Format Suits Meditation Best?"
 primary_keyword: "incense for meditation"
 search_intent: "informational"
 pillar: "P12 — Culture & Mindfulness"

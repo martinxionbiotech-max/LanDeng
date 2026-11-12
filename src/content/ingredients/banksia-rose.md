@@ -1,5 +1,5 @@
 ---
-title: "Banksia Rose (木香花)"
+title: "Banksia Rose (木香花): sweet, floral, honeyed"
 entity: banksia-rose
 chinese: 木香花
 pinyin: mùxiānghuā

@@ -1,6 +1,6 @@
 ---
 slug: "chinese-vs-japanese-incense"
-title: "Chinese vs Japanese Incense: 合香 and Kōdō Compared"
+title: "Kōdō Listens, 合香 Composes: Two Incense Arts"
 primary_keyword: "chinese vs japanese incense"
 search_intent: "informational"
 pillar: "P8 — Regional Incense Traditions"

@@ -1,6 +1,6 @@
 ---
 slug: "incense-storage-longevity"
-title: "Incense Storage & Longevity: Keeping Scent"
+title: "How Long Does Incense Last? Storage That Preserves Scent"
 primary_keyword: "incense storage longevity"
 search_intent: "informational"
 pillar: "P6 — Care & Safety"

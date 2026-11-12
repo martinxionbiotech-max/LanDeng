@@ -1,6 +1,6 @@
 ---
 slug: "incense-sticks"
-title: "Incense Sticks: The Everyday Format, Explained"
+title: "How Incense Sticks Are Made and Burned"
 primary_keyword: "incense sticks"
 search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"

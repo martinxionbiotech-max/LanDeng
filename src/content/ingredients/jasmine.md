@@ -1,5 +1,5 @@
 ---
-title: "Jasmine (茉莉花) — Sweet Floral"
+title: "Jasmine (茉莉花): sweet, floral, heady"
 entity: jasmine
 chinese: 茉莉
 pinyin: mòlì

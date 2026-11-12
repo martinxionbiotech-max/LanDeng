@@ -1,5 +1,5 @@
 ---
-title: "Honeysuckle (金银花) — Sweet Floral"
+title: "Honeysuckle (金银花): sweet, floral, honeyed"
 entity: honeysuckle
 chinese: 金银花
 pinyin: jīnyínhuā

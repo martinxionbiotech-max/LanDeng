@@ -1,5 +1,5 @@
 ---
-title: "Neroli (橙花) — Orange Blossom"
+title: "Neroli (橙花): floral, citrus, sweet"
 entity: neroli
 chinese: 橙花
 pinyin: chénghuā

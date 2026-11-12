@@ -1,5 +1,5 @@
 ---
-title: "Thyme (百里香) — Culinary Herb"
+title: "Thyme (百里香): herbal, green, spicy"
 entity: thyme
 chinese: 百里香
 pinyin: bǎilǐxiāng

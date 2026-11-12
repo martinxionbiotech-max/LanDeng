@@ -1,5 +1,5 @@
 ---
-title: "Onycha (甲香)"
+title: "Onycha (甲香): marine, briny, animalic"
 entity: onycha
 chinese: 甲香
 pinyin: jiǎxiāng

@@ -1,5 +1,5 @@
 ---
-title: "Citronella (香茅) — Lemongrass"
+title: "Citronella (香茅): citrusy, lemony, fresh"
 entity: citronella
 chinese: 香茅
 pinyin: xiāngmáo

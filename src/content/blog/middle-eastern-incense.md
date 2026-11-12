@@ -1,6 +1,6 @@
 ---
 slug: "middle-eastern-incense"
-title: "Middle Eastern Incense (Bakhoor & Oud)"
+title: "Bakhoor and Oud: How Middle Eastern Incense Works"
 primary_keyword: "middle eastern incense bakhoor oud"
 search_intent: "informational"
 pillar: "P8 — Regional Incense Traditions"

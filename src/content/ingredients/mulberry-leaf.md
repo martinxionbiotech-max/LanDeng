@@ -1,5 +1,5 @@
 ---
-title: "Mulberry Leaf (桑叶)"
+title: "Mulberry Leaf (桑叶): green, fresh, tea-like"
 entity: mulberry-leaf
 chinese: 桑叶
 pinyin: sāngyè

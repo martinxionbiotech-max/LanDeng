@@ -1,5 +1,5 @@
 ---
-title: "Orange Peel (陈皮) — Aged Peel"
+title: "Orange Peel (陈皮): citrus, bittersweet, woody"
 entity: orange-peel
 chinese: 陈皮
 pinyin: chénpí

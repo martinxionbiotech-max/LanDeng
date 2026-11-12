@@ -1,5 +1,5 @@
 ---
-title: "Frankincense (乳香) — Ritual Resin"
+title: "Frankincense (乳香): resinous, citrus, earthy"
 entity: frankincense
 chinese: 乳香
 pinyin: rǔxiāng

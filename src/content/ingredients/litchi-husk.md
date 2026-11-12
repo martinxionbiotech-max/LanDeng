@@ -1,5 +1,5 @@
 ---
-title: "Litchi Husk (荔枝壳) — Fruity Peel"
+title: "Litchi Husk (荔枝壳): fruity, sweet, floral"
 entity: litchi-husk
 chinese: 荔枝壳
 pinyin: lìzhī ké

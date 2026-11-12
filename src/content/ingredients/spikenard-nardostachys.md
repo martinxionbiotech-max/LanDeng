@@ -1,5 +1,5 @@
 ---
-title: "Spikenard (甘松) — Himalayan Root"
+title: "Spikenard (甘松): earthy, woody, sweet"
 entity: spikenard-nardostachys
 chinese: 甘松
 pinyin: gānsōng

@@ -1,5 +1,5 @@
 ---
-title: "Mint (薄荷) — Cooling Herb"
+title: "Mint (薄荷): cooling, minty, fresh"
 entity: mint
 chinese: 薄荷
 pinyin: bòhé

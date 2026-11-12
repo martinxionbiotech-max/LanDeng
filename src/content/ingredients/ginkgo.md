@@ -1,5 +1,5 @@
 ---
-title: "Ginkgo Nut (银杏) — Living-Fossil Seed"
+title: "Ginkgo Nut (银杏): nutty, sweet, mild"
 entity: ginkgo
 chinese: 银杏
 pinyin: yínxìng

@@ -1,5 +1,5 @@
 ---
-title: "Eucalyptus (桉叶) — Camphoraceous Leaf"
+title: "Eucalyptus (桉叶): camphoraceous, fresh, sharp"
 entity: eucalyptus
 chinese: 桉叶
 pinyin: ānyè

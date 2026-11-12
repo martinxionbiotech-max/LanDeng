@@ -1,5 +1,5 @@
 ---
-title: "Civet (灵猫香)"
+title: "Civet (灵猫香): animalic, musky, sweet"
 entity: civet
 chinese: 灵猫香
 pinyin: língmāoxiāng

@@ -1,6 +1,6 @@
 ---
 slug: "lotus-incense-recipe"
-title: "荷香 (Lotus Incense): The Symbol Over the Flower"
+title: "荷香 Lotus Incense: Building the Accord, Not the Flower"
 primary_keyword: "he xiang lotus incense recipe"
 search_intent: "informational"
 pillar: "P9 — Chinese Incense Recipes (香方)"

@@ -1,5 +1,5 @@
 ---
-title: "Zedoary (莪术) — Medicinal Rhizome"
+title: "Zedoary (莪术): earthy, camphoraceous, warm"
 entity: zedoary
 chinese: 莪术
 pinyin: ézhú

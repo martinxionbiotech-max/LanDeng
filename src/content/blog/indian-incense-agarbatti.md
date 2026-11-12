@@ -1,6 +1,6 @@
 ---
 slug: "indian-incense-agarbatti"
-title: "Indian Incense (Agarbatti): Two Different Grades"
+title: "Agarbatti Grades: Masala vs Dipped Indian Incense"
 primary_keyword: "indian incense agarbatti"
 search_intent: "informational"
 pillar: "P8 — Regional Incense Traditions"

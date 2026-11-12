@@ -1,5 +1,5 @@
 ---
-title: "Agastache (藿香) — Aromatic Herb"
+title: "Agastache (藿香): minty, herbal, sweet"
 entity: agastache-rugosa
 chinese: 藿香
 pinyin: huòxiāng

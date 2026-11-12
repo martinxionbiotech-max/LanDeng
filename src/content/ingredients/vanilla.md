@@ -1,5 +1,5 @@
 ---
-title: "Vanilla Bean (香草荚) — Fragrant Pod"
+title: "Vanilla Bean (香草荚): sweet, creamy, warm"
 entity: vanilla
 chinese: 香草荚
 pinyin: xiāngcǎo jiá

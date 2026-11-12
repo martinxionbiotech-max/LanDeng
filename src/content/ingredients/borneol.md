@@ -1,5 +1,5 @@
 ---
-title: "Borneol (龙脑) — Dragon Brain Aromatic"
+title: "Borneol (龙脑): camphoraceous, cooling, minty"
 entity: borneol
 chinese: 龙脑
 pinyin: lóngnǎo

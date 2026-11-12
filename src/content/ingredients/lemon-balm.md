@@ -1,5 +1,5 @@
 ---
-title: "Lemon Balm (香蜂草) — Lemony Mint Herb"
+title: "Lemon Balm (香蜂草): lemony, herbal, fresh"
 entity: lemon-balm
 chinese: 香蜂草
 pinyin: xiāngfēngcǎo

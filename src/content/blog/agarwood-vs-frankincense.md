@@ -1,6 +1,6 @@
 ---
 slug: "agarwood-vs-frankincense"
-title: "Agarwood vs Frankincense: Wood and Resin Compared"
+title: "Agarwood vs Frankincense: Wounded Wood, Tapped Resin"
 primary_keyword: "agarwood vs frankincense"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

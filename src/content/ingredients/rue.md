@@ -1,5 +1,5 @@
 ---
-title: "Rue (芸香) — Bitter Aromatic Herb"
+title: "Rue (芸香): bitter, herbal, green"
 entity: rue
 chinese: 芸香
 pinyin: yúnxiāng

@@ -1,6 +1,6 @@
 ---
 slug: "four-leisure-arts"
-title: "四般闲事 (The Four Leisure Arts)"
+title: "Why 四般闲事 Put Incense Beside Tea, Painting and Flowers"
 primary_keyword: "four leisure arts siban xianshi incense tea"
 search_intent: "informational"
 pillar: "P12 — Culture & Mindfulness"

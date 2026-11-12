@@ -1,5 +1,5 @@
 ---
-title: "Bletilla (白及) — Incense Binder Root"
+title: "Bletilla (白及): neutral, slightly sweet, earthy"
 entity: bletilla
 chinese: 白及
 pinyin: báijí

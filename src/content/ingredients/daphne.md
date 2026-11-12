@@ -1,5 +1,5 @@
 ---
-title: "Daphne (瑞香) — Winter Daphne"
+title: "Daphne (瑞香): sweet, floral, spicy"
 entity: daphne
 chinese: 瑞香
 pinyin: ruìxiāng

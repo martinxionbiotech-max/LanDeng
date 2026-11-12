@@ -1,5 +1,5 @@
 ---
-title: "Elsholtzia (香薷) — Aromatic Herb"
+title: "Elsholtzia (香薷): minty, herbal, spicy"
 entity: elsholtzia
 chinese: 香薷
 pinyin: xiāngrú

@@ -1,5 +1,5 @@
 ---
-title: "Blumea Balsamifera (艾纳香)"
+title: "Blumea Balsamifera (艾纳香): camphoraceous, herbal, cooling"
 entity: blumea-balsamifera
 chinese: 艾纳香
 pinyin: àinàxiāng

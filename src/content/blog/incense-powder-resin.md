@@ -1,6 +1,6 @@
 ---
 slug: "incense-powder-resin"
-title: "Incense Powder & Resin: Smoke-Light Format"
+title: "What Are Incense Powder and Resin? Loose-Form Basics"
 primary_keyword: "incense powder resin"
 search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"

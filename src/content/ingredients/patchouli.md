@@ -1,5 +1,5 @@
 ---
-title: "Patchouli (广藿香) — Earthy Leaf"
+title: "Patchouli (广藿香): earthy, woody, balsamic"
 entity: patchouli
 chinese: 广藿香
 pinyin: guǎnghuòxiāng

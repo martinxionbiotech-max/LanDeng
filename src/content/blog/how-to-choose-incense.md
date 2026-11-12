@@ -1,6 +1,6 @@
 ---
 slug: "how-to-choose-incense"
-title: "How to Choose Incense: A Honest Buying Guide"
+title: "What to Look For When Choosing Incense"
 primary_keyword: "how to choose incense"
 search_intent: "commercial_investigation"
 pillar: "P5 — Buying & Selection"

@@ -1,6 +1,6 @@
 ---
 slug: "incense-in-daily-ritual"
-title: "Incense in Daily Ritual: Scent as a Time Marker"
+title: "Using Incense to Mark Time in Daily Ritual"
 primary_keyword: "incense daily ritual"
 search_intent: "informational"
 pillar: "P12 — Culture & Mindfulness"

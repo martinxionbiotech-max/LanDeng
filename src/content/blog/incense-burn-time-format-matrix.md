@@ -1,6 +1,6 @@
 ---
 slug: "incense-burn-time-format-matrix"
-title: "Incense Burn Time Format Matrix: Stick to Powder"
+title: "How Long Does Each Incense Format Burn?"
 primary_keyword: "incense burn time format"
 search_intent: "commercial_investigation"
 pillar: "P4 — Product Formats & Tools"

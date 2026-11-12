@@ -1,6 +1,6 @@
 ---
 slug: "scent-wheel"
-title: "The Incense Scent Wheel: Atmosphere to Scenario"
+title: "Using the Incense Scent Wheel to Match a Moment"
 primary_keyword: "incense scent wheel"
 search_intent: "commercial_investigation"
 pillar: "P2 — Scent & Ingredient Guide"

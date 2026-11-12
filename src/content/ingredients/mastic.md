@@ -1,5 +1,5 @@
 ---
-title: "Mastic (玛蹄脂) — Fresh Piney Resin"
+title: "Mastic (玛蹄脂): resinous, piney, fresh"
 entity: mastic
 chinese: 玛蹄脂
 pinyin: mǎtízhī

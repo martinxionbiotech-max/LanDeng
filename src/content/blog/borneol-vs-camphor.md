@@ -1,6 +1,6 @@
 ---
 slug: "borneol-vs-camphor"
-title: "Borneol vs Camphor: Two Cooling Crystals, Different Plants"
+title: "Borneol vs Camphor: Telling Two Cool Crystals Apart"
 primary_keyword: "borneol vs camphor"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

@@ -1,6 +1,6 @@
 ---
 slug: "xiangpu-incense-manuals"
-title: "香谱 Incense Manuals: Complete, Rarely Translated"
+title: "What 香谱 (Xiangpu) Manuals Record and Why"
 primary_keyword: "xiangpu chinese incense manuals"
 search_intent: "informational"
 pillar: "P1 — Chinese Incense 101"

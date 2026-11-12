@@ -1,5 +1,5 @@
 ---
-title: "Red Sandalwood (紫檀) — Crimson Dye Wood"
+title: "Red Sandalwood (紫檀): woody, sweet, rosy"
 entity: red-sandalwood
 chinese: 紫檀
 pinyin: zǐtán

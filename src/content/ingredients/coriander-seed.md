@@ -1,5 +1,5 @@
 ---
-title: "Coriander Seed (芫荽籽) — Citrus Spice"
+title: "Coriander Seed (芫荽籽): citrus, woody, spicy"
 entity: coriander-seed
 chinese: 芫荽籽
 pinyin: yánsuī zǐ

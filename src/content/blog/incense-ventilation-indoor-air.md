@@ -1,6 +1,6 @@
 ---
 slug: "incense-ventilation-indoor-air"
-title: "Incense, Ventilation & Indoor Air"
+title: "Does Ventilation Clear Incense Smoke? Indoor Air Basics"
 primary_keyword: "incense ventilation indoor air"
 search_intent: "informational"
 pillar: "P6 — Care & Safety"

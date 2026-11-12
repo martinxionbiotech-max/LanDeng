@@ -1,5 +1,5 @@
 ---
-title: "Citron (香橼) — Aromatic Citrus Fruit"
+title: "Citron (香橼): citrus, floral, sweet"
 entity: citron
 chinese: 香橼
 pinyin: xiāngyuán

@@ -1,6 +1,6 @@
 ---
 slug: "jiangnan-lizhu-bedchamber-recipe"
-title: "江南李主帐中香 (Jiangnan Lord's Bedchamber Incense)"
+title: "江南李主帐中香: Reconstructing a Southern Tang Recipe"
 primary_keyword: "jiangnan li zhu zhang zhong xiang recipe"
 search_intent: "informational"
 pillar: "P9 — Chinese Incense Recipes (香方)"

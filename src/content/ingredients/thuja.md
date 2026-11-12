@@ -1,5 +1,5 @@
 ---
-title: "Thuja (崖柏) — Fragrant Endemic Conifer"
+title: "Thuja (崖柏): woody, cedar-like, resinous"
 entity: thuja
 chinese: 崖柏
 pinyin: yábǎi

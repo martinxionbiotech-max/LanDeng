@@ -1,5 +1,5 @@
 ---
-title: "Cardamom (白豆蔻) — White Cardamom"
+title: "Cardamom (白豆蔻): camphoraceous, spicy, eucalyptus"
 entity: cardamom
 chinese: 白豆蔻
 pinyin: báidòukòu

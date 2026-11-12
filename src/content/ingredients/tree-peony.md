@@ -1,5 +1,5 @@
 ---
-title: "Tree Peony (牡丹) — Floral King"
+title: "Tree Peony (牡丹): floral, rosy, sweet"
 entity: tree-peony
 chinese: 牡丹
 pinyin: mǔdān

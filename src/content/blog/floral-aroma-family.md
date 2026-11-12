@@ -1,6 +1,6 @@
 ---
 slug: "floral-aroma-family"
-title: "The Floral Aroma Family: Blossom, Honeyed, Heady"
+title: "Rose, Jasmine, Osmanthus, Chrysanthemum: The Floral Family"
 primary_keyword: "floral incense aroma family"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

@@ -1,5 +1,5 @@
 ---
-title: "Ambergris (龙涎香) — Animal Fixative"
+title: "Ambergris (龙涎香): marine, sweet, earthy"
 entity: ambergris
 chinese: 龙涎香
 pinyin: lóngxiánxiāng

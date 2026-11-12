@@ -1,5 +1,5 @@
 ---
-title: "Lemon (柠檬)"
+title: "Lemon (柠檬): citrus, bright, zesty"
 entity: lemon
 chinese: 柠檬
 pinyin: níngméng

@@ -1,6 +1,6 @@
 ---
 slug: "lavender-incense"
-title: "Lavender Incense: A Western Scent"
+title: "Lavender Incense: What the Label Really Means"
 primary_keyword: "lavender incense"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

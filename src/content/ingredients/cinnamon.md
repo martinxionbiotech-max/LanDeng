@@ -1,5 +1,5 @@
 ---
-title: "Cinnamon (桂皮) — Cassia Distinction"
+title: "Cinnamon (桂皮): warm, spicy, sweet"
 entity: cinnamon
 chinese: 桂皮
 pinyin: guìpí

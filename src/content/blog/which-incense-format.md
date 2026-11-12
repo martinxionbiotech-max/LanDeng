@@ -1,6 +1,6 @@
 ---
 slug: "which-incense-format"
-title: "Which Incense Format Is Right for You?"
+title: "Sticks, Cones or Coils: Choosing an Incense Format"
 primary_keyword: "incense sticks vs cones"
 search_intent: "commercial_investigation"
 pillar: "P4 — Product Formats & Tools"

@@ -1,5 +1,5 @@
 ---
-title: "Basil (罗勒) — Herb of Lan Xiang"
+title: "Basil (罗勒): sweet, green, spicy"
 entity: basil
 chinese: 罗勒
 pinyin: luólè

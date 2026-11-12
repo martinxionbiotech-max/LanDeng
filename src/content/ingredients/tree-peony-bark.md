@@ -1,5 +1,5 @@
 ---
-title: "Tree Peony Bark (牡丹皮) — Root Bark"
+title: "Tree Peony Bark (牡丹皮): rooty, earthy, woody"
 entity: tree-peony-bark
 chinese: 牡丹皮
 pinyin: mǔdān pí

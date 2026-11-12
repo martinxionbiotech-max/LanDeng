@@ -1,5 +1,5 @@
 ---
-title: "Castoreum (海狸香)"
+title: "Castoreum (海狸香): animalic, leathery, smoky"
 entity: castoreum
 chinese: 海狸香
 pinyin: hǎilíxiāng

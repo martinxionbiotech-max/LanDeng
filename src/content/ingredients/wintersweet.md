@@ -1,5 +1,5 @@
 ---
-title: "Wintersweet (蜡梅) — Winter Floral"
+title: "Wintersweet (蜡梅): sweet, floral, honeyed"
 entity: wintersweet
 chinese: 蜡梅
 pinyin: làmèi

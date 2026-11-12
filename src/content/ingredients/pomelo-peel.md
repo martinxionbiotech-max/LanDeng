@@ -1,5 +1,5 @@
 ---
-title: "Pomelo Peel (柚皮) — Citrus Peel"
+title: "Pomelo Peel (柚皮): citrus, bittersweet, floral"
 entity: pomelo-peel
 chinese: 柚皮
 pinyin: yòupí

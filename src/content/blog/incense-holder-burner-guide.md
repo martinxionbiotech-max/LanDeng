@@ -1,6 +1,6 @@
 ---
 slug: "incense-holder-burner-guide"
-title: "Incense Holder & Burner Guide: What You Need"
+title: "Do You Need an Incense Holder, a Burner, or Both?"
 primary_keyword: "incense holder burner"
 search_intent: "informational"
 pillar: "P5 — Buying & Selection"

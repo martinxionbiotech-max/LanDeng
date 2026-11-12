@@ -1,5 +1,5 @@
 ---
-title: "Asafoetida (阿魏)"
+title: "Asafoetida (阿魏): pungent, sulfurous, savory"
 entity: asafoetida
 chinese: 阿魏
 pinyin: āwèi

@@ -1,6 +1,6 @@
 ---
 slug: "study-deep-work"
-title: "Incense for Study & Deep Work: Not a Focus Drug"
+title: "Can Incense Help You Focus During Deep Work?"
 primary_keyword: "incense for focus"
 search_intent: "informational"
 pillar: "P3 — Use Scenarios"

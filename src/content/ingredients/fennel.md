@@ -1,5 +1,5 @@
 ---
-title: "Fennel (小茴香) — Anise-Sweet Spice"
+title: "Fennel (小茴香): sweet, anise, warm"
 entity: fennel
 chinese: 小茴香
 pinyin: xiǎohuíxiāng

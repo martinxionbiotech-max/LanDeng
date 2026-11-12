@@ -1,6 +1,6 @@
 ---
 slug: "japanese-incense-kodo"
-title: "Japanese Incense & Kōdō (香道): The Art From China"
+title: "Kōdō (香道): How Japanese Incense Became an Art"
 primary_keyword: "japanese incense kodo"
 search_intent: "informational"
 pillar: "P8 — Regional Incense Traditions"

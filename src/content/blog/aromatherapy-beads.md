@@ -1,6 +1,6 @@
 ---
 slug: "aromatherapy-beads"
-title: "Aromatherapy Beads & Bracelets: Worn, Not Burned"
+title: "How Aromatherapy Beads Hold Scent Without Smoke"
 primary_keyword: "aromatherapy beads"
 search_intent: "informational"
 pillar: "P4 — Product Formats & Tools"

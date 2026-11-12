@@ -1,5 +1,5 @@
 ---
-title: "Cyperus (香附子) — Sedge Root"
+title: "Cyperus (香附子): woody, spicy, earthy"
 entity: cyperus
 chinese: 香附子
 pinyin: xiāngfùzǐ

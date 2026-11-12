@@ -1,5 +1,5 @@
 ---
-title: "Sand Ginger (山柰) — Aromatic Rhizome"
+title: "Sand Ginger (山柰): camphoraceous, spicy, earthy"
 entity: sand-ginger
 chinese: 山柰
 pinyin: shānnài

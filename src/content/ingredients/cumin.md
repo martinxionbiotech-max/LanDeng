@@ -1,5 +1,5 @@
 ---
-title: "Cumin (孜然) — Western Regions Spice"
+title: "Cumin (孜然): warm, spicy, earthy"
 entity: cumin
 chinese: 孜然
 pinyin: zīrán

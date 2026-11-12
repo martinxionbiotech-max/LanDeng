@@ -1,5 +1,5 @@
 ---
-title: "Sichuan Pepper (蜀椒) — Prickly Ash"
+title: "Sichuan Pepper (蜀椒): spicy, citrus, numbing"
 entity: prickly-ash
 chinese: 蜀椒
 pinyin: shǔjiāo

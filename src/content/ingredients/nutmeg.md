@@ -1,5 +1,5 @@
 ---
-title: "Nutmeg (肉豆蔻) — Warm Spice Seed"
+title: "Nutmeg (肉豆蔻): warm, spicy, sweet"
 entity: nutmeg
 chinese: 肉豆蔻
 pinyin: ròudòukòu

@@ -1,5 +1,5 @@
 ---
-title: "Calamus (菖蒲) — Spicy Rhizome"
+title: "Calamus (菖蒲): herbal, spicy, sweet"
 entity: calamus
 chinese: 菖蒲
 pinyin: chāngpú

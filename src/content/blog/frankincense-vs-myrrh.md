@@ -1,6 +1,6 @@
 ---
 slug: "frankincense-vs-myrrh"
-title: "Frankincense vs Myrrh: The Two Resins Compared"
+title: "Frankincense Lifts, Myrrh Grounds: Telling Resins Apart"
 primary_keyword: "frankincense vs myrrh"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

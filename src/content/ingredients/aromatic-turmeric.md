@@ -1,5 +1,5 @@
 ---
-title: "Aromatic Turmeric (郁金) — Wild Turmeric"
+title: "Aromatic Turmeric (郁金): earthy, camphoraceous, warm"
 entity: aromatic-turmeric
 chinese: 郁金
 pinyin: yùjīn
